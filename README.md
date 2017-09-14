@@ -25,7 +25,8 @@ Generate CSVs for NBA player data from both basketball-reference.com (BBR) stats
 * `npm run download-player-page`
 
 ### 5. Create season stats for each player 
-* `npm run player-season`
+* `npm run player-seasons`
+* `make player-seasons-concat`
 
 ## Notes
 * For season year: BBR uses end year, NBA uses start year

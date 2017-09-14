@@ -7,9 +7,12 @@
     "all-players--bbr": "babel-node scripts/all-players--bbr.js",
     "all-players--nba": "babel-node scripts/all-players--nba.js",
     "all-players--joined": "babel-node scripts/all-players--joined.js",
-    "download-player-page": "babel-node scripts/download-player-page.js"
+    "download-player-page": "babel-node scripts/download-player-page.js",
+    "player-seasons": "babel-node scripts/player-seasons.js"
   },
-  "keywords": [""],
+  "keywords": [
+    ""
+  ],
   "author": "Russell Goldenberg",
   "license": "",
   "dependencies": {
