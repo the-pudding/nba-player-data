@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "all-players--bbr": "babel-node all-players--bbr.js",
-    "all-players--nba": "babel-node all-players--nba.js",
-    "all-players--joined": "babel-node all-players--joined.js",
-    "download-player-page": "babel-node download-player-page.js"
+    "all-players--bbr": "babel-node scripts/all-players--bbr.js",
+    "all-players--nba": "babel-node scripts/all-players--nba.js",
+    "all-players--joined": "babel-node scripts/all-players--joined.js",
+    "download-player-page": "babel-node scripts/download-player-page.js"
   },
   "keywords": [""],
   "author": "Russell Goldenberg",
