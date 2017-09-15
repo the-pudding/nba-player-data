@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-glynian01,2006-07,25,SEA,NBA,13,6.2,.471,,.471,.471,.500,0.6,0.1,0.0,0.0,1.3,-3.3,-0.2,-0.143,-12.1,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+glynian01,2006-07,25,SEA,NBA,13,6.2,.471,,.471,.471,.500,0.6,0.1,0.0,0.0,1.3,

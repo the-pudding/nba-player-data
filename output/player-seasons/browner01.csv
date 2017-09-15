@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-browner01,2001-02,22,MIA,NBA,3,7.0,.167,,.167,.167,.250,2.0,0.0,0.0,0.3,1.0,-9.7,-0.2,-0.349,-24.7,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+browner01,2001-02,22,MIA,NBA,3,7.0,.167,,.167,.167,.250,2.0,0.0,0.0,0.3,1.0,

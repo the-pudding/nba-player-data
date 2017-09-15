@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-claxtch01,1995-96,25,BOS,NBA,3,2.3,.500,,.500,.500,.000,0.7,0.0,0.0,0.3,0.7,0.2,0.0,-0.179,-11.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+claxtch01,1995-96,25,BOS,NBA,3,2.3,.500,,.500,.500,.000,0.7,0.0,0.0,0.3,0.7,

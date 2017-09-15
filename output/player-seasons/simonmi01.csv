@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-simonmi01,1998-99,23,ORL,NBA,5,3.8,.200,.000,.333,.200,,0.4,0.0,0.2,0.0,0.4,-7.2,-0.1,-0.289,-15.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+simonmi01,1998-99,23,ORL,NBA,5,3.8,.200,.000,.333,.200,,0.4,0.0,0.2,0.0,0.4,

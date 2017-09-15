@@ -2,6 +2,7 @@ import fs from 'fs';
 import * as d3 from 'd3';
 import request from 'request';
 import cheerio from 'cheerio';
+import shell from 'shelljs';
 
 // end year
 const MIN_YEAR = 1977;
@@ -43,3 +44,7 @@ function scrape() {
 }
 
 scrape();
+
+shell.exec('csvstack output/all-players/*.csv > output/all-players--bbr.csv', {
+	silent: true,
+});

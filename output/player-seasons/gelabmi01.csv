@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-gelabmi01,2006-07,23,SEA,NBA,70,17.7,.462,.234,.512,.483,.805,2.5,0.8,0.3,0.3,4.6,9.8,1.3,.050,-2.3,-0.1,
-gelabmi01,2007-08,24,SEA,NBA,39,11.9,.439,.432,.442,.490,.778,1.5,0.8,0.3,0.2,4.3,10.5,0.2,.021,-3.6,-0.2,
-gelabmi01,2008-09,25,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,,
-gelabmi01,2009-10,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-gelabmi01,2010-11,27,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-gelabmi01,2011-12,28,"Did Not Play (other pro league—Belgium, Russia)",,,,,,,,,,,,,,,,,,,
-gelabmi01,2012-13,29,MIN,NBA,36,17.9,.518,.308,.644,.576,.875,2.8,0.7,0.4,0.1,5.0,11.8,1.5,.114,-0.1,0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+gelabmi01,2006-07,23,SEA,NBA,70,17.7,.462,.234,.512,.483,.805,2.5,0.8,0.3,0.3,4.6,
+gelabmi01,2007-08,24,SEA,NBA,39,11.9,.439,.432,.442,.490,.778,1.5,0.8,0.3,0.2,4.3,
+gelabmi01,2008-09,25,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,
+gelabmi01,2009-10,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+gelabmi01,2010-11,27,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+gelabmi01,2011-12,28,"Did Not Play (other pro league—Belgium, Russia)",,,,,,,,,,,,,,
+gelabmi01,2012-13,29,MIN,NBA,36,17.9,.518,.308,.644,.576,.875,2.8,0.7,0.4,0.1,5.0,

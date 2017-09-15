@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-stroujo01,1980-81,23,HOU,NBA,9,9.8,.324,,.324,.324,.750,1.4,1.0,0.1,0.0,2.8,6.4,-0.1,-0.036,-6.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+stroujo01,1980-81,23,HOU,NBA,9,9.8,.324,,.324,.324,.750,1.4,1.0,0.1,0.0,2.8,

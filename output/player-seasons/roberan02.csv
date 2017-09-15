@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-roberan02,2005-06,22,MEM,NBA,16,5.5,.452,.500,.429,.532,1.000,0.4,0.3,0.1,0.0,2.2,11.7,0.2,.088,-5.5,-0.1,
-roberan02,2006-07,23,GSW,NBA,20,11.4,.423,.382,.469,.524,.667,1.1,0.5,0.6,0.0,5.6,11.4,0.1,.031,-4.1,-0.1,
-roberan02,2007-08,24,"Did Not Play (other pro league—Israel, Turkey)",,,,,,,,,,,,,,,,,,,
-roberan02,2008-09,25,"NYK,CHI",NBA,29,9.5,.367,.321,.462,.475,1.000,0.8,0.7,0.3,0.0,4.1,11.4,0.2,.041,-3.4,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+roberan02,2005-06,22,MEM,NBA,16,5.5,.452,.500,.429,.532,1.000,0.4,0.3,0.1,0.0,2.2,
+roberan02,2006-07,23,GSW,NBA,20,11.4,.423,.382,.469,.524,.667,1.1,0.5,0.6,0.0,5.6,
+roberan02,2007-08,24,"Did Not Play (other pro league—Israel, Turkey)",,,,,,,,,,,,,,
+roberan02,2008-09,25,"NYK,CHI",NBA,29,9.5,.367,.321,.462,.475,1.000,0.8,0.7,0.3,0.0,4.1,

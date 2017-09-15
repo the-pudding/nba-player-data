@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-bostola01,1979-80,23,WSB,NBA,13,9.6,.462,,.462,.462,.615,3.0,0.2,0.3,0.2,4.3,12.6,0.2,.075,-4.7,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+bostola01,1979-80,23,WSB,NBA,13,9.6,.462,,.462,.462,.615,3.0,0.2,0.3,0.2,4.3,

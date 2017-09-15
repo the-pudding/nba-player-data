@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-brownde03,2006-07,22,UTA,NBA,49,9.2,.327,.214,.371,.357,.649,0.8,1.7,0.4,0.1,1.9,8.6,0.2,.024,-3.7,-0.2,
-brownde03,2007-08,23,Did Not Play,,,,,,,,,,,,,,,,,,,
-brownde03,2008-09,24,"WAS,PHO",NBA,19,13.7,.367,.292,.440,.439,.600,1.5,1.9,0.5,0.0,2.4,6.6,-0.1,-0.018,-4.9,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+brownde03,2006-07,22,UTA,NBA,49,9.2,.327,.214,.371,.357,.649,0.8,1.7,0.4,0.1,1.9,
+brownde03,2007-08,23,Did Not Play,,,,,,,,,,,,,,
+brownde03,2008-09,24,"WAS,PHO",NBA,19,13.7,.367,.292,.440,.439,.600,1.5,1.9,0.5,0.0,2.4,

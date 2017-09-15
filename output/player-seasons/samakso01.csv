@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-samakso01,2000-01,22,NJN,NBA,34,6.6,.375,,.375,.375,.417,1.6,0.0,0.1,0.4,1.4,9.0,0.1,.028,-7.5,-0.3,
-samakso01,2001-02,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
-samakso01,2002-03,24,LAL,NBA,13,5.9,.417,,.417,.417,1.000,1.8,0.3,0.0,0.4,1.7,12.9,0.2,.102,-3.3,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+samakso01,2000-01,22,NJN,NBA,34,6.6,.375,,.375,.375,.417,1.6,0.0,0.1,0.4,1.4,
+samakso01,2001-02,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
+samakso01,2002-03,24,LAL,NBA,13,5.9,.417,,.417,.417,1.000,1.8,0.3,0.0,0.4,1.7,

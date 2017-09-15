@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-tarladr01,2000-01,27,CHI,NBA,43,13.9,.394,,.394,.394,.758,2.8,0.7,0.2,0.4,2.4,5.6,-0.2,-0.016,-6.3,-0.7,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+tarladr01,2000-01,27,CHI,NBA,43,13.9,.394,,.394,.394,.758,2.8,0.7,0.2,0.4,2.4,

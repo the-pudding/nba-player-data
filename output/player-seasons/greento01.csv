@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-greento01,1978-79,22,NOJ,NBA,59,13.7,.388,,.388,.388,.762,1.2,2.4,1.0,0.1,3.9,8.3,-0.3,-0.017,-5.2,-0.7,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+greento01,1978-79,22,NOJ,NBA,59,13.7,.388,,.388,.388,.762,1.2,2.4,1.0,0.1,3.9,

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-allrela01,2007-08,26,CLE,NBA,3,3.3,.250,,.250,.250,.500,0.3,0.0,0.0,0.0,1.0,-1.0,0.0,-0.125,-19.7,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+allrela01,2007-08,26,CLE,NBA,3,3.3,.250,,.250,.250,.500,0.3,0.0,0.0,0.0,1.0,

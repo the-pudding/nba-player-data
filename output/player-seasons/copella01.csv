@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-copella01,1989-90,24,PHI,NBA,23,4.8,.456,.200,.476,.463,.786,0.4,0.4,0.0,0.0,3.2,10.0,-0.2,-0.109,-11.0,-0.3,
-copella01,1990-91,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-copella01,1991-92,26,LAC,NBA,10,4.8,.304,.000,.333,.304,1.000,0.7,0.5,0.2,0.0,1.6,4.0,-0.1,-0.116,-9.9,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+copella01,1989-90,24,PHI,NBA,23,4.8,.456,.200,.476,.463,.786,0.4,0.4,0.0,0.0,3.2,
+copella01,1990-91,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
+copella01,1991-92,26,LAC,NBA,10,4.8,.304,.000,.333,.304,1.000,0.7,0.5,0.2,0.0,1.6,

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mckinca01,1989-90,25,LAC,NBA,7,14.9,.250,.000,.258,.250,.500,1.7,1.0,0.9,0.1,2.6,0.6,-0.3,-0.121,-8.1,-0.2,
-mckinca01,1990-91,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
-mckinca01,1991-92,27,NYK,NBA,2,4.5,.222,,.222,.222,,0.5,0.0,0.0,0.0,2.0,-9.0,-0.1,-0.402,-33.7,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+mckinca01,1989-90,25,LAC,NBA,7,14.9,.250,.000,.258,.250,.500,1.7,1.0,0.9,0.1,2.6,
+mckinca01,1990-91,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
+mckinca01,1991-92,27,NYK,NBA,2,4.5,.222,,.222,.222,,0.5,0.0,0.0,0.0,2.0,

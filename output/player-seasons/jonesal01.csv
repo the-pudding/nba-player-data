@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jonesal01,2001-02,23,PHI,NBA,23,5.5,.400,,.400,.400,.500,1.6,0.1,0.1,0.4,1.1,6.2,0.1,.034,-4.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+jonesal01,2001-02,23,PHI,NBA,23,5.5,.400,,.400,.400,.500,1.6,0.1,0.1,0.4,1.1,

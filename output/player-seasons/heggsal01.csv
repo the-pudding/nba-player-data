@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-heggsal01,1995-96,28,HOU,NBA,4,3.5,.600,,.600,.600,.667,0.5,0.0,0.0,0.0,2.0,20.7,0.1,.196,-8.4,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+heggsal01,1995-96,28,HOU,NBA,4,3.5,.600,,.600,.600,.667,0.5,0.0,0.0,0.0,2.0,

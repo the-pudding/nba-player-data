@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-grantpa01,1998-99,25,"MIN,MIL",NBA,6,2.2,.333,,.333,.333,,0.2,0.0,0.2,0.0,0.7,-4.6,-0.1,-0.253,-15.2,0.0,
-grantpa01,1999-00,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-grantpa01,2000-01,27,Did Not Play (other pro league—ABA),,,,,,,,,,,,,,,,,,,
-grantpa01,2001-02,28,Did Not Play,,,,,,,,,,,,,,,,,,,
-grantpa01,2002-03,29,Did Not Play (other pro league—Yugoslavia),,,,,,,,,,,,,,,,,,,
-grantpa01,2003-04,30,UTA,NBA,10,9.8,.478,,.478,.478,.375,1.7,0.3,0.1,0.1,2.5,5.1,0.0,-0.015,-6.8,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+grantpa01,1998-99,25,"MIN,MIL",NBA,6,2.2,.333,,.333,.333,,0.2,0.0,0.2,0.0,0.7,
+grantpa01,1999-00,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
+grantpa01,2000-01,27,Did Not Play (other pro league—ABA),,,,,,,,,,,,,,
+grantpa01,2001-02,28,Did Not Play,,,,,,,,,,,,,,
+grantpa01,2002-03,29,Did Not Play (other pro league—Yugoslavia),,,,,,,,,,,,,,
+grantpa01,2003-04,30,UTA,NBA,10,9.8,.478,,.478,.478,.375,1.7,0.3,0.1,0.1,2.5,

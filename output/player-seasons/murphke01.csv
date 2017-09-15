@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-murphke01,2012-13,22,UTA,NBA,17,3.1,.250,.200,.261,.268,,0.2,0.1,0.1,0.0,0.9,-4.5,-0.3,-0.272,-17.6,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+murphke01,2012-13,22,UTA,NBA,17,3.1,.250,.200,.261,.268,,0.2,0.1,0.1,0.0,0.9,

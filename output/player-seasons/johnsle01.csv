@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-johnsle01,1980-81,23,"HOU,DET",NBA,12,7.5,.280,,.280,.280,.600,1.8,0.1,0.0,0.4,1.4,0.8,-0.2,-0.095,-11.4,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+johnsle01,1980-81,23,"HOU,DET",NBA,12,7.5,.280,,.280,.280,.600,1.8,0.1,0.0,0.4,1.4,

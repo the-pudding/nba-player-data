@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-owensch01,2002-03,23,MEM,NBA,1,6.0,.667,,.667,.667,,1.0,0.0,0.0,0.0,4.0,20.1,0.0,-0.032,-10.7,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+owensch01,2002-03,23,MEM,NBA,1,6.0,.667,,.667,.667,,1.0,0.0,0.0,0.0,4.0,

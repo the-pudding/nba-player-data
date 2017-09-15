@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-freijma01,2004-05,23,NOH,NBA,23,19.2,.291,.259,.315,.346,.625,2.7,0.9,0.6,0.1,4.0,4.1,-0.5,-0.052,-5.9,-0.4,
-freijma01,2005-06,24,"Did Not Play (other pro league—CBA, Puerto Rico)",,,,,,,,,,,,,,,,,,,
-freijma01,2006-07,25,ATL,NBA,19,7.7,.296,.136,.406,.324,.833,1.3,0.4,0.2,0.1,2.1,6.1,-0.1,-0.034,-7.5,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+freijma01,2004-05,23,NOH,NBA,23,19.2,.291,.259,.315,.346,.625,2.7,0.9,0.6,0.1,4.0,
+freijma01,2005-06,24,"Did Not Play (other pro league—CBA, Puerto Rico)",,,,,,,,,,,,,,
+freijma01,2006-07,25,ATL,NBA,19,7.7,.296,.136,.406,.324,.833,1.3,0.4,0.2,0.1,2.1,

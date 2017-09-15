@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-elstoda01,1974-75,22,VIR,ABA,72,26.0,.408,.167,.415,.410,.756,2.3,2.8,1.1,0.1,8.3,9.0,-0.1,-0.003,-3.3,-0.6,
-elstoda01,1975-76,23,Did Not Play,,,,,,,,,,,,,,,,,,,
-elstoda01,1976-77,24,IND,NBA,5,8.0,.143,,.143,.143,.500,1.2,0.4,0.2,0.0,1.0,-1.6,-0.2,-0.218,-15.4,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+elstoda01,1976-77,24,IND,NBA,5,8.0,.143,,.143,.143,.500,1.2,0.4,0.2,0.0,1.0,

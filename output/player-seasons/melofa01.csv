@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-melofa01,2012-13,22,BOS,NBA,6,6.0,.500,,.500,.500,.250,0.5,0.0,0.3,0.3,1.2,4.9,0.0,.021,-5.8,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+melofa01,2012-13,22,BOS,NBA,6,6.0,.500,,.500,.500,.250,0.5,0.0,0.3,0.3,1.2,

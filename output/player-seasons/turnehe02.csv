@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-turnehe02,1989-90,23,SAC,NBA,36,8.8,.475,.000,.487,.475,.615,1.4,0.6,0.5,0.2,4.3,14.2,0.3,.046,-3.1,-0.1,
-turnehe02,1990-91,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
-turnehe02,1991-92,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
-turnehe02,1992-93,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-turnehe02,1993-94,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,,
-turnehe02,1994-95,28,SAC,NBA,30,5.0,.404,.400,.404,.421,.571,0.9,0.2,0.3,0.0,2.3,12.6,0.1,.038,-3.9,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+turnehe02,1989-90,23,SAC,NBA,36,8.8,.475,.000,.487,.475,.615,1.4,0.6,0.5,0.2,4.3,
+turnehe02,1990-91,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
+turnehe02,1991-92,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
+turnehe02,1992-93,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+turnehe02,1993-94,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,
+turnehe02,1994-95,28,SAC,NBA,30,5.0,.404,.400,.404,.421,.571,0.9,0.2,0.3,0.0,2.3,

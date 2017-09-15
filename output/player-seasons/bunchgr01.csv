@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-bunchgr01,1978-79,22,NYK,NBA,12,8.1,.346,,.346,.346,.833,1.4,0.3,0.3,0.3,2.3,9.2,0.1,.046,-4.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+bunchgr01,1978-79,22,NYK,NBA,12,8.1,.346,,.346,.346,.833,1.4,0.3,0.3,0.3,2.3,

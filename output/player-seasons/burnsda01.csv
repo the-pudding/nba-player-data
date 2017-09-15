@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-burnsda01,1981-82,23,"NJN,DEN",NBA,9,9.7,.438,,.438,.438,.600,0.6,1.7,0.3,0.0,2.6,3.6,-0.1,-0.071,-9.4,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+burnsda01,1981-82,23,"NJN,DEN",NBA,9,9.7,.438,,.438,.438,.600,0.6,1.7,0.3,0.0,2.6,

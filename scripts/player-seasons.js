@@ -1,6 +1,9 @@
 import fs from 'fs';
 import * as d3 from 'd3';
 import cheerio from 'cheerio';
+import shell from 'shelljs';
+
+const MIN_YEAR = 1976;
 
 const USE = {
 	basic: [
@@ -21,7 +24,7 @@ const USE = {
 		'BLK',
 		'PTS',
 	],
-	advanced: ['Season', 'Tm', 'PER', 'WS', 'WS/48', 'BPM', 'VORP'],
+	advanced: ['Season', 'PER', 'WS', 'WS/48', 'BPM', 'VORP'],
 };
 
 const data = d3.csvParse(
@@ -167,9 +170,21 @@ function getSeasons(player, i) {
 	const awards = getAwardHTML($);
 	const awardStats = getAwardStats(awards);
 
+	// join all stats together
 	const joinedStats = joinStats(basicStats, advancedStats, awardStats);
-	const csv = d3.csvFormat(joinedStats);
+
+	// filter out pre merger
+	const mergerStats = joinedStats.filter(
+		d => +d.Season.split('-')[0] >= MIN_YEAR,
+	);
+
+	const csv = d3.csvFormat(mergerStats);
 	fs.writeFileSync(`./output/player-seasons/${player.bbrID}.csv`, csv);
 }
 
-data.forEach(getSeasons);
+// data.forEach(getSeasons);
+
+shell.exec(
+	'csvstack output/player-seasons/*.csv > output/player-seasons--all.csv',
+	{ silent: true },
+);

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-stivral01,1985-86,23,SEA,NBA,3,4.7,.250,,.250,.250,.250,1.0,0.3,0.0,0.0,1.0,-5.9,-0.1,-0.347,-13.4,0.0,
-stivral01,1986-87,24,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-stivral01,1987-88,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-stivral01,1988-89,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-stivral01,1989-90,27,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
-stivral01,1990-91,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-stivral01,1991-92,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
-stivral01,1992-93,30,"PHO,LAC,MIL,ATL",NBA,19,4.0,.487,.000,.514,.487,.750,1.0,0.2,0.1,0.1,2.2,13.5,0.0,.013,-8.1,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+stivral01,1985-86,23,SEA,NBA,3,4.7,.250,,.250,.250,.250,1.0,0.3,0.0,0.0,1.0,
+stivral01,1986-87,24,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+stivral01,1987-88,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+stivral01,1988-89,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+stivral01,1989-90,27,Did Not Play (other pro league—France),,,,,,,,,,,,,,
+stivral01,1990-91,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
+stivral01,1991-92,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
+stivral01,1992-93,30,"PHO,LAC,MIL,ATL",NBA,19,4.0,.487,.000,.514,.487,.750,1.0,0.2,0.1,0.1,2.2,

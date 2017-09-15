@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-sanchpe01,2000-01,23,"ATL,PHI",NBA,29,5.2,.321,.000,.333,.321,1.000,0.5,1.4,0.4,0.0,0.7,12.6,0.3,.107,-3.4,-0.1,
-sanchpe01,2001-02,24,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,,
-sanchpe01,2002-03,25,DET,NBA,9,4.1,.000,,.000,.000,,0.7,0.9,0.6,0.0,0.0,11.0,0.0,.042,1.6,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
+sanchpe01,2000-01,23,"ATL,PHI",NBA,29,5.2,.321,.000,.333,.321,1.000,0.5,1.4,0.4,0.0,0.7,
+sanchpe01,2001-02,24,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,
+sanchpe01,2002-03,25,DET,NBA,9,4.1,.000,,.000,.000,,0.7,0.9,0.6,0.0,0.0,

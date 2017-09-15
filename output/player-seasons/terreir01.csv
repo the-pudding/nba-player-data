@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-terreir01,1976-77,22,PHO,NBA,78,22.4,.508,.631,5.0,1.3,0.5,0.6,8.5,12.8,3.6,.097,-1.7,0.1,
-terreir01,1977-78,23,Did Not Play (injury),,,,,,,,,,,,,,,,
-terreir01,1978-79,24,"NOJ,POR",NBA,49,14.9,.470,.660,3.0,0.8,0.4,0.6,4.5,9.3,0.6,.037,-3.1,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Award
+terreir01,1976-77,22,PHO,NBA,78,22.4,.508,.631,5.0,1.3,0.5,0.6,8.5,
+terreir01,1977-78,23,Did Not Play (injury),,,,,,,,,,,
+terreir01,1978-79,24,"NOJ,POR",NBA,49,14.9,.470,.660,3.0,0.8,0.4,0.6,4.5,
