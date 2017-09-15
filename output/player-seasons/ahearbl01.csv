@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-ahearbl01,2007-08,23,MIA,NBA,12,14.8,.263,.294,.217,.351,.968,1.6,1.6,0.5,0.0,5.8,9.0,0.0,-0.006,-5.6,-0.2
-ahearbl01,2008-09,24,SAS,NBA,3,6.3,.333,.500,.000,.500,1.000,0.3,0.7,0.3,0.0,2.7,12.9,0.1,.149,-1.1,0.0
-ahearbl01,2009-10,25,"Did Not Play (other pro league—D-League, Italy)",,,,,,,,,,,,,,,,,,
-ahearbl01,2010-11,26,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,
-ahearbl01,2011-12,27,UTA,NBA,4,7.5,.286,.222,.400,.357,,0.5,0.3,0.0,0.0,2.5,-7.3,-0.2,-0.315,-16.3,-0.1
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+ahearbl01,2007-08,23,MIA,NBA,12,14.8,.263,.294,.217,.351,.968,1.6,1.6,0.5,0.0,5.8,9.0,0.0,-0.006,-5.6,-0.2,
+ahearbl01,2008-09,24,SAS,NBA,3,6.3,.333,.500,.000,.500,1.000,0.3,0.7,0.3,0.0,2.7,12.9,0.1,.149,-1.1,0.0,
+ahearbl01,2009-10,25,"Did Not Play (other pro league—D-League, Italy)",,,,,,,,,,,,,,,,,,,
+ahearbl01,2010-11,26,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,,
+ahearbl01,2011-12,27,UTA,NBA,4,7.5,.286,.222,.400,.357,,0.5,0.3,0.0,0.0,2.5,-7.3,-0.2,-0.315,-16.3,-0.1,

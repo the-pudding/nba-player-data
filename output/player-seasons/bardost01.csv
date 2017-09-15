@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-bardost01,1991-92,23,SAS,NBA,1,1.0,,,,,,1.0,0.0,0.0,0.0,0.0,32.3,0.0,.424,6.1,0.0
-bardost01,1992-93,24,DAL,NBA,23,7.6,.306,.167,.321,.315,.706,1.6,1.3,0.3,0.1,2.2,7.7,-0.3,-0.084,-5.9,-0.2
-bardost01,1993-94,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-bardost01,1994-95,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-bardost01,1995-96,27,DET,NBA,9,13.7,.391,.000,.474,.391,.667,2.4,1.7,0.4,0.1,2.4,8.4,0.2,.069,-2.6,0.0
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+bardost01,1991-92,23,SAS,NBA,1,1.0,,,,,,1.0,0.0,0.0,0.0,0.0,32.3,0.0,.424,6.1,0.0,
+bardost01,1992-93,24,DAL,NBA,23,7.6,.306,.167,.321,.315,.706,1.6,1.3,0.3,0.1,2.2,7.7,-0.3,-0.084,-5.9,-0.2,
+bardost01,1993-94,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+bardost01,1994-95,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+bardost01,1995-96,27,DET,NBA,9,13.7,.391,.000,.474,.391,.667,2.4,1.7,0.4,0.1,2.4,8.4,0.2,.069,-2.6,0.0,

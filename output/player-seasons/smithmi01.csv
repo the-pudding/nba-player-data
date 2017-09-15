@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-smithmi01,1989-90,24,BOS,NBA,65,9.5,.476,.071,.519,.479,.828,1.5,1.2,0.1,0.0,5.0,14.2,0.7,.055,-3.0,-0.2
-smithmi01,1990-91,25,BOS,NBA,47,8.3,.475,.250,.506,.490,.815,1.2,0.9,0.1,0.0,4.6,14.3,0.3,.042,-4.6,-0.3
-smithmi01,1991-92,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,
-smithmi01,1992-93,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-smithmi01,1993-94,28,Did Not Play,,,,,,,,,,,,,,,,,,
-smithmi01,1994-95,29,LAC,NBA,29,11.0,.470,.125,.492,.474,.867,1.9,0.7,0.2,0.1,5.3,13.3,0.3,.046,-5.6,-0.3
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+smithmi01,1989-90,24,BOS,NBA,65,9.5,.476,.071,.519,.479,.828,1.5,1.2,0.1,0.0,5.0,14.2,0.7,.055,-3.0,-0.2,
+smithmi01,1990-91,25,BOS,NBA,47,8.3,.475,.250,.506,.490,.815,1.2,0.9,0.1,0.0,4.6,14.3,0.3,.042,-4.6,-0.3,
+smithmi01,1991-92,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
+smithmi01,1992-93,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+smithmi01,1993-94,28,Did Not Play,,,,,,,,,,,,,,,,,,,
+smithmi01,1994-95,29,LAC,NBA,29,11.0,.470,.125,.492,.474,.867,1.9,0.7,0.2,0.1,5.3,13.3,0.3,.046,-5.6,-0.3,

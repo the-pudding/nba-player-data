@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-nealcr01,1988-89,24,"POR,MIA",NBA,53,9.4,.366,.294,.393,.407,.609,0.5,2.2,0.5,0.1,2.2,6.7,-0.3,-0.025,-8.4,-0.8
-nealcr01,1989-90,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-nealcr01,1990-91,26,DEN,NBA,10,12.5,.400,.333,.423,.443,.591,1.6,3.7,0.4,0.0,4.4,8.2,-0.1,-0.047,-8.1,-0.2
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+nealcr01,1988-89,24,"POR,MIA",NBA,53,9.4,.366,.294,.393,.407,.609,0.5,2.2,0.5,0.1,2.2,6.7,-0.3,-0.025,-8.4,-0.8,
+nealcr01,1989-90,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+nealcr01,1990-91,26,DEN,NBA,10,12.5,.400,.333,.423,.443,.591,1.6,3.7,0.4,0.0,4.4,8.2,-0.1,-0.047,-8.1,-0.2,

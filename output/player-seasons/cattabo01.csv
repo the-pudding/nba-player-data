@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-cattabo01,1981-82,23,UTA,NBA,49,6.9,.444,.000,.451,.444,.732,1.5,0.1,0.1,0.0,3.1,10.5,0.2,.028,-8.4,-0.5
-cattabo01,1982-83,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-cattabo01,1983-84,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-cattabo01,1984-85,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-cattabo01,1985-86,27,NJN,NBA,29,6.4,.337,.200,.346,.343,.795,1.2,0.1,0.2,0.0,3.2,9.8,0.1,.025,-8.7,-0.3
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+cattabo01,1981-82,23,UTA,NBA,49,6.9,.444,.000,.451,.444,.732,1.5,0.1,0.1,0.0,3.1,10.5,0.2,.028,-8.4,-0.5,
+cattabo01,1982-83,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+cattabo01,1983-84,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+cattabo01,1984-85,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+cattabo01,1985-86,27,NJN,NBA,29,6.4,.337,.200,.346,.343,.795,1.2,0.1,0.2,0.0,3.2,9.8,0.1,.025,-8.7,-0.3,

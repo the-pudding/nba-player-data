@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-karlco01,2007-08,24,LAL,NBA,17,4.2,.346,.308,.385,.423,.800,0.8,0.5,0.2,0.1,1.8,15.8,0.2,.106,-0.1,0.0
-karlco01,2008-09,25,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,
-karlco01,2009-10,26,"CLE,GSW",NBA,7,16.1,.344,.182,.429,.375,.667,2.6,2.1,0.4,0.1,4.0,5.1,-0.2,-0.076,-7.1,-0.1
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+karlco01,2007-08,24,LAL,NBA,17,4.2,.346,.308,.385,.423,.800,0.8,0.5,0.2,0.1,1.8,15.8,0.2,.106,-0.1,0.0,
+karlco01,2008-09,25,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,,
+karlco01,2009-10,26,"CLE,GSW",NBA,7,16.1,.344,.182,.429,.375,.667,2.6,2.1,0.4,0.1,4.0,5.1,-0.2,-0.076,-7.1,-0.1,

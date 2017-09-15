@@ -88,7 +88,7 @@ function getAwardStats(html) {
 			const award = $(el)
 				.text()
 				.trim();
-			return { Season: season, Award: award };
+			return { Season: season, Award: award || '' };
 		})
 		.get();
 
@@ -120,6 +120,7 @@ function joinStats(basic, advanced, award) {
 		return {
 			...b,
 			...advancedMatch,
+			Award: '',
 			...awardMatch,
 		};
 	});

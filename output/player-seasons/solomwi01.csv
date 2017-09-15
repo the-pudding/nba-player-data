@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-solomwi01,2001-02,23,MEM,NBA,62,14.1,.341,.284,.396,.411,.671,1.1,1.5,0.6,0.1,5.2,8.8,-0.5,-0.027,-5.3,-0.7
-solomwi01,2002-03,24,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,
-solomwi01,2003-04,25,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,
-solomwi01,2004-05,26,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,
-solomwi01,2005-06,27,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,
-solomwi01,2006-07,28,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,
-solomwi01,2007-08,29,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,
-solomwi01,2008-09,30,"TOR,SAC",NBA,53,13.4,.429,.326,.484,.486,.735,1.2,2.5,0.5,0.1,5.0,12.5,0.5,.033,-4.0,-0.4
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+solomwi01,2001-02,23,MEM,NBA,62,14.1,.341,.284,.396,.411,.671,1.1,1.5,0.6,0.1,5.2,8.8,-0.5,-0.027,-5.3,-0.7,
+solomwi01,2002-03,24,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,,
+solomwi01,2003-04,25,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,,
+solomwi01,2004-05,26,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,,
+solomwi01,2005-06,27,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,,
+solomwi01,2006-07,28,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,,
+solomwi01,2007-08,29,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,,
+solomwi01,2008-09,30,"TOR,SAC",NBA,53,13.4,.429,.326,.484,.486,.735,1.2,2.5,0.5,0.1,5.0,12.5,0.5,.033,-4.0,-0.4,

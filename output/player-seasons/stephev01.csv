@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-stephev01,1988-89,22,IND,NBA,35,6.0,.319,.200,.339,.333,.773,0.7,1.1,0.3,0.1,1.9,6.4,-0.4,-0.103,-7.3,-0.3
-stephev01,1989-90,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-stephev01,1990-91,24,MIL,NBA,3,2.0,.667,,.667,.667,1.000,0.0,0.7,0.0,0.0,2.0,44.3,0.1,.618,0.1,0.0
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+stephev01,1988-89,22,IND,NBA,35,6.0,.319,.200,.339,.333,.773,0.7,1.1,0.3,0.1,1.9,6.4,-0.4,-0.103,-7.3,-0.3,
+stephev01,1989-90,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+stephev01,1990-91,24,MIL,NBA,3,2.0,.667,,.667,.667,1.000,0.0,0.7,0.0,0.0,2.0,44.3,0.1,.618,0.1,0.0,

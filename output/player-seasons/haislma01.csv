@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-haislma01,2002-03,22,MIL,NBA,39,11.3,.431,.250,.447,.441,.684,1.4,0.2,0.2,0.5,4.1,9.6,0.0,-0.003,-7.2,-0.6
-haislma01,2003-04,23,MIL,NBA,31,8.5,.486,.500,.486,.493,.714,1.7,0.1,0.2,0.4,3.0,14.6,0.6,.113,-2.4,0.0
-haislma01,2004-05,24,IND,NBA,9,11.8,.342,.000,.351,.342,.545,1.7,0.3,0.2,0.2,3.6,4.0,-0.2,-0.081,-9.9,-0.2
-haislma01,2005-06,25,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,
-haislma01,2006-07,26,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,
-haislma01,2007-08,27,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,
-haislma01,2008-09,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,
-haislma01,2009-10,29,SAS,NBA,10,4.4,.476,.600,.438,.548,.400,1.0,0.0,0.0,0.2,2.5,15.4,0.1,.065,-10.5,-0.1
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+haislma01,2002-03,22,MIL,NBA,39,11.3,.431,.250,.447,.441,.684,1.4,0.2,0.2,0.5,4.1,9.6,0.0,-0.003,-7.2,-0.6,
+haislma01,2003-04,23,MIL,NBA,31,8.5,.486,.500,.486,.493,.714,1.7,0.1,0.2,0.4,3.0,14.6,0.6,.113,-2.4,0.0,
+haislma01,2004-05,24,IND,NBA,9,11.8,.342,.000,.351,.342,.545,1.7,0.3,0.2,0.2,3.6,4.0,-0.2,-0.081,-9.9,-0.2,
+haislma01,2005-06,25,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,,
+haislma01,2006-07,26,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,,
+haislma01,2007-08,27,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+haislma01,2008-09,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+haislma01,2009-10,29,SAS,NBA,10,4.4,.476,.600,.438,.548,.400,1.0,0.0,0.0,0.2,2.5,15.4,0.1,.065,-10.5,-0.1,

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-mccasam01,1996-97,23,ORL,NBA,17,6.4,.313,.000,.333,.313,.667,1.3,0.4,0.2,0.3,1.6,6.1,-0.2,-0.086,-8.5,-0.2
-mccasam01,1997-98,24,"Did Not Play (other pro league—CBA, Spain)",,,,,,,,,,,,,,,,,,
-mccasam01,1998-99,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,
-mccasam01,1999-00,26,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,
-mccasam01,2000-01,27,"Did Not Play (other pro league—Spain, Venezuela)",,,,,,,,,,,,,,,,,,
-mccasam01,2001-02,28,SAS,NBA,27,5.7,.408,,.408,.408,.462,1.3,0.1,0.2,0.4,1.9,10.2,0.0,.010,-4.8,-0.1
-mccasam01,2002-03,29,ATL,NBA,11,6.4,.235,,.235,.235,.750,2.0,0.5,0.3,0.1,1.0,7.3,0.0,.015,-4.5,0.0
-mccasam01,2003-04,30,PHI,NBA,59,10.8,.402,.000,.405,.402,.704,2.3,0.3,0.2,0.3,1.9,7.3,0.6,.047,-3.6,-0.3
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+mccasam01,1996-97,23,ORL,NBA,17,6.4,.313,.000,.333,.313,.667,1.3,0.4,0.2,0.3,1.6,6.1,-0.2,-0.086,-8.5,-0.2,
+mccasam01,1997-98,24,"Did Not Play (other pro league—CBA, Spain)",,,,,,,,,,,,,,,,,,,
+mccasam01,1998-99,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,,
+mccasam01,1999-00,26,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+mccasam01,2000-01,27,"Did Not Play (other pro league—Spain, Venezuela)",,,,,,,,,,,,,,,,,,,
+mccasam01,2001-02,28,SAS,NBA,27,5.7,.408,,.408,.408,.462,1.3,0.1,0.2,0.4,1.9,10.2,0.0,.010,-4.8,-0.1,
+mccasam01,2002-03,29,ATL,NBA,11,6.4,.235,,.235,.235,.750,2.0,0.5,0.3,0.1,1.0,7.3,0.0,.015,-4.5,0.0,
+mccasam01,2003-04,30,PHI,NBA,59,10.8,.402,.000,.405,.402,.704,2.3,0.3,0.2,0.3,1.9,7.3,0.6,.047,-3.6,-0.3,

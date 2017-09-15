@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-marblro01,1989-90,23,ATL,NBA,24,6.8,.276,.000,.286,.276,.655,1.0,0.5,0.3,0.0,2.1,5.5,-0.3,-0.089,-7.1,-0.2
-marblro01,1990-91,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-marblro01,1991-92,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-marblro01,1992-93,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,
-marblro01,1993-94,27,DEN,NBA,5,6.4,.167,,.167,.167,.000,1.6,0.2,0.0,0.4,0.8,-3.5,-0.2,-0.285,-15.7,-0.1
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+marblro01,1989-90,23,ATL,NBA,24,6.8,.276,.000,.286,.276,.655,1.0,0.5,0.3,0.0,2.1,5.5,-0.3,-0.089,-7.1,-0.2,
+marblro01,1990-91,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+marblro01,1991-92,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+marblro01,1992-93,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+marblro01,1993-94,27,DEN,NBA,5,6.4,.167,,.167,.167,.000,1.6,0.2,0.0,0.4,0.8,-3.5,-0.2,-0.285,-15.7,-0.1,

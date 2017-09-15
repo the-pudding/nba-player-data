@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-gudmupe01,1981-82,23,POR,NBA,68,12.4,.500,1.000,.497,.503,.684,2.7,0.9,0.2,0.4,3.2,7.9,0.6,.032,-3.2,-0.3
-gudmupe01,1982-83,24,Did Not Play (other pro league—Iceland),,,,,,,,,,,,,,,,,,
-gudmupe01,1983-84,25,Did Not Play (other pro league—Iceland),,,,,,,,,,,,,,,,,,
-gudmupe01,1984-85,26,Did Not Play (other pro league—United Kingdom),,,,,,,,,,,,,,,,,,
-gudmupe01,1985-86,27,LAL,NBA,8,16.0,.541,,.541,.541,.667,4.8,0.4,0.4,0.5,7.3,13.9,0.3,.130,-2.0,0.0
-gudmupe01,1986-87,28,Did Not Play,,,,,,,,,,,,,,,,,,
-gudmupe01,1987-88,29,SAS,NBA,69,14.7,.496,.000,.498,.496,.807,4.7,1.2,0.3,0.9,5.7,12.9,1.4,.064,-2.1,0.0
-gudmupe01,1988-89,30,SAS,NBA,5,14.0,.360,,.360,.360,.750,3.2,1.0,0.2,0.2,4.2,2.7,-0.1,-0.090,-9.6,-0.1
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+gudmupe01,1981-82,23,POR,NBA,68,12.4,.500,1.000,.497,.503,.684,2.7,0.9,0.2,0.4,3.2,7.9,0.6,.032,-3.2,-0.3,
+gudmupe01,1982-83,24,Did Not Play (other pro league—Iceland),,,,,,,,,,,,,,,,,,,
+gudmupe01,1983-84,25,Did Not Play (other pro league—Iceland),,,,,,,,,,,,,,,,,,,
+gudmupe01,1984-85,26,Did Not Play (other pro league—United Kingdom),,,,,,,,,,,,,,,,,,,
+gudmupe01,1985-86,27,LAL,NBA,8,16.0,.541,,.541,.541,.667,4.8,0.4,0.4,0.5,7.3,13.9,0.3,.130,-2.0,0.0,
+gudmupe01,1986-87,28,Did Not Play,,,,,,,,,,,,,,,,,,,
+gudmupe01,1987-88,29,SAS,NBA,69,14.7,.496,.000,.498,.496,.807,4.7,1.2,0.3,0.9,5.7,12.9,1.4,.064,-2.1,0.0,
+gudmupe01,1988-89,30,SAS,NBA,5,14.0,.360,,.360,.360,.750,3.2,1.0,0.2,0.2,4.2,2.7,-0.1,-0.090,-9.6,-0.1,

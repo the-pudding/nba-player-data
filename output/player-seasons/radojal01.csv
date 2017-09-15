@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-radojal01,1999-00,23,TOR,NBA,3,8.0,.286,,.286,.286,.500,2.7,0.3,0.7,0.3,2.3,2.4,-0.1,-0.202,-11.5,-0.1
-radojal01,2000-01,24,Did Not Play,,,,,,,,,,,,,,,,,,
-radojal01,2001-02,25,"Did Not Play (other pro league—Slovenia, Italy)",,,,,,,,,,,,,,,,,,
-radojal01,2002-03,26,Did Not Play (other pro league—Germany),,,,,,,,,,,,,,,,,,
-radojal01,2003-04,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,
-radojal01,2004-05,28,UTA,NBA,12,10.7,.316,,.316,.316,.700,2.3,0.5,0.0,0.2,1.6,-1.5,-0.3,-0.117,-9.0,-0.2
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+radojal01,1999-00,23,TOR,NBA,3,8.0,.286,,.286,.286,.500,2.7,0.3,0.7,0.3,2.3,2.4,-0.1,-0.202,-11.5,-0.1,
+radojal01,2000-01,24,Did Not Play,,,,,,,,,,,,,,,,,,,
+radojal01,2001-02,25,"Did Not Play (other pro league—Slovenia, Italy)",,,,,,,,,,,,,,,,,,,
+radojal01,2002-03,26,Did Not Play (other pro league—Germany),,,,,,,,,,,,,,,,,,,
+radojal01,2003-04,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,,
+radojal01,2004-05,28,UTA,NBA,12,10.7,.316,,.316,.316,.700,2.3,0.5,0.0,0.2,1.6,-1.5,-0.3,-0.117,-9.0,-0.2,
