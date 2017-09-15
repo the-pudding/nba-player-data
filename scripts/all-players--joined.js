@@ -40,7 +40,7 @@ function getNBAInfo(datum) {
 	return { first, last, nbaID };
 }
 
-const output = dataBBR.map(d => {
+const output = dataBBR.map((d, i) => {
 	const tempID = d.link.replace('/players/', '').replace('.html', '');
 	const bbrID = tempID.split('/')[1];
 	const nbaMatch = getNBAMatch(d);

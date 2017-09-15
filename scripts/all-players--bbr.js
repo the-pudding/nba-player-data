@@ -28,7 +28,7 @@ function scrape() {
 	const letter = ALPHABET[index];
 	const url = `${base}/${letter}/`;
 	const players = [];
-	console.log(`downloading players with letter ${letter}`);
+	console.log(d3.format('.1%')(index / ALPHABET.length));
 	request(url, (err, response, body) => {
 		const $ = cheerio.load(body);
 		$('#all_players tbody tr').each((i, el) => {
@@ -39,7 +39,6 @@ function scrape() {
 		fs.writeFileSync(`./output/all-players/${letter}.csv`, output);
 		index++;
 		if (index < ALPHABET.length) scrape();
-		else console.log('done');
 	});
 }
 

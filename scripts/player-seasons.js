@@ -149,7 +149,7 @@ function joinStats(basic, advanced, award) {
 }
 
 function getSeasons(player, i) {
-	console.log(i);
+	console.log(d3.format('.1%')(i / data.length));
 	const file = fs.readFileSync(
 		`./output/player-pages/${player.bbrID}.html`,
 		'utf-8',

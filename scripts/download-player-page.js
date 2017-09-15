@@ -10,7 +10,7 @@ const data = d3.csvParse(
 
 const base = 'https://www.basketball-reference.com';
 data.forEach((d, i) => {
-	console.log(`${i} of ${data.length}`);
+	console.log(d3.format('.1%')(i / data.length));
 	const url = `${base}${d.link}`;
 	shell.exec(`cd output/player-pages/; curl -O ${url}`, { silent: true });
 });
