@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-crosbte01,1979-80,23,KCK,NBA,4,7.0,.500,,.500,.500,1.000,0.3,1.8,0.0,0.0,1.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+crosbte01,1979-80,23,KCK,NBA,4,7.0,.500,,.500,.500,1.000,0.3,1.8,0.0,0.0,1.5,3.5,0.0,-0.051,-13.3,-0.1,

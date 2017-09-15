@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-johnsja02,2011-12,22,BOS,NBA,36,8.3,.446,,.446,.446,.667,1.6,0.2,0.1,0.4,3.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+johnsja02,2011-12,22,BOS,NBA,36,8.3,.446,,.446,.446,.667,1.6,0.2,0.1,0.4,3.2,11.4,0.2,.032,-6.3,-0.3,

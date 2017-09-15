@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-houseda01,2016-17,23,WAS,NBA,1,1.0,,,,,,1.0,0.0,0.0,0.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+houseda01,2016-17,23,WAS,NBA,1,1.0,,,,,,1.0,0.0,0.0,0.0,0.0,12.2,0.0,.163,-20.8,0.0,

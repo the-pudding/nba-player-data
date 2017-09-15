@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Award,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS
-normaco01,1976-77,23,Did Not Play,,,,,,,,,,,
-normaco01,1977-78,24,Did Not Play,,,,,,,,,,,
-normaco01,1978-79,25,SDC,,NBA,22,14.7,.430,.826,1.5,1.1,0.5,0.1,7.3
+bbrID,Season,Age,Tm,Award,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
+normaco01,1976-77,23,Did Not Play,,,,,,,,,,,,,,,,
+normaco01,1977-78,24,Did Not Play,,,,,,,,,,,,,,,,
+normaco01,1978-79,25,SDC,,NBA,22,14.7,.430,.826,1.5,1.1,0.5,0.1,7.3,11.9,0.2,.032,-5.6,-0.3

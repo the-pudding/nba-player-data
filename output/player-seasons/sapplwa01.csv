@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-sapplwa01,1984-85,24,NJN,NBA,33,9.0,.471,,.471,.471,.412,2.3,0.2,0.2,0.1,2.9,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+sapplwa01,1984-85,24,NJN,NBA,33,9.0,.471,,.471,.471,.412,2.3,0.2,0.2,0.1,2.9,7.7,0.1,.012,-6.8,-0.4,

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-cavenro01,1984-85,25,NYK,NBA,53,12.3,.326,,.326,.326,.564,3.1,0.4,0.2,0.8,1.5,
-cavenro01,1985-86,26,Did Not Play,,,,,,,,,,,,,,
-cavenro01,1986-87,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-cavenro01,1987-88,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-cavenro01,1988-89,29,NJN,NBA,5,3.2,.667,,.667,.667,.400,0.4,0.0,0.0,0.4,1.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+cavenro01,1984-85,25,NYK,NBA,53,12.3,.326,,.326,.326,.564,3.1,0.4,0.2,0.8,1.5,4.1,-0.2,-0.016,-4.4,-0.4,
+cavenro01,1985-86,26,Did Not Play,,,,,,,,,,,,,,,,,,,
+cavenro01,1986-87,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+cavenro01,1987-88,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+cavenro01,1988-89,29,NJN,NBA,5,3.2,.667,,.667,.667,.400,0.4,0.0,0.0,0.4,1.2,7.4,0.0,-0.055,-10.4,0.0,

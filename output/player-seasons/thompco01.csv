@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-thompco01,1982-83,22,DAL,NBA,44,11.8,.314,,.314,.314,.783,2.7,0.8,0.3,0.2,2.8,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+thompco01,1982-83,22,DAL,NBA,44,11.8,.314,,.314,.314,.783,2.7,0.8,0.3,0.2,2.8,6.0,-0.1,-0.010,-5.1,-0.4,

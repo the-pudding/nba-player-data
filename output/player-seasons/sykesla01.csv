@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-sykesla01,1995-96,22,BOS,NBA,1,2.0,,,,,,2.0,0.0,0.0,0.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+sykesla01,1995-96,22,BOS,NBA,1,2.0,,,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.397,-28.3,0.0,

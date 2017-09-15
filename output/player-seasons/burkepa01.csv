@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-burkepa01,2002-03,29,ORL,NBA,62,12.6,.382,.143,.388,.383,.690,2.4,0.4,0.3,0.4,4.3,
-burkepa01,2003-04,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,
-burkepa01,2004-05,31,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,
-burkepa01,2005-06,32,PHO,NBA,42,8.2,.496,.286,.508,.504,.619,1.7,0.4,0.1,0.3,3.4,
-burkepa01,2006-07,33,PHO,NBA,23,7.1,.354,.273,.395,.400,.615,2.0,0.2,0.1,0.1,2.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+burkepa01,2002-03,29,ORL,NBA,62,12.6,.382,.143,.388,.383,.690,2.4,0.4,0.3,0.4,4.3,8.3,-0.3,-0.021,-7.7,-1.1,
+burkepa01,2003-04,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+burkepa01,2004-05,31,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+burkepa01,2005-06,32,PHO,NBA,42,8.2,.496,.286,.508,.504,.619,1.7,0.4,0.1,0.3,3.4,9.9,0.1,.009,-5.9,-0.3,
+burkepa01,2006-07,33,PHO,NBA,23,7.1,.354,.273,.395,.400,.615,2.0,0.2,0.1,0.1,2.6,9.3,0.1,.015,-6.9,-0.2,

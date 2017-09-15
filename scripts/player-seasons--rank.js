@@ -39,16 +39,18 @@ function getRankedSeasons(stat) {
 
 const rankedStats = ADV_STATS.map(getRankedSeasons);
 
-data.forEach((d, index) => {
-	console.log(d3.format('.1%')(index / data.length));
-	ADV_STATS.forEach((p, i) => {
-		const match = rankedStats[i].find(
-			s => s.bbrID === d.bbrID && s.Season === d.Season,
-		);
-		const rankStat = `${p}_rank`;
-		d[rankStat] = match[rankStat];
-	});
-});
+console.log(rankedStats[0].shift());
 
-const csv = d3.csvFormat(data);
-fs.writeFileSync('./output/player-seasons--rank.csv', csv);
+// data.forEach((d, index) => {
+// 	console.log(d3.format('.1%')(index / data.length));
+// 	ADV_STATS.forEach((stat, i) => {
+// 		const match = rankedStats[i].find(
+// 			s => s.bbrID === d.bbrID && s.Season === d.Season,
+// 		);
+// 		const rankStat = `${stat}_rank`;
+// 		d[rankStat] = match[rankStat];
+// 	});
+// });
+
+// const csv = d3.csvFormat(data);
+// fs.writeFileSync('./output/player-seasons--rank.csv', csv);

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-almonmo01,2007-08,22,UTA,NBA,9,4.3,.267,.250,.273,.300,.667,0.2,0.3,0.1,0.0,1.4,
-almonmo01,2008-09,23,UTA,NBA,25,10.2,.407,.294,.438,.438,.808,1.4,0.3,0.2,0.2,3.7,
-almonmo01,2009-10,24,"Did Not Play (other pro league—D-League, Spain)",,,,,,,,,,,,,,
-almonmo01,2010-11,25,"Did Not Play (other pro league—Italy, Ukraine)",,,,,,,,,,,,,,
-almonmo01,2011-12,26,WAS,NBA,4,16.8,.353,.333,.357,.382,.333,2.0,0.5,1.8,0.0,3.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+almonmo01,2007-08,22,UTA,NBA,9,4.3,.267,.250,.273,.300,.667,0.2,0.3,0.1,0.0,1.4,2.0,-0.1,-0.081,-11.0,-0.1,
+almonmo01,2008-09,23,UTA,NBA,25,10.2,.407,.294,.438,.438,.808,1.4,0.3,0.2,0.2,3.7,7.3,0.1,.010,-6.8,-0.3,
+almonmo01,2009-10,24,"Did Not Play (other pro league—D-League, Spain)",,,,,,,,,,,,,,,,,,,
+almonmo01,2010-11,25,"Did Not Play (other pro league—Italy, Ukraine)",,,,,,,,,,,,,,,,,,,
+almonmo01,2011-12,26,WAS,NBA,4,16.8,.353,.333,.357,.382,.333,2.0,0.5,1.8,0.0,3.5,8.7,0.0,.032,-2.0,0.0,

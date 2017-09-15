@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Award
-riordmi01,1976-77,31,WSB,NBA,49,5.9,.362,.733,0.6,0.4,0.1,0.0,1.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+riordmi01,1976-77,31,WSB,NBA,49,5.9,.362,.733,0.6,0.4,0.1,0.0,1.6,5.6,-0.1,-0.024,-8.4,-0.5,

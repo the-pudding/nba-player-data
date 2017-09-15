@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-mccrasc01,1983-84,23,SEA,NBA,47,11.1,.388,,.388,.388,.700,2.4,0.9,0.2,0.4,2.7,
-mccrasc01,1984-85,24,SEA,NBA,6,15.5,.600,,.600,.600,.750,2.8,1.2,0.2,0.5,2.5,
-mccrasc01,1985-86,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,
-mccrasc01,1986-87,26,CLE,NBA,24,11.6,.462,,.462,.462,.488,2.4,1.0,0.4,0.2,3.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+mccrasc01,1983-84,23,SEA,NBA,47,11.1,.388,,.388,.388,.700,2.4,0.9,0.2,0.4,2.7,8.7,0.3,.032,-2.7,-0.1,
+mccrasc01,1984-85,24,SEA,NBA,6,15.5,.600,,.600,.600,.750,2.8,1.2,0.2,0.5,2.5,4.8,0.0,-0.012,-4.6,-0.1,
+mccrasc01,1985-86,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,,
+mccrasc01,1986-87,26,CLE,NBA,24,11.6,.462,,.462,.462,.488,2.4,1.0,0.4,0.2,3.3,8.7,0.1,.018,-4.1,-0.1,

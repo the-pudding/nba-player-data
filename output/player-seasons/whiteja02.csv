@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-whiteja02,2006-07,24,SAS,NBA,6,22.8,.439,.286,.471,.463,.800,3.3,0.8,0.5,0.2,8.3,
-whiteja02,2007-08,25,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,
-whiteja02,2008-09,26,HOU,NBA,4,2.8,.600,.500,.667,.700,,0.0,0.3,0.3,0.3,1.8,
-whiteja02,2009-10,27,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,
-whiteja02,2010-11,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
-whiteja02,2011-12,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
-whiteja02,2012-13,30,NYK,NBA,57,7.6,.431,.341,.480,.491,.579,0.8,0.5,0.2,0.1,2.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+whiteja02,2006-07,24,SAS,NBA,6,22.8,.439,.286,.471,.463,.800,3.3,0.8,0.5,0.2,8.3,12.1,0.3,.108,-3.1,0.0,
+whiteja02,2007-08,25,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,,
+whiteja02,2008-09,26,HOU,NBA,4,2.8,.600,.500,.667,.700,,0.0,0.3,0.3,0.3,1.8,14.6,0.0,-0.066,-5.7,0.0,
+whiteja02,2009-10,27,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,,,,,,
+whiteja02,2010-11,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
+whiteja02,2011-12,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
+whiteja02,2012-13,30,NYK,NBA,57,7.6,.431,.341,.480,.491,.579,0.8,0.5,0.2,0.1,2.2,9.1,0.5,.051,-3.4,-0.2,

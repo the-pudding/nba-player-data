@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-scottja01,1996-97,24,MIA,NBA,8,4.0,.000,.000,.000,.000,.500,0.8,0.4,0.3,0.0,0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+scottja01,1996-97,24,MIA,NBA,8,4.0,.000,.000,.000,.000,.500,0.8,0.4,0.3,0.0,0.1,-4.1,-0.1,-0.187,-9.1,-0.1,

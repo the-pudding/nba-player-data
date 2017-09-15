@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Award
-trappge01,1976-77,28,DET,NBA,6,11.3,.517,.750,1.7,0.5,0.0,0.2,5.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+trappge01,1976-77,28,DET,NBA,6,11.3,.517,.750,1.7,0.5,0.0,0.2,5.5,11.5,0.1,.062,-5.5,-0.1,

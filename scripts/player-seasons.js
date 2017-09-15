@@ -24,7 +24,7 @@ const USE = {
 		'BLK',
 		'PTS',
 	],
-	advanced: ['Season', 'PER', 'WS', 'WS/48', 'BPM', 'VORP'],
+	advanced: ['Season', 'Tm', 'PER', 'WS', 'WS/48', 'BPM', 'VORP'],
 };
 
 const data = d3.csvParse(
@@ -182,7 +182,7 @@ function getSeasons(player, i) {
 	fs.writeFileSync(`./output/player-seasons/${player.bbrID}.csv`, csv);
 }
 
-// data.forEach(getSeasons);
+data.forEach(getSeasons);
 
 shell.exec(
 	'csvstack output/player-seasons/*.csv > output/player-seasons--all.csv',

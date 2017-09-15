@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-wrighch01,2011-12,23,GSW,NBA,24,7.8,.511,,.511,.511,.774,1.9,0.2,0.3,0.5,2.9,
-wrighch01,2012-13,24,Did Not Play,,,,,,,,,,,,,,
-wrighch01,2013-14,25,MIL,NBA,8,15.8,.600,.000,.618,.600,.400,2.5,0.6,0.9,0.6,6.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+wrighch01,2011-12,23,GSW,NBA,24,7.8,.511,,.511,.511,.774,1.9,0.2,0.3,0.5,2.9,18.6,0.6,.163,-0.6,0.1,
+wrighch01,2012-13,24,Did Not Play,,,,,,,,,,,,,,,,,,,
+wrighch01,2013-14,25,MIL,NBA,8,15.8,.600,.000,.618,.600,.400,2.5,0.6,0.9,0.6,6.0,16.5,0.3,.102,-0.2,0.1,

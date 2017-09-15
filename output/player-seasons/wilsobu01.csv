@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-wilsobu01,1979-80,24,GSW,NBA,16,8.9,.280,,.280,.280,.500,1.0,0.8,0.1,0.0,1.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+wilsobu01,1979-80,24,GSW,NBA,16,8.9,.280,,.280,.280,.500,1.0,0.8,0.1,0.0,1.1,2.1,-0.2,-0.064,-7.5,-0.2,

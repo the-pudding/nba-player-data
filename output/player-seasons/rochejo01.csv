@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Award,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS
-rochejo01,1976-77,27,Did Not Play,,,,,,,,,,,,,,
-rochejo01,1977-78,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
-rochejo01,1978-79,29,Did Not Play,,,,,,,,,,,,,,
-rochejo01,1979-80,30,DEN,,NBA,82,27.9,.478,.380,.498,.511,.866,1.4,4.9,1.0,0.1,11.4
-rochejo01,1980-81,31,DEN,,NBA,26,23.5,.458,.333,.480,.483,.753,1.4,5.4,0.7,0.3,8.9
-rochejo01,1981-82,32,DEN,,NBA,39,12.8,.453,.442,.459,.530,.737,0.6,2.3,0.4,0.1,4.8
+bbrID,Season,Age,Tm,Award,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
+rochejo01,1976-77,27,Did Not Play,,,,,,,,,,,,,,,,,,,
+rochejo01,1977-78,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
+rochejo01,1978-79,29,Did Not Play,,,,,,,,,,,,,,,,,,,
+rochejo01,1979-80,30,DEN,,NBA,82,27.9,.478,.380,.498,.511,.866,1.4,4.9,1.0,0.1,11.4,13.9,4.2,.088,-2.8,-0.5
+rochejo01,1980-81,31,DEN,,NBA,26,23.5,.458,.333,.480,.483,.753,1.4,5.4,0.7,0.3,8.9,13.1,0.8,.060,-4.0,-0.3
+rochejo01,1981-82,32,DEN,,NBA,39,12.8,.453,.442,.459,.530,.737,0.6,2.3,0.4,0.1,4.8,11.8,0.6,.061,-4.3,-0.3

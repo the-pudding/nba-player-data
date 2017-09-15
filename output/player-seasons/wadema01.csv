@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-wadema01,1987-88,22,GSW,NBA,11,11.2,.150,.000,.167,.150,.500,1.4,3.1,0.6,0.1,0.7,
-wadema01,1988-89,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-wadema01,1989-90,24,DAL,NBA,1,3.0,,,,,,0.0,2.0,0.0,0.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+wadema01,1987-88,22,GSW,NBA,11,11.2,.150,.000,.167,.150,.500,1.4,3.1,0.6,0.1,0.7,4.5,-0.3,-0.110,-8.9,-0.2,
+wadema01,1988-89,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+wadema01,1989-90,24,DAL,NBA,1,3.0,,,,,,0.0,2.0,0.0,0.0,0.0,21.3,0.0,.234,-30.6,0.0,

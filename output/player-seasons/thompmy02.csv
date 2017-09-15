@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-thompmy02,2011-12,23,CLE,NBA,5,19.0,.292,.364,.231,.375,,1.0,1.4,0.4,0.2,3.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+thompmy02,2011-12,23,CLE,NBA,5,19.0,.292,.364,.231,.375,,1.0,1.4,0.4,0.2,3.6,2.2,-0.2,-0.079,-8.3,-0.2,

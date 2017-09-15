@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-toolsan01,1990-91,25,UTA,NBA,47,10.0,.403,.375,.413,.452,.758,1.4,0.7,0.3,0.0,2.9,
-toolsan01,1991-92,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,
-toolsan01,1992-93,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-toolsan01,1993-94,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,
-toolsan01,1994-95,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,
-toolsan01,1995-96,30,UTA,NBA,13,4.1,.364,.250,.500,.432,.750,0.5,0.1,0.0,0.0,1.7,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+toolsan01,1990-91,25,UTA,NBA,47,10.0,.403,.375,.413,.452,.758,1.4,0.7,0.3,0.0,2.9,8.4,0.6,.057,-1.8,0.0,
+toolsan01,1991-92,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,,
+toolsan01,1992-93,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+toolsan01,1993-94,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+toolsan01,1994-95,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
+toolsan01,1995-96,30,UTA,NBA,13,4.1,.364,.250,.500,.432,.750,0.5,0.1,0.0,0.0,1.7,4.4,0.0,-0.003,-9.1,-0.1,

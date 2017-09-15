@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-rautian01,2010-11,24,NYK,NBA,5,4.8,.429,.250,.667,.500,.500,0.2,0.6,0.2,0.0,1.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+rautian01,2010-11,24,NYK,NBA,5,4.8,.429,.250,.667,.500,.500,0.2,0.6,0.2,0.0,1.6,-1.2,-0.2,-0.314,-16.0,-0.1,

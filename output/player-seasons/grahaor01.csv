@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-grahaor01,1988-89,23,GSW,NBA,7,3.1,.300,,.300,.300,.500,1.6,0.0,0.0,0.0,1.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+grahaor01,1988-89,23,GSW,NBA,7,3.1,.300,,.300,.300,.500,1.6,0.0,0.0,0.0,1.1,6.7,0.0,-0.047,-16.4,-0.1,

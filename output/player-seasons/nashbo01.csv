@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Award,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS
-nashbo01,1976-77,26,Did Not Play,,,,,,,,,,,,,,
-nashbo01,1977-78,27,KCK,,NBA,66,12.1,.516,,.516,.516,.725,2.6,0.7,0.4,0.3,5.5
-nashbo01,1978-79,28,KCK,,NBA,82,15.9,.435,,.435,.435,.802,2.5,0.9,0.4,0.2,6.4
+bbrID,Season,Age,Tm,Award,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
+nashbo01,1976-77,26,Did Not Play,,,,,,,,,,,,,,,,,,,
+nashbo01,1977-78,27,KCK,,NBA,66,12.1,.516,,.516,.516,.725,2.6,0.7,0.4,0.3,5.5,16.2,2.1,.123,-0.4,0.3
+nashbo01,1978-79,28,KCK,,NBA,82,15.9,.435,,.435,.435,.802,2.5,0.9,0.4,0.2,6.4,9.6,1.1,.042,-4.0,-0.7

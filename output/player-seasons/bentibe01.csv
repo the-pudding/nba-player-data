@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-bentibe01,2016-17,21,DAL,NBA,3,3.3,.000,.000,.000,.000,,0.7,0.0,0.0,0.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+bentibe01,2016-17,21,DAL,NBA,3,3.3,.000,.000,.000,.000,,0.7,0.0,0.0,0.0,0.0,-17.6,-0.1,-0.473,-26.9,-0.1,

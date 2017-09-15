@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-thomaji01,1983-84,23,IND,NBA,72,16.9,.464,.091,.474,.465,.727,2.1,1.8,0.8,0.1,6.3,
-thomaji01,1984-85,24,IND,NBA,80,25.7,.478,.190,.496,.483,.782,3.3,2.9,1.0,0.1,11.1,
-thomaji01,1985-86,25,LAC,NBA,6,11.5,.400,,.400,.400,.500,1.3,2.0,0.8,0.2,2.2,
-thomaji01,1986-87,26,Did Not Play,,,,,,,,,,,,,,
-thomaji01,1987-88,27,Did Not Play (other pro league—WBL),,,,,,,,,,,,,,
-thomaji01,1988-89,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-thomaji01,1989-90,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-thomaji01,1990-91,30,MIN,NBA,3,4.7,.250,,.250,.250,,0.0,0.3,0.3,0.0,0.7,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+thomaji01,1983-84,23,IND,NBA,72,16.9,.464,.091,.474,.465,.727,2.1,1.8,0.8,0.1,6.3,12.1,1.6,.065,-2.0,0.0,
+thomaji01,1984-85,24,IND,NBA,80,25.7,.478,.190,.496,.483,.782,3.3,2.9,1.0,0.1,11.1,13.0,3.5,.081,-1.1,0.5,
+thomaji01,1985-86,25,LAC,NBA,6,11.5,.400,,.400,.400,.500,1.3,2.0,0.8,0.2,2.2,5.3,-0.1,-0.081,-5.6,-0.1,
+thomaji01,1986-87,26,Did Not Play,,,,,,,,,,,,,,,,,,,
+thomaji01,1987-88,27,Did Not Play (other pro league—WBL),,,,,,,,,,,,,,,,,,,
+thomaji01,1988-89,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+thomaji01,1989-90,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+thomaji01,1990-91,30,MIN,NBA,3,4.7,.250,,.250,.250,,0.0,0.3,0.3,0.0,0.7,0.7,0.0,-0.167,-13.9,0.0,

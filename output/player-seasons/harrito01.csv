@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-harrito01,1990-91,23,PHI,NBA,6,6.8,.250,.000,.286,.250,.500,0.2,0.0,0.2,0.0,1.7,
-harrito01,1991-92,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-harrito01,1992-93,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,
-harrito01,1993-94,26,BOS,NBA,5,17.6,.290,.333,.273,.339,.920,2.0,1.6,0.8,0.0,8.8,
-harrito01,1994-95,27,BOS,NBA,3,6.0,.375,.000,.429,.375,.889,0.0,0.0,0.0,0.0,4.7,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+harrito01,1990-91,23,PHI,NBA,6,6.8,.250,.000,.286,.250,.500,0.2,0.0,0.2,0.0,1.7,-5.0,-0.2,-0.248,-17.4,-0.2,
+harrito01,1991-92,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+harrito01,1992-93,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
+harrito01,1993-94,26,BOS,NBA,5,17.6,.290,.333,.273,.339,.920,2.0,1.6,0.8,0.0,8.8,14.9,0.2,.106,-2.4,0.0,
+harrito01,1994-95,27,BOS,NBA,3,6.0,.375,.000,.429,.375,.889,0.0,0.0,0.0,0.0,4.7,17.6,0.1,.172,-10.4,0.0,

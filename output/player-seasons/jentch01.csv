@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-jentch01,1993-94,24,HOU,NBA,3,26.0,.500,.364,.600,.577,.500,5.0,2.3,0.0,0.0,10.3,
-jentch01,1994-95,25,"Did Not Play (other pro league—CBA, Australia)",,,,,,,,,,,,,,
-jentch01,1995-96,26,"Did Not Play (other pro league—Italy, CBA)",,,,,,,,,,,,,,
-jentch01,1996-97,27,NYK,NBA,3,3.3,.333,.667,.000,.500,,0.3,0.3,0.0,0.0,2.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+jentch01,1993-94,24,HOU,NBA,3,26.0,.500,.364,.600,.577,.500,5.0,2.3,0.0,0.0,10.3,11.0,0.2,.100,-2.1,0.0,
+jentch01,1994-95,25,"Did Not Play (other pro league—CBA, Australia)",,,,,,,,,,,,,,,,,,,
+jentch01,1995-96,26,"Did Not Play (other pro league—Italy, CBA)",,,,,,,,,,,,,,,,,,,
+jentch01,1996-97,27,NYK,NBA,3,3.3,.333,.667,.000,.500,,0.3,0.3,0.0,0.0,2.0,16.0,0.0,.194,0.5,0.0,

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-richach01,2007-08,23,MIN,NBA,52,10.7,.471,,.471,.471,.593,2.6,0.3,0.2,0.2,1.9,
-richach01,2008-09,24,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,
-richach01,2009-10,25,CHI,NBA,18,12.4,.517,,.517,.517,.636,3.3,0.4,0.4,0.2,2.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+richach01,2007-08,23,MIN,NBA,52,10.7,.471,,.471,.471,.593,2.6,0.3,0.2,0.2,1.9,7.9,0.4,.037,-3.7,-0.2,
+richach01,2008-09,24,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,,
+richach01,2009-10,25,CHI,NBA,18,12.4,.517,,.517,.517,.636,3.3,0.4,0.4,0.2,2.1,6.5,0.3,.067,-2.7,0.0,

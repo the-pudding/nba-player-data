@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-mundtto01,1995-96,25,"ATL,BOS",NBA,33,4.6,.390,,.390,.390,.625,0.8,0.1,0.1,0.2,1.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+mundtto01,1995-96,25,"ATL,BOS",NBA,33,4.6,.390,,.390,.390,.625,0.8,0.1,0.1,0.2,1.1,7.0,0.1,.035,-7.1,-0.2,

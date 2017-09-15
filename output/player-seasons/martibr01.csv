@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-martibr01,1985-86,23,"SEA,POR",NBA,8,2.6,.429,,.429,.429,.000,0.5,0.0,0.0,0.1,0.8,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+martibr01,1985-86,23,"SEA,POR",NBA,8,2.6,.429,,.429,.429,.000,0.5,0.0,0.0,0.1,0.8,-1.6,-0.1,-0.132,-15.8,-0.1,

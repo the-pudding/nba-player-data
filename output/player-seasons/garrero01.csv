@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-garrero01,1976-77,26,"CLE,MIL",NBA,62,9.6,.444,,.444,.444,.804,1.8,0.4,0.3,0.2,4.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+garrero01,1976-77,26,"CLE,MIL",NBA,62,9.6,.444,,.444,.444,.804,1.8,0.4,0.3,0.2,4.1,12.1,0.8,.064,-4.4,-0.4,

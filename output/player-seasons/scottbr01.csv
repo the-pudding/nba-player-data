@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,Award
-scottbr01,1996-97,25,IND,NBA,16,3.4,.471,,.471,.471,.500,0.6,0.2,0.1,0.1,1.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+scottbr01,1996-97,25,IND,NBA,16,3.4,.471,,.471,.471,.500,0.6,0.2,0.1,0.1,1.2,7.0,0.0,.019,-5.2,0.0,
