@@ -2,7 +2,7 @@
   "name": "nba-player-data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "all-players--bbr": "babel-node scripts/all-players--bbr.js",
     "all-players--nba": "babel-node scripts/all-players--nba.js",

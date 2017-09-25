@@ -1,14 +1,14 @@
-name,link,year_from,year_to,college
-Vincent Yarbrough,/players/y/yarbrvi01.html,2003,2003,University of Tennessee
-Rich Yonakor,/players/y/yonakri01.html,1982,1982,University of North Carolina
-Danny Young,/players/y/youngda01.html,1985,1995,Wake Forest University
-James Young,/players/y/youngja01.html,2015,2017,University of Kentucky
-Joe Young,/players/y/youngjo01.html,2016,2017,University of Oregon
-Korleone Young,/players/y/youngko01.html,1999,1999,
-Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston
-Nick Young,/players/y/youngni01.html,2008,2017,University of Southern California
-Perry Young,/players/y/youngpe01.html,1987,1987,Virginia Polytechnic Institute and State University
-Sam Young,/players/y/youngsa01.html,2010,2013,University of Pittsburgh
-Thaddeus Young,/players/y/youngth01.html,2008,2017,Georgia Institute of Technology
-Tim Young,/players/y/youngti01.html,2000,2000,Stanford University
-Sun Yue,/players/y/yuesu01.html,2009,2009,
+name,link,year_from,year_to,college,active
+Vincent Yarbrough,/players/y/yarbrvi01.html,2003,2003,University of Tennessee,false
+Rich Yonakor,/players/y/yonakri01.html,1982,1982,University of North Carolina,false
+Danny Young,/players/y/youngda01.html,1985,1995,Wake Forest University,false
+James Young,/players/y/youngja01.html,2015,2017,University of Kentucky,true
+Joe Young,/players/y/youngjo01.html,2016,2017,University of Oregon,true
+Korleone Young,/players/y/youngko01.html,1999,1999,,false
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false
+Nick Young,/players/y/youngni01.html,2008,2017,University of Southern California,true
+Perry Young,/players/y/youngpe01.html,1987,1987,Virginia Polytechnic Institute and State University,false
+Sam Young,/players/y/youngsa01.html,2010,2013,University of Pittsburgh,true
+Thaddeus Young,/players/y/youngth01.html,2008,2017,Georgia Institute of Technology,true
+Tim Young,/players/y/youngti01.html,2000,2000,Stanford University,false
+Sun Yue,/players/y/yuesu01.html,2009,2009,,false

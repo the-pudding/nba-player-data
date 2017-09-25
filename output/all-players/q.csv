@@ -1,4 +1,4 @@
-name,link,year_from,year_to,college
-Tim Quarterman,/players/q/quartti01.html,2017,2017,Louisiana State University
-Chris Quinn,/players/q/quinnch01.html,2007,2013,University of Notre Dame
-Brian Quinnett,/players/q/quinnbr01.html,1990,1992,Washington State University
+name,link,year_from,year_to,college,active
+Tim Quarterman,/players/q/quartti01.html,2017,2017,Louisiana State University,true
+Chris Quinn,/players/q/quinnch01.html,2007,2013,University of Notre Dame,false
+Brian Quinnett,/players/q/quinnbr01.html,1990,1992,Washington State University,false

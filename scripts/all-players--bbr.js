@@ -19,10 +19,12 @@ function getInfo($, el) {
 	const link = $(children[0])
 		.find('a')
 		.attr('href');
+
+	const active = !!$(children[0]).find('strong').length;
 	const year_from = $(children[1]).text();
 	const year_to = $(children[2]).text();
 	const college = $(children[7]).text();
-	return { name, link, year_from, year_to, college };
+	return { name, link, year_from, year_to, college, active };
 }
 
 function scrape() {
@@ -40,11 +42,14 @@ function scrape() {
 		fs.writeFileSync(`./output/all-players/${letter}.csv`, output);
 		index++;
 		if (index < ALPHABET.length) scrape();
+		else
+			shell.exec(
+				'csvstack output/all-players/*.csv > output/all-players--bbr.csv',
+				{
+					silent: true,
+				},
+			);
 	});
 }
 
 scrape();
-
-shell.exec('csvstack output/all-players/*.csv > output/all-players--bbr.csv', {
-	silent: true,
-});
