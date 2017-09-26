@@ -34,8 +34,8 @@ function getNBAInfo(datum) {
 	const name = datum.display_last_comma_first;
 	const sep = name.includes(',') ? ',' : ' ';
 	const split = name.split(sep);
-	const first = split[0].trim();
-	const last = split[1].trim();
+	const first = split[1].trim();
+	const last = split[0].trim();
 	const nbaID = datum.person_id;
 	return { first, last, nbaID };
 }
