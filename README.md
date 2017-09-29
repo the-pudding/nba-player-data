@@ -23,10 +23,13 @@ Generate CSVs for NBA player data from both basketball-reference.com (BBR) stats
 ### 4. Download each player page so we can run scripts locally
 * `npm run download-player-page` or `npm run download-player-page active` for active players
 
-### 5. Create season stats for each player 
+### 5. Create season stats for each player (bbr)
 * `npm run player-seasons`
 
-### 6. Add advanced stat rankings for each season for each player
+### 6. Create season stats for each player (nba)
+* `npm run nba-seasons-adv`
+
+### 7. Add advanced stat rankings for each season for each player
 * `npm run player-seasons--rank`
 
 ## Notes
