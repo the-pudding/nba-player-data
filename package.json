@@ -9,6 +9,7 @@
     "all-players--joined": "babel-node scripts/all-players--joined.js",
     "download-player-page": "babel-node scripts/download-player-page.js",
     "player-seasons": "babel-node scripts/player-seasons.js",
+    "nba-seasons-adv": "babel-node scripts/nba-seasons-adv.js",
     "player-seasons--rank": "babel-node scripts/player-seasons--rank.js"
   },
   "keywords": [""],
