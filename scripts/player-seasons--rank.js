@@ -92,7 +92,7 @@ dataBBR.forEach((d, index) => {
 		);
 
 		const rankStat = `${stat}_rank2`;
-		d[rankStat] = match ? match[rankStat] : null;
+		d[`${stat}_rank`] = match ? match[rankStat] : null;
 	});
 });
 
