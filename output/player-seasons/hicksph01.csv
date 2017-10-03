@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hicksph01,1976-77,24,"HOU,CHI",NBA,37,7.1,.461,,.461,.461,.846,1.8,0.6,0.2,0.0,2.5,13.2,0.5,.093,-1.7,0.0,
-hicksph01,1977-78,25,Did Not Play,,,,,,,,,,,,,,,,,,,
-hicksph01,1978-79,26,DEN,NBA,20,6.4,.419,,.419,.419,.600,1.4,0.4,0.3,0.0,2.0,6.5,0.0,-0.014,-5.3,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+hicksph01,1976-77,24,"HOU,CHI",NBA,37,7.1,.461,.846,1.8,0.6,0.2,0.0,2.5,13.2,0.5,.093,-1.7,0.0,
+hicksph01,1977-78,25,Did Not Play,,,,,,,,,,,,,,,,
+hicksph01,1978-79,26,DEN,NBA,20,6.4,.419,.600,1.4,0.4,0.3,0.0,2.0,6.5,0.0,-0.014,-5.3,-0.1,

@@ -54,6 +54,7 @@ function getValues($, tr, cols, bbrID) {
 }
 
 function getSeasonStats(bbrID, html, table) {
+	if (!html) return [];
 	const $ = cheerio.load(html);
 	const $table = $('table');
 	const columnNames = $table
@@ -152,7 +153,7 @@ function joinStats(basic, advanced, award) {
 }
 
 function getSeasons(player, i) {
-	console.log(d3.format('.1%')(i / data.length));
+	console.log(d3.format('.1%')(i / data.length), i, player.bbrID);
 	const file = fs.readFileSync(
 		`./output/player-pages/${player.bbrID}.html`,
 		'utf-8',
