@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-ackeral01,2005-06,23,DET,NBA,5,7.0,.250,.200,.273,.281,,1.0,0.8,0.2,0.0,1.8,-2.4,-0.2,-0.230,-12.3,-0.1,
-ackeral01,2006-07,24,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,,
-ackeral01,2007-08,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
-ackeral01,2008-09,26,"DET,LAC",NBA,25,8.0,.395,.350,.411,.441,.500,1.0,0.5,0.2,0.2,2.9,10.4,0.0,-0.011,-6.0,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+ackeral01,2005-06,23,DET,NBA,5,7.0,.250,,1.0,0.8,0.2,0.0,1.8,-2.4,-0.2,-0.230,-12.3,-0.1,
+ackeral01,2006-07,24,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,
+ackeral01,2007-08,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,
+ackeral01,2008-09,26,"DET,LAC",NBA,25,8.0,.395,.500,1.0,0.5,0.2,0.2,2.9,10.4,0.0,-0.011,-6.0,-0.2,

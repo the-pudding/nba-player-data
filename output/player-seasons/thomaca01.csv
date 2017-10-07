@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-thomaca01,1991-92,22,SAC,NBA,1,31.0,.417,.500,.400,.458,.500,0.0,1.0,1.0,0.0,12.0,6.4,0.0,-0.027,-10.6,-0.1,
-thomaca01,1992-93,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-thomaca01,1993-94,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-thomaca01,1994-95,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-thomaca01,1995-96,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-thomaca01,1996-97,27,CLE,NBA,19,4.1,.375,.167,.583,.417,1.000,0.7,0.4,0.1,0.1,1.1,8.5,0.0,.004,-4.6,-0.1,
-thomaca01,1997-98,28,"GSW,ORL,CLE",NBA,43,9.9,.400,.339,.444,.471,.640,1.1,0.4,0.5,0.2,3.4,10.9,0.7,.074,-2.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+thomaca01,1991-92,22,SAC,NBA,1,31.0,.417,.500,0.0,1.0,1.0,0.0,12.0,6.4,0.0,-0.027,-10.6,-0.1,
+thomaca01,1992-93,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
+thomaca01,1993-94,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
+thomaca01,1994-95,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
+thomaca01,1995-96,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
+thomaca01,1996-97,27,CLE,NBA,19,4.1,.375,1.000,0.7,0.4,0.1,0.1,1.1,8.5,0.0,.004,-4.6,-0.1,
+thomaca01,1997-98,28,"GSW,ORL,CLE",NBA,43,9.9,.400,.640,1.1,0.4,0.5,0.2,3.4,10.9,0.7,.074,-2.1,0.0,

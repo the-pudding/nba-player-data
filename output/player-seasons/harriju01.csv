@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-harriju01,2002-03,22,DEN,NBA,82,24.4,.362,.250,.369,.369,.652,3.0,3.4,1.0,0.2,5.1,6.4,-0.4,-0.009,-4.6,-1.3,
-harriju01,2003-04,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-harriju01,2004-05,24,NOH,NBA,29,19.0,.360,.316,.365,.376,.829,2.2,2.1,0.9,0.2,5.6,7.7,-0.3,-0.028,-4.8,-0.4,
-harriju01,2005-06,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
-harriju01,2006-07,26,MEM,NBA,29,18.7,.416,.269,.450,.442,.674,2.3,3.1,0.7,0.2,5.2,8.9,-0.2,-0.015,-3.9,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+harriju01,2002-03,22,DEN,NBA,82,24.4,.362,.652,3.0,3.4,1.0,0.2,5.1,6.4,-0.4,-0.009,-4.6,-1.3,
+harriju01,2003-04,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
+harriju01,2004-05,24,NOH,NBA,29,19.0,.360,.829,2.2,2.1,0.9,0.2,5.6,7.7,-0.3,-0.028,-4.8,-0.4,
+harriju01,2005-06,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,
+harriju01,2006-07,26,MEM,NBA,29,18.7,.416,.674,2.3,3.1,0.7,0.2,5.2,8.9,-0.2,-0.015,-3.9,-0.3,

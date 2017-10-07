@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-healsh01,1996-97,26,MIN,NBA,43,5.5,.268,.308,.188,.371,.600,0.4,0.8,0.1,0.1,1.7,5.0,-0.4,-0.086,-8.8,-0.4,
-healsh01,1997-98,27,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,,
-healsh01,1998-99,28,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,,
-healsh01,1999-00,29,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,,
-healsh01,2000-01,30,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,,
-healsh01,2001-02,31,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,,
-healsh01,2002-03,32,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,,
-healsh01,2003-04,33,SAS,NBA,6,12.0,.292,.222,.500,.375,.800,0.7,0.8,0.2,0.0,3.7,5.3,0.0,-0.006,-6.2,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+healsh01,1996-97,26,MIN,NBA,43,5.5,.268,.600,0.4,0.8,0.1,0.1,1.7,5.0,-0.4,-0.086,-8.8,-0.4,
+healsh01,1997-98,27,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,
+healsh01,1998-99,28,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,
+healsh01,1999-00,29,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,
+healsh01,2000-01,30,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,
+healsh01,2001-02,31,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,
+healsh01,2002-03,32,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,
+healsh01,2003-04,33,SAS,NBA,6,12.0,.292,.800,0.7,0.8,0.2,0.0,3.7,5.3,0.0,-0.006,-6.2,-0.1,

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-copelho01,1979-80,24,NYK,NBA,75,15.2,.495,.000,.497,.495,.733,2.1,1.1,0.8,0.3,5.7,11.0,1.2,.052,-2.1,0.0,
-copelho01,1980-81,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,,
-copelho01,1981-82,26,NYK,NBA,18,6.6,.421,,.421,.421,.833,0.3,0.5,0.2,0.1,2.1,7.5,0.1,.029,-6.1,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+copelho01,1979-80,24,NYK,NBA,75,15.2,.495,.733,2.1,1.1,0.8,0.3,5.7,11.0,1.2,.052,-2.1,0.0,
+copelho01,1980-81,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,
+copelho01,1981-82,26,NYK,NBA,18,6.6,.421,.833,0.3,0.5,0.2,0.1,2.1,7.5,0.1,.029,-6.1,-0.1,

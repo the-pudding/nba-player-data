@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-kimbrst01,1989-90,23,DET,NBA,10,5.0,.438,,.438,.438,1.000,0.7,0.5,0.4,0.0,1.6,12.1,0.1,.074,0.1,0.0,
-kimbrst01,1990-91,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,,
-kimbrst01,1991-92,25,Did Not Play,,,,,,,,,,,,,,,,,,,
-kimbrst01,1992-93,26,SAC,NBA,3,5.0,.333,.500,.250,.417,,0.0,0.3,0.3,0.0,1.7,8.2,0.0,.027,-7.9,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+kimbrst01,1989-90,23,DET,NBA,10,5.0,.438,1.000,0.7,0.5,0.4,0.0,1.6,12.1,0.1,.074,0.1,0.0,
+kimbrst01,1990-91,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
+kimbrst01,1991-92,25,Did Not Play,,,,,,,,,,,,,,,,
+kimbrst01,1992-93,26,SAC,NBA,3,5.0,.333,,0.0,0.3,0.3,0.0,1.7,8.2,0.0,.027,-7.9,0.0,

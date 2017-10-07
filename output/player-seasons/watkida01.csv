@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,3P%,2P%,eFG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-watkida01,2007-08,23,SAC,NBA,9,7.9,.333,,.333,.333,.400,1.3,0.0,0.2,0.2,1.3,0.5,-0.2,-0.136,-12.8,-0.2,
-watkida01,2008-09,24,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,,,
-watkida01,2009-10,25,Did Not Play (other pro league),,,,,,,,,,,,,,,,,,,
-watkida01,2010-11,26,Did Not Play (other pro league—Lebanon),,,,,,,,,,,,,,,,,,,
-watkida01,2011-12,27,NOH,NBA,5,19.6,.500,,.500,.500,.500,5.4,0.6,1.0,0.8,4.6,10.8,0.1,.056,-1.8,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
+watkida01,2007-08,23,SAC,NBA,9,7.9,.333,.400,1.3,0.0,0.2,0.2,1.3,0.5,-0.2,-0.136,-12.8,-0.2,
+watkida01,2008-09,24,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,
+watkida01,2009-10,25,Did Not Play (other pro league),,,,,,,,,,,,,,,,
+watkida01,2010-11,26,Did Not Play (other pro league—Lebanon),,,,,,,,,,,,,,,,
+watkida01,2011-12,27,NOH,NBA,5,19.6,.500,.500,5.4,0.6,1.0,0.8,4.6,10.8,0.1,.056,-1.8,0.0,
