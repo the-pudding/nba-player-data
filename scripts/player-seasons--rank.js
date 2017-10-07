@@ -23,23 +23,30 @@ const playerLookup = d3.csvParse(
 );
 
 function getRankedBBR(stat) {
-	const copy = dataBBR.map(d => ({ ...d }));
+	const copy = dataBBR.map(d => ({ ...d })).map(d => {
+		const minutes = +d.G * +d.MP;
+		const threshold = MIN_MP_SPECIAL[d.Season] || MIN_MP_DEFAULT;
+		const statValue = minutes >= threshold ? +d[stat] : -9999;
+		return {
+			...d,
+			[[`${stat}_value`]]: statValue,
+		};
+	});
+
 	const nested = d3
 		.nest()
 		.key(d => d.Season)
-		.sortValues((a, b) => {
-			const aM = +a.G * +a.MP;
-			const bM = +b.G * +b.MP;
-			const min = MIN_MP_SPECIAL[a.Season] || MIN_MP_DEFAULT;
-			const aV = aM >= min ? +a[stat] : -9999;
-			const bV = bM >= min ? +b[stat] : -9999;
-			return d3.descending(aV, bV);
-		})
+		.sortValues((a, b) => d3.descending(a[`${stat}_value`], b[`${stat}_value`]))
 		.entries(copy);
 
 	// add rank as col
 	const ranked = nested.map(season => {
-		season.values.forEach((d, i) => (d[`${stat}_rank`] = i));
+		const justValues = season.values.map(v => v[`${stat}_value`]);
+		// season.values.forEach((d, i) => (d[`${stat}_rank`] = i));
+		season.values.forEach(d => {
+			const rank = justValues.indexOf(d[`${stat}_value`]);
+			d[`${stat}_rank`] = rank;
+		});
 		return season.values;
 	});
 
@@ -47,23 +54,29 @@ function getRankedBBR(stat) {
 }
 
 function getRankedNBA(stat) {
-	const copy = dataNBA.map(d => ({ ...d }));
+	const copy = dataNBA.map(d => ({ ...d })).map(d => {
+		const minutes = +d.gp * +d.min;
+		const threshold = MIN_MP_SPECIAL[d.season] || MIN_MP_DEFAULT;
+		const statValue = minutes >= threshold ? +d[stat] : -9999;
+		return {
+			...d,
+			[[`${stat}_value`]]: statValue,
+		};
+	});
 	const nested = d3
 		.nest()
 		.key(d => d.season)
-		.sortValues((a, b) => {
-			const aM = +a.gp * +a.min;
-			const bM = +b.gp * +b.min;
-			const min = MIN_MP_SPECIAL[a.season] || MIN_MP_DEFAULT;
-			const aV = aM >= min ? +a[stat] : -9999;
-			const bV = bM >= min ? +b[stat] : -9999;
-			return d3.descending(aV, bV);
-		})
+		.sortValues((a, b) => d3.descending(a[`${stat}_value`], b[`${stat}_value`]))
 		.entries(copy);
 
 	// add rank as col
 	const ranked = nested.map(season => {
-		season.values.forEach((d, i) => (d[`${stat}_rank2`] = i));
+		const justValues = season.values.map(v => v[`${stat}_value`]);
+		// season.values.forEach((d, i) => (d[`${stat}_rank`] = i));
+		season.values.forEach(d => {
+			const rank = justValues.indexOf(d[`${stat}_value`]);
+			d[`${stat}_rank2`] = rank;
+		});
 		return season.values;
 	});
 
@@ -93,6 +106,7 @@ dataBBR.forEach((d, index) => {
 
 		const rankStat = `${stat}_rank2`;
 		d[`${stat}_rank`] = match ? match[rankStat] : null;
+		d[`${stat}`] = match ? match[stat] : null;
 	});
 });
 
