@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-davidje01,2007-08,23,CHA,NBA,38,8.5,.408,.643,1.6,0.3,0.2,0.4,3.2,9.8,-0.1,-0.012,-7.0,-0.4,
-davidje01,2008-09,24,GSW,NBA,14,7.9,.486,.471,2.4,0.1,0.1,0.2,3.0,12.3,0.1,.036,-9.4,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+davidje01,2007-08,23,Charlotte Bobcats,NBA,38,8.5,.408,.643,1.6,0.3,0.2,0.4,3.2,9.8,-0.1,-0.012,-7.0,-0.4,,427163
+davidje01,2008-09,24,Golden State Warriors,NBA,14,7.9,.486,.471,2.4,0.1,0.1,0.2,3.0,12.3,0.1,.036,-9.4,-0.2,,422725

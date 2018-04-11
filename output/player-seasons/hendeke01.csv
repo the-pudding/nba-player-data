@@ -1,3 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hendeke01,1986-87,22,GSW,NBA,5,9.0,.375,1.000,0.6,2.2,0.2,0.0,1.6,5.4,0.0,-0.011,-8.9,-0.1,
-hendeke01,1987-88,23,"GSW,CLE",NBA,17,11.2,.396,.577,1.2,1.4,0.5,0.0,3.4,6.7,-0.2,-0.045,-6.4,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+hendeke01,1986-87,22,GSW,NBA,5,9.0,.375,1.000,0.6,2.2,0.2,0.0,1.6,5.4,0.0,-0.011,-8.9,-0.1,,
+hendeke01,1987-88,23,Cleveland Cavaliers,NBA,17,11.2,.396,.577,1.2,1.4,0.5,0.0,3.4,6.7,-0.2,-0.045,-6.4,-0.2,,75000
+hendeke01,1987-88,23,Cleveland Cavaliers,NBA,12,14.2,.396,.714,1.4,1.8,0.7,0.0,4.0,6.4,-0.2,-0.046,-6.4,-0.2,,75000
+hendeke01,1987-88,23,Cleveland Cavaliers,NBA,5,4.0,.400,.417,0.8,0.4,0.0,0.0,1.8,9.1,0.0,-0.039,-6.7,0.0,,75000

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-swiftro01,2004-05,19,SEA,NBA,16,4.5,.455,.556,0.3,0.1,0.1,0.4,0.9,5.2,0.0,.004,-2.8,0.0,
-swiftro01,2005-06,20,SEA,NBA,47,21.0,.515,.582,5.6,0.2,0.3,1.2,6.4,12.7,1.1,.052,-4.3,-0.6,
-swiftro01,2006-07,21,Did Not Play (injury—knee),,,,,,,,,,,,,,,,
-swiftro01,2007-08,22,SEA,NBA,8,12.3,.353,1.000,2.3,0.1,0.6,0.8,1.8,2.9,-0.2,-0.074,-5.7,-0.1,
-swiftro01,2008-09,23,OKC,NBA,26,13.2,.521,.750,3.4,0.3,0.2,0.7,3.3,11.5,0.7,.104,-3.1,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+swiftro01,2004-05,19,Seattle SuperSonics,NBA,16,4.5,.455,.556,0.3,0.1,0.1,0.4,0.9,5.2,0.0,.004,-2.8,0.0,,1641360
+swiftro01,2005-06,20,Seattle SuperSonics,NBA,47,21.0,.515,.582,5.6,0.2,0.3,1.2,6.4,12.7,1.1,.052,-4.3,-0.6,,1764480
+swiftro01,2006-07,21,Seattle SuperSonics,NBA,,,,,,,,,,,,,,,,1887600
+swiftro01,2007-08,22,Seattle SuperSonics,NBA,8,12.3,.353,1.000,2.3,0.1,0.6,0.8,1.8,2.9,-0.2,-0.074,-5.7,-0.1,,2601113
+swiftro01,2008-09,23,Oklahoma City Thunder,NBA,26,13.2,.521,.750,3.4,0.3,0.2,0.7,3.3,11.5,0.7,.104,-3.1,-0.1,,3579131

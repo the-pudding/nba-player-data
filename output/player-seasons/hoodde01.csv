@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hoodde01,1999-00,23,CHH,NBA,2,2.0,.000,,0.5,0.0,0.0,0.0,0.0,-24.2,-0.1,-0.738,-42.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+hoodde01,1999-00,23,Charlotte Hornets,NBA,2,2.0,.000,,0.5,0.0,0.0,0.0,0.0,-24.2,-0.1,-0.738,-42.1,0.0,,49721

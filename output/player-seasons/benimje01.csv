@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-benimje01,2014-15,23,UTA,NBA,2,1.5,,,1.5,0.0,0.0,0.0,0.0,4.7,0.0,-0.215,-26.9,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+benimje01,2014-15,23,Denver Nuggets,NBA,2,1.5,,,1.5,0.0,0.0,0.0,0.0,4.7,0.0,-0.215,-26.9,0.0,,35000

@@ -12,7 +12,9 @@
     "nba-seasons-adv": "babel-node scripts/nba-seasons-adv.js",
     "player-seasons--rank": "babel-node scripts/player-seasons--rank.js"
   },
-  "keywords": [""],
+  "keywords": [
+    ""
+  ],
   "author": "Russell Goldenberg",
   "license": "",
   "dependencies": {

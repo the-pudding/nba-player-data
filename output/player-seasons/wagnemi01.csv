@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-wagnemi01,1987-88,24,LAL,NBA,40,9.5,.422,.897,0.7,1.5,0.2,0.1,3.8,10.4,0.4,.046,-6.3,-0.4,
-wagnemi01,1988-89,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-wagnemi01,1989-90,26,Did Not Play,,,,,,,,,,,,,,,,
-wagnemi01,1990-91,27,MIA,NBA,13,8.9,.421,.818,0.5,1.2,0.2,0.2,4.8,11.2,0.0,.016,-6.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+wagnemi01,1987-88,24,Los Angeles Lakers,NBA,40,9.5,.422,.897,0.7,1.5,0.2,0.1,3.8,10.4,0.4,.046,-6.3,-0.4,,75000
+wagnemi01,1988-89,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+wagnemi01,1989-90,26,Did Not Play,,,,,,,,,,,,,,,,,
+wagnemi01,1990-91,27,MIA,NBA,13,8.9,.421,.818,0.5,1.2,0.2,0.2,4.8,11.2,0.0,.016,-6.5,-0.1,,

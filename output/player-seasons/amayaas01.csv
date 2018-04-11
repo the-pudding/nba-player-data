@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-amayaas01,1995-96,24,VAN,NBA,54,20.4,.480,.651,5.6,0.6,0.4,0.2,6.3,11.8,1.8,.078,-3.9,-0.5,
-amayaas01,1996-97,25,WSB,NBA,31,4.6,.300,.536,1.7,0.1,0.2,0.1,1.3,8.8,0.1,.019,-8.1,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+amayaas01,1995-96,24,Vancouver Grizzlies,NBA,54,20.4,.480,.651,5.6,0.6,0.4,0.2,6.3,11.8,1.8,.078,-3.9,-0.5,,225000
+amayaas01,1996-97,25,Washington Bullets,NBA,31,4.6,.300,.536,1.7,0.1,0.2,0.1,1.3,8.8,0.1,.019,-8.1,-0.2,,247500

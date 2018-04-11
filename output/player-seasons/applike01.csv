@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-applike01,2015-16,23,ORL,NBA,5,5.4,.250,1.000,0.2,0.2,0.2,0.0,1.2,-4.8,-0.1,-0.199,-13.0,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+applike01,2015-16,23,Orlando Magic,NBA,5,5.4,.250,1.000,0.2,0.2,0.2,0.0,1.2,-4.8,-0.1,-0.199,-13.0,-0.1,,161776

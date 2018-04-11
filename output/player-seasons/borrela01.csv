@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-borrela01,1999-00,27,SEA,NBA,17,9.8,.444,.545,2.4,0.6,0.4,0.2,3.6,15.0,0.3,.079,-3.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+borrela01,1999-00,27,Seattle SuperSonics,NBA,17,9.8,.444,.545,2.4,0.6,0.4,0.2,3.6,15.0,0.3,.079,-3.5,-0.1,,301875

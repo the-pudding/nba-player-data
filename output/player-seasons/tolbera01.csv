@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-tolbera01,1981-82,23,"NJN,SEA",NBA,64,9.5,.495,.543,2.0,0.5,0.2,0.3,3.4,10.3,0.7,.058,-3.5,-0.2,
-tolbera01,1982-83,24,"SEA,DET",NBA,73,15.2,.500,.505,3.3,0.7,0.4,0.6,5.0,9.8,1.1,.047,-3.1,-0.3,
-tolbera01,1983-84,25,DET,NBA,49,9.7,.529,.511,2.0,0.5,0.2,0.4,3.1,10.5,0.8,.081,-1.0,0.1,
-tolbera01,1984-85,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-tolbera01,1985-86,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-tolbera01,1986-87,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-tolbera01,1987-88,29,"NYK,LAL",NBA,25,10.4,.507,.633,2.2,0.4,0.3,0.2,3.6,9.7,0.3,.056,-3.1,-0.1,
-tolbera01,1988-89,30,ATL,NBA,50,6.8,.426,.622,1.8,0.3,0.3,0.3,2.1,8.3,0.0,.005,-4.0,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+tolbera01,1981-82,23,"NJN,SEA",NBA,64,9.5,.495,.543,2.0,0.5,0.2,0.3,3.4,10.3,0.7,.058,-3.5,-0.2,,
+tolbera01,1982-83,24,"SEA,DET",NBA,73,15.2,.500,.505,3.3,0.7,0.4,0.6,5.0,9.8,1.1,.047,-3.1,-0.3,,
+tolbera01,1983-84,25,DET,NBA,49,9.7,.529,.511,2.0,0.5,0.2,0.4,3.1,10.5,0.8,.081,-1.0,0.1,,
+tolbera01,1984-85,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+tolbera01,1985-86,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+tolbera01,1986-87,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+tolbera01,1987-88,29,"NYK,LAL",NBA,25,10.4,.507,.633,2.2,0.4,0.3,0.2,3.6,9.7,0.3,.056,-3.1,-0.1,,
+tolbera01,1988-89,30,Atlanta Hawks,NBA,50,6.8,.426,.622,1.8,0.3,0.3,0.3,2.1,8.3,0.0,.005,-4.0,-0.2,,100000

@@ -1,6 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-suttogr01,1991-92,24,SAS,NBA,67,9.0,.388,.756,0.7,1.4,0.4,0.1,3.7,7.8,-0.1,-0.006,-5.1,-0.5,
-suttogr01,1992-93,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-suttogr01,1993-94,26,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,
-suttogr01,1994-95,27,CHH,NBA,53,13.0,.409,.711,1.1,1.7,0.6,0.0,5.0,10.6,0.8,.058,-2.3,-0.1,
-suttogr01,1995-96,28,"CHH,PHI",NBA,48,13.6,.392,.761,1.0,2.1,0.5,0.0,5.3,10.6,0.2,.016,-4.7,-0.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+suttogr01,1991-92,24,San Antonio Spurs,NBA,67,9.0,.388,.756,0.7,1.4,0.4,0.1,3.7,7.8,-0.1,-0.006,-5.1,-0.5,,175000
+suttogr01,1992-93,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+suttogr01,1993-94,26,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
+suttogr01,1994-95,27,Charlotte Hornets,NBA,53,13.0,.409,.711,1.1,1.7,0.6,0.0,5.0,10.6,0.8,.058,-2.3,-0.1,,139500
+suttogr01,1995-96,28,Charlotte Hornets,NBA,48,13.6,.392,.761,1.0,2.1,0.5,0.0,5.3,10.6,0.2,.016,-4.7,-0.5,,250000
+suttogr01,1995-96,28,Charlotte Hornets,NBA,18,10.6,.400,.789,0.8,2.2,0.4,0.0,3.4,11.0,0.2,.059,-4.2,-0.1,,250000
+suttogr01,1995-96,28,Charlotte Hornets,NBA,30,15.5,.389,.741,1.2,2.1,0.6,0.1,6.3,10.5,0.0,-0.002,-5.0,-0.3,,250000

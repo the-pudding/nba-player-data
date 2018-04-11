@@ -1,3 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-harriaa01,2015-16,21,CHO,NBA,21,4.4,.263,.417,0.7,0.1,0.3,0.0,0.9,4.3,0.0,-0.014,-5.5,-0.1,
-harriaa01,2016-17,22,CHO,NBA,5,3.4,.000,.500,0.6,0.6,0.0,0.0,0.2,-2.2,-0.1,-0.146,-11.6,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+harriaa01,2015-16,21,Charlotte Hornets,NBA,21,4.4,.263,.417,0.7,0.1,0.3,0.0,0.9,4.3,0.0,-0.014,-5.5,-0.1,,525093
+harriaa01,2016-17,22,Charlotte Hornets,NBA,5,3.4,.000,.500,0.6,0.6,0.0,0.0,0.2,-2.2,-0.1,-0.146,-11.6,0.0,,375579
+harriaa01,2017-18,23,DAL,NBA,9,25.9,.275,.765,2.7,1.2,1.0,0.2,6.7,5.1,-0.1,-0.014,-4.1,-0.1,,

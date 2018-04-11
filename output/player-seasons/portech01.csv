@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-portech01,2000-01,22,GSW,NBA,51,22.5,.389,.667,3.7,1.2,0.9,0.1,8.6,11.1,0.2,.008,-4.6,-0.8,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+portech01,2000-01,22,Golden State Warriors,NBA,51,22.5,.389,.667,3.7,1.2,0.9,0.1,8.6,11.1,0.2,.008,-4.6,-0.8,,316969

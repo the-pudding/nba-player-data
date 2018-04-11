@@ -1,3 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-buyckdw01,2013-14,24,TOR,NBA,14,10.4,.313,.889,1.6,0.7,0.6,0.0,3.1,7.2,0.0,-0.009,-4.5,-0.1,
-buyckdw01,2014-15,25,LAL,NBA,6,20.5,.450,.900,2.0,2.3,0.5,0.0,8.7,13.1,0.1,.027,-4.9,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+buyckdw01,2013-14,24,TOR,NBA,14,10.4,.313,.889,1.6,0.7,0.6,0.0,3.1,7.2,0.0,-0.009,-4.5,-0.1,,
+buyckdw01,2014-15,25,Los Angeles Lakers,NBA,6,20.5,.450,.900,2.0,2.3,0.5,0.0,8.7,13.1,0.1,.027,-4.9,-0.1,,48028
+buyckdw01,2015-16,26,Did Not Play,,,,,,,,,,,,,,,,,
+buyckdw01,2016-17,27,Did Not Play,,,,,,,,,,,,,,,,,
+buyckdw01,2017-18,28,DET,NBA,29,14.7,.414,.878,1.4,2.0,0.7,0.1,7.4,12.8,0.2,.026,-4.3,-0.2,,

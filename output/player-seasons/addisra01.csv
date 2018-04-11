@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-addisra01,1986-87,22,PHO,NBA,62,11.5,.441,.797,1.7,0.7,0.4,0.1,5.8,11.9,0.4,.024,-4.4,-0.4,
-addisra01,1987-88,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-addisra01,1988-89,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-addisra01,1989-90,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-addisra01,1990-91,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-addisra01,1991-92,27,NJN,NBA,76,15.5,.433,.737,2.2,0.9,0.4,0.4,5.8,10.9,1.5,.063,-3.8,-0.5,
-addisra01,1992-93,28,NJN,NBA,68,17.1,.443,.814,1.9,0.8,0.3,0.2,6.3,8.4,0.9,.038,-4.6,-0.8,
-addisra01,1993-94,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-addisra01,1994-95,30,DET,NBA,79,22.5,.476,.747,3.1,1.4,0.7,0.3,8.3,11.3,1.5,.040,-3.4,-0.6,
-addisra01,1995-96,31,CHH,NBA,53,9.7,.467,.773,1.7,0.6,0.2,0.2,3.2,9.6,0.2,.019,-5.2,-0.4,
-addisra01,1996-97,32,CHH,NBA,41,8.7,.402,.786,1.1,0.8,0.2,0.1,3.1,10.6,0.4,.048,-4.3,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+addisra01,1986-87,22,PHO,NBA,62,11.5,.441,.797,1.7,0.7,0.4,0.1,5.8,11.9,0.4,.024,-4.4,-0.4,,
+addisra01,1987-88,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+addisra01,1988-89,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+addisra01,1989-90,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+addisra01,1990-91,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+addisra01,1991-92,27,New Jersey Nets,NBA,76,15.5,.433,.737,2.2,0.9,0.4,0.4,5.8,10.9,1.5,.063,-3.8,-0.5,,311000
+addisra01,1992-93,28,New Jersey Nets,NBA,68,17.1,.443,.814,1.9,0.8,0.3,0.2,6.3,8.4,0.9,.038,-4.6,-0.8,,522000
+addisra01,1993-94,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+addisra01,1994-95,30,Detroit Pistons,NBA,79,22.5,.476,.747,3.1,1.4,0.7,0.3,8.3,11.3,1.5,.040,-3.4,-0.6,,250000
+addisra01,1995-96,31,Charlotte Hornets,NBA,53,9.7,.467,.773,1.7,0.6,0.2,0.2,3.2,9.6,0.2,.019,-5.2,-0.4,,360000
+addisra01,1996-97,32,Charlotte Hornets,NBA,41,8.7,.402,.786,1.1,0.8,0.2,0.1,3.1,10.6,0.4,.048,-4.3,-0.2,,290000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mccladw01,1985-86,22,IND,NBA,45,10.2,.383,.514,0.7,1.5,0.8,0.1,3.5,8.3,-0.3,-0.026,-4.8,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+mccladw01,1985-86,22,Indiana Pacers,NBA,45,10.2,.383,.514,0.7,1.5,0.8,0.1,3.5,8.3,-0.3,-0.026,-4.8,-0.3,,115000

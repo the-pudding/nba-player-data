@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-odengr01,2008-09,21,POR,NBA,61,21.5,.564,.637,7.0,0.5,0.4,1.1,8.9,18.1,4.6,.167,0.8,0.9,
-odengr01,2009-10,22,POR,NBA,21,23.9,.605,.766,8.5,0.9,0.4,2.3,11.1,23.1,2.2,.214,4.1,0.8,
-odengr01,2010-11,23,Did Not Play,,,,,,,,,,,,,,,,
-odengr01,2011-12,24,Did Not Play,,,,,,,,,,,,,,,,
-odengr01,2012-13,25,Did Not Play,,,,,,,,,,,,,,,,
-odengr01,2013-14,26,MIA,NBA,23,9.2,.551,.565,2.3,0.0,0.3,0.6,2.9,12.4,0.5,.119,-3.6,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+odengr01,2008-09,21,Portland Trail Blazers,NBA,61,21.5,.564,.637,7.0,0.5,0.4,1.1,8.9,18.1,4.6,.167,0.8,0.9,,5011680
+odengr01,2009-10,22,Portland Trail Blazers,NBA,21,23.9,.605,.766,8.5,0.9,0.4,2.3,11.1,23.1,2.2,.214,4.1,0.8,,5361240
+odengr01,2010-11,23,Portland Trail Blazers,NBA,,,,,,,,,,,,,,,,6760524
+odengr01,2011-12,24,Portland Trail Blazers,NBA,,,,,,,,,,,,,,,,1500000
+odengr01,2012-13,25,Did Not Play,,,,,,,,,,,,,,,,,
+odengr01,2013-14,26,Miami Heat,NBA,23,9.2,.551,.565,2.3,0.0,0.3,0.6,2.9,12.4,0.5,.119,-3.6,-0.1,,1027424

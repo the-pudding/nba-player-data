@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-macijar01,2005-06,26,NOK,NBA,19,7.1,.341,.867,0.5,0.3,0.4,0.0,2.3,8.3,0.0,-0.001,-5.3,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+macijar01,2005-06,26,New Orleans/Oklahoma City Hornets,NBA,19,7.1,.341,.867,0.5,0.3,0.4,0.0,2.3,8.3,0.0,-0.001,-5.3,-0.1,,2500000

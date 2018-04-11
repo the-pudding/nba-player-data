@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-brittmi01,1985-86,22,SAS,NBA,32,6.8,.512,.526,1.5,0.2,0.1,0.4,1.7,4.4,0.0,-0.010,-6.6,-0.3,
-brittmi01,1986-87,23,SAS,NBA,6,4.8,.444,.500,0.7,0.3,0.2,0.0,1.5,7.3,0.0,-0.017,-6.8,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+brittmi01,1985-86,22,San Antonio Spurs,NBA,32,6.8,.512,.526,1.5,0.2,0.1,0.4,1.7,4.4,0.0,-0.010,-6.6,-0.3,,105000
+brittmi01,1986-87,23,SAS,NBA,6,4.8,.444,.500,0.7,0.3,0.2,0.0,1.5,7.3,0.0,-0.017,-6.8,0.0,,

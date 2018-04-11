@@ -1,3 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mcraejo01,2015-16,24,"PHO,CLE",NBA,22,8.9,.436,.750,0.9,1.1,0.1,0.0,4.5,14.2,0.4,.087,-4.3,-0.1,
-mcraejo01,2016-17,25,CLE,NBA,37,10.4,.387,.794,1.1,0.5,0.2,0.2,4.4,9.7,0.2,.020,-6.5,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+mcraejo01,2015-16,24,Cleveland Cavaliers,NBA,22,8.9,.436,.750,0.9,1.1,0.1,0.0,4.5,14.2,0.4,.087,-4.3,-0.1,,172972
+mcraejo01,2015-16,24,Cleveland Cavaliers,NBA,7,11.7,.423,.800,1.1,1.4,0.4,0.0,5.3,14.2,0.2,.096,-3.0,0.0,,172972
+mcraejo01,2015-16,24,Cleveland Cavaliers,NBA,15,7.5,.442,.692,0.8,1.0,0.0,0.1,4.1,14.2,0.2,.081,-5.2,-0.1,,172972
+mcraejo01,2016-17,25,Cleveland Cavaliers,NBA,37,10.4,.387,.794,1.1,0.5,0.2,0.2,4.4,9.7,0.2,.020,-6.5,-0.4,,874636

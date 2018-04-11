@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hugheri02,1999-00,26,DAL,NBA,21,10.7,.486,.462,2.3,0.4,0.1,0.0,3.9,10.9,0.1,.029,-5.4,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+hugheri02,1999-00,26,Dallas Mavericks,NBA,21,10.7,.486,.462,2.3,0.4,0.1,0.0,3.9,10.9,0.1,.029,-5.4,-0.2,,115423

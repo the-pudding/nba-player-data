@@ -1,2 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-ferreyo01,2016-17,23,"BRK,DAL",NBA,46,26.0,.406,.831,2.4,3.7,0.9,0.2,10.0,13.1,1.8,.072,-0.7,0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+ferreyo01,2016-17,23,Dallas Mavericks,NBA,46,26.0,.406,.831,2.4,3.7,0.9,0.2,10.0,13.1,1.8,.072,-0.7,0.4,,239767
+ferreyo01,2016-17,23,Dallas Mavericks,NBA,10,15.1,.367,.625,1.2,1.7,0.2,0.2,5.4,6.5,-0.2,-0.050,-7.3,-0.2,,239767
+ferreyo01,2016-17,23,Dallas Mavericks,NBA,36,29.1,.412,.877,2.8,4.3,1.1,0.2,11.3,14.1,2.0,.090,0.2,0.6,,239767
+ferreyo01,2017-18,24,DAL,NBA,82,27.8,.426,.796,3.0,2.5,0.8,0.1,10.2,11.4,3.0,.064,-1.0,0.6,,

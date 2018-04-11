@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-shakumu01,2010-11,26,WAS,NBA,22,7.2,.356,.533,1.0,1.1,0.2,0.1,2.3,6.8,-0.4,-0.112,-7.6,-0.2,
-shakumu01,2011-12,27,Did Not Play,,,,,,,,,,,,,,,,
-shakumu01,2012-13,28,Did Not Play,,,,,,,,,,,,,,,,
-shakumu01,2013-14,29,OKC,NBA,3,3.7,.000,.500,0.0,1.3,0.0,0.0,0.3,-8.8,-0.1,-0.347,-29.9,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+shakumu01,2010-11,26,Washington Wizards,NBA,22,7.2,.356,.533,1.0,1.1,0.2,0.1,2.3,6.8,-0.4,-0.112,-7.6,-0.2,,89670
+shakumu01,2011-12,27,Did Not Play,,,,,,,,,,,,,,,,,
+shakumu01,2012-13,28,Did Not Play,,,,,,,,,,,,,,,,,
+shakumu01,2013-14,29,OKC,NBA,3,3.7,.000,.500,0.0,1.3,0.0,0.0,0.3,-8.8,-0.1,-0.347,-29.9,-0.1,,

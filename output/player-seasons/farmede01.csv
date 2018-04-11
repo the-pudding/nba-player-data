@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-farmede01,2006-07,25,SEA,NBA,8,4.0,.333,1.000,0.1,1.1,0.1,0.0,1.6,15.4,0.0,.074,-6.4,0.0,
-farmede01,2007-08,26,Did Not Play,,,,,,,,,,,,,,,,
-farmede01,2008-09,27,SAS,NBA,3,18.0,.286,1.000,2.0,0.7,0.0,0.0,4.3,0.4,-0.1,-0.071,-8.4,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+farmede01,2006-07,25,Seattle SuperSonics,NBA,8,4.0,.333,1.000,0.1,1.1,0.1,0.0,1.6,15.4,0.0,.074,-6.4,0.0,,275404
+farmede01,2007-08,26,Did Not Play,,,,,,,,,,,,,,,,,
+farmede01,2008-09,27,San Antonio Spurs,NBA,3,18.0,.286,1.000,2.0,0.7,0.0,0.0,4.3,0.4,-0.1,-0.071,-8.4,-0.1,,83708

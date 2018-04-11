@@ -1,3 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-vaughra01,2015-16,19,MIL,NBA,70,14.3,.305,.800,1.3,0.6,0.4,0.2,3.1,4.2,-0.8,-0.036,-6.1,-1.0,
-vaughra01,2016-17,20,MIL,NBA,41,11.2,.365,.400,1.2,0.6,0.5,0.2,3.5,7.8,0.0,-0.005,-4.9,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+vaughra01,2015-16,19,Milwaukee Bucks,NBA,70,14.3,.305,.800,1.3,0.6,0.4,0.2,3.1,4.2,-0.8,-0.036,-6.1,-1.0,,1733040
+vaughra01,2016-17,20,Milwaukee Bucks,NBA,41,11.2,.365,.400,1.2,0.6,0.5,0.2,3.5,7.8,0.0,-0.005,-4.9,-0.3,,1811040
+vaughra01,2017-18,21,"MIL,BRK,ORL",NBA,28,7.6,.411,.667,0.8,0.5,0.2,0.1,2.3,9.3,0.2,.051,-4.7,-0.1,,

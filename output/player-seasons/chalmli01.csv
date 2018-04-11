@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-chalmli01,2004-05,24,LAC,NBA,36,12.0,.336,.625,0.9,1.4,0.4,0.0,3.1,6.5,-0.2,-0.025,-6.3,-0.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+chalmli01,2004-05,24,Los Angeles Clippers,NBA,36,12.0,.336,.625,0.9,1.4,0.4,0.0,3.1,6.5,-0.2,-0.025,-6.3,-0.5,,450000

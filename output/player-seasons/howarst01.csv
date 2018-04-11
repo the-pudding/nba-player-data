@@ -1,7 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-howarst01,1992-93,22,UTA,NBA,49,5.3,.376,.642,1.2,0.2,0.3,0.2,2.1,9.8,0.1,.018,-4.3,-0.1,
-howarst01,1993-94,23,UTA,NBA,9,5.9,.588,.688,1.8,0.1,0.1,0.3,3.4,19.4,0.2,.188,-0.6,0.0,
-howarst01,1994-95,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,
-howarst01,1995-96,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,
-howarst01,1996-97,26,"SAS,UTA",NBA,49,8.5,.574,.642,1.7,0.2,0.4,0.2,3.6,16.0,1.3,.149,-0.9,0.1,
-howarst01,1997-98,27,SEA,NBA,13,4.1,.381,.500,0.9,0.2,0.2,0.1,1.9,9.8,0.0,-0.020,-7.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+howarst01,1992-93,22,Utah Jazz,NBA,49,5.3,.376,.642,1.2,0.2,0.3,0.2,2.1,9.8,0.1,.018,-4.3,-0.1,,140000
+howarst01,1993-94,23,UTA,NBA,9,5.9,.588,.688,1.8,0.1,0.1,0.3,3.4,19.4,0.2,.188,-0.6,0.0,,
+howarst01,1994-95,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
+howarst01,1995-96,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
+howarst01,1996-97,26,San Antonio Spurs,NBA,49,8.5,.574,.642,1.7,0.2,0.4,0.2,3.6,16.0,1.3,.149,-0.9,0.1,,181100
+howarst01,1996-97,26,San Antonio Spurs,NBA,7,9.9,.583,.857,1.3,0.1,1.1,0.3,3.7,19.5,0.2,.172,2.6,0.1,,181100
+howarst01,1996-97,26,San Antonio Spurs,NBA,42,8.3,.573,.597,1.8,0.2,0.3,0.2,3.6,15.4,1.1,.144,-1.6,0.0,,181100
+howarst01,1997-98,27,Seattle SuperSonics,NBA,13,4.1,.381,.500,0.9,0.2,0.2,0.1,1.9,9.8,0.0,-0.020,-7.5,-0.1,,272250

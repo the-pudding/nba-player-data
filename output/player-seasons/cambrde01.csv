@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-cambrde01,1992-93,23,DAL,NBA,53,16.7,.484,.687,3.2,1.1,0.5,0.1,7.0,12.1,0.4,.022,-3.3,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+cambrde01,1992-93,23,Dallas Mavericks,NBA,53,16.7,.484,.687,3.2,1.1,0.5,0.1,7.0,12.1,0.4,.022,-3.3,-0.3,,150000

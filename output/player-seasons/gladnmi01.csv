@@ -1,2 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-gladnmi01,2011-12,25,"MIA,GSW",NBA,26,9.7,.424,.500,2.2,0.2,0.2,0.8,2.2,9.5,0.2,.029,-4.8,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+gladnmi01,2011-12,25,Miami Heat,NBA,26,9.7,.424,.500,2.2,0.2,0.2,0.8,2.2,9.5,0.2,.029,-4.8,-0.2,,248263
+gladnmi01,2011-12,25,Miami Heat,NBA,8,3.5,.333,,1.4,0.3,0.1,0.1,0.3,1.8,0.0,-0.004,-5.2,0.0,,248263
+gladnmi01,2011-12,25,Miami Heat,NBA,18,12.4,.429,.500,2.6,0.2,0.2,1.1,3.0,10.5,0.2,.033,-4.8,-0.2,,248263

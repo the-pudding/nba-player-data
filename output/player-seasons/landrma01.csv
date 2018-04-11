@@ -1,2 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-landrma01,2009-10,24,"NYK,BOS",NBA,18,6.2,.372,.600,1.1,0.0,0.1,0.1,2.4,7.2,-0.1,-0.034,-11.8,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+landrma01,2009-10,24,Boston Celtics,NBA,18,6.2,.372,.600,1.1,0.0,0.1,0.1,2.4,7.2,-0.1,-0.034,-11.8,-0.3,,457588
+landrma01,2009-10,24,Boston Celtics,NBA,17,6.4,.390,.600,1.1,0.0,0.1,0.1,2.6,8.1,0.0,-0.015,-11.3,-0.3,,457588
+landrma01,2009-10,24,Boston Celtics,NBA,1,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-26.8,0.0,-0.738,-29.9,0.0,,457588

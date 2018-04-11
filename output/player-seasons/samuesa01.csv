@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-samuesa01,2010-11,22,CLE,NBA,37,18.9,.456,.618,4.3,0.5,0.4,0.5,7.8,11.7,0.0,.002,-5.9,-0.7,
-samuesa01,2011-12,23,CLE,NBA,54,15.3,.455,.701,3.3,0.4,0.4,0.4,5.4,11.1,0.7,.039,-5.4,-0.7,
-samuesa01,2012-13,24,CLE,NBA,18,10.9,.367,.583,1.6,0.4,0.2,0.2,3.2,6.2,-0.1,-0.016,-7.7,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+samuesa01,2010-11,22,Cleveland Cavaliers,NBA,37,18.9,.456,.618,4.3,0.5,0.4,0.5,7.8,11.7,0.0,.002,-5.9,-0.7,,500000
+samuesa01,2011-12,23,Cleveland Cavaliers,NBA,54,15.3,.455,.701,3.3,0.4,0.4,0.4,5.4,11.1,0.7,.039,-5.4,-0.7,,762195
+samuesa01,2012-13,24,Cleveland Cavaliers,NBA,18,10.9,.367,.583,1.6,0.4,0.2,0.2,3.2,6.2,-0.1,-0.016,-7.7,-0.3,,341756

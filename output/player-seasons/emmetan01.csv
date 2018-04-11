@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-emmetan01,2004-05,22,MEM,NBA,8,3.5,.333,.600,0.3,0.0,0.0,0.0,0.9,0.9,0.0,-0.038,-12.9,-0.1,
-emmetan01,2005-06,23,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,
-emmetan01,2006-07,24,"Did Not Play (other pro league—Lithuania, D-League)",,,,,,,,,,,,,,,,
-emmetan01,2007-08,25,Did Not Play (other pro league—Belgium),,,,,,,,,,,,,,,,
-emmetan01,2008-09,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,
-emmetan01,2009-10,27,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,
-emmetan01,2010-11,28,"Did Not Play (other pro league—China, D-League)",,,,,,,,,,,,,,,,
-emmetan01,2011-12,29,NJN,NBA,6,7.5,.571,.625,1.0,0.2,0.3,0.2,2.2,13.3,0.1,.089,-2.9,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+emmetan01,2004-05,22,Memphis Grizzlies,NBA,8,3.5,.333,.600,0.3,0.0,0.0,0.0,0.9,0.9,0.0,-0.038,-12.9,-0.1,,385277
+emmetan01,2005-06,23,Miami Heat,NBA,,,,,,,,,,,,,,,,641748
+emmetan01,2006-07,24,"Did Not Play (other pro league—Lithuania, D-League)",,,,,,,,,,,,,,,,,
+emmetan01,2007-08,25,Did Not Play (other pro league—Belgium),,,,,,,,,,,,,,,,,
+emmetan01,2008-09,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
+emmetan01,2009-10,27,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,
+emmetan01,2010-11,28,"Did Not Play (other pro league—China, D-League)",,,,,,,,,,,,,,,,,
+emmetan01,2011-12,29,New Jersey Nets,NBA,6,7.5,.571,.625,1.0,0.2,0.3,0.2,2.2,13.3,0.1,.089,-2.9,0.0,,61433

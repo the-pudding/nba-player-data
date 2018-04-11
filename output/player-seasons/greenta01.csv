@@ -1,2 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-greenta01,2007-08,21,"POR,DEN",NBA,17,4.4,.280,.917,0.6,0.6,0.1,0.0,1.6,7.0,-0.1,-0.066,-8.2,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+greenta01,2007-08,21,Denver Nuggets,NBA,17,4.4,.280,.917,0.6,0.6,0.1,0.0,1.6,7.0,-0.1,-0.066,-8.2,-0.1,,427163
+greenta01,2007-08,21,Denver Nuggets,NBA,8,5.5,.250,1.000,0.5,1.0,0.1,0.0,2.1,5.8,-0.1,-0.125,-9.4,-0.1,,427163
+greenta01,2007-08,21,Denver Nuggets,NBA,9,3.3,.333,.750,0.7,0.3,0.1,0.0,1.1,8.8,0.0,.020,-6.5,0.0,,427163

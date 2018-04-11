@@ -1,3 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-smithru01,2014-15,23,"NOP,MEM",NBA,12,5.4,.320,.923,0.5,0.7,0.3,0.0,2.5,5.2,-0.1,-0.094,-8.0,-0.1,
-smithru01,2015-16,24,MEM,NBA,15,4.4,.318,.615,0.6,0.7,0.3,0.1,1.5,10.5,-0.1,-0.041,-4.8,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+smithru01,2014-15,23,Memphis Grizzlies,NBA,12,5.4,.320,.923,0.5,0.7,0.3,0.0,2.5,5.2,-0.1,-0.094,-8.0,-0.1,,816482
+smithru01,2014-15,23,Memphis Grizzlies,NBA,6,4.8,.200,,0.5,0.3,0.0,0.0,0.8,-16.6,-0.3,-0.477,-20.7,-0.1,,816482
+smithru01,2014-15,23,Memphis Grizzlies,NBA,6,6.0,.400,.923,0.5,1.0,0.5,0.0,4.2,22.7,0.2,.214,2.2,0.0,,816482
+smithru01,2015-16,24,Memphis Grizzlies,NBA,15,4.4,.318,.615,0.6,0.7,0.3,0.1,1.5,10.5,-0.1,-0.041,-4.8,0.0,,816482

@@ -1,3 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-dekkesa01,2015-16,21,HOU,NBA,3,2.0,,,0.3,0.0,0.3,0.0,0.0,10.8,0.0,.116,0.5,0.0,
-dekkesa01,2016-17,22,HOU,NBA,77,18.4,.473,.559,3.7,1.0,0.5,0.3,6.5,13.1,3.1,.104,-1.0,0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+dekkesa01,2015-16,21,Houston Rockets,NBA,3,2.0,,,0.3,0.0,0.3,0.0,0.0,10.8,0.0,.116,0.5,0.0,,1646400
+dekkesa01,2016-17,22,Houston Rockets,NBA,77,18.4,.473,.559,3.7,1.0,0.5,0.3,6.5,13.1,3.1,.104,-1.0,0.3,,1720560
+dekkesa01,2017-18,23,LAC,NBA,72,11.9,.486,.673,2.3,0.5,0.3,0.1,4.1,11.4,1.2,.065,-3.1,-0.2,,

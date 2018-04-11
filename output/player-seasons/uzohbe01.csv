@@ -1,3 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-uzohbe01,2010-11,22,NJN,NBA,42,10.4,.424,.589,1.5,1.6,0.3,0.2,3.8,14.7,0.5,.054,-1.7,0.0,
-uzohbe01,2011-12,23,"CLE,TOR",NBA,18,20.6,.354,.579,3.7,3.4,0.9,0.2,4.5,10.9,0.2,.032,-1.2,0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+uzohbe01,2010-11,22,New Jersey Nets,NBA,42,10.4,.424,.589,1.5,1.6,0.3,0.2,3.8,14.7,0.5,.054,-1.7,0.0,,473604
+uzohbe01,2011-12,23,Cleveland Cavaliers,NBA,18,20.6,.354,.579,3.7,3.4,0.9,0.2,4.5,10.9,0.2,.032,-1.2,0.1,,61433
+uzohbe01,2011-12,23,Cleveland Cavaliers,NBA,2,6.5,.400,,2.0,1.0,0.5,0.0,2.0,21.0,0.0,.161,4.5,0.0,,61433
+uzohbe01,2011-12,23,Cleveland Cavaliers,NBA,16,22.3,.351,.579,3.9,3.7,1.0,0.2,4.8,10.5,0.2,.027,-1.4,0.1,,61433

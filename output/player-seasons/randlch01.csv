@@ -1,2 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-randlch01,2016-17,23,"PHI,NYK",NBA,26,11.5,.408,.953,1.2,1.3,0.3,0.1,5.3,13.6,0.7,.106,-2.6,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+randlch01,2016-17,23,Philadelphia 76ers,NBA,26,11.5,.408,.953,1.2,1.3,0.3,0.1,5.3,13.6,0.7,.106,-2.6,0.0,,297311
+randlch01,2016-17,23,Philadelphia 76ers,NBA,8,9.3,.462,1.000,0.6,0.8,0.4,0.1,5.3,17.7,0.3,.197,-0.1,0.0,,297311
+randlch01,2016-17,23,Philadelphia 76ers,NBA,18,12.5,.389,.935,1.5,1.6,0.3,0.1,5.3,12.3,0.4,.075,-3.4,-0.1,,297311

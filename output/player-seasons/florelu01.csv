@@ -1,2 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-florelu01,2004-05,23,"GSW,DEN",NBA,16,4.8,.483,1.000,0.2,0.7,0.1,0.0,2.2,10.1,0.0,-0.020,-9.6,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+florelu01,2004-05,23,Golden State Warriors,NBA,16,4.8,.483,1.000,0.2,0.7,0.1,0.0,2.2,10.1,0.0,-0.020,-9.6,-0.1,,385277
+florelu01,2004-05,23,Golden State Warriors,NBA,15,4.9,.481,1.000,0.1,0.7,0.1,0.0,2.1,8.8,-0.1,-0.039,-10.2,-0.2,,385277
+florelu01,2004-05,23,Golden State Warriors,NBA,1,4.0,.500,,1.0,0.0,0.0,0.0,3.0,33.7,0.0,.324,2.3,0.0,,385277

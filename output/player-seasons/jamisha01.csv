@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jamisha01,1999-00,23,MIA,NBA,12,6.2,.350,.222,1.8,0.3,0.2,0.1,1.5,6.6,0.0,-0.017,-4.1,0.0,
-jamisha01,2000-01,24,Did Not Play (other pro league—Poland),,,,,,,,,,,,,,,,
-jamisha01,2001-02,25,LAC,NBA,25,7.0,.512,.667,1.6,0.2,0.2,0.0,2.2,13.9,0.5,.126,-1.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+jamisha01,1999-00,23,Miami Heat,NBA,12,6.2,.350,.222,1.8,0.3,0.2,0.1,1.5,6.6,0.0,-0.017,-4.1,0.0,,301875
+jamisha01,2000-01,24,Did Not Play (other pro league—Poland),,,,,,,,,,,,,,,,,
+jamisha01,2001-02,25,Los Angeles Clippers,NBA,25,7.0,.512,.667,1.6,0.2,0.2,0.0,2.2,13.9,0.5,.126,-1.0,0.0,,600000

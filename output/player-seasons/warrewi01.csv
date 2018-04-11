@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-warrewi01,2010-11,21,LAC,NBA,19,7.1,.371,.750,0.6,1.4,0.3,0.0,1.9,10.8,0.2,.065,-4.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+warrewi01,2010-11,21,Los Angeles Clippers,NBA,19,7.1,.371,.750,0.6,1.4,0.3,0.0,1.9,10.8,0.2,.065,-4.5,-0.1,,500000

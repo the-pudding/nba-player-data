@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-dickeka01,2003-04,25,POR,NBA,3,4.0,1.000,.500,0.7,0.0,0.0,0.0,2.3,23.1,0.0,.180,-2.4,0.0,
-dickeka01,2004-05,26,NJN,NBA,11,5.5,.286,1.000,0.8,0.1,0.2,0.1,1.2,6.7,0.0,.036,-5.3,-0.1,
-dickeka01,2005-06,27,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,
-dickeka01,2006-07,28,Did Not Play (other pro league—Ukraine),,,,,,,,,,,,,,,,
-dickeka01,2007-08,29,CLE,NBA,5,2.4,.333,,0.2,0.2,0.0,0.2,0.4,6.6,0.0,.023,-6.6,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+dickeka01,2003-04,25,Portland Trail Blazers,NBA,3,4.0,1.000,.500,0.7,0.0,0.0,0.0,2.3,23.1,0.0,.180,-2.4,0.0,,264011
+dickeka01,2004-05,26,New Jersey Nets,NBA,11,5.5,.286,1.000,0.8,0.1,0.2,0.1,1.2,6.7,0.0,.036,-5.3,-0.1,,483938
+dickeka01,2005-06,27,Los Angeles Clippers,NBA,,,,,,,,,,,,,,,,31305
+dickeka01,2006-07,28,Did Not Play (other pro league—Ukraine),,,,,,,,,,,,,,,,,
+dickeka01,2007-08,29,Cleveland Cavaliers,NBA,5,2.4,.333,,0.2,0.2,0.0,0.2,0.4,6.6,0.0,.023,-6.6,0.0,,264897

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-gordodr01,2014-15,24,PHI,NBA,9,7.9,.421,.500,2.0,0.2,0.1,0.0,1.9,3.7,-0.1,-0.093,-11.3,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+gordodr01,2014-15,24,Philadelphia 76ers,NBA,9,7.9,.421,.500,2.0,0.2,0.1,0.0,1.9,3.7,-0.1,-0.093,-11.3,-0.2,,40000

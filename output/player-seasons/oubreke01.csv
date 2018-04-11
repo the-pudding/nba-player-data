@@ -1,3 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-oubreke01,2015-16,20,WAS,NBA,63,10.7,.427,.633,2.1,0.2,0.3,0.1,3.7,8.2,0.4,.031,-5.8,-0.7,
-oubreke01,2016-17,21,WAS,NBA,79,20.3,.421,.758,3.3,0.6,0.7,0.2,6.3,9.1,2.0,.061,-2.3,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+oubreke01,2015-16,20,Washington Wizards,NBA,63,10.7,.427,.633,2.1,0.2,0.3,0.1,3.7,8.2,0.4,.031,-5.8,-0.7,,1920240
+oubreke01,2016-17,21,Washington Wizards,NBA,79,20.3,.421,.758,3.3,0.6,0.7,0.2,6.3,9.1,2.0,.061,-2.3,-0.1,,2006640
+oubreke01,2017-18,22,WAS,NBA,80,27.6,.404,.819,4.5,1.2,1.0,0.4,11.8,12.1,3.7,.081,-1.2,0.4,,

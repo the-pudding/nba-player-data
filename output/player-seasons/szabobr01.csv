@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-szabobr01,1996-97,28,BOS,NBA,70,9.5,.446,.738,2.4,0.2,0.2,0.5,2.2,8.8,0.4,.031,-5.4,-0.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+szabobr01,1996-97,28,Boston Celtics,NBA,70,9.5,.446,.738,2.4,0.2,0.2,0.5,2.2,8.8,0.4,.031,-5.4,-0.6,,220000

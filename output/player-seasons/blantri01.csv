@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-blantri01,1992-93,26,CHI,NBA,2,6.5,.429,,1.5,0.5,1.0,0.0,3.0,19.3,0.0,.088,2.6,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+blantri01,1992-93,26,Chicago Bulls,NBA,2,6.5,.429,,1.5,0.5,1.0,0.0,3.0,19.3,0.0,.088,2.6,0.0,,8000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-elamikh01,2000-01,21,CHI,NBA,50,18.7,.370,.778,1.6,2.9,1.0,0.0,6.3,12.2,0.6,.030,-3.8,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+elamikh01,2000-01,21,Chicago Bulls,NBA,50,18.7,.370,.778,1.6,2.9,1.0,0.0,6.3,12.2,0.6,.030,-3.8,-0.4,,316969

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-brownan01,2006-07,25,SEA,NBA,38,7.1,.568,.600,1.9,0.1,0.2,0.1,2.4,11.1,0.0,-0.002,-8.5,-0.4,
-brownan01,2007-08,26,MEM,NBA,33,8.7,.500,.449,2.8,0.2,0.2,0.1,3.0,13.5,0.4,.068,-5.1,-0.2,
-brownan01,2008-09,27,CHA,NBA,4,10.3,.143,1.000,3.0,0.3,0.3,0.0,1.0,-1.5,-0.1,-0.122,-9.3,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+brownan01,2006-07,25,Seattle SuperSonics,NBA,38,7.1,.568,.600,1.9,0.1,0.2,0.1,2.4,11.1,0.0,-0.002,-8.5,-0.4,,241591
+brownan01,2007-08,26,Memphis Grizzlies,NBA,33,8.7,.500,.449,2.8,0.2,0.2,0.1,3.0,13.5,0.4,.068,-5.1,-0.2,,711517
+brownan01,2008-09,27,Charlotte Bobcats,NBA,4,10.3,.143,1.000,3.0,0.3,0.3,0.0,1.0,-1.5,-0.1,-0.122,-9.3,-0.1,,107908

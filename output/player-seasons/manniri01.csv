@@ -1,3 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-manniri01,1995-96,25,VAN,NBA,29,10.7,.434,.643,1.9,0.2,0.1,0.2,3.7,7.6,-0.2,-0.035,-9.6,-0.6,
-manniri01,1996-97,26,"VAN,LAC",NBA,26,7.7,.390,.643,1.5,0.1,0.2,0.1,2.9,8.9,-0.1,-0.017,-10.5,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+manniri01,1995-96,25,VAN,NBA,29,10.7,.434,.643,1.9,0.2,0.1,0.2,3.7,7.6,-0.2,-0.035,-9.6,-0.6,,
+manniri01,1996-97,26,Vancouver Grizzlies,NBA,26,7.7,.390,.643,1.5,0.1,0.2,0.1,2.9,8.9,-0.1,-0.017,-10.5,-0.4,,247500
+manniri01,1996-97,26,Vancouver Grizzlies,NBA,16,8.0,.375,.750,1.4,0.1,0.2,0.1,2.8,7.7,-0.1,-0.033,-11.0,-0.3,,247500
+manniri01,1996-97,26,Vancouver Grizzlies,NBA,10,7.3,.412,.500,1.6,0.1,0.1,0.1,3.1,10.9,0.0,.012,-9.6,-0.1,,247500

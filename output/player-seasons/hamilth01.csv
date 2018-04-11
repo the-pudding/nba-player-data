@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hamilth01,1995-96,20,BOS,NBA,11,6.4,.290,.389,2.0,0.1,0.0,0.8,2.3,4.3,-0.3,-0.213,-14.9,-0.2,
-hamilth01,1996-97,21,Did Not Play,,,,,,,,,,,,,,,,
-hamilth01,1997-98,22,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-hamilth01,1998-99,23,Did Not Play,,,,,,,,,,,,,,,,
-hamilth01,1999-00,24,HOU,NBA,22,12.4,.443,.522,4.1,0.7,0.2,0.6,3.7,11.4,0.0,.002,-4.7,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+hamilth01,1995-96,20,BOS,NBA,11,6.4,.290,.389,2.0,0.1,0.0,0.8,2.3,4.3,-0.3,-0.213,-14.9,-0.2,,
+hamilth01,1996-97,21,Did Not Play,,,,,,,,,,,,,,,,,
+hamilth01,1997-98,22,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+hamilth01,1998-99,23,Did Not Play,,,,,,,,,,,,,,,,,
+hamilth01,1999-00,24,Houston Rockets,NBA,22,12.4,.443,.522,4.1,0.7,0.2,0.6,3.7,11.4,0.0,.002,-4.7,-0.2,,510000

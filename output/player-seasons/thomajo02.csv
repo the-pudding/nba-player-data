@@ -1,10 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-thomajo02,1997-98,22,"BOS,TOR",NBA,54,9.9,.487,.759,2.0,0.3,0.4,0.2,2.8,9.1,0.4,.034,-4.7,-0.4,
-thomajo02,1998-99,23,TOR,NBA,39,15.2,.577,.563,3.4,0.4,0.4,0.2,4.3,13.7,1.5,.125,-1.1,0.1,
-thomajo02,1999-00,24,TOR,NBA,55,8.7,.458,.390,1.4,0.2,0.2,0.3,2.1,6.5,0.4,.038,-5.0,-0.4,
-thomajo02,2000-01,25,"Did Not Play (other pro league—Domincan Republic, China)",,,,,,,,,,,,,,,,
-thomajo02,2001-02,26,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,
-thomajo02,2002-03,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-thomajo02,2003-04,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-thomajo02,2004-05,29,MIN,NBA,44,11.8,.488,.587,2.2,0.4,0.3,0.3,2.5,9.1,0.9,.083,-1.5,0.1,
-thomajo02,2005-06,30,"MEM,ATL,NJN",NBA,16,7.9,.400,.750,1.3,0.1,0.2,0.1,0.9,3.4,0.0,-0.017,-8.0,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+thomajo02,1997-98,22,Boston Celtics,NBA,54,9.9,.487,.759,2.0,0.3,0.4,0.2,2.8,9.1,0.4,.034,-4.7,-0.4,,640440
+thomajo02,1997-98,22,Boston Celtics,NBA,33,11.2,.513,.788,2.1,0.4,0.6,0.3,3.3,10.2,0.4,.054,-3.0,-0.1,,640440
+thomajo02,1997-98,22,Boston Celtics,NBA,21,8.0,.424,.714,1.7,0.2,0.1,0.1,2.0,6.8,0.0,-0.009,-8.5,-0.3,,640440
+thomajo02,1998-99,23,Toronto Raptors,NBA,39,15.2,.577,.563,3.4,0.4,0.4,0.2,4.3,13.7,1.5,.125,-1.1,0.1,,737000
+thomajo02,1999-00,24,Toronto Raptors,NBA,55,8.7,.458,.390,1.4,0.2,0.2,0.3,2.1,6.5,0.4,.038,-5.0,-0.4,,832560
+thomajo02,2000-01,25,"Did Not Play (other pro league—Domincan Republic, China)",,,,,,,,,,,,,,,,,
+thomajo02,2001-02,26,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,
+thomajo02,2002-03,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+thomajo02,2003-04,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+thomajo02,2004-05,29,MIN,NBA,44,11.8,.488,.587,2.2,0.4,0.3,0.3,2.5,9.1,0.9,.083,-1.5,0.1,,
+thomajo02,2005-06,30,Atlanta Hawks,NBA,16,7.9,.400,.750,1.3,0.1,0.2,0.1,0.9,3.4,0.0,-0.017,-8.0,-0.2,,178675
+thomajo02,2005-06,30,Atlanta Hawks,NBA,3,8.3,1.000,,0.0,0.3,0.0,0.3,1.3,3.8,0.0,.012,-7.2,0.0,,178675
+thomajo02,2005-06,30,Atlanta Hawks,NBA,11,6.0,.429,.750,0.9,0.1,0.2,0.0,0.8,3.1,0.0,-0.023,-7.4,-0.1,,178675
+thomajo02,2005-06,30,Atlanta Hawks,NBA,2,18.0,.167,,5.0,0.0,0.5,0.5,1.0,3.5,0.0,-0.027,-9.6,-0.1,,178675

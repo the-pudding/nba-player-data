@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jonesdo01,1997-98,22,BOS,NBA,15,6.1,.333,,0.6,0.3,0.1,0.2,2.9,3.8,-0.3,-0.175,-11.8,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+jonesdo01,1997-98,22,Boston Celtics,NBA,15,6.1,.333,,0.6,0.3,0.1,0.2,2.9,3.8,-0.3,-0.175,-11.8,-0.2,,794880

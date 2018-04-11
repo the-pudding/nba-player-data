@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-braggma01,1995-96,25,MIN,NBA,53,7.0,.450,.561,1.5,0.2,0.3,0.2,2.5,9.8,0.1,.012,-5.9,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+braggma01,1995-96,25,Minnesota Timberwolves,NBA,53,7.0,.450,.561,1.5,0.2,0.3,0.2,2.5,9.8,0.1,.012,-5.9,-0.4,,225000

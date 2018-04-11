@@ -1,2 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-papagge01,2016-17,19,SAC,NBA,22,16.1,.549,.857,3.9,0.9,0.1,0.8,5.6,12.7,0.4,.057,-2.7,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+papagge01,2016-17,19,Sacramento Kings,NBA,22,16.1,.549,.857,3.9,0.9,0.1,0.8,5.6,12.7,0.4,.057,-2.7,-0.1,,2202240
+papagge01,2017-18,20,"SAC,POR",NBA,17,7.2,.429,,2.2,0.5,0.2,0.4,2.1,12.2,0.0,.004,-3.7,-0.1,,

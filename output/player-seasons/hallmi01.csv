@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hallmi01,2006-07,22,WAS,NBA,2,6.5,.250,,1.0,0.5,0.0,0.0,1.0,3.1,0.0,-0.073,-9.4,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+hallmi01,2006-07,22,Washington Wizards,NBA,2,6.5,.250,,1.0,0.5,0.0,0.0,1.0,3.1,0.0,-0.073,-9.4,0.0,,135895

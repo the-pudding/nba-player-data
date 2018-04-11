@@ -1,2 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-gibsojo01,2016-17,29,DAL,NBA,17,13.6,.368,.724,1.3,1.5,0.5,0.0,6.2,9.5,-0.1,-0.030,-5.5,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+gibsojo01,2016-17,29,Dallas Mavericks,NBA,17,13.6,.368,.724,1.3,1.5,0.5,0.0,6.2,9.5,-0.1,-0.030,-5.5,-0.2,,680937
+gibsojo01,2017-18,30,BOS,NBA,3,5.0,.600,,0.3,0.7,0.0,0.0,5.3,37.4,0.1,.394,12.0,0.1,,

@@ -1,3 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-tayloje02,2009-10,23,HOU,NBA,31,9.8,.378,.717,1.5,0.5,0.3,0.1,4.1,11.4,0.1,.015,-5.5,-0.3,
-tayloje02,2010-11,24,"HOU,SAC",NBA,34,14.2,.480,.750,1.8,0.9,0.4,0.1,6.6,12.2,0.1,.014,-4.0,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+tayloje02,2009-10,23,Houston Rockets,NBA,31,9.8,.378,.717,1.5,0.5,0.3,0.1,4.1,11.4,0.1,.015,-5.5,-0.3,,725000
+tayloje02,2010-11,24,Sacramento Kings,NBA,34,14.2,.480,.750,1.8,0.9,0.4,0.1,6.6,12.2,0.1,.014,-4.0,-0.2,,780871
+tayloje02,2010-11,24,Sacramento Kings,NBA,8,9.6,.500,.833,1.1,0.3,0.3,0.3,4.9,13.3,0.0,.027,-6.5,-0.1,,780871
+tayloje02,2010-11,24,Sacramento Kings,NBA,26,15.6,.476,.727,2.0,1.2,0.5,0.1,7.1,12.0,0.1,.011,-3.5,-0.2,,780871

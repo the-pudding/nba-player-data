@@ -1,5 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-morriad01,2006-07,22,CHA,NBA,78,29.8,.376,.710,2.9,2.1,0.4,0.1,11.8,7.9,-1.5,-0.030,-5.5,-2.0,
-morriad01,2007-08,23,Did Not Play (injury—knee),,,,,,,,,,,,,,,,
-morriad01,2008-09,24,"CHA,LAL",NBA,52,13.7,.359,.739,1.5,0.8,0.2,0.1,4.0,5.7,0.0,.001,-5.5,-0.6,
-morriad01,2009-10,25,LAL,NBA,31,7.8,.376,.625,1.0,0.6,0.1,0.1,2.4,7.4,0.0,.009,-6.2,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+morriad01,2006-07,22,Charlotte Bobcats,NBA,78,29.8,.376,.710,2.9,2.1,0.4,0.1,11.8,7.9,-1.5,-0.030,-5.5,-2.0,,3616680
+morriad01,2007-08,23,Charlotte Bobcats,NBA,,,,,,,,,,,,,,,,3887880
+morriad01,2008-09,24,Los Angeles Lakers,NBA,52,13.7,.359,.739,1.5,0.8,0.2,0.1,4.0,5.7,0.0,.001,-5.5,-0.6,,4159200
+morriad01,2008-09,24,Los Angeles Lakers,NBA,44,15.2,.360,.762,1.6,0.9,0.2,0.1,4.5,5.8,0.1,.004,-5.3,-0.6,,4159200
+morriad01,2008-09,24,Los Angeles Lakers,NBA,8,5.5,.333,.500,1.0,0.4,0.0,0.0,1.3,2.9,0.0,-0.045,-8.5,-0.1,,4159200
+morriad01,2009-10,25,Los Angeles Lakers,NBA,31,7.8,.376,.625,1.0,0.6,0.1,0.1,2.4,7.4,0.0,.009,-6.2,-0.3,,5257229

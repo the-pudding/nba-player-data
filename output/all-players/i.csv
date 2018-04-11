@@ -1,17 +1,20 @@
 name,link,year_from,year_to,college,active
 Marc Iavaroni,/players/i/iavarma01.html,1983,1989,University of Virginia,false
-Serge Ibaka,/players/i/ibakase01.html,2010,2017,,true
-Andre Iguodala,/players/i/iguodan01.html,2005,2017,University of Arizona,true
+Serge Ibaka,/players/i/ibakase01.html,2010,2018,,true
+Andre Iguodala,/players/i/iguodan01.html,2005,2018,University of Arizona,true
 Zydrunas Ilgauskas,/players/i/ilgauzy01.html,1998,2011,,false
 Mile Ilic,/players/i/ilicmi01.html,2007,2007,,false
-Didier Ilunga-Mbenga,/players/m/mbengdj01.html,2005,2011,,true
-Ersan Ilyasova,/players/i/ilyaser01.html,2007,2017,,true
-Joe Ingles,/players/i/inglejo01.html,2015,2017,,true
-Damien Inglis,/players/i/inglida01.html,2016,2016,,true
-Brandon Ingram,/players/i/ingrabr01.html,2017,2017,Duke University,true
-Byron Irvin,/players/i/irvinby01.html,1990,1993,University of Missouri,false
-Kyrie Irving,/players/i/irvinky01.html,2012,2017,Duke University,true
+Didier Ilunga-Mbenga,/players/m/mbengdj01.html,2005,2011,,false
+Ersan Ilyasova,/players/i/ilyaser01.html,2007,2018,,true
+Joe Ingles,/players/i/inglejo01.html,2015,2018,,true
+Damien Inglis,/players/i/inglida01.html,2016,2016,,false
+Andre Ingram,/players/i/ingraan01.html,2018,2018,,true
+Brandon Ingram,/players/i/ingrabr01.html,2017,2018,Duke University,true
+Byron Irvin,/players/i/irvinby01.html,1990,1993,"University of Arkansas, University of Missouri",false
+Kyrie Irving,/players/i/irvinky01.html,2012,2018,Duke University,true
+Jonathan Isaac,/players/i/isaacjo01.html,2018,2018,Florida State University,true
 Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false
-Mike Iuzzolino,/players/i/iuzzomi01.html,1992,1993,Saint Francis University,false
+Mike Iuzzolino,/players/i/iuzzomi01.html,1992,1993,"Pennsylvania State University, Saint Francis University",false
 Allen Iverson,/players/i/iversal01.html,1997,2010,Georgetown University,false
 Royal Ivey,/players/i/iveyro01.html,2005,2014,University of Texas at Austin,false
+Wesley Iwundu,/players/i/iwundwe01.html,2018,2018,Kansas State University,true

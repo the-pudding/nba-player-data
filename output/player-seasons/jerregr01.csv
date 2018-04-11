@@ -1,2 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jerregr01,2014-15,21,"OKC,UTA",NBA,8,6.4,.269,1.000,1.1,0.4,0.3,0.3,2.0,1.5,-0.1,-0.128,-8.4,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+jerregr01,2014-15,21,Utah Jazz,NBA,8,6.4,.269,1.000,1.1,0.4,0.3,0.3,2.0,1.5,-0.1,-0.128,-8.4,-0.1,,816481
+jerregr01,2014-15,21,Utah Jazz,NBA,5,5.0,.176,,0.8,0.2,0.0,0.4,1.4,-11.0,-0.2,-0.373,-16.4,-0.1,,816481
+jerregr01,2014-15,21,Utah Jazz,NBA,3,8.7,.444,1.000,1.7,0.7,0.7,0.0,3.0,13.6,0.1,.108,-0.6,0.0,,816481

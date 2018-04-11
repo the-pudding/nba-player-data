@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-henryca01,1985-86,25,SAC,NBA,28,5.3,.463,.706,0.7,0.1,0.2,0.0,2.8,12.5,0.2,.049,-5.8,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+henryca01,1985-86,25,Sacramento Kings,NBA,28,5.3,.463,.706,0.7,0.1,0.2,0.0,2.8,12.5,0.2,.049,-5.8,-0.1,,85000

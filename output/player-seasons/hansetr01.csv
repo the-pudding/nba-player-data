@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hansetr01,2003-04,25,ATL,NBA,41,12.4,.354,.815,1.7,0.5,0.2,0.2,3.0,7.2,0.2,.019,-5.0,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+hansetr01,2003-04,25,Atlanta Hawks,NBA,41,12.4,.354,.815,1.7,0.5,0.2,0.2,3.0,7.2,0.2,.019,-5.0,-0.4,,366931

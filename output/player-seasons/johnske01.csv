@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-johnske01,1985-86,23,POR,NBA,64,12.7,.528,.435,3.8,0.3,0.2,0.3,4.1,9.3,0.8,.044,-5.0,-0.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+johnske01,1985-86,23,Portland Trail Blazers,NBA,64,12.7,.528,.435,3.8,0.3,0.2,0.3,4.1,9.3,0.8,.044,-5.0,-0.6,,106000

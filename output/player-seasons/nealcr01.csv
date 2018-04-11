@@ -1,4 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-nealcr01,1988-89,24,"POR,MIA",NBA,53,9.4,.366,.609,0.5,2.2,0.5,0.1,2.2,6.7,-0.3,-0.025,-8.4,-0.8,
-nealcr01,1989-90,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-nealcr01,1990-91,26,DEN,NBA,10,12.5,.400,.591,1.6,3.7,0.4,0.0,4.4,8.2,-0.1,-0.047,-8.1,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+nealcr01,1988-89,24,Portland Trail Blazers,NBA,53,9.4,.366,.609,0.5,2.2,0.5,0.1,2.2,6.7,-0.3,-0.025,-8.4,-0.8,,100000
+nealcr01,1988-89,24,Portland Trail Blazers,NBA,21,7.6,.314,.500,0.5,1.5,0.4,0.0,1.2,4.3,-0.1,-0.032,-7.4,-0.2,,100000
+nealcr01,1988-89,24,Portland Trail Blazers,NBA,32,10.7,.386,.619,0.6,2.7,0.5,0.1,2.8,7.9,-0.2,-0.022,-8.9,-0.6,,100000
+nealcr01,1989-90,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
+nealcr01,1990-91,26,DEN,NBA,10,12.5,.400,.591,1.6,3.7,0.4,0.0,4.4,8.2,-0.1,-0.047,-8.1,-0.2,,

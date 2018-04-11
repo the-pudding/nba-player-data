@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-durhapa01,1992-93,25,GSW,NBA,5,15.6,.240,.750,2.8,0.8,0.2,0.2,4.2,2.9,-0.2,-0.110,-10.6,-0.2,
-durhapa01,1993-94,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,
-durhapa01,1994-95,27,MIN,NBA,59,14.4,.494,.656,1.6,0.9,0.6,0.5,5.1,12.2,0.9,.051,-2.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+durhapa01,1992-93,25,GSW,NBA,5,15.6,.240,.750,2.8,0.8,0.2,0.2,4.2,2.9,-0.2,-0.110,-10.6,-0.2,,
+durhapa01,1993-94,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
+durhapa01,1994-95,27,Minnesota Timberwolves,NBA,59,14.4,.494,.656,1.6,0.9,0.6,0.5,5.1,12.2,0.9,.051,-2.1,0.0,,126000

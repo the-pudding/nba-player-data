@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jennike01,1992-93,24,GSW,NBA,8,17.0,.595,.778,1.4,2.9,0.5,0.0,8.6,18.5,0.6,.205,-0.2,0.1,
-jennike01,1993-94,25,GSW,NBA,76,14.4,.404,.833,1.2,2.9,0.9,0.0,5.7,15.5,2.9,.126,-1.3,0.2,
-jennike01,1994-95,26,GSW,NBA,80,21.5,.447,.876,1.9,4.7,1.2,0.0,7.4,15.3,4.2,.117,-0.6,0.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+jennike01,1992-93,24,Golden State Warriors,NBA,8,17.0,.595,.778,1.4,2.9,0.5,0.0,8.6,18.5,0.6,.205,-0.2,0.1,,140000
+jennike01,1993-94,25,Golden State Warriors,NBA,76,14.4,.404,.833,1.2,2.9,0.9,0.0,5.7,15.5,2.9,.126,-1.3,0.2,,250000
+jennike01,1994-95,26,Golden State Warriors,NBA,80,21.5,.447,.876,1.9,4.7,1.2,0.0,7.4,15.3,4.2,.117,-0.6,0.6,,350000

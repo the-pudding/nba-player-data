@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-greende01,2005-06,23,LAL,NBA,27,5.0,.214,.619,0.9,0.3,0.1,0.0,0.9,4.7,-0.1,-0.018,-7.7,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+greende01,2005-06,23,Los Angeles Lakers,NBA,27,5.0,.214,.619,0.9,0.3,0.1,0.0,0.9,4.7,-0.1,-0.018,-7.7,-0.2,,398762

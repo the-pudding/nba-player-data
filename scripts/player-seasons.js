@@ -19,13 +19,13 @@ const USE = {
 		'AST',
 		'STL',
 		'BLK',
-		'PTS',
+		'PTS'
 	],
-	advanced: ['Season', 'Tm', 'PER', 'WS', 'WS/48', 'BPM', 'VORP'],
+	advanced: ['Season', 'Tm', 'PER', 'WS', 'WS/48', 'BPM', 'VORP']
 };
 
 const data = d3.csvParse(
-	fs.readFileSync('./output/all-players--joined.csv', 'utf-8'),
+	fs.readFileSync('./output/all-players--joined.csv', 'utf-8')
 );
 
 function getValues($, tr, cols, bbrID) {
@@ -38,7 +38,7 @@ function getValues($, tr, cols, bbrID) {
 
 	const filtered = values.filter(d => colsIndex.includes(d.index)).map(d => ({
 		value: d.value,
-		prop: cols.find(c => c.index === d.index).name,
+		prop: cols.find(c => c.index === d.index).name
 	}));
 
 	const season = { bbrID };
@@ -59,7 +59,7 @@ function getSeasonStats(bbrID, html, table) {
 		.map((i, el) =>
 			$(el)
 				.text()
-				.trim(),
+				.trim()
 		)
 		.get();
 
@@ -94,12 +94,54 @@ function getAwardStats(html) {
 		.get();
 
 	return awards.filter(
-		d => !d.Award.includes('Defensive') && !d.Award.includes('Rookie'),
+		d => !d.Award.includes('Defensive') && !d.Award.includes('Rookie')
 	);
+}
+
+function getSalaryStats(html) {
+	if (!html) return [];
+	const $ = cheerio.load(html);
+	const $table = $('table');
+
+	const $rows = $table.find('tbody tr');
+	const seasons = [];
+	$rows.each((i, tr) => {
+		seasons.push({
+			Season: $(tr)
+				.find('th')
+				.eq(0)
+				.text()
+				.trim(),
+			Tm: $(tr)
+				.find('td')
+				.eq(0)
+				.text()
+				.trim(),
+			Lg: $(tr)
+				.find('td')
+				.eq(1)
+				.text()
+				.trim(),
+			Salary: $(tr)
+				.find('td')
+				.eq(2)
+				.text()
+				.trim()
+				.replace(/[^0-9]/g, '')
+		});
+	});
+	return seasons;
 }
 
 function getAdvancedHTML($) {
 	return $('#all_advanced')
+		.contents()
+		.map((i, node) => (node.type === 'comment' ? node.data : null))
+		.get()[0];
+}
+
+function getSalaryHTML($) {
+	return $('#all_all_salaries')
 		.contents()
 		.map((i, node) => (node.type === 'comment' ? node.data : null))
 		.get()[0];
@@ -112,17 +154,19 @@ function getAwardHTML($) {
 		.get()[0];
 }
 
-function joinStats(basic, advanced, award) {
+function joinStats(basic, advanced, award, salary) {
 	const joined = basic.map(b => {
 		const advancedMatch = advanced.find(
-			a => a.Season === b.Season && a.Tm === b.Tm,
+			a => a.Season === b.Season && a.Tm === b.Tm
 		);
 		const awardMatch = award.find(w => w.Season === b.Season) || {};
+		const salaryMatch = salary.find(w => w.Season === b.Season) || {};
 		return {
 			...b,
 			...advancedMatch,
 			Award: '',
 			...awardMatch,
+			...salaryMatch
 		};
 	});
 
@@ -132,7 +176,7 @@ function joinStats(basic, advanced, award) {
 	// remove actual teams
 	const others = joined.filter(d => tots.includes(d.Season) && d.Tm !== 'TOT');
 	const withoutDupes = joined.filter(
-		d => !(tots.includes(d.Season) && d.Tm !== 'TOT'),
+		d => !(tots.includes(d.Season) && d.Tm !== 'TOT')
 	);
 
 	const withOthers = withoutDupes.map(d => ({
@@ -143,7 +187,7 @@ function joinStats(basic, advanced, award) {
 					.filter(o => o.Season === d.Season)
 					.map(s => s.Tm)
 					.join(',')
-				: d.Tm,
+				: d.Tm
 	}));
 
 	return withOthers;
@@ -153,7 +197,7 @@ function getSeasons(player, i) {
 	console.log(d3.format('.1%')(i / data.length), i, player.bbrID);
 	const file = fs.readFileSync(
 		`./output/player-pages/${player.bbrID}.html`,
-		'utf-8',
+		'utf-8'
 	);
 	const $ = cheerio.load(file);
 
@@ -168,12 +212,21 @@ function getSeasons(player, i) {
 	const awards = getAwardHTML($);
 	const awardStats = getAwardStats(awards);
 
+	// SUPER hacky to convert comments into html but it works
+	const salary = getSalaryHTML($);
+	const salaryStats = getSalaryStats(salary);
+
 	// join all stats together
-	const joinedStats = joinStats(basicStats, advancedStats, awardStats);
+	const joinedStats = joinStats(
+		basicStats,
+		advancedStats,
+		awardStats,
+		salaryStats
+	);
 
 	// filter out pre merger
 	const mergerStats = joinedStats.filter(
-		d => +d.Season.split('-')[0] >= MIN_YEAR,
+		d => +d.Season.split('-')[0] >= MIN_YEAR
 	);
 
 	const csv = d3.csvFormat(mergerStats);
@@ -184,5 +237,5 @@ data.forEach(getSeasons);
 
 shell.exec(
 	'csvstack output/player-seasons/*.csv > output/player-seasons--all.csv',
-	{ silent: true },
+	{ silent: true }
 );

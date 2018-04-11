@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-russewa02,2011-12,29,DET,NBA,28,12.8,.347,.636,0.9,2.1,0.6,0.0,3.0,7.2,-0.4,-0.049,-6.8,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+russewa02,2011-12,29,Detroit Pistons,NBA,28,12.8,.347,.636,0.9,2.1,0.6,0.0,3.0,7.2,-0.4,-0.049,-6.8,-0.4,,374289

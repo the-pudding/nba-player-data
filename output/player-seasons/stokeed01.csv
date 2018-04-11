@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-stokeed01,1997-98,26,TOR,NBA,4,4.3,.333,.500,1.0,0.3,0.3,0.5,0.8,6.4,0.0,-0.077,-5.4,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+stokeed01,1997-98,26,Toronto Raptors,NBA,4,4.3,.333,.500,1.0,0.3,0.3,0.5,0.8,6.4,0.0,-0.077,-5.4,0.0,,272500

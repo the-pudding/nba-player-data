@@ -17,7 +17,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 149,"Adams, Michael",Michael Adams,0,1985,1995,michael_adams,0,,,,,Y
 203500,"Adams, Steven",Steven Adams,1,2013,2017,steven_adams,1610612760,Oklahoma City,Thunder,OKC,thunder,Y
 912,"Addison, Rafael",Rafael Addison,0,1986,1996,rafael_addison,0,,,,,Y
-1628389,"Adebayo, Bam",Bam Adebayo,0,2017,2017,bam_adebayo,0,,,,,N
+1628389,"Adebayo, Bam",Bam Adebayo,0,2017,2017,bam_adebayo,0,,,,,Y
 202399,"Adrien, Jeff",Jeff Adrien,0,2010,2014,jeff_adrien,0,,,,,Y
 201167,"Afflalo, Arron",Arron Afflalo,1,2007,2017,arron_afflalo,1610612752,New York,Knicks,NYK,knicks,Y
 200772,"Ager, Maurice",Maurice Ager,0,2006,2010,maurice_ager,0,,,,,Y
@@ -39,15 +39,15 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201570,"Alexander, Joe",Joe Alexander,0,2008,2009,joe_alexander,0,,,,,Y
 2349,"Alexander, Victor",Victor Alexander,0,1991,2001,victor_alexander,0,,,,,Y
 76024,"Alford, Steve",Steve Alford,0,1987,1990,HISTADD_steve_alford,0,,,,,Y
-1628386,"Allen, Jarrett",Jarrett Allen,0,2017,2017,jarrett_allen,0,,,,,N
+1628386,"Allen, Jarrett",Jarrett Allen,0,2017,2017,jarrett_allen,0,,,,,Y
 706,"Allen, Jerome",Jerome Allen,0,1995,1996,jerome_allen,0,,,,,Y
-1628443,"Allen, Kadeem",Kadeem Allen,0,2017,2017,kadeem_allen,0,,,,,N
+1628443,"Allen, Kadeem",Kadeem Allen,0,2017,2017,kadeem_allen,0,,,,,Y
 202730,"Allen, Lavoy",Lavoy Allen,1,2011,2016,lavoy_allen,1610612754,Indiana,Pacers,IND,pacers,Y
 76027,"Allen, Lucius",Lucius Allen,0,1969,1978,HISTADD_lucius_allen,0,,,,,Y
 2124,"Allen, Malik",Malik Allen,0,2001,2010,malik_allen,0,,,,,Y
 76025,"Allen, Randy",Randy Allen,0,1988,1989,HISTADD_randy_allen,0,,,,,Y
 951,"Allen, Ray",Ray Allen,0,1996,2013,ray_allen,0,,,,,Y
-2754,"Allen, Tony",Tony Allen,1,2004,2016,tony_allen,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
+2754,"Allen, Tony",Tony Allen,1,2004,2017,tony_allen,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
 200984,"Allred, Lance",Lance Allred,0,2007,2007,lance_allred,0,,,,,Y
 76030,"Allums, Darrell",Darrell Allums,0,1980,1980,HISTADD_darrell_allums,0,,,,,Y
 201165,"Almond, Morris",Morris Almond,0,2007,2011,morris_almond,0,,,,,Y
@@ -81,7 +81,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1000,"Anderson, Shandon",Shandon Anderson,0,1996,2005,shandon_anderson,0,,,,,Y
 335,"Anderson, Willie",Willie Anderson,0,1988,1996,willie_anderson,0,,,,,Y
 101149,"Andriuskevicius, Martynas",Martynas Andriuskevicius,0,2005,2006,martynas_andriuskevicius,0,,,,,Y
-1628387,"Anigbogu, Ike",Ike Anigbogu,0,2017,2017,ike_anigbogu,0,,,,,N
+1628387,"Anigbogu, Ike",Ike Anigbogu,0,2017,2017,ike_anigbogu,0,,,,,Y
 76050,"Ansley, Michael",Michael Ansley,0,1989,1991,HISTADD_michael_ansley,0,,,,,Y
 1512,"Anstey, Chris",Chris Anstey,0,1997,1999,chris_anstey,0,,,,,Y
 203507,"Antetokounmpo, Giannis",Giannis Antetokounmpo,1,2013,2017,giannis_antetokounmpo,1610612749,Milwaukee,Bucks,MIL,bucks,Y
@@ -90,7 +90,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 21,"Anthony, Greg",Greg Anthony,0,1991,2001,greg_anthony,0,,,,,Y
 201202,"Anthony, Joel",Joel Anthony,1,2007,2016,joel_anthony,1610612765,Detroit,Pistons,DET,pistons,Y
 203544,"Antic, Pero",Pero Antic,0,2013,2014,pero_antic,0,,,,,Y
-1628384,"Anunoby, OG",OG Anunoby,0,2017,2017,og_anunoby,0,,,,,N
+1628384,"Anunoby, OG",OG Anunoby,0,2017,2017,og_anunoby,0,,,,,Y
 203951,"Appling, Keith",Keith Appling,0,2015,2015,keith_appling,0,,,,,Y
 2737,"Araujo, Rafael",Rafael Araujo,0,2004,2006,rafael_araujo,0,,,,,Y
 76054,"Archibald, Nate",Nate Archibald,0,1970,1983,HISTADD_nate_archibald,0,,,,,Y
@@ -107,8 +107,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76059,"Armstrong, Tate",Tate Armstrong,0,1977,1978,HISTADD_tate_armstrong,0,,,,,Y
 2306,"Arroyo, Carlos",Carlos Arroyo,0,2001,2010,carlos_arroyo,0,,,,,Y
 201589,"Arthur, Darrell",Darrell Arthur,1,2008,2017,darrell_arthur,1610612743,Denver,Nuggets,DEN,nuggets,Y
-1628503,"Artis, Jamel",Jamel Artis,0,2017,2017,jamel_artis,0,,,,,N
-1626165,"Ashley, Brandon",Brandon Ashley,0,2017,2017,brandon_ashley,0,,,,,Y
+1628503,"Artis, Jamel",Jamel Artis,0,2017,2017,jamel_artis,0,,,,,Y
 201600,"Asik, Omer",Omer Asik,1,2010,2017,omer_asik,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
 355,"Askew, Vincent",Vincent Askew,0,1987,1997,vincent_askew,0,,,,,Y
 173,"Askins, Keith",Keith Askins,0,1990,1998,keith_askins,0,,,,,Y
@@ -128,7 +127,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 203569,"Babb, Chris",Chris Babb,0,2013,2014,chris_babb,0,,,,,Y
 202337,"Babbitt, Luke",Luke Babbitt,1,2010,2017,luke_babbitt,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
 76079,"Babic, Milos",Milos Babic,0,1990,1991,HISTADD_milos_babic,0,,,,,Y
-1628407,"Bacon, Dwayne",Dwayne Bacon,0,2017,2017,dwayne_bacon,0,,,,,N
+1628407,"Bacon, Dwayne",Dwayne Bacon,0,2017,2017,dwayne_bacon,0,,,,,Y
 2053,"Bagaric, Dalibor",Dalibor Bagaric,0,2000,2002,dalibor_bagaric,0,,,,,Y
 76082,"Bagley, John",John Bagley,0,1982,1993,HISTADD_john_bagley,0,,,,,Y
 76084,"Bailey, Carl",Carl Bailey,0,1981,1981,HISTADD_carl_bailey,0,,,,,Y
@@ -144,7 +143,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1627735,"Baldwin IV, Wade",Wade Baldwin IV,0,2016,2017,wade_baldwin iv,0,,,,,Y
 200764,"Balkman, Renaldo",Renaldo Balkman,0,2006,2011,renaldo_balkman,0,,,,,Y
 76090,"Ball, Cedric",Cedric Ball,0,1990,1990,HISTADD_cedric_ball,0,,,,,Y
-1628366,"Ball, Lonzo",Lonzo Ball,0,2017,2017,lonzo_ball,0,,,,,N
+1628366,"Ball, Lonzo",Lonzo Ball,0,2017,2017,lonzo_ball,0,,,,,Y
 76091,"Ballard, Greg",Greg Ballard,0,1977,1988,HISTADD_greg_ballard,0,,,,,Y
 76093,"Banks, Gene",Gene Banks,0,1981,1986,HISTADD_gene_banks,0,,,,,Y
 2556,"Banks, Marcus",Marcus Banks,0,2003,2010,marcus_banks,0,,,,,Y
@@ -202,7 +201,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76140,"Behagen, Ron",Ron Behagen,0,1973,1979,HISTADD_ron_behagen,0,,,,,Y
 201158,"Belinelli, Marco",Marco Belinelli,1,2007,2017,marco_belinelli,1610612758,Sacramento,Kings,SAC,kings,Y
 2294,"Bell, Charlie",Charlie Bell,0,2001,2010,charlie_bell,0,,,,,Y
-1628395,"Bell, Jordan",Jordan Bell,0,2017,2017,jordan_bell,0,,,,,N
+1628395,"Bell, Jordan",Jordan Bell,0,2017,2017,jordan_bell,0,,,,,Y
 1952,"Bell, Raja",Raja Bell,0,2000,2011,raja_bell,0,,,,,Y
 2559,"Bell, Troy",Troy Bell,0,2003,2003,troy_bell,0,,,,,Y
 1627761,"Bembry, DeAndre'",DeAndre' Bembry,0,2016,2017,deandre'_bembry,0,,,,,Y
@@ -236,6 +235,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76166,"Bing, Dave",Dave Bing,0,1966,1977,HISTADD_dave_bing,0,,,,,Y
 76167,"Binion, Joe",Joe Binion,0,1986,1986,HISTADD_joe_binion,0,,,,,Y
 203920,"Birch, Khem",Khem Birch,0,2017,2017,khem_birch,0,,,,,Y
+1628444,"Bird, Jabari",Jabari Bird,0,2017,2017,jabari_bird,0,,,,,Y
 1449,"Bird, Larry",Larry Bird,0,1979,1991,larry_bird,0,,,,,Y
 76170,"Birdsong, Otis",Otis Birdsong,0,1977,1988,HISTADD_otis_birdsong,0,,,,,Y
 202687,"Biyombo, Bismack",Bismack Biyombo,1,2011,2017,bismack_biyombo,1610612761,Toronto,Raptors,TOR,raptors,Y
@@ -251,7 +251,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201971,"Blair, DeJuan",DeJuan Blair,0,2009,2015,dejuan_blair,0,,,,,Y
 2581,"Blake, Steve",Steve Blake,1,2003,2015,steve_blake,1610612765,Detroit,Pistons,DET,pistons,Y
 202392,"Blakely, Marqus",Marqus Blakely,0,2010,2010,marqus_blakely,0,,,,,Y
-1628469,"Blakeney, Antonio",Antonio Blakeney,0,2017,2017,antonio_blakeney,0,,,,,N
+1628469,"Blakeney, Antonio",Antonio Blakeney,0,2017,2017,antonio_blakeney,0,,,,,Y
 200807,"Blalock, Will",Will Blalock,0,2006,2006,will_blalock,0,,,,,Y
 76183,"Blanks, Lance",Lance Blanks,0,1990,1992,HISTADD_lance_blanks,0,,,,,Y
 76184,"Blanton, Ricky",Ricky Blanton,0,1992,1992,HISTADD_ricky_blanton,0,,,,,Y
@@ -265,10 +265,10 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2800,"Bobbitt, Tony",Tony Bobbitt,0,2004,2004,tony_bobbitt,0,,,,,Y
 76192,"Boerwinkle, Tom",Tom Boerwinkle,0,1968,1977,HISTADD_tom_boerwinkle,0,,,,,Y
 2586,"Bogans, Keith",Keith Bogans,0,2003,2013,keith_bogans,0,,,,,Y
-203992,"Bogdanovic, Bogdan",Bogdan Bogdanovic,0,2017,2017,bogdan_bogdanovic,0,,,,,N
+203992,"Bogdanovic, Bogdan",Bogdan Bogdanovic,0,2017,2017,bogdan_bogdanovic,0,,,,,Y
 202711,"Bogdanovic, Bojan",Bojan Bogdanovic,1,2014,2017,bojan_bogdanovic,1610612751,Brooklyn,Nets,BKN,nets,Y
 177,"Bogues, Muggsy",Muggsy Bogues,0,1987,2000,muggsy_bogues,0,,,,,Y
-101106,"Bogut, Andrew",Andrew Bogut,1,2005,2016,andrew_bogut,1610612744,Golden State,Warriors,GSW,warriors,Y
+101106,"Bogut, Andrew",Andrew Bogut,1,2005,2017,andrew_bogut,1610612744,Golden State,Warriors,GSW,warriors,Y
 1564,"Bohannon, Etdrick",Etdrick Bohannon,0,1997,2000,etdrick_bohannon,0,,,,,Y
 76195,"Bol, Manute",Manute Bol,0,1985,1994,HISTADD_manute_bol,0,,,,,Y
 1627762,"Bolomboy, Joel",Joel Bolomboy,0,2016,2017,joel_bolomboy,0,,,,,Y
@@ -291,7 +291,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76211,"Bostic, Jim",Jim Bostic,0,1977,1977,HISTADD_jim_bostic,0,,,,,Y
 76212,"Boston, Lawrence",Lawrence Boston,0,1979,1979,HISTADD_larry_boston,0,,,,,Y
 76213,"Boswell, Tom",Tom Boswell,0,1975,1983,HISTADD_tom_boswell,0,,,,,Y
-1628449,"Boucher, Chris",Chris Boucher,0,2017,2017,chris_boucher,0,,,,,N
+1628449,"Boucher, Chris",Chris Boucher,0,2017,2017,chris_boucher,0,,,,,Y
 2257,"Boumtje-Boumtje, Ruben",Ruben Boumtje-Boumtje,0,2001,2003,ruben_boumtje-boumtje,0,,,,,Y
 1898,"Bowdler, Cal",Cal Bowdler,0,1999,2001,cal_bowdler,0,,,,,Y
 1477,"Bowen, Bruce",Bruce Bowen,0,1996,2008,bruce_bowen,0,,,,,Y
@@ -314,7 +314,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76231,"Bradley, Dudley",Dudley Bradley,0,1979,1988,HISTADD_dudley_bradley,0,,,,,Y
 2214,"Bradley, Michael",Michael Bradley,0,2001,2005,michael_bradley,0,,,,,Y
 762,"Bradley, Shawn",Shawn Bradley,0,1993,2004,shawn_bradley,0,,,,,Y
-1628396,"Bradley, Tony",Tony Bradley,0,2017,2017,tony_bradley,0,,,,,N
+1628396,"Bradley, Tony",Tony Bradley,0,2017,2017,tony_bradley,0,,,,,Y
 1361,"Bradtke, Mark",Mark Bradtke,0,1996,1996,mark_bradtke,0,,,,,Y
 66,"Bragg, Marques",Marques Bragg,0,1995,1995,marques_bragg,0,,,,,Y
 1765,"Braggs, Torraye",Torraye Braggs,0,2003,2004,torraye_braggs,0,,,,,Y
@@ -343,15 +343,15 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76262,"Brogan, Jim",Jim Brogan,0,1981,1982,HISTADD_jim_brogan,0,,,,,Y
 1627763,"Brogdon, Malcolm",Malcolm Brogdon,0,2016,2017,malcolm_brogdon,0,,,,,Y
 76263,"Brokaw, Gary",Gary Brokaw,0,1974,1977,HISTADD_dupp_gary_brokaw,0,,,,,Y
-201166,"Brooks, Aaron",Aaron Brooks,1,2007,2016,aaron_brooks,1610612741,Chicago,Bulls,CHI,bulls,Y
-1628415,"Brooks, Dillon",Dillon Brooks,0,2017,2017,dillon_brooks,0,,,,,N
+201166,"Brooks, Aaron",Aaron Brooks,1,2007,2017,aaron_brooks,1610612741,Chicago,Bulls,CHI,bulls,Y
+1628415,"Brooks, Dillon",Dillon Brooks,0,2017,2017,dillon_brooks,0,,,,,Y
 76265,"Brooks, Kevin",Kevin Brooks,0,1991,1993,HISTADD_kevin_brooks,0,,,,,Y
-202705,"Brooks, MarShon",MarShon Brooks,0,2011,2013,marshon_brooks,0,,,,,Y
+202705,"Brooks, MarShon",MarShon Brooks,0,2011,2017,marshon_brooks,0,,,,,Y
 76266,"Brooks, Michael",Michael Brooks,0,1980,1987,HISTADD_michael_brooks,0,,,,,Y
 418,"Brooks, Scott",Scott Brooks,0,1988,1997,scott_brooks,0,,,,,Y
 2810,"Brown, Andre",Andre Brown,0,2006,2008,andre_brown,0,,,,,Y
-1626148,"Brown, Anthony",Anthony Brown,1,2015,2016,anthony_brown,1610612747,Los Angeles,Lakers,LAL,lakers,Y
-201628,"Brown, Bobby",Bobby Brown,0,2008,2016,bobby_brown,0,,,,,Y
+1626148,"Brown, Anthony",Anthony Brown,1,2015,2017,anthony_brown,1610612747,Los Angeles,Lakers,LAL,lakers,Y
+201628,"Brown, Bobby",Bobby Brown,0,2008,2017,bobby_brown,0,,,,,Y
 359,"Brown, Chucky",Chucky Brown,0,1989,2001,chucky_brown,0,,,,,Y
 2245,"Brown, Damone",Damone Brown,0,2001,2004,damone_brown,0,,,,,Y
 244,"Brown, Dee",Dee Brown,0,1990,2001,dee_brown,0,,,,,Y
@@ -369,7 +369,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76279,"Brown, Lewis",Lewis Brown,0,1980,1980,HISTADD_lewis_brown,0,,,,,Y
 203485,"Brown, Lorenzo",Lorenzo Brown,1,2013,2017,lorenzo_brown,1610612765,Detroit,Pistons,DET,pistons,Y
 992,"Brown, Marcus",Marcus Brown,0,1996,1999,marcus_brown,0,,,,,Y
-203900,"Brown, Markel",Markel Brown,1,2014,2015,markel_brown,1610612751,Brooklyn,Nets,BKN,nets,Y
+203900,"Brown, Markel",Markel Brown,1,2014,2017,markel_brown,1610612751,Brooklyn,Nets,BKN,nets,Y
 1479,"Brown, Mike",Mike Brown,0,1986,1997,mike_brown,0,,,,,Y
 76277,"Brown, Myron",Myron Brown,0,1991,1991,HISTADD_myron_brown,0,,,,,Y
 136,"Brown, P.J.",P.J. Brown,0,1993,2007,p.j._brown,0,,,,,Y
@@ -378,7 +378,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76283,"Brown, Rickey",Rickey Brown,0,1980,1984,HISTADD_rickey_brown,0,,,,,Y
 76286,"Brown, Roger",Roger Brown,0,1972,1979,HISTADD_roger_brown,0,,,,,Y
 200769,"Brown, Shannon",Shannon Brown,0,2006,2014,shannon_brown,0,,,,,Y
-1628425,"Brown, Sterling",Sterling Brown,0,2017,2017,sterling_brown,0,,,,,N
+1628425,"Brown, Sterling",Sterling Brown,0,2017,2017,sterling_brown,0,,,,,Y
 2357,"Brown, Tierre",Tierre Brown,0,2001,2004,tierre_brown,0,,,,,Y
 76268,"Brown, Tony",Tony Brown,0,1984,1991,HISTADD_tony_brown,0,,,,,Y
 76288,"Brundy, Stanley",Stanley Brundy,0,1989,1989,HISTADD_marla_brumfield,0,,,,,Y
@@ -387,7 +387,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76290,"Bryant, Joe",Joe Bryant,0,1975,1982,HISTADD_joe_bryant,0,,,,,Y
 977,"Bryant, Kobe",Kobe Bryant,1,1996,2015,kobe_bryant,1610612747,Los Angeles,Lakers,LAL,lakers,Y
 95,"Bryant, Mark",Mark Bryant,0,1988,2002,mark_bryant,0,,,,,Y
-1628418,"Bryant, Thomas",Thomas Bryant,0,2017,2017,thomas_bryant,0,,,,,N
+1628418,"Bryant, Thomas",Thomas Bryant,0,2017,2017,thomas_bryant,0,,,,,Y
 76291,"Bryant, Wallace",Wallace Bryant,0,1983,1985,HISTADD_wallace_bryant,0,,,,,Y
 76292,"Bryn, Torgeir",Torgeir Bryn,0,1989,1989,HISTADD_torgeir_bryn,0,,,,,Y
 76294,"Bucknall, Steve",Steve Bucknall,0,1989,1989,HISTADD_steve_bucknall,0,,,,,Y
@@ -401,7 +401,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76300,"Bunch, Greg",Greg Bunch,0,1978,1978,HISTADD_greg_bunch,0,,,,,Y
 76303,"Burden, Luther",Luther Burden,0,1976,1977,HISTADD_ticky_burden,0,,,,,Y
 2469,"Burke, Pat",Pat Burke,0,2002,2006,pat_burke,0,,,,,Y
-203504,"Burke, Trey",Trey Burke,1,2013,2016,trey_burke,1610612762,Utah,Jazz,UTA,jazz,Y
+203504,"Burke, Trey",Trey Burke,1,2013,2017,trey_burke,1610612762,Utah,Jazz,UTA,jazz,Y
 76304,"Burkman, Roger",Roger Burkman,0,1981,1981,HISTADD_roger_burkman,0,,,,,Y
 202692,"Burks, Alec",Alec Burks,1,2011,2017,alec_burks,1610612762,Utah,Jazz,UTA,jazz,Y
 2766,"Burks, Antonio",Antonio Burks,0,2004,2005,antonio_burks,0,,,,,Y
@@ -422,7 +422,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202710,"Butler, Jimmy",Jimmy Butler,1,2011,2017,jimmy_butler,1610612741,Chicago,Bulls,CHI,bulls,Y
 348,"Butler, Mitchell",Mitchell Butler,0,1993,2003,mitchell_butler,0,,,,,Y
 2446,"Butler, Rasual",Rasual Butler,0,2002,2015,rasual_butler,0,,,,,Y
-202779,"Buycks, Dwight",Dwight Buycks,0,2013,2014,dwight_buycks,0,,,,,Y
+202779,"Buycks, Dwight",Dwight Buycks,0,2013,2017,dwight_buycks,0,,,,,Y
 201182,"Byars, Derrick",Derrick Byars,0,2011,2011,derrick_byars,0,,,,,Y
 101115,"Bynum, Andrew",Andrew Bynum,0,2005,2013,andrew_bynum,0,,,,,Y
 101198,"Bynum, Will",Will Bynum,0,2005,2014,will_bynum,0,,,,,Y
@@ -443,7 +443,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 948,"Camby, Marcus",Marcus Camby,0,1996,2012,marcus_camby,0,,,,,Y
 922,"Campbell, Elden",Elden Campbell,0,1990,2004,elden_campbell,0,,,,,Y
 76338,"Campbell, Tony",Tony Campbell,0,1984,1994,HISTADD_tony_campbell,0,,,,,Y
-203477,"Canaan, Isaiah",Isaiah Canaan,1,2013,2016,isaiah_canaan,1610612755,Philadelphia,76ers,PHI,sixers,Y
+203477,"Canaan, Isaiah",Isaiah Canaan,1,2013,2017,isaiah_canaan,1610612755,Philadelphia,76ers,PHI,sixers,Y
 203991,"Capela, Clint",Clint Capela,1,2014,2017,clint_capela,1610612745,Houston,Rockets,HOU,rockets,Y
 202382,"Caracter, Derrick",Derrick Caracter,0,2010,2010,derrick_caracter,0,,,,,Y
 2073,"Cardinal, Brian",Brian Cardinal,0,2000,2011,brian_cardinal,0,,,,,Y
@@ -471,7 +471,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1713,"Carter, Vince",Vince Carter,1,1998,2017,vince_carter,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
 203487,"Carter-Williams, Michael",Michael Carter-Williams,1,2013,2017,michael_carter-williams,1610612749,Milwaukee,Bucks,MIL,bucks,Y
 76362,"Cartwright, Bill",Bill Cartwright,0,1979,1994,HISTADD_bill_cartwright,0,,,,,Y
-1627936,"Caruso, Alex",Alex Caruso,0,2017,2017,alex_caruso,0,,,,,N
+1627936,"Caruso, Alex",Alex Caruso,0,2017,2017,alex_caruso,0,,,,,Y
 76364,"Cash, Cornelius",Cornelius Cash,0,1976,1976,HISTADD_cornelius_cash,0,,,,,Y
 208,"Cassell, Sam",Sam Cassell,0,1993,2007,sam_cassell,0,,,,,Y
 201956,"Casspi, Omri",Omri Casspi,1,2009,2017,omri_casspi,1610612758,Sacramento,Kings,SAC,kings,Y
@@ -480,9 +480,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1509,"Cato, Kelvin",Kelvin Cato,0,1997,2006,kelvin_cato,0,,,,,Y
 76368,"Cattage, Bobby",Bobby Cattage,0,1981,1985,HISTADD_bobby_cattage,0,,,,,Y
 1626161,"Cauley-Stein, Willie",Willie Cauley-Stein,1,2015,2017,willie_cauley-stein,1610612758,Sacramento,Kings,SAC,kings,Y
-1628505,"Caupain, Troy",Troy Caupain,0,2017,2017,troy_caupain,0,,,,,N
 190,"Causwell, Duane",Duane Causwell,0,1990,2002,duane_causwell,0,,,,,Y
-1628463,"Cavanaugh, Tyler",Tyler Cavanaugh,0,2017,2017,tyler_cavanaugh,0,,,,,N
+1628463,"Cavanaugh, Tyler",Tyler Cavanaugh,0,2017,2017,tyler_cavanaugh,0,,,,,Y
 76370,"Cavenall, Ron",Ron Cavenall,0,1984,1988,HISTADD_ron_cavenall,0,,,,,Y
 76,"Ceballos, Cedric",Cedric Ceballos,0,1990,2000,cedric_ceballos,0,,,,,Y
 1911,"Celestand, John",John Celestand,0,1999,2002,john_celestand,0,,,,,Y
@@ -510,7 +509,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 57,"Christie, Doug",Doug Christie,0,1992,2006,doug_christie,0,,,,,Y
 202091,"Christmas, Dionte",Dionte Christmas,0,2013,2013,dionte_christmas,0,,,,,Y
 1626176,"Christmas, Rakeem",Rakeem Christmas,1,2015,2016,rakeem_christmas,1610612754,Indiana,Pacers,IND,pacers,Y
-203902,"Christon, Semaj",Semaj Christon,0,2016,2017,semaj_christon,0,,,,,Y
+203902,"Christon, Semaj",Semaj Christon,0,2016,2016,semaj_christon,0,,,,,Y
 203565,"Christopher, Patrick",Patrick Christopher,0,2014,2014,patrick_christopher,0,,,,,Y
 928,"Churchwell, Robert",Robert Churchwell,0,1995,1995,robert_churchwell,0,,,,,Y
 76398,"Clark, Carlos",Carlos Clark,0,1983,1984,HISTADD_carlos_clark,0,,,,,Y
@@ -519,12 +518,13 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1721,"Clark, Keon",Keon Clark,0,1998,2003,keon_clark,0,,,,,Y
 1626262,"Clarke, Coty",Coty Clarke,0,2015,2015,coty_clarke,0,,,,,Y
 203903,"Clarkson, Jordan",Jordan Clarkson,1,2014,2017,jordan_clarkson,1610612747,Los Angeles,Lakers,LAL,lakers,Y
-1628492,"Clavell, Gian",Gian Clavell,0,2017,2017,gian_clavell,0,,,,,N
+1628492,"Clavell, Gian",Gian Clavell,0,2017,2017,gian_clavell,0,,,,,Y
 201964,"Claver, Victor",Victor Claver,0,2012,2014,victor_claver,0,,,,,Y
 1127,"Claxton, Charles",Charles Claxton,0,1995,1995,charles_claxton,0,,,,,Y
 2049,"Claxton, Speedy",Speedy Claxton,0,2001,2008,speedy_claxton,0,,,,,Y
 76402,"Cleamons, Jim",Jim Cleamons,0,1971,1979,HISTADD_jim_cleamons,0,,,,,Y
 2043,"Cleaves, Mateen",Mateen Cleaves,0,2000,2005,mateen_cleaves,0,,,,,Y
+1628499,"Cleveland, Antonius",Antonius Cleveland,0,2017,2017,antonius_cleveland,0,,,,,Y
 1569,"Closs, Keith",Keith Closs,0,1997,2000,keith_closs,0,,,,,Y
 76410,"Coffey, Richard",Richard Coffey,0,1990,1990,HISTADD_richard_coffey,0,,,,,Y
 76411,"Cofield, Fred",Fred Cofield,0,1985,1986,HISTADD_fred_cofield,0,,,,,Y
@@ -542,10 +542,11 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1530,"Collins, James",James Collins,0,1997,1997,james_collins,0,,,,,Y
 2260,"Collins, Jarron",Jarron Collins,0,2001,2010,jarron_collins,0,,,,,Y
 2215,"Collins, Jason",Jason Collins,0,2001,2013,jason_collins,0,,,,,Y
-1628381,"Collins, John",John Collins,0,2017,2017,john_collins,0,,,,,N
+1628381,"Collins, John",John Collins,0,2017,2017,john_collins,0,,,,,Y
 200776,"Collins, Mardy",Mardy Collins,0,2006,2009,mardy_collins,0,,,,,Y
 202395,"Collins, Sherron",Sherron Collins,0,2010,2010,sherron_collins,0,,,,,Y
-1628380,"Collins, Zach",Zach Collins,0,2017,2017,zach_collins,0,,,,,N
+1628380,"Collins, Zach",Zach Collins,0,2017,2017,zach_collins,0,,,,,Y
+1627858,"Collinsworth, Kyle",Kyle Collinsworth,0,2017,2017,kyle_collinsworth,0,,,,,Y
 201954,"Collison, Darren",Darren Collison,1,2009,2017,darren_collison,1610612758,Sacramento,Kings,SAC,kings,Y
 2555,"Collison, Nick",Nick Collison,1,2003,2017,nick_collison,1610612760,Oklahoma City,Thunder,OKC,thunder,Y
 2173,"Colson, Sean",Sean Colson,0,2000,2002,sean_colson,0,,,,,Y
@@ -565,6 +566,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76437,"Cook, Norm",Norm Cook,0,1976,1977,HISTADD_norm_cook,0,,,,,Y
 2241,"Cook, Omar",Omar Cook,0,2001,2004,omar_cook,0,,,,,Y
 1626188,"Cook, Quinn",Quinn Cook,0,2016,2017,quinn_cook,0,,,,,Y
+1628429,"Cooke, Charles",Charles Cooke,0,2017,2017,charles_cooke,0,,,,,Y
 76439,"Cooke, David",David Cooke,0,1985,1985,HISTADD_david_cooke,0,,,,,Y
 204022,"Cooley, Jack",Jack Cooley,0,2014,2017,jack_cooley,0,,,,,Y
 1030,"Cooper, Duane",Duane Cooper,0,1992,1993,duane_cooper,0,,,,,Y
@@ -590,7 +592,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76463,"Cox, John",John Cox,0,1982,1982,HISTADD_chubby_cox,0,,,,,Y
 76465,"Cox, Wesley",Wesley Cox,0,1977,1978,HISTADD_wesley_cox,0,,,,,Y
 203459,"Crabbe, Allen",Allen Crabbe,1,2013,2017,allen_crabbe,1610612757,Portland,Trail Blazers,POR,blazers,Y
-1628470,"Craig, Torrey",Torrey Craig,0,2017,2017,torrey_craig,0,,,,,N
+1628470,"Craig, Torrey",Torrey Craig,0,2017,2017,torrey_craig,0,,,,,Y
 1544,"Crawford, Chris",Chris Crawford,0,1997,2003,chris_crawford,0,,,,,Y
 2037,"Crawford, Jamal",Jamal Crawford,1,2000,2017,jamal_crawford,1610612746,LA,Clippers,LAC,clippers,Y
 201621,"Crawford, Joe",Joe Crawford,0,2008,2008,joe_crawford,0,,,,,Y
@@ -612,7 +614,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76483,"Cummings, Pat",Pat Cummings,0,1979,1990,HISTADD_pat_cummings,0,,,,,Y
 187,"Cummings, Terry",Terry Cummings,0,1982,1999,terry_cummings,0,,,,,Y
 1907,"Cummings, Vonteego",Vonteego Cummings,0,1999,2002,vonteego_cummings,0,,,,,Y
-201967,"Cunningham, Dante",Dante Cunningham,1,2009,2016,dante_cunningham,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
+201967,"Cunningham, Dante",Dante Cunningham,1,2009,2017,dante_cunningham,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
 203099,"Cunningham, Jared",Jared Cunningham,0,2012,2015,jared_cunningham,0,,,,,Y
 1061,"Cunningham, William",William Cunningham,0,1997,1998,william_cunningham,0,,,,,Y
 76488,"Curcic, Radisav",Radisav Curcic,0,1992,1992,HISTADD_radisav_curcic,0,,,,,Y
@@ -732,8 +734,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2039,"Dooling, Keyon",Keyon Dooling,0,2000,2012,keyon_dooling,0,,,,,Y
 76587,"Dorsey, Jacky",Jacky Dorsey,0,1977,1980,HISTADD_jacky_dorsey,0,,,,,Y
 201595,"Dorsey, Joey",Joey Dorsey,0,2008,2014,joey_dorsey,0,,,,,Y
-1628416,"Dorsey, Tyler",Tyler Dorsey,0,2017,2017,tyler_dorsey,0,,,,,N
-1628422,"Dotson, Damyean",Damyean Dotson,0,2017,2017,damyean_dotson,0,,,,,N
+1628416,"Dorsey, Tyler",Tyler Dorsey,0,2017,2017,tyler_dorsey,0,,,,,Y
+1628422,"Dotson, Damyean",Damyean Dotson,0,2017,2017,damyean_dotson,0,,,,,Y
 200763,"Douby, Quincy",Quincy Douby,0,2006,2008,quincy_douby,0,,,,,Y
 76588,"Douglas, Bruce",Bruce Douglas,0,1986,1986,HISTADD_bruce_douglas,0,,,,,Y
 76589,"Douglas, John",John Douglas,0,1981,1982,HISTADD_john_douglas,0,,,,,Y
@@ -742,7 +744,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201962,"Douglas, Toney",Toney Douglas,1,2009,2016,toney_douglas,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
 201604,"Douglas-Roberts, Chris",Chris Douglas-Roberts,0,2008,2014,chris_douglas-roberts,0,,,,,Y
 202220,"Dowdell, Zabian",Zabian Dowdell,0,2010,2010,zabian_dowdell,0,,,,,Y
-1628495,"Doyle, Milton",Milton Doyle,0,2017,2017,milton_doyle,0,,,,,N
+1628495,"Doyle, Milton",Milton Doyle,0,2017,2017,milton_doyle,0,,,,,Y
+1628408,"Dozier, PJ",PJ Dozier,0,2017,2017,pj_dozier,0,,,,,Y
 76596,"Dozier, Terry",Terry Dozier,0,1989,1989,HISTADD_terry_dozier,0,,,,,Y
 201609,"Dragic, Goran",Goran Dragic,1,2008,2017,goran_dragic,1610612748,Miami,Heat,MIA,heat,Y
 204054,"Dragic, Zoran",Zoran Dragic,0,2014,2014,zoran_dragic,0,,,,,Y
@@ -787,7 +790,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202365,"Ebanks, Devin",Devin Ebanks,0,2010,2012,devin_ebanks,0,,,,,Y
 76634,"Eberhard, Al",Al Eberhard,0,1974,1977,HISTADD_al_eberhard,0,,,,,Y
 2569,"Ebi, Ndudi",Ndudi Ebi,0,2003,2004,ndudi_ebi,0,,,,,Y
-204067,"Eddie, Jarell",Jarell Eddie,1,2015,2016,jarell_eddie,1610612764,Washington,Wizards,WAS,wizards,Y
+204067,"Eddie, Jarell",Jarell Eddie,1,2015,2017,jarell_eddie,1610612764,Washington,Wizards,WAS,wizards,Y
 76635,"Eddie, Patrick",Patrick Eddie,0,1991,1991,HISTADD_patrick_eddie,0,,,,,Y
 76637,"Edelin, Kent",Kent Edelin,0,1984,1984,HISTADD_kent_edelin,0,,,,,Y
 76638,"Edmonson, Keith",Keith Edmonson,0,1982,1983,HISTADD_keith_edmonson,0,,,,,Y
@@ -840,8 +843,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 76683,"Esposito, Vincenzo",Vincenzo Esposito,0,1995,1995,HISTADD_vincenzo_esposito,0,,,,,Y
 967,"Evans, Brian",Brian Evans,0,1996,1998,brian_evans,0,,,,,Y
 76685,"Evans, Earl",Earl Evans,0,1979,1979,HISTADD_earl_evans,0,,,,,Y
-1628393,"Evans, Jawun",Jawun Evans,0,2017,2017,jawun_evans,0,,,,,N
-202379,"Evans, Jeremy",Jeremy Evans,1,2010,2015,jeremy_evans,1610612742,Dallas,Mavericks,DAL,mavericks,Y
+1628393,"Evans, Jawun",Jawun Evans,0,2017,2017,jawun_evans,0,,,,,Y
+202379,"Evans, Jeremy",Jeremy Evans,1,2010,2017,jeremy_evans,1610612742,Dallas,Mavericks,DAL,mavericks,Y
 2230,"Evans, Maurice",Maurice Evans,0,2001,2011,maurice_evans,0,,,,,Y
 76686,"Evans, Mike",Mike Evans,0,1979,1987,HISTADD_mike_evans,0,,,,,Y
 2501,"Evans, Reggie",Reggie Evans,0,2002,2014,reggie_evans,0,,,,,Y
@@ -869,7 +872,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 101230,"Felix, Noel",Noel Felix,0,2005,2005,noel_felix,0,,,,,Y
 101109,"Felton, Raymond",Raymond Felton,1,2005,2017,raymond_felton,1610612742,Dallas,Mavericks,DAL,mavericks,Y
 2724,"Ferguson, Desmond",Desmond Ferguson,0,2003,2003,desmond_ferguson,0,,,,,Y
-1628390,"Ferguson, Terrance",Terrance Ferguson,0,2017,2017,terrance_ferguson,0,,,,,N
+1628390,"Ferguson, Terrance",Terrance Ferguson,0,2017,2017,terrance_ferguson,0,,,,,Y
 201164,"Fernandez, Rudy",Rudy Fernandez,0,2008,2011,rudy_fernandez,0,,,,,Y
 76707,"Fernsten, Eric",Eric Fernsten,0,1975,1983,HISTADD_eric_fernsten,0,,,,,Y
 76709,"Ferreira, Rolando",Rolando Ferreira,0,1988,1988,HISTADD_rolando_ferreira,0,,,,,Y
@@ -915,7 +918,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2238,"Fotsis, Antonis",Antonis Fotsis,0,2001,2001,antonis_fotsis,0,,,,,Y
 203095,"Fournier, Evan",Evan Fournier,1,2012,2017,evan_fournier,1610612753,Orlando,Magic,ORL,magic,Y
 1762,"Fowlkes, Tremaine",Tremaine Fowlkes,0,2001,2004,tremaine_fowlkes,0,,,,,Y
-1628368,"Fox, De'Aaron",De'Aaron Fox,0,2017,2017,de'aaron_fox,0,,,,,N
+1628368,"Fox, De'Aaron",De'Aaron Fox,0,2017,2017,de'aaron_fox,0,,,,,Y
 76747,"Fox, Jim",Jim Fox,0,1967,1976,HISTADD_jim_fox,0,,,,,Y
 296,"Fox, Rick",Rick Fox,0,1991,2003,rick_fox,0,,,,,Y
 200751,"Foye, Randy",Randy Foye,1,2006,2016,randy_foye,1610612760,Oklahoma City,Thunder,OKC,thunder,Y
@@ -935,7 +938,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2673,"Fuller, Hiram",Hiram Fuller,0,2003,2003,hiram_fuller,0,,,,,Y
 957,"Fuller, Todd",Todd Fuller,0,1996,2000,todd_fuller,0,,,,,Y
 76765,"Fuller, Tony",Tony Fuller,0,1980,1980,HISTADD_tony_fuller,0,,,,,Y
-1628365,"Fultz, Markelle",Markelle Fultz,0,2017,2017,markelle_fultz,0,,,,,N
+1628365,"Fultz, Markelle",Markelle Fultz,0,2017,2017,markelle_fultz,0,,,,,Y
 1444,"Funderburke, Lawrence",Lawrence Funderburke,0,1997,2004,lawrence_funderburke,0,,,,,Y
 76767,"Furlow, Terry",Terry Furlow,0,1976,1979,HISTADD_terry_furlow,0,,,,,Y
 2429,"Gadzuric, Dan",Dan Gadzuric,0,2002,2011,dan_gadzuric,0,,,,,Y
@@ -983,18 +986,18 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1904,"George, Devean",Devean George,0,1999,2009,devean_george,0,,,,,Y
 202331,"George, Paul",Paul George,1,2010,2017,paul_george,1610612754,Indiana,Pacers,IND,pacers,Y
 76801,"George, Tate",Tate George,0,1990,1994,HISTADD_tate_george,0,,,,,Y
-1627875,"Georges-Hunt, Marcus",Marcus Georges-Hunt,0,2016,2016,marcus_georges-hunt,0,,,,,Y
+1627875,"Georges-Hunt, Marcus",Marcus Georges-Hunt,0,2016,2017,marcus_georges-hunt,0,,,,,Y
 76802,"Gerard, Gus",Gus Gerard,0,1976,1980,HISTADD_gus_gerard,0,,,,,Y
 76803,"Gervin, Derrick",Derrick Gervin,0,1989,1990,HISTADD_derrick_gervin,0,,,,,Y
 76804,"Gervin, George",George Gervin,0,1976,1985,HISTADD_george_gervin,0,,,,,Y
 76806,"Gianelli, John",John Gianelli,0,1972,1979,HISTADD_john_gianelli,0,,,,,Y
 200789,"Gibson, Daniel",Daniel Gibson,0,2006,2012,daniel_gibson,0,,,,,Y
-1626780,"Gibson, Jonathan",Jonathan Gibson,0,2016,2016,jonathan_gibson,0,,,,,Y
+1626780,"Gibson, Jonathan",Jonathan Gibson,0,2016,2017,jonathan_gibson,0,,,,,Y
 76810,"Gibson, Mike",Mike Gibson,0,1983,1985,HISTADD_mike_gibson,0,,,,,Y
 201959,"Gibson, Taj",Taj Gibson,1,2009,2017,taj_gibson,1610612741,Chicago,Bulls,CHI,bulls,Y
 201592,"Giddens, J.R.",J.R. Giddens,0,2008,2009,j.r._giddens,0,,,,,Y
 201821,"Gilder, Trey",Trey Gilder,0,2009,2009,trey_gilder,0,,,,,Y
-1628385,"Giles, Harry",Harry Giles,0,2017,2017,harry_giles,0,,,,,N
+1628385,"Giles III, Harry",Harry Giles III,0,2017,2017,harry_giles,0,,,,,N
 2109,"Gill, Eddie",Eddie Gill,0,2000,2008,eddie_gill,0,,,,,Y
 383,"Gill, Kendall",Kendall Gill,0,1990,2004,kendall_gill,0,,,,,Y
 76812,"Gillery, Ben",Ben Gillery,0,1988,1988,HISTADD_ben_gillery,0,,,,,Y
@@ -1053,6 +1056,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1070,"Gray, Devin",Devin Gray,0,1996,1999,devin_gray,0,,,,,Y
 1516,"Gray, Ed",Ed Gray,0,1997,1998,ed_gray,0,,,,,Y
 1026,"Gray, Evric",Evric Gray,0,1996,1996,evric_gray,0,,,,,Y
+1627982,"Gray, Josh",Josh Gray,0,2017,2017,josh_gray,0,,,,,Y
 76860,"Gray, Leonard",Leonard Gray,0,1974,1976,HISTADD_leonard_gray,0,,,,,Y
 76861,"Gray, Stuart",Stuart Gray,0,1984,1990,HISTADD_stuart_gray,0,,,,,Y
 76862,"Gray, Sylvester",Sylvester Gray,0,1988,1988,HISTADD_sylvester_gray,0,,,,,Y
@@ -1062,8 +1066,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 101209,"Green, Devin",Devin Green,0,2005,2005,devin_green,0,,,,,Y
 203110,"Green, Draymond",Draymond Green,1,2012,2017,draymond_green,1610612744,Golden State,Warriors,GSW,warriors,Y
 203475,"Green, Erick",Erick Green,0,2014,2015,erick_green,0,,,,,Y
-101123,"Green, Gerald",Gerald Green,1,2005,2016,gerald_green,1610612748,Miami,Heat,MIA,heat,Y
-203210,"Green, JaMychal",JaMychal Green,1,2014,2016,jamychal_green,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
+101123,"Green, Gerald",Gerald Green,1,2005,2017,gerald_green,1610612748,Miami,Heat,MIA,heat,Y
+203210,"Green, JaMychal",JaMychal Green,1,2014,2017,jamychal_green,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
 201145,"Green, Jeff",Jeff Green,1,2007,2017,jeff_green,1610612746,LA,Clippers,LAC,clippers,Y
 76868,"Green, Ken",Ken Green,0,1985,1985,HISTADD_ken_green,0,,,,,Y
 76869,"Green, Kenny",Kenny Green,0,1985,1986,HISTADD_kenny_green,0,,,,,Y
@@ -1086,7 +1090,6 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1559,"Griffin, Adrian",Adrian Griffin,0,1999,2007,adrian_griffin,0,,,,,Y
 201933,"Griffin, Blake",Blake Griffin,1,2009,2017,blake_griffin,1610612746,LA,Clippers,LAC,clippers,Y
 2204,"Griffin, Eddie",Eddie Griffin,0,2001,2006,eddie_griffin,0,,,,,Y
-203547,"Griffin, Eric",Eric Griffin,0,2017,2017,eric_griffin,0,,,,,Y
 76888,"Griffin, Greg",Greg Griffin,0,1977,1977,HISTADD_greg_griffin,0,,,,,Y
 76889,"Griffin, Paul",Paul Griffin,0,1976,1982,HISTADD_paul_griffin,0,,,,,Y
 201981,"Griffin, Taylor",Taylor Griffin,0,2009,2009,taylor_griffin,0,,,,,Y
@@ -1113,7 +1116,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 200837,"Hall, Mike",Mike Hall,0,2006,2006,mike_hall,0,,,,,Y
 1032,"Ham, Darvin",Darvin Ham,0,1996,2004,darvin_ham,0,,,,,Y
 984,"Hamer, Steve",Steve Hamer,0,1996,1996,steve_hamer,0,,,,,Y
-1627772,"Hamilton, Daniel",Daniel Hamilton,0,2017,2017,daniel_hamilton,0,,,,,N
+1627772,"Hamilton, Daniel",Daniel Hamilton,0,2017,2017,daniel_hamilton,0,,,,,Y
 202706,"Hamilton, Jordan",Jordan Hamilton,1,2011,2015,jordan_hamilton,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
 203120,"Hamilton, Justin",Justin Hamilton,0,2013,2016,justin_hamilton,0,,,,,Y
 1888,"Hamilton, Richard",Richard Hamilton,0,1999,2012,richard_hamilton,0,,,,,Y
@@ -1123,7 +1126,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1985,"Hamilton, Zendon",Zendon Hamilton,0,2000,2005,zendon_hamilton,0,,,,,Y
 903,"Hammink, Geert",Geert Hammink,0,1993,1995,geert_hammink,0,,,,,Y
 67,"Hammonds, Tom",Tom Hammonds,0,1989,2000,tom_hammonds,0,,,,,Y
-1627773,"Hammons, AJ",AJ Hammons,0,2016,2017,aj_hammons,0,,,,,Y
+1627773,"Hammons, AJ",AJ Hammons,0,2016,2016,aj_hammons,0,,,,,Y
 241,"Hancock, Darrin",Darrin Hancock,0,1994,1996,darrin_hancock,0,,,,,Y
 1052,"Handlogten, Ben",Ben Handlogten,0,2003,2004,ben_handlogten,0,,,,,Y
 203162,"Hansbrough, Ben",Ben Hansbrough,0,2012,2012,ben_hansbrough,0,,,,,Y
@@ -1165,11 +1168,12 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202227,"Harris, Terrel",Terrel Harris,0,2011,2012,terrel_harris,0,,,,,Y
 202699,"Harris, Tobias",Tobias Harris,1,2011,2017,tobias_harris,1610612765,Detroit,Pistons,DET,pistons,Y
 76961,"Harris, Tony",Tony Harris,0,1990,1994,HISTADD_tony_harris,0,,,,,Y
-1626151,"Harrison, Aaron",Aaron Harrison,1,2015,2016,aaron_harrison,1610612766,Charlotte,Hornets,CHA,hornets,Y
+1626151,"Harrison, Aaron",Aaron Harrison,1,2015,2017,aaron_harrison,1610612766,Charlotte,Hornets,CHA,hornets,Y
 1626150,"Harrison, Andrew",Andrew Harrison,0,2016,2017,andrew_harrison,0,,,,,Y
 2758,"Harrison, David",David Harrison,0,2004,2007,david_harrison,0,,,,,Y
+1627885,"Harrison, Shaquille",Shaquille Harrison,0,2017,2017,shaquille_harrison,0,,,,,Y
 2078,"Hart, Jason",Jason Hart,0,2000,2009,jason_hart,0,,,,,Y
-1628404,"Hart, Josh",Josh Hart,0,2017,2017,josh_hart,0,,,,,N
+1628404,"Hart, Josh",Josh Hart,0,2017,2017,josh_hart,0,,,,,Y
 176,"Harvey, Antonio",Antonio Harvey,0,1993,2002,antonio_harvey,0,,,,,Y
 2051,"Harvey, Donnell",Donnell Harvey,0,2000,2004,donnell_harvey,0,,,,,Y
 202238,"Hasbrouck, Kenny",Kenny Hasbrouck,0,2009,2009,kenny_hasbrouck,0,,,,,Y
@@ -1189,7 +1193,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 101236,"Hayes, Chuck",Chuck Hayes,0,2005,2015,chuck_hayes,0,,,,,Y
 76979,"Hayes, Elvin",Elvin Hayes,0,1968,1983,HISTADD_elvin_hayes,0,,,,,Y
 2553,"Hayes, Jarvis",Jarvis Hayes,0,2003,2009,jarvis_hayes,0,,,,,Y
-1628502,"Hayes, Nigel",Nigel Hayes,0,2017,2017,nigel_hayes,0,,,,,N
+1628502,"Hayes, Nigel",Nigel Hayes,0,2017,2017,nigel_hayes,0,,,,,Y
 76980,"Hayes, Steve",Steve Hayes,0,1981,1985,HISTADD_steve_hayes,0,,,,,Y
 202330,"Hayward, Gordon",Gordon Hayward,1,2010,2017,gordon_hayward,1610612762,Utah,Jazz,UTA,jazz,Y
 202351,"Hayward, Lazar",Lazar Hayward,0,2010,2012,lazar_hayward,0,,,,,Y
@@ -1198,6 +1202,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 101129,"Head, Luther",Luther Head,0,2005,2010,luther_head,0,,,,,Y
 1049,"Heal, Shane",Shane Heal,0,1996,2003,shane_heal,0,,,,,Y
 76985,"Heard, Garfield",Garfield Heard,0,1970,1980,HISTADD_gar_heard,0,,,,,Y
+203687,"Hearn, Reggie",Reggie Hearn,0,2017,2017,reggie_hearn,0,,,,,Y
 76987,"Heggs, Alvin",Alvin Heggs,0,1995,1995,HISTADD_alvin_heggs,0,,,,,Y
 673,"Henderson, Alan",Alan Henderson,0,1995,2006,alan_henderson,0,,,,,Y
 1538,"Henderson, Cedric",Cedric Henderson,0,1997,2002,cedric_henderson,0,,,,,Y
@@ -1212,11 +1217,12 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 971,"Hendrickson, Mark",Mark Hendrickson,0,1996,1999,mark_hendrickson,0,,,,,Y
 77001,"Henry, Carl",Carl Henry,0,1985,1985,HISTADD_carl_henry,0,,,,,Y
 77002,"Henry, Conner",Conner Henry,0,1986,1987,HISTADD_conner_henry,0,,,,,Y
+1627988,"Henry, Myke",Myke Henry,0,2017,2017,myke_henry,0,,,,,Y
 77003,"Henry, Skeeter",Skeeter Henry,0,1993,1993,HISTADD_skeeter_henry,0,,,,,Y
 202333,"Henry, Xavier",Xavier Henry,0,2010,2014,xavier_henry,0,,,,,Y
 203089,"Henson, John",John Henson,1,2012,2017,john_henson,1610612749,Milwaukee,Bucks,MIL,bucks,Y
 1667,"Henson, Steve",Steve Henson,0,1990,1998,steve_henson,0,,,,,Y
-1627823,"Hernangomez, Juan",Juan Hernangomez,0,2016,2017,juan_hernangomez,0,,,,,Y
+1627823,"Hernangomez, Juancho",Juancho Hernangomez,0,2016,2017,juan_hernangomez,0,,,,,Y
 1626195,"Hernangomez, Willy",Willy Hernangomez,0,2016,2017,willy_hernangomez,0,,,,,Y
 1914,"Herren, Chris",Chris Herren,0,1999,2000,chris_herren,0,,,,,Y
 61,"Herrera, Carl",Carl Herrera,0,1991,1998,carl_herrera,0,,,,,Y
@@ -1224,6 +1230,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77010,"Herron, Keith",Keith Herron,0,1978,1981,HISTADD_keith_herron,0,,,,,Y
 1626209,"Hezonja, Mario",Mario Hezonja,1,2015,2017,mario_hezonja,1610612753,Orlando,Magic,ORL,magic,Y
 201579,"Hibbert, Roy",Roy Hibbert,1,2008,2016,roy_hibbert,1610612747,Los Angeles,Lakers,LAL,lakers,Y
+1628439,"Hicks, Isaiah",Isaiah Hicks,0,2017,2017,isaiah_hicks,0,,,,,Y
 77017,"Hicks, Phil",Phil Hicks,0,1976,1978,HISTADD_phil_hicks,0,,,,,Y
 201581,"Hickson, JJ",JJ Hickson,1,2008,2015,jj_hickson,1610612764,Washington,Wizards,WAS,wizards,Y
 1627741,"Hield, Buddy",Buddy Hield,0,2016,2017,buddy_hield,0,,,,,Y
@@ -1270,7 +1277,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 203918,"Hood, Rodney",Rodney Hood,1,2014,2017,rodney_hood,1610612762,Utah,Jazz,UTA,jazz,Y
 77053,"Hoppen, Dave",Dave Hoppen,0,1987,1992,HISTADD_dave_hoppen,0,,,,,Y
 77054,"Hopson, Dennis",Dennis Hopson,0,1987,1991,HISTADD_dennis_hopson,0,,,,,Y
-203816,"Hopson, Scotty",Scotty Hopson,0,2013,2013,scotty_hopson,0,,,,,Y
+203816,"Hopson, Scotty",Scotty Hopson,0,2013,2017,scotty_hopson,0,,,,,Y
 77056,"Hordges, Cedrick",Cedrick Hordges,0,1980,1981,HISTADD_cedrick_hordges,0,,,,,Y
 201143,"Horford, Al",Al Horford,1,2007,2017,al_horford,1610612737,Atlanta,Hawks,ATL,hawks,Y
 77057,"Horford, Tito",Tito Horford,0,1988,1993,HISTADD_tito_horford,0,,,,,Y
@@ -1278,7 +1285,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202862,"Horner, Dennis",Dennis Horner,0,2011,2011,dennis_horner,0,,,,,Y
 109,"Horry, Robert",Robert Horry,0,1992,2007,robert_horry,0,,,,,Y
 77060,"Horton, Ed",Ed Horton,0,1989,1989,HISTADD_ed_horton,0,,,,,Y
-1627863,"House, Danuel",Danuel House,0,2016,2016,danuel_house,0,,,,,Y
+1627863,"House, Danuel",Danuel House,0,2016,2017,danuel_house,0,,,,,Y
 2067,"House, Eddie",Eddie House,0,2000,2010,eddie_house,0,,,,,Y
 275,"Houston, Allan",Allan Houston,0,1993,2004,allan_houston,0,,,,,Y
 780,"Houston, Byron",Byron Houston,0,1992,1995,byron_houston,0,,,,,Y
@@ -1311,9 +1318,9 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201805,"Hunter, Chris",Chris Hunter,0,2008,2009,chris_hunter,0,,,,,Y
 283,"Hunter, Lindsey",Lindsey Hunter,0,1993,2009,lindsey_hunter,0,,,,,Y
 201629,"Hunter, Othello",Othello Hunter,0,2008,2009,othello_hunter,0,,,,,Y
-1626154,"Hunter, RJ",RJ Hunter,1,2015,2016,rj_hunter,1610612738,Boston,Celtics,BOS,celtics,Y
+1626154,"Hunter, RJ",RJ Hunter,1,2015,2017,rj_hunter,1610612738,Boston,Celtics,BOS,celtics,Y
 2212,"Hunter, Steven",Steven Hunter,0,2001,2009,steven_hunter,0,,,,,Y
-629208,"Hunter, Vince",Vince Hunter,0,2017,2017,vince_hunter,0,,,,,N
+1626205,"Hunter, Vincent",Vincent Hunter,0,2017,2017,vincent_hunter,0,,,,,Y
 310,"Hurley, Bobby",Bobby Hurley,0,1993,1997,bobby_hurley,0,,,,,Y
 77087,"Huston, Geoff",Geoff Huston,0,1979,1986,HISTADD_geoff_huston,0,,,,,Y
 77092,"Iavaroni, Marc",Marc Iavaroni,0,1982,1988,HISTADD_marc_iavaroni,0,,,,,Y
@@ -1324,16 +1331,17 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 101141,"Ilyasova, Ersan",Ersan Ilyasova,1,2006,2017,ersan_ilyasova,1610612753,Orlando,Magic,ORL,magic,Y
 204060,"Ingles, Joe",Joe Ingles,1,2014,2017,joe_ingles,1610612762,Utah,Jazz,UTA,jazz,Y
 203996,"Inglis, Damien",Damien Inglis,1,2014,2015,damien_inglis,1610612749,Milwaukee,Bucks,MIL,bucks,Y
+201281,"Ingram, Andre",Andre Ingram,0,2017,2017,andre_ingram,0,,,,,Y
 1627742,"Ingram, Brandon",Brandon Ingram,0,2016,2017,brandon_ingram,0,,,,,Y
 77096,"Irvin, Byron",Byron Irvin,0,1989,1992,HISTADD_byron_irvin,0,,,,,Y
 202681,"Irving, Kyrie",Kyrie Irving,1,2011,2017,kyrie_irving,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y
-1628371,"Isaac, Jonathan",Jonathan Isaac,0,2017,2017,jonathan_isaac,0,,,,,N
+1628371,"Isaac, Jonathan",Jonathan Isaac,0,2017,2017,jonathan_isaac,0,,,,,Y
 77097,"Issel, Dan",Dan Issel,0,1976,1984,HISTADD_dan_issel,0,,,,,Y
 77098,"Iuzzolino, Mike",Mike Iuzzolino,0,1991,1992,HISTADD_mike_iuzzolino,0,,,,,Y
 947,"Iverson, Allen",Allen Iverson,0,1996,2009,allen_iverson,0,,,,,Y
 2767,"Ivey, Royal",Royal Ivey,0,2004,2013,royal_ivey,0,,,,,Y
-1628411,"Iwundu, Wesley",Wesley Iwundu,0,2017,2017,wesley_iwundu,0,,,,,N
-101127,"Jack, Jarrett",Jarrett Jack,1,2005,2016,jarrett_jack,1610612751,Brooklyn,Nets,BKN,nets,Y
+1628411,"Iwundu, Wes",Wes Iwundu,0,2017,2017,wes_iwundu,0,,,,,Y
+101127,"Jack, Jarrett",Jarrett Jack,1,2005,2017,jarrett_jack,1610612751,Brooklyn,Nets,BKN,nets,Y
 1517,"Jackson, Bobby",Bobby Jackson,0,1997,2008,bobby_jackson,0,,,,,Y
 202132,"Jackson, Cedric",Cedric Jackson,0,2009,2009,cedric_jackson,0,,,,,Y
 201616,"Jackson, Darnell",Darnell Jackson,0,2008,2010,darnell_jackson,0,,,,,Y
@@ -1342,8 +1350,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1114,"Jackson, Jaren",Jaren Jackson,0,1989,2001,jaren_jackson,0,,,,,Y
 1983,"Jackson, Jermaine",Jermaine Jackson,0,1999,2005,jermaine_jackson,0,,,,,Y
 754,"Jackson, Jim",Jim Jackson,0,1992,2005,jim_jackson,0,,,,,Y
-1628367,"Jackson, Josh",Josh Jackson,0,2017,2017,josh_jackson,0,,,,,N
-1628382,"Jackson, Justin",Justin Jackson,0,2017,2017,justin_jackson,0,,,,,N
+1628367,"Jackson, Josh",Josh Jackson,0,2017,2017,josh_jackson,0,,,,,Y
+1628382,"Jackson, Justin",Justin Jackson,0,2017,2017,justin_jackson,0,,,,,Y
 2739,"Jackson, Luke",Luke Jackson,0,2004,2007,luke_jackson,0,,,,,Y
 1531,"Jackson, Marc",Marc Jackson,0,2000,2006,marc_jackson,0,,,,,Y
 349,"Jackson, Mark",Mark Jackson,0,1987,2003,mark_jackson,0,,,,,Y
@@ -1368,7 +1376,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1744,"James, Jerome",Jerome James,0,1998,2008,jerome_james,0,,,,,Y
 2544,"James, LeBron",LeBron James,1,2003,2017,lebron_james,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y
 2229,"James, Mike",Mike James,0,2001,2013,mike_james,0,,,,,Y
-1628455,"James, Mike",Mike James,0,2017,2017,mike_james,0,,,,,N
+1628455,"James, Mike",Mike James,0,2017,2017,mike_james,0,,,,,Y
 1906,"James, Tim",Tim James,0,1999,2002,tim_james,0,,,,,Y
 1712,"Jamison, Antawn",Antawn Jamison,0,1998,2013,antawn_jamison,0,,,,,Y
 1942,"Jamison, Harold",Harold Jamison,0,1999,2002,harold_jamison,0,,,,,Y
@@ -1379,6 +1387,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2423,"Jefferies, Chris",Chris Jefferies,0,2002,2003,chris_jefferies,0,,,,,Y
 201785,"Jeffers, Othyus",Othyus Jeffers,0,2009,2013,othyus_jeffers,0,,,,,Y
 2744,"Jefferson, Al",Al Jefferson,1,2004,2017,al_jefferson,1610612766,Charlotte,Hornets,CHA,hornets,Y
+1628518,"Jefferson, Amile",Amile Jefferson,0,2017,2017,amile_jefferson,0,,,,,Y
 203928,"Jefferson, Cory",Cory Jefferson,0,2014,2015,cory_jefferson,0,,,,,Y
 200971,"Jefferson, Dontell",Dontell Jefferson,0,2008,2008,dontell_jefferson,0,,,,,Y
 2210,"Jefferson, Richard",Richard Jefferson,1,2001,2017,richard_jefferson,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y
@@ -1386,7 +1395,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202724,"Jenkins, Charles",Charles Jenkins,0,2011,2012,charles_jenkins,0,,,,,Y
 2798,"Jenkins, Horace",Horace Jenkins,0,2004,2004,horace_jenkins,0,,,,,Y
 203098,"Jenkins, John",John Jenkins,1,2012,2016,john_jenkins,1610612756,Phoenix,Suns,PHX,suns,Y
-201943,"Jennings, Brandon",Brandon Jennings,1,2009,2016,brandon_jennings,1610612753,Orlando,Magic,ORL,magic,Y
+201943,"Jennings, Brandon",Brandon Jennings,1,2009,2017,brandon_jennings,1610612753,Orlando,Magic,ORL,magic,Y
 24,"Jennings, Keith",Keith Jennings,0,1992,1994,keith_jennings,0,,,,,Y
 1137,"Jent, Chris",Chris Jent,0,1993,1996,chris_jent,0,,,,,Y
 77129,"Jepsen, Les",Les Jepsen,0,1990,1991,HISTADD_les_jepsen,0,,,,,Y
@@ -1408,7 +1417,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 203187,"Johnson, Chris",Chris Johnson,1,2012,2015,chris_johnson,1610612762,Utah,Jazz,UTA,jazz,Y
 77135,"Johnson, Clay",Clay Johnson,0,1981,1983,HISTADD_clayton_johnson,0,,,,,Y
 77136,"Johnson, Clemon",Clemon Johnson,0,1978,1987,HISTADD_clemon_johnson,0,,,,,Y
-1626177,"Johnson, Dakari",Dakari Johnson,0,2017,2017,dakari_johnson,0,,,,,N
+1626177,"Johnson, Dakari",Dakari Johnson,0,2017,2017,dakari_johnson,0,,,,,Y
 683,"Johnson, Darryl",Darryl Johnson,0,1995,1995,darryl_johnson,0,,,,,Y
 77138,"Johnson, Dave",Dave Johnson,0,1992,1993,HISTADD_dave_johnson,0,,,,,Y
 1746,"Johnson, DeMarco",DeMarco Johnson,0,1999,1999,demarco_johnson,0,,,,,Y
@@ -1440,6 +1449,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77168,"Johnson, Mickey",Mickey Johnson,0,1974,1985,HISTADD_mickey_johnson,0,,,,,Y
 203910,"Johnson, Nick",Nick Johnson,0,2014,2014,nick_johnson,0,,,,,Y
 77162,"Johnson, Ollie",Ollie Johnson,0,1972,1981,HISTADD_ollie_johnson,0,,,,,Y
+204179,"Johnson, Omari",Omari Johnson,0,2017,2017,omari_johnson,0,,,,,Y
 203111,"Johnson, Orlando",Orlando Johnson,0,2012,2015,orlando_johnson,0,,,,,Y
 77163,"Johnson, Reggie",Reggie Johnson,0,1980,1983,HISTADD_reggie_johnson,0,,,,,Y
 1626169,"Johnson, Stanley",Stanley Johnson,1,2015,2017,stanley_johnson,1610612765,Detroit,Pistons,DET,pistons,Y
@@ -1466,7 +1476,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2563,"Jones, Dahntay",Dahntay Jones,1,2003,2016,dahntay_jones,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y
 1627745,"Jones, Damian",Damian Jones,0,2016,2017,damian_jones,0,,,,,Y
 1800,"Jones, Damon",Damon Jones,0,1998,2008,damon_jones,0,,,,,Y
-203199,"Jones, DeQuan",DeQuan Jones,0,2012,2017,dequan_jones,0,,,,,Y
+203199,"Jones, DeQuan",DeQuan Jones,0,2012,2012,dequan_jones,0,,,,,Y
 202346,"Jones, Dominique",Dominique Jones,0,2010,2012,dominique_jones,0,,,,,Y
 963,"Jones, Dontae'",Dontae' Jones,0,1997,1997,dontae'_jones,0,,,,,Y
 101204,"Jones, Dwayne",Dwayne Jones,0,2005,2012,dwayne_jones,0,,,,,Y
@@ -1482,6 +1492,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 203158,"Jones, Kevin",Kevin Jones,0,2012,2012,kevin_jones,0,,,,,Y
 77189,"Jones, Major",Major Jones,0,1979,1984,HISTADD_major_jones,0,,,,,Y
 2891,"Jones, Mark",Mark Jones,0,1983,2004,mark_jones,0,,,,,Y
+90000,"Jones, Mark",Mark Jones,0,1983,1983,tmp_mark_jones,0,,,,,Y
 77191,"Jones, Ozell",Ozell Jones,0,1984,1985,HISTADD_ozell_jones,0,,,,,Y
 461,"Jones, Popeye",Popeye Jones,0,1993,2003,popeye_jones,0,,,,,Y
 77192,"Jones, Rich",Rich Jones,0,1976,1976,HISTADD_house_jones,0,,,,,Y
@@ -1525,7 +1536,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77239,"Kelser, Greg",Greg Kelser,0,1979,1984,HISTADD_greg_kelser,0,,,,,Y
 431,"Kemp, Shawn",Shawn Kemp,0,1989,2002,shawn_kemp,0,,,,,Y
 1118,"Kempton, Tim",Tim Kempton,0,1986,1997,tim_kempton,0,,,,,Y
-1628379,"Kennard, Luke",Luke Kennard,0,2017,2017,luke_kennard,0,,,,,N
+1628379,"Kennard, Luke",Luke Kennard,0,2017,2017,luke_kennard,0,,,,,Y
 202810,"Kennedy, D.J.",D.J. Kennedy,0,2011,2011,d.j._kennedy,0,,,,,Y
 77243,"Kennedy, Eugene",Eugene Kennedy,0,1976,1976,HISTADD_goo_kennedy,0,,,,,Y
 77246,"Kenon, Larry",Larry Kenon,0,1976,1982,HISTADD_larry_kenon,0,,,,,Y
@@ -1560,7 +1571,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77280,"Kitchen, Curtis",Curtis Kitchen,0,1986,1986,HISTADD_curtis_kitchen,0,,,,,Y
 1123,"Kite, Greg",Greg Kite,0,1983,1994,greg_kite,0,,,,,Y
 954,"Kittles, Kerry",Kerry Kittles,0,1996,2004,kerry_kittles,0,,,,,Y
-1628467,"Kleber, Maxi",Maxi Kleber,0,2017,2017,maxi_kleber,0,,,,,N
+1628467,"Kleber, Maxi",Maxi Kleber,0,2017,2017,maxi_kleber,0,,,,,Y
 170,"Kleine, Joe",Joe Kleine,0,1985,1999,joe_kleine,0,,,,,Y
 101132,"Kleiza, Linas",Linas Kleiza,0,2005,2012,linas_kleiza,0,,,,,Y
 77290,"Knight, Billy",Billy Knight,0,1976,1984,HISTADD_billy_knight,0,,,,,Y
@@ -1570,13 +1581,12 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1861,"Knight, Negele",Negele Knight,0,1990,1998,negele_knight,0,,,,,Y
 77289,"Knight, Toby",Toby Knight,0,1977,1981,HISTADD_toby_knight,0,,,,,Y
 969,"Knight, Travis",Travis Knight,0,1996,2002,travis_knight,0,,,,,Y
-1628460,"Koenig, Bronson",Bronson Koenig,0,2017,2017,bronson_koenig,0,,,,,N
 77294,"Kofoed, Bart",Bart Kofoed,0,1987,1992,HISTADD_bart_kofoed,0,,,,,Y
 402,"Koncak, Jon",Jon Koncak,0,1985,1995,jon_koncak,0,,,,,Y
 77300,"Kopicki, Joe",Joe Kopicki,0,1982,1984,HISTADD_joe_kopicki,0,,,,,Y
-1627788,"Korkmaz, Furkan",Furkan Korkmaz,0,2017,2017,furkan_korkmaz,0,,,,,N
+1627788,"Korkmaz, Furkan",Furkan Korkmaz,0,2017,2017,furkan_korkmaz,0,,,,,Y
 77301,"Kornet, Frank",Frank Kornet,0,1989,1990,HISTADD_frank_kornet,0,,,,,Y
-1628436,"Kornet, Luke",Luke Kornet,0,2017,2017,luke_kornet,0,,,,,N
+1628436,"Kornet, Luke",Luke Kornet,0,2017,2017,luke_kornet,0,,,,,Y
 101117,"Korolev, Yaroslav",Yaroslav Korolev,0,2005,2006,yaroslav_korolev,0,,,,,Y
 2594,"Korver, Kyle",Kyle Korver,1,2003,2017,kyle_korver,1610612737,Atlanta,Hawks,ATL,hawks,Y
 201585,"Koufos, Kosta",Kosta Koufos,1,2008,2017,kosta_koufos,1610612758,Sacramento,Kings,SAC,kings,Y
@@ -1596,7 +1606,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77325,"Kupec, Charles",Charles Kupec,0,1975,1977,HISTADD_cj_kupec,0,,,,,Y
 201633,"Kurz, Rob",Rob Kurz,0,2008,2009,rob_kurz,0,,,,,Y
 2825,"Kutluay, Ibrahim",Ibrahim Kutluay,0,2004,2004,ibrahim_kutluay,0,,,,,Y
-1628398,"Kuzma, Kyle",Kyle Kuzma,0,2017,2017,kyle_kuzma,0,,,,,N
+1628398,"Kuzma, Kyle",Kyle Kuzma,0,2017,2017,kyle_kuzma,0,,,,,Y
 203136,"Kuzmic, Ognjen",Ognjen Kuzmic,0,2013,2014,ognjen_kuzmic,0,,,,,Y
 1627851,"Kuzminskas, Mindaugas",Mindaugas Kuzminskas,0,2016,2017,mindaugas_kuzminskas,0,,,,,Y
 1711,"LaFrentz, Raef",Raef LaFrentz,0,1998,2008,raef_lafrentz,0,,,,,Y
@@ -1642,13 +1652,14 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1627774,"Layman, Jake",Jake Layman,0,2016,2017,jake_layman,0,,,,,Y
 77350,"Layton, Dennis",Dennis Layton,0,1971,1977,HISTADD_mo_layton,0,,,,,Y
 1627747,"LeVert, Caris",Caris LeVert,0,2016,2017,caris_levert,0,,,,,Y
-1628388,"Leaf, T.J.",T.J. Leaf,0,2017,2017,t.j._leaf,0,,,,,N
+1628388,"Leaf, TJ",TJ Leaf,0,2017,2017,tj_leaf,0,,,,,Y
 77353,"Leavell, Allen",Allen Leavell,0,1979,1988,HISTADD_allen_leavell,0,,,,,Y
 77354,"Lebo, Jeff",Jeff Lebo,0,1989,1989,HISTADD_jeff_lebo,0,,,,,Y
 287,"Leckner, Eric",Eric Leckner,0,1988,1996,eric_leckner,0,,,,,Y
 203495,"Ledo, Ricky",Ricky Ledo,0,2013,2014,ricky_ledo,0,,,,,Y
 77356,"Lee, Butch",Butch Lee,0,1978,1979,HISTADD_butch_lee,0,,,,,Y
 201584,"Lee, Courtney",Courtney Lee,1,2008,2017,courtney_lee,1610612766,Charlotte,Hornets,CHA,hornets,Y
+1627814,"Lee, Damion",Damion Lee,0,2017,2017,damion_lee,0,,,,,Y
 101135,"Lee, David",David Lee,1,2005,2016,david_lee,1610612742,Dallas,Mavericks,DAL,mavericks,Y
 77358,"Lee, Doug",Doug Lee,0,1991,1994,HISTADD_doug_lee,0,,,,,Y
 77361,"Lee, Keith",Keith Lee,0,1985,1988,HISTADD_keith_lee,0,,,,,Y
@@ -1657,7 +1668,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77363,"Lee, Rock",Rock Lee,0,1981,1981,HISTADD_rock_lee,0,,,,,Y
 77364,"Lee, Ron",Ron Lee,0,1976,1981,HISTADD_ron_lee,0,,,,,Y
 100,"Legler, Tim",Tim Legler,0,1989,1999,tim_legler,0,,,,,Y
-203458,"Len, Alex",Alex Len,1,2013,2016,alex_len,1610612756,Phoenix,Suns,PHX,suns,Y
+1627215,"Lemon Jr., Walter",Walter Lemon Jr.,0,2017,2017,walter_lemon jr.,0,,,,,Y
+203458,"Len, Alex",Alex Len,1,2013,2017,alex_len,1610612756,Phoenix,Suns,PHX,suns,Y
 702,"Lenard, Voshon",Voshon Lenard,0,1995,2005,voshon_lenard,0,,,,,Y
 77370,"Leonard, Gary",Gary Leonard,0,1989,1991,HISTADD_gary_leonard,0,,,,,Y
 202695,"Leonard, Kawhi",Kawhi Leonard,1,2011,2017,kawhi_leonard,1610612759,San Antonio,Spurs,SAS,spurs,Y
@@ -1696,7 +1708,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1609,"Long, Art",Art Long,0,2000,2002,art_long,0,,,,,Y
 3,"Long, Grant",Grant Long,0,1988,2002,grant_long,0,,,,,Y
 1381,"Long, John",John Long,0,1978,1996,john_long,0,,,,,Y
-1627848,"Long, Shawn",Shawn Long,0,2016,2017,shawn_long,0,,,,,Y
+1627848,"Long, Shawn",Shawn Long,0,2016,2016,shawn_long,0,,,,,Y
 26,"Longley, Luc",Luc Longley,0,1991,2000,luc_longley,0,,,,,Y
 1626172,"Looney, Kevon",Kevon Looney,1,2015,2017,kevon_looney,1610612744,Golden State,Warriors,GSW,warriors,Y
 201572,"Lopez, Brook",Brook Lopez,1,2008,2017,brook_lopez,1610612751,Brooklyn,Nets,BKN,nets,Y
@@ -1709,15 +1721,16 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77415,"Lowe, Sidney",Sidney Lowe,0,1983,1989,HISTADD_sidney_lowe,0,,,,,Y
 200768,"Lowry, Kyle",Kyle Lowry,1,2006,2017,kyle_lowry,1610612761,Toronto,Raptors,TOR,raptors,Y
 77419,"Lucas, John",John Lucas,0,1976,1989,HISTADD_john_lucas,0,,,,,Y
-203564,"Lucas, Kalin",Kalin Lucas,0,2014,2017,kalin_lucas,0,,,,,Y
+203564,"Lucas, Kalin",Kalin Lucas,0,2014,2014,kalin_lucas,0,,,,,Y
 77420,"Lucas, Maurice",Maurice Lucas,0,1976,1987,HISTADD_maurice_lucas,0,,,,,Y
 101249,"Lucas III, John",John Lucas III,0,2005,2016,john_lucas iii,0,,,,,Y
 1731,"Lue, Tyronn",Tyronn Lue,0,1998,2008,tyronn_lue,0,,,,,Y
 1627789,"Luwawu-Cabarrot, Timothe",Timothe Luwawu-Cabarrot,0,2016,2017,timothe_luwawu-cabarrot,0,,,,,Y
-1628399,"Lydon, Tyler",Tyler Lydon,0,2017,2017,tyler_lydon,0,,,,,N
+1628399,"Lydon, Tyler",Tyler Lydon,0,2017,2017,tyler_lydon,0,,,,,Y
 1626168,"Lyles, Trey",Trey Lyles,1,2015,2017,trey_lyles,1610612762,Utah,Jazz,UTA,jazz,Y
 248,"Lynch, George",George Lynch,0,1993,2004,george_lynch,0,,,,,Y
 77426,"Lynch, Kevin",Kevin Lynch,0,1991,1992,HISTADD_kevin_lynch,0,,,,,Y
+1627815,"Mac, Sheldon",Sheldon Mac,0,2016,2016,sheldon_mac,0,,,,,Y
 1928,"MacCulloch, Todd",Todd MacCulloch,0,1999,2003,todd_macculloch,0,,,,,Y
 931,"MacLean, Don",Don MacLean,0,1992,2000,don_maclean,0,,,,,Y
 203159,"Machado, Scott",Scott Machado,0,2012,2012,scott_machado,0,,,,,Y
@@ -1759,7 +1772,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77463,"Marin, Jack",Jack Marin,0,1966,1976,HISTADD_jack_marin,0,,,,,Y
 1890,"Marion, Shawn",Shawn Marion,0,1999,2014,shawn_marion,0,,,,,Y
 1626246,"Marjanovic, Boban",Boban Marjanovic,1,2015,2017,boban_marjanovic,1610612759,San Antonio,Spurs,SAS,spurs,Y
-1628374,"Markkanen, Lauri",Lauri Markkanen,0,2017,2017,lauri_markkanen,0,,,,,N
+1628374,"Markkanen, Lauri",Lauri Markkanen,0,2017,2017,lauri_markkanen,0,,,,,Y
 200806,"Markota, Damir",Damir Markota,0,2006,2006,damir_markota,0,,,,,Y
 1752,"Marks, Sean",Sean Marks,0,1998,2010,sean_marks,0,,,,,Y
 77465,"Marsh, Eric",Eric Marsh,0,1977,1977,HISTADD_ricky_marsh,0,,,,,Y
@@ -1782,10 +1795,10 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 469,"Mashburn, Jamal",Jamal Mashburn,0,1993,2003,jamal_mashburn,0,,,,,Y
 193,"Mason, Anthony",Anthony Mason,0,1989,2002,anthony_mason,0,,,,,Y
 2046,"Mason, Desmond",Desmond Mason,0,2000,2009,desmond_mason,0,,,,,Y
-1628412,"Mason, Frank",Frank Mason,0,2017,2017,frank_mason,0,,,,,N
+1628412,"Mason, Frank",Frank Mason,0,2017,2017,frank_mason,0,,,,,Y
 2427,"Mason Jr., Roger",Roger Mason Jr.,0,2002,2013,roger_mason jr.,0,,,,,Y
 763,"Massenburg, Tony",Tony Massenburg,0,1990,2004,tony_massenburg,0,,,,,Y
-1628493,"Mathiang, Mangok",Mangok Mathiang,0,2017,2017,mangok_mathiang,0,,,,,N
+1628493,"Mathiang, Mangok",Mangok Mathiang,0,2017,2017,mangok_mathiang,0,,,,,Y
 77484,"Matthews, Wes",Wes Matthews,0,1980,1989,HISTADD_wes_matthews,0,,,,,Y
 202083,"Matthews, Wesley",Wesley Matthews,1,2009,2017,wesley_matthews,1610612742,Dallas,Mavericks,DAL,mavericks,Y
 77486,"Maxey, Marlon",Marlon Maxey,0,1992,1993,HISTADD_marlon_maxey,0,,,,,Y
@@ -1816,7 +1829,6 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1627775,"McCaw, Patrick",Patrick McCaw,0,2016,2017,patrick_mccaw,0,,,,,Y
 77509,"McClain, Dwayne",Dwayne McClain,0,1985,1985,HISTADD_dwayne_mcclain,0,,,,,Y
 77510,"McClain, Ted, Hound Dog","Ted, Hound Dog McClain",0,1976,1978,HISTADD_ted_mcclain,0,,,,,Y
-1627815,"McClellan, Sheldon",Sheldon McClellan,0,2016,2017,sheldon_mcclellan,0,,,,,Y
 2082,"McClintock, Dan",Dan McClintock,0,2000,2000,dan_mcclintock,0,,,,,Y
 45,"McCloud, George",George McCloud,0,1989,2002,george_mccloud,0,,,,,Y
 203468,"McCollum, CJ",CJ McCollum,1,2013,2017,cj_mccollum,1610612757,Portland,Trail Blazers,POR,blazers,Y
@@ -1828,12 +1840,13 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 200840,"McCray, Chris",Chris McCray,0,2006,2006,chris_mccray,0,,,,,Y
 1622,"McCray, Rodney",Rodney McCray,0,1983,1992,rodney_mccray,0,,,,,Y
 77518,"McCray, Scooter",Scooter McCray,0,1983,1986,HISTADD_scooter_mccray,0,,,,,Y
+1628571,"McCree, Erik",Erik McCree,0,2017,2017,erik_mccree,0,,,,,Y
 1626191,"McCullough, Chris",Chris McCullough,1,2015,2017,chris_mccullough,1610612751,Brooklyn,Nets,BKN,nets,Y
 77520,"McCullough, John",John McCullough,0,1981,1981,HISTADD_john_mccullough,0,,,,,Y
 723,"McDaniel, Clint",Clint McDaniel,0,1995,1995,clint_mcdaniel,0,,,,,Y
 1365,"McDaniel, Xavier",Xavier McDaniel,0,1985,1997,xavier_mcdaniel,0,,,,,Y
 77523,"McDaniels, Jim",Jim McDaniels,0,1971,1977,HISTADD_jim_mcdaniels,0,,,,,Y
-203909,"McDaniels, KJ",KJ McDaniels,1,2014,2017,kj_mcdaniels,1610612745,Houston,Rockets,HOU,rockets,Y
+203909,"McDaniels, KJ",KJ McDaniels,1,2014,2016,kj_mcdaniels,1610612745,Houston,Rockets,HOU,rockets,Y
 203926,"McDermott, Doug",Doug McDermott,1,2014,2017,doug_mcdermott,1610612741,Chicago,Bulls,CHI,bulls,Y
 77524,"McDonald, Ben",Ben McDonald,0,1985,1988,HISTADD_ben_mcdonald,0,,,,,Y
 77525,"McDonald, Glenn",Glenn McDonald,0,1974,1976,HISTADD_glenn_mcdonald,0,,,,,Y
@@ -1858,8 +1871,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 243,"McKie, Aaron",Aaron McKie,0,1994,2006,aaron_mckie,0,,,,,Y
 77547,"McKinney, Billy",Billy McKinney,0,1978,1985,HISTADD_billy_mckinney,0,,,,,Y
 77545,"McKinney, Carlton",Carlton McKinney,0,1989,1991,HISTADD_carlton_mckinney,0,,,,,Y
-203590,"McKinney Jones, Trey",Trey McKinney Jones,0,2017,2017,trey_mckinney jones,0,,,,,Y
-1628035,"McKinnie, Alfonzo",Alfonzo McKinnie,0,2017,2017,alfonzo_mckinnie,0,,,,,N
+203590,"McKinney-Jones, Trey",Trey McKinney-Jones,0,2017,2017,trey_mckinney-jones,0,,,,,Y
+1628035,"McKinnie, Alfonzo",Alfonzo McKinnie,0,2017,2017,alfonzo_mckinnie,0,,,,,Y
 203463,"McLemore, Ben",Ben McLemore,1,2013,2017,ben_mclemore,1610612758,Sacramento,Kings,SAC,kings,Y
 2693,"McLeod, Keith",Keith McLeod,0,2003,2006,keith_mcleod,0,,,,,Y
 1728,"McLeod, Roshown",Roshown McLeod,0,1998,2000,roshown_mcleod,0,,,,,Y
@@ -1877,7 +1890,6 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2098,"Medvedenko, Slava",Slava Medvedenko,0,2000,2006,slava_medvedenko,0,,,,,Y
 1577,"Mee, Darnell",Darnell Mee,0,1993,1994,darnell_mee,0,,,,,Y
 201975,"Meeks, Jodie",Jodie Meeks,1,2009,2017,jodie_meeks,1610612765,Detroit,Pistons,DET,pistons,Y
-1628452,"Meeks, Kennedy",Kennedy Meeks,0,2017,2017,kennedy_meeks,0,,,,,N
 77571,"Meents, Scott",Scott Meents,0,1989,1990,HISTADD_scott_meents,0,,,,,Y
 1626257,"Mejri, Salah",Salah Mejri,1,2015,2017,salah_mejri,1610612742,Dallas,Mavericks,DAL,mavericks,Y
 203539,"Mekel, Gal",Gal Mekel,0,2013,2014,gal_mekel,0,,,,,Y
@@ -1912,19 +1924,20 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 168,"Mills, Chris",Chris Mills,0,1993,2002,chris_mills,0,,,,,Y
 201988,"Mills, Patty",Patty Mills,1,2009,2017,patty_mills,1610612759,San Antonio,Spurs,SAS,spurs,Y
 371,"Mills, Terry",Terry Mills,0,1990,2000,terry_mills,0,,,,,Y
-202407,"Millsap, Elijah",Elijah Millsap,0,2014,2017,elijah_millsap,0,,,,,Y
+202407,"Millsap, Elijah",Elijah Millsap,0,2014,2016,elijah_millsap,0,,,,,Y
 200794,"Millsap, Paul",Paul Millsap,1,2006,2017,paul_millsap,1610612737,Atlanta,Hawks,ATL,hawks,Y
 114,"Miner, Harold",Harold Miner,0,1992,1995,harold_miner,0,,,,,Y
 77609,"Minniefield, Dirk",Dirk Minniefield,0,1985,1987,HISTADD_dirk_minniefield,0,,,,,Y
 65,"Minor, Greg",Greg Minor,0,1994,1998,greg_minor,0,,,,,Y
-202703,"Mirotic, Nikola",Nikola Mirotic,1,2014,2016,nikola_mirotic,1610612741,Chicago,Bulls,CHI,bulls,Y
+202703,"Mirotic, Nikola",Nikola Mirotic,1,2014,2017,nikola_mirotic,1610612741,Chicago,Bulls,CHI,bulls,Y
 1954,"Miskiri, Jason",Jason Miskiri,0,1999,1999,jason_miskiri,0,,,,,Y
-1628378,"Mitchell, Donovan",Donovan Mitchell,0,2017,2017,donovan_mitchell,0,,,,,N
+1628378,"Mitchell, Donovan",Donovan Mitchell,0,2017,2017,donovan_mitchell,0,,,,,Y
 77615,"Mitchell, Mike",Mike Mitchell,0,1978,1987,HISTADD_mike_mitchell,0,,,,,Y
 417,"Mitchell, Sam",Sam Mitchell,0,1989,2001,sam_mitchell,0,,,,,Y
 77614,"Mitchell, Todd",Todd Mitchell,0,1988,1988,HISTADD_todd_mitchell,0,,,,,Y
 203183,"Mitchell, Tony",Tony Mitchell,0,2013,2013,tony_mitchell,0,,,,,Y
 203502,"Mitchell, Tony",Tony Mitchell,0,2013,2013,tony_mitchell,0,,,,,Y
+1628513,"Mitrou-Long, Naz",Naz Mitrou-Long,0,2017,2017,naz_mitrou-long,0,,,,,Y
 77618,"Mix, Steve",Steve Mix,0,1969,1982,HISTADD_steve_mix,0,,,,,Y
 1749,"Mobley, Cuttino",Cuttino Mobley,0,1998,2008,cuttino_mobley,0,,,,,Y
 211,"Mobley, Eric",Eric Mobley,0,1994,1996,eric_mobley,0,,,,,Y
@@ -1935,7 +1948,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77626,"Moncrief, Sidney",Sidney Moncrief,0,1979,1990,HISTADD_sidney_moncrief,0,,,,,Y
 77627,"Money, Eric",Eric Money,0,1974,1979,HISTADD_eric_money,0,,,,,Y
 2752,"Monia, Sergei",Sergei Monia,0,2005,2005,sergei_monia,0,,,,,Y
-1628370,"Monk, Malik",Malik Monk,0,2017,2017,malik_monk,0,,,,,N
+1628370,"Monk, Malik",Malik Monk,0,2017,2017,malik_monk,0,,,,,Y
 600006,"Monroe, Earl",Earl Monroe,0,1967,1979,HISTADD_earl_monroe,0,,,,,Y
 202328,"Monroe, Greg",Greg Monroe,1,2010,2017,greg_monroe,1610612749,Milwaukee,Bucks,MIL,bucks,Y
 77628,"Monroe, Rodney",Rodney Monroe,0,1991,1991,HISTADD_rodney_monroe,0,,,,,Y
@@ -1943,7 +1956,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 376,"Montross, Eric",Eric Montross,0,1994,2002,eric_montross,0,,,,,Y
 200081,"Moon, Jamario",Jamario Moon,0,2007,2011,jamario_moon,0,,,,,Y
 77632,"Moore, Andre",Andre Moore,0,1987,1987,HISTADD_andre_moore,0,,,,,Y
-1628500,"Moore, Ben",Ben Moore,0,2017,2017,ben_moore,0,,,,,N
+1628500,"Moore, Ben",Ben Moore,0,2017,2017,ben_moore,0,,,,,Y
 202734,"Moore, E'Twaun",E'Twaun Moore,1,2011,2017,e'twaun_moore,1610612741,Chicago,Bulls,CHI,bulls,Y
 77633,"Moore, Johnny",Johnny Moore,0,1980,1989,HISTADD_johnny_moore,0,,,,,Y
 77635,"Moore, Lowes",Lowes Moore,0,1980,1982,HISTADD_lowes_moore,0,,,,,Y
@@ -1953,14 +1966,14 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 929,"Moore, Tracy",Tracy Moore,0,1991,1996,tracy_moore,0,,,,,Y
 203961,"Moreland, Eric",Eric Moreland,1,2014,2017,eric_moreland,1610612758,Sacramento,Kings,SAC,kings,Y
 77640,"Morgan, Guy",Guy Morgan,0,1982,1982,HISTADD_guy_morgan,0,,,,,Y
-1628456,"Morgan, Jeremy",Jeremy Morgan,0,2017,2017,jeremy_morgan,0,,,,,N
 77644,"Morningstar, Darren",Darren Morningstar,0,1993,1993,HISTADD_darren_morningstar,0,,,,,Y
 356,"Morris, Chris",Chris Morris,0,1988,1998,chris_morris,0,,,,,Y
 202721,"Morris, Darius",Darius Morris,0,2011,2014,darius_morris,0,,,,,Y
 77647,"Morris, Isaiah",Isaiah Morris,0,1992,1992,HISTADD_isaiah_morris,0,,,,,Y
+1628537,"Morris, Jaylen",Jaylen Morris,0,2017,2017,jaylen_morris,0,,,,,Y
 202694,"Morris, Marcus",Marcus Morris,1,2011,2017,marcus_morris,1610612765,Detroit,Pistons,DET,pistons,Y
 202693,"Morris, Markieff",Markieff Morris,1,2011,2017,markieff_morris,1610612764,Washington,Wizards,WAS,wizards,Y
-1628420,"Morris, Monte",Monte Morris,0,2017,2017,monte_morris,0,,,,,N
+1628420,"Morris, Monte",Monte Morris,0,2017,2017,monte_morris,0,,,,,Y
 201043,"Morris, Randolph",Randolph Morris,0,2006,2009,randolph_morris,0,,,,,Y
 2242,"Morris, Terence",Terence Morris,0,2001,2005,terence_morris,0,,,,,Y
 200747,"Morrison, Adam",Adam Morrison,0,2006,2009,adam_morrison,0,,,,,Y
@@ -1973,17 +1986,17 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77654,"Moss, Perry",Perry Moss,0,1985,1986,HISTADD_perry_moss,0,,,,,Y
 734,"Moten, Lawrence",Lawrence Moten,0,1995,1997,lawrence_moten,0,,,,,Y
 202700,"Motiejunas, Donatas",Donatas Motiejunas,1,2012,2016,donatas_motiejunas,1610612745,Houston,Rockets,HOU,rockets,Y
-1628405,"Motley, Johnathan",Johnathan Motley,0,2017,2017,johnathan_motley,0,,,,,N
+1628405,"Motley, Johnathan",Johnathan Motley,0,2017,2017,johnathan_motley,0,,,,,Y
 2069,"Mottola, Hanno",Hanno Mottola,0,2000,2001,hanno_mottola,0,,,,,Y
 203102,"Moultrie, Arnett",Arnett Moultrie,0,2012,2013,arnett_moultrie,0,,,,,Y
 297,"Mourning, Alonzo",Alonzo Mourning,0,1992,2007,alonzo_mourning,0,,,,,Y
 202389,"Mozgov, Timofey",Timofey Mozgov,1,2010,2017,timofey_mozgov,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y
 1626144,"Mudiay, Emmanuel",Emmanuel Mudiay,1,2015,2017,emmanuel_mudiay,1610612743,Denver,Nuggets,DEN,nuggets,Y
-203498,"Muhammad, Shabazz",Shabazz Muhammad,1,2013,2016,shabazz_muhammad,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y
+203498,"Muhammad, Shabazz",Shabazz Muhammad,1,2013,2017,shabazz_muhammad,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y
 201957,"Mullens, Byron",Byron Mullens,0,2009,2013,byron_mullens,0,,,,,Y
 904,"Mullin, Chris",Chris Mullin,0,1985,2000,chris_mullin,0,,,,,Y
 942,"Mundt, Todd",Todd Mundt,0,1995,1995,todd_mundt,0,,,,,Y
-204098,"Munford, Xavier",Xavier Munford,1,2015,2015,xavier_munford,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
+204098,"Munford, Xavier",Xavier Munford,1,2015,2017,xavier_munford,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y
 77664,"Munk, Chris",Chris Munk,0,1990,1990,HISTADD_chris_munk,0,,,,,Y
 785,"Murdock, Eric",Eric Murdock,0,1991,1999,eric_murdock,0,,,,,Y
 49,"Muresan, Gheorghe",Gheorghe Muresan,0,1993,1999,gheorghe_muresan,0,,,,,Y
@@ -2006,10 +2019,10 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 87,"Mutombo, Dikembe",Dikembe Mutombo,0,1991,2008,dikembe_mutombo,0,,,,,Y
 982,"Muursepp, Martin",Martin Muursepp,0,1996,1997,martin_muursepp,0,,,,,Y
 939,"Myers, Pete",Pete Myers,0,1986,1997,pete_myers,0,,,,,Y
-1823,"N'diaye, Makhtar",Makhtar N'diaye,0,1998,1998,makhtar_n'diaye,0,,,,,Y
+1626122,"N'diaye, Makhtar",Makhtar N'diaye,0,1998,1998,,0,,,,,N
 2055,"N'diaye, Mamadou",Mamadou N'diaye,0,2000,2004,mamadou_n'diaye,0,,,,,Y
 2411,"Nachbar, Bostjan",Bostjan Nachbar,0,2002,2007,bostjan_nachbar,0,,,,,Y
-1627846,"Nader, Abdel",Abdel Nader,0,2017,2017,abdel_nader,0,,,,,N
+1627846,"Nader, Abdel",Abdel Nader,0,2017,2017,abdel_nader,0,,,,,Y
 1924,"Nailon, Lee",Lee Nailon,0,2000,2005,lee_nailon,0,,,,,Y
 2059,"Najera, Eduardo",Eduardo Najera,0,2000,2011,eduardo_najera,0,,,,,Y
 77685,"Nance, Larry",Larry Nance,0,1981,1993,HISTADD_larry_nance,0,,,,,Y
@@ -2045,9 +2058,9 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1956,"Newble, Ira",Ira Newble,0,2000,2007,ira_newble,0,,,,,Y
 77710,"Newlin, Mike",Mike Newlin,0,1971,1981,HISTADD_mike_newlin,0,,,,,Y
 271,"Newman, Johnny",Johnny Newman,0,1986,2001,johnny_newman,0,,,,,Y
-1627777,"Niang, Georges",Georges Niang,0,2016,2016,georges_niang,0,,,,,Y
+1627777,"Niang, Georges",Georges Niang,0,2016,2017,georges_niang,0,,,,,Y
 201193,"Nichols, Demetris",Demetris Nichols,0,2007,2008,demetris_nichols,0,,,,,Y
-203094,"Nicholson, Andrew",Andrew Nicholson,1,2012,2017,andrew_nicholson,1610612753,Orlando,Magic,ORL,magic,Y
+203094,"Nicholson, Andrew",Andrew Nicholson,1,2012,2016,andrew_nicholson,1610612753,Orlando,Magic,ORL,magic,Y
 1093,"Nickerson, Gaylon",Gaylon Nickerson,0,1996,1996,gaylon_nickerson,0,,,,,Y
 77715,"Nicks, Carl",Carl Nicks,0,1980,1982,HISTADD_carl_nicks,0,,,,,Y
 77718,"Niles, Mike",Mike Niles,0,1980,1980,HISTADD_mike_niles,0,,,,,Y
@@ -2057,7 +2070,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201149,"Noah, Joakim",Joakim Noah,1,2007,2017,joakim_noah,1610612741,Chicago,Bulls,CHI,bulls,Y
 2804,"Nocioni, Andres",Andres Nocioni,0,2004,2011,andres_nocioni,0,,,,,Y
 200786,"Noel, David",David Noel,0,2006,2006,david_noel,0,,,,,Y
-203457,"Noel, Nerlens",Nerlens Noel,1,2013,2016,nerlens_noel,1610612755,Philadelphia,76ers,PHI,sixers,Y
+203457,"Noel, Nerlens",Nerlens Noel,1,2013,2017,nerlens_noel,1610612755,Philadelphia,76ers,PHI,sixers,Y
 203512,"Nogueira, Lucas",Lucas Nogueira,1,2014,2017,lucas_nogueira,1610612761,Toronto,Raptors,TOR,raptors,Y
 999,"Nordgaard, Jeff",Jeff Nordgaard,0,1997,1997,jeff_nordgaard,0,,,,,Y
 77729,"Norman, Connie",Connie Norman,0,1974,1978,HISTADD_connie_norman,0,,,,,Y
@@ -2068,7 +2081,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77733,"Norwood, Willie",Willie Norwood,0,1971,1977,HISTADD_willie_norwood,0,,,,,Y
 200779,"Novak, Steve",Steve Novak,1,2006,2016,steve_novak,1610612749,Milwaukee,Bucks,MIL,bucks,Y
 1717,"Nowitzki, Dirk",Dirk Nowitzki,1,1998,2017,dirk_nowitzki,1610612742,Dallas,Mavericks,DAL,mavericks,Y
-1628373,"Ntilikina, Frank",Frank Ntilikina,0,2017,2017,frank_ntilikina,0,,,,,N
+1628373,"Ntilikina, Frank",Frank Ntilikina,0,2017,2017,frank_ntilikina,0,,,,,Y
 203263,"Nunnally, James",James Nunnally,0,2013,2013,james_nunnally,0,,,,,Y
 203994,"Nurkic, Jusuf",Jusuf Nurkic,1,2014,2017,jusuf_nurkic,1610612743,Denver,Nuggets,DEN,nuggets,Y
 77738,"Nutt, Dennis",Dennis Nutt,0,1986,1986,HISTADD_dennis_nutt,0,,,,,Y
@@ -2082,18 +2095,18 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77754,"O'Koren, Mike",Mike O'Koren,0,1980,1987,HISTADD_mike_okoren,0,,,,,Y
 979,"O'Neal, Jermaine",Jermaine O'Neal,0,1996,2013,jermaine_o'neal,0,,,,,Y
 406,"O'Neal, Shaquille",Shaquille O'Neal,0,1992,2010,shaquille_o'neal,0,,,,,Y
-1626220,"O'Neale, Royce",Royce O'Neale,0,2017,2017,royce_o'neale,0,,,,,N
+1626220,"O'Neale, Royce",Royce O'Neale,0,2017,2017,royce_o'neale,0,,,,,Y
 203124,"O'Quinn, Kyle",Kyle O'Quinn,1,2012,2017,kyle_o'quinn,1610612752,New York,Knicks,NYK,knicks,Y
 77776,"O'Sullivan, Dan",Dan O'Sullivan,0,1990,1995,HISTADD_dan_osullivan,0,,,,,Y
 891,"Oakley, Charles",Charles Oakley,0,1985,2003,charles_oakley,0,,,,,Y
 101177,"Oberto, Fabricio",Fabricio Oberto,0,2005,2010,fabricio_oberto,0,,,,,Y
-1627849,"Ochefu, Daniel",Daniel Ochefu,0,2016,2017,daniel_ochefu,0,,,,,Y
+1627849,"Ochefu, Daniel",Daniel Ochefu,0,2016,2016,daniel_ochefu,0,,,,,Y
 201141,"Oden, Greg",Greg Oden,0,2007,2013,greg_oden,0,,,,,Y
 1885,"Odom, Lamar",Lamar Odom,0,1999,2013,lamar_odom,0,,,,,Y
 1628,"Ogg, Alan",Alan Ogg,0,1990,1992,alan_ogg,0,,,,,Y
 203317,"Ohlbrecht, Tim",Tim Ohlbrecht,0,2012,2012,tim_ohlbrecht,0,,,,,Y
-1628400,"Ojeleye, Semi",Semi Ojeleye,0,2017,2017,semi_ojeleye,0,,,,,N
-2731,"Okafor, Emeka",Emeka Okafor,0,2004,2013,emeka_okafor,0,,,,,Y
+1628400,"Ojeleye, Semi",Semi Ojeleye,0,2017,2017,semi_ojeleye,0,,,,,Y
+2731,"Okafor, Emeka",Emeka Okafor,0,2004,2017,emeka_okafor,0,,,,,Y
 1626143,"Okafor, Jahlil",Jahlil Okafor,1,2015,2017,jahlil_okafor,1610612755,Philadelphia,76ers,PHI,sixers,Y
 2246,"Okur, Mehmet",Mehmet Okur,0,2002,2011,mehmet_okur,0,,,,,Y
 203506,"Oladipo, Victor",Victor Oladipo,1,2013,2017,victor_oladipo,1610612753,Orlando,Magic,ORL,magic,Y
@@ -2113,10 +2126,9 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77770,"Orr, Louis",Louis Orr,0,1980,1987,HISTADD_louis_orr,0,,,,,Y
 77771,"Ortiz, Jose",Jose Ortiz,0,1988,1989,HISTADD_jose_ortiz,0,,,,,Y
 202350,"Orton, Daniel",Daniel Orton,0,2010,2013,daniel_orton,0,,,,,Y
-1626224,"Osman, Cedi",Cedi Osman,0,2017,2017,cedi_osman,0,,,,,N
+1626224,"Osman, Cedi",Cedi Osman,0,2017,2017,cedi_osman,0,,,,,Y
 731,"Ostertag, Greg",Greg Ostertag,0,1995,2005,greg_ostertag,0,,,,,Y
 77777,"Othick, Matt",Matt Othick,0,1992,1992,HISTADD_matt_othick,0,,,,,Y
-1628473,"Ouattara, Yakuba",Yakuba Ouattara,0,2017,2017,yakuba_ouattara,0,,,,,N
 1626162,"Oubre Jr., Kelly",Kelly Oubre Jr.,1,2015,2017,kelly_oubre jr.,1610612764,Washington,Wizards,WAS,wizards,Y
 448,"Outlaw, Bo",Bo Outlaw,0,1993,2007,bo_outlaw,0,,,,,Y
 2566,"Outlaw, Travis",Travis Outlaw,0,2003,2013,travis_outlaw,0,,,,,Y
@@ -2157,7 +2169,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 203934,"Patterson, Lamar",Lamar Patterson,1,2015,2016,lamar_patterson,1610612737,Atlanta,Hawks,ATL,hawks,Y
 202335,"Patterson, Patrick",Patrick Patterson,1,2010,2017,patrick_patterson,1610612761,Toronto,Raptors,TOR,raptors,Y
 1739,"Patterson, Ruben",Ruben Patterson,0,1998,2007,ruben_patterson,0,,,,,Y
-1628383,"Patton, Justin",Justin Patton,0,2017,2017,justin_patton,0,,,,,N
+1628383,"Patton, Justin",Justin Patton,0,2017,2017,justin_patton,0,,,,,Y
 203464,"Paul, Brandon",Brandon Paul,0,2017,2017,brandon_paul,0,,,,,Y
 101108,"Paul, Chris",Chris Paul,1,2005,2017,chris_paul,1610612746,LA,Clippers,LAC,clippers,Y
 77817,"Paultz, Billy",Billy Paultz,0,1976,1984,HISTADD_billy_paultz,0,,,,,Y
@@ -2180,15 +2192,16 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2632,"Penney, Kirk",Kirk Penney,0,2003,2004,kirk_penney,0,,,,,Y
 46,"Peplowski, Mike",Mike Peplowski,0,1993,1995,mike_peplowski,0,,,,,Y
 781,"Perdue, Will",Will Perdue,0,1988,2000,will_perdue,0,,,,,Y
-2570,"Perkins, Kendrick",Kendrick Perkins,1,2003,2015,kendrick_perkins,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
+2570,"Perkins, Kendrick",Kendrick Perkins,1,2003,2017,kendrick_perkins,1610612740,New Orleans,Pelicans,NOP,pelicans,Y
 64,"Perkins, Sam",Sam Perkins,0,1984,2000,sam_perkins,0,,,,,Y
 200785,"Perovic, Kosta",Kosta Perovic,0,2007,2007,kosta_perovic,0,,,,,Y
-1628506,"Perrantes, London",London Perrantes,0,2017,2017,london_perrantes,0,,,,,N
+1628506,"Perrantes, London",London Perrantes,0,2017,2017,london_perrantes,0,,,,,Y
 77835,"Perry, Curtis",Curtis Perry,0,1970,1977,HISTADD_curtis_perry,0,,,,,Y
 386,"Perry, Elliot",Elliot Perry,0,1991,2001,elliot_perry,0,,,,,Y
 897,"Perry, Tim",Tim Perry,0,1988,1995,tim_perry,0,,,,,Y
 456,"Person, Chuck",Chuck Person,0,1986,1999,chuck_person,0,,,,,Y
 445,"Person, Wesley",Wesley Person,0,1994,2004,wesley_person,0,,,,,Y
+1628409,"Peters, Alec",Alec Peters,0,2017,2017,alec_peters,0,,,,,Y
 77839,"Petersen, Jim",Jim Petersen,0,1984,1991,HISTADD_jim_petersen,0,,,,,Y
 2050,"Peterson, Morris",Morris Peterson,0,2000,2010,morris_peterson,0,,,,,Y
 101130,"Petro, Johan",Johan Petro,0,2005,2012,johan_petro,0,,,,,Y
@@ -2213,8 +2226,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202354,"Pittman, Dexter",Dexter Pittman,0,2010,2013,dexter_pittman,0,,,,,Y
 2565,"Planinic, Zoran",Zoran Planinic,0,2003,2005,zoran_planinic,0,,,,,Y
 202353,"Pleiss, Tibor",Tibor Pleiss,1,2015,2015,tibor_pleiss,1610612762,Utah,Jazz,UTA,jazz,Y
-1627850,"Plumlee, Marshall",Marshall Plumlee,0,2016,2016,marshall_plumlee,0,,,,,Y
-203486,"Plumlee, Mason",Mason Plumlee,1,2013,2016,mason_plumlee,1610612757,Portland,Trail Blazers,POR,blazers,Y
+1627850,"Plumlee, Marshall",Marshall Plumlee,0,2016,2017,marshall_plumlee,0,,,,,Y
+203486,"Plumlee, Mason",Mason Plumlee,1,2013,2017,mason_plumlee,1610612757,Portland,Trail Blazers,POR,blazers,Y
 203101,"Plumlee, Miles",Miles Plumlee,1,2012,2017,miles_plumlee,1610612749,Milwaukee,Bucks,MIL,bucks,Y
 77865,"Plummer, Gary",Gary Plummer,0,1984,1992,HISTADD_gary_plummer,0,,,,,Y
 2750,"Podkolzin, Pavel",Pavel Podkolzin,0,2004,2005,pavel_podkolzin,0,,,,,Y
@@ -2263,9 +2276,13 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201172,"Pruitt, Gabe",Gabe Pruitt,0,2007,2008,gabe_pruitt,0,,,,,Y
 2038,"Przybilla, Joel",Joel Przybilla,0,2000,2012,joel_przybilla,0,,,,,Y
 77890,"Pullard, Anthony",Anthony Pullard,0,1992,1992,HISTADD_anthony_pullard,0,,,,,Y
+1626643,"Pullen, Jacob",Jacob Pullen,0,2017,2017,jacob_pullen,0,,,,,Y
+1628681,"Purvis, Rodney",Rodney Purvis,0,2017,2017,rodney_purvis,0,,,,,Y
+1627753,Zhou Qi,Zhou Qi,0,2017,2017,zhou_qi,0,,,,,Y
 1627817,"Quarterman, Tim",Tim Quarterman,0,2016,2017,tim_quarterman,0,,,,,Y
 200809,"Quinn, Chris",Chris Quinn,0,2006,2012,chris_quinn,0,,,,,Y
 77893,"Quinnett, Brian",Brian Quinnett,0,1989,1991,HISTADD_brian_quinnett,0,,,,,Y
+1628397,"Rabb, Ivan",Ivan Rabb,0,2017,2017,ivan_rabb,0,,,,,Y
 77896,"Radford, Mark",Mark Radford,0,1981,1982,HISTADD_mark_radford,0,,,,,Y
 77897,"Radford, Wayne",Wayne Radford,0,1978,1978,HISTADD_wayne_radford,0,,,,,Y
 129,"Radja, Dino",Dino Radja,0,1993,1996,dino_radja,0,,,,,Y
@@ -2277,7 +2294,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77905,"Rambis, Kurt",Kurt Rambis,0,1981,1994,HISTADD_kurt_rambis,0,,,,,Y
 2762,"Ramos, Peter John",Peter John Ramos,0,2004,2004,peter john_ramos,0,,,,,Y
 1821,"Randall, Mark",Mark Randall,0,1991,1994,mark_randall,0,,,,,Y
-1626184,"Randle, Chasson",Chasson Randle,0,2016,2017,chasson_randle,0,,,,,Y
+1626184,"Randle, Chasson",Chasson Randle,0,2016,2016,chasson_randle,0,,,,,Y
 203944,"Randle, Julius",Julius Randle,1,2014,2017,julius_randle,1610612747,Los Angeles,Lakers,LAL,lakers,Y
 201576,"Randolph, Anthony",Anthony Randolph,0,2008,2013,anthony_randolph,0,,,,,Y
 101183,"Randolph, Shavlik",Shavlik Randolph,0,2005,2014,shavlik_randolph,0,,,,,Y
@@ -2285,7 +2302,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77910,"Rank, Wally",Wally Rank,0,1980,1980,HISTADD_wally_rank,0,,,,,Y
 77911,"Ransey, Kelvin",Kelvin Ransey,0,1980,1985,HISTADD_kelvin_ransey,0,,,,,Y
 78656,"Rasmussen, Blair",Blair Rasmussen,0,1985,1992,blair_rasmussen,0,,,,,Y
-1628504,"Rathan-Mayes, Xavier",Xavier Rathan-Mayes,0,2017,2017,xavier_rathan-mayes,0,,,,,N
+1628504,"Rathan-Mayes, Xavier",Xavier Rathan-Mayes,0,2017,2017,xavier_rathan-mayes,0,,,,,Y
 77914,"Ratleff, Ed",Ed Ratleff,0,1973,1977,HISTADD_ed_ratleff,0,,,,,Y
 689,"Ratliff, Theo",Theo Ratliff,0,1995,2010,theo_ratliff,0,,,,,Y
 202360,"Rautins, Andy",Andy Rautins,0,2010,2010,andy_rautins,0,,,,,Y
@@ -2298,7 +2315,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2072,"Redd, Michael",Michael Redd,0,2000,2011,michael_redd,0,,,,,Y
 200755,"Redick, JJ",JJ Redick,1,2006,2017,jj_redick,1610612746,LA,Clippers,LAC,clippers,Y
 77926,"Redmond, Marlon",Marlon Redmond,0,1978,1979,HISTADD_marlon_redmond,0,,,,,Y
-1628432,"Reed, Davon",Davon Reed,0,2017,2017,davon_reed,0,,,,,N
+1628432,"Reed, Davon",Davon Reed,0,2017,2017,davon_reed,0,,,,,Y
 2770,"Reed, Justin",Justin Reed,0,2004,2006,justin_reed,0,,,,,Y
 203186,"Reed, Willie",Willie Reed,1,2012,2017,willie_reed,1610612751,Brooklyn,Nets,BKN,nets,Y
 735,"Reeves, Bryant",Bryant Reeves,0,1995,2000,bryant_reeves,0,,,,,Y
@@ -2356,6 +2373,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 77986,"Robinson, Cliff T.",Cliff T. Robinson,0,1979,1991,HISTADD_cliff_t_robinson,0,,,,,Y
 361,"Robinson, Clifford",Clifford Robinson,0,1989,2006,clifford_robinson,0,,,,,Y
 764,"Robinson, David",David Robinson,0,1989,2002,david_robinson,0,,,,,Y
+1628421,"Robinson, Devin",Devin Robinson,0,2017,2017,devin_robinson,0,,,,,N
 1944,"Robinson, Eddie",Eddie Robinson,0,1999,2003,eddie_robinson,0,,,,,Y
 299,"Robinson, Glenn",Glenn Robinson,0,1994,2004,glenn_robinson,0,,,,,Y
 77989,"Robinson, Jackie",Jackie Robinson,0,1978,1981,HISTADD_jackie_robinson,0,,,,,Y
@@ -2379,7 +2397,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78007,"Rogers, Johnny",Johnny Rogers,0,1986,1987,HISTADD_johnny_rogers,0,,,,,Y
 78008,"Rogers, Marshall",Marshall Rogers,0,1976,1976,HISTADD_marshall_rogers,0,,,,,Y
 915,"Rogers, Rodney",Rodney Rogers,0,1993,2004,rodney_rogers,0,,,,,Y
-964,"Rogers, Roy",Roy Rogers,0,1996,1999,,0,,,,,Y
+964,"Rogers, Roy",Roy Rogers,0,1996,1999,HISTADD_roy_rogers,0,,,,,Y
 202375,"Rolle, Magnum",Magnum Rolle,0,2010,2010,magnum_rolle,0,,,,,Y
 78014,"Rollins, Tree",Tree Rollins,0,1977,1994,HISTADD_tree_rollins,0,,,,,Y
 78015,"Romar, Lorenzo",Lorenzo Romar,0,1980,1984,HISTADD_lorenzo_romar,0,,,,,Y
@@ -2407,7 +2425,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2462,"Rucker, Guy",Guy Rucker,0,2002,2002,guy_rucker,0,,,,,Y
 78035,"Rudd, Delaney",Delaney Rudd,0,1989,1992,HISTADD_delaney_rudd,0,,,,,Y
 78036,"Rudd, John",John Rudd,0,1978,1978,HISTADD_john_rudd,0,,,,,Y
-204014,"Rudez, Damjan",Damjan Rudez,1,2014,2017,damjan_rudez,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y
+204014,"Rudez, Damjan",Damjan Rudez,1,2014,2016,damjan_rudez,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y
 1913,"Ruffin, Michael",Michael Ruffin,0,1999,2008,michael_ruffin,0,,,,,Y
 460,"Ruffin, Trevor",Trevor Ruffin,0,1994,1995,trevor_ruffin,0,,,,,Y
 78041,"Ruland, Jeff",Jeff Ruland,0,1981,1992,HISTADD_jeff_ruland,0,,,,,Y
@@ -2480,7 +2498,6 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78110,"Sellers, Brad",Brad Sellers,0,1986,1992,HISTADD_brad_sellers,0,,,,,Y
 78111,"Sellers, Phil",Phil Sellers,0,1976,1976,HISTADD_phil_sellers,0,,,,,Y
 200754,"Sene, Mouhamed",Mouhamed Sene,0,2006,2008,mouhamed_sene,0,,,,,Y
-1628496,"Senglin, Jeremy",Jeremy Senglin,0,2017,2017,jeremy_senglin,0,,,,,N
 202338,"Seraphin, Kevin",Kevin Seraphin,1,2010,2016,kevin_seraphin,1610612752,New York,Knicks,NYK,knicks,Y
 1738,"Sesay, Ansu",Ansu Sesay,0,2001,2004,ansu_sesay,0,,,,,Y
 201196,"Sessions, Ramon",Ramon Sessions,1,2007,2017,ramon_sessions,1610612764,Washington,Wizards,WAS,wizards,Y
@@ -2509,14 +2526,14 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78149,"Sikma, Jack",Jack Sikma,0,1977,1990,HISTADD_jack_sikma,0,,,,,Y
 78150,"Silas, James",James Silas,0,1976,1981,HISTADD_james_silas,0,,,,,Y
 78151,"Silas, Paul",Paul Silas,0,1964,1979,HISTADD_paul_silas,0,,,,,Y
-202918,"Silas, Xavier",Xavier Silas,0,2011,2011,xavier_silas,0,,,,,Y
+202918,"Silas, Xavier",Xavier Silas,0,2011,2017,xavier_silas,0,,,,,Y
 202081,"Siler, Garret",Garret Siler,0,2010,2010,garret_siler,0,,,,,Y
 101134,"Simien, Wayne",Wayne Simien,0,2005,2006,wayne_simien,0,,,,,Y
-1627732,"Simmons, Ben",Ben Simmons,0,2016,2017,ben_simmons,0,,,,,N
+1627732,"Simmons, Ben",Ben Simmons,0,2016,2017,ben_simmons,0,,,,,Y
 2250,"Simmons, Bobby",Bobby Simmons,0,2001,2011,bobby_simmons,0,,,,,Y
 200759,"Simmons, Cedric",Cedric Simmons,0,2006,2008,cedric_simmons,0,,,,,Y
 203613,"Simmons, Jonathon",Jonathon Simmons,1,2015,2017,jonathon_simmons,1610612759,San Antonio,Spurs,SAS,spurs,Y
-1628424,"Simmons, Kobi",Kobi Simmons,0,2017,2017,kobi_simmons,0,,,,,N
+1628424,"Simmons, Kobi",Kobi Simmons,0,2017,2017,kobi_simmons,0,,,,,Y
 1489,"Simmons, Lionel",Lionel Simmons,0,1990,1996,lionel_simmons,0,,,,,Y
 1750,"Simon, Miles",Miles Simon,0,1998,2002,miles_simon,0,,,,,Y
 54,"Simpkins, Dickey",Dickey Simpkins,0,1994,2001,dickey_simpkins,0,,,,,Y
@@ -2564,7 +2581,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202536,"Smith, Jerry",Jerry Smith,0,2011,2011,jerry_smith,0,,,,,Y
 78191,"Smith, Jim",Jim Smith,0,1981,1982,HISTADD_jim_smith,0,,,,,Y
 693,"Smith, Joe",Joe Smith,0,1995,2010,joe_smith,0,,,,,Y
-2746,"Smith, Josh",Josh Smith,1,2004,2015,josh_smith,1610612745,Houston,Rockets,HOU,rockets,Y
+2746,"Smith, Josh",Josh Smith,1,2004,2017,josh_smith,1610612745,Houston,Rockets,HOU,rockets,Y
 78192,"Smith, Keith",Keith Smith,0,1986,1986,HISTADD_keith_smith,0,,,,,Y
 181,"Smith, Kenny",Kenny Smith,0,1987,1996,kenny_smith,0,,,,,Y
 78194,"Smith, Labradford",Labradford Smith,0,1991,1993,HISTADD_labradford_smith,0,,,,,Y
@@ -2587,7 +2604,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2604,"Smith, Theron",Theron Smith,0,2003,2004,theron_smith,0,,,,,Y
 380,"Smith, Tony",Tony Smith,0,1990,2000,tony_smith,0,,,,,Y
 78208,"Smith, Willie",Willie Smith,0,1976,1979,HISTADD_willie_smith,0,,,,,Y
-1628372,"Smith Jr., Dennis",Dennis Smith Jr.,0,2017,2017,dennis_smith jr.,0,,,,,N
+1628372,"Smith Jr., Dennis",Dennis Smith Jr.,0,2017,2017,dennis_smith jr.,0,,,,,Y
 22,"Smits, Rik",Rik Smits,0,1988,1999,rik_smits,0,,,,,Y
 1091,"Smrek, Mike",Mike Smrek,0,1985,1991,mike_smrek,0,,,,,Y
 203503,"Snell, Tony",Tony Snell,1,2013,2017,tony_snell,1610612741,Chicago,Bulls,CHI,bulls,Y
@@ -2636,7 +2653,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78257,"Stipanovich, Steve",Steve Stipanovich,0,1983,1987,HISTADD_steve_stipanovich,0,,,,,Y
 179,"Stith, Bryant",Bryant Stith,0,1992,2002,bryant_stith,0,,,,,Y
 78261,"Stivrins, Alex",Alex Stivrins,0,1985,1992,HISTADD_alex_stivrins,0,,,,,Y
-204065,"Stockton, David",David Stockton,0,2014,2014,david_stockton,0,,,,,Y
+204065,"Stockton, David",David Stockton,0,2014,2017,david_stockton,0,,,,,Y
 304,"Stockton, John",John Stockton,0,1984,2002,john_stockton,0,,,,,Y
 978,"Stojakovic, Peja",Peja Stojakovic,0,1998,2010,peja_stojakovic,0,,,,,Y
 1055,"Stokes, Ed",Ed Stokes,0,1997,1997,ed_stokes,0,,,,,Y
@@ -2659,7 +2676,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201155,"Stuckey, Rodney",Rodney Stuckey,1,2007,2016,rodney_stuckey,1610612754,Indiana,Pacers,IND,pacers,Y
 203096,"Sullinger, Jared",Jared Sullinger,1,2012,2016,jared_sullinger,1610612738,Boston,Celtics,BOS,celtics,Y
 201969,"Summers, DaJuan",DaJuan Summers,0,2009,2012,dajuan_summers,0,,,,,Y
-1628410,"Sumner, Edmond",Edmond Sumner,0,2017,2017,edmond_sumner,0,,,,,N
+1628410,"Sumner, Edmond",Edmond Sumner,0,2017,2017,edmond_sumner,0,,,,,Y
 78654,"Sumpter, Barry",Barry Sumpter,0,1988,1988,barry_sumpter,0,,,,,Y
 201180,"Sun, Sun",Sun Sun,0,2008,2008,yue_sun,0,,,,,Y
 1743,"Sundov, Bruno",Bruno Sundov,0,1998,2004,bruno_sundov,0,,,,,Y
@@ -2667,7 +2684,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 682,"Sura, Bob",Bob Sura,0,1995,2006,bob_sura,0,,,,,Y
 78281,"Suttle, Dane",Dane Suttle,0,1983,1984,HISTADD_dane_suttle,0,,,,,Y
 357,"Sutton, Greg",Greg Sutton,0,1991,1995,greg_sutton,0,,,,,Y
-1628403,"Swanigan, Caleb",Caleb Swanigan,0,2017,2017,caleb_swanigan,0,,,,,N
+1628403,"Swanigan, Caleb",Caleb Swanigan,0,2017,2017,caleb_swanigan,0,,,,,Y
 2552,"Sweetney, Michael",Michael Sweetney,0,2003,2006,michael_sweetney,0,,,,,Y
 2741,"Swift, Robert",Robert Swift,0,2004,2008,robert_swift,0,,,,,Y
 2031,"Swift, Stromile",Stromile Swift,0,2000,2008,stromile_swift,0,,,,,Y
@@ -2682,8 +2699,8 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1434,"Tarlac, Dragan",Dragan Tarlac,0,2000,2000,dragan_tarlac,0,,,,,Y
 78293,"Tarpley, Roy",Roy Tarpley,0,1986,1994,HISTADD_roy_tarpley,0,,,,,Y
 78294,"Tatum, Earl",Earl Tatum,0,1976,1979,HISTADD_earl_tatum,0,,,,,Y
-1628369,"Tatum, Jayson",Jayson Tatum,0,2017,2017,jayson_tatum,0,,,,,N
-204002,"Tavares, Edy",Edy Tavares,1,2015,2017,edy_tavares,1610612737,Atlanta,Hawks,ATL,hawks,Y
+1628369,"Tatum, Jayson",Jayson Tatum,0,2017,2017,jayson_tatum,0,,,,,Y
+204002,"Tavares, Edy",Edy Tavares,1,2015,2016,edy_tavares,1610612737,Atlanta,Hawks,ATL,hawks,Y
 78295,"Taylor, Anthony",Anthony Taylor,0,1988,1988,HISTADD_anthony_taylor,0,,,,,Y
 78296,"Taylor, Brian",Brian Taylor,0,1976,1981,HISTADD_brian_taylor,0,,,,,Y
 101182,"Taylor, Donell",Donell Taylor,0,2005,2006,donell_taylor,0,,,,,Y
@@ -2701,17 +2718,18 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78303,"Taylor, Vince",Vince Taylor,0,1982,1982,HISTADD_vince_taylor,0,,,,,Y
 78304,"Teagle, Terry",Terry Teagle,0,1982,1992,HISTADD_terry_teagle,0,,,,,Y
 201952,"Teague, Jeff",Jeff Teague,1,2009,2017,jeff_teague,1610612737,Atlanta,Hawks,ATL,hawks,Y
-203104,"Teague, Marquis",Marquis Teague,0,2012,2013,marquis_teague,0,,,,,Y
+203104,"Teague, Marquis",Marquis Teague,0,2012,2017,marquis_teague,0,,,,,Y
 203141,"Teletovic, Mirza",Mirza Teletovic,1,2012,2017,mirza_teletovic,1610612756,Phoenix,Suns,PHX,suns,Y
 2742,"Telfair, Sebastian",Sebastian Telfair,0,2004,2014,sebastian_telfair,0,,,,,Y
 202066,"Temple, Garrett",Garrett Temple,1,2009,2017,garrett_temple,1610612764,Washington,Wizards,WAS,wizards,Y
-267634,"Teodosic, Milos",Milos Teodosic,0,2017,2017,milos_teodosic,0,,,,,Y
+1628462,"Teodosic, Milos",Milos Teodosic,0,2017,2017,milos_teodosic,0,,,,,Y
 78305,"Terrell, Ira",Ira Terrell,0,1976,1978,HISTADD_ira_terrell,0,,,,,Y
 78307,"Terry, Carlos",Carlos Terry,0,1980,1982,HISTADD_carlos_terry,0,,,,,Y
 78306,"Terry, Chuck",Chuck Terry,0,1972,1976,HISTADD_chuck_terry,0,,,,,Y
 78308,"Terry, Claude",Claude Terry,0,1976,1977,HISTADD_claude_terry,0,,,,,Y
-1891,"Terry, Jason",Jason Terry,1,1999,2016,jason_terry,1610612745,Houston,Rockets,HOU,rockets,Y
+1891,"Terry, Jason",Jason Terry,1,1999,2017,jason_terry,1610612745,Houston,Rockets,HOU,rockets,Y
 201934,"Thabeet, Hasheem",Hasheem Thabeet,0,2009,2013,hasheem_thabeet,0,,,,,Y
+1628464,"Theis, Daniel",Daniel Theis,0,2017,2017,daniel_theis,0,,,,,Y
 78310,"Theus, Reggie",Reggie Theus,0,1978,1990,HISTADD_reggie_theus,0,,,,,Y
 78311,"Thibeaux, Peter",Peter Thibeaux,0,1984,1985,HISTADD_peter_thibeaux,0,,,,,Y
 78314,"Thirdkill, David",David Thirdkill,0,1982,1986,HISTADD_david_thirdkill,0,,,,,Y
@@ -2753,7 +2771,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 201154,"Thornton, Al",Al Thornton,0,2007,2010,al_thornton,0,,,,,Y
 738,"Thornton, Bob",Bob Thornton,0,1985,1995,bob_thornton,0,,,,,Y
 201977,"Thornton, Marcus",Marcus Thornton,1,2009,2016,marcus_thornton,1610612764,Washington,Wizards,WAS,wizards,Y
-1628414,"Thornwell, Sindarius",Sindarius Thornwell,0,2017,2017,sindarius_thornwell,0,,,,,N
+1628414,"Thornwell, Sindarius",Sindarius Thornwell,0,2017,2017,sindarius_thornwell,0,,,,,Y
 901,"Thorpe, Otis",Otis Thorpe,0,1984,2000,otis_thorpe,0,,,,,Y
 9,"Threatt, Sedale",Sedale Threatt,0,1983,1996,sedale_threatt,0,,,,,Y
 600001,"Thurmond, Nate",Nate Thurmond,0,1963,1976,HISTADD_nate_thurmond,0,,,,,Y
@@ -2883,17 +2901,19 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2222,"Wallace, Gerald",Gerald Wallace,0,2001,2014,gerald_wallace,0,,,,,Y
 961,"Wallace, John",John Wallace,0,1996,2003,john_wallace,0,,,,,Y
 739,"Wallace, Rasheed",Rasheed Wallace,0,1995,2012,rasheed_wallace,0,,,,,Y
+1627820,"Wallace, Tyrone",Tyrone Wallace,0,2017,2017,tyrone_wallace,0,,,,,Y
 78445,"Waller, Jamie",Jamie Waller,0,1987,1987,HISTADD_jamie_waller,0,,,,,Y
 101190,"Walsh, Matt",Matt Walsh,0,2005,2005,matt_walsh,0,,,,,Y
 777,"Walters, Rex",Rex Walters,0,1993,1999,rex_walters,0,,,,,Y
 78450,"Walton, Bill",Bill Walton,0,1974,1986,HISTADD_bill_walton,0,,,,,Y
 78449,"Walton, Lloyd",Lloyd Walton,0,1976,1980,HISTADD_lloyd_walton,0,,,,,Y
 2575,"Walton, Luke",Luke Walton,0,2003,2012,luke_walton,0,,,,,Y
-1628476,"Walton Jr., Derrick",Derrick Walton Jr.,0,2017,2017,derrick_walton jr.,0,,,,,N
+1628476,"Walton Jr., Derrick",Derrick Walton Jr.,0,2017,2017,derrick_walton jr.,0,,,,,Y
 369,"Ward, Charlie",Charlie Ward,0,1994,2004,charlie_ward,0,,,,,Y
 78456,"Ward, Henry",Henry Ward,0,1976,1976,HISTADD_henry_ward,0,,,,,Y
 203810,"Ware, Casper",Casper Ware,0,2013,2013,casper_ware,0,,,,,Y
 78460,"Warner, Cornell",Cornell Warner,0,1970,1976,HISTADD_cornell_warner,0,,,,,Y
+1627866,"Warney, Jameel",Jameel Warney,0,2017,2017,jameel_warney,0,,,,,Y
 203933,"Warren, TJ",TJ Warren,1,2014,2017,tj_warren,1610612756,Phoenix,Suns,PHX,suns,Y
 202378,"Warren, Willie",Willie Warren,0,2010,2010,willie_warren,0,,,,,Y
 78462,"Warrick, Bryan",Bryan Warrick,0,1982,1985,HISTADD_bryan_warrick,0,,,,,Y
@@ -2911,14 +2931,15 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 2248,"Watson, Earl",Earl Watson,0,2001,2013,earl_watson,0,,,,,Y
 320,"Watson, Jamie",Jamie Watson,0,1994,1998,jamie_watson,0,,,,,Y
 78473,"Watts, Slick",Slick Watts,0,1973,1978,HISTADD_slick_watts,0,,,,,Y
-203146,"Wayns, Maalik",Maalik Wayns,0,2012,2017,maalik_wayns,0,,,,,Y
+203146,"Wayns, Maalik",Maalik Wayns,0,2012,2013,maalik_wayns,0,,,,,Y
 204033,"Wear, David",David Wear,0,2014,2014,david_wear,0,,,,,Y
-204037,"Wear, Travis",Travis Wear,0,2014,2014,travis_wear,0,,,,,Y
+204037,"Wear, Travis",Travis Wear,0,2014,2017,travis_wear,0,,,,,Y
 221,"Weatherspoon, Clar.",Clar. Weatherspoon,0,1992,2004,clar._weatherspoon,0,,,,,Y
 78475,"Weatherspoon, Nick",Nick Weatherspoon,0,1973,1979,HISTADD_spoon_weatherspoon,0,,,,,Y
 201602,"Weaver, Kyle",Kyle Weaver,0,2008,2010,kyle_weaver,0,,,,,Y
 78478,"Webb, Marcus",Marcus Webb,0,1992,1992,HISTADD_marcus_webb,0,,,,,Y
 892,"Webb, Spud",Spud Webb,0,1985,1997,spud_webb,0,,,,,Y
+1627821,"Webb III, James",James Webb III,0,2017,2017,james_webb iii,0,,,,,Y
 185,"Webber, Chris",Chris Webber,0,1993,2007,chris_webber,0,,,,,Y
 1627362,"Weber, Briante",Briante Weber,1,2015,2017,briante_weber,1610612748,Miami,Heat,MIA,heat,Y
 1067,"Webster, Jeff",Jeff Webster,0,1995,1995,jeff_webster,0,,,,,Y
@@ -2949,7 +2970,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78504,"Wheeler, Clinton",Clinton Wheeler,0,1987,1988,HISTADD_clinton_wheeler,0,,,,,Y
 1755,"Wheeler, Tyson",Tyson Wheeler,0,1998,1998,tyson_wheeler,0,,,,,Y
 201591,"White, DJ",DJ White,0,2008,2013,dj_white,0,,,,,Y
-1628401,"White, Derrick",Derrick White,0,2017,2017,derrick_white,0,,,,,N
+1628401,"White, Derrick",Derrick White,0,2017,2017,derrick_white,0,,,,,Y
 78507,"White, Eric",Eric White,0,1987,1988,HISTADD_eric_white,0,,,,,Y
 1751,"White, Jahidi",Jahidi White,0,1998,2004,jahidi_white,0,,,,,Y
 200778,"White, James",James White,0,2006,2012,james_white,0,,,,,Y
@@ -2963,6 +2984,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 202358,"White, Terrico",Terrico White,0,2010,2010,terrico_white,0,,,,,Y
 78514,"White, Tony",Tony White,0,1987,1987,HISTADD_tony_white,0,,,,,Y
 78515,"White, Willie",Willie White,0,1984,1985,HISTADD_willie_white,0,,,,,Y
+1628510,"White III, Andrew",Andrew White III,0,2017,2017,andrew_white,0,,,,,Y
 1627785,"Whitehead, Isaiah",Isaiah Whitehead,0,2016,2017,isaiah_whitehead,0,,,,,Y
 78516,"Whitehead, Jerome",Jerome Whitehead,0,1978,1988,HISTADD_jerome_whitehead,0,,,,,Y
 1126,"Whiteside, Donald",Donald Whiteside,0,1996,1997,donald_whiteside,0,,,,,Y
@@ -2974,9 +2996,9 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78520,"Wicks, Sidney",Sidney Wicks,0,1971,1980,HISTADD_sidney_wicks,0,,,,,Y
 203952,"Wiggins, Andrew",Andrew Wiggins,1,2014,2017,andrew_wiggins,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y
 78523,"Wiggins, Mitchell",Mitchell Wiggins,0,1983,1991,HISTADD_mitchell_wiggins,0,,,,,Y
-203912,"Wilcox, CJ",CJ Wilcox,1,2014,2016,cj_wilcox,1610612746,LA,Clippers,LAC,clippers,Y
+203912,"Wilcox, CJ",CJ Wilcox,1,2014,2017,cj_wilcox,1610612746,LA,Clippers,LAC,clippers,Y
 2404,"Wilcox, Chris",Chris Wilcox,0,2002,2012,chris_wilcox,0,,,,,Y
-1628451,"Wiley, Jacob",Jacob Wiley,0,2017,2017,jacob_wiley,0,,,,,N
+1628451,"Wiley, Jacob",Jacob Wiley,0,2017,2017,jacob_wiley,0,,,,,Y
 78527,"Wiley, Michael",Michael Wiley,0,1980,1981,HISTADD_michael_wiley,0,,,,,Y
 78528,"Wiley, Morlon",Morlon Wiley,0,1988,1994,HISTADD_morlon_wiley,0,,,,,Y
 78531,"Wilkerson, Bob",Bob Wilkerson,0,1976,1982,HISTADD_bobby_wilkerson,0,,,,,Y
@@ -2994,11 +3016,12 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 1541,"Williams, Alvin",Alvin Williams,0,1997,2006,alvin_williams,0,,,,,Y
 1585,"Williams, Brandon",Brandon Williams,0,1997,2002,brandon_williams,0,,,,,Y
 433,"Williams, Buck",Buck Williams,0,1981,1997,buck_williams,0,,,,,Y
+203710,"Williams, C.J.",C.J. Williams,0,2017,2017,c.j._williams,0,,,,,Y
 78547,"Williams, Chuck",Chuck Williams,0,1976,1977,HISTADD_chuck_williams,0,,,,,Y
 78541,"Williams, Chuckie",Chuckie Williams,0,1976,1976,HISTADD_chuckie_williams,0,,,,,Y
 101258,"Williams, Corey",Corey Williams,0,1992,1993,corey_williams,0,,,,,Y
 101114,"Williams, Deron",Deron Williams,1,2005,2016,deron_williams,1610612742,Dallas,Mavericks,DAL,mavericks,Y
-202682,"Williams, Derrick",Derrick Williams,1,2011,2016,derrick_williams,1610612752,New York,Knicks,NYK,knicks,Y
+202682,"Williams, Derrick",Derrick Williams,1,2011,2017,derrick_williams,1610612752,New York,Knicks,NYK,knicks,Y
 78545,"Williams, Don",Don Williams,0,1979,1979,HISTADD_duck_williams,0,,,,,Y
 78546,"Williams, Earl",Earl Williams,0,1974,1978,HISTADD_twirl_williams,0,,,,,Y
 202343,"Williams, Elliot",Elliot Williams,0,2010,2015,elliot_williams,0,,,,,Y
@@ -3042,19 +3065,18 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 200761,"Williams, Shawne",Shawne Williams,0,2006,2014,shawne_williams,0,,,,,Y
 200749,"Williams, Shelden",Shelden Williams,0,2006,2011,shelden_williams,0,,,,,Y
 78570,"Williams, Sly",Sly Williams,0,1979,1985,HISTADD_sly_williams,0,,,,,Y
-1628494,"Williams, T.J.",T.J. Williams,0,2017,2017,t.j._williams,0,,,,,N
 201944,"Williams, Terrence",Terrence Williams,0,2009,2012,terrence_williams,0,,,,,Y
 1576,"Williams, Travis",Travis Williams,0,1997,1998,travis_williams,0,,,,,Y
 1627786,"Williams, Troy",Troy Williams,0,2016,2017,troy_williams,0,,,,,Y
 1005,"Williams, Walt",Walt Williams,0,1992,2002,walt_williams,0,,,,,Y
-1628475,"Williams Jr., Matt",Matt Williams Jr.,0,2017,2017,matt_williams jr.,0,,,,,N
+1628475,"Williams Jr., Matt",Matt Williams Jr.,0,2017,2017,matt_williams jr.,0,,,,,Y
 722,"Williamson, Corliss",Corliss Williamson,0,1995,2006,corliss_williamson,0,,,,,Y
 78575,"Williamson, John",John Williamson,0,1976,1980,HISTADD_john_williamson,0,,,,,Y
 788,"Willis, Kevin",Kevin Willis,0,1984,2006,kevin_willis,0,,,,,Y
 78577,"Willoughby, Bill",Bill Willoughby,0,1975,1983,HISTADD_bill_willoughby,0,,,,,Y
 2000,"Willoughby, Dedric",Dedric Willoughby,0,1999,1999,dedric_willoughby,0,,,,,Y
 78585,"Wilson, Bobby",Bobby Wilson,0,1974,1977,HISTADD_bobby_wilson,0,,,,,Y
-1628391,"Wilson, D.J.",D.J. Wilson,0,2017,2017,d.j._wilson,0,,,,,N
+1628391,"Wilson, D.J.",D.J. Wilson,0,2017,2017,d.j._wilson,0,,,,,Y
 203966,"Wilson, Jamil",Jamil Wilson,0,2017,2017,jamil_wilson,0,,,,,Y
 78581,"Wilson, Mike",Mike Wilson,0,1983,1986,HISTADD_mike_wilson,0,,,,,Y
 78582,"Wilson, Nikita",Nikita Wilson,0,1987,1987,HISTADD_nikita_wilson,0,,,,,Y
@@ -3063,7 +3085,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78584,"Wilson, Ricky",Ricky Wilson,0,1987,1987,HISTADD_ricky_wilson,0,,,,,Y
 78587,"Wilson, Thomas",Thomas Wilson,0,1979,1979,HISTADD_bubba_wilson,0,,,,,Y
 1027,"Wilson, Trevor",Trevor Wilson,0,1990,1995,trevor_wilson,0,,,,,Y
-1627787,"Wiltjer, Kyle",Kyle Wiltjer,0,2016,2017,kyle_wiltjer,0,,,,,Y
+1627787,"Wiltjer, Kyle",Kyle Wiltjer,0,2016,2016,kyle_wiltjer,0,,,,,Y
 78589,"Winchester, Kennard",Kennard Winchester,0,1990,1992,HISTADD_kennard_winchester,0,,,,,Y
 766,"Wingate, David",David Wingate,0,1986,2000,david_wingate,0,,,,,Y
 112,"Wingfield, Dontonio",Dontonio Wingfield,0,1994,1997,dontonio_wingfield,0,,,,,Y
@@ -3079,7 +3101,7 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 78606,"Wohl, Dave",Dave Wohl,0,1971,1977,HISTADD_dupp_dave_wohl,0,,,,,Y
 341,"Wolf, Joe",Joe Wolf,0,1987,1998,joe_wolf,0,,,,,Y
 2106,"Wolkowyski, Ruben",Ruben Wolkowyski,0,2000,2002,ruben_wolkowyski,0,,,,,Y
-203489,"Wolters, Nate",Nate Wolters,0,2013,2014,nate_wolters,0,,,,,Y
+203489,"Wolters, Nate",Nate Wolters,0,2013,2017,nate_wolters,0,,,,,Y
 78610,"Wood, Al",Al Wood,0,1981,1986,HISTADD_al_wood,0,,,,,Y
 1626174,"Wood, Christian",Christian Wood,1,2015,2016,christian_wood,1610612755,Philadelphia,76ers,PHI,sixers,Y
 116,"Wood, David",David Wood,0,1988,1996,david_wood,0,,,,,Y
@@ -3110,34 +3132,31 @@ person_id,display_last_comma_first,display_first_last,rosterstatus,from_year,to_
 412,"Wright, Sharone",Sharone Wright,0,1994,1997,sharone_wright,0,,,,,Y
 203100,"Wroten, Tony",Tony Wroten,1,2012,2015,tony_wroten,1610612752,New York,Knicks,NYK,knicks,Y
 78627,"Wynder, A.J.",A.J. Wynder,0,1990,1990,HISTADD_aj_wynder,0,,,,,Y
-1627824,"Yabusele, Guerschon",Guerschon Yabusele,0,2017,2017,guerschon_yabusele,0,,,,,N
+1627824,"Yabusele, Guerschon",Guerschon Yabusele,0,2017,2017,guerschon_yabusele,0,,,,,Y
 2397,Yao Ming,Yao Ming,0,2002,2010,ming_yao,0,,,,,Y
 2428,"Yarbrough, Vincent",Vincent Yarbrough,0,2002,2002,vincent_yarbrough,0,,,,,Y
 201146,Yi Jianlian,Yi Jianlian,0,2007,2011,jianlian_yi,0,,,,,Y
 78632,"Yonakor, Rich",Rich Yonakor,0,1981,1981,HISTADD_rich_yonakor,0,,,,,Y
 78633,"Young, Danny",Danny Young,0,1984,1994,HISTADD_danny_young,0,,,,,Y
-203923,"Young, James",James Young,1,2014,2016,james_young,1610612738,Boston,Celtics,BOS,celtics,Y
+203923,"Young, James",James Young,1,2014,2017,james_young,1610612738,Boston,Celtics,BOS,celtics,Y
 1626202,"Young, Joe",Joe Young,1,2015,2017,joe_young,1610612754,Indiana,Pacers,IND,pacers,Y
 1748,"Young, Korleone",Korleone Young,0,1998,1998,korleone_young,0,,,,,Y
 78634,"Young, Michael",Michael Young,0,1984,1989,HISTADD_michael_young,0,,,,,Y
-1628454,"Young, Mike",Mike Young,0,2017,2017,mike_young,0,,,,,N
 201156,"Young, Nick",Nick Young,1,2007,2017,nick_young,1610612747,Los Angeles,Lakers,LAL,lakers,Y
 78635,"Young, Perry",Perry Young,0,1986,1986,HISTADD_perry_young,0,,,,,Y
 201970,"Young, Sam",Sam Young,0,2009,2012,sam_young,0,,,,,Y
 201152,"Young, Thaddeus",Thaddeus Young,1,2007,2017,thaddeus_young,1610612751,Brooklyn,Nets,BKN,nets,Y
 1937,"Young, Tim",Tim Young,0,1999,1999,tim_young,0,,,,,Y
-1627825,"Zagorac, Rade",Rade Zagorac,0,2017,2017,rade_zagorac,0,,,,,N
 203469,"Zeller, Cody",Cody Zeller,1,2013,2017,cody_zeller,1610612766,Charlotte,Hornets,CHA,hornets,Y
 202545,"Zeller, Luke",Luke Zeller,0,2012,2012,luke_zeller,0,,,,,Y
 203092,"Zeller, Tyler",Tyler Zeller,1,2012,2017,tyler_zeller,1610612738,Boston,Celtics,BOS,celtics,Y
 78643,"Zeno, Tony",Tony Zeno,0,1979,1979,HISTADD_tony_zeno,0,,,,,Y
 78644,"Zevenbergen, Phil",Phil Zevenbergen,0,1987,1987,HISTADD_phil_zevenbergen,0,,,,,Y
 1917,"Zhi-zhi, Wang",Wang Zhi-zhi,0,2000,2004,wang_zhi-zhi,0,,,,,Y
-1627753,Zhou Zhou,Zhou Zhou,0,2017,2017,qi_zhou,0,,,,,N
 678,"Zidek, George",George Zidek,0,1995,1997,george_zidek,0,,,,,Y
 2583,"Zimmerman, Derrick",Derrick Zimmerman,0,2005,2005,derrick_zimmerman,0,,,,,Y
-1627757,"Zimmerman, Stephen",Stephen Zimmerman,0,2016,2017,stephen_zimmerman,0,,,,,Y
+1627757,"Zimmerman, Stephen",Stephen Zimmerman,0,2016,2016,stephen_zimmerman,0,,,,,Y
 1627835,"Zipser, Paul",Paul Zipser,0,2016,2017,paul_zipser,0,,,,,Y
-1627790,"Zizic, Ante",Ante Zizic,0,2017,2017,ante_zizic,0,,,,,N
+1627790,"Zizic, Ante",Ante Zizic,0,2017,2017,ante_zizic,0,,,,,Y
 78647,"Zoet, Jim",Jim Zoet,0,1982,1982,HISTADD_jim_zoet,0,,,,,Y
 1627826,"Zubac, Ivica",Ivica Zubac,0,2016,2017,ivica_zubac,0,,,,,Y
