@@ -133,6 +133,33 @@ function getSalaryStats(html) {
 	return seasons;
 }
 
+function getContractStats(html) {
+	// TODO replace each time if needed
+	const Season = '2017-18';
+	if (!html) return [];
+	const $ = cheerio.load(html);
+	const $table = $('table');
+	if ($table.length) {
+		const thead = $table.find('.thead');
+		const i = $(thead)
+			.find(`th[data-stat=${Season}]`)
+			.index();
+		const money = $table
+			.find('tbody tr td')
+			.eq(i)
+			.text();
+		const Salary = money.replace(/[^0-9]/g, '');
+
+		const Tm = $table
+			.find('tbody tr td')
+			.eq(0)
+			.text();
+		return { Season, Tm, Salary, Lg: 'NBA' };
+	}
+
+	return null;
+}
+
 function getAdvancedHTML($) {
 	return $('#all_advanced')
 		.contents()
@@ -142,6 +169,14 @@ function getAdvancedHTML($) {
 
 function getSalaryHTML($) {
 	return $('#all_all_salaries')
+		.contents()
+		.map((i, node) => (node.type === 'comment' ? node.data : null))
+		.get()[0];
+}
+
+function getContractHTML($) {
+	return $('#all_all_salaries')
+		.next()
 		.contents()
 		.map((i, node) => (node.type === 'comment' ? node.data : null))
 		.get()[0];
@@ -215,6 +250,12 @@ function getSeasons(player, i) {
 	// SUPER hacky to convert comments into html but it works
 	const salary = getSalaryHTML($);
 	const salaryStats = getSalaryStats(salary);
+
+	// SUPER hacky to convert comments into html but it works
+	const contract = getContractHTML($);
+	const contractStats = getContractStats(contract);
+
+	if (contractStats) salaryStats.push(contractStats);
 
 	// join all stats together
 	const joinedStats = joinStats(

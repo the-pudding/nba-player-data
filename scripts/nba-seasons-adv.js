@@ -5,7 +5,7 @@ import shell from 'shelljs';
 
 // didn't have em before this year
 const MIN_YEAR = 1996;
-const MAX_YEAR = 2017;
+const MAX_YEAR = 2018;
 let year = MIN_YEAR;
 
 function getSeason(cb) {
@@ -25,7 +25,7 @@ function getSeason(cb) {
 				fs.writeFileSync(`./output/nba-seasons-adv/${season}.csv`, csv);
 				cb();
 			}
-		},
+		}
 	);
 }
 
@@ -36,7 +36,7 @@ function next() {
 		else {
 			shell.exec(
 				'csvstack output/nba-seasons-adv/*.csv > output/nba-seasons-adv--all.csv',
-				{ silent: true },
+				{ silent: true }
 			);
 		}
 	});

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-colliky01,2017-18,26,DAL,NBA,32,15.0,.384,.525,3.3,1.8,0.5,0.3,3.2,9.9,0.5,.046,-1.8,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+colliky01,2017-18,26,Dallas Mavericks,NBA,32,15.0,.384,.525,3.3,1.8,0.5,0.3,3.2,10.0,0.5,.046,-1.8,0.0,,92160
