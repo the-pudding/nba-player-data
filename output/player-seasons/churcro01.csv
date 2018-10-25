@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-churcro01,1995-96,23,GSW,NBA,4,5.0,.375,,0.8,0.3,0.0,0.0,1.5,1.2,-0.1,-0.166,-14.9,-0.1,,"Gonzaga in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Robert Churchwell,/players/c/churcro01.html,1996,1996,Georgetown University,false,"Gonzaga in Washington, District of Columbia",-0.15,0.03,churcro01,1995-96,GSW,1.2,-0.1,-0.166,-14.9,-0.1,,23,NBA,4,5.0,.375,,0.8,0.3,0.0,0.0,1.5,GSW

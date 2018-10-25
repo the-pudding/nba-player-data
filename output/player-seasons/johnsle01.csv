@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnsle01,1980-81,23,"HOU,DET",NBA,12,7.5,.280,.600,1.8,0.1,0.0,0.4,1.4,0.8,-0.2,-0.095,-11.4,-0.2,,"Omaha South in Omaha, Nebraska"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lee Johnson,/players/j/johnsle01.html,1981,1981,"University of Montana, East Texas State University",false,"Omaha South in Omaha, Nebraska",-0.01,0.14,johnsle01,1980-81,TOT,0.8,-0.2,-0.095,-11.4,-0.2,,23,NBA,12,7.5,.280,.600,1.8,0.1,0.0,0.4,1.4,"HOU,DET"

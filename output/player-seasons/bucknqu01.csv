@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bucknqu01,1976-77,22,MIL,NBA,79,26.5,.434,.539,3.3,4.7,2.4,0.3,8.6,13.5,1.5,.035,1.5,1.8,,"Thornridge in Dolton, Illinois",
-bucknqu01,1977-78,23,MIL,NBA,82,25.3,.468,.645,3.0,5.6,2.3,0.2,9.3,14.4,3.2,.073,0.6,1.3,,"Thornridge in Dolton, Illinois",
-bucknqu01,1978-79,24,MIL,NBA,81,21.7,.454,.632,2.6,5.8,1.9,0.2,7.2,13.6,2.0,.055,-0.3,0.7,,"Thornridge in Dolton, Illinois",
-bucknqu01,1979-80,25,MIL,NBA,67,25.2,.467,.734,3.6,5.7,2.0,0.1,10.7,16.5,4.4,.125,2.2,1.8,,"Thornridge in Dolton, Illinois",
-bucknqu01,1980-81,26,MIL,NBA,82,29.1,.493,.734,3.6,4.7,2.4,0.0,13.3,15.1,5.4,.108,1.6,2.2,,"Thornridge in Dolton, Illinois",
-bucknqu01,1981-82,27,MIL,NBA,70,30.8,.482,.655,3.6,4.7,2.5,0.0,12.9,14.4,4.6,.103,1.6,2.0,,"Thornridge in Dolton, Illinois",
-bucknqu01,1982-83,28,BOS,NBA,72,21.7,.442,.632,2.6,3.8,1.5,0.1,7.9,11.5,1.6,.048,-0.9,0.4,,"Thornridge in Dolton, Illinois",
-bucknqu01,1983-84,29,BOS,NBA,79,15.8,.427,.649,1.7,2.7,1.1,0.0,4.1,9.4,1.3,.052,-1.6,0.1,,"Thornridge in Dolton, Illinois",
-bucknqu01,1984-85,30,Boston Celtics,NBA,75,11.4,.383,.640,1.2,2.0,0.8,0.0,2.4,7.5,0.5,.027,-2.9,-0.2,,"Thornridge in Dolton, Illinois",239000
-bucknqu01,1985-86,31,Indiana Pacers,NBA,32,13.1,.471,.704,1.6,2.7,1.3,0.1,3.7,9.9,0.2,.020,-2.2,0.0,,"Thornridge in Dolton, Illinois",223000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",+0.91,4.60,bucknqu01,1976-77,MIL,13.5,1.5,.035,1.5,1.8,,22,NBA,79,26.5,.434,.539,3.3,4.7,2.4,0.3,8.6,MIL,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",+0.58,4.55,bucknqu01,1977-78,MIL,14.4,3.2,.073,0.6,1.3,,23,NBA,82,25.3,.468,.645,3.0,5.6,2.3,0.2,9.3,MIL,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",+0.66,3.52,bucknqu01,1978-79,MIL,13.6,2.0,.055,-0.3,0.7,,24,NBA,81,21.7,.454,.632,2.6,5.8,1.9,0.2,7.2,MIL,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",+1.89,5.29,bucknqu01,1979-80,MIL,16.5,4.4,.125,2.2,1.8,,25,NBA,67,25.2,.467,.734,3.6,5.7,2.0,0.1,10.7,MIL,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",+1.59,6.78,bucknqu01,1980-81,MIL,15.1,5.4,.108,1.6,2.2,,26,NBA,82,29.1,.493,.734,3.6,4.7,2.4,0.0,13.3,MIL,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",+1.71,5.87,bucknqu01,1981-82,MIL,14.4,4.6,.103,1.6,2.0,,27,NBA,70,30.8,.482,.655,3.6,4.7,2.5,0.0,12.9,MIL,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",-0.79,1.63,bucknqu01,1982-83,BOS,11.5,1.6,.048,-0.9,0.4,,28,NBA,72,21.7,.442,.632,2.6,3.8,1.5,0.1,7.9,BOS,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",-1.24,1.05,bucknqu01,1983-84,BOS,9.4,1.3,.052,-1.6,0.1,,29,NBA,79,15.8,.427,.649,1.7,2.7,1.1,0.0,4.1,BOS,
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",-1.68,0.39,bucknqu01,1984-85,BOS,7.5,0.5,.027,-2.9,-0.2,,30,NBA,75,11.4,.383,.640,1.2,2.0,0.8,0.0,2.4,BOS,239000
+Quinn Buckner,/players/b/bucknqu01.html,1977,1986,Indiana University,false,"Thornridge in Dolton, Illinois",-0.69,0.44,bucknqu01,1985-86,IND,9.9,0.2,.020,-2.2,0.0,,31,NBA,32,13.1,.471,.704,1.6,2.7,1.3,0.1,3.7,IND,223000

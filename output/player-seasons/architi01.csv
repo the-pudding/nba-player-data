@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-architi01,1976-77,28,NYN,NBA,34,37.6,.446,.785,2.4,7.5,1.7,0.3,20.5,19.4,2.8,.104,2.2,1.4,,"DeWitt Clinton in Bronx, New York"
-architi01,1977-78,29,Did Not Play (injury—achilles),,,,,,,,,,,,,,,,,"DeWitt Clinton in Bronx, New York"
-architi01,1978-79,30,BOS,NBA,69,24.1,.452,.788,1.5,4.7,0.8,0.1,11.0,13.1,1.6,.046,-4.7,-1.1,,"DeWitt Clinton in Bronx, New York"
-architi01,1979-80,31,BOS,NBA,80,35.8,.482,.830,2.5,8.4,1.3,0.1,14.1,15.3,8.9,.148,0.0,1.5,,"DeWitt Clinton in Bronx, New York"
-architi01,1980-81,32,BOS,NBA,80,35.3,.499,.816,2.2,7.7,0.9,0.2,13.8,14.3,6.9,.118,-1.3,0.5,All-NBA (2nd),"DeWitt Clinton in Bronx, New York"
-architi01,1981-82,33,BOS,NBA,68,31.9,.472,.747,1.7,8.0,0.8,0.0,12.6,14.3,5.2,.115,-2.5,-0.2,,"DeWitt Clinton in Bronx, New York"
-architi01,1982-83,34,BOS,NBA,66,27.4,.425,.743,1.4,6.2,0.6,0.1,10.5,12.3,2.9,.077,-4.4,-1.1,,"DeWitt Clinton in Bronx, New York"
-architi01,1983-84,35,MIL,NBA,46,22.6,.487,.634,1.7,3.5,0.7,0.0,7.4,10.6,1.4,.065,-3.1,-0.3,,"DeWitt Clinton in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",+0.97,2.90,architi01,1976-77,NYN,19.4,2.8,.104,2.2,1.4,,28,NBA,34,37.6,.446,.785,2.4,7.5,1.7,0.3,20.5,NYN
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",,,architi01,1977-78,Did Not Play (injury—achilles),,,,,,,29,,,,,,,,,,,Did Not Play (injury—achilles)
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",-1.84,0.44,architi01,1978-79,BOS,13.1,1.6,.046,-4.7,-1.1,,30,NBA,69,24.1,.452,.788,1.5,4.7,0.8,0.1,11.0,BOS
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",+2.13,9.54,architi01,1979-80,BOS,15.3,8.9,.148,0.0,1.5,,31,NBA,80,35.8,.482,.830,2.5,8.4,1.3,0.1,14.1,BOS
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",+0.48,6.45,architi01,1980-81,BOS,14.3,6.9,.118,-1.3,0.5,All-NBA (2nd),32,NBA,80,35.3,.499,.816,2.2,7.7,0.9,0.2,13.8,BOS
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",+0.35,4.36,architi01,1981-82,BOS,14.3,5.2,.115,-2.5,-0.2,,33,NBA,68,31.9,.472,.747,1.7,8.0,0.8,0.0,12.6,BOS
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",-1.18,1.43,architi01,1982-83,BOS,12.3,2.9,.077,-4.4,-1.1,,34,NBA,66,27.4,.425,.743,1.4,6.2,0.6,0.1,10.5,BOS
+Tiny Archibald,/players/a/architi01.html,1971,1984,University of Texas at El Paso,false,"DeWitt Clinton in Bronx, New York",-1.02,0.87,architi01,1983-84,MIL,10.6,1.4,.065,-3.1,-0.3,,35,NBA,46,22.6,.487,.634,1.7,3.5,0.7,0.0,7.4,MIL

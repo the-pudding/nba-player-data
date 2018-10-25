@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-frahmri01,2003-04,26,Seattle SuperSonics,NBA,54,8.7,.453,.885,1.0,0.4,0.3,0.1,3.4,15.7,1.5,.152,0.6,0.3,,366931,"Battle Ground in Battle Ground, Washington"
-frahmri01,2004-05,27,Portland Trail Blazers,NBA,43,11.6,.400,.840,1.4,0.7,0.3,0.1,3.8,12.4,1.0,.097,-1.5,0.1,,695046,"Battle Ground in Battle Ground, Washington"
-frahmri01,2005-06,28,Minnesota Timberwolves,NBA,33,10.4,.390,.700,1.0,0.6,0.1,0.1,3.3,9.4,0.5,.071,-3.4,-0.1,,719373,"Battle Ground in Battle Ground, Washington"
-frahmri01,2005-06,28,Minnesota Timberwolves,NBA,25,9.0,.369,.600,0.9,0.6,0.1,0.1,2.6,8.9,0.3,.065,-3.2,-0.1,,719373,"Battle Ground in Battle Ground, Washington"
-frahmri01,2005-06,28,Minnesota Timberwolves,NBA,8,14.6,.429,.800,1.3,0.8,0.1,0.0,5.3,10.4,0.2,.082,-3.6,0.0,,719373,"Battle Ground in Battle Ground, Washington"
-frahmri01,2006-07,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Battle Ground in Battle Ground, Washington"
-frahmri01,2007-08,30,Los Angeles Clippers,NBA,10,16.3,.370,.000,1.4,0.8,0.2,0.0,4.7,5.5,-0.2,-0.054,-7.1,-0.2,,623694,"Battle Ground in Battle Ground, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Richie Frahm,/players/f/frahmri01.html,2004,2008,Gonzaga University,false,"Battle Ground in Battle Ground, Washington",+1.39,1.15,frahmri01,2003-04,SEA,15.7,1.5,.152,0.6,0.3,,NBA,366931,26,54,8.7,.453,.885,1.0,0.4,0.3,0.1,3.4,SEA
+Richie Frahm,/players/f/frahmri01.html,2004,2008,Gonzaga University,false,"Battle Ground in Battle Ground, Washington",-0.87,0.46,frahmri01,2004-05,POR,12.4,1.0,.097,-1.5,0.1,,NBA,695046,27,43,11.6,.400,.840,1.4,0.7,0.3,0.1,3.8,POR
+Richie Frahm,/players/f/frahmri01.html,2004,2008,Gonzaga University,false,"Battle Ground in Battle Ground, Washington",-1.52,0.17,frahmri01,2005-06,TOT,9.4,0.5,.071,-3.4,-0.1,,NBA,719373,28,33,10.4,.390,.700,1.0,0.6,0.1,0.1,3.3,"MIN,HOU"
+Richie Frahm,/players/f/frahmri01.html,2004,2008,Gonzaga University,false,"Battle Ground in Battle Ground, Washington",,,frahmri01,2006-07,Did Not Play (other pro league—Italy),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Italy)
+Richie Frahm,/players/f/frahmri01.html,2004,2008,Gonzaga University,false,"Battle Ground in Battle Ground, Washington",-0.55,0.19,frahmri01,2007-08,LAC,5.5,-0.2,-0.054,-7.1,-0.2,,NBA,623694,30,10,16.3,.370,.000,1.4,0.8,0.2,0.0,4.7,LAC

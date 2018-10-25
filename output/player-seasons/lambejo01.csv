@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lambejo01,1976-77,24,CLE,NBA,63,8.8,.427,.694,2.4,0.5,0.3,0.3,2.5,11.7,1.0,.087,-1.7,0.0,,"Berkeley in Berkeley, California"
-lambejo01,1977-78,25,CLE,NBA,76,14.1,.423,.563,4.3,0.5,0.4,0.7,4.1,10.8,1.5,.067,-2.0,0.0,,"Berkeley in Berkeley, California"
-lambejo01,1978-79,26,CLE,NBA,70,14.7,.450,.636,4.1,0.6,0.4,0.4,4.7,10.9,0.9,.044,-3.4,-0.4,,"Berkeley in Berkeley, California"
-lambejo01,1979-80,27,CLE,NBA,74,17.9,.413,.723,4.8,0.8,0.6,0.6,5.4,10.4,1.8,.066,-1.5,0.2,,"Berkeley in Berkeley, California"
-lambejo01,1980-81,28,"CLE,KCK",NBA,46,10.5,.412,.783,2.0,0.6,0.3,0.1,3.3,8.4,0.4,.039,-4.6,-0.3,,"Berkeley in Berkeley, California"
-lambejo01,1981-82,29,"KCK,SAS",NBA,63,12.1,.437,.810,2.8,0.6,0.3,0.3,3.3,8.2,0.6,.035,-3.6,-0.3,,"Berkeley in Berkeley, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Lambert,/players/l/lambejo01.html,1976,1982,University of Southern California,false,"Berkeley in Berkeley, California",-0.62,0.62,lambejo01,1976-77,CLE,11.7,1.0,.087,-1.7,0.0,,24,NBA,63,8.8,.427,.694,2.4,0.5,0.3,0.3,2.5,CLE
+John Lambert,/players/l/lambejo01.html,1976,1982,University of Southern California,false,"Berkeley in Berkeley, California",-1.13,0.77,lambejo01,1977-78,CLE,10.8,1.5,.067,-2.0,0.0,,25,NBA,76,14.1,.423,.563,4.3,0.5,0.4,0.7,4.1,CLE
+John Lambert,/players/l/lambejo01.html,1976,1982,University of Southern California,false,"Berkeley in Berkeley, California",-2.07,0.11,lambejo01,1978-79,CLE,10.9,0.9,.044,-3.4,-0.4,,26,NBA,70,14.7,.450,.636,4.1,0.6,0.4,0.4,4.7,CLE
+John Lambert,/players/l/lambejo01.html,1976,1982,University of Southern California,false,"Berkeley in Berkeley, California",-1.13,1.01,lambejo01,1979-80,CLE,10.4,1.8,.066,-1.5,0.2,,27,NBA,74,17.9,.413,.723,4.8,0.8,0.6,0.6,5.4,CLE
+John Lambert,/players/l/lambejo01.html,1976,1982,University of Southern California,false,"Berkeley in Berkeley, California",-2.53,-0.14,lambejo01,1980-81,TOT,8.4,0.4,.039,-4.6,-0.3,,28,NBA,46,10.5,.412,.783,2.0,0.6,0.3,0.1,3.3,"CLE,KCK"
+John Lambert,/players/l/lambejo01.html,1976,1982,University of Southern California,false,"Berkeley in Berkeley, California",-2.67,-0.21,lambejo01,1981-82,TOT,8.2,0.6,.035,-3.6,-0.3,,29,NBA,63,12.1,.437,.810,2.8,0.6,0.3,0.3,3.3,"KCK,SAS"

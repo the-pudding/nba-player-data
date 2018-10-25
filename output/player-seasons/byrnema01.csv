@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-byrnema01,1978-79,22,"PHO,NOJ",NBA,79,16.0,.481,.688,2.4,1.3,0.3,0.1,6.1,9.9,0.9,.034,-3.7,-0.6,,"Sutherland in Pittsford, New York"
-byrnema01,1979-80,23,LAL,NBA,32,6.1,.500,.867,0.8,0.4,0.2,0.0,2.0,6.3,0.0,.009,-6.0,-0.2,,"Sutherland in Pittsford, New York"
-byrnema01,1980-81,24,DAL,NBA,72,18.9,.479,.764,2.5,1.6,0.4,0.2,7.8,13.6,2.3,.081,-1.7,0.1,,"Sutherland in Pittsford, New York"
-byrnema01,1981-82,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Sutherland in Pittsford, New York"
-byrnema01,1982-83,26,IND,NBA,80,18.0,.420,.747,2.4,2.2,0.5,0.1,4.9,9.6,1.0,.034,-3.3,-0.5,,"Sutherland in Pittsford, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marty Byrnes,/players/b/byrnema01.html,1979,1983,Syracuse University,false,"Sutherland in Pittsford, New York",-3.46,-1.09,byrnema01,1978-79,TOT,9.9,0.9,.034,-3.7,-0.6,,22,NBA,79,16.0,.481,.688,2.4,1.3,0.3,0.1,6.1,"PHO,NOJ"
+Marty Byrnes,/players/b/byrnema01.html,1979,1983,Syracuse University,false,"Sutherland in Pittsford, New York",-1.72,0.07,byrnema01,1979-80,LAL,6.3,0.0,.009,-6.0,-0.2,,23,NBA,32,6.1,.500,.867,0.8,0.4,0.2,0.0,2.0,LAL
+Marty Byrnes,/players/b/byrnema01.html,1979,1983,Syracuse University,false,"Sutherland in Pittsford, New York",-1.74,0.49,byrnema01,1980-81,DAL,13.6,2.3,.081,-1.7,0.1,,24,NBA,72,18.9,.479,.764,2.5,1.6,0.4,0.2,7.8,DAL
+Marty Byrnes,/players/b/byrnema01.html,1979,1983,Syracuse University,false,"Sutherland in Pittsford, New York",,,byrnema01,1981-82,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Marty Byrnes,/players/b/byrnema01.html,1979,1983,Syracuse University,false,"Sutherland in Pittsford, New York",-3.04,-0.74,byrnema01,1982-83,IND,9.6,1.0,.034,-3.3,-0.5,,26,NBA,80,18.0,.420,.747,2.4,2.2,0.5,0.1,4.9,IND

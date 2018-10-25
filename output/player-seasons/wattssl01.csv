@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wattssl01,1976-77,25,SEA,NBA,79,33.3,.422,.587,3.9,8.0,2.7,0.3,13.0,16.3,3.3,.060,2.8,3.2,,"Henry Weather in Rolling Fork, Mississippi"
-wattssl01,1977-78,26,"SEA,NOJ",NBA,71,22.3,.392,.590,2.5,4.1,1.5,0.4,7.5,10.9,0.8,.025,-1.8,0.1,,"Henry Weather in Rolling Fork, Mississippi"
-wattssl01,1978-79,27,HOU,NBA,61,17.1,.405,.612,1.7,4.0,1.2,0.2,3.7,11.3,1.2,.057,-1.1,0.2,,"Henry Weather in Rolling Fork, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Slick Watts,/players/w/wattssl01.html,1974,1979,Xavier University of Louisiana,false,"Henry Weather in Rolling Fork, Mississippi",+2.41,8.70,wattssl01,1976-77,SEA,16.3,3.3,.060,2.8,3.2,,25,NBA,79,33.3,.422,.587,3.9,8.0,2.7,0.3,13.0,SEA
+Slick Watts,/players/w/wattssl01.html,1974,1979,Xavier University of Louisiana,false,"Henry Weather in Rolling Fork, Mississippi",-0.79,1.51,wattssl01,1977-78,TOT,10.9,0.8,.025,-1.8,0.1,,26,NBA,71,22.3,.392,.590,2.5,4.1,1.5,0.4,7.5,"SEA,NOJ"
+Slick Watts,/players/w/wattssl01.html,1974,1979,Xavier University of Louisiana,false,"Henry Weather in Rolling Fork, Mississippi",+0.13,1.78,wattssl01,1978-79,HOU,11.3,1.2,.057,-1.1,0.2,,27,NBA,61,17.1,.405,.612,1.7,4.0,1.2,0.2,3.7,HOU

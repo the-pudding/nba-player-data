@@ -1,13 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsli01,2003-04,23,Chicago Bulls,NBA,41,17.9,.355,.595,4.5,0.7,0.9,0.8,4.2,9.6,0.4,.023,-2.7,-0.1,,366931,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2004-05,24,San Antonio Spurs,NBA,2,7.5,.000,,1.5,0.0,0.5,0.0,0.0,-3.4,0.0,-0.122,-11.5,0.0,,620046,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2005-06,25,New Jersey Nets,NBA,36,14.6,.409,.667,3.4,0.4,0.3,0.3,4.3,10.1,0.4,.036,-3.7,-0.2,,719373,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2005-06,25,New Jersey Nets,NBA,9,3.9,.500,.250,0.8,0.2,0.2,0.0,1.2,4.4,0.0,-0.065,-8.6,-0.1,,719373,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2005-06,25,New Jersey Nets,NBA,27,18.1,.403,.739,4.3,0.4,0.4,0.4,5.3,10.5,0.4,.043,-3.3,-0.2,,719373,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2006-07,26,New Orleans/Oklahoma City Hornets,NBA,54,13.3,.489,.811,3.0,0.3,0.6,0.3,4.2,14.0,1.9,.125,-0.4,0.3,,771331,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2007-08,27,Phoenix Suns,NBA,8,7.9,.474,1.000,1.8,0.5,0.0,0.1,2.6,8.2,0.0,.024,-5.0,0.0,,283953,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2007-08,27,Phoenix Suns,NBA,6,8.8,.500,,2.2,0.5,0.0,0.2,2.5,9.5,0.1,.087,-2.6,0.0,,283953,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2007-08,27,Phoenix Suns,NBA,2,5.0,.400,1.000,0.5,0.5,0.0,0.0,3.0,1.1,-0.1,-0.308,-17.7,0.0,,283953,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2008-09,28,Charlotte Bobcats,NBA,10,5.5,.364,,0.8,0.2,0.1,0.0,0.9,3.4,0.0,-0.004,-6.1,-0.1,,125374,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2008-09,28,Charlotte Bobcats,NBA,2,6.5,,,0.0,0.0,0.0,0.0,0.0,-1.5,0.0,.010,-5.9,0.0,,125374,"Providence St. Mel in Chicago, Illinois"
-johnsli01,2008-09,28,Charlotte Bobcats,NBA,8,5.3,.364,,1.0,0.3,0.1,0.0,1.1,5.0,0.0,-0.008,-6.1,0.0,,125374,"Providence St. Mel in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Linton Johnson,/players/j/johnsli01.html,2004,2009,Tulane University,false,"Providence St. Mel in Chicago, Illinois",-1.52,0.30,johnsli01,2003-04,CHI,9.6,0.4,.023,-2.7,-0.1,,NBA,366931,23,41,17.9,.355,.595,4.5,0.7,0.9,0.8,4.2,CHI
+Linton Johnson,/players/j/johnsli01.html,2004,2009,Tulane University,false,"Providence St. Mel in Chicago, Illinois",-0.02,0.02,johnsli01,2004-05,SAS,-3.4,0.0,-0.122,-11.5,0.0,,NBA,620046,24,2,7.5,.000,,1.5,0.0,0.5,0.0,0.0,SAS
+Linton Johnson,/players/j/johnsli01.html,2004,2009,Tulane University,false,"Providence St. Mel in Chicago, Illinois",-1.71,0.21,johnsli01,2005-06,TOT,10.1,0.4,.036,-3.7,-0.2,,NBA,719373,25,36,14.6,.409,.667,3.4,0.4,0.3,0.3,4.3,"NJN,NOK"
+Linton Johnson,/players/j/johnsli01.html,2004,2009,Tulane University,false,"Providence St. Mel in Chicago, Illinois",+0.43,1.33,johnsli01,2006-07,NOK,14.0,1.9,.125,-0.4,0.3,,NBA,771331,26,54,13.3,.489,.811,3.0,0.3,0.6,0.3,4.2,NOK
+Linton Johnson,/players/j/johnsli01.html,2004,2009,Tulane University,false,"Providence St. Mel in Chicago, Illinois",-1.46,0.03,johnsli01,2007-08,TOT,8.2,0.0,.024,-5.0,0.0,,NBA,283953,27,8,7.9,.474,1.000,1.8,0.5,0.0,0.1,2.6,"PHO,TOR"
+Linton Johnson,/players/j/johnsli01.html,2004,2009,Tulane University,false,"Providence St. Mel in Chicago, Illinois",+0.01,0.10,johnsli01,2008-09,TOT,3.4,0.0,-0.004,-6.1,-0.1,,NBA,125374,28,10,5.5,.364,,0.8,0.2,0.1,0.0,0.9,"CHA,CHI"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jacksfr01,2018-19,20,NOP,NBA,2,4.0,.667,,0.0,1.0,0.0,0.0,2.5,26.9,0.1,.333,-1.4,0.0,,"Lone Peak in Highland, Utah"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Frank Jackson,/players/j/jacksfr01.html,2019,2019,Duke University,true,"Lone Peak in Highland, Utah",,,jacksfr01,2018-19,NOP,26.9,0.1,.333,-1.4,0.0,,20,NBA,2,4.0,.667,,0.0,1.0,0.0,0.0,2.5,NOP

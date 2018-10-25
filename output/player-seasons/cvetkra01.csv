@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cvetkra01,1995-96,25,Denver Nuggets,NBA,14,3.4,.313,.000,0.8,0.2,0.1,0.1,0.7,2.1,-0.1,-0.118,-8.4,-0.1,,200000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rastko Cvetkovic,/players/c/cvetkra01.html,1996,1996,,false,,-0.07,0.07,cvetkra01,1995-96,DEN,2.1,-0.1,-0.118,-8.4,-0.1,,NBA,200000,25,14,3.4,.313,.000,0.8,0.2,0.1,0.1,0.7,DEN

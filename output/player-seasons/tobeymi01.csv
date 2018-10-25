@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-tobeymi01,2016-17,22,Charlotte Hornets,NBA,2,12.5,.250,,1.5,0.5,0.0,0.0,1.0,-0.1,0.0,-0.070,-8.9,0.0,,138938,"Blair Academy in Blairstown, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Tobey,/players/t/tobeymi01.html,2017,2017,University of Virginia,true,"Blair Academy in Blairstown, New Jersey",-0.98,0.02,tobeymi01,2016-17,CHO,-0.1,0.0,-0.070,-8.9,0.0,,NBA,138938,22,2,12.5,.250,,1.5,0.5,0.0,0.0,1.0,CHO

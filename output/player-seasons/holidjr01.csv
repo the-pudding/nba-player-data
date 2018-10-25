@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-holidjr01,2009-10,19,Philadelphia 76ers,NBA,73,24.2,.442,.756,2.6,3.8,1.1,0.2,8.0,12.3,1.2,.032,-1.8,0.1,,1514280,"Campbell Hall in North Hollywood, California"
-holidjr01,2010-11,20,Philadelphia 76ers,NBA,82,35.4,.446,.823,4.0,6.5,1.5,0.4,14.0,15.4,5.7,.094,1.4,2.5,,1627920,"Campbell Hall in North Hollywood, California"
-holidjr01,2011-12,21,Philadelphia 76ers,NBA,65,33.8,.432,.783,3.3,4.5,1.6,0.3,13.5,14.7,4.2,.092,0.9,1.6,,1741440,"Campbell Hall in North Hollywood, California"
-holidjr01,2012-13,22,Philadelphia 76ers,NBA,78,37.5,.431,.752,4.2,8.0,1.6,0.4,17.7,16.7,3.3,.055,0.6,1.9,,2674852,"Campbell Hall in North Hollywood, California"
-holidjr01,2013-14,23,New Orleans Pelicans,NBA,34,33.6,.447,.810,4.2,7.9,1.6,0.4,14.3,17.1,1.5,.064,0.7,0.8,,9213484,"Campbell Hall in North Hollywood, California"
-holidjr01,2014-15,24,New Orleans Pelicans,NBA,40,32.6,.446,.855,3.4,6.9,1.6,0.6,14.8,18.8,3.4,.124,2.3,1.4,,9904495,"Campbell Hall in North Hollywood, California"
-holidjr01,2015-16,25,New Orleans Pelicans,NBA,65,28.2,.439,.843,3.0,6.0,1.4,0.3,16.8,19.7,3.4,.089,1.7,1.7,,10595507,"Campbell Hall in North Hollywood, California"
-holidjr01,2016-17,26,New Orleans Pelicans,NBA,67,32.7,.454,.708,3.9,7.3,1.5,0.7,15.4,17.1,3.8,.084,1.7,2.0,,11286518,"Campbell Hall in North Hollywood, California"
-holidjr01,2017-18,27,New Orleans Pelicans,NBA,81,36.1,.494,.786,4.5,6.0,1.5,0.8,19.0,17.8,7.1,.116,2.1,3.0,,25686667,"Campbell Hall in North Hollywood, California"
-holidjr01,2018-19,28,NOP,NBA,3,34.3,.316,.750,5.0,9.0,2.3,0.0,11.0,11.1,0.1,.025,0.5,0.1,,,"Campbell Hall in North Hollywood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",-1.34,1.14,holidjr01,2009-10,PHI,12.3,1.2,.032,-1.8,0.1,,NBA,1514280,19,73,24.2,.442,.756,2.6,3.8,1.1,0.2,8.0,PHI
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+1.99,8.91,holidjr01,2010-11,PHI,15.4,5.7,.094,1.4,2.5,,NBA,1627920,20,82,35.4,.446,.823,4.0,6.5,1.5,0.4,14.0,PHI
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+0.68,5.47,holidjr01,2011-12,PHI,14.7,4.2,.092,0.9,1.6,,NBA,1741440,21,65,33.8,.432,.783,3.3,4.5,1.6,0.3,13.5,PHI
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+0.28,5.09,holidjr01,2012-13,PHI,16.7,3.3,.055,0.6,1.9,,NBA,2674852,22,78,37.5,.431,.752,4.2,8.0,1.6,0.4,17.7,PHI
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+1.02,2.55,holidjr01,2013-14,NOP,17.1,1.5,.064,0.7,0.8,,NBA,9213484,23,34,33.6,.447,.810,4.2,7.9,1.6,0.4,14.3,NOP
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+1.38,3.36,holidjr01,2014-15,NOP,18.8,3.4,.124,2.3,1.4,,NBA,9904495,24,40,32.6,.446,.855,3.4,6.9,1.6,0.6,14.8,NOP
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+1.68,4.91,holidjr01,2015-16,NOP,19.7,3.4,.089,1.7,1.7,,NBA,10595507,25,65,28.2,.439,.843,3.0,6.0,1.4,0.3,16.8,NOP
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+0.67,4.38,holidjr01,2016-17,NOP,17.1,3.8,.084,1.7,2.0,,NBA,11286518,26,67,32.7,.454,.708,3.9,7.3,1.5,0.7,15.4,NOP
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",+4.15,13.97,holidjr01,2017-18,NOP,17.8,7.1,.116,2.1,3.0,,NBA,25686667,27,81,36.1,.494,.786,4.5,6.0,1.5,0.8,19.0,NOP
+Jrue Holiday,/players/h/holidjr01.html,2010,2019,"University of California, Los Angeles",true,"Campbell Hall in North Hollywood, California",,,holidjr01,2018-19,NOP,11.1,0.1,.025,0.5,0.1,,NBA,,28,3,34.3,.316,.750,5.0,9.0,2.3,0.0,11.0,NOP

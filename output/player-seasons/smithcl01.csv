@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-smithcl01,1986-87,23,GSW,NBA,41,8.3,.427,.750,1.4,1.1,0.3,0.0,3.1,11.5,0.2,.032,-2.8,-0.1,,"Adams in Cleveland, Ohio"
-smithcl01,1987-88,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Adams in Cleveland, Ohio"
-smithcl01,1988-89,25,Did Not Play,,,,,,,,,,,,,,,,,"Adams in Cleveland, Ohio"
-smithcl01,1989-90,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Adams in Cleveland, Ohio"
-smithcl01,1990-91,27,WSB,NBA,5,9.0,.500,.500,0.8,0.8,0.2,0.0,1.4,7.2,0.1,.061,-4.5,0.0,,"Adams in Cleveland, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State University, Cleveland State University",false,"Adams in Cleveland, Ohio",-2.43,-0.02,smithcl01,1986-87,GSW,11.5,0.2,.032,-2.8,-0.1,,23,NBA,41,8.3,.427,.750,1.4,1.1,0.3,0.0,3.1,GSW
+Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State University, Cleveland State University",false,"Adams in Cleveland, Ohio",,,smithcl01,1987-88,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State University, Cleveland State University",false,"Adams in Cleveland, Ohio",,,smithcl01,1988-89,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play
+Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State University, Cleveland State University",false,"Adams in Cleveland, Ohio",,,smithcl01,1989-90,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State University, Cleveland State University",false,"Adams in Cleveland, Ohio",+0.19,0.08,smithcl01,1990-91,WSB,7.2,0.1,.061,-4.5,0.0,,27,NBA,5,9.0,.500,.500,0.8,0.8,0.2,0.0,1.4,WSB

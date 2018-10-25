@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsni01,2014-15,22,Houston Rockets,NBA,28,9.4,.347,.680,1.4,0.4,0.3,0.1,2.6,4.8,-0.1,-0.020,-7.3,-0.3,,507336,"Findlay Prep in Henderson, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nick Johnson,/players/j/johnsni01.html,2015,2015,University of Arizona,false,"Findlay Prep in Henderson, Nevada",-4.25,-0.44,johnsni01,2014-15,HOU,4.8,-0.1,-0.020,-7.3,-0.3,,NBA,507336,22,28,9.4,.347,.680,1.4,0.4,0.3,0.1,2.6,HOU

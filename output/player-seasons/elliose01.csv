@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-elliose01,1989-90,21,San Antonio Spurs,NBA,81,25.1,.481,.866,3.7,1.9,0.6,0.2,10.0,12.5,4.6,.108,-0.9,0.6,,1800000,"Cholla in Tucson, Arizona"
-elliose01,1990-91,22,San Antonio Spurs,NBA,82,37.1,.490,.808,5.6,2.9,0.8,0.4,15.9,14.2,8.8,.138,1.6,2.8,,1800000,"Cholla in Tucson, Arizona"
-elliose01,1991-92,23,San Antonio Spurs,NBA,82,38.0,.494,.861,5.4,2.6,1.0,0.4,16.3,14.4,8.4,.130,1.4,2.7,,1802000,"Cholla in Tucson, Arizona"
-elliose01,1992-93,24,San Antonio Spurs,NBA,70,37.2,.491,.795,4.6,3.8,1.0,0.4,17.2,15.5,6.1,.113,1.6,2.3,,1802000,"Cholla in Tucson, Arizona"
-elliose01,1993-94,25,Detroit Pistons,NBA,73,33.0,.455,.803,3.6,2.7,0.7,0.4,12.1,11.3,1.4,.028,-2.3,-0.2,,1807000,"Cholla in Tucson, Arizona"
-elliose01,1994-95,26,San Antonio Spurs,NBA,81,35.3,.468,.807,3.5,2.5,1.0,0.5,18.1,16.0,8.7,.147,2.1,2.9,,1350000,"Cholla in Tucson, Arizona"
-elliose01,1995-96,27,San Antonio Spurs,NBA,77,37.7,.466,.771,5.1,2.7,0.9,0.4,20.0,16.3,7.7,.128,2.0,2.9,,5333000,"Cholla in Tucson, Arizona"
-elliose01,1996-97,28,San Antonio Spurs,NBA,39,35.7,.422,.755,4.9,3.2,0.6,0.6,14.9,14.0,1.5,.051,-1.1,0.3,,5333000,"Cholla in Tucson, Arizona"
-elliose01,1997-98,29,San Antonio Spurs,NBA,36,28.1,.403,.718,3.4,1.7,0.7,0.4,9.3,9.5,1.4,.065,-1.5,0.1,,5333333,"Cholla in Tucson, Arizona"
-elliose01,1998-99,30,San Antonio Spurs,NBA,50,30.2,.410,.757,4.3,2.3,0.5,0.3,11.2,12.6,3.5,.113,0.0,0.7,,5333000,"Cholla in Tucson, Arizona"
-elliose01,1999-00,31,San Antonio Spurs,NBA,19,20.6,.358,.781,2.5,1.5,0.6,0.1,6.0,8.8,0.5,.067,-1.7,0.0,,5433333,"Cholla in Tucson, Arizona"
-elliose01,2000-01,32,San Antonio Spurs,NBA,52,23.6,.434,.714,3.3,1.6,0.4,0.5,7.9,12.4,3.0,.118,0.8,0.9,,5300000,"Cholla in Tucson, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",-1.39,1.38,elliose01,1989-90,SAS,12.5,4.6,.108,-0.9,0.6,,NBA,1800000,21,81,25.1,.481,.866,3.7,1.9,0.6,0.2,10.0,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",+0.70,6.42,elliose01,1990-91,SAS,14.2,8.8,.138,1.6,2.8,,NBA,1800000,22,82,37.1,.490,.808,5.6,2.9,0.8,0.4,15.9,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",+0.63,6.41,elliose01,1991-92,SAS,14.4,8.4,.130,1.4,2.7,,NBA,1802000,23,82,38.0,.494,.861,5.4,2.6,1.0,0.4,16.3,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",+0.30,5.20,elliose01,1992-93,SAS,15.5,6.1,.113,1.6,2.3,,NBA,1802000,24,70,37.2,.491,.795,4.6,3.8,1.0,0.4,17.2,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",-2.76,-0.75,elliose01,1993-94,DET,11.3,1.4,.028,-2.3,-0.2,,NBA,1807000,25,73,33.0,.455,.803,3.6,2.7,0.7,0.4,12.1,DET
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",+1.37,8.41,elliose01,1994-95,SAS,16.0,8.7,.147,2.1,2.9,,NBA,1350000,26,81,35.3,.468,.807,3.5,2.5,1.0,0.5,18.1,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",+1.04,7.39,elliose01,1995-96,SAS,16.3,7.7,.128,2.0,2.9,,NBA,5333000,27,77,37.7,.466,.771,5.1,2.7,0.9,0.4,20.0,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",-1.96,0.32,elliose01,1996-97,SAS,14.0,1.5,.051,-1.1,0.3,,NBA,5333000,28,39,35.7,.422,.755,4.9,3.2,0.6,0.6,14.9,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",-1.23,0.66,elliose01,1997-98,SAS,9.5,1.4,.065,-1.5,0.1,,NBA,5333333,29,36,28.1,.403,.718,3.4,1.7,0.7,0.4,9.3,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",+0.67,4.23,elliose01,1998-99,SAS,12.6,3.5,.113,0.0,0.7,,NBA,5333000,30,50,30.2,.410,.757,4.3,2.3,0.5,0.3,11.2,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",-1.03,0.41,elliose01,1999-00,SAS,8.8,0.5,.067,-1.7,0.0,,NBA,5433333,31,19,20.6,.358,.781,2.5,1.5,0.6,0.1,6.0,SAS
+Sean Elliott,/players/e/elliose01.html,1990,2001,University of Arizona,false,"Cholla in Tucson, Arizona",-1.67,0.46,elliose01,2000-01,SAS,12.4,3.0,.118,0.8,0.9,,NBA,5300000,32,52,23.6,.434,.714,3.3,1.6,0.4,0.5,7.9,SAS

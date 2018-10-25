@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-musadz01,2018-19,19,BRK,NBA,2,5.0,.400,.000,1.0,0.5,1.0,0.0,2.0,13.6,0.0,-0.111,1.3,0.0,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dzanan Musa,/players/m/musadz01.html,2019,2019,,true,,,,musadz01,2018-19,BRK,13.6,0.0,-0.111,1.3,0.0,,19,NBA,2,5.0,.400,.000,1.0,0.5,1.0,0.0,2.0,BRK

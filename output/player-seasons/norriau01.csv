@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-norriau01,1982-83,22,POR,NBA,30,10.4,.413,.467,2.3,0.8,0.4,0.1,2.2,5.0,-0.1,-0.022,-3.9,-0.1,,"Jim Hill in Jackson, Mississippi",
-norriau01,1983-84,23,POR,NBA,79,14.6,.504,.698,3.3,1.0,0.4,0.4,4.5,8.7,1.1,.046,-2.3,-0.1,,"Jim Hill in Jackson, Mississippi",
-norriau01,1984-85,24,Portland Trail Blazers,NBA,78,14.3,.543,.665,3.2,0.6,0.5,0.4,5.1,10.6,1.9,.083,-1.9,0.0,,"Jim Hill in Jackson, Mississippi",110000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Audie Norris,/players/n/norriau01.html,1983,1985,Jackson State University,false,"Jim Hill in Jackson, Mississippi",-2.71,-0.13,norriau01,1982-83,POR,5.0,-0.1,-0.022,-3.9,-0.1,,22,NBA,30,10.4,.413,.467,2.3,0.8,0.4,0.1,2.2,POR,
+Audie Norris,/players/n/norriau01.html,1983,1985,Jackson State University,false,"Jim Hill in Jackson, Mississippi",-2.12,0.15,norriau01,1983-84,POR,8.7,1.1,.046,-2.3,-0.1,,23,NBA,79,14.6,.504,.698,3.3,1.0,0.4,0.4,4.5,POR,
+Audie Norris,/players/n/norriau01.html,1983,1985,Jackson State University,false,"Jim Hill in Jackson, Mississippi",-1.28,0.83,norriau01,1984-85,POR,10.6,1.9,.083,-1.9,0.0,,24,NBA,78,14.3,.543,.665,3.2,0.6,0.5,0.4,5.1,POR,110000

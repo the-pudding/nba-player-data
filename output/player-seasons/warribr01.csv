@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-warribr01,1982-83,23,WSB,NBA,43,16.9,.380,.737,1.6,2.9,0.5,0.2,4.0,6.5,0.1,.008,-5.1,-0.6,,"Township in Burlington, New Jersey",
-warribr01,1983-84,24,WSB,NBA,32,7.9,.409,.500,0.7,1.3,0.3,0.1,2.0,6.9,0.0,-0.008,-6.4,-0.3,,"Township in Burlington, New Jersey",
-warribr01,1984-85,25,Los Angeles Clippers,NBA,58,12.3,.491,.772,1.0,2.6,0.4,0.1,3.7,10.5,0.5,.035,-5.1,-0.6,,"Township in Burlington, New Jersey",110000
-warribr01,1985-86,26,"MIL,IND",NBA,36,19.0,.467,.794,1.9,3.2,0.8,0.1,6.3,11.1,1.0,.071,-2.6,-0.1,,"Township in Burlington, New Jersey",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Bryan Warrick,/players/w/warribr01.html,1983,1986,Saint Joseph's University,false,"Township in Burlington, New Jersey",-2.65,-0.29,warribr01,1982-83,WSB,6.5,0.1,.008,-5.1,-0.6,,23,NBA,43,16.9,.380,.737,1.6,2.9,0.5,0.2,4.0,WSB,
+Bryan Warrick,/players/w/warribr01.html,1983,1986,Saint Joseph's University,false,"Township in Burlington, New Jersey",-1.43,0.14,warribr01,1983-84,WSB,6.9,0.0,-0.008,-6.4,-0.3,,24,NBA,32,7.9,.409,.500,0.7,1.3,0.3,0.1,2.0,WSB,
+Bryan Warrick,/players/w/warribr01.html,1983,1986,Saint Joseph's University,false,"Township in Burlington, New Jersey",-2.02,0.13,warribr01,1984-85,LAC,10.5,0.5,.035,-5.1,-0.6,,25,NBA,58,12.3,.491,.772,1.0,2.6,0.4,0.1,3.7,LAC,110000
+Bryan Warrick,/players/w/warribr01.html,1983,1986,Saint Joseph's University,false,"Township in Burlington, New Jersey",-1.22,0.48,warribr01,1985-86,TOT,11.1,1.0,.071,-2.6,-0.1,,26,NBA,36,19.0,.467,.794,1.9,3.2,0.8,0.1,6.3,"MIL,IND",

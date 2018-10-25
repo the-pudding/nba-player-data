@@ -1,21 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsav01,1988-89,23,Seattle SuperSonics,NBA,43,6.8,.349,.563,0.6,1.7,0.5,0.1,1.6,10.8,0.3,.045,-3.9,-0.1,,100000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1989-90,24,SEA,NBA,53,10.8,.387,.725,0.8,3.1,0.5,0.0,2.6,11.6,0.5,.043,-4.7,-0.4,,,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1990-91,25,San Antonio Spurs,NBA,68,14.1,.469,.678,1.1,3.4,0.7,0.1,4.7,13.4,1.6,.082,-3.6,-0.4,,50000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1990-91,25,San Antonio Spurs,NBA,21,10.3,.426,.656,1.0,3.7,0.7,0.1,3.8,14.2,0.1,.014,-6.2,-0.2,,50000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1990-91,25,San Antonio Spurs,NBA,47,15.8,.483,.691,1.2,3.3,0.7,0.0,5.1,13.2,1.6,.101,-2.8,-0.2,,50000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1991-92,26,"SAS,HOU",NBA,69,17.9,.479,.653,1.2,3.9,0.9,0.1,5.6,11.9,1.3,.051,-4.8,-0.9,,,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1992-93,27,San Antonio Spurs,NBA,75,27.1,.502,.791,1.9,7.5,1.1,0.2,8.7,15.8,5.2,.122,-1.8,0.1,,140000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1993-94,28,Golden State Warriors,NBA,82,28.4,.492,.704,2.1,5.3,1.4,0.1,10.9,13.9,4.1,.085,-2.3,-0.2,,300000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1994-95,29,San Antonio Spurs,NBA,82,36.7,.519,.685,2.5,8.2,1.4,0.2,13.4,15.7,8.0,.128,-0.1,1.5,,650000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1995-96,30,San Antonio Spurs,NBA,82,37.6,.494,.721,2.5,9.6,1.5,0.3,13.1,16.3,9.1,.141,-0.4,1.2,,845000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1996-97,31,San Antonio Spurs,NBA,76,32.5,.477,.690,1.9,6.8,1.3,0.2,10.5,15.0,3.4,.066,-3.2,-0.8,,1040000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1997-98,32,San Antonio Spurs,NBA,75,35.7,.478,.726,2.0,7.9,1.1,0.2,10.2,14.1,6.7,.120,-2.0,0.0,,3000000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1998-99,33,San Antonio Spurs,NBA,50,33.4,.473,.568,2.4,7.4,1.0,0.2,9.7,14.0,3.9,.111,-1.4,0.3,,3000000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,1999-00,34,San Antonio Spurs,NBA,82,31.4,.473,.735,1.9,6.0,0.9,0.2,11.2,14.8,6.3,.117,-1.0,0.6,,3200000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,2000-01,35,San Antonio Spurs,NBA,55,23.5,.447,.683,1.5,4.3,0.6,0.1,5.6,11.5,2.6,.098,-2.6,-0.2,,8000000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,2001-02,36,Denver Nuggets,NBA,68,19.9,.479,.742,1.0,4.2,0.6,0.1,7.9,16.6,3.0,.106,-4.2,-0.7,,4538000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,2001-02,36,Denver Nuggets,NBA,51,23.5,.486,.747,1.3,5.1,0.7,0.2,9.4,17.3,2.8,.114,-3.7,-0.5,,4538000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,2001-02,36,Denver Nuggets,NBA,17,8.9,.429,.706,0.3,1.6,0.3,0.1,3.2,11.8,0.1,.044,-7.6,-0.2,,4538000,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,2002-03,37,Dallas Mavericks,NBA,48,9.0,.420,.769,0.6,1.3,0.3,0.0,3.3,12.2,0.4,.044,-5.4,-0.4,,4991800,"Saint Augustine in New Orleans, Louisiana"
-johnsav01,2003-04,38,Golden State Warriors,NBA,46,13.8,.402,.667,0.7,2.4,0.6,0.1,4.6,11.7,0.2,.016,-6.6,-0.7,,5445600,"Saint Augustine in New Orleans, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-0.42,0.41,johnsav01,1988-89,SEA,10.8,0.3,.045,-3.9,-0.1,,NBA,100000,23,43,6.8,.349,.563,0.6,1.7,0.5,0.1,1.6,SEA
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-1.05,0.49,johnsav01,1989-90,SEA,11.6,0.5,.043,-4.7,-0.4,,NBA,,24,53,10.8,.387,.725,0.8,3.1,0.5,0.0,2.6,SEA
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-1.31,0.64,johnsav01,1990-91,TOT,13.4,1.6,.082,-3.6,-0.4,,NBA,50000,25,68,14.1,.469,.678,1.1,3.4,0.7,0.1,4.7,"DEN,SAS"
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-1.71,0.45,johnsav01,1991-92,TOT,11.9,1.3,.051,-4.8,-0.9,,NBA,,26,69,17.9,.479,.653,1.2,3.9,0.9,0.1,5.6,"SAS,HOU"
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",+1.03,5.23,johnsav01,1992-93,SAS,15.8,5.2,.122,-1.8,0.1,,NBA,140000,27,75,27.1,.502,.791,1.9,7.5,1.1,0.2,8.7,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-0.43,2.97,johnsav01,1993-94,GSW,13.9,4.1,.085,-2.3,-0.2,,NBA,300000,28,82,28.4,.492,.704,2.1,5.3,1.4,0.1,10.9,GSW
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",+1.91,10.06,johnsav01,1994-95,SAS,15.7,8.0,.128,-0.1,1.5,,NBA,650000,29,82,36.7,.519,.685,2.5,8.2,1.4,0.2,13.4,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",+2.18,10.49,johnsav01,1995-96,SAS,16.3,9.1,.141,-0.4,1.2,,NBA,845000,30,82,37.6,.494,.721,2.5,9.6,1.5,0.3,13.1,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-0.94,2.25,johnsav01,1996-97,SAS,15.0,3.4,.066,-3.2,-0.8,,NBA,1040000,31,76,32.5,.477,.690,1.9,6.8,1.3,0.2,10.5,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",+1.31,7.44,johnsav01,1997-98,SAS,14.1,6.7,.120,-2.0,0.0,,NBA,3000000,32,75,35.7,.478,.726,2.0,7.9,1.1,0.2,10.2,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",+1.27,5.72,johnsav01,1998-99,SAS,14.0,3.9,.111,-1.4,0.3,,NBA,3000000,33,50,33.4,.473,.568,2.4,7.4,1.0,0.2,9.7,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",+1.11,6.31,johnsav01,1999-00,SAS,14.8,6.3,.117,-1.0,0.6,,NBA,3200000,34,82,31.4,.473,.735,1.9,6.0,0.9,0.2,11.2,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-2.36,-0.25,johnsav01,2000-01,SAS,11.5,2.6,.098,-2.6,-0.2,,NBA,8000000,35,55,23.5,.447,.683,1.5,4.3,0.6,0.1,5.6,SAS
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-2.82,-0.46,johnsav01,2001-02,TOT,16.6,3.0,.106,-4.2,-0.7,,NBA,4538000,36,68,19.9,.479,.742,1.0,4.2,0.6,0.1,7.9,"DEN,DAL"
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-3.92,-0.52,johnsav01,2002-03,DAL,12.2,0.4,.044,-5.4,-0.4,,NBA,4991800,37,48,9.0,.420,.769,0.6,1.3,0.3,0.0,3.3,DAL
+Avery Johnson,/players/j/johnsav01.html,1989,2004,"Cameron University, Southern University and A&M College",false,"Saint Augustine in New Orleans, Louisiana",-2.11,0.02,johnsav01,2003-04,GSW,11.7,0.2,.016,-6.6,-0.7,,NBA,5445600,38,46,13.8,.402,.667,0.7,2.4,0.6,0.1,4.6,GSW

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-morrimi01,1989-90,22,PHO,NBA,36,4.3,.338,.800,0.6,0.3,0.1,0.0,2.0,4.2,-0.3,-0.106,-11.0,-0.3,,"Northwestern in Hyattsville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Morrison,/players/m/morrimi01.html,1990,1990,Loyola College in Maryland,false,"Northwestern in Hyattsville, Maryland",-1.61,0.07,morrimi01,1989-90,PHO,4.2,-0.3,-0.106,-11.0,-0.3,,22,NBA,36,4.3,.338,.800,0.6,0.3,0.1,0.0,2.0,PHO

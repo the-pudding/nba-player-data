@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithgr02,2011-12,21,Houston Rockets,NBA,8,8.6,.636,,2.5,0.1,0.3,0.6,1.8,12.3,0.2,.165,0.1,0.0,,301733,"Westwind Academy in Phoenix, Arizona"
-smithgr02,2012-13,22,Houston Rockets,NBA,70,15.9,.620,.623,4.6,0.4,0.3,0.6,6.0,16.1,4.0,.172,-0.5,0.4,,762195,"Westwind Academy in Phoenix, Arizona"
-smithgr02,2013-14,23,Houston Rockets,NBA,11,9.1,.643,.400,2.5,0.0,0.1,0.2,3.5,13.7,0.2,.119,-7.5,-0.1,,884293,"Westwind Academy in Phoenix, Arizona"
-smithgr02,2014-15,24,Dallas Mavericks,NBA,42,8.6,.612,.513,1.9,0.2,0.2,0.3,1.9,10.2,0.8,.108,-1.0,0.1,,948163,"Westwind Academy in Phoenix, Arizona"
-smithgr02,2015-16,25,Minnesota Timberwolves,NBA,18,10.7,.563,.412,2.3,0.3,0.2,0.1,2.4,7.9,0.2,.045,-4.3,-0.1,,247623,"Westwind Academy in Phoenix, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Smith,/players/s/smithgr02.html,2012,2016,"California State University, Fresno",false,"Westwind Academy in Phoenix, Arizona",-0.04,0.10,smithgr02,2011-12,HOU,12.3,0.2,.165,0.1,0.0,,NBA,301733,21,8,8.6,.636,,2.5,0.1,0.3,0.6,1.8,HOU
+Greg Smith,/players/s/smithgr02.html,2012,2016,"California State University, Fresno",false,"Westwind Academy in Phoenix, Arizona",-0.22,1.63,smithgr02,2012-13,HOU,16.1,4.0,.172,-0.5,0.4,,NBA,762195,22,70,15.9,.620,.623,4.6,0.4,0.3,0.6,6.0,HOU
+Greg Smith,/players/s/smithgr02.html,2012,2016,"California State University, Fresno",false,"Westwind Academy in Phoenix, Arizona",-0.91,0.09,smithgr02,2013-14,HOU,13.7,0.2,.119,-7.5,-0.1,,NBA,884293,23,11,9.1,.643,.400,2.5,0.0,0.1,0.2,3.5,HOU
+Greg Smith,/players/s/smithgr02.html,2012,2016,"California State University, Fresno",false,"Westwind Academy in Phoenix, Arizona",-2.14,0.01,smithgr02,2014-15,DAL,10.2,0.8,.108,-1.0,0.1,,NBA,948163,24,42,8.6,.612,.513,1.9,0.2,0.2,0.3,1.9,DAL
+Greg Smith,/players/s/smithgr02.html,2012,2016,"California State University, Fresno",false,"Westwind Academy in Phoenix, Arizona",-2.30,-0.01,smithgr02,2015-16,MIN,7.9,0.2,.045,-4.3,-0.1,,NBA,247623,25,18,10.7,.563,.412,2.3,0.3,0.2,0.1,2.4,MIN

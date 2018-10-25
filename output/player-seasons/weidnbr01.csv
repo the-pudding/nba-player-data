@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-weidnbr01,1983-84,23,SAS,NBA,8,4.8,.222,1.000,1.4,0.0,0.0,0.3,1.0,5.4,0.0,-0.014,-11.3,-0.1,,"Parkland in Orefield, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brant Weidner,/players/w/weidnbr01.html,1984,1984,College of William & Mary,false,"Parkland in Orefield, Pennsylvania",-0.38,0.05,weidnbr01,1983-84,SAS,5.4,0.0,-0.014,-11.3,-0.1,,23,NBA,8,4.8,.222,1.000,1.4,0.0,0.0,0.3,1.0,SAS

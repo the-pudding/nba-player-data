@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mitchmi01,1978-79,23,CLE,NBA,80,19.7,.513,.736,4.1,0.8,0.6,0.4,10.7,16.8,3.6,.111,-1.8,0.1,,"Price in Atlanta, Georgia",
-mitchmi01,1979-80,24,CLE,NBA,82,34.2,.523,.787,7.2,1.1,0.9,0.9,22.2,19.1,8.3,.142,0.3,1.6,,"Price in Atlanta, Georgia",
-mitchmi01,1980-81,25,CLE,NBA,82,39.0,.476,.784,6.1,1.7,0.8,0.6,24.5,17.5,6.0,.091,-1.5,0.4,,"Price in Atlanta, Georgia",
-mitchmi01,1981-82,26,"CLE,SAS",NBA,84,36.5,.510,.728,7.0,1.0,0.7,0.5,20.5,15.9,5.9,.093,-1.5,0.4,,"Price in Atlanta, Georgia",
-mitchmi01,1982-83,27,SAS,NBA,80,35.0,.511,.758,6.7,1.2,0.7,0.7,19.9,16.9,7.6,.131,-0.8,0.9,,"Price in Atlanta, Georgia",
-mitchmi01,1983-84,28,SAS,NBA,79,36.1,.488,.779,7.2,1.2,0.8,0.9,23.3,17.1,5.5,.092,-2.0,0.0,,"Price in Atlanta, Georgia",
-mitchmi01,1984-85,29,San Antonio Spurs,NBA,82,34.8,.497,.777,5.1,1.8,0.7,0.3,22.2,16.5,6.0,.101,-2.1,-0.1,,"Price in Atlanta, Georgia",790000
-mitchmi01,1985-86,30,San Antonio Spurs,NBA,82,36.2,.473,.809,5.0,2.3,0.7,0.3,23.4,15.9,4.4,.071,-3.0,-0.8,,"Price in Atlanta, Georgia",700000
-mitchmi01,1986-87,31,SAS,NBA,40,23.1,.435,.821,2.6,1.0,0.5,0.2,12.7,11.9,0.4,.019,-6.9,-1.1,,"Price in Atlanta, Georgia",
-mitchmi01,1987-88,32,San Antonio Spurs,NBA,68,22.1,.482,.825,2.9,1.0,0.5,0.2,13.5,15.7,2.4,.076,-4.8,-1.1,,"Price in Atlanta, Georgia",750000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-0.68,1.69,mitchmi01,1978-79,CLE,16.8,3.6,.111,-1.8,0.1,,23,NBA,80,19.7,.513,.736,4.1,0.8,0.6,0.4,10.7,CLE,
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",+0.95,6.11,mitchmi01,1979-80,CLE,19.1,8.3,.142,0.3,1.6,,24,NBA,82,34.2,.523,.787,7.2,1.1,0.9,0.9,22.2,CLE,
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-1.06,2.63,mitchmi01,1980-81,CLE,17.5,6.0,.091,-1.5,0.4,,25,NBA,82,39.0,.476,.784,6.1,1.7,0.8,0.6,24.5,CLE,
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-1.55,1.74,mitchmi01,1981-82,TOT,15.9,5.9,.093,-1.5,0.4,,26,NBA,84,36.5,.510,.728,7.0,1.0,0.7,0.5,20.5,"CLE,SAS",
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",+0.09,5.16,mitchmi01,1982-83,SAS,16.9,7.6,.131,-0.8,0.9,,27,NBA,80,35.0,.511,.758,6.7,1.2,0.7,0.7,19.9,SAS,
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-0.22,3.99,mitchmi01,1983-84,SAS,17.1,5.5,.092,-2.0,0.0,,28,NBA,79,36.1,.488,.779,7.2,1.2,0.8,0.9,23.3,SAS,
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-0.31,4.05,mitchmi01,1984-85,SAS,16.5,6.0,.101,-2.1,-0.1,,29,NBA,82,34.8,.497,.777,5.1,1.8,0.7,0.3,22.2,SAS,790000
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-1.42,1.83,mitchmi01,1985-86,SAS,15.9,4.4,.071,-3.0,-0.8,,30,NBA,82,36.2,.473,.809,5.0,2.3,0.7,0.3,23.4,SAS,700000
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-3.58,-0.76,mitchmi01,1986-87,SAS,11.9,0.4,.019,-6.9,-1.1,,31,NBA,40,23.1,.435,.821,2.6,1.0,0.5,0.2,12.7,SAS,
+Mike Mitchell,/players/m/mitchmi01.html,1979,1988,Auburn University,false,"Price in Atlanta, Georgia",-2.56,-0.20,mitchmi01,1987-88,SAS,15.7,2.4,.076,-4.8,-1.1,,32,NBA,68,22.1,.482,.825,2.9,1.0,0.5,0.2,13.5,SAS,750000

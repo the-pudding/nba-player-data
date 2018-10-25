@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bardost01,1991-92,23,SAS,NBA,1,1.0,,,1.0,0.0,0.0,0.0,0.0,32.3,0.0,.424,6.1,0.0,,"Carbondale in Carbondale, Illinois",
-bardost01,1992-93,24,Dallas Mavericks,NBA,23,7.6,.306,.706,1.6,1.3,0.3,0.1,2.2,7.7,-0.3,-0.084,-5.9,-0.2,,"Carbondale in Carbondale, Illinois",150000
-bardost01,1993-94,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Carbondale in Carbondale, Illinois",
-bardost01,1994-95,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Carbondale in Carbondale, Illinois",
-bardost01,1995-96,27,Detroit Pistons,NBA,9,13.7,.391,.667,2.4,1.7,0.4,0.1,2.4,8.4,0.2,.069,-2.6,0.0,,"Carbondale in Carbondale, Illinois",225000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Steve Bardo,/players/b/bardost01.html,1992,1996,University of Illinois at Urbana-Champaign,false,"Carbondale in Carbondale, Illinois",+0.17,0.00,bardost01,1991-92,SAS,32.3,0.0,.424,6.1,0.0,,23,NBA,1,1.0,,,1.0,0.0,0.0,0.0,0.0,SAS,
+Steve Bardo,/players/b/bardost01.html,1992,1996,University of Illinois at Urbana-Champaign,false,"Carbondale in Carbondale, Illinois",-1.29,0.11,bardost01,1992-93,DAL,7.7,-0.3,-0.084,-5.9,-0.2,,24,NBA,23,7.6,.306,.706,1.6,1.3,0.3,0.1,2.2,DAL,150000
+Steve Bardo,/players/b/bardost01.html,1992,1996,University of Illinois at Urbana-Champaign,false,"Carbondale in Carbondale, Illinois",,,bardost01,1993-94,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Steve Bardo,/players/b/bardost01.html,1992,1996,University of Illinois at Urbana-Champaign,false,"Carbondale in Carbondale, Illinois",,,bardost01,1994-95,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Steve Bardo,/players/b/bardost01.html,1992,1996,University of Illinois at Urbana-Champaign,false,"Carbondale in Carbondale, Illinois",+0.26,0.21,bardost01,1995-96,DET,8.4,0.2,.069,-2.6,0.0,,27,NBA,9,13.7,.391,.667,2.4,1.7,0.4,0.1,2.4,DET,225000

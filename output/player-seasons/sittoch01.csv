@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-sittoch01,1984-85,22,DAL,NBA,43,7.1,.415,.520,1.4,0.6,0.2,0.1,2.1,8.0,0.1,.008,-4.2,-0.2,,"McMinnville in McMinnville, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charlie Sitton,/players/s/sittoch01.html,1985,1985,Oregon State University,false,"McMinnville in McMinnville, Oregon",-2.49,-0.04,sittoch01,1984-85,DAL,8.0,0.1,.008,-4.2,-0.2,,22,NBA,43,7.1,.415,.520,1.4,0.6,0.2,0.1,2.1,DAL

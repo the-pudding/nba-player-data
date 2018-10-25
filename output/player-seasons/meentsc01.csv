@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-meentsc01,1989-90,26,SEA,NBA,26,5.7,.432,.739,1.2,0.3,0.2,0.1,2.1,11.9,0.2,.066,-4.3,-0.1,,"Herscher in Herscher, Illinois",
-meentsc01,1990-91,27,Seattle SuperSonics,NBA,13,4.1,.250,.500,0.8,0.6,0.5,0.3,1.3,9.4,-0.1,-0.117,-2.3,0.0,,"Herscher in Herscher, Illinois",300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Scott Meents,/players/m/meentsc01.html,1990,1991,University of Illinois at Urbana-Champaign,false,"Herscher in Herscher, Illinois",-0.21,0.21,meentsc01,1989-90,SEA,11.9,0.2,.066,-4.3,-0.1,,26,NBA,26,5.7,.432,.739,1.2,0.3,0.2,0.1,2.1,SEA,
+Scott Meents,/players/m/meentsc01.html,1990,1991,University of Illinois at Urbana-Champaign,false,"Herscher in Herscher, Illinois",+0.17,0.10,meentsc01,1990-91,SEA,9.4,-0.1,-0.117,-2.3,0.0,,27,NBA,13,4.1,.250,.500,0.8,0.6,0.5,0.3,1.3,SEA,300000

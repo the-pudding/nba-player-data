@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-frankja01,2013-14,22,MEM,NBA,21,7.7,.410,1.000,1.1,0.3,0.2,0.1,1.9,4.7,0.0,-0.002,-5.4,-0.1,,"Westwind Prep in Phoenix, Arizona",
-frankja01,2014-15,23,Memphis Grizzlies,NBA,3,4.3,.500,,0.7,1.0,0.0,0.3,1.0,4.9,0.0,-0.063,-5.1,0.0,,"Westwind Prep in Phoenix, Arizona",163296
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jamaal Franklin,/players/f/frankja01.html,2014,2015,San Diego State University,false,"Westwind Prep in Phoenix, Arizona",-0.17,0.24,frankja01,2013-14,MEM,4.7,0.0,-0.002,-5.4,-0.1,,22,NBA,21,7.7,.410,1.000,1.1,0.3,0.2,0.1,1.9,MEM,
+Jamaal Franklin,/players/f/frankja01.html,2014,2015,San Diego State University,false,"Westwind Prep in Phoenix, Arizona",-0.56,0.02,frankja01,2014-15,DEN,4.9,0.0,-0.063,-5.1,0.0,,23,NBA,3,4.3,.500,,0.7,1.0,0.0,0.3,1.0,DEN,163296

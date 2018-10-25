@@ -1,20 +1,20 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mahorri01,1980-81,22,WSB,NBA,52,13.4,.507,.675,4.1,0.5,0.4,0.8,4.8,13.6,1.8,.123,0.0,0.4,,"Weaver in Hartford, Connecticut",
-mahorri01,1981-82,23,WSB,NBA,80,33.3,.507,.632,8.8,1.9,0.7,1.7,12.2,13.3,5.9,.107,1.3,2.2,,"Weaver in Hartford, Connecticut",
-mahorri01,1982-83,24,WSB,NBA,82,36.9,.490,.575,9.5,1.4,1.0,1.8,11.0,11.6,6.2,.099,0.8,2.1,,"Weaver in Hartford, Connecticut",
-mahorri01,1983-84,25,WSB,NBA,82,32.9,.507,.651,9.0,1.6,0.8,1.5,9.0,11.3,4.8,.085,0.1,1.4,,"Weaver in Hartford, Connecticut",
-mahorri01,1984-85,26,Washington Bullets,NBA,77,26.9,.499,.683,7.9,1.6,0.8,1.4,6.3,10.4,3.6,.083,0.1,1.1,,"Weaver in Hartford, Connecticut",361000
-mahorri01,1985-86,27,Detroit Pistons,NBA,80,18.0,.455,.681,5.2,0.8,0.5,0.8,4.9,8.8,1.3,.043,-2.1,0.0,,"Weaver in Hartford, Connecticut",411000
-mahorri01,1986-87,28,DET,NBA,63,20.3,.447,.821,6.0,0.6,0.5,0.8,6.1,10.2,2.5,.095,-1.7,0.1,,"Weaver in Hartford, Connecticut",
-mahorri01,1987-88,29,Detroit Pistons,NBA,67,29.3,.574,.756,8.4,0.9,0.6,0.6,10.7,13.7,5.9,.145,1.1,1.5,,"Weaver in Hartford, Connecticut",575000
-mahorri01,1988-89,30,Detroit Pistons,NBA,72,24.9,.517,.748,6.9,0.8,0.6,0.9,7.3,12.1,4.6,.123,0.9,1.3,,"Weaver in Hartford, Connecticut",600000
-mahorri01,1989-90,31,PHI,NBA,75,30.3,.497,.715,7.6,1.3,0.6,1.4,10.8,13.9,5.3,.113,0.4,1.4,,"Weaver in Hartford, Connecticut",
-mahorri01,1990-91,32,Philadelphia 76ers,NBA,80,30.5,.467,.788,7.8,1.5,1.0,0.7,8.9,11.8,4.4,.086,-0.4,0.9,,"Weaver in Hartford, Connecticut",1330000
-mahorri01,1991-92,33,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Weaver in Hartford, Connecticut",
-mahorri01,1992-93,34,New Jersey Nets,NBA,74,14.6,.472,.800,3.8,0.4,0.3,0.4,3.9,10.3,2.3,.102,-2.3,-0.1,,"Weaver in Hartford, Connecticut",500000
-mahorri01,1993-94,35,New Jersey Nets,NBA,28,8.1,.489,.650,1.9,0.2,0.1,0.2,2.1,9.2,0.5,.096,-4.2,-0.1,,"Weaver in Hartford, Connecticut",650000
-mahorri01,1994-95,36,New Jersey Nets,NBA,58,10.9,.523,.796,2.8,0.4,0.2,0.2,3.4,11.8,1.2,.093,-3.3,-0.2,,"Weaver in Hartford, Connecticut",800000
-mahorri01,1995-96,37,New Jersey Nets,NBA,50,9.0,.352,.723,2.2,0.3,0.3,0.3,2.4,7.5,0.1,.011,-5.9,-0.4,,"Weaver in Hartford, Connecticut",400000
-mahorri01,1996-97,38,Detroit Pistons,NBA,22,9.9,.370,.727,2.4,0.3,0.2,0.1,2.5,8.8,0.3,.055,-5.9,-0.2,,"Weaver in Hartford, Connecticut",400000
-mahorri01,1997-98,39,Detroit Pistons,NBA,59,12.0,.457,.676,3.3,0.3,0.2,0.1,2.4,7.8,0.9,.064,-4.6,-0.5,,"Weaver in Hartford, Connecticut",480000
-mahorri01,1998-99,40,Philadelphia 76ers,NBA,16,7.9,.278,.375,1.4,0.1,0.3,0.1,0.8,1.5,0.0,-0.014,-6.5,-0.1,,"Weaver in Hartford, Connecticut",1000000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+0.60,1.37,mahorri01,1980-81,WSB,13.6,1.8,.123,0.0,0.4,,22,NBA,52,13.4,.507,.675,4.1,0.5,0.4,0.8,4.8,WSB,
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+1.19,6.93,mahorri01,1981-82,WSB,13.3,5.9,.107,1.3,2.2,,23,NBA,80,33.3,.507,.632,8.8,1.9,0.7,1.7,12.2,WSB,
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+0.91,6.69,mahorri01,1982-83,WSB,11.6,6.2,.099,0.8,2.1,,24,NBA,82,36.9,.490,.575,9.5,1.4,1.0,1.8,11.0,WSB,
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+0.11,4.62,mahorri01,1983-84,WSB,11.3,4.8,.085,0.1,1.4,,25,NBA,82,32.9,.507,.651,9.0,1.6,0.8,1.5,9.0,WSB,
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-0.10,3.11,mahorri01,1984-85,WSB,10.4,3.6,.083,0.1,1.1,,26,NBA,77,26.9,.499,.683,7.9,1.6,0.8,1.4,6.3,WSB,361000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-1.92,0.36,mahorri01,1985-86,DET,8.8,1.3,.043,-2.1,0.0,,27,NBA,80,18.0,.455,.681,5.2,0.8,0.5,0.8,4.9,DET,411000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-0.98,1.54,mahorri01,1986-87,DET,10.2,2.5,.095,-1.7,0.1,,28,NBA,63,20.3,.447,.821,6.0,0.6,0.5,0.8,6.1,DET,
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+0.07,3.76,mahorri01,1987-88,DET,13.7,5.9,.145,1.1,1.5,,29,NBA,67,29.3,.574,.756,8.4,0.9,0.6,0.6,10.7,DET,575000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+0.79,4.48,mahorri01,1988-89,DET,12.1,4.6,.123,0.9,1.3,,30,NBA,72,24.9,.517,.748,6.9,0.8,0.6,0.9,7.3,DET,600000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",+0.40,4.71,mahorri01,1989-90,PHI,13.9,5.3,.113,0.4,1.4,,31,NBA,75,30.3,.497,.715,7.6,1.3,0.6,1.4,10.8,PHI,
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-0.71,2.80,mahorri01,1990-91,PHI,11.8,4.4,.086,-0.4,0.9,,32,NBA,80,30.5,.467,.788,7.8,1.5,1.0,0.7,8.9,PHI,1330000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",,,mahorri01,1991-92,Did Not Play (other pro league—Italy),,,,,,,33,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-1.77,0.37,mahorri01,1992-93,NJN,10.3,2.3,.102,-2.3,-0.1,,34,NBA,74,14.6,.472,.800,3.8,0.4,0.3,0.4,3.9,NJN,500000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-1.44,0.13,mahorri01,1993-94,NJN,9.2,0.5,.096,-4.2,-0.1,,35,NBA,28,8.1,.489,.650,1.9,0.2,0.1,0.2,2.1,NJN,650000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-2.03,0.10,mahorri01,1994-95,NJN,11.8,1.2,.093,-3.3,-0.2,,36,NBA,58,10.9,.523,.796,2.8,0.4,0.2,0.2,3.4,NJN,800000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-2.59,-0.13,mahorri01,1995-96,NJN,7.5,0.1,.011,-5.9,-0.4,,37,NBA,50,9.0,.352,.723,2.2,0.3,0.3,0.3,2.4,NJN,400000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-1.38,0.14,mahorri01,1996-97,DET,8.8,0.3,.055,-5.9,-0.2,,38,NBA,22,9.9,.370,.727,2.4,0.3,0.2,0.1,2.5,DET,400000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-2.68,-0.24,mahorri01,1997-98,DET,7.8,0.9,.064,-4.6,-0.5,,39,NBA,59,12.0,.457,.676,3.3,0.3,0.2,0.1,2.4,DET,480000
+Rick Mahorn,/players/m/mahorri01.html,1981,1999,Hampton University,false,"Weaver in Hartford, Connecticut",-0.62,0.17,mahorri01,1998-99,PHI,1.5,0.0,-0.014,-6.5,-0.1,,40,NBA,16,7.9,.278,.375,1.4,0.1,0.3,0.1,0.8,PHI,1000000

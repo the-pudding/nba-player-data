@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mengejo01,1976-77,27,CHI,NBA,61,19.3,.456,.788,1.8,1.9,0.6,0.1,8.3,12.9,2.3,.092,-3.0,-0.3,,"Wilkie in Elwood, Indiana"
-mengejo01,1977-78,28,CHI,NBA,81,21.8,.481,.773,1.6,2.9,0.6,0.0,10.3,14.5,3.9,.105,-2.4,-0.2,,"Wilkie in Elwood, Indiana"
-mengejo01,1978-79,29,CHI,NBA,75,22.7,.491,.824,1.6,2.5,0.6,0.1,11.0,13.2,3.0,.084,-3.4,-0.6,,"Wilkie in Elwood, Indiana"
-mengejo01,1979-80,30,CHI,NBA,36,10.8,.542,.796,0.6,1.1,0.3,0.0,6.1,13.4,0.6,.070,-5.5,-0.3,,"Wilkie in Elwood, Indiana"
-mengejo01,1980-81,31,GSW,NBA,2,5.5,.000,,0.0,1.0,0.0,0.0,0.0,-5.9,-0.1,-0.247,-21.5,-0.1,,"Wilkie in Elwood, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Mengelt,/players/m/mengejo01.html,1972,1981,Auburn University,false,"Wilkie in Elwood, Indiana",-1.75,0.30,mengejo01,1976-77,CHI,12.9,2.3,.092,-3.0,-0.3,,27,NBA,61,19.3,.456,.788,1.8,1.9,0.6,0.1,8.3,CHI
+John Mengelt,/players/m/mengejo01.html,1972,1981,Auburn University,false,"Wilkie in Elwood, Indiana",-1.13,1.32,mengejo01,1977-78,CHI,14.5,3.9,.105,-2.4,-0.2,,28,NBA,81,21.8,.481,.773,1.6,2.9,0.6,0.0,10.3,CHI
+John Mengelt,/players/m/mengejo01.html,1972,1981,Auburn University,false,"Wilkie in Elwood, Indiana",-1.72,0.58,mengejo01,1978-79,CHI,13.2,3.0,.084,-3.4,-0.6,,29,NBA,75,22.7,.491,.824,1.6,2.5,0.6,0.1,11.0,CHI
+John Mengelt,/players/m/mengejo01.html,1972,1981,Auburn University,false,"Wilkie in Elwood, Indiana",-2.08,0.05,mengejo01,1979-80,CHI,13.4,0.6,.070,-5.5,-0.3,,30,NBA,36,10.8,.542,.796,0.6,1.1,0.3,0.0,6.1,CHI
+John Mengelt,/players/m/mengejo01.html,1972,1981,Auburn University,false,"Wilkie in Elwood, Indiana",+0.59,0.02,mengejo01,1980-81,GSW,-5.9,-0.1,-0.247,-21.5,-0.1,,31,NBA,2,5.5,.000,,0.0,1.0,0.0,0.0,0.0,GSW

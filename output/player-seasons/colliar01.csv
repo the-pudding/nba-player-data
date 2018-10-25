@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-colliar01,1980-81,26,ATL,NBA,29,13.6,.354,.667,1.4,0.9,0.4,0.0,3.2,4.3,-0.4,-0.054,-6.3,-0.4,,"Jackson in Miami, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Art Collins,/players/c/colliar01.html,1981,1981,St. Thomas University,false,"Jackson in Miami, Florida",-4.15,-0.51,colliar01,1980-81,ATL,4.3,-0.4,-0.054,-6.3,-0.4,,26,NBA,29,13.6,.354,.667,1.4,0.9,0.4,0.0,3.2,ATL

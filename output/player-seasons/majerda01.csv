@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-majerda01,1988-89,23,Phoenix Suns,NBA,54,25.1,.419,.614,3.9,2.4,1.2,0.3,8.6,11.3,2.5,.090,1.2,1.1,,450000,"Traverse City in Traverse City, Michigan"
-majerda01,1989-90,24,PHO,NBA,73,30.7,.424,.762,5.9,2.6,1.4,0.4,11.1,13.5,5.5,.118,2.4,2.5,,,"Traverse City in Traverse City, Michigan"
-majerda01,1990-91,25,Phoenix Suns,NBA,77,29.6,.484,.762,5.4,2.8,1.4,0.5,13.6,16.9,7.2,.152,3.7,3.3,,430000,"Traverse City in Traverse City, Michigan"
-majerda01,1991-92,26,Phoenix Suns,NBA,82,34.8,.478,.756,5.9,3.3,1.6,0.5,17.3,17.8,9.8,.165,4.1,4.4,,535000,"Traverse City in Traverse City, Michigan"
-majerda01,1992-93,27,Phoenix Suns,NBA,82,39.0,.464,.778,4.7,3.8,1.7,0.4,16.9,15.4,9.8,.147,4.0,4.9,,735000,"Traverse City in Traverse City, Michigan"
-majerda01,1993-94,28,Phoenix Suns,NBA,80,40.1,.418,.739,4.4,3.4,1.6,0.5,16.5,13.7,7.3,.109,2.3,3.5,,2975000,"Traverse City in Traverse City, Michigan"
-majerda01,1994-95,29,Phoenix Suns,NBA,82,37.7,.425,.730,4.6,4.1,1.2,0.5,15.6,15.1,7.7,.120,3.0,3.9,,3000000,"Traverse City in Traverse City, Michigan"
-majerda01,1995-96,30,Cleveland Cavaliers,NBA,82,28.9,.405,.710,3.7,2.6,1.0,0.4,10.6,15.1,5.5,.112,1.3,2.0,,3100000,"Traverse City in Traverse City, Michigan"
-majerda01,1996-97,31,Miami Heat,NBA,36,35.1,.406,.678,4.5,3.2,1.5,0.4,10.8,13.2,3.5,.133,3.5,1.7,,2350000,"Traverse City in Traverse City, Michigan"
-majerda01,1997-98,32,Miami Heat,NBA,72,26.8,.419,.784,3.7,2.2,0.9,0.2,7.2,12.2,5.3,.131,2.5,2.2,,2820000,"Traverse City in Traverse City, Michigan"
-majerda01,1998-99,33,Miami Heat,NBA,48,33.8,.396,.717,4.3,3.1,0.8,0.1,7.0,10.2,3.5,.103,1.9,1.6,,3290000,"Traverse City in Traverse City, Michigan"
-majerda01,1999-00,34,Miami Heat,NBA,69,33.4,.403,.812,4.8,3.0,1.3,0.2,7.3,11.4,6.1,.126,2.9,2.9,,3600000,"Traverse City in Traverse City, Michigan"
-majerda01,2000-01,35,Miami Heat,NBA,53,24.6,.336,.818,3.1,1.7,1.0,0.3,5.0,9.4,2.6,.097,0.8,0.9,,4050000,"Traverse City in Traverse City, Michigan"
-majerda01,2001-02,36,Phoenix Suns,NBA,65,18.2,.343,.590,2.7,1.4,0.7,0.2,4.6,10.3,2.1,.087,0.4,0.7,,1000000,"Traverse City in Traverse City, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",-0.53,2.03,majerda01,1988-89,PHO,11.3,2.5,.090,1.2,1.1,,NBA,450000,23,54,25.1,.419,.614,3.9,2.4,1.2,0.3,8.6,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+0.70,5.46,majerda01,1989-90,PHO,13.5,5.5,.118,2.4,2.5,,NBA,,24,73,30.7,.424,.762,5.9,2.6,1.4,0.4,11.1,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+1.45,5.98,majerda01,1990-91,PHO,16.9,7.2,.152,3.7,3.3,,NBA,430000,25,77,29.6,.484,.762,5.4,2.8,1.4,0.5,13.6,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+2.12,9.17,majerda01,1991-92,PHO,17.8,9.8,.165,4.1,4.4,,NBA,535000,26,82,34.8,.478,.756,5.9,3.3,1.6,0.5,17.3,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+2.60,13.83,majerda01,1992-93,PHO,15.4,9.8,.147,4.0,4.9,,NBA,735000,27,82,39.0,.464,.778,4.7,3.8,1.7,0.4,16.9,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+1.05,8.10,majerda01,1993-94,PHO,13.7,7.3,.109,2.3,3.5,,NBA,2975000,28,80,40.1,.418,.739,4.4,3.4,1.6,0.5,16.5,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+1.36,8.22,majerda01,1994-95,PHO,15.1,7.7,.120,3.0,3.9,,NBA,3000000,29,82,37.7,.425,.730,4.6,4.1,1.2,0.5,15.6,PHO
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+0.43,4.49,majerda01,1995-96,CLE,15.1,5.5,.112,1.3,2.0,,NBA,3100000,30,82,28.9,.405,.710,3.7,2.6,1.0,0.4,10.6,CLE
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+0.91,3.84,majerda01,1996-97,MIA,13.2,3.5,.133,3.5,1.7,,NBA,2350000,31,36,35.1,.406,.678,4.5,3.2,1.5,0.4,10.8,MIA
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+0.51,3.77,majerda01,1997-98,MIA,12.2,5.3,.131,2.5,2.2,,NBA,2820000,32,72,26.8,.419,.784,3.7,2.2,0.9,0.2,7.2,MIA
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+0.46,3.33,majerda01,1998-99,MIA,10.2,3.5,.103,1.9,1.6,,NBA,3290000,33,48,33.8,.396,.717,4.3,3.1,0.8,0.1,7.0,MIA
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+1.41,6.79,majerda01,1999-00,MIA,11.4,6.1,.126,2.9,2.9,,NBA,3600000,34,69,33.4,.403,.812,4.8,3.0,1.3,0.2,7.3,MIA
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+0.61,2.73,majerda01,2000-01,MIA,9.4,2.6,.097,0.8,0.9,,NBA,4050000,35,53,24.6,.336,.818,3.1,1.7,1.0,0.3,5.0,MIA
+Dan Majerle,/players/m/majerda01.html,1989,2002,Central Michigan University,false,"Traverse City in Traverse City, Michigan",+1.04,2.68,majerda01,2001-02,PHO,10.3,2.1,.087,0.4,0.7,,NBA,1000000,36,65,18.2,.343,.590,2.7,1.4,0.7,0.2,4.6,PHO

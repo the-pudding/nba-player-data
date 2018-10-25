@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-rollitr01,1977-78,22,ATL,NBA,80,22.4,.487,.703,6.9,1.0,0.7,2.7,7.6,15.6,5.0,.133,2.5,2.1,,"Crisp County in Cordele, Georgia",
-rollitr01,1978-79,23,ATL,NBA,81,23.5,.535,.631,7.3,0.6,0.6,3.1,8.4,17.3,6.4,.163,3.3,2.5,,"Crisp County in Cordele, Georgia",
-rollitr01,1979-80,24,ATL,NBA,82,25.9,.558,.714,9.4,0.9,0.7,3.0,8.9,18.9,9.2,.208,5.3,3.9,,"Crisp County in Cordele, Georgia",
-rollitr01,1980-81,25,ATL,NBA,40,26.1,.552,.807,7.2,0.9,0.7,2.9,7.0,14.5,2.6,.120,3.0,1.3,,"Crisp County in Cordele, Georgia",
-rollitr01,1981-82,26,ATL,NBA,79,25.5,.584,.612,7.7,0.7,0.4,2.8,6.1,14.7,6.4,.153,3.1,2.6,,"Crisp County in Cordele, Georgia",
-rollitr01,1982-83,27,ATL,NBA,80,30.9,.510,.726,9.3,0.9,0.6,4.3,7.8,15.4,7.3,.142,3.6,3.5,,"Crisp County in Cordele, Georgia",
-rollitr01,1983-84,28,ATL,NBA,77,30.5,.518,.621,7.7,0.8,0.5,3.6,8.6,14.2,5.5,.113,2.3,2.5,,"Crisp County in Cordele, Georgia",
-rollitr01,1984-85,29,Atlanta Hawks,NBA,70,25.0,.549,.720,6.3,0.7,0.5,2.4,6.3,12.3,3.8,.105,1.3,1.5,,"Crisp County in Cordele, Georgia",678000
-rollitr01,1985-86,30,Atlanta Hawks,NBA,74,24.1,.499,.767,6.2,0.6,0.5,2.3,5.6,11.0,3.4,.093,1.3,1.5,,"Crisp County in Cordele, Georgia",743000
-rollitr01,1986-87,31,ATL,NBA,75,23.5,.546,.724,6.5,0.3,0.6,1.9,5.4,12.0,4.9,.134,2.1,1.8,,"Crisp County in Cordele, Georgia",
-rollitr01,1987-88,32,Atlanta Hawks,NBA,76,23.2,.512,.875,6.0,0.3,0.4,1.7,4.4,10.6,4.1,.112,0.6,1.2,,"Crisp County in Cordele, Georgia",1117000
-rollitr01,1988-89,33,Cleveland Cavaliers,NBA,60,9.7,.449,.632,2.3,0.3,0.2,0.6,2.3,8.8,1.0,.080,-3.0,-0.1,,"Crisp County in Cordele, Georgia",800000
-rollitr01,1989-90,34,CLE,NBA,48,14.0,.456,.688,3.2,0.5,0.3,1.1,2.6,8.8,0.7,.050,-2.2,0.0,,"Crisp County in Cordele, Georgia",
-rollitr01,1990-91,35,Detroit Pistons,NBA,37,5.5,.424,.571,1.1,0.1,0.1,0.5,1.0,5.9,0.1,.022,-3.5,-0.1,,"Crisp County in Cordele, Georgia",800000
-rollitr01,1991-92,36,Houston Rockets,NBA,59,11.8,.535,.867,2.9,0.3,0.2,1.1,2.0,11.2,1.7,.119,-0.5,0.3,,"Crisp County in Cordele, Georgia",375000
-rollitr01,1992-93,37,Houston Rockets,NBA,42,5.9,.268,.750,1.4,0.2,0.1,0.4,0.7,5.2,0.2,.030,-4.5,-0.2,,"Crisp County in Cordele, Georgia",500000
-rollitr01,1993-94,38,ORL,NBA,45,8.5,.547,.600,2.1,0.2,0.2,0.8,1.7,11.4,0.9,.113,-0.8,0.1,,"Crisp County in Cordele, Georgia",
-rollitr01,1994-95,39,Orlando Magic,NBA,51,9.4,.476,.677,1.9,0.2,0.1,0.7,1.2,7.0,0.5,.054,-2.2,0.0,,"Crisp County in Cordele, Georgia",735000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+2.65,6.42,rollitr01,1977-78,ATL,15.6,5.0,.133,2.5,2.1,,22,NBA,80,22.4,.487,.703,6.9,1.0,0.7,2.7,7.6,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+2.80,7.36,rollitr01,1978-79,ATL,17.3,6.4,.163,3.3,2.5,,23,NBA,81,23.5,.535,.631,7.3,0.6,0.6,3.1,8.4,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+3.95,9.63,rollitr01,1979-80,ATL,18.9,9.2,.208,5.3,3.9,,24,NBA,82,25.9,.558,.714,9.4,0.9,0.7,3.0,8.9,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+1.20,2.48,rollitr01,1980-81,ATL,14.5,2.6,.120,3.0,1.3,,25,NBA,40,26.1,.552,.807,7.2,0.9,0.7,2.9,7.0,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+2.50,6.83,rollitr01,1981-82,ATL,14.7,6.4,.153,3.1,2.6,,26,NBA,79,25.5,.584,.612,7.7,0.7,0.4,2.8,6.1,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+2.98,9.42,rollitr01,1982-83,ATL,15.4,7.3,.142,3.6,3.5,,27,NBA,80,30.9,.510,.726,9.3,0.9,0.6,4.3,7.8,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+1.31,6.11,rollitr01,1983-84,ATL,14.2,5.5,.113,2.3,2.5,,28,NBA,77,30.5,.518,.621,7.7,0.8,0.5,3.6,8.6,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+0.68,3.52,rollitr01,1984-85,ATL,12.3,3.8,.105,1.3,1.5,,29,NBA,70,25.0,.549,.720,6.3,0.7,0.5,2.4,6.3,ATL,678000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+0.70,4.11,rollitr01,1985-86,ATL,11.0,3.4,.093,1.3,1.5,,30,NBA,74,24.1,.499,.767,6.2,0.6,0.5,2.3,5.6,ATL,743000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+1.38,4.91,rollitr01,1986-87,ATL,12.0,4.9,.134,2.1,1.8,,31,NBA,75,23.5,.546,.724,6.5,0.3,0.6,1.9,5.4,ATL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",+0.40,3.80,rollitr01,1987-88,ATL,10.6,4.1,.112,0.6,1.2,,32,NBA,76,23.2,.512,.875,6.0,0.3,0.4,1.7,4.4,ATL,1117000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-1.08,0.52,rollitr01,1988-89,CLE,8.8,1.0,.080,-3.0,-0.1,,33,NBA,60,9.7,.449,.632,2.3,0.3,0.2,0.6,2.3,CLE,800000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-1.81,0.21,rollitr01,1989-90,CLE,8.8,0.7,.050,-2.2,0.0,,34,NBA,48,14.0,.456,.688,3.2,0.5,0.3,1.1,2.6,CLE,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-0.58,0.26,rollitr01,1990-91,DET,5.9,0.1,.022,-3.5,-0.1,,35,NBA,37,5.5,.424,.571,1.1,0.1,0.1,0.5,1.0,DET,800000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-0.57,0.80,rollitr01,1991-92,HOU,11.2,1.7,.119,-0.5,0.3,,36,NBA,59,11.8,.535,.867,2.9,0.3,0.2,1.1,2.0,HOU,375000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-1.33,0.16,rollitr01,1992-93,HOU,5.2,0.2,.030,-4.5,-0.2,,37,NBA,42,5.9,.268,.750,1.4,0.2,0.1,0.4,0.7,HOU,500000
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-0.43,0.52,rollitr01,1993-94,ORL,11.4,0.9,.113,-0.8,0.1,,38,NBA,45,8.5,.547,.600,2.1,0.2,0.2,0.8,1.7,ORL,
+Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false,"Crisp County in Cordele, Georgia",-2.49,-0.06,rollitr01,1994-95,ORL,7.0,0.5,.054,-2.2,0.0,,39,NBA,51,9.4,.476,.677,1.9,0.2,0.1,0.7,1.2,ORL,735000

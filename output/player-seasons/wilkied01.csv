@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-wilkied01,1984-85,22,NYK,NBA,54,17.0,.498,.541,4.9,0.3,0.4,0.3,5.5,9.5,0.8,.043,-5.2,-0.7,,"Cass in Cartersville, Georgia",
-wilkied01,1985-86,23,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,"Cass in Cartersville, Georgia",
-wilkied01,1986-87,24,NYK,NBA,24,18.9,.441,.466,4.5,0.3,0.4,0.1,5.8,7.0,-0.1,-0.012,-6.8,-0.6,,"Cass in Cartersville, Georgia",
-wilkied01,1987-88,25,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,,,,,,,,,"Cass in Cartersville, Georgia",
-wilkied01,1988-89,26,New York Knicks,NBA,71,8.2,.465,.550,2.1,0.1,0.1,0.2,4.1,10.2,0.3,.023,-8.7,-1.0,,"Cass in Cartersville, Georgia",330000
-wilkied01,1989-90,27,NYK,NBA,79,12.3,.455,.605,3.4,0.2,0.2,0.2,4.7,9.9,0.8,.040,-6.8,-1.2,,"Cass in Cartersville, Georgia",
-wilkied01,1990-91,28,New York Knicks,NBA,68,9.8,.447,.567,2.6,0.2,0.3,0.1,4.1,10.5,0.3,.019,-7.4,-0.9,,"Cass in Cartersville, Georgia",400000
-wilkied01,1991-92,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Cass in Cartersville, Georgia",
-wilkied01,1992-93,30,Philadelphia 76ers,NBA,26,7.4,.567,.615,1.5,0.1,0.3,0.0,6.1,21.2,0.5,.122,-7.3,-0.3,,"Cass in Cartersville, Georgia",500000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",-2.35,-0.06,wilkied01,1984-85,NYK,9.5,0.8,.043,-5.2,-0.7,,22,NBA,54,17.0,.498,.541,4.9,0.3,0.4,0.3,5.5,NYK,
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",,,wilkied01,1985-86,Did Not Play (injury—knee),,,,,,,23,,,,,,,,,,,Did Not Play (injury—knee),
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",-3.87,-0.48,wilkied01,1986-87,NYK,7.0,-0.1,-0.012,-6.8,-0.6,,24,NBA,24,18.9,.441,.466,4.5,0.3,0.4,0.1,5.8,NYK,
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",,,wilkied01,1987-88,"Did Not Play (other pro league—CBA, USBL)",,,,,,,25,,,,,,,,,,,"Did Not Play (other pro league—CBA, USBL)",
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",-3.37,-0.43,wilkied01,1988-89,NYK,10.2,0.3,.023,-8.7,-1.0,,26,NBA,71,8.2,.465,.550,2.1,0.1,0.1,0.2,4.1,NYK,330000
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",-3.14,-0.57,wilkied01,1989-90,NYK,9.9,0.8,.040,-6.8,-1.2,,27,NBA,79,12.3,.455,.605,3.4,0.2,0.2,0.2,4.7,NYK,
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",-2.93,-0.31,wilkied01,1990-91,NYK,10.5,0.3,.019,-7.4,-0.9,,28,NBA,68,9.8,.447,.567,2.6,0.2,0.3,0.1,4.1,NYK,400000
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",,,wilkied01,1991-92,Did Not Play (other pro league—Italy),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Eddie Lee Wilkins,/players/w/wilkied01.html,1985,1993,Gardner-Webb University,false,"Cass in Cartersville, Georgia",-0.41,0.24,wilkied01,1992-93,PHI,21.2,0.5,.122,-7.3,-0.3,,30,NBA,26,7.4,.567,.615,1.5,0.1,0.3,0.0,6.1,PHI,500000

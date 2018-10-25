@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kimbrst01,1989-90,23,DET,NBA,10,5.0,.438,1.000,0.7,0.5,0.4,0.0,1.6,12.1,0.1,.074,0.1,0.0,,"St. Joseph in Cleveland, Ohio",
-kimbrst01,1990-91,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"St. Joseph in Cleveland, Ohio",
-kimbrst01,1991-92,25,Did Not Play,,,,,,,,,,,,,,,,,"St. Joseph in Cleveland, Ohio",
-kimbrst01,1992-93,26,Sacramento Kings,NBA,3,5.0,.333,,0.0,0.3,0.3,0.0,1.7,8.2,0.0,.027,-7.9,0.0,,"St. Joseph in Cleveland, Ohio",133000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Stan Kimbrough,/players/k/kimbrst01.html,1990,1993,"University of Central Florida, Xavier University",false,"St. Joseph in Cleveland, Ohio",+0.58,0.10,kimbrst01,1989-90,DET,12.1,0.1,.074,0.1,0.0,,23,NBA,10,5.0,.438,1.000,0.7,0.5,0.4,0.0,1.6,DET,
+Stan Kimbrough,/players/k/kimbrst01.html,1990,1993,"University of Central Florida, Xavier University",false,"St. Joseph in Cleveland, Ohio",,,kimbrst01,1990-91,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Stan Kimbrough,/players/k/kimbrst01.html,1990,1993,"University of Central Florida, Xavier University",false,"St. Joseph in Cleveland, Ohio",,,kimbrst01,1991-92,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play,
+Stan Kimbrough,/players/k/kimbrst01.html,1990,1993,"University of Central Florida, Xavier University",false,"St. Joseph in Cleveland, Ohio",-0.02,0.02,kimbrst01,1992-93,SAC,8.2,0.0,.027,-7.9,0.0,,26,NBA,3,5.0,.333,,0.0,0.3,0.3,0.0,1.7,SAC,133000

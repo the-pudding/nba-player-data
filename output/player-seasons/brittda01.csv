@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-brittda01,1980-81,22,WSB,NBA,2,4.5,.667,,1.0,1.5,0.5,0.0,2.0,18.0,0.0,.093,1.3,0.0,,"Kennedy in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dave Britton,/players/b/brittda01.html,1981,1981,Texas A&M University,false,"Kennedy in Bronx, New York",+0.90,0.02,brittda01,1980-81,WSB,18.0,0.0,.093,1.3,0.0,,22,NBA,2,4.5,.667,,1.0,1.5,0.5,0.0,2.0,WSB

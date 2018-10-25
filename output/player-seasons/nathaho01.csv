@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-nathaho01,1995-96,24,ATL,NBA,5,3.0,.556,.750,0.0,0.4,0.6,0.0,2.6,11.3,-0.1,-0.370,-14.7,0.0,,"Manual in Peoria, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Howard Nathan,/players/n/nathaho01.html,1996,1996,"DePaul University, University of Louisiana at Monroe",false,"Manual in Peoria, Illinois",+0.12,0.02,nathaho01,1995-96,ATL,11.3,-0.1,-0.370,-14.7,0.0,,24,NBA,5,3.0,.556,.750,0.0,0.4,0.6,0.0,2.6,ATL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-walshma01,2005-06,23,Miami Heat,NBA,2,1.5,1.000,.000,0.0,0.0,0.0,0.0,1.0,-2.4,0.0,-0.642,-25.9,0.0,,38904,"Germantown Academy in Fort Washington, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Matt Walsh,/players/w/walshma01.html,2006,2006,University of Florida,false,"Germantown Academy in Fort Washington, Pennsylvania",-0.32,0.00,walshma01,2005-06,MIA,-2.4,0.0,-0.642,-25.9,0.0,,NBA,38904,23,2,1.5,1.000,.000,0.0,0.0,0.0,0.0,1.0,MIA

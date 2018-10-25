@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-porzikr01,2015-16,20,New York Knicks,NBA,72,28.4,.421,.838,7.3,1.3,0.7,1.9,14.3,17.7,4.4,.102,0.2,1.1,,4131720,
-porzikr01,2016-17,21,New York Knicks,NBA,66,32.8,.450,.786,7.2,1.5,0.7,2.0,18.1,17.4,4.5,.100,0.2,1.2,,4317720,
-porzikr01,2017-18,22,New York Knicks,NBA,48,32.4,.439,.793,6.6,1.2,0.8,2.4,22.7,20.4,3.2,.099,-0.7,0.5,,4503600,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kristaps Porzingis,/players/p/porzikr01.html,2016,2018,,true,,+2.03,5.99,porzikr01,2015-16,NYK,17.7,4.4,.102,0.2,1.1,,NBA,4131720,20,72,28.4,.421,.838,7.3,1.3,0.7,1.9,14.3,NYK
+Kristaps Porzingis,/players/p/porzikr01.html,2016,2018,,true,,+0.72,4.37,porzikr01,2016-17,NYK,17.4,4.5,.100,0.2,1.2,,NBA,4317720,21,66,32.8,.450,.786,7.2,1.5,0.7,2.0,18.1,NYK
+Kristaps Porzingis,/players/p/porzikr01.html,2016,2018,,true,,+2.42,4.91,porzikr01,2017-18,NYK,20.4,3.2,.099,-0.7,0.5,,NBA,4503600,22,48,32.4,.439,.793,6.6,1.2,0.8,2.4,22.7,NYK

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-keacl01,1980-81,21,DAL,NBA,16,12.4,.457,.694,4.2,0.3,0.4,0.1,7.3,17.3,0.5,.120,-5.0,-0.2,,"Hanover in Wilmington, North Carolina"
-keacl01,1981-82,22,DAL,NBA,35,7.1,.531,.690,1.7,0.4,0.1,0.1,2.3,11.0,0.5,.097,-2.4,0.0,,"Hanover in Wilmington, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Clarence Kea,/players/k/keacl01.html,1981,1982,Lamar University,false,"Hanover in Wilmington, North Carolina",+0.00,0.31,keacl01,1980-81,DAL,17.3,0.5,.120,-5.0,-0.2,,21,NBA,16,12.4,.457,.694,4.2,0.3,0.4,0.1,7.3,DAL
+Clarence Kea,/players/k/keacl01.html,1981,1982,Lamar University,false,"Hanover in Wilmington, North Carolina",-1.04,0.21,keacl01,1981-82,DAL,11.0,0.5,.097,-2.4,0.0,,22,NBA,35,7.1,.531,.690,1.7,0.4,0.1,0.1,2.3,DAL

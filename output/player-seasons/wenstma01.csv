@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wenstma01,1993-94,23,Boston Celtics,NBA,11,3.4,.600,.600,1.1,0.0,0.0,0.2,1.6,15.6,0.1,.098,-9.6,-0.1,,150000,"Mayde Creek in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Matt Wenstrom,/players/w/wenstma01.html,1994,1994,University of North Carolina,false,"Mayde Creek in Houston, Texas",+0.03,0.06,wenstma01,1993-94,BOS,15.6,0.1,.098,-9.6,-0.1,,NBA,150000,23,11,3.4,.600,.600,1.1,0.0,0.0,0.2,1.6,BOS

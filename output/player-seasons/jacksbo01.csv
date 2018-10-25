@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksbo01,1997-98,24,Denver Nuggets,NBA,68,30.0,.392,.814,4.4,4.7,1.5,0.2,11.6,13.6,-0.6,-0.014,-2.2,-0.1,,694920,"Salisbury in Salisbury, North Carolina"
-jacksbo01,1998-99,25,Minnesota Timberwolves,NBA,50,18.8,.405,.772,2.7,3.3,0.8,0.1,7.1,14.4,1.2,.062,-1.7,0.1,,799200,"Salisbury in Salisbury, North Carolina"
-jacksbo01,1999-00,26,Minnesota Timberwolves,NBA,73,14.2,.405,.776,2.1,2.4,0.7,0.1,5.1,14.6,2.2,.101,-0.6,0.4,,903360,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2000-01,27,Sacramento Kings,NBA,79,20.9,.439,.739,3.1,2.0,1.1,0.1,7.2,13.1,3.1,.091,0.0,0.8,,2250000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2001-02,28,Sacramento Kings,NBA,81,21.6,.443,.810,3.1,2.0,0.9,0.1,11.1,17.3,5.4,.148,1.3,1.5,,2475000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2002-03,29,Sacramento Kings,NBA,59,28.4,.464,.846,3.7,3.1,1.2,0.1,15.2,18.4,5.5,.157,2.4,1.9,,2700000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2003-04,30,Sacramento Kings,NBA,50,23.7,.444,.752,3.5,2.1,1.0,0.2,13.8,19.2,3.1,.124,1.0,0.9,,2925000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2004-05,31,Sacramento Kings,NBA,25,21.4,.427,.862,3.4,2.4,0.6,0.1,12.0,18.0,1.4,.126,-0.2,0.2,,3150000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2005-06,32,Memphis Grizzlies,NBA,71,25.0,.382,.733,3.1,2.7,0.9,0.0,11.4,14.6,3.5,.095,0.1,0.9,,3375000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2006-07,33,New Orleans/Oklahoma City Hornets,NBA,56,23.8,.394,.774,3.2,2.5,0.9,0.1,10.6,15.1,2.5,.088,0.1,0.7,,5259000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2007-08,34,Houston Rockets,NBA,72,19.3,.403,.790,2.5,1.9,0.6,0.1,7.7,13.5,3.0,.105,-0.1,0.7,,5670000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2007-08,34,Houston Rockets,NBA,46,19.4,.392,.816,2.4,1.7,0.7,0.1,7.1,12.9,1.9,.100,0.1,0.5,,5670000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2007-08,34,Houston Rockets,NBA,26,19.2,.419,.750,2.7,2.4,0.5,0.1,8.8,14.6,1.2,.114,-0.3,0.2,,5670000,"Salisbury in Salisbury, North Carolina"
-jacksbo01,2008-09,35,Sacramento Kings,NBA,71,20.9,.398,.851,2.8,2.0,0.9,0.1,7.5,12.4,1.2,.038,-2.2,-0.1,,6487888,"Salisbury in Salisbury, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-2.80,-0.75,jacksbo01,1997-98,DEN,13.6,-0.6,-0.014,-2.2,-0.1,,NBA,694920,24,68,30.0,.392,.814,4.4,4.7,1.5,0.2,11.6,DEN
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-1.17,0.68,jacksbo01,1998-99,MIN,14.4,1.2,.062,-1.7,0.1,,NBA,799200,25,50,18.8,.405,.772,2.7,3.3,0.8,0.1,7.1,MIN
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.25,1.45,jacksbo01,1999-00,MIN,14.6,2.2,.101,-0.6,0.4,,NBA,903360,26,73,14.2,.405,.776,2.1,2.4,0.7,0.1,5.1,MIN
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",+0.10,2.95,jacksbo01,2000-01,SAC,13.1,3.1,.091,0.0,0.8,,NBA,2250000,27,79,20.9,.439,.739,3.1,2.0,1.1,0.1,7.2,SAC
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.23,2.94,jacksbo01,2001-02,SAC,17.3,5.4,.148,1.3,1.5,,NBA,2475000,28,81,21.6,.443,.810,3.1,2.0,0.9,0.1,11.1,SAC
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.84,1.90,jacksbo01,2002-03,SAC,18.4,5.5,.157,2.4,1.9,,NBA,2700000,29,59,28.4,.464,.846,3.7,3.1,1.2,0.1,15.2,SAC
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.49,1.43,jacksbo01,2003-04,SAC,19.2,3.1,.124,1.0,0.9,,NBA,2925000,30,50,23.7,.444,.752,3.5,2.1,1.0,0.2,13.8,SAC
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.13,0.90,jacksbo01,2004-05,SAC,18.0,1.4,.126,-0.2,0.2,,NBA,3150000,31,25,21.4,.427,.862,3.4,2.4,0.6,0.1,12.0,SAC
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",+0.03,2.94,jacksbo01,2005-06,MEM,14.6,3.5,.095,0.1,0.9,,NBA,3375000,32,71,25.0,.382,.733,3.1,2.7,0.9,0.0,11.4,MEM
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",+0.28,2.30,jacksbo01,2006-07,NOK,15.1,2.5,.088,0.1,0.7,,NBA,5259000,33,56,23.8,.394,.774,3.2,2.5,0.9,0.1,10.6,NOK
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.02,2.33,jacksbo01,2007-08,TOT,13.5,3.0,.105,-0.1,0.7,,NBA,5670000,34,72,19.3,.403,.790,2.5,1.9,0.6,0.1,7.7,"NOH,HOU"
+Bobby Jackson,/players/j/jacksbo01.html,1998,2009,University of Minnesota,false,"Salisbury in Salisbury, North Carolina",-0.52,1.78,jacksbo01,2008-09,SAC,12.4,1.2,.038,-2.2,-0.1,,NBA,6487888,35,71,20.9,.398,.851,2.8,2.0,0.9,0.1,7.5,SAC

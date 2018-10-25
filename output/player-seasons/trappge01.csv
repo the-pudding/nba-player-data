@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-trappge01,1976-77,28,DET,NBA,6,11.3,.517,.750,1.7,0.5,0.0,0.2,5.5,11.5,0.1,.062,-5.5,-0.1,,"Highland Park in Highland Park, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+George Trapp,/players/t/trappge01.html,1972,1977,"California State University, Long Beach",false,"Highland Park in Highland Park, Michigan",-1.36,0.04,trappge01,1976-77,DET,11.5,0.1,.062,-5.5,-0.1,,28,NBA,6,11.3,.517,.750,1.7,0.5,0.0,0.2,5.5,DET

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-pressha01,1986-87,23,SAC,NBA,67,13.6,.423,.729,2.6,1.8,0.6,0.3,4.6,11.8,0.7,.035,-1.1,0.2,,"Saint Bernard in Uncasville, Connecticut",
-pressha01,1987-88,24,Sacramento Kings,NBA,80,25.4,.453,.792,4.6,2.3,1.1,0.7,9.7,12.7,2.2,.052,0.1,1.1,,"Saint Bernard in Uncasville, Connecticut",240000
-pressha01,1988-89,25,Sacramento Kings,NBA,80,28.2,.439,.780,6.1,2.2,1.2,1.0,12.3,15.7,4.8,.102,2.7,2.7,,"Saint Bernard in Uncasville, Connecticut",265000
-pressha01,1989-90,26,SAC,NBA,72,22.3,.424,.780,4.3,2.1,0.8,0.5,8.8,13.7,2.3,.069,-0.3,0.7,,"Saint Bernard in Uncasville, Connecticut",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Harold Pressley,/players/p/pressha01.html,1987,1990,Villanova University,false,"Saint Bernard in Uncasville, Connecticut",-1.46,0.52,pressha01,1986-87,SAC,11.8,0.7,.035,-1.1,0.2,,23,NBA,67,13.6,.423,.729,2.6,1.8,0.6,0.3,4.6,SAC,
+Harold Pressley,/players/p/pressha01.html,1987,1990,Villanova University,false,"Saint Bernard in Uncasville, Connecticut",-1.50,1.10,pressha01,1987-88,SAC,12.7,2.2,.052,0.1,1.1,,24,NBA,80,25.4,.453,.792,4.6,2.3,1.1,0.7,9.7,SAC,240000
+Harold Pressley,/players/p/pressha01.html,1987,1990,Villanova University,false,"Saint Bernard in Uncasville, Connecticut",-0.05,3.40,pressha01,1988-89,SAC,15.7,4.8,.102,2.7,2.7,,25,NBA,80,28.2,.439,.780,6.1,2.2,1.2,1.0,12.3,SAC,265000
+Harold Pressley,/players/p/pressha01.html,1987,1990,Villanova University,false,"Saint Bernard in Uncasville, Connecticut",-1.14,1.23,pressha01,1989-90,SAC,13.7,2.3,.069,-0.3,0.7,,26,NBA,72,22.3,.424,.780,4.3,2.1,0.8,0.5,8.8,SAC,

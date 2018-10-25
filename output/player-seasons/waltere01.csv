@@ -1,12 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-waltere01,1993-94,23,New Jersey Nets,NBA,48,8.0,.522,.824,0.8,1.5,0.3,0.1,3.4,16.2,1.2,.149,-1.1,0.1,,650000,"Independence in San Jose, California"
-waltere01,1994-95,24,New Jersey Nets,NBA,80,17.9,.439,.769,1.2,1.5,0.5,0.2,6.5,10.2,1.6,.052,-3.2,-0.4,,845000,"Independence in San Jose, California"
-waltere01,1995-96,25,Philadelphia 76ers,NBA,44,13.9,.412,.808,1.3,2.4,0.6,0.1,4.2,12.8,0.9,.068,-3.5,-0.2,,1040000,"Independence in San Jose, California"
-waltere01,1995-96,25,Philadelphia 76ers,NBA,11,7.9,.364,1.000,0.6,1.0,0.3,0.0,3.0,10.3,0.0,.017,-5.4,-0.1,,1040000,"Independence in San Jose, California"
-waltere01,1995-96,25,Philadelphia 76ers,NBA,33,15.8,.426,.783,1.5,2.9,0.7,0.1,4.6,13.2,0.8,.076,-3.2,-0.2,,1040000,"Independence in San Jose, California"
-waltere01,1996-97,26,Philadelphia 76ers,NBA,59,17.6,.455,.790,1.8,1.9,0.5,0.1,6.8,13.0,1.6,.073,-2.9,-0.2,,1235000,"Independence in San Jose, California"
-waltere01,1997-98,27,Philadelphia 76ers,NBA,38,6.2,.453,.929,0.6,0.9,0.2,0.0,2.1,11.8,0.4,.073,-3.9,-0.1,,1430000,"Independence in San Jose, California"
-waltere01,1997-98,27,Philadelphia 76ers,NBA,19,6.7,.379,1.000,0.5,1.1,0.3,0.0,2.2,9.7,0.1,.022,-6.0,-0.1,,1430000,"Independence in San Jose, California"
-waltere01,1997-98,27,Philadelphia 76ers,NBA,19,5.7,.542,.818,0.8,0.7,0.2,0.1,2.0,14.2,0.3,.134,-1.5,0.0,,1430000,"Independence in San Jose, California"
-waltere01,1998-99,28,Philadelphia 76ers,NBA,33,15.3,.368,.826,1.5,1.8,0.3,0.1,3.1,6.9,0.5,.046,-3.2,-0.2,,1625000,"Independence in San Jose, California"
-waltere01,1999-00,29,Miami Heat,NBA,33,11.8,.418,.750,1.1,2.0,0.2,0.0,2.8,8.0,0.3,.034,-5.8,-0.4,,1100000,"Independence in San Jose, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-0.21,0.54,waltere01,1993-94,NJN,16.2,1.2,.149,-1.1,0.1,,NBA,650000,23,48,8.0,.522,.824,0.8,1.5,0.3,0.1,3.4,NJN
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-2.44,-0.16,waltere01,1994-95,NJN,10.2,1.6,.052,-3.2,-0.4,,NBA,845000,24,80,17.9,.439,.769,1.2,1.5,0.5,0.2,6.5,NJN
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-1.58,0.28,waltere01,1995-96,TOT,12.8,0.9,.068,-3.5,-0.2,,NBA,1040000,25,44,13.9,.412,.808,1.3,2.4,0.6,0.1,4.2,"NJN,PHI"
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-2.25,0.04,waltere01,1996-97,PHI,13.0,1.6,.073,-2.9,-0.2,,NBA,1235000,26,59,17.6,.455,.790,1.8,1.9,0.5,0.1,6.8,PHI
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-0.89,0.22,waltere01,1997-98,TOT,11.8,0.4,.073,-3.9,-0.1,,NBA,1430000,27,38,6.2,.453,.929,0.6,0.9,0.2,0.0,2.1,"PHI,MIA"
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-2.23,-0.03,waltere01,1998-99,MIA,6.9,0.5,.046,-3.2,-0.2,,NBA,1625000,28,33,15.3,.368,.826,1.5,1.8,0.3,0.1,3.1,MIA
+Rex Walters,/players/w/waltere01.html,1994,2000,"Northwestern University, University of Kansas",false,"Independence in San Jose, California",-2.79,-0.17,waltere01,1999-00,MIA,8.0,0.3,.034,-5.8,-0.4,,NBA,1100000,29,33,11.8,.418,.750,1.1,2.0,0.2,0.0,2.8,MIA

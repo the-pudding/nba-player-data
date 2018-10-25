@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-taylois01,2016-17,22,Houston Rockets,NBA,4,13.0,.143,.500,0.8,0.8,0.3,0.3,0.8,0.3,0.0,-0.028,-6.5,-0.1,,305000,"The Village School in Houston, Texas"
-taylois01,2017-18,23,Atlanta Hawks,NBA,67,17.4,.418,.702,1.4,3.1,0.5,0.1,6.6,10.9,0.6,.027,-5.4,-1.0,,1312611,"The Village School in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Isaiah Taylor,/players/t/taylois01.html,2017,2018,University of Texas at Austin,true,"The Village School in Houston, Texas",-1.66,0.03,taylois01,2016-17,HOU,0.3,0.0,-0.028,-6.5,-0.1,,NBA,305000,22,4,13.0,.143,.500,0.8,0.8,0.3,0.3,0.8,HOU
+Isaiah Taylor,/players/t/taylois01.html,2017,2018,University of Texas at Austin,true,"The Village School in Houston, Texas",-1.19,0.85,taylois01,2017-18,ATL,10.9,0.6,.027,-5.4,-1.0,,NBA,1312611,23,67,17.4,.418,.702,1.4,3.1,0.5,0.1,6.6,ATL

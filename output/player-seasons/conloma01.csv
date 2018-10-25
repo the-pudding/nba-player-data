@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-conloma01,1991-92,24,Seattle SuperSonics,NBA,45,8.5,.475,.750,1.5,0.3,0.2,0.2,2.7,9.3,0.3,.037,-4.3,-0.2,,130000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1992-93,25,Sacramento Kings,NBA,46,10.2,.474,.704,2.7,0.8,0.3,0.1,4.8,15.9,1.0,.105,-2.1,0.0,,200000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1993-94,26,Sacramento Kings,NBA,30,19.3,.576,.811,4.6,1.1,0.3,0.3,7.8,15.0,1.4,.120,-1.0,0.2,,250000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1993-94,26,Sacramento Kings,NBA,16,23.6,.606,.816,5.6,1.8,0.3,0.4,10.2,16.7,1.1,.145,0.9,0.3,,250000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1993-94,26,Sacramento Kings,NBA,14,14.4,.518,.800,3.6,0.4,0.3,0.1,5.0,11.8,0.3,.073,-4.5,-0.1,,250000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1994-95,27,Milwaukee Bucks,NBA,82,25.2,.532,.613,5.2,1.3,0.5,0.2,9.9,13.6,3.1,.073,-1.9,0.1,,182500,"Archbishop Stepinac in White Plains, New York"
-conloma01,1995-96,28,Milwaukee Bucks,NBA,74,12.9,.468,.764,2.4,0.9,0.3,0.1,5.3,12.2,0.6,.028,-4.3,-0.6,,1165000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1996-97,29,Phoenix Suns,NBA,74,21.8,.471,.842,4.4,1.4,0.6,0.2,7.8,12.8,1.8,.053,-3.1,-0.4,,1200000,"Archbishop Stepinac in White Plains, New York"
-conloma01,1997-98,30,MIA,NBA,18,11.6,.452,.727,2.6,0.7,0.5,0.3,4.9,17.2,0.8,.177,0.0,0.1,,,"Archbishop Stepinac in White Plains, New York"
-conloma01,1998-99,31,Miami Heat,NBA,7,5.0,.231,1.000,0.7,0.1,0.0,0.1,1.1,-3.3,-0.1,-0.194,-15.1,-0.1,,662500,"Archbishop Stepinac in White Plains, New York"
-conloma01,1999-00,32,Boston Celtics,NBA,3,3.0,.500,,0.7,0.0,0.0,0.0,0.7,9.6,0.0,.060,-10.3,0.0,,229059,"Archbishop Stepinac in White Plains, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-3.04,-0.18,conloma01,1991-92,SEA,9.3,0.3,.037,-4.3,-0.2,,NBA,130000,24,45,8.5,.475,.750,1.5,0.3,0.2,0.2,2.7,SEA
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-1.05,0.39,conloma01,1992-93,SAC,15.9,1.0,.105,-2.1,0.0,,NBA,200000,25,46,10.2,.474,.704,2.7,0.8,0.3,0.1,4.8,SAC
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-1.91,0.15,conloma01,1993-94,TOT,15.0,1.4,.120,-1.0,0.2,,NBA,250000,26,30,19.3,.576,.811,4.6,1.1,0.3,0.3,7.8,"CHH,WSB"
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-2.54,-0.30,conloma01,1994-95,MIL,13.6,3.1,.073,-1.9,0.1,,NBA,182500,27,82,25.2,.532,.613,5.2,1.3,0.5,0.2,9.9,MIL
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-2.98,-0.42,conloma01,1995-96,MIL,12.2,0.6,.028,-4.3,-0.6,,NBA,1165000,28,74,12.9,.468,.764,2.4,0.9,0.3,0.1,5.3,MIL
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-3.40,-1.17,conloma01,1996-97,BOS,12.8,1.8,.053,-3.1,-0.4,,NBA,1200000,29,74,21.8,.471,.842,4.4,1.4,0.6,0.2,7.8,BOS
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-0.22,0.35,conloma01,1997-98,MIA,17.2,0.8,.177,0.0,0.1,,NBA,,30,18,11.6,.452,.727,2.6,0.7,0.5,0.3,4.9,MIA
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",+0.39,0.06,conloma01,1998-99,MIA,-3.3,-0.1,-0.194,-15.1,-0.1,,NBA,662500,31,7,5.0,.231,1.000,0.7,0.1,0.0,0.1,1.1,MIA
+Marty Conlon,/players/c/conloma01.html,1992,2000,Providence College,false,"Archbishop Stepinac in White Plains, New York",-0.05,0.01,conloma01,1999-00,LAC,9.6,0.0,.060,-10.3,0.0,,NBA,229059,32,3,3.0,.500,,0.7,0.0,0.0,0.0,0.7,LAC

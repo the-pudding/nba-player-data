@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-thompbe01,1984-85,22,POR,NBA,59,9.1,.373,.765,1.3,0.9,0.5,0.2,3.3,9.5,0.2,.022,-3.6,-0.2,,"South Mountain in Phoenix, Arizona",
-thompbe01,1985-86,23,Phoenix Suns,NBA,61,21.0,.489,.809,2.3,2.2,0.8,0.2,8.5,11.8,2.1,.080,-1.7,0.1,,"South Mountain in Phoenix, Arizona",120000
-thompbe01,1986-87,24,PHO,NBA,24,13.8,.400,.818,1.3,0.8,0.5,0.2,4.6,7.2,0.1,.019,-4.6,-0.2,,"South Mountain in Phoenix, Arizona",
-thompbe01,1987-88,25,Phoenix Suns,NBA,37,15.3,.465,.717,2.1,1.4,0.6,0.0,5.2,11.0,0.9,.074,-1.7,0.0,,"South Mountain in Phoenix, Arizona",150000
-thompbe01,1988-89,26,Houston Rockets,NBA,23,9.7,.339,.846,1.2,0.6,0.6,0.0,2.7,5.5,0.0,.000,-4.9,-0.2,,"South Mountain in Phoenix, Arizona",200000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Bernard Thompson,/players/t/thompbe01.html,1985,1989,"California State University, Fresno",false,"South Mountain in Phoenix, Arizona",-2.07,0.08,thompbe01,1984-85,POR,9.5,0.2,.022,-3.6,-0.2,,22,NBA,59,9.1,.373,.765,1.3,0.9,0.5,0.2,3.3,POR,
+Bernard Thompson,/players/t/thompbe01.html,1985,1989,"California State University, Fresno",false,"South Mountain in Phoenix, Arizona",-1.95,0.27,thompbe01,1985-86,PHO,11.8,2.1,.080,-1.7,0.1,,23,NBA,61,21.0,.489,.809,2.3,2.2,0.8,0.2,8.5,PHO,120000
+Bernard Thompson,/players/t/thompbe01.html,1985,1989,"California State University, Fresno",false,"South Mountain in Phoenix, Arizona",-3.09,-0.17,thompbe01,1986-87,PHO,7.2,0.1,.019,-4.6,-0.2,,24,NBA,24,13.8,.400,.818,1.3,0.8,0.5,0.2,4.6,PHO,
+Bernard Thompson,/players/t/thompbe01.html,1985,1989,"California State University, Fresno",false,"South Mountain in Phoenix, Arizona",-2.01,0.12,thompbe01,1987-88,PHO,11.0,0.9,.074,-1.7,0.0,,25,NBA,37,15.3,.465,.717,2.1,1.4,0.6,0.0,5.2,PHO,150000
+Bernard Thompson,/players/t/thompbe01.html,1985,1989,"California State University, Fresno",false,"South Mountain in Phoenix, Arizona",-1.58,0.09,thompbe01,1988-89,HOU,5.5,0.0,.000,-4.9,-0.2,,26,NBA,23,9.7,.339,.846,1.2,0.6,0.6,0.0,2.7,HOU,200000

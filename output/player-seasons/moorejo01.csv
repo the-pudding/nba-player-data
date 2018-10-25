@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-moorejo01,1980-81,22,SAS,NBA,82,19.2,.479,.610,2.4,4.5,1.5,0.3,7.4,15.8,3.2,.099,0.5,1.0,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1981-82,23,SAS,NBA,79,29.0,.463,.670,3.5,9.6,2.1,0.2,9.4,17.0,5.8,.122,1.3,1.9,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1982-83,24,SAS,NBA,77,33.1,.468,.744,3.6,9.8,2.5,0.4,12.2,17.5,6.6,.123,1.9,2.5,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1983-84,25,SAS,NBA,59,28.0,.446,.755,3.0,9.6,2.1,0.3,10.1,17.5,3.8,.110,1.3,1.4,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1984-85,26,San Antonio Spurs,NBA,82,32.8,.457,.762,4.6,10.0,2.8,0.2,12.8,18.3,7.2,.128,3.4,3.7,,"Altoona Area in Altoona, Pennsylvania",200000
-moorejo01,1985-86,27,San Antonio Spurs,NBA,28,30.6,.495,.686,3.1,9.0,2.5,0.2,13.0,18.3,2.1,.119,1.7,0.8,,"Altoona Area in Altoona, Pennsylvania",350000
-moorejo01,1986-87,28,SAS,NBA,55,22.4,.442,.800,1.8,4.5,1.5,0.1,8.6,13.4,1.2,.048,-2.3,-0.1,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1987-88,29,"SAS,NJN",NBA,5,12.2,.400,,1.2,2.4,0.6,0.0,1.6,5.9,-0.1,-0.077,-8.3,-0.1,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1988-89,30,Did Not Play (other pro league—Mexico),,,,,,,,,,,,,,,,,"Altoona Area in Altoona, Pennsylvania",
-moorejo01,1989-90,31,SAS,NBA,53,9.7,.373,.593,1.0,1.5,0.6,0.1,2.2,8.1,0.3,.029,-3.2,-0.2,,"Altoona Area in Altoona, Pennsylvania",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",+1.75,4.66,moorejo01,1980-81,SAS,15.8,3.2,.099,0.5,1.0,,22,NBA,82,19.2,.479,.610,2.4,4.5,1.5,0.3,7.4,SAS,
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",+3.82,10.46,moorejo01,1981-82,SAS,17.0,5.8,.122,1.3,1.9,,23,NBA,79,29.0,.463,.670,3.5,9.6,2.1,0.2,9.4,SAS,
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",+3.53,11.49,moorejo01,1982-83,SAS,17.5,6.6,.123,1.9,2.5,,24,NBA,77,33.1,.468,.744,3.6,9.8,2.5,0.4,12.2,SAS,
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",+2.01,4.70,moorejo01,1983-84,SAS,17.5,3.8,.110,1.3,1.4,,25,NBA,59,28.0,.446,.755,3.0,9.6,2.1,0.3,10.1,SAS,
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",+3.46,10.86,moorejo01,1984-85,SAS,18.3,7.2,.128,3.4,3.7,,26,NBA,82,32.8,.457,.762,4.6,10.0,2.8,0.2,12.8,SAS,200000
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",+1.54,2.22,moorejo01,1985-86,SAS,18.3,2.1,.119,1.7,0.8,,27,NBA,28,30.6,.495,.686,3.1,9.0,2.5,0.2,13.0,SAS,350000
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",-1.26,0.86,moorejo01,1986-87,SAS,13.4,1.2,.048,-2.3,-0.1,,28,NBA,55,22.4,.442,.800,1.8,4.5,1.5,0.1,8.6,SAS,
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",-0.65,0.07,moorejo01,1987-88,TOT,5.9,-0.1,-0.077,-8.3,-0.1,,29,NBA,5,12.2,.400,,1.2,2.4,0.6,0.0,1.6,"SAS,NJN",
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",,,moorejo01,1988-89,Did Not Play (other pro league—Mexico),,,,,,,30,,,,,,,,,,,Did Not Play (other pro league—Mexico),
+Johnny Moore,/players/m/moorejo01.html,1981,1990,University of Texas at Austin,false,"Altoona Area in Altoona, Pennsylvania",-1.78,0.18,moorejo01,1989-90,SAS,8.1,0.3,.029,-3.2,-0.2,,31,NBA,53,9.7,.373,.593,1.0,1.5,0.6,0.1,2.2,SAS,

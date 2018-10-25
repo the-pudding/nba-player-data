@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jetereu01,2010-11,27,Sacramento Kings,NBA,62,13.8,.409,.902,1.1,2.6,0.5,0.0,4.1,11.1,0.7,.037,-5.4,-0.7,,473604,"Junipero Serra in Gardena, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eugene Jeter,/players/j/jetereu01.html,2011,2011,University of Portland,false,"Junipero Serra in Gardena, California",-1.57,0.40,jetereu01,2010-11,SAC,11.1,0.7,.037,-5.4,-0.7,,NBA,473604,27,62,13.8,.409,.902,1.1,2.6,0.5,0.0,4.1,SAC

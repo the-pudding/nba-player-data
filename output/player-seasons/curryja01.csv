@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-curryja01,2009-10,24,Los Angeles Clippers,NBA,1,0.0,,,0.0,0.0,0.0,0.0,0.0,,0.0,,-6.9,0.0,,26917,"Eastern Alamance in Mebane, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+JamesOn Curry,/players/c/curryja01.html,2010,2010,Oklahoma State University,false,"Eastern Alamance in Mebane, North Carolina",-0.27,0.00,curryja01,2009-10,LAC,,0.0,,-6.9,0.0,,NBA,26917,24,1,0.0,,,0.0,0.0,0.0,0.0,0.0,LAC

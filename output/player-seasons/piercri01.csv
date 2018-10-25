@@ -1,21 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-piercri01,1982-83,23,DET,NBA,39,6.8,.375,.563,0.9,0.4,0.2,0.1,2.2,5.8,-0.1,-0.020,-6.9,-0.3,,"Garland in Garland, Texas",
-piercri01,1983-84,24,SDC,NBA,69,18.6,.470,.861,2.0,0.9,0.4,0.2,9.9,13.2,1.8,.067,-3.7,-0.5,,"Garland in Garland, Texas",
-piercri01,1984-85,25,Milwaukee Bucks,NBA,44,20.0,.537,.823,2.7,2.1,0.8,0.1,9.8,15.8,3.0,.162,1.3,0.7,,"Garland in Garland, Texas",140000
-piercri01,1985-86,26,Milwaukee Bucks,NBA,81,26.5,.538,.858,2.9,2.2,1.0,0.1,13.9,16.6,8.3,.186,2.4,2.4,,"Garland in Garland, Texas",150000
-piercri01,1986-87,27,MIL,NBA,79,31.7,.534,.880,3.4,1.8,0.8,0.3,19.5,18.5,9.4,.180,1.5,2.2,,"Garland in Garland, Texas",
-piercri01,1987-88,28,Milwaukee Bucks,NBA,37,26.1,.510,.877,2.2,2.0,0.6,0.2,16.4,16.6,2.2,.107,-1.6,0.1,,"Garland in Garland, Texas",225000
-piercri01,1988-89,29,Milwaukee Bucks,NBA,75,27.7,.518,.859,2.6,2.1,1.0,0.3,17.6,18.6,6.7,.155,0.8,1.5,,"Garland in Garland, Texas",250000
-piercri01,1989-90,30,MIL,NBA,59,29.0,.510,.839,2.8,2.3,0.8,0.1,23.0,21.9,5.8,.163,0.6,1.1,,"Garland in Garland, Texas",
-piercri01,1990-91,31,Seattle SuperSonics,NBA,78,27.8,.485,.913,2.4,2.2,0.8,0.2,20.5,21.0,7.9,.174,-0.2,1.0,,"Garland in Garland, Texas",1100000
-piercri01,1990-91,31,Seattle SuperSonics,NBA,46,28.8,.499,.907,2.5,2.1,0.8,0.2,22.5,22.7,5.3,.192,0.6,0.9,,"Garland in Garland, Texas",1100000
-piercri01,1990-91,31,Seattle SuperSonics,NBA,32,26.3,.463,.925,2.3,2.3,0.7,0.1,17.5,18.3,2.5,.145,-1.5,0.1,,"Garland in Garland, Texas",1100000
-piercri01,1991-92,32,Seattle SuperSonics,NBA,78,34.1,.475,.916,3.0,3.1,1.1,0.3,21.7,18.2,7.8,.142,0.6,1.8,,"Garland in Garland, Texas",1750000
-piercri01,1992-93,33,Seattle SuperSonics,NBA,77,28.8,.489,.889,2.5,2.9,1.3,0.1,18.2,19.2,7.7,.167,1.1,1.7,,"Garland in Garland, Texas",2000000
-piercri01,1993-94,34,Seattle SuperSonics,NBA,51,20.0,.471,.896,1.6,1.8,0.8,0.1,14.5,20.8,4.0,.188,-1.3,0.2,,"Garland in Garland, Texas",2100000
-piercri01,1994-95,35,Golden State Warriors,NBA,27,24.9,.437,.877,2.4,1.5,0.8,0.1,12.5,15.1,1.5,.107,-2.0,0.0,,"Garland in Garland, Texas",2500000
-piercri01,1995-96,36,Indiana Pacers,NBA,76,18.5,.447,.849,1.8,1.3,0.8,0.1,9.7,14.8,3.1,.107,-1.3,0.2,,"Garland in Garland, Texas",1000000
-piercri01,1996-97,37,Denver Nuggets,NBA,60,20.8,.481,.897,2.0,1.3,0.5,0.2,11.0,16.4,2.7,.105,-2.3,-0.1,,"Garland in Garland, Texas",1200000
-piercri01,1996-97,37,Denver Nuggets,NBA,33,18.2,.462,.902,1.6,0.9,0.4,0.2,10.2,15.3,0.9,.069,-4.5,-0.4,,"Garland in Garland, Texas",1200000
-piercri01,1996-97,37,Denver Nuggets,NBA,27,24.1,.502,.889,2.5,1.8,0.5,0.1,12.0,17.3,1.9,.139,-0.3,0.3,,"Garland in Garland, Texas",1200000
-piercri01,1997-98,38,MIL,NBA,39,11.3,.364,.827,1.2,0.9,0.2,0.0,3.9,9.8,0.3,.033,-5.7,-0.4,,"Garland in Garland, Texas",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-2.70,-0.09,piercri01,1982-83,DET,5.8,-0.1,-0.020,-6.9,-0.3,,23,NBA,39,6.8,.375,.563,0.9,0.4,0.2,0.1,2.2,DET,
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-2.61,-0.20,piercri01,1983-84,SDC,13.2,1.8,.067,-3.7,-0.5,,24,NBA,69,18.6,.470,.861,2.0,0.9,0.4,0.2,9.9,SDC,
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-0.78,1.09,piercri01,1984-85,MIL,15.8,3.0,.162,1.3,0.7,,25,NBA,44,20.0,.537,.823,2.7,2.1,0.8,0.1,9.8,MIL,140000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",+1.02,5.50,piercri01,1985-86,MIL,16.6,8.3,.186,2.4,2.4,,26,NBA,81,26.5,.538,.858,2.9,2.2,1.0,0.1,13.9,MIL,150000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",+0.58,5.44,piercri01,1986-87,MIL,18.5,9.4,.180,1.5,2.2,,27,NBA,79,31.7,.534,.880,3.4,1.8,0.8,0.3,19.5,MIL,
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-1.63,0.48,piercri01,1987-88,MIL,16.6,2.2,.107,-1.6,0.1,,28,NBA,37,26.1,.510,.877,2.2,2.0,0.6,0.2,16.4,MIL,225000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",+0.94,5.13,piercri01,1988-89,MIL,18.6,6.7,.155,0.8,1.5,,29,NBA,75,27.7,.518,.859,2.6,2.1,1.0,0.3,17.6,MIL,250000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",+0.38,3.28,piercri01,1989-90,MIL,21.9,5.8,.163,0.6,1.1,,30,NBA,59,29.0,.510,.839,2.8,2.3,0.8,0.1,23.0,MIL,
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-0.12,3.34,piercri01,1990-91,TOT,21.0,7.9,.174,-0.2,1.0,,31,NBA,78,27.8,.485,.913,2.4,2.2,0.8,0.2,20.5,"MIL,SEA",1100000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",+0.66,5.87,piercri01,1991-92,SEA,18.2,7.8,.142,0.6,1.8,,32,NBA,78,34.1,.475,.916,3.0,3.1,1.1,0.3,21.7,SEA,1750000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",+1.69,7.44,piercri01,1992-93,SEA,19.2,7.7,.167,1.1,1.7,,33,NBA,77,28.8,.489,.889,2.5,2.9,1.3,0.1,18.2,SEA,2000000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-0.05,1.65,piercri01,1993-94,SEA,20.8,4.0,.188,-1.3,0.2,,34,NBA,51,20.0,.471,.896,1.6,1.8,0.8,0.1,14.5,SEA,2100000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-1.20,0.50,piercri01,1994-95,GSW,15.1,1.5,.107,-2.0,0.0,,35,NBA,27,24.9,.437,.877,2.4,1.5,0.8,0.1,12.5,GSW,2500000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-0.50,1.86,piercri01,1995-96,IND,14.8,3.1,.107,-1.3,0.2,,36,NBA,76,18.5,.447,.849,1.8,1.3,0.8,0.1,9.7,IND,1000000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-1.99,0.30,piercri01,1996-97,TOT,16.4,2.7,.105,-2.3,-0.1,,37,NBA,60,20.8,.481,.897,2.0,1.3,0.5,0.2,11.0,"DEN,CHH",1200000
+Ricky Pierce,/players/p/piercri01.html,1983,1998,Rice University,false,"Garland in Garland, Texas",-2.95,-0.22,piercri01,1997-98,MIL,9.8,0.3,.033,-5.7,-0.4,,38,NBA,39,11.3,.364,.827,1.2,0.9,0.2,0.0,3.9,MIL,

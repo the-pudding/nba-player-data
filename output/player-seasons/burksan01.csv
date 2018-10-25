@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-burksan01,2004-05,24,Memphis Grizzlies,NBA,24,9.1,.467,.737,0.5,1.2,0.5,0.0,3.0,12.8,0.5,.103,-2.5,0.0,,385277,"Booker T. Washington in Memphis, Tennessee"
-burksan01,2005-06,25,Memphis Grizzlies,NBA,57,10.0,.354,.435,0.6,1.3,0.4,0.0,2.0,5.1,-0.4,-0.033,-8.2,-0.9,,641748,"Booker T. Washington in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antonio Burks,/players/b/burksan01.html,2005,2006,University of Memphis,false,"Booker T. Washington in Memphis, Tennessee",-1.14,0.17,burksan01,2004-05,MEM,12.8,0.5,.103,-2.5,0.0,,NBA,385277,24,24,9.1,.467,.737,0.5,1.2,0.5,0.0,3.0,MEM
+Antonio Burks,/players/b/burksan01.html,2005,2006,University of Memphis,false,"Booker T. Washington in Memphis, Tennessee",-3.03,-0.36,burksan01,2005-06,MEM,5.1,-0.4,-0.033,-8.2,-0.9,,NBA,641748,25,57,10.0,.354,.435,0.6,1.3,0.4,0.0,2.0,MEM

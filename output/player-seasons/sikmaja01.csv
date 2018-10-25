@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-sikmaja01,1977-78,22,SEA,NBA,82,27.3,.455,.777,8.3,1.6,0.8,0.5,10.7,13.5,5.4,.115,-0.2,1.0,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1978-79,23,SEA,NBA,82,36.1,.460,.814,12.4,3.2,1.0,0.8,15.6,16.3,8.8,.143,2.1,3.1,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1979-80,24,SEA,NBA,82,34.1,.475,.805,11.1,3.4,0.8,0.9,14.3,16.5,8.6,.148,1.9,2.8,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1980-81,25,SEA,NBA,82,35.6,.454,.823,10.4,3.0,1.0,1.1,18.7,18.0,8.0,.132,1.5,2.6,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1981-82,26,SEA,NBA,82,37.2,.479,.855,12.7,3.4,1.2,1.3,19.6,20.6,12.6,.199,4.1,4.7,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1982-83,27,SEA,NBA,75,34.2,.464,.837,11.4,3.1,1.2,0.9,18.2,19.6,9.8,.183,3.2,3.4,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1983-84,28,SEA,NBA,82,36.5,.499,.856,11.1,4.0,1.2,1.1,19.1,19.7,9.7,.156,4.0,4.5,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1984-85,29,Seattle SuperSonics,NBA,68,35.3,.489,.852,10.6,4.2,1.2,1.3,18.5,20.4,8.3,.166,4.5,4.0,,"Saint Anne in Saint Anne, Illinois",1149000
-sikmaja01,1985-86,30,Seattle SuperSonics,NBA,80,34.9,.462,.864,9.4,3.8,1.2,0.9,17.1,17.6,7.8,.134,2.5,3.2,,"Saint Anne in Saint Anne, Illinois",1600000
-sikmaja01,1986-87,31,MIL,NBA,82,30.9,.463,.847,10.0,2.5,1.1,1.1,12.7,16.0,7.4,.141,2.1,2.6,,"Saint Anne in Saint Anne, Illinois",
-sikmaja01,1987-88,32,Milwaukee Bucks,NBA,82,35.6,.486,.922,8.6,3.4,1.1,1.0,16.5,17.4,9.4,.154,3.5,4.1,,"Saint Anne in Saint Anne, Illinois",1600000
-sikmaja01,1988-89,33,Milwaukee Bucks,NBA,80,32.3,.431,.905,7.8,3.6,1.1,0.8,13.4,15.8,8.1,.151,3.6,3.7,,"Saint Anne in Saint Anne, Illinois",1600000
-sikmaja01,1989-90,34,Milwaukee Bucks,NBA,71,31.7,.416,.885,6.9,3.2,1.1,0.7,13.9,14.7,5.0,.107,1.0,1.7,,"Saint Anne in Saint Anne, Illinois",1200000
-sikmaja01,1990-91,35,Milwaukee Bucks,NBA,77,25.2,.427,.843,5.7,1.9,0.8,0.8,10.4,13.7,3.5,.088,-0.3,0.8,,"Saint Anne in Saint Anne, Illinois",1600000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+0.29,5.16,sikmaja01,1977-78,SEA,13.5,5.4,.115,-0.2,1.0,,22,NBA,82,27.3,.455,.777,8.3,1.6,0.8,0.5,10.7,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+2.01,10.74,sikmaja01,1978-79,SEA,16.3,8.8,.143,2.1,3.1,,23,NBA,82,36.1,.460,.814,12.4,3.2,1.0,0.8,15.6,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+1.82,9.36,sikmaja01,1979-80,SEA,16.5,8.6,.148,1.9,2.8,,24,NBA,82,34.1,.475,.805,11.1,3.4,0.8,0.9,14.3,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+1.67,7.89,sikmaja01,1980-81,SEA,18.0,8.0,.132,1.5,2.6,,25,NBA,82,35.6,.454,.823,10.4,3.0,1.0,1.1,18.7,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+4.22,14.80,sikmaja01,1981-82,SEA,20.6,12.6,.199,4.1,4.7,,26,NBA,82,37.2,.479,.855,12.7,3.4,1.2,1.3,19.6,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+3.06,9.61,sikmaja01,1982-83,SEA,19.6,9.8,.183,3.2,3.4,,27,NBA,75,34.2,.464,.837,11.4,3.1,1.2,0.9,18.2,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+2.72,10.67,sikmaja01,1983-84,SEA,19.7,9.7,.156,4.0,4.5,,28,NBA,82,36.5,.499,.856,11.1,4.0,1.2,1.1,19.1,SEA,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+2.70,8.11,sikmaja01,1984-85,SEA,20.4,8.3,.166,4.5,4.0,,29,NBA,68,35.3,.489,.852,10.6,4.2,1.2,1.3,18.5,SEA,1149000
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+2.28,8.63,sikmaja01,1985-86,SEA,17.6,7.8,.134,2.5,3.2,,30,NBA,80,34.9,.462,.864,9.4,3.8,1.2,0.9,17.1,SEA,1600000
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+2.25,9.05,sikmaja01,1986-87,MIL,16.0,7.4,.141,2.1,2.6,,31,NBA,82,30.9,.463,.847,10.0,2.5,1.1,1.1,12.7,MIL,
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+1.98,8.93,sikmaja01,1987-88,MIL,17.4,9.4,.154,3.5,4.1,,32,NBA,82,35.6,.486,.922,8.6,3.4,1.1,1.0,16.5,MIL,1600000
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+2.31,8.90,sikmaja01,1988-89,MIL,15.8,8.1,.151,3.6,3.7,,33,NBA,80,32.3,.431,.905,7.8,3.6,1.1,0.8,13.4,MIL,1600000
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+0.43,4.34,sikmaja01,1989-90,MIL,14.7,5.0,.107,1.0,1.7,,34,NBA,71,31.7,.416,.885,6.9,3.2,1.1,0.7,13.9,MIL,1200000
+Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false,"Saint Anne in Saint Anne, Illinois",+0.16,3.28,sikmaja01,1990-91,MIL,13.7,3.5,.088,-0.3,0.8,,35,NBA,77,25.2,.427,.843,5.7,1.9,0.8,0.8,10.4,MIL,1600000

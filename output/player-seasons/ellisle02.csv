@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ellisle02,1991-92,22,Los Angeles Clippers,NBA,29,3.6,.340,.474,0.8,0.0,0.2,0.3,1.5,8.6,-0.2,-0.100,-10.2,-0.2,,180000,"Mater Dei in Santa Ana, California"
-ellisle02,1992-93,23,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,,,,,,,,,,"Mater Dei in Santa Ana, California"
-ellisle02,1993-94,24,Charlotte Hornets,NBA,50,13.6,.484,.662,3.8,0.5,0.3,0.5,4.4,13.5,1.6,.111,-1.7,0.0,,150000,"Mater Dei in Santa Ana, California"
-ellisle02,1994-95,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Mater Dei in Santa Ana, California"
-ellisle02,1995-96,26,Miami Heat,NBA,12,6.2,.227,.500,0.7,0.3,0.2,0.3,1.1,1.6,-0.1,-0.081,-7.5,-0.1,,400000,"Mater Dei in Santa Ana, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+LeRon Ellis,/players/e/ellisle02.html,1992,1996,"University of Kentucky, Syracuse University",false,"Mater Dei in Santa Ana, California",-0.28,0.14,ellisle02,1991-92,LAC,8.6,-0.2,-0.100,-10.2,-0.2,,NBA,180000,22,29,3.6,.340,.474,0.8,0.0,0.2,0.3,1.5,LAC
+LeRon Ellis,/players/e/ellisle02.html,1992,1996,"University of Kentucky, Syracuse University",false,"Mater Dei in Santa Ana, California",,,ellisle02,1992-93,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,23,,,,,,,,,,"Did Not Play (other pro league—CBA, Italy)"
+LeRon Ellis,/players/e/ellisle02.html,1992,1996,"University of Kentucky, Syracuse University",false,"Mater Dei in Santa Ana, California",-0.98,0.60,ellisle02,1993-94,CHH,13.5,1.6,.111,-1.7,0.0,,NBA,150000,24,50,13.6,.484,.662,3.8,0.5,0.3,0.5,4.4,CHH
+LeRon Ellis,/players/e/ellisle02.html,1992,1996,"University of Kentucky, Syracuse University",false,"Mater Dei in Santa Ana, California",,,ellisle02,1994-95,Did Not Play (other pro league—Spain),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Spain)
+LeRon Ellis,/players/e/ellisle02.html,1992,1996,"University of Kentucky, Syracuse University",false,"Mater Dei in Santa Ana, California",+0.47,0.14,ellisle02,1995-96,MIA,1.6,-0.1,-0.081,-7.5,-0.1,,NBA,400000,26,12,6.2,.227,.500,0.7,0.3,0.2,0.3,1.1,MIA

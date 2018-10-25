@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-moultar01,2012-13,22,Philadelphia 76ers,NBA,47,11.5,.582,.643,3.1,0.2,0.4,0.2,3.7,16.7,1.7,.149,-1.7,0.0,,1042320,"Raleigh Egypt in Memphis, Tennessee"
-moultar01,2013-14,23,Philadelphia 76ers,NBA,12,15.6,.421,.800,2.9,0.2,0.7,0.3,3.0,6.7,0.0,.007,-7.0,-0.2,,1089240,"Raleigh Egypt in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Arnett Moultrie,/players/m/moultar01.html,2013,2014,"University of Texas at El Paso, Mississippi State University",false,"Raleigh Egypt in Memphis, Tennessee",-1.79,0.17,moultar01,2012-13,PHI,16.7,1.7,.149,-1.7,0.0,,NBA,1042320,22,47,11.5,.582,.643,3.1,0.2,0.4,0.2,3.7,PHI
+Arnett Moultrie,/players/m/moultar01.html,2013,2014,"University of Texas at El Paso, Mississippi State University",false,"Raleigh Egypt in Memphis, Tennessee",-1.15,0.14,moultar01,2013-14,PHI,6.7,0.0,.007,-7.0,-0.2,,NBA,1089240,23,12,15.6,.421,.800,2.9,0.2,0.7,0.3,3.0,PHI

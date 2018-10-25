@@ -1,12 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-crowdja01,2012-13,22,Dallas Mavericks,NBA,78,17.3,.384,.644,2.4,1.2,0.8,0.2,5.0,10.2,1.5,.055,-0.5,0.5,,600491,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2013-14,23,Dallas Mavericks,NBA,78,16.1,.439,.754,2.5,0.8,0.8,0.3,4.6,11.9,2.3,.089,0.6,0.8,,788872,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2014-15,24,Boston Celtics,NBA,82,20.1,.420,.773,3.6,1.1,0.9,0.3,7.7,13.9,3.9,.113,0.6,1.1,,915243,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2014-15,24,Boston Celtics,NBA,25,10.6,.434,.909,1.2,0.5,0.6,0.2,3.6,12.7,0.5,.098,1.1,0.2,,915243,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2014-15,24,Boston Celtics,NBA,57,24.2,.418,.762,4.6,1.4,1.0,0.4,9.5,14.1,3.3,.116,0.5,0.9,,915243,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2015-16,25,Boston Celtics,NBA,73,31.6,.443,.820,5.1,1.8,1.7,0.5,14.2,15.8,7.3,.152,2.8,2.8,,6000000,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2016-17,26,Boston Celtics,NBA,72,32.4,.463,.811,5.8,2.2,1.0,0.3,13.9,14.9,6.7,.137,1.6,2.1,,6286408,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2017-18,27,Utah Jazz,NBA,80,26.1,.404,.818,3.4,1.2,0.8,0.3,9.7,10.4,2.6,.060,-1.7,0.1,,6796117,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2017-18,27,Utah Jazz,NBA,53,25.4,.418,.848,3.3,1.1,0.8,0.2,8.6,10.2,1.7,.059,-1.8,0.1,,6796117,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2017-18,27,Utah Jazz,NBA,27,27.6,.386,.768,3.8,1.5,0.9,0.3,11.8,10.8,0.9,.060,-1.6,0.1,,6796117,"Villa Rica in Villa Rica, Georgia"
-crowdja01,2018-19,28,UTA,NBA,4,30.5,.394,.800,6.5,1.8,0.8,0.0,13.5,16.9,0.6,.223,5.5,0.2,,,"Villa Rica in Villa Rica, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",-0.26,1.84,crowdja01,2012-13,DAL,10.2,1.5,.055,-0.5,0.5,,NBA,600491,22,78,17.3,.384,.644,2.4,1.2,0.8,0.2,5.0,DAL
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",+2.80,4.57,crowdja01,2013-14,DAL,11.9,2.3,.089,0.6,0.8,,NBA,788872,23,78,16.1,.439,.754,2.5,0.8,0.8,0.3,4.6,DAL
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",+0.59,3.40,crowdja01,2014-15,TOT,13.9,3.9,.113,0.6,1.1,,NBA,915243,24,82,20.1,.420,.773,3.6,1.1,0.9,0.3,7.7,"DAL,BOS"
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",+1.79,6.95,crowdja01,2015-16,BOS,15.8,7.3,.152,2.8,2.8,,NBA,6000000,25,73,31.6,.443,.820,5.1,1.8,1.7,0.5,14.2,BOS
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",+3.07,10.27,crowdja01,2016-17,BOS,14.9,6.7,.137,1.6,2.1,,NBA,6286408,26,72,32.4,.463,.811,5.8,2.2,1.0,0.3,13.9,BOS
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",-1.33,1.58,crowdja01,2017-18,TOT,10.4,2.6,.060,-1.7,0.1,,NBA,6796117,27,80,26.1,.404,.818,3.4,1.2,0.8,0.3,9.7,"CLE,UTA"
+Jae Crowder,/players/c/crowdja01.html,2013,2019,Marquette University,true,"Villa Rica in Villa Rica, Georgia",,,crowdja01,2018-19,UTA,16.9,0.6,.223,5.5,0.2,,NBA,,28,4,30.5,.394,.800,6.5,1.8,0.8,0.0,13.5,UTA

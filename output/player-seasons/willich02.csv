@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willich02,1976-77,30,"DEN,BUF",NBA,65,13.3,.371,.782,1.6,2.0,0.5,0.0,3.4,10.2,0.6,.035,-4.6,-0.6,,
-willich02,1977-78,31,BUF,NBA,73,27.4,.477,.826,1.9,4.3,0.7,0.1,7.3,9.5,1.3,.031,-3.8,-0.9,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chuck Williams,/players/w/willich02.html,1971,1978,University of Colorado,false,,-2.13,-0.02,willich02,1976-77,TOT,10.2,0.6,.035,-4.6,-0.6,,30,NBA,65,13.3,.371,.782,1.6,2.0,0.5,0.0,3.4,"DEN,BUF"
+Chuck Williams,/players/w/willich02.html,1971,1978,University of Colorado,false,,-2.63,-0.61,willich02,1977-78,BUF,9.5,1.3,.031,-3.8,-0.9,,31,NBA,73,27.4,.477,.826,1.9,4.3,0.7,0.1,7.3,BUF

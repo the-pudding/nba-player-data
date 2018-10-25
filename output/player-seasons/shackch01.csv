@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-shackch01,1988-89,22,New Jersey Nets,NBA,60,8.1,.494,.500,2.6,0.4,0.3,0.3,3.1,13.9,0.8,.076,-3.0,-0.1,,150000,"Kinston in Kinston, North Carolina"
-shackch01,1989-90,23,NJN,NBA,70,22.2,.462,.687,6.8,0.8,0.6,0.5,8.2,12.3,1.5,.046,-3.5,-0.6,,,"Kinston in Kinston, North Carolina"
-shackch01,1990-91,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-shackch01,1991-92,25,Philadelphia 76ers,NBA,72,19.4,.486,.663,5.8,0.6,0.5,0.7,6.6,13.4,2.7,.093,-2.1,-0.1,,1332000,"Kinston in Kinston, North Carolina"
-shackch01,1992-93,26,Philadelphia 76ers,NBA,48,11.8,.488,.633,4.3,0.5,0.3,0.5,4.0,13.1,0.9,.073,-3.5,-0.2,,1720000,"Kinston in Kinston, North Carolina"
-shackch01,1993-94,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-shackch01,1994-95,28,Minnesota Timberwolves,NBA,21,11.4,.600,.800,3.2,0.4,0.4,0.3,4.5,16.6,0.8,.160,-1.6,0.0,,650000,"Kinston in Kinston, North Carolina"
-shackch01,1995-96,29,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-shackch01,1996-97,30,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-shackch01,1997-98,31,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-shackch01,1998-99,32,CHH,NBA,32,11.5,.489,.655,4.0,0.4,0.2,0.4,3.3,12.1,0.7,.086,-3.7,-0.2,,,"Kinston in Kinston, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",-1.12,0.37,shackch01,1988-89,NJN,13.9,0.8,.076,-3.0,-0.1,,NBA,150000,22,60,8.1,.494,.500,2.6,0.4,0.3,0.3,3.1,NJN
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",-3.03,-0.85,shackch01,1989-90,NJN,12.3,1.5,.046,-3.5,-0.6,,NBA,,23,70,22.2,.462,.687,6.8,0.8,0.6,0.5,8.2,NJN
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",,,shackch01,1990-91,Did Not Play (other pro league—Italy),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—Italy)
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",-1.10,1.13,shackch01,1991-92,PHI,13.4,2.7,.093,-2.1,-0.1,,NBA,1332000,25,72,19.4,.486,.663,5.8,0.6,0.5,0.7,6.6,PHI
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",-1.64,0.24,shackch01,1992-93,PHI,13.1,0.9,.073,-3.5,-0.2,,NBA,1720000,26,48,11.8,.488,.633,4.3,0.5,0.3,0.5,4.0,PHI
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",,,shackch01,1993-94,Did Not Play (other pro league—Italy),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—Italy)
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",-0.21,0.34,shackch01,1994-95,MIN,16.6,0.8,.160,-1.6,0.0,,NBA,650000,28,21,11.4,.600,.800,3.2,0.4,0.4,0.3,4.5,MIN
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",,,shackch01,1995-96,Did Not Play (other pro league—Turkey),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Turkey)
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",,,shackch01,1996-97,Did Not Play (other pro league—Greece),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Greece)
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",,,shackch01,1997-98,Did Not Play (other pro league—Greece),,,,,,,,,31,,,,,,,,,,Did Not Play (other pro league—Greece)
+Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false,"Kinston in Kinston, North Carolina",-1.58,0.15,shackch01,1998-99,CHH,12.1,0.7,.086,-3.7,-0.2,,NBA,,32,32,11.5,.489,.655,4.0,0.4,0.2,0.4,3.3,CHH

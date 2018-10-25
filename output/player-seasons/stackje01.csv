@@ -1,21 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stackje01,1995-96,21,Philadelphia 76ers,NBA,72,37.5,.414,.747,3.7,3.9,1.1,1.1,19.2,14.8,1.2,.021,-1.4,0.4,,1987000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,1996-97,22,Philadelphia 76ers,NBA,81,39.1,.407,.766,4.2,3.1,1.1,0.8,20.7,14.1,2.1,.032,-2.0,0.0,,2286000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,1997-98,23,Philadelphia 76ers,NBA,79,32.2,.435,.787,3.4,3.1,1.1,0.7,15.8,16.2,4.7,.089,0.4,1.5,,2583360,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,1997-98,23,Philadelphia 76ers,NBA,22,34.0,.452,.802,3.5,3.0,1.4,1.0,16.0,14.9,0.9,.056,-0.5,0.3,,2583360,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,1997-98,23,Philadelphia 76ers,NBA,57,31.5,.428,.782,3.3,3.1,1.0,0.7,15.7,16.8,3.8,.103,0.7,1.2,,2583360,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,1998-99,24,Detroit Pistons,NBA,42,28.3,.371,.850,2.5,2.8,0.8,0.5,14.5,15.2,1.9,.076,-1.9,0.0,,3887000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,1999-00,25,Detroit Pistons,NBA,82,38.4,.428,.815,3.8,4.5,1.3,0.4,23.6,18.9,7.3,.111,0.6,2.0,,4781250,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2000-01,26,Detroit Pistons,NBA,80,40.2,.402,.822,3.9,5.1,1.2,0.7,29.8,21.8,9.2,.137,3.7,4.6,,5310000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2001-02,27,Detroit Pistons,NBA,76,35.3,.397,.858,4.1,5.3,1.0,0.5,21.4,19.0,5.8,.104,0.7,1.9,,5843750,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2002-03,28,Washington Wizards,NBA,70,39.2,.409,.878,3.7,4.5,0.9,0.4,21.5,18.7,6.5,.114,0.7,1.9,,6375000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2003-04,29,Washington Wizards,NBA,26,29.8,.399,.806,3.6,4.0,0.9,0.1,13.9,13.2,0.2,.013,-3.5,-0.3,,6906250,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2004-05,30,Dallas Mavericks,NBA,56,28.9,.414,.849,3.3,2.3,0.9,0.2,14.9,15.9,3.5,.103,-1.0,0.4,,7437500,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2005-06,31,Dallas Mavericks,NBA,55,27.7,.401,.882,2.8,2.9,0.7,0.2,13.0,14.5,2.4,.076,-1.8,0.1,,8367187,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2006-07,32,Dallas Mavericks,NBA,67,24.1,.428,.847,2.2,2.8,0.8,0.1,12.0,16.8,4.1,.122,0.1,0.9,,9296874,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2007-08,33,Dallas Mavericks,NBA,58,24.3,.405,.892,2.3,2.5,0.5,0.2,10.7,13.3,2.3,.077,-1.3,0.2,,6750000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2008-09,34,Dallas Mavericks,NBA,10,16.2,.267,1.000,1.7,1.2,0.4,0.1,4.2,3.4,-0.4,-0.110,-8.3,-0.3,,7000000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2009-10,35,Memphis Grizzlies,NBA,42,20.4,.408,.797,2.4,1.7,0.5,0.2,8.5,11.1,0.9,.048,-2.2,0.0,,2000000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2010-11,36,Miami Heat,NBA,7,7.1,.250,.714,1.0,0.4,0.0,0.3,1.7,6.0,0.0,.005,-6.6,-0.1,,222712,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2011-12,37,Atlanta Hawks,NBA,30,9.1,.370,.913,0.8,0.5,0.3,0.1,3.6,11.5,0.3,.060,-4.2,-0.2,,1352181,"Oak Hill Academy in Mouth of Wilson, Virginia"
-stackje01,2012-13,38,Brooklyn Nets,NBA,37,14.7,.384,.870,0.9,0.9,0.2,0.1,4.9,8.5,0.4,.037,-4.1,-0.3,,1352181,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.13,0.33,stackje01,1995-96,PHI,14.8,1.2,.021,-1.4,0.4,,NBA,1987000,21,72,37.5,.414,.747,3.7,3.9,1.1,1.1,19.2,PHI
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.04,0.57,stackje01,1996-97,PHI,14.1,2.1,.032,-2.0,0.0,,NBA,2286000,22,81,39.1,.407,.766,4.2,3.1,1.1,0.8,20.7,PHI
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.85,2.41,stackje01,1997-98,TOT,16.2,4.7,.089,0.4,1.5,,NBA,2583360,23,79,32.2,.435,.787,3.4,3.1,1.1,0.7,15.8,"PHI,DET"
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.93,1.15,stackje01,1998-99,DET,15.2,1.9,.076,-1.9,0.0,,NBA,3887000,24,42,28.3,.371,.850,2.5,2.8,0.8,0.5,14.5,DET
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.90,7.03,stackje01,1999-00,DET,18.9,7.3,.111,0.6,2.0,,NBA,4781250,25,82,38.4,.428,.815,3.8,4.5,1.3,0.4,23.6,DET
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.91,7.04,stackje01,2000-01,DET,21.8,9.2,.137,3.7,4.6,,NBA,5310000,26,80,40.2,.402,.822,3.9,5.1,1.2,0.7,29.8,DET
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.00,4.69,stackje01,2001-02,DET,19.0,5.8,.104,0.7,1.9,,NBA,5843750,27,76,35.3,.397,.858,4.1,5.3,1.0,0.5,21.4,DET
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.69,5.58,stackje01,2002-03,WAS,18.7,6.5,.114,0.7,1.9,,NBA,6375000,28,70,39.2,.409,.878,3.7,4.5,0.9,0.4,21.5,WAS
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.94,-0.36,stackje01,2003-04,WAS,13.2,0.2,.013,-3.5,-0.3,,NBA,6906250,29,26,29.8,.399,.806,3.6,4.0,0.9,0.1,13.9,WAS
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.37,-0.05,stackje01,2004-05,DAL,15.9,3.5,.103,-1.0,0.4,,NBA,7437500,30,56,28.9,.414,.849,3.3,2.3,0.9,0.2,14.9,DAL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.22,1.61,stackje01,2005-06,DAL,14.5,2.4,.076,-1.8,0.1,,NBA,8367187,31,55,27.7,.401,.882,2.8,2.9,0.7,0.2,13.0,DAL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.70,1.91,stackje01,2006-07,DAL,16.8,4.1,.122,0.1,0.9,,NBA,9296874,32,67,24.1,.428,.847,2.2,2.8,0.8,0.1,12.0,DAL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.43,-0.10,stackje01,2007-08,DAL,13.3,2.3,.077,-1.3,0.2,,NBA,6750000,33,58,24.3,.405,.892,2.3,2.5,0.5,0.2,10.7,DAL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.63,-0.06,stackje01,2008-09,DAL,3.4,-0.4,-0.110,-8.3,-0.3,,NBA,7000000,34,10,16.2,.267,1.000,1.7,1.2,0.4,0.1,4.2,DAL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.26,0.68,stackje01,2009-10,MIL,11.1,0.9,.048,-2.2,0.0,,NBA,2000000,35,42,20.4,.408,.797,2.4,1.7,0.5,0.2,8.5,MIL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.96,0.04,stackje01,2010-11,MIA,6.0,0.0,.005,-6.6,-0.1,,NBA,222712,36,7,7.1,.250,.714,1.0,0.4,0.0,0.3,1.7,MIA
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.58,0.10,stackje01,2011-12,ATL,11.5,0.3,.060,-4.2,-0.2,,NBA,1352181,37,30,9.1,.370,.913,0.8,0.5,0.3,0.1,3.6,ATL
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.96,-0.27,stackje01,2012-13,BRK,8.5,0.4,.037,-4.1,-0.3,,NBA,1352181,38,37,14.7,.384,.870,0.9,0.9,0.2,0.1,4.9,BRK

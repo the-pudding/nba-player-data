@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hansegl01,1976-77,24,KCK,NBA,41,7.0,.432,.719,1.4,0.6,0.3,0.1,3.8,15.3,0.4,.063,-2.6,0.0,,
-hansegl01,1977-78,25,"CHI,KCK",NBA,5,2.6,.000,,0.2,0.2,0.2,0.0,0.0,-16.4,-0.1,-0.470,-18.1,-0.1,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Glenn Hansen,/players/h/hansegl01.html,1976,1978,Louisiana State University,false,,-1.35,0.16,hansegl01,1976-77,KCK,15.3,0.4,.063,-2.6,0.0,,24,NBA,41,7.0,.432,.719,1.4,0.6,0.3,0.1,3.8,KCK
+Glenn Hansen,/players/h/hansegl01.html,1976,1978,Louisiana State University,false,,+0.79,0.03,hansegl01,1977-78,TOT,-16.4,-0.1,-0.470,-18.1,-0.1,,25,NBA,5,2.6,.000,,0.2,0.2,0.2,0.0,0.0,"CHI,KCK"

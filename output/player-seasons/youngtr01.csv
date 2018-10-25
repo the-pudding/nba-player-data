@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-youngtr01,2018-19,20,ATL,NBA,4,32.3,.418,.783,3.5,7.5,0.5,0.5,21.5,17.2,0.3,.112,-2.6,0.0,,"Norman North HS in Norman, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Trae Young,/players/y/youngtr01.html,2019,2019,University of Oklahoma,true,"Norman North HS in Norman, Oklahoma",,,youngtr01,2018-19,ATL,17.2,0.3,.112,-2.6,0.0,,20,NBA,4,32.3,.418,.783,3.5,7.5,0.5,0.5,21.5,ATL

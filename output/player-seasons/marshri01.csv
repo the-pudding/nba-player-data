@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-marshri01,1977-78,23,GSW,NBA,60,14.2,.426,.697,1.3,1.5,0.5,0.3,4.5,8.4,0.5,.028,-4.3,-0.5,,"Jamaica in Jamaica, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ricky Marsh,/players/m/marshri01.html,1978,1978,Manhattan College,false,"Jamaica in Jamaica, New York",-2.25,-0.09,marshri01,1977-78,GSW,8.4,0.5,.028,-4.3,-0.5,,23,NBA,60,14.2,.426,.697,1.3,1.5,0.5,0.3,4.5,GSW

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-basseti01,1976-77,25,NYN,NBA,76,32.1,.396,.571,8.4,1.4,1.3,0.7,9.0,10.5,1.5,.029,-3.0,-0.6,,"McKinley in Washington, District of Columbia"
-basseti01,1977-78,26,NJN,NBA,65,22.7,.388,.515,6.2,1.0,1.0,0.5,5.4,8.6,1.1,.036,-2.0,0.0,,"McKinley in Washington, District of Columbia"
-basseti01,1978-79,27,NJN,NBA,82,18.4,.371,.679,5.1,1.2,0.5,0.4,3.9,8.0,1.4,.045,-2.0,0.0,,"McKinley in Washington, District of Columbia"
-basseti01,1979-80,28,"NJN,SAS",NBA,12,13.7,.353,.667,2.8,1.2,0.7,0.0,2.8,6.7,0.1,.033,-3.6,-0.1,,"McKinley in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tim Bassett,/players/b/basseti01.html,1974,1980,University of Georgia,false,"McKinley in Washington, District of Columbia",-2.43,-0.74,basseti01,1976-77,NYN,10.5,1.5,.029,-3.0,-0.6,,25,NBA,76,32.1,.396,.571,8.4,1.4,1.3,0.7,9.0,NYN
+Tim Bassett,/players/b/basseti01.html,1974,1980,University of Georgia,false,"McKinley in Washington, District of Columbia",-2.14,-0.08,basseti01,1977-78,NJN,8.6,1.1,.036,-2.0,0.0,,26,NBA,65,22.7,.388,.515,6.2,1.0,1.0,0.5,5.4,NJN
+Tim Bassett,/players/b/basseti01.html,1974,1980,University of Georgia,false,"McKinley in Washington, District of Columbia",-2.61,-0.55,basseti01,1978-79,NJN,8.0,1.4,.045,-2.0,0.0,,27,NBA,82,18.4,.371,.679,5.1,1.2,0.5,0.4,3.9,NJN
+Tim Bassett,/players/b/basseti01.html,1974,1980,University of Georgia,false,"McKinley in Washington, District of Columbia",-0.66,0.20,basseti01,1979-80,TOT,6.7,0.1,.033,-3.6,-0.1,,28,NBA,12,13.7,.353,.667,2.8,1.2,0.7,0.0,2.8,"NJN,SAS"

@@ -1,19 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-greenje02,2007-08,21,Seattle SuperSonics,NBA,80,28.2,.427,.744,4.7,1.5,0.6,0.6,10.5,9.8,0.2,.003,-3.2,-0.7,,3058200,"Northwestern in Hyattsville, Maryland"
-greenje02,2008-09,22,Oklahoma City Thunder,NBA,78,36.8,.446,.788,6.7,2.0,1.0,0.4,16.5,13.9,4.2,.070,-0.8,0.8,,3287640,"Northwestern in Hyattsville, Maryland"
-greenje02,2009-10,23,Oklahoma City Thunder,NBA,82,37.1,.453,.740,6.0,1.6,1.3,0.9,15.1,13.8,6.6,.105,1.1,2.4,,3516960,"Northwestern in Hyattsville, Maryland"
-greenje02,2010-11,24,Boston Celtics,NBA,75,32.4,.449,.811,4.8,1.4,0.7,0.5,13.3,12.9,4.8,.095,-0.8,0.7,,4455988,"Northwestern in Hyattsville, Maryland"
-greenje02,2010-11,24,Boston Celtics,NBA,49,37.0,.437,.818,5.6,1.8,0.8,0.4,15.2,12.9,3.3,.087,-0.6,0.7,,4455988,"Northwestern in Hyattsville, Maryland"
-greenje02,2010-11,24,Boston Celtics,NBA,26,23.5,.485,.794,3.3,0.7,0.5,0.6,9.8,12.9,1.5,.118,-1.6,0.1,,4455988,"Northwestern in Hyattsville, Maryland"
-greenje02,2011-12,25,Did Not Play (illness—heart condition),,,,,,,,,,,,,,,,,,"Northwestern in Hyattsville, Maryland"
-greenje02,2012-13,26,Boston Celtics,NBA,81,27.8,.467,.808,3.9,1.6,0.7,0.8,12.8,15.0,4.7,.099,-0.8,0.7,,8385000,"Northwestern in Hyattsville, Maryland"
-greenje02,2013-14,27,Boston Celtics,NBA,82,34.2,.412,.795,4.6,1.7,0.7,0.6,16.9,13.1,3.3,.057,-2.1,0.0,,8965000,"Northwestern in Hyattsville, Maryland"
-greenje02,2014-15,28,Memphis Grizzlies,NBA,78,31.5,.430,.833,4.2,1.7,0.7,0.4,15.0,14.4,5.2,.101,-0.7,0.8,,9445000,"Northwestern in Hyattsville, Maryland"
-greenje02,2014-15,28,Memphis Grizzlies,NBA,33,33.1,.434,.840,4.3,1.6,0.8,0.4,17.6,14.6,2.0,.089,-1.6,0.1,,9445000,"Northwestern in Hyattsville, Maryland"
-greenje02,2014-15,28,Memphis Grizzlies,NBA,45,30.2,.427,.825,4.2,1.8,0.6,0.5,13.1,14.2,3.1,.111,0.0,0.7,,9445000,"Northwestern in Hyattsville, Maryland"
-greenje02,2015-16,29,Los Angeles Clippers,NBA,80,28.2,.430,.745,4.2,1.7,0.7,0.5,11.7,13.0,3.1,.065,-1.7,0.2,,9200000,"Northwestern in Hyattsville, Maryland"
-greenje02,2015-16,29,Los Angeles Clippers,NBA,53,29.1,.431,.800,4.5,1.8,0.8,0.4,12.2,13.4,2.2,.067,-1.7,0.1,,9200000,"Northwestern in Hyattsville, Maryland"
-greenje02,2015-16,29,Los Angeles Clippers,NBA,27,26.3,.427,.615,3.4,1.5,0.7,0.8,10.9,12.0,0.9,.061,-1.7,0.1,,9200000,"Northwestern in Hyattsville, Maryland"
-greenje02,2016-17,30,Orlando Magic,NBA,69,22.2,.394,.863,3.1,1.2,0.5,0.2,9.2,10.5,0.7,.022,-4.6,-1.0,,15000000,"Northwestern in Hyattsville, Maryland"
-greenje02,2017-18,31,Cleveland Cavaliers,NBA,78,23.4,.477,.868,3.2,1.3,0.5,0.4,10.8,14.8,3.9,.103,-1.9,0.1,,2116955,"Northwestern in Hyattsville, Maryland"
-greenje02,2018-19,32,WAS,NBA,4,26.3,.417,1.000,3.8,1.0,1.0,0.8,10.3,10.3,0.0,-0.004,-2.0,0.0,,,"Northwestern in Hyattsville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-3.73,-2.17,greenje02,2007-08,SEA,9.8,0.2,.003,-3.2,-0.7,,NBA,3058200,21,80,28.2,.427,.744,4.7,1.5,0.6,0.6,10.5,SEA
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-2.10,0.38,greenje02,2008-09,OKC,13.9,4.2,.070,-0.8,0.8,,NBA,3287640,22,78,36.8,.446,.788,6.7,2.0,1.0,0.4,16.5,OKC
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-2.06,0.52,greenje02,2009-10,OKC,13.8,6.6,.105,1.1,2.4,,NBA,3516960,23,82,37.1,.453,.740,6.0,1.6,1.3,0.9,15.1,OKC
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-2.33,-0.06,greenje02,2010-11,TOT,12.9,4.8,.095,-0.8,0.7,,NBA,4455988,24,75,32.4,.449,.811,4.8,1.4,0.7,0.5,13.3,"OKC,BOS"
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",,,greenje02,2011-12,Did Not Play (illness—heart condition),,,,,,,,,25,,,,,,,,,,Did Not Play (illness—heart condition)
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-1.60,1.04,greenje02,2012-13,BOS,15.0,4.7,.099,-0.8,0.7,,NBA,8385000,26,81,27.8,.467,.808,3.9,1.6,0.7,0.8,12.8,BOS
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-1.97,0.51,greenje02,2013-14,BOS,13.1,3.3,.057,-2.1,0.0,,NBA,8965000,27,82,34.2,.412,.795,4.6,1.7,0.7,0.6,16.9,BOS
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-1.31,1.71,greenje02,2014-15,TOT,14.4,5.2,.101,-0.7,0.8,,NBA,9445000,28,78,31.5,.430,.833,4.2,1.7,0.7,0.4,15.0,"BOS,MEM"
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-1.67,0.95,greenje02,2015-16,TOT,13.0,3.1,.065,-1.7,0.2,,NBA,9200000,29,80,28.2,.430,.745,4.2,1.7,0.7,0.5,11.7,"MEM,LAC"
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-3.73,-1.50,greenje02,2016-17,ORL,10.5,0.7,.022,-4.6,-1.0,,NBA,15000000,30,69,22.2,.394,.863,3.1,1.2,0.5,0.2,9.2,ORL
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",-0.48,2.88,greenje02,2017-18,CLE,14.8,3.9,.103,-1.9,0.1,,NBA,2116955,31,78,23.4,.477,.868,3.2,1.3,0.5,0.4,10.8,CLE
+Jeff Green,/players/g/greenje02.html,2008,2019,Georgetown University,true,"Northwestern in Hyattsville, Maryland",,,greenje02,2018-19,WAS,10.3,0.0,-0.004,-2.0,0.0,,NBA,,32,4,26.3,.417,1.000,3.8,1.0,1.0,0.8,10.3,WAS

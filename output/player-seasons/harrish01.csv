@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harrish01,2017-18,24,Phoenix Suns,NBA,23,16.7,.476,.737,2.7,2.4,1.1,0.3,6.6,15.6,0.8,.094,0.2,0.2,,267160,"Lee's Summit West in Lee's Summit, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shaquille Harrison,/players/h/harrish01.html,2018,2018,University of Tulsa,true,"Lee's Summit West in Lee's Summit, Missouri",+2.01,1.11,harrish01,2017-18,PHO,15.6,0.8,.094,0.2,0.2,,NBA,267160,24,23,16.7,.476,.737,2.7,2.4,1.1,0.3,6.6,PHO

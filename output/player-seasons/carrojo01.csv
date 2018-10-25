@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-carrojo01,1980-81,22,GSW,NBA,82,35.6,.491,.716,9.3,1.4,0.6,1.5,18.9,16.4,5.7,.094,-0.9,0.8,,"East in Denver, Colorado",
-carrojo01,1981-82,23,GSW,NBA,76,34.6,.519,.728,8.3,0.8,0.8,1.7,17.0,15.9,5.5,.100,-0.6,0.9,,"East in Denver, Colorado",
-carrojo01,1982-83,24,GSW,NBA,79,37.8,.513,.719,8.7,2.1,1.4,2.0,24.1,20.1,7.0,.113,1.3,2.5,,"East in Denver, Colorado",
-carrojo01,1983-84,25,GSW,NBA,80,37.0,.477,.723,8.0,2.5,1.3,1.8,20.5,16.8,4.7,.077,0.2,1.6,,"East in Denver, Colorado",
-carrojo01,1984-85,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"East in Denver, Colorado",
-carrojo01,1985-86,27,Golden State Warriors,NBA,79,35.5,.463,.752,8.5,2.2,1.3,1.8,21.2,17.2,3.4,.059,-0.7,0.9,,"East in Denver, Colorado",800000
-carrojo01,1986-87,28,GSW,NBA,81,33.6,.472,.787,7.3,2.6,1.1,1.5,21.2,18.4,4.6,.082,0.4,1.6,,"East in Denver, Colorado",
-carrojo01,1987-88,29,Houston Rockets,NBA,77,26.0,.435,.764,6.4,1.5,0.6,1.4,12.7,13.6,1.6,.039,-3.0,-0.5,,"East in Denver, Colorado",1325000
-carrojo01,1987-88,29,Houston Rockets,NBA,14,29.1,.378,.797,6.6,1.4,0.9,1.8,15.5,11.8,-0.4,-0.048,-7.1,-0.5,,"East in Denver, Colorado",1325000
-carrojo01,1987-88,29,Houston Rockets,NBA,63,25.3,.452,.748,6.3,1.5,0.6,1.3,12.0,14.0,2.0,.061,-2.0,0.0,,"East in Denver, Colorado",1325000
-carrojo01,1988-89,30,New Jersey Nets,NBA,64,31.2,.448,.800,7.4,1.6,1.1,1.3,14.1,14.2,2.3,.056,-1.4,0.3,,"East in Denver, Colorado",1400000
-carrojo01,1989-90,31,New Jersey Nets,NBA,76,22.6,.411,.774,5.8,1.3,0.6,1.5,10.0,12.6,0.7,.019,-3.4,-0.6,,"East in Denver, Colorado",1200000
-carrojo01,1989-90,31,New Jersey Nets,NBA,46,21.8,.393,.794,5.4,0.9,0.4,1.2,8.8,11.8,0.6,.028,-4.2,-0.6,,"East in Denver, Colorado",1200000
-carrojo01,1989-90,31,New Jersey Nets,NBA,30,24.0,.432,.743,6.4,1.8,0.9,2.0,11.9,13.8,0.1,.006,-2.3,0.0,,"East in Denver, Colorado",1200000
-carrojo01,1990-91,32,Phoenix Suns,NBA,11,8.7,.361,.917,2.2,1.0,0.1,0.7,3.4,8.6,0.0,-0.014,-5.2,-0.1,,"East in Denver, Colorado",350000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",+0.06,4.62,carrojo01,1980-81,GSW,16.4,5.7,.094,-0.9,0.8,,22,NBA,82,35.6,.491,.716,9.3,1.4,0.6,1.5,18.9,GSW,
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",+0.53,4.99,carrojo01,1981-82,GSW,15.9,5.5,.100,-0.6,0.9,,23,NBA,76,34.6,.519,.728,8.3,0.8,0.8,1.7,17.0,GSW,
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",+1.46,7.58,carrojo01,1982-83,GSW,20.1,7.0,.113,1.3,2.5,,24,NBA,79,37.8,.513,.719,8.7,2.1,1.4,2.0,24.1,GSW,
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",+0.38,5.32,carrojo01,1983-84,GSW,16.8,4.7,.077,0.2,1.6,,25,NBA,80,37.0,.477,.723,8.0,2.5,1.3,1.8,20.5,GSW,
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",,,carrojo01,1984-85,Did Not Play (other pro league—Italy),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",+0.25,4.78,carrojo01,1985-86,GSW,17.2,3.4,.059,-0.7,0.9,,27,NBA,79,35.5,.463,.752,8.5,2.2,1.3,1.8,21.2,GSW,800000
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",+0.93,6.59,carrojo01,1986-87,GSW,18.4,4.6,.082,0.4,1.6,,28,NBA,81,33.6,.472,.787,7.3,2.6,1.1,1.5,21.2,GSW,
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",-1.98,0.42,carrojo01,1987-88,TOT,13.6,1.6,.039,-3.0,-0.5,,29,NBA,77,26.0,.435,.764,6.4,1.5,0.6,1.4,12.7,"GSW,HOU",1325000
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",-1.07,1.61,carrojo01,1988-89,NJN,14.2,2.3,.056,-1.4,0.3,,30,NBA,64,31.2,.448,.800,7.4,1.6,1.1,1.3,14.1,NJN,1400000
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",-1.64,0.72,carrojo01,1989-90,TOT,12.6,0.7,.019,-3.4,-0.6,,31,NBA,76,22.6,.411,.774,5.8,1.3,0.6,1.5,10.0,"NJN,DEN",1200000
+Joe Barry Carroll,/players/c/carrojo01.html,1981,1991,Purdue University,false,"East in Denver, Colorado",-0.48,0.13,carrojo01,1990-91,PHO,8.6,0.0,-0.014,-5.2,-0.1,,32,NBA,11,8.7,.361,.917,2.2,1.0,0.1,0.7,3.4,PHO,350000

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-karasse01,2013-14,20,Cleveland Cavaliers,NBA,22,7.1,.343,.900,0.7,0.3,0.1,0.0,1.7,2.3,-0.1,-0.041,-7.5,-0.2,,1467840,
-karasse01,2014-15,21,Brooklyn Nets,NBA,33,16.8,.403,.763,2.0,1.4,0.7,0.0,4.6,10.5,0.7,.061,-1.2,0.1,,1533840,
-karasse01,2015-16,22,Brooklyn Nets,NBA,40,10.0,.405,.929,1.5,0.9,0.2,0.1,2.4,8.5,0.3,.031,-4.2,-0.2,,1599840,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sergey Karasev,/players/k/karasse01.html,2014,2016,,false,,-0.87,0.14,karasse01,2013-14,CLE,2.3,-0.1,-0.041,-7.5,-0.2,,NBA,1467840,20,22,7.1,.343,.900,0.7,0.3,0.1,0.0,1.7,CLE
+Sergey Karasev,/players/k/karasse01.html,2014,2016,,false,,-0.32,0.73,karasse01,2014-15,BRK,10.5,0.7,.061,-1.2,0.1,,NBA,1533840,21,33,16.8,.403,.763,2.0,1.4,0.7,0.0,4.6,BRK
+Sergey Karasev,/players/k/karasse01.html,2014,2016,,false,,-1.89,0.11,karasse01,2015-16,BRK,8.5,0.3,.031,-4.2,-0.2,,NBA,1599840,22,40,10.0,.405,.929,1.5,0.9,0.2,0.1,2.4,BRK

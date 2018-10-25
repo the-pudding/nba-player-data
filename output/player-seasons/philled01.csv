@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-philled01,1982-83,21,NJN,NBA,48,8.7,.406,.678,1.6,0.6,0.3,0.2,3.2,7.5,0.1,.011,-5.3,-0.4,,"A.H. Parker in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eddie Phillips,/players/p/philled01.html,1983,1983,University of Alabama,false,"A.H. Parker in Birmingham, Alabama",-2.80,-0.21,philled01,1982-83,NJN,7.5,0.1,.011,-5.3,-0.4,,21,NBA,48,8.7,.406,.678,1.6,0.6,0.3,0.2,3.2,NJN

@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-tarplro01,1986-87,22,DAL,NBA,75,18.7,.467,.676,7.1,0.7,0.7,1.1,7.5,15.2,3.1,.105,-0.8,0.4,,"Cooley in Detroit, Michigan",
-tarplro01,1987-88,23,Dallas Mavericks,NBA,81,28.5,.500,.740,11.8,1.1,1.3,1.1,13.5,19.5,7.8,.163,1.5,2.0,,"Cooley in Detroit, Michigan",460000
-tarplro01,1988-89,24,Dallas Mavericks,NBA,19,31.1,.541,.688,11.5,0.9,1.5,1.6,17.3,22.2,2.0,.166,0.9,0.4,,"Cooley in Detroit, Michigan",560000
-tarplro01,1989-90,25,DAL,NBA,45,36.6,.451,.756,13.1,1.5,1.8,1.6,16.8,18.0,3.5,.103,0.5,1.0,,"Cooley in Detroit, Michigan",
-tarplro01,1990-91,26,Dallas Mavericks,NBA,5,34.2,.544,.889,11.0,2.4,1.2,1.8,20.4,23.6,0.6,.165,2.4,0.2,,"Cooley in Detroit, Michigan",765000
-tarplro01,1991-92,27,Did Not Play (suspended—substance abuse),,,,,,,,,,,,,,,,,"Cooley in Detroit, Michigan",
-tarplro01,1992-93,28,Dallas Mavericks,NBA,,,,,,,,,,,,,,,,"Cooley in Detroit, Michigan",80000
-tarplro01,1993-94,29,Dallas Mavericks,NBA,,,,,,,,,,,,,,,,"Cooley in Detroit, Michigan",80000
-tarplro01,1994-95,30,Dallas Mavericks,NBA,55,24.6,.479,.836,8.2,1.1,0.8,1.0,12.6,17.8,2.8,.098,-1.7,0.1,,"Cooley in Detroit, Michigan",3000000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",+0.24,2.58,tarplro01,1986-87,DAL,15.2,3.1,.105,-0.8,0.4,,22,NBA,75,18.7,.467,.676,7.1,0.7,0.7,1.1,7.5,DAL,
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",+2.11,8.43,tarplro01,1987-88,DAL,19.5,7.8,.163,1.5,2.0,,23,NBA,81,28.5,.500,.740,11.8,1.1,1.3,1.1,13.5,DAL,460000
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",+1.34,1.45,tarplro01,1988-89,DAL,22.2,2.0,.166,0.9,0.4,,24,NBA,19,31.1,.541,.688,11.5,0.9,1.5,1.6,17.3,DAL,560000
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",+0.89,3.82,tarplro01,1989-90,DAL,18.0,3.5,.103,0.5,1.0,,25,NBA,45,36.6,.451,.756,13.1,1.5,1.8,1.6,16.8,DAL,
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",+0.53,0.32,tarplro01,1990-91,DAL,23.6,0.6,.165,2.4,0.2,,26,NBA,5,34.2,.544,.889,11.0,2.4,1.2,1.8,20.4,DAL,765000
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",,,tarplro01,1991-92,Did Not Play (suspended—substance abuse),,,,,,,27,,,,,,,,,,,Did Not Play (suspended—substance abuse),
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",,,tarplro01,1992-93,Did Not Play (suspended—substance abuse),,,,,,,28,NBA,,,,,,,,,,Did Not Play (suspended—substance abuse),80000
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",,,tarplro01,1993-94,Did Not Play (suspended—substance abuse),,,,,,,29,NBA,,,,,,,,,,Did Not Play (suspended—substance abuse),80000
+Roy Tarpley,/players/t/tarplro01.html,1987,1995,University of Michigan,false,"Cooley in Detroit, Michigan",-0.29,1.82,tarplro01,1994-95,DAL,17.8,2.8,.098,-1.7,0.1,,30,NBA,55,24.6,.479,.836,8.2,1.1,0.8,1.0,12.6,DAL,3000000

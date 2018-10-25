@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-macklru01,1981-82,23,ATL,NBA,79,19.2,.434,.775,3.3,0.6,0.5,0.3,7.0,9.3,1.4,.043,-3.6,-0.6,,"Shawnee in Louisville, Kentucky"
-macklru01,1982-83,24,ATL,NBA,73,16.0,.472,.771,2.6,1.0,0.6,0.1,6.0,10.9,1.8,.073,-1.6,0.1,,"Shawnee in Louisville, Kentucky"
-macklru01,1983-84,25,NYK,NBA,8,8.1,.400,.846,1.4,0.4,0.1,0.0,4.4,9.0,0.1,.053,-7.1,-0.1,,"Shawnee in Louisville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rudy Macklin,/players/m/macklru01.html,1982,1984,Louisiana State University,false,"Shawnee in Louisville, Kentucky",-2.54,-0.34,macklru01,1981-82,ATL,9.3,1.4,.043,-3.6,-0.6,,23,NBA,79,19.2,.434,.775,3.3,0.6,0.5,0.3,7.0,ATL
+Rudy Macklin,/players/m/macklru01.html,1982,1984,Louisiana State University,false,"Shawnee in Louisville, Kentucky",-2.13,0.05,macklru01,1982-83,ATL,10.9,1.8,.073,-1.6,0.1,,24,NBA,73,16.0,.472,.771,2.6,1.0,0.6,0.1,6.0,ATL
+Rudy Macklin,/players/m/macklru01.html,1982,1984,Louisiana State University,false,"Shawnee in Louisville, Kentucky",+0.59,0.13,macklru01,1983-84,NYK,9.0,0.1,.053,-7.1,-0.1,,25,NBA,8,8.1,.400,.846,1.4,0.4,0.1,0.0,4.4,NYK

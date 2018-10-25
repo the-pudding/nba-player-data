@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-carusal01,2017-18,23,Los Angeles Lakers,NBA,37,15.2,.431,.700,1.8,2.0,0.6,0.3,3.6,8.7,0.5,.041,-2.9,-0.1,,,"A&M Consolidated in College Station, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alex Caruso,/players/c/carusal01.html,2018,2018,Texas A&M University,true,"A&M Consolidated in College Station, Texas",-1.14,0.43,carusal01,2017-18,LAL,8.7,0.5,.041,-2.9,-0.1,,NBA,,23,37,15.2,.431,.700,1.8,2.0,0.6,0.3,3.6,LAL

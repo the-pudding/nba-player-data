@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stockda01,2014-15,23,Sacramento Kings,NBA,3,11.0,.333,.500,0.7,3.0,0.7,0.0,2.7,10.8,0.0,-0.014,-8.4,-0.1,,29843,"Gonzaga Prep in Spokane, Washington"
-stockda01,2015-16,24,Did Not Play,,,,,,,,,,,,,,,,,,"Gonzaga Prep in Spokane, Washington"
-stockda01,2016-17,25,Did Not Play,,,,,,,,,,,,,,,,,,"Gonzaga Prep in Spokane, Washington"
-stockda01,2017-18,26,Utah Jazz,NBA,3,3.0,.667,1.000,0.0,0.0,0.0,0.0,3.3,33.9,0.1,.459,6.7,0.0,,192813,"Gonzaga Prep in Spokane, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Stockton,/players/s/stockda01.html,2015,2018,Gonzaga University,true,"Gonzaga Prep in Spokane, Washington",-0.23,0.05,stockda01,2014-15,SAC,10.8,0.0,-0.014,-8.4,-0.1,,NBA,29843,23,3,11.0,.333,.500,0.7,3.0,0.7,0.0,2.7,SAC
+David Stockton,/players/s/stockda01.html,2015,2018,Gonzaga University,true,"Gonzaga Prep in Spokane, Washington",,,stockda01,2015-16,Did Not Play,,,,,,,,,24,,,,,,,,,,Did Not Play
+David Stockton,/players/s/stockda01.html,2015,2018,Gonzaga University,true,"Gonzaga Prep in Spokane, Washington",,,stockda01,2016-17,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+David Stockton,/players/s/stockda01.html,2015,2018,Gonzaga University,true,"Gonzaga Prep in Spokane, Washington",-0.34,0.02,stockda01,2017-18,UTA,33.9,0.1,.459,6.7,0.0,,NBA,192813,26,3,3.0,.667,1.000,0.0,0.0,0.0,0.0,3.3,UTA

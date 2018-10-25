@@ -1,15 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-anderro01,1984-85,26,CLE,NBA,36,14.4,.431,.820,2.4,0.9,0.3,0.2,5.8,10.7,0.3,.032,-3.5,-0.2,,"Bowen in Chicago, Illinois",
-anderro01,1985-86,27,Cleveland Cavaliers,NBA,77,21.8,.494,.669,3.6,1.9,0.7,0.1,9.2,14.0,3.1,.090,-0.1,0.8,,"Bowen in Chicago, Illinois",115000
-anderro01,1985-86,27,Cleveland Cavaliers,NBA,17,12.2,.500,.750,1.5,0.5,0.1,0.0,5.1,10.4,0.3,.064,-5.0,-0.2,,"Bowen in Chicago, Illinois",115000
-anderro01,1985-86,27,Cleveland Cavaliers,NBA,60,24.5,.493,.658,4.1,2.3,0.9,0.1,10.4,14.5,2.9,.094,0.6,1.0,,"Bowen in Chicago, Illinois",115000
-anderro01,1986-87,28,IND,NBA,63,11.4,.473,.787,2.4,0.9,0.5,0.0,5.8,16.0,1.5,.100,-1.1,0.2,,"Bowen in Chicago, Illinois",
-anderro01,1987-88,29,Indiana Pacers,NBA,74,14.8,.498,.766,2.9,1.1,0.6,0.1,7.3,16.2,2.5,.108,-0.9,0.3,,"Bowen in Chicago, Illinois",200000
-anderro01,1988-89,30,Philadelphia 76ers,NBA,82,31.9,.491,.856,5.0,1.7,0.9,0.3,16.2,15.3,4.4,.081,-1.0,0.7,,"Bowen in Chicago, Illinois",300000
-anderro01,1989-90,31,PHI,NBA,78,26.8,.451,.838,3.8,1.8,0.9,0.2,11.9,13.9,3.8,.086,-1.6,0.2,,"Bowen in Chicago, Illinois",
-anderro01,1990-91,32,Philadelphia 76ers,NBA,82,28.5,.485,.833,4.5,1.4,0.8,0.2,14.6,15.5,4.1,.085,-2.3,-0.2,,"Bowen in Chicago, Illinois",425000
-anderro01,1991-92,33,Philadelphia 76ers,NBA,82,29.7,.465,.877,3.4,1.6,1.0,0.1,13.7,14.1,3.5,.070,-1.7,0.2,,"Bowen in Chicago, Illinois",1000000
-anderro01,1992-93,34,Philadelphia 76ers,NBA,69,18.3,.414,.809,2.7,1.3,0.4,0.1,8.1,11.8,0.5,.019,-4.3,-0.7,,"Bowen in Chicago, Illinois",950000
-anderro01,1993-94,35,Philadelphia 76ers,NBA,21,17.0,.407,.826,2.5,0.8,0.4,0.1,4.6,9.9,0.5,.061,-3.2,-0.1,,"Bowen in Chicago, Illinois",300000
-anderro01,1993-94,35,Philadelphia 76ers,NBA,11,16.0,.349,.833,2.4,0.5,0.5,0.2,4.0,9.5,0.3,.090,-2.5,0.0,,"Bowen in Chicago, Illinois",300000
-anderro01,1993-94,35,Philadelphia 76ers,NBA,10,18.0,.465,.818,2.7,1.1,0.3,0.1,5.2,10.2,0.1,.033,-3.9,-0.1,,"Bowen in Chicago, Illinois",300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-3.21,-0.33,anderro01,1984-85,CLE,10.7,0.3,.032,-3.5,-0.2,,26,NBA,36,14.4,.431,.820,2.4,0.9,0.3,0.2,5.8,CLE,
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-1.99,0.29,anderro01,1985-86,TOT,14.0,3.1,.090,-0.1,0.8,,27,NBA,77,21.8,.494,.669,3.6,1.9,0.7,0.1,9.2,"CLE,IND",115000
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-1.39,0.44,anderro01,1986-87,IND,16.0,1.5,.100,-1.1,0.2,,28,NBA,63,11.4,.473,.787,2.4,0.9,0.5,0.0,5.8,IND,
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-1.06,0.90,anderro01,1987-88,IND,16.2,2.5,.108,-0.9,0.3,,29,NBA,74,14.8,.498,.766,2.9,1.1,0.6,0.1,7.3,IND,200000
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-1.53,1.51,anderro01,1988-89,PHI,15.3,4.4,.081,-1.0,0.7,,30,NBA,82,31.9,.491,.856,5.0,1.7,0.9,0.3,16.2,PHI,300000
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-1.34,1.55,anderro01,1989-90,PHI,13.9,3.8,.086,-1.6,0.2,,31,NBA,78,26.8,.451,.838,3.8,1.8,0.9,0.2,11.9,PHI,
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-1.91,0.67,anderro01,1990-91,PHI,15.5,4.1,.085,-2.3,-0.2,,32,NBA,82,28.5,.485,.833,4.5,1.4,0.8,0.2,14.6,PHI,425000
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-2.20,0.21,anderro01,1991-92,PHI,14.1,3.5,.070,-1.7,0.2,,33,NBA,82,29.7,.465,.877,3.4,1.6,1.0,0.1,13.7,PHI,1000000
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-3.55,-1.04,anderro01,1992-93,PHI,11.8,0.5,.019,-4.3,-0.7,,34,NBA,69,18.3,.414,.809,2.7,1.3,0.4,0.1,8.1,PHI,950000
+Ron Anderson,/players/a/anderro01.html,1985,1994,"California State University, Fresno",false,"Bowen in Chicago, Illinois",-2.37,-0.02,anderro01,1993-94,TOT,9.9,0.5,.061,-3.2,-0.1,,35,NBA,21,17.0,.407,.826,2.5,0.8,0.4,0.1,4.6,"NJN,WSB",300000

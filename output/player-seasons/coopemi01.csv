@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-coopemi01,1978-79,22,LAL,NBA,3,2.3,.500,,0.0,0.0,0.3,0.0,2.0,16.3,0.0,-0.073,-10.3,0.0,,"Pasadena in Pasadena, California",
-coopemi01,1979-80,23,LAL,NBA,82,24.1,.524,.776,2.8,2.7,1.0,0.5,8.8,12.5,4.0,.097,-0.1,0.9,,"Pasadena in Pasadena, California",
-coopemi01,1980-81,24,LAL,NBA,81,32.4,.491,.785,4.1,4.1,1.6,1.0,9.4,12.2,5.0,.092,1.5,2.3,,"Pasadena in Pasadena, California",
-coopemi01,1981-82,25,LAL,NBA,76,28.9,.517,.813,3.5,3.0,1.6,0.8,11.9,14.3,5.0,.109,1.2,1.8,,"Pasadena in Pasadena, California",
-coopemi01,1982-83,26,LAL,NBA,82,26.2,.535,.785,3.3,3.8,1.4,0.6,7.8,13.5,5.2,.116,2.0,2.2,,"Pasadena in Pasadena, California",
-coopemi01,1983-84,27,LAL,NBA,82,29.1,.497,.838,3.2,5.9,1.4,0.8,9.0,14.1,6.5,.130,2.0,2.4,,"Pasadena in Pasadena, California",
-coopemi01,1984-85,28,Los Angeles Lakers,NBA,82,26.7,.465,.865,3.1,5.2,1.1,0.6,8.6,12.9,4.6,.102,1.0,1.6,,"Pasadena in Pasadena, California",325000
-coopemi01,1985-86,29,Los Angeles Lakers,NBA,82,27.7,.452,.865,3.0,5.7,1.1,0.5,9.2,13.5,5.8,.123,1.5,2.0,,"Pasadena in Pasadena, California",366000
-coopemi01,1986-87,30,LAL,NBA,82,27.5,.438,.851,3.1,4.5,1.0,0.5,10.5,14.0,6.1,.131,1.2,1.8,,"Pasadena in Pasadena, California",
-coopemi01,1987-88,31,Los Angeles Lakers,NBA,61,29.4,.392,.858,3.7,4.7,1.1,0.4,8.7,11.6,3.1,.082,0.5,1.1,,"Pasadena in Pasadena, California",676500
-coopemi01,1988-89,32,LAL,NBA,80,24.3,.431,.871,2.4,3.9,0.9,0.4,7.3,11.9,4.4,.110,0.4,1.2,,"Pasadena in Pasadena, California",
-coopemi01,1989-90,33,LAL,NBA,80,23.1,.387,.883,2.8,2.7,0.8,0.5,6.4,9.6,2.7,.070,-0.3,0.8,,"Pasadena in Pasadena, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+0.26,0.01,coopemi01,1978-79,LAL,16.3,0.0,-0.073,-10.3,0.0,,22,NBA,3,2.3,.500,,0.0,0.0,0.3,0.0,2.0,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",-0.85,2.34,coopemi01,1979-80,LAL,12.5,4.0,.097,-0.1,0.9,,23,NBA,82,24.1,.524,.776,2.8,2.7,1.0,0.5,8.8,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+0.21,4.60,coopemi01,1980-81,LAL,12.2,5.0,.092,1.5,2.3,,24,NBA,81,32.4,.491,.785,4.1,4.1,1.6,1.0,9.4,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+0.26,4.43,coopemi01,1981-82,LAL,14.3,5.0,.109,1.2,1.8,,25,NBA,76,28.9,.517,.813,3.5,3.0,1.6,0.8,11.9,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+0.56,5.00,coopemi01,1982-83,LAL,13.5,5.2,.116,2.0,2.2,,26,NBA,82,26.2,.535,.785,3.3,3.8,1.4,0.6,7.8,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+1.49,7.87,coopemi01,1983-84,LAL,14.1,6.5,.130,2.0,2.4,,27,NBA,82,29.1,.497,.838,3.2,5.9,1.4,0.8,9.0,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+0.73,5.44,coopemi01,1984-85,LAL,12.9,4.6,.102,1.0,1.6,,28,NBA,82,26.7,.465,.865,3.1,5.2,1.1,0.6,8.6,LAL,325000
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+1.22,6.33,coopemi01,1985-86,LAL,13.5,5.8,.123,1.5,2.0,,29,NBA,82,27.7,.452,.865,3.0,5.7,1.1,0.5,9.2,LAL,366000
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+1.21,6.48,coopemi01,1986-87,LAL,14.0,6.1,.131,1.2,1.8,,30,NBA,82,27.5,.438,.851,3.1,4.5,1.0,0.5,10.5,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",-0.67,2.62,coopemi01,1987-88,LAL,11.6,3.1,.082,0.5,1.1,,31,NBA,61,29.4,.392,.858,3.7,4.7,1.1,0.4,8.7,LAL,676500
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",+0.11,3.80,coopemi01,1988-89,LAL,11.9,4.4,.110,0.4,1.2,,32,NBA,80,24.3,.431,.871,2.4,3.9,0.9,0.4,7.3,LAL,
+Michael Cooper,/players/c/coopemi01.html,1979,1990,University of New Mexico,false,"Pasadena in Pasadena, California",-1.20,1.51,coopemi01,1989-90,LAL,9.6,2.7,.070,-0.3,0.8,,33,NBA,80,23.1,.387,.883,2.8,2.7,0.8,0.5,6.4,LAL,

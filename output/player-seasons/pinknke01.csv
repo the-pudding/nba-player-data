@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pinknke01,2006-07,23,BOS,NBA,6,16.7,.444,.667,2.5,0.8,0.5,0.5,5.2,11.6,0.2,.075,-1.9,0.0,,"Colton in Colton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevinn Pinkney,/players/p/pinknke01.html,2007,2007,"University of Nevada, Reno",false,"Colton in Colton, California",+0.41,0.18,pinknke01,2006-07,BOS,11.6,0.2,.075,-1.9,0.0,,23,NBA,6,16.7,.444,.667,2.5,0.8,0.5,0.5,5.2,BOS

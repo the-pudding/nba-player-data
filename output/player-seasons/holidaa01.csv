@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-holidaa01,2018-19,22,IND,NBA,4,3.5,.200,,0.3,0.5,0.0,0.0,0.8,-9.9,-0.1,-0.317,-14.8,0.0,,"Campbell Hall HS in North Hollywood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Aaron Holiday,/players/h/holidaa01.html,2019,2019,"University of California, Los Angeles",true,"Campbell Hall HS in North Hollywood, California",,,holidaa01,2018-19,IND,-9.9,-0.1,-0.317,-14.8,0.0,,22,NBA,4,3.5,.200,,0.3,0.5,0.0,0.0,0.8,IND

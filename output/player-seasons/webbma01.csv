@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-webbma01,1992-93,22,Boston Celtics,NBA,9,5.7,.520,.619,1.1,0.2,0.1,0.2,4.3,20.1,0.1,.130,-3.3,0.0,,140000,"Sidney Lanier in Montgomery, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Webb,/players/w/webbma01.html,1993,1993,University of Alabama,false,"Sidney Lanier in Montgomery, Alabama",+0.22,0.09,webbma01,1992-93,BOS,20.1,0.1,.130,-3.3,0.0,,NBA,140000,22,9,5.7,.520,.619,1.1,0.2,0.1,0.2,4.3,BOS

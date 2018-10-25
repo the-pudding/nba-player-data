@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leeku01,1990-91,23,New Jersey Nets,NBA,48,5.5,.268,.893,0.6,0.7,0.2,0.0,1.4,5.6,-0.1,-0.013,-6.7,-0.3,,120000,"Paul Laurence Dunbar in Baltimore, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kurk Lee,/players/l/leeku01.html,1991,1991,"Western Kentucky University, Towson University",false,"Paul Laurence Dunbar in Baltimore, Maryland",-2.03,0.03,leeku01,1990-91,NJN,5.6,-0.1,-0.013,-6.7,-0.3,,NBA,120000,23,48,5.5,.268,.893,0.6,0.7,0.2,0.0,1.4,NJN

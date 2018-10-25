@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stephal01,2015-16,28,Los Angeles Clippers,NBA,8,9.1,.333,.333,3.5,0.3,0.1,0.6,2.8,14.8,0.1,.068,-3.2,0.0,,61776,"Harvard-Westlake in North Hollywood, California"
-stephal01,2015-16,28,Los Angeles Clippers,NBA,4,3.0,1.000,.000,0.5,0.0,0.0,0.5,0.5,8.9,0.0,.113,0.0,0.0,,61776,"Harvard-Westlake in North Hollywood, California"
-stephal01,2015-16,28,Los Angeles Clippers,NBA,4,15.3,.308,.400,6.5,0.5,0.3,0.8,5.0,16.0,0.1,.059,-3.8,0.0,,61776,"Harvard-Westlake in North Hollywood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alex Stepheson,/players/s/stephal01.html,2016,2016,"University of North Carolina, University of Southern California",false,"Harvard-Westlake in North Hollywood, California",-0.50,0.09,stephal01,2015-16,TOT,14.8,0.1,.068,-3.2,0.0,,NBA,61776,28,8,9.1,.333,.333,3.5,0.3,0.1,0.6,2.8,"LAC,MEM"

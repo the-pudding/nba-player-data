@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-grahade01,2018-19,23,CHO,NBA,1,6.0,,,0.0,1.0,0.0,0.0,0.0,2.9,0.0,.071,-10.9,0.0,,"Brewster Academy in Wolfeboro, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Devonte' Graham,/players/g/grahade01.html,2019,2019,University of Kansas,true,"Brewster Academy in Wolfeboro, New Hampshire",,,grahade01,2018-19,CHO,2.9,0.0,.071,-10.9,0.0,,23,NBA,1,6.0,,,0.0,1.0,0.0,0.0,0.0,CHO

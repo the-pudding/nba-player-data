@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-longsh01,2016-17,24,Philadelphia 76ers,NBA,18,13.0,.560,.543,4.7,0.7,0.5,0.5,8.2,24.1,0.9,.195,3.4,0.3,,96969,"Morgan City in Morgan City, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shawn Long,/players/l/longsh01.html,2017,2017,University of Louisiana at Lafayette,true,"Morgan City in Morgan City, Louisiana",+0.77,0.48,longsh01,2016-17,PHI,24.1,0.9,.195,3.4,0.3,,NBA,96969,24,18,13.0,.560,.543,4.7,0.7,0.5,0.5,8.2,PHI

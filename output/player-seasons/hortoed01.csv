@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hortoed01,1989-90,22,WSB,NBA,45,8.3,.494,.609,2.4,0.4,0.2,0.1,4.5,14.5,0.4,.050,-4.1,-0.2,,"Lanphier in Springfield, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ed Horton,/players/h/hortoed01.html,1990,1990,University of Iowa,false,"Lanphier in Springfield, Illinois",-2.43,-0.03,hortoed01,1989-90,WSB,14.5,0.4,.050,-4.1,-0.2,,22,NBA,45,8.3,.494,.609,2.4,0.4,0.2,0.1,4.5,WSB

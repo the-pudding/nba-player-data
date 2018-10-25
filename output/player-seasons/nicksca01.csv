@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-nicksca01,1980-81,22,"DEN,UTA",NBA,67,16.6,.479,.563,1.6,2.2,0.9,0.0,6.2,10.2,-0.2,-0.008,-4.1,-0.6,,"Englewood in Chicago, Illinois"
-nicksca01,1981-82,23,UTA,NBA,80,16.5,.454,.567,2.0,1.1,0.8,0.1,7.4,10.5,-0.3,-0.010,-4.9,-1.0,,"Englewood in Chicago, Illinois"
-nicksca01,1982-83,24,CLE,NBA,9,16.4,.441,.647,2.9,1.2,0.7,0.0,7.0,12.1,0.1,.032,-3.6,-0.1,,"Englewood in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carl Nicks,/players/n/nicksca01.html,1981,1983,Indiana State University,false,"Englewood in Chicago, Illinois",-2.80,-0.38,nicksca01,1980-81,TOT,10.2,-0.2,-0.008,-4.1,-0.6,,22,NBA,67,16.6,.479,.563,1.6,2.2,0.9,0.0,6.2,"DEN,UTA"
+Carl Nicks,/players/n/nicksca01.html,1981,1983,Indiana State University,false,"Englewood in Chicago, Illinois",-3.55,-1.08,nicksca01,1981-82,UTA,10.5,-0.3,-0.010,-4.9,-1.0,,23,NBA,80,16.5,.454,.567,2.0,1.1,0.8,0.1,7.4,UTA
+Carl Nicks,/players/n/nicksca01.html,1981,1983,Indiana State University,false,"Englewood in Chicago, Illinois",-0.06,0.22,nicksca01,1982-83,CLE,12.1,0.1,.032,-3.6,-0.1,,24,NBA,9,16.4,.441,.647,2.9,1.2,0.7,0.0,7.0,CLE

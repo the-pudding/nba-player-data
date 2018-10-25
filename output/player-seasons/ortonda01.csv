@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ortonda01,2011-12,21,Orlando Magic,NBA,16,11.7,.567,.440,2.4,0.3,0.5,0.6,2.8,12.7,0.5,.129,1.2,0.2,,1105560,"Bishop McGuiness in Oklahoma City, Oklahoma"
-ortonda01,2012-13,22,Oklahoma City Thunder,NBA,13,8.0,.462,.529,2.0,0.3,0.3,0.2,2.5,14.0,0.3,.135,-1.3,0.0,,757712,"Bishop McGuiness in Oklahoma City, Oklahoma"
-ortonda01,2013-14,23,PHI,NBA,22,11.4,.447,.767,2.8,0.7,0.3,0.7,3.0,10.5,0.3,.049,-4.1,-0.1,,,"Bishop McGuiness in Oklahoma City, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Daniel Orton,/players/o/ortonda01.html,2012,2014,University of Kentucky,false,"Bishop McGuiness in Oklahoma City, Oklahoma",-1.13,0.14,ortonda01,2011-12,ORL,12.7,0.5,.129,1.2,0.2,,NBA,1105560,21,16,11.7,.567,.440,2.4,0.3,0.5,0.6,2.8,ORL
+Daniel Orton,/players/o/ortonda01.html,2012,2014,University of Kentucky,false,"Bishop McGuiness in Oklahoma City, Oklahoma",-0.80,0.10,ortonda01,2012-13,OKC,14.0,0.3,.135,-1.3,0.0,,NBA,757712,22,13,8.0,.462,.529,2.0,0.3,0.3,0.2,2.5,OKC
+Daniel Orton,/players/o/ortonda01.html,2012,2014,University of Kentucky,false,"Bishop McGuiness in Oklahoma City, Oklahoma",-0.38,0.32,ortonda01,2013-14,PHI,10.5,0.3,.049,-4.1,-0.1,,NBA,,23,22,11.4,.447,.767,2.8,0.7,0.3,0.7,3.0,PHI

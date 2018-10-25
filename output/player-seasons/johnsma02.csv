@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-johnsma02,1979-80,20,LAL,NBA,77,36.3,.530,.810,7.7,7.3,2.4,0.5,18.0,20.6,10.5,.180,5.5,5.3,,"Everett in Lansing, Michigan",
-johnsma02,1980-81,21,LAL,NBA,37,37.1,.532,.760,8.6,8.6,3.4,0.7,21.6,25.7,6.4,.225,9.2,3.9,,"Everett in Lansing, Michigan",
-johnsma02,1981-82,22,LAL,NBA,78,38.3,.537,.760,9.6,9.5,2.7,0.4,18.6,22.9,12.9,.207,8.3,7.8,All-NBA (2nd),"Everett in Lansing, Michigan",
-johnsma02,1982-83,23,LAL,NBA,79,36.8,.548,.800,8.6,10.5,2.2,0.6,16.8,23.0,12.5,.207,7.4,6.9,All-NBA (1st),"Everett in Lansing, Michigan",
-johnsma02,1983-84,24,LAL,NBA,67,38.3,.565,.810,7.3,13.1,2.2,0.7,17.6,22.6,10.2,.191,6.1,5.2,All-NBA (1st),"Everett in Lansing, Michigan",
-johnsma02,1984-85,25,Los Angeles Lakers,NBA,77,36.1,.561,.843,6.2,12.6,1.5,0.3,18.3,23.2,12.7,.220,5.4,5.2,All-NBA (1st),"Everett in Lansing, Michigan",2500000
-johnsma02,1985-86,26,Los Angeles Lakers,NBA,72,35.8,.526,.871,5.9,12.6,1.6,0.2,18.8,24.0,12.1,.226,5.9,5.2,All-NBA (1st),"Everett in Lansing, Michigan",2500000
-johnsma02,1986-87,27,LAL,NBA,80,36.3,.522,.848,6.3,12.2,1.7,0.5,23.9,27.0,15.9,.263,8.1,7.4,All-NBA (1st),"Everett in Lansing, Michigan",
-johnsma02,1987-88,28,Los Angeles Lakers,NBA,72,36.6,.492,.853,6.2,11.9,1.6,0.2,19.6,23.1,10.9,.199,5.3,4.9,All-NBA (1st),"Everett in Lansing, Michigan",2500000
-johnsma02,1988-89,29,Los Angeles Lakers,NBA,77,37.5,.509,.911,7.9,12.8,1.8,0.3,22.5,26.9,16.1,.267,9.3,8.2,All-NBA (1st),"Everett in Lansing, Michigan",3142860
-johnsma02,1989-90,30,Los Angeles Lakers,NBA,79,37.2,.480,.890,6.6,11.5,1.7,0.4,22.3,26.6,16.5,.270,9.5,8.5,All-NBA (1st),"Everett in Lansing, Michigan",3100000
-johnsma02,1990-91,31,Los Angeles Lakers,NBA,79,37.1,.477,.906,7.0,12.5,1.3,0.2,19.4,25.1,15.4,.251,8.3,7.6,All-NBA (1st),"Everett in Lansing, Michigan",2400000
-johnsma02,1991-92,32,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",2500000
-johnsma02,1992-93,33,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",2500000
-johnsma02,1993-94,34,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",2500000
-johnsma02,1994-95,35,Did Not Play (illness—HIV),,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",
-johnsma02,1995-96,36,LAL,NBA,32,29.9,.466,.856,5.7,6.9,0.8,0.4,14.6,21.1,3.6,.181,3.2,1.3,,"Everett in Lansing, Michigan",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+3.72,13.90,johnsma02,1979-80,LAL,20.6,10.5,.180,5.5,5.3,,20,NBA,77,36.3,.530,.810,7.7,7.3,2.4,0.5,18.0,LAL,
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+4.13,6.48,johnsma02,1980-81,LAL,25.7,6.4,.225,9.2,3.9,,21,NBA,37,37.1,.532,.760,8.6,8.6,3.4,0.7,21.6,LAL,
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+4.93,16.85,johnsma02,1981-82,LAL,22.9,12.9,.207,8.3,7.8,All-NBA (2nd),22,NBA,78,38.3,.537,.760,9.6,9.5,2.7,0.4,18.6,LAL,
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+4.79,16.52,johnsma02,1982-83,LAL,23.0,12.5,.207,7.4,6.9,All-NBA (1st),23,NBA,79,36.8,.548,.800,8.6,10.5,2.2,0.6,16.8,LAL,
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+4.77,15.69,johnsma02,1983-84,LAL,22.6,10.2,.191,6.1,5.2,All-NBA (1st),24,NBA,67,38.3,.565,.810,7.3,13.1,2.2,0.7,17.6,LAL,
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+5.05,16.40,johnsma02,1984-85,LAL,23.2,12.7,.220,5.4,5.2,All-NBA (1st),25,NBA,77,36.1,.561,.843,6.2,12.6,1.5,0.3,18.3,LAL,2500000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+5.50,15.65,johnsma02,1985-86,LAL,24.0,12.1,.226,5.9,5.2,All-NBA (1st),26,NBA,72,35.8,.526,.871,5.9,12.6,1.6,0.2,18.8,LAL,2500000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+6.38,19.54,johnsma02,1986-87,LAL,27.0,15.9,.263,8.1,7.4,All-NBA (1st),27,NBA,80,36.3,.522,.848,6.3,12.2,1.7,0.5,23.9,LAL,
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+4.30,15.45,johnsma02,1987-88,LAL,23.1,10.9,.199,5.3,4.9,All-NBA (1st),28,NBA,72,36.6,.492,.853,6.2,11.9,1.6,0.2,19.6,LAL,2500000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+6.26,18.47,johnsma02,1988-89,LAL,26.9,16.1,.267,9.3,8.2,All-NBA (1st),29,NBA,77,37.5,.509,.911,7.9,12.8,1.8,0.3,22.5,LAL,3142860
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+6.24,17.90,johnsma02,1989-90,LAL,26.6,16.5,.270,9.5,8.5,All-NBA (1st),30,NBA,79,37.2,.480,.890,6.6,11.5,1.7,0.4,22.3,LAL,3100000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+5.88,19.74,johnsma02,1990-91,LAL,25.1,15.4,.251,8.3,7.6,All-NBA (1st),31,NBA,79,37.1,.477,.906,7.0,12.5,1.3,0.2,19.4,LAL,2400000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",,,johnsma02,1991-92,Did Not Play (illness—HIV),,,,,,,32,NBA,,,,,,,,,,Did Not Play (illness—HIV),2500000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",,,johnsma02,1992-93,Did Not Play (illness—HIV),,,,,,,33,NBA,,,,,,,,,,Did Not Play (illness—HIV),2500000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",,,johnsma02,1993-94,Did Not Play (illness—HIV),,,,,,,34,NBA,,,,,,,,,,Did Not Play (illness—HIV),2500000
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",,,johnsma02,1994-95,Did Not Play (illness—HIV),,,,,,,35,,,,,,,,,,,Did Not Play (illness—HIV),
+Magic Johnson,/players/j/johnsma02.html,1980,1996,Michigan State University,false,"Everett in Lansing, Michigan",+0.65,2.16,johnsma02,1995-96,LAL,21.1,3.6,.181,3.2,1.3,,36,NBA,32,29.9,.466,.856,5.7,6.9,0.8,0.4,14.6,LAL,

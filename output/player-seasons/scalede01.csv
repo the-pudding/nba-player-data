@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-scalede01,1980-81,22,NYK,NBA,44,11.0,.418,.667,3.0,0.2,0.3,0.1,4.9,11.5,0.3,.028,-8.2,-0.8,,"David W. Carter in Dallas, Texas"
-scalede01,1981-82,23,NYK,NBA,3,8.0,.200,.500,1.7,0.0,0.3,0.3,1.0,1.0,-0.1,-0.116,-12.0,-0.1,,"David W. Carter in Dallas, Texas"
-scalede01,1982-83,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"David W. Carter in Dallas, Texas"
-scalede01,1983-84,25,WSB,NBA,2,6.5,.600,.000,1.5,0.0,0.5,0.0,3.0,8.4,0.0,-0.131,-15.1,0.0,,"David W. Carter in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+DeWayne Scales,/players/s/scalede01.html,1981,1984,Louisiana State University,false,"David W. Carter in Dallas, Texas",-2.46,-0.08,scalede01,1980-81,NYK,11.5,0.3,.028,-8.2,-0.8,,22,NBA,44,11.0,.418,.667,3.0,0.2,0.3,0.1,4.9,NYK
+DeWayne Scales,/players/s/scalede01.html,1981,1984,Louisiana State University,false,"David W. Carter in Dallas, Texas",+0.29,0.04,scalede01,1981-82,NYK,1.0,-0.1,-0.116,-12.0,-0.1,,23,NBA,3,8.0,.200,.500,1.7,0.0,0.3,0.3,1.0,NYK
+DeWayne Scales,/players/s/scalede01.html,1981,1984,Louisiana State University,false,"David W. Carter in Dallas, Texas",,,scalede01,1982-83,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA)
+DeWayne Scales,/players/s/scalede01.html,1981,1984,Louisiana State University,false,"David W. Carter in Dallas, Texas",+0.51,0.02,scalede01,1983-84,WSB,8.4,0.0,-0.131,-15.1,0.0,,25,NBA,2,6.5,.600,.000,1.5,0.0,0.5,0.0,3.0,WSB

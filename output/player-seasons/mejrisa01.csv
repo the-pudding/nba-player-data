@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mejrisa01,2015-16,29,Dallas Mavericks,NBA,34,11.7,.628,.587,3.6,0.3,0.2,1.1,3.7,16.8,1.3,.156,1.1,0.3,,525093,
-mejrisa01,2016-17,30,Dallas Mavericks,NBA,73,12.4,.642,.590,4.2,0.2,0.4,0.8,2.9,14.8,3.0,.159,0.2,0.5,,874636,
-mejrisa01,2017-18,31,Dallas Mavericks,NBA,61,12.0,.642,.576,4.0,0.6,0.4,1.1,3.5,17.8,2.7,.175,3.1,0.9,,1471382,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Salah Mejri,/players/m/mejrisa01.html,2016,2018,,true,,+0.89,1.02,mejrisa01,2015-16,DAL,16.8,1.3,.156,1.1,0.3,,NBA,525093,29,34,11.7,.628,.587,3.6,0.3,0.2,1.1,3.7,DAL
+Salah Mejri,/players/m/mejrisa01.html,2016,2018,,true,,+1.13,2.10,mejrisa01,2016-17,DAL,14.8,3.0,.159,0.2,0.5,,NBA,874636,30,73,12.4,.642,.590,4.2,0.2,0.4,0.8,2.9,DAL
+Salah Mejri,/players/m/mejrisa01.html,2016,2018,,true,,+2.14,2.18,mejrisa01,2017-18,DAL,17.8,2.7,.175,3.1,0.9,,NBA,1471382,31,61,12.0,.642,.576,4.0,0.6,0.4,1.1,3.5,DAL

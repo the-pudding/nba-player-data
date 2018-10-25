@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-paulbr01,2017-18,26,San Antonio Spurs,NBA,64,9.0,.433,.512,1.1,0.6,0.4,0.1,2.3,7.5,0.5,.044,-2.8,-0.1,,815615,"Warren in Gurnee, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brandon Paul,/players/p/paulbr01.html,2018,2018,University of Illinois at Urbana-Champaign,true,"Warren in Gurnee, Illinois",-1.66,0.22,paulbr01,2017-18,SAS,7.5,0.5,.044,-2.8,-0.1,,NBA,815615,26,64,9.0,.433,.512,1.1,0.6,0.4,0.1,2.3,SAS

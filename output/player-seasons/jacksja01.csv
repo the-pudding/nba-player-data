@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-jacksja01,1989-90,22,NJN,NBA,28,5.7,.362,.810,0.9,0.5,0.5,0.0,2.4,10.8,-0.1,-0.031,-3.8,-0.1,,"Walter Cohen in New Orleans, Louisiana",
-jacksja01,1990-91,23,"Did Not Play (other pro league—CBA, WBL)",,,,,,,,,,,,,,,,,"Walter Cohen in New Orleans, Louisiana",
-jacksja01,1991-92,24,GSW,NBA,5,10.8,.478,.667,2.0,0.6,0.4,0.0,5.2,12.2,0.1,.046,-4.8,0.0,,"Walter Cohen in New Orleans, Louisiana",
-jacksja01,1992-93,25,Los Angeles Clippers,NBA,34,10.3,.414,.852,1.1,1.0,0.6,0.1,3.9,11.3,0.4,.061,-2.9,-0.1,,"Walter Cohen in New Orleans, Louisiana",140000
-jacksja01,1993-94,26,POR,NBA,29,6.4,.391,.857,0.6,0.9,0.1,0.1,2.8,9.5,0.0,.000,-6.9,-0.2,,"Walter Cohen in New Orleans, Louisiana",
-jacksja01,1994-95,27,Philadelphia 76ers,NBA,21,12.2,.368,.667,2.0,0.9,0.4,0.2,3.3,8.7,0.0,.006,-3.6,-0.1,,"Walter Cohen in New Orleans, Louisiana",140350
-jacksja01,1995-96,28,HOU,NBA,4,8.3,.000,.800,0.8,0.0,0.3,0.0,2.0,1.5,0.0,-0.049,-12.3,-0.1,,"Walter Cohen in New Orleans, Louisiana",
-jacksja01,1996-97,29,Washington Bullets,NBA,75,15.1,.407,.768,1.8,0.9,0.6,0.2,5.0,10.1,1.6,.067,-1.9,0.0,,"Walter Cohen in New Orleans, Louisiana",247500
-jacksja01,1997-98,30,San Antonio Spurs,NBA,82,27.1,.394,.797,2.6,1.9,0.7,0.1,8.8,9.7,4.1,.088,-0.1,1.0,,"Walter Cohen in New Orleans, Louisiana",272250
-jacksja01,1998-99,31,SAS,NBA,47,18.3,.380,.821,2.1,1.0,0.9,0.2,6.4,12.5,2.1,.119,1.2,0.7,,"Walter Cohen in New Orleans, Louisiana",
-jacksja01,1999-00,32,San Antonio Spurs,NBA,81,20.9,.381,.647,2.2,1.5,0.7,0.1,6.3,9.7,3.1,.087,0.6,1.1,,"Walter Cohen in New Orleans, Louisiana",2483333
-jacksja01,2000-01,33,San Antonio Spurs,NBA,16,7.1,.400,.000,0.8,0.4,0.3,0.0,2.4,10.4,0.2,.087,-1.3,0.0,,"Walter Cohen in New Orleans, Louisiana",1750000
-jacksja01,2001-02,34,San Antonio Spurs,NBA,9,16.0,.405,.500,1.9,0.9,0.6,0.0,4.3,7.2,0.0,.015,-4.4,-0.1,,"Walter Cohen in New Orleans, Louisiana",3020834
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-0.82,0.15,jacksja01,1989-90,NJN,10.8,-0.1,-0.031,-3.8,-0.1,,22,NBA,28,5.7,.362,.810,0.9,0.5,0.5,0.0,2.4,NJN,
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",,,jacksja01,1990-91,"Did Not Play (other pro league—CBA, WBL)",,,,,,,23,,,,,,,,,,,"Did Not Play (other pro league—CBA, WBL)",
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-0.64,0.06,jacksja01,1991-92,GSW,12.2,0.1,.046,-4.8,0.0,,24,NBA,5,10.8,.478,.667,2.0,0.6,0.4,0.0,5.2,GSW,
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-2.04,0.06,jacksja01,1992-93,LAC,11.3,0.4,.061,-2.9,-0.1,,25,NBA,34,10.3,.414,.852,1.1,1.0,0.6,0.1,3.9,LAC,140000
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-1.36,0.11,jacksja01,1993-94,POR,9.5,0.0,.000,-6.9,-0.2,,26,NBA,29,6.4,.391,.857,0.6,0.9,0.1,0.1,2.8,POR,
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-1.96,0.05,jacksja01,1994-95,PHI,8.7,0.0,.006,-3.6,-0.1,,27,NBA,21,12.2,.368,.667,2.0,0.9,0.4,0.2,3.3,PHI,140350
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-0.27,0.04,jacksja01,1995-96,HOU,1.5,0.0,-0.049,-12.3,-0.1,,28,NBA,4,8.3,.000,.800,0.8,0.0,0.3,0.0,2.0,HOU,
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-1.82,0.32,jacksja01,1996-97,WSB,10.1,1.6,.067,-1.9,0.0,,29,NBA,75,15.1,.407,.768,1.8,0.9,0.6,0.2,5.0,WSB,247500
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-1.04,2.03,jacksja01,1997-98,SAS,9.7,4.1,.088,-0.1,1.0,,30,NBA,82,27.1,.394,.797,2.6,1.9,0.7,0.1,8.8,SAS,272250
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",+0.04,1.89,jacksja01,1998-99,SAS,12.5,2.1,.119,1.2,0.7,,31,NBA,47,18.3,.380,.821,2.1,1.0,0.9,0.2,6.4,SAS,
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-0.75,1.71,jacksja01,1999-00,SAS,9.7,3.1,.087,0.6,1.1,,32,NBA,81,20.9,.381,.647,2.2,1.5,0.7,0.1,6.3,SAS,2483333
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-1.47,0.06,jacksja01,2000-01,SAS,10.4,0.2,.087,-1.3,0.0,,33,NBA,16,7.1,.400,.000,0.8,0.4,0.3,0.0,2.4,SAS,1750000
+Jaren Jackson,/players/j/jacksja01.html,1990,2002,Georgetown University,false,"Walter Cohen in New Orleans, Louisiana",-2.03,0.02,jacksja01,2001-02,ORL,7.2,0.0,.015,-4.4,-0.1,,34,NBA,9,16.0,.405,.500,1.9,0.9,0.6,0.0,4.3,ORL,3020834

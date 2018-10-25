@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vanvlfr01,2016-17,22,Toronto Raptors,NBA,37,7.9,.351,.818,1.1,0.9,0.4,0.1,2.9,10.5,0.2,.040,-3.2,-0.1,,543471,"Auburn in Rockford, Illinois"
-vanvlfr01,2017-18,23,Toronto Raptors,NBA,76,20.0,.426,.832,2.4,3.2,0.9,0.3,8.6,15.9,4.7,.149,1.9,1.5,,1312611,"Auburn in Rockford, Illinois"
-vanvlfr01,2018-19,24,TOR,NBA,4,24.8,.419,.545,3.0,5.3,0.3,0.0,11.5,13.4,0.2,.095,-2.4,0.0,,,"Auburn in Rockford, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Fred VanVleet,/players/v/vanvlfr01.html,2017,2019,Wichita State University,true,"Auburn in Rockford, Illinois",+1.16,0.76,vanvlfr01,2016-17,TOR,10.5,0.2,.040,-3.2,-0.1,,NBA,543471,22,37,7.9,.351,.818,1.1,0.9,0.4,0.1,2.9,TOR
+Fred VanVleet,/players/v/vanvlfr01.html,2017,2019,Wichita State University,true,"Auburn in Rockford, Illinois",+2.80,5.49,vanvlfr01,2017-18,TOR,15.9,4.7,.149,1.9,1.5,,NBA,1312611,23,76,20.0,.426,.832,2.4,3.2,0.9,0.3,8.6,TOR
+Fred VanVleet,/players/v/vanvlfr01.html,2017,2019,Wichita State University,true,"Auburn in Rockford, Illinois",,,vanvlfr01,2018-19,TOR,13.4,0.2,.095,-2.4,0.0,,NBA,,24,4,24.8,.419,.545,3.0,5.3,0.3,0.0,11.5,TOR

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-scaleal01,2005-06,27,San Antonio Spurs,NBA,1,0.0,,,0.0,0.0,0.0,0.0,0.0,,0.0,,-4.4,0.0,,24315,"Racine Lutheran in Racine, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alex Scales,/players/s/scaleal01.html,2006,2006,University of Oregon,false,"Racine Lutheran in Racine, Wisconsin",+0.19,0.00,scaleal01,2005-06,SAS,,0.0,,-4.4,0.0,,NBA,24315,27,1,0.0,,,0.0,0.0,0.0,0.0,0.0,SAS

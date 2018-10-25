@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnsch02,1979-80,22,GSW,NBA,9,5.9,.400,.600,1.6,0.2,0.1,0.0,3.0,9.4,0.0,-0.033,-9.7,-0.1,,"Haaren in New York, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cheese Johnson,/players/j/johnsch02.html,1980,1980,Wichita State University,false,"Haaren in New York, New York",+0.41,0.10,johnsch02,1979-80,GSW,9.4,0.0,-0.033,-9.7,-0.1,,22,NBA,9,5.9,.400,.600,1.6,0.2,0.1,0.0,3.0,GSW

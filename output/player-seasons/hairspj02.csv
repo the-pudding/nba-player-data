@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hairspj02,2014-15,22,Charlotte Hornets,NBA,45,15.3,.323,.861,2.0,0.5,0.5,0.3,5.6,9.0,0.3,.022,-3.5,-0.3,,1149720,"Hargrave Military Academy in Chatham, Virginia"
-hairspj02,2015-16,23,Memphis Grizzlies,NBA,66,19.9,.355,.781,2.6,0.6,0.5,0.2,6.2,6.9,0.6,.021,-4.2,-0.7,,1201440,"Hargrave Military Academy in Chatham, Virginia"
-hairspj02,2015-16,23,Memphis Grizzlies,NBA,48,19.5,.359,.810,2.7,0.6,0.5,0.1,6.0,7.4,0.9,.044,-3.2,-0.3,,1201440,"Hargrave Military Academy in Chatham, Virginia"
-hairspj02,2015-16,23,Memphis Grizzlies,NBA,18,20.8,.348,.727,2.6,0.5,0.4,0.2,6.9,5.7,-0.3,-0.039,-6.7,-0.4,,1201440,"Hargrave Military Academy in Chatham, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+P.J. Hairston,/players/h/hairspj02.html,2015,2016,University of North Carolina,false,"Hargrave Military Academy in Chatham, Virginia",-1.84,0.17,hairspj02,2014-15,CHO,9.0,0.3,.022,-3.5,-0.3,,NBA,1149720,22,45,15.3,.323,.861,2.0,0.5,0.5,0.3,5.6,CHO
+P.J. Hairston,/players/h/hairspj02.html,2015,2016,University of North Carolina,false,"Hargrave Military Academy in Chatham, Virginia",-2.29,-0.05,hairspj02,2015-16,TOT,6.9,0.6,.021,-4.2,-0.7,,NBA,1201440,23,66,19.9,.355,.781,2.6,0.6,0.5,0.2,6.2,"CHO,MEM"

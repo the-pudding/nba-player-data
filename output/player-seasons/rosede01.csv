@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rosede01,2008-09,20,Chicago Bulls,NBA,81,37.0,.475,.788,3.9,6.3,0.8,0.2,16.8,16.0,4.9,.078,-0.6,1.1,,4822800,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2009-10,21,Chicago Bulls,NBA,78,36.8,.489,.766,3.8,6.0,0.7,0.3,20.8,18.6,6.0,.100,0.5,1.8,,5184480,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2010-11,22,Chicago Bulls,NBA,81,37.4,.445,.858,4.1,7.7,1.0,0.6,25.0,23.5,13.1,.208,5.9,6.0,All-NBA (1st),5546160,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2011-12,23,Chicago Bulls,NBA,39,35.3,.435,.812,3.4,7.9,0.9,0.7,21.8,23.0,6.0,.211,4.9,2.4,,6993708,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2012-13,24,Chicago Bulls,NBA,,,,,,,,,,,,,,,,16402500,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2013-14,25,Chicago Bulls,NBA,10,31.1,.354,.844,3.2,4.3,0.5,0.1,15.9,9.7,-0.2,-0.036,-5.1,-0.2,,17632688,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2014-15,26,Chicago Bulls,NBA,51,30.0,.405,.813,3.2,4.9,0.7,0.3,17.7,15.9,1.2,.038,-1.3,0.3,,18862875,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2015-16,27,Chicago Bulls,NBA,66,31.8,.427,.793,3.4,4.7,0.7,0.2,16.4,13.4,0.4,.009,-3.3,-0.7,,20093063,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2016-17,28,New York Knicks,NBA,64,32.5,.471,.874,3.8,4.4,0.7,0.3,18.0,17.0,3.0,.068,-1.9,0.0,,21323250,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2017-18,29,Cleveland Cavaliers,NBA,25,16.8,.435,.870,1.4,1.5,0.3,0.2,8.4,11.5,-0.2,-0.018,-7.8,-0.6,,1356709,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2017-18,29,Cleveland Cavaliers,NBA,16,19.3,.439,.854,1.8,1.6,0.2,0.3,9.8,11.6,-0.1,-0.014,-7.7,-0.4,,1356709,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2017-18,29,Cleveland Cavaliers,NBA,9,12.4,.426,1.000,0.7,1.2,0.4,0.0,5.8,11.2,-0.1,-0.029,-8.1,-0.2,,1356709,"Simeon Career Academy in Chicago, Illinois"
-rosede01,2018-19,30,MIN,NBA,5,28.6,.418,.882,3.6,5.0,0.6,0.2,15.0,16.7,0.3,.085,-2.0,0.0,,,"Simeon Career Academy in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",-2.33,0.01,rosede01,2008-09,CHI,16.0,4.9,.078,-0.6,1.1,,NBA,4822800,20,81,37.0,.475,.788,3.9,6.3,0.8,0.2,16.8,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",-0.76,3.15,rosede01,2009-10,CHI,18.6,6.0,.100,0.5,1.8,,NBA,5184480,21,78,36.8,.489,.766,3.8,6.0,0.7,0.3,20.8,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",+3.06,13.26,rosede01,2010-11,CHI,23.5,13.1,.208,5.9,6.0,All-NBA (1st),NBA,5546160,22,81,37.4,.445,.858,4.1,7.7,1.0,0.6,25.0,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",+3.49,5.54,rosede01,2011-12,CHI,23.0,6.0,.211,4.9,2.4,,NBA,6993708,23,39,35.3,.435,.812,3.4,7.9,0.9,0.7,21.8,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",,,rosede01,2012-13,Did Not Play (injury—ACL),,,,,,,NBA,16402500,24,,,,,,,,,,Did Not Play (injury—ACL)
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",-1.98,0.05,rosede01,2013-14,CHI,9.7,-0.2,-0.036,-5.1,-0.2,,NBA,17632688,25,10,31.1,.354,.844,3.2,4.3,0.5,0.1,15.9,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",+0.33,3.51,rosede01,2014-15,CHI,15.9,1.2,.038,-1.3,0.3,,NBA,18862875,26,51,30.0,.405,.813,3.2,4.9,0.7,0.3,17.7,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",-3.27,-1.40,rosede01,2015-16,CHI,13.4,0.4,.009,-3.3,-0.7,,NBA,20093063,27,66,31.8,.427,.793,3.4,4.7,0.7,0.2,16.4,CHI
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",-1.43,1.27,rosede01,2016-17,NYK,17.0,3.0,.068,-1.9,0.0,,NBA,21323250,28,64,32.5,.471,.874,3.8,4.4,0.7,0.3,18.0,NYK
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",-3.95,-0.52,rosede01,2017-18,TOT,11.5,-0.2,-0.018,-7.8,-0.6,,NBA,1356709,29,25,16.8,.435,.870,1.4,1.5,0.3,0.2,8.4,"CLE,MIN"
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true,"Simeon Career Academy in Chicago, Illinois",,,rosede01,2018-19,MIN,16.7,0.3,.085,-2.0,0.0,,NBA,,30,5,28.6,.418,.882,3.6,5.0,0.6,0.2,15.0,MIN

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-radfoma01,1981-82,22,SEA,NBA,43,8.6,.540,.507,0.7,1.3,0.4,0.0,3.4,10.3,0.4,.052,-3.9,-0.2,,"Grant in Portland, Oregon"
-radfoma01,1982-83,23,SEA,NBA,54,8.1,.488,.411,0.9,1.9,0.6,0.1,3.7,12.1,0.0,-0.001,-2.9,-0.1,,"Grant in Portland, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Radford,/players/r/radfoma01.html,1982,1983,Oregon State University,false,"Grant in Portland, Oregon",-1.65,0.14,radfoma01,1981-82,SEA,10.3,0.4,.052,-3.9,-0.2,,22,NBA,43,8.6,.540,.507,0.7,1.3,0.4,0.0,3.4,SEA
+Mark Radford,/players/r/radfoma01.html,1982,1983,Oregon State University,false,"Grant in Portland, Oregon",-0.82,0.42,radfoma01,1982-83,SEA,12.1,0.0,-0.001,-2.9,-0.1,,23,NBA,54,8.1,.488,.411,0.9,1.9,0.6,0.1,3.7,SEA

@@ -1,20 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-salmojo01,2002-03,23,Philadelphia 76ers,NBA,64,7.9,.414,.743,0.9,0.7,0.3,0.1,2.1,9.5,0.6,.058,-3.0,-0.1,,670800,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2003-04,24,Philadelphia 76ers,NBA,77,20.8,.387,.772,2.5,1.7,0.8,0.2,5.8,10.6,2.1,.064,-1.2,0.3,,865320,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2004-05,25,Philadelphia 76ers,NBA,58,17.1,.405,.729,2.1,2.0,0.7,0.2,4.1,9.7,1.4,.066,-2.3,-0.1,,925680,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2005-06,26,Philadelphia 76ers,NBA,82,25.1,.420,.775,2.7,2.7,0.9,0.2,7.5,10.7,1.7,.040,-3.0,-0.5,,1669001,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2006-07,27,Sacramento Kings,NBA,79,27.0,.456,.779,3.3,3.2,0.9,0.3,8.5,12.7,3.6,.081,-0.4,0.9,,4400000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2007-08,28,Sacramento Kings,NBA,81,31.1,.477,.823,4.3,2.6,1.1,0.4,12.5,13.9,3.7,.071,-0.6,0.9,,4752000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2008-09,29,Chicago Bulls,NBA,79,37.5,.472,.830,4.2,3.2,1.1,0.3,18.3,16.0,5.6,.090,-0.1,1.4,,5104000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2008-09,29,Chicago Bulls,NBA,53,37.4,.472,.823,4.2,3.7,1.1,0.2,18.3,16.0,3.0,.072,-0.6,0.7,,5104000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2008-09,29,Chicago Bulls,NBA,26,37.7,.473,.843,4.3,2.0,1.0,0.6,18.3,16.0,2.6,.127,0.8,0.7,,5104000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2009-10,30,Milwaukee Bucks,NBA,81,34.9,.441,.830,3.3,2.8,1.2,0.3,15.4,14.7,7.1,.121,1.0,2.1,,5456000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2009-10,30,Milwaukee Bucks,NBA,51,33.2,.420,.789,3.4,2.5,1.3,0.4,12.7,12.7,3.2,.092,0.2,1.0,,5456000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2009-10,30,Milwaukee Bucks,NBA,30,37.6,.467,.867,3.2,3.3,1.1,0.1,19.9,17.6,3.9,.165,2.1,1.1,,5456000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2010-11,31,Milwaukee Bucks,NBA,73,35.0,.415,.813,3.6,3.5,1.0,0.4,14.0,12.8,4.3,.081,-0.2,1.2,,8000000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2011-12,32,Sacramento Kings,NBA,46,27.2,.409,.644,2.9,2.0,0.8,0.2,7.5,9.0,0.4,.014,-2.9,-0.3,,8500000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2012-13,33,Sacramento Kings,NBA,76,30.0,.399,.773,2.7,3.0,0.7,0.3,8.8,10.2,1.6,.034,-1.8,0.1,,8083000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2013-14,34,Sacramento Kings,NBA,78,22.1,.363,.769,2.1,1.9,0.6,0.2,5.2,7.8,1.7,.046,-2.1,0.0,,7583000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2013-14,34,Sacramento Kings,NBA,18,24.7,.350,1.000,2.6,2.4,0.7,0.4,5.8,8.3,0.3,.029,-2.1,0.0,,7583000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2013-14,34,Sacramento Kings,NBA,60,21.4,.368,.733,2.0,1.7,0.6,0.2,5.0,7.6,1.4,.052,-2.0,0.0,,7583000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
-salmojo01,2014-15,35,Phoenix Suns,NBA,21,12.9,.333,.500,1.0,0.6,0.4,0.2,2.0,5.1,0.1,.017,-2.9,-0.1,,2000000,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-1.11,0.38,salmojo01,2002-03,PHI,9.5,0.6,.058,-3.0,-0.1,,NBA,670800,23,64,7.9,.414,.743,0.9,0.7,0.3,0.1,2.1,PHI
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-1.21,1.05,salmojo01,2003-04,PHI,10.6,2.1,.064,-1.2,0.3,,NBA,865320,24,77,20.8,.387,.772,2.5,1.7,0.8,0.2,5.8,PHI
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-1.32,0.59,salmojo01,2004-05,PHI,9.7,1.4,.066,-2.3,-0.1,,NBA,925680,25,58,17.1,.405,.729,2.1,2.0,0.7,0.2,4.1,PHI
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-3.42,-1.55,salmojo01,2005-06,PHI,10.7,1.7,.040,-3.0,-0.5,,NBA,1669001,26,82,25.1,.420,.775,2.7,2.7,0.9,0.2,7.5,PHI
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-2.60,-0.45,salmojo01,2006-07,SAC,12.7,3.6,.081,-0.4,0.9,,NBA,4400000,27,79,27.0,.456,.779,3.3,3.2,0.9,0.3,8.5,SAC
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-3.59,-2.09,salmojo01,2007-08,SAC,13.9,3.7,.071,-0.6,0.9,,NBA,4752000,28,81,31.1,.477,.823,4.3,2.6,1.1,0.4,12.5,SAC
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-2.94,-1.21,salmojo01,2008-09,TOT,16.0,5.6,.090,-0.1,1.4,,NBA,5104000,29,79,37.5,.472,.830,4.2,3.2,1.1,0.3,18.3,"SAC,CHI"
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",+0.89,6.72,salmojo01,2009-10,TOT,14.7,7.1,.121,1.0,2.1,,NBA,5456000,30,81,34.9,.441,.830,3.3,2.8,1.2,0.3,15.4,"CHI,MIL"
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-0.41,3.19,salmojo01,2010-11,MIL,12.8,4.3,.081,-0.2,1.2,,NBA,8000000,31,73,35.0,.415,.813,3.6,3.5,1.0,0.4,14.0,MIL
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-2.60,-0.33,salmojo01,2011-12,SAC,9.0,0.4,.014,-2.9,-0.3,,NBA,8500000,32,46,27.2,.409,.644,2.9,2.0,0.8,0.2,7.5,SAC
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",+0.64,4.49,salmojo01,2012-13,SAC,10.2,1.6,.034,-1.8,0.1,,NBA,8083000,33,76,30.0,.399,.773,2.7,3.0,0.7,0.3,8.8,SAC
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-1.61,0.78,salmojo01,2013-14,TOT,7.8,1.7,.046,-2.1,0.0,,NBA,7583000,34,78,22.1,.363,.769,2.1,1.9,0.6,0.2,5.2,"SAC,TOR"
+John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false,"Plymouth-Whitemarsh in Plymouth Meeting, Pennsylvania",-2.82,-0.10,salmojo01,2014-15,NOP,5.1,0.1,.017,-2.9,-0.1,,NBA,2000000,35,21,12.9,.333,.500,1.0,0.6,0.4,0.2,2.0,NOP

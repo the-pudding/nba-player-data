@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-onuakch01,2016-17,20,Houston Rockets,NBA,5,10.4,.714,1.000,2.0,0.6,0.6,0.2,2.8,12.3,0.1,.123,-0.6,0.0,,543471,"Riverdale Baptist in Upper Marlboro, Maryland"
-onuakch01,2017-18,21,Houston Rockets,NBA,1,22.0,.400,,4.0,1.0,0.0,0.0,4.0,-3.2,-0.1,-0.147,-12.3,-0.1,,1312611,"Riverdale Baptist in Upper Marlboro, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chinanu Onuaku,/players/o/onuakch01.html,2017,2018,University of Louisville,true,"Riverdale Baptist in Upper Marlboro, Maryland",-1.67,0.03,onuakch01,2016-17,HOU,12.3,0.1,.123,-0.6,0.0,,NBA,543471,20,5,10.4,.714,1.000,2.0,0.6,0.6,0.2,2.8,HOU
+Chinanu Onuaku,/players/o/onuakch01.html,2017,2018,University of Louisville,true,"Riverdale Baptist in Upper Marlboro, Maryland",-0.89,0.02,onuakch01,2017-18,HOU,-3.2,-0.1,-0.147,-12.3,-0.1,,NBA,1312611,21,1,22.0,.400,,4.0,1.0,0.0,0.0,4.0,HOU

@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bonnema01,2004-05,24,Toronto Raptors,NBA,82,18.9,.533,.789,3.5,0.6,0.5,0.2,7.2,14.7,4.2,.130,-0.1,0.7,,385277,"Concord in Concord, New Hampshire"
-bonnema01,2005-06,25,Toronto Raptors,NBA,78,21.9,.448,.829,3.6,0.7,0.6,0.4,7.5,13.7,4.1,.114,0.7,1.2,,2000000,"Concord in Concord, New Hampshire"
-bonnema01,2006-07,26,San Antonio Spurs,NBA,56,11.7,.447,.711,2.8,0.4,0.3,0.2,4.9,16.4,2.2,.163,0.4,0.4,,2000000,"Concord in Concord, New Hampshire"
-bonnema01,2007-08,27,San Antonio Spurs,NBA,68,12.5,.416,.864,2.8,0.5,0.2,0.3,4.8,12.4,2.0,.110,-1.6,0.1,,2678000,"Concord in Concord, New Hampshire"
-bonnema01,2008-09,28,San Antonio Spurs,NBA,81,23.8,.496,.739,4.8,1.0,0.6,0.3,8.2,15.0,6.8,.169,2.6,2.2,,2987000,"Concord in Concord, New Hampshire"
-bonnema01,2009-10,29,San Antonio Spurs,NBA,65,17.9,.446,.729,3.3,1.0,0.5,0.4,7.0,14.9,3.7,.153,2.5,1.3,,3240380,"Concord in Concord, New Hampshire"
-bonnema01,2010-11,30,San Antonio Spurs,NBA,66,21.7,.464,.744,3.6,0.9,0.4,0.3,7.3,13.5,4.4,.147,2.0,1.5,,3000000,"Concord in Concord, New Hampshire"
-bonnema01,2011-12,31,San Antonio Spurs,NBA,65,20.4,.440,.762,3.3,0.9,0.2,0.3,6.6,13.2,4.0,.143,2.0,1.3,,3315000,"Concord in Concord, New Hampshire"
-bonnema01,2012-13,32,San Antonio Spurs,NBA,68,13.4,.487,.733,1.9,0.5,0.3,0.3,4.2,11.8,2.5,.133,0.5,0.6,,3630000,"Concord in Concord, New Hampshire"
-bonnema01,2013-14,33,San Antonio Spurs,NBA,61,11.3,.445,.750,2.1,0.5,0.2,0.2,3.2,11.2,1.8,.123,0.3,0.4,,3945000,"Concord in Concord, New Hampshire"
-bonnema01,2014-15,34,San Antonio Spurs,NBA,72,13.0,.409,.811,1.6,0.7,0.1,0.2,3.7,10.1,2.1,.110,-0.9,0.3,,1448490,"Concord in Concord, New Hampshire"
-bonnema01,2015-16,35,San Antonio Spurs,NBA,30,6.9,.509,.750,0.9,0.3,0.2,0.0,2.5,14.1,0.8,.181,1.6,0.2,,1499187,"Concord in Concord, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",-1.50,0.83,bonnema01,2004-05,TOR,14.7,4.2,.130,-0.1,0.7,,NBA,385277,24,82,18.9,.533,.789,3.5,0.6,0.5,0.2,7.2,TOR
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",-0.36,2.22,bonnema01,2005-06,TOR,13.7,4.1,.114,0.7,1.2,,NBA,2000000,25,78,21.9,.448,.829,3.6,0.7,0.6,0.4,7.5,TOR
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",-1.43,0.38,bonnema01,2006-07,SAS,16.4,2.2,.163,0.4,0.4,,NBA,2000000,26,56,11.7,.447,.711,2.8,0.4,0.3,0.2,4.9,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+0.03,1.35,bonnema01,2007-08,SAS,12.4,2.0,.110,-1.6,0.1,,NBA,2678000,27,68,12.5,.416,.864,2.8,0.5,0.2,0.3,4.8,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+3.15,7.37,bonnema01,2008-09,SAS,15.0,6.8,.169,2.6,2.2,,NBA,2987000,28,81,23.8,.496,.739,4.8,1.0,0.6,0.3,8.2,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+1.23,3.15,bonnema01,2009-10,SAS,14.9,3.7,.153,2.5,1.3,,NBA,3240380,29,65,17.9,.446,.729,3.3,1.0,0.5,0.4,7.0,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+0.60,3.01,bonnema01,2010-11,SAS,13.5,4.4,.147,2.0,1.5,,NBA,3000000,30,66,21.7,.464,.744,3.6,0.9,0.4,0.3,7.3,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+2.48,4.79,bonnema01,2011-12,SAS,13.2,4.0,.143,2.0,1.3,,NBA,3315000,31,65,20.4,.440,.762,3.3,0.9,0.2,0.3,6.6,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",-0.71,1.24,bonnema01,2012-13,SAS,11.8,2.5,.133,0.5,0.6,,NBA,3630000,32,68,13.4,.487,.733,1.9,0.5,0.3,0.3,4.2,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+0.69,1.66,bonnema01,2013-14,SAS,11.2,1.8,.123,0.3,0.4,,NBA,3945000,33,61,11.3,.445,.750,2.1,0.5,0.2,0.2,3.2,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",-1.37,0.58,bonnema01,2014-15,SAS,10.1,2.1,.110,-0.9,0.3,,NBA,1448490,34,72,13.0,.409,.811,1.6,0.7,0.1,0.2,3.7,SAS
+Matt Bonner,/players/b/bonnema01.html,2005,2016,University of Florida,false,"Concord in Concord, New Hampshire",+0.55,0.39,bonnema01,2015-16,SAS,14.1,0.8,.181,1.6,0.2,,NBA,1499187,35,30,6.9,.509,.750,0.9,0.3,0.2,0.0,2.5,SAS

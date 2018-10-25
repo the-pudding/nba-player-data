@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hawkimi01,1996-97,24,BOS,NBA,29,11.2,.426,.800,1.1,2.2,0.6,0.0,2.8,10.6,0.2,.033,-5.0,-0.2,,"McKinley in Canton, Ohio",
-hawkimi01,1997-98,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"McKinley in Canton, Ohio",
-hawkimi01,1998-99,26,Sacramento Kings,NBA,24,8.5,.350,1.000,1.0,1.1,0.1,0.0,1.5,7.2,0.0,.011,-5.2,-0.2,,"McKinley in Canton, Ohio",350000
-hawkimi01,1999-00,27,Charlotte Hornets,NBA,12,3.0,.231,.500,0.6,1.1,0.0,0.0,0.7,8.8,0.0,-0.063,-8.1,-0.1,,"McKinley in Canton, Ohio",465029
-hawkimi01,2000-01,28,Cleveland Cavaliers,NBA,10,7.6,.333,,0.5,1.3,0.2,0.0,0.8,3.7,0.0,-0.022,-7.5,-0.1,,"McKinley in Canton, Ohio",423500
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Michael Hawkins,/players/h/hawkimi01.html,1997,2001,Xavier University,false,"McKinley in Canton, Ohio",-2.05,0.05,hawkimi01,1996-97,BOS,10.6,0.2,.033,-5.0,-0.2,,24,NBA,29,11.2,.426,.800,1.1,2.2,0.6,0.0,2.8,BOS,
+Michael Hawkins,/players/h/hawkimi01.html,1997,2001,Xavier University,false,"McKinley in Canton, Ohio",,,hawkimi01,1997-98,Did Not Play (other pro league—Greece),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Michael Hawkins,/players/h/hawkimi01.html,1997,2001,Xavier University,false,"McKinley in Canton, Ohio",-1.57,0.09,hawkimi01,1998-99,SAC,7.2,0.0,.011,-5.2,-0.2,,26,NBA,24,8.5,.350,1.000,1.0,1.1,0.1,0.0,1.5,SAC,350000
+Michael Hawkins,/players/h/hawkimi01.html,1997,2001,Xavier University,false,"McKinley in Canton, Ohio",-0.14,0.05,hawkimi01,1999-00,CHH,8.8,0.0,-0.063,-8.1,-0.1,,27,NBA,12,3.0,.231,.500,0.6,1.1,0.0,0.0,0.7,CHH,465029
+Michael Hawkins,/players/h/hawkimi01.html,1997,2001,Xavier University,false,"McKinley in Canton, Ohio",-0.15,0.11,hawkimi01,2000-01,CLE,3.7,0.0,-0.022,-7.5,-0.1,,28,NBA,10,7.6,.333,,0.5,1.3,0.2,0.0,0.8,CLE,423500

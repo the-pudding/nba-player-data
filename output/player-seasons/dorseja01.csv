@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dorseja01,1977-78,23,"DEN,POR",NBA,11,8.0,.387,.625,2.7,0.5,0.2,0.3,3.1,12.2,0.2,.092,-3.9,0.0,,"Archer in Atlanta, Georgia"
-dorseja01,1978-79,24,HOU,NBA,20,5.4,.558,.500,1.2,0.1,0.1,0.1,2.8,12.5,0.2,.076,-5.0,-0.1,,"Archer in Atlanta, Georgia"
-dorseja01,1979-80,25,Did Not Play,,,,,,,,,,,,,,,,,"Archer in Atlanta, Georgia"
-dorseja01,1980-81,26,SEA,NBA,29,8.7,.286,.520,3.0,0.3,0.3,0.0,1.8,5.4,-0.1,-0.010,-7.5,-0.4,,"Archer in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jacky Dorsey,/players/d/dorseja01.html,1978,1981,University of Georgia,false,"Archer in Atlanta, Georgia",+0.70,0.18,dorseja01,1977-78,TOT,12.2,0.2,.092,-3.9,0.0,,23,NBA,11,8.0,.387,.625,2.7,0.5,0.2,0.3,3.1,"DEN,POR"
+Jacky Dorsey,/players/d/dorseja01.html,1978,1981,University of Georgia,false,"Archer in Atlanta, Georgia",-0.03,0.17,dorseja01,1978-79,HOU,12.5,0.2,.076,-5.0,-0.1,,24,NBA,20,5.4,.558,.500,1.2,0.1,0.1,0.1,2.8,HOU
+Jacky Dorsey,/players/d/dorseja01.html,1978,1981,University of Georgia,false,"Archer in Atlanta, Georgia",,,dorseja01,1979-80,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play
+Jacky Dorsey,/players/d/dorseja01.html,1978,1981,University of Georgia,false,"Archer in Atlanta, Georgia",-1.06,0.20,dorseja01,1980-81,SEA,5.4,-0.1,-0.010,-7.5,-0.4,,26,NBA,29,8.7,.286,.520,3.0,0.3,0.3,0.0,1.8,SEA

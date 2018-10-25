@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-barroda01,1989-90,22,SEA,NBA,81,20.1,.405,.809,1.6,2.5,0.7,0.0,9.7,12.8,1.8,.053,-2.1,0.0,,"Xaverian in Westwood, Massachusetts",
-barroda01,1990-91,23,Seattle SuperSonics,NBA,66,11.4,.495,.918,1.1,1.7,0.3,0.0,6.3,18.8,2.5,.158,-0.2,0.3,,"Xaverian in Westwood, Massachusetts",500000
-barroda01,1991-92,24,Seattle SuperSonics,NBA,75,17.7,.483,.759,1.1,1.7,0.7,0.1,8.3,15.0,3.6,.132,-0.3,0.6,,"Xaverian in Westwood, Massachusetts",500000
-barroda01,1992-93,25,Seattle SuperSonics,NBA,69,18.0,.451,.831,1.6,2.2,0.9,0.0,7.8,15.0,3.5,.134,0.3,0.7,,"Xaverian in Westwood, Massachusetts",500000
-barroda01,1993-94,26,Philadelphia 76ers,NBA,81,31.1,.469,.800,2.4,5.2,1.3,0.1,13.3,16.0,4.7,.089,-0.2,1.2,,"Xaverian in Westwood, Massachusetts",750000
-barroda01,1994-95,27,Philadelphia 76ers,NBA,82,40.5,.490,.899,3.3,7.5,1.8,0.0,20.6,20.9,12.7,.183,4.3,5.3,,"Xaverian in Westwood, Massachusetts",937500
-barroda01,1995-96,28,Boston Celtics,NBA,80,29.1,.470,.884,2.4,3.8,0.7,0.0,13.0,15.6,5.6,.116,0.2,1.3,,"Xaverian in Westwood, Massachusetts",3300000
-barroda01,1996-97,29,Boston Celtics,NBA,24,29.5,.435,.860,2.0,3.4,1.1,0.3,12.5,14.0,1.0,.065,-2.5,-0.1,,"Xaverian in Westwood, Massachusetts",3400000
-barroda01,1997-98,30,Boston Celtics,NBA,80,21.1,.461,.847,1.9,3.6,1.0,0.1,9.8,18.6,5.6,.160,0.7,1.1,,"Xaverian in Westwood, Massachusetts",3400000
-barroda01,1998-99,31,Boston Celtics,NBA,50,23.1,.453,.877,2.1,4.2,1.0,0.1,9.3,17.7,3.4,.139,0.3,0.7,,"Xaverian in Westwood, Massachusetts",3500000
-barroda01,1999-00,32,Boston Celtics,NBA,72,15.8,.451,.868,1.4,1.8,0.4,0.1,7.2,15.1,2.4,.103,-2.3,-0.1,,"Xaverian in Westwood, Massachusetts",3500000
-barroda01,2000-01,33,Detroit Pistons,NBA,60,18.0,.444,.850,1.6,1.8,0.5,0.0,8.0,14.3,2.3,.101,-2.1,0.0,,"Xaverian in Westwood, Massachusetts",3700000
-barroda01,2001-02,34,Detroit Pistons,NBA,29,20.1,.385,.778,2.0,2.7,0.5,0.1,6.7,10.5,0.5,.040,-4.0,-0.3,,"Xaverian in Westwood, Massachusetts",1600000
-barroda01,2002-03,35,Did Not Play (waived),,,,,,,,,,,,,,,,,"Xaverian in Westwood, Massachusetts",
-barroda01,2003-04,36,BOS,NBA,1,11.0,.667,1.000,0.0,0.0,0.0,0.0,6.0,17.8,0.1,.256,-4.2,0.0,,"Xaverian in Westwood, Massachusetts",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-1.68,0.72,barroda01,1989-90,SEA,12.8,1.8,.053,-2.1,0.0,,22,NBA,81,20.1,.405,.809,1.6,2.5,0.7,0.0,9.7,SEA,
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",+0.19,1.29,barroda01,1990-91,SEA,18.8,2.5,.158,-0.2,0.3,,23,NBA,66,11.4,.495,.918,1.1,1.7,0.3,0.0,6.3,SEA,500000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-0.34,1.88,barroda01,1991-92,SEA,15.0,3.6,.132,-0.3,0.6,,24,NBA,75,17.7,.483,.759,1.1,1.7,0.7,0.1,8.3,SEA,500000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",+0.24,2.34,barroda01,1992-93,SEA,15.0,3.5,.134,0.3,0.7,,25,NBA,69,18.0,.451,.831,1.6,2.2,0.9,0.0,7.8,SEA,500000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-0.64,2.79,barroda01,1993-94,PHI,16.0,4.7,.089,-0.2,1.2,,26,NBA,81,31.1,.469,.800,2.4,5.2,1.3,0.1,13.3,PHI,750000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",+2.63,10.89,barroda01,1994-95,PHI,20.9,12.7,.183,4.3,5.3,,27,NBA,82,40.5,.490,.899,3.3,7.5,1.8,0.0,20.6,PHI,937500
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-0.58,2.69,barroda01,1995-96,BOS,15.6,5.6,.116,0.2,1.3,,28,NBA,80,29.1,.470,.884,2.4,3.8,0.7,0.0,13.0,BOS,3300000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-1.87,0.20,barroda01,1996-97,BOS,14.0,1.0,.065,-2.5,-0.1,,29,NBA,24,29.5,.435,.860,2.0,3.4,1.1,0.3,12.5,BOS,3400000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",+0.88,3.63,barroda01,1997-98,BOS,18.6,5.6,.160,0.7,1.1,,30,NBA,80,21.1,.461,.847,1.9,3.6,1.0,0.1,9.8,BOS,3400000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",+0.41,2.12,barroda01,1998-99,BOS,17.7,3.4,.139,0.3,0.7,,31,NBA,50,23.1,.453,.877,2.1,4.2,1.0,0.1,9.3,BOS,3500000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-1.34,0.71,barroda01,1999-00,BOS,15.1,2.4,.103,-2.3,-0.1,,32,NBA,72,15.8,.451,.868,1.4,1.8,0.4,0.1,7.2,BOS,3500000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-1.65,0.39,barroda01,2000-01,DET,14.3,2.3,.101,-2.1,0.0,,33,NBA,60,18.0,.444,.850,1.6,1.8,0.5,0.0,8.0,DET,3700000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",-1.08,0.46,barroda01,2001-02,DET,10.5,0.5,.040,-4.0,-0.3,,34,NBA,29,20.1,.385,.778,2.0,2.7,0.5,0.1,6.7,DET,1600000
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",,,barroda01,2002-03,Did Not Play (waived),,,,,,,35,,,,,,,,,,,Did Not Play (waived),
+Dana Barros,/players/b/barroda01.html,1990,2004,Boston College,false,"Xaverian in Westwood, Massachusetts",+0.28,0.02,barroda01,2003-04,BOS,17.8,0.1,.256,-4.2,0.0,,36,NBA,1,11.0,.667,1.000,0.0,0.0,0.0,0.0,6.0,BOS,

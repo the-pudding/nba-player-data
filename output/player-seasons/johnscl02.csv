@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnscl02,1981-82,25,LAL,NBA,7,9.3,.550,.500,1.7,1.0,0.4,0.4,3.6,12.8,0.1,.072,0.1,0.0,,"Manual in Kansas City, Missouri"
-johnscl02,1982-83,26,LAL,NBA,48,9.3,.393,.792,1.4,0.5,0.5,0.1,3.0,9.4,0.6,.061,-2.8,-0.1,,"Manual in Kansas City, Missouri"
-johnscl02,1983-84,27,SEA,NBA,25,7.0,.400,.636,0.5,0.6,0.3,0.1,2.2,6.8,0.0,-0.002,-5.5,-0.2,,"Manual in Kansas City, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Clay Johnson,/players/j/johnscl02.html,1982,1984,University of Missouri,false,"Manual in Kansas City, Missouri",-0.61,0.12,johnscl02,1981-82,LAL,12.8,0.1,.072,0.1,0.0,,25,NBA,7,9.3,.550,.500,1.7,1.0,0.4,0.4,3.6,LAL
+Clay Johnson,/players/j/johnscl02.html,1982,1984,University of Missouri,false,"Manual in Kansas City, Missouri",-2.56,-0.09,johnscl02,1982-83,LAL,9.4,0.6,.061,-2.8,-0.1,,26,NBA,48,9.3,.393,.792,1.4,0.5,0.5,0.1,3.0,LAL
+Clay Johnson,/players/j/johnscl02.html,1982,1984,University of Missouri,false,"Manual in Kansas City, Missouri",-0.80,0.18,johnscl02,1983-84,SEA,6.8,0.0,-0.002,-5.5,-0.2,,27,NBA,25,7.0,.400,.636,0.5,0.6,0.3,0.1,2.2,SEA

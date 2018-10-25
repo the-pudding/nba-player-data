@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jamesda01,2010-11,23,New Jersey Nets,NBA,25,16.1,.447,.643,3.4,0.8,0.6,0.5,4.4,10.1,0.1,.015,-3.4,-0.1,,1156320,"Nacogdoches in Nacogdoches, Texas"
-jamesda01,2011-12,24,New Jersey Nets,NBA,7,24.3,.371,.667,4.7,0.4,1.0,1.0,4.9,6.1,-0.2,-0.043,-6.3,-0.2,,1243080,"Nacogdoches in Nacogdoches, Texas"
-jamesda01,2012-13,25,Brooklyn Nets,NBA,2,0.0,,,0.5,0.0,0.0,0.0,0.0,,0.0,,-5.2,0.0,,50258,"Nacogdoches in Nacogdoches, Texas"
-jamesda01,2013-14,26,SAS,NBA,5,10.0,.222,1.000,2.4,0.6,0.0,0.2,1.2,4.1,0.0,.010,-5.5,0.0,,,"Nacogdoches in Nacogdoches, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damion James,/players/j/jamesda01.html,2011,2014,University of Texas at Austin,false,"Nacogdoches in Nacogdoches, Texas",-0.28,0.54,jamesda01,2010-11,NJN,10.1,0.1,.015,-3.4,-0.1,,NBA,1156320,23,25,16.1,.447,.643,3.4,0.8,0.6,0.5,4.4,NJN
+Damion James,/players/j/jamesda01.html,2011,2014,University of Texas at Austin,false,"Nacogdoches in Nacogdoches, Texas",-0.87,0.15,jamesda01,2011-12,NJN,6.1,-0.2,-0.043,-6.3,-0.2,,NBA,1243080,24,7,24.3,.371,.667,4.7,0.4,1.0,1.0,4.9,NJN
+Damion James,/players/j/jamesda01.html,2011,2014,University of Texas at Austin,false,"Nacogdoches in Nacogdoches, Texas",-0.50,0.00,jamesda01,2012-13,BRK,,0.0,,-5.2,0.0,,NBA,50258,25,2,0.0,,,0.5,0.0,0.0,0.0,0.0,BRK
+Damion James,/players/j/jamesda01.html,2011,2014,University of Texas at Austin,false,"Nacogdoches in Nacogdoches, Texas",+0.33,0.09,jamesda01,2013-14,SAS,4.1,0.0,.010,-5.5,0.0,,NBA,,26,5,10.0,.222,1.000,2.4,0.6,0.0,0.2,1.2,SAS

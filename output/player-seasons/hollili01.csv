@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hollili01,1976-77,23,POR,NBA,76,29.3,.432,.749,2.8,4.1,2.2,0.5,14.7,15.6,4.0,.086,0.4,1.3,,"Rancho in Las Vegas, Nevada"
-hollili01,1977-78,24,POR,NBA,81,33.8,.442,.743,3.4,4.7,1.9,0.4,15.9,14.3,5.2,.091,0.5,1.7,,"Rancho in Las Vegas, Nevada"
-hollili01,1978-79,25,POR,NBA,64,30.7,.454,.778,2.3,5.1,1.8,0.4,15.3,14.0,2.3,.055,-2.1,-0.1,,"Rancho in Las Vegas, Nevada"
-hollili01,1979-80,26,"POR,PHI",NBA,47,25.7,.403,.721,1.9,3.4,1.6,0.2,11.2,10.5,0.1,.006,-4.0,-0.6,,"Rancho in Las Vegas, Nevada"
-hollili01,1980-81,27,PHI,NBA,82,26.3,.470,.731,2.3,4.3,1.3,0.2,9.5,11.0,2.9,.064,-1.7,0.2,,"Rancho in Las Vegas, Nevada"
-hollili01,1981-82,28,PHI,NBA,81,27.9,.477,.702,2.3,3.9,1.3,0.2,11.0,12.5,3.4,.072,-1.4,0.3,,"Rancho in Las Vegas, Nevada"
-hollili01,1982-83,29,SDC,NBA,56,32.9,.437,.721,2.3,6.7,2.0,0.3,13.5,12.8,0.6,.016,-3.3,-0.6,,"Rancho in Las Vegas, Nevada"
-hollili01,1983-84,30,DET,NBA,32,6.8,.381,.846,0.7,1.9,0.4,0.0,1.8,10.5,0.1,.013,-5.5,-0.2,,"Rancho in Las Vegas, Nevada"
-hollili01,1984-85,31,HOU,NBA,80,24.4,.461,.794,2.2,5.2,1.0,0.1,7.6,11.1,2.5,.062,-2.7,-0.3,,"Rancho in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",+0.96,6.50,hollili01,1976-77,POR,15.6,4.0,.086,0.4,1.3,,23,NBA,76,29.3,.432,.749,2.8,4.1,2.2,0.5,14.7,POR
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",+1.31,7.37,hollili01,1977-78,POR,14.3,5.2,.091,0.5,1.7,,24,NBA,81,33.8,.442,.743,3.4,4.7,1.9,0.4,15.9,POR
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-0.74,2.08,hollili01,1978-79,POR,14.0,2.3,.055,-2.1,-0.1,,25,NBA,64,30.7,.454,.778,2.3,5.1,1.8,0.4,15.3,POR
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-1.96,0.28,hollili01,1979-80,TOT,10.5,0.1,.006,-4.0,-0.6,,26,NBA,47,25.7,.403,.721,1.9,3.4,1.6,0.2,11.2,"POR,PHI"
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-0.60,2.96,hollili01,1980-81,PHI,11.0,2.9,.064,-1.7,0.2,,27,NBA,82,26.3,.470,.731,2.3,4.3,1.3,0.2,9.5,PHI
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-0.45,2.92,hollili01,1981-82,PHI,12.5,3.4,.072,-1.4,0.3,,28,NBA,81,27.9,.477,.702,2.3,3.9,1.3,0.2,11.0,PHI
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-1.35,1.15,hollili01,1982-83,SDC,12.8,0.6,.016,-3.3,-0.6,,29,NBA,56,32.9,.437,.721,2.3,6.7,2.0,0.3,13.5,SDC
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-0.90,0.21,hollili01,1983-84,DET,10.5,0.1,.013,-5.5,-0.2,,30,NBA,32,6.8,.381,.846,0.7,1.9,0.4,0.0,1.8,DET
+Lionel Hollins,/players/h/hollili01.html,1976,1985,Arizona State University,false,"Rancho in Las Vegas, Nevada",-1.23,1.44,hollili01,1984-85,HOU,11.1,2.5,.062,-2.7,-0.3,,31,NBA,80,24.4,.461,.794,2.2,5.2,1.0,0.1,7.6,HOU

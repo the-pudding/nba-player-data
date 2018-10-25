@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-webstje01,1995-96,24,WSB,NBA,11,5.3,.348,,0.6,0.3,0.4,0.0,1.6,7.0,0.0,-0.030,-5.8,-0.1,,"Carl Albert in Midwest City, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jeff Webster,/players/w/webstje01.html,1996,1996,University of Oklahoma,false,"Carl Albert in Midwest City, Oklahoma",+0.06,0.09,webstje01,1995-96,WSB,7.0,0.0,-0.030,-5.8,-0.1,,24,NBA,11,5.3,.348,,0.6,0.3,0.4,0.0,1.6,WSB

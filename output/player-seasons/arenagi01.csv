@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-arenagi01,2001-02,20,Golden State Warriors,NBA,47,24.6,.453,.775,2.8,3.7,1.5,0.2,10.9,17.0,2.7,.114,1.2,0.9,,332817,"Grant in Van Nuys, California"
-arenagi01,2002-03,21,Golden State Warriors,NBA,82,35.0,.431,.791,4.7,6.3,1.5,0.2,18.3,18.6,6.5,.109,2.2,3.1,,512435,"Grant in Van Nuys, California"
-arenagi01,2003-04,22,Washington Wizards,NBA,55,37.6,.392,.748,4.6,5.0,1.9,0.2,19.6,16.0,2.6,.061,1.1,1.6,,8536000,"Grant in Van Nuys, California"
-arenagi01,2004-05,23,Washington Wizards,NBA,80,40.9,.431,.814,4.7,5.1,1.7,0.3,25.5,21.3,11.5,.169,4.0,4.9,All-NBA (3rd),9389600,"Grant in Van Nuys, California"
-arenagi01,2005-06,24,Washington Wizards,NBA,80,42.3,.447,.820,3.5,6.1,2.0,0.3,29.3,23.8,13.6,.193,5.5,6.4,All-NBA (3rd),10243200,"Grant in Van Nuys, California"
-arenagi01,2006-07,25,Washington Wizards,NBA,74,39.8,.418,.844,4.6,6.0,1.9,0.2,28.4,24.0,10.8,.177,5.0,5.2,All-NBA (2nd),11096800,"Grant in Van Nuys, California"
-arenagi01,2007-08,26,Washington Wizards,NBA,13,32.7,.398,.771,3.9,5.1,1.8,0.1,19.4,18.2,0.6,.070,0.7,0.3,,11950400,"Grant in Van Nuys, California"
-arenagi01,2008-09,27,Washington Wizards,NBA,2,31.5,.261,.750,4.5,10.0,0.0,0.5,13.0,18.9,0.2,.115,-1.7,0.0,,14653466,"Grant in Van Nuys, California"
-arenagi01,2009-10,28,Washington Wizards,NBA,32,36.5,.411,.739,4.2,7.2,1.3,0.3,22.6,18.7,1.8,.072,2.5,1.3,,16192080,"Grant in Van Nuys, California"
-arenagi01,2010-11,29,Orlando Magic,NBA,70,25.7,.366,.784,2.7,3.9,1.1,0.3,10.8,10.8,0.5,.014,-1.5,0.2,,17730694,"Grant in Van Nuys, California"
-arenagi01,2010-11,29,Orlando Magic,NBA,21,34.6,.394,.836,3.3,5.6,1.4,0.6,17.3,14.0,0.4,.025,-0.6,0.3,,17730694,"Grant in Van Nuys, California"
-arenagi01,2010-11,29,Orlando Magic,NBA,49,21.8,.344,.744,2.4,3.2,0.9,0.2,8.0,8.6,0.2,.007,-2.1,0.0,,17730694,"Grant in Van Nuys, California"
-arenagi01,2011-12,30,Orlando Magic,NBA,17,12.4,.406,.700,1.1,1.1,0.6,0.1,4.2,9.9,0.4,.088,-0.9,0.1,,19269307,"Grant in Van Nuys, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",-0.29,1.55,arenagi01,2001-02,GSW,17.0,2.7,.114,1.2,0.9,,NBA,332817,20,47,24.6,.453,.775,2.8,3.7,1.5,0.2,10.9,GSW
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",+0.09,4.59,arenagi01,2002-03,GSW,18.6,6.5,.109,2.2,3.1,,NBA,512435,21,82,35.0,.431,.791,4.7,6.3,1.5,0.2,18.3,GSW
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",-0.69,2.17,arenagi01,2003-04,WAS,16.0,2.6,.061,1.1,1.6,,NBA,8536000,22,55,37.6,.392,.748,4.6,5.0,1.9,0.2,19.6,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",+3.54,14.48,arenagi01,2004-05,WAS,21.3,11.5,.169,4.0,4.9,All-NBA (3rd),NBA,9389600,23,80,40.9,.431,.814,4.7,5.1,1.7,0.3,25.5,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",+3.72,14.59,arenagi01,2005-06,WAS,23.8,13.6,.193,5.5,6.4,All-NBA (3rd),NBA,10243200,24,80,42.3,.447,.820,3.5,6.1,2.0,0.3,29.3,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",+4.64,13.29,arenagi01,2006-07,WAS,24.0,10.8,.177,5.0,5.2,All-NBA (2nd),NBA,11096800,25,74,39.8,.418,.844,4.6,6.0,1.9,0.2,28.4,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",-1.22,0.37,arenagi01,2007-08,WAS,18.2,0.6,.070,0.7,0.3,,NBA,11950400,26,13,32.7,.398,.771,3.9,5.1,1.8,0.1,19.4,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",-0.03,0.10,arenagi01,2008-09,WAS,18.9,0.2,.115,-1.7,0.0,,NBA,14653466,27,2,31.5,.261,.750,4.5,10.0,0.0,0.5,13.0,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",+0.73,2.38,arenagi01,2009-10,WAS,18.7,1.8,.072,2.5,1.3,,NBA,16192080,28,32,36.5,.411,.739,4.2,7.2,1.3,0.3,22.6,WAS
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",-1.37,1.15,arenagi01,2010-11,TOT,10.8,0.5,.014,-1.5,0.2,,NBA,17730694,29,70,25.7,.366,.784,2.7,3.9,1.1,0.3,10.8,"WAS,ORL"
+Gilbert Arenas,/players/a/arenagi01.html,2002,2012,University of Arizona,false,"Grant in Van Nuys, California",-1.24,0.16,arenagi01,2011-12,MEM,9.9,0.4,.088,-0.9,0.1,,NBA,19269307,30,17,12.4,.406,.700,1.1,1.1,0.6,0.1,4.2,MEM

@@ -1,16 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-barroea01,2005-06,24,Miami Heat,NBA,8,5.6,.313,.750,1.3,0.0,0.0,0.0,1.6,-2.8,-0.2,-0.167,-20.4,-0.2,,398762,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2006-07,25,Miami Heat,NBA,28,7.3,.289,.944,1.5,0.2,0.2,0.1,2.3,6.6,-0.3,-0.062,-10.4,-0.4,,744551,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2007-08,26,Miami Heat,NBA,46,19.3,.404,.701,4.3,0.6,0.4,0.2,7.1,9.4,-0.4,-0.019,-7.7,-1.3,,973328,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2008-09,27,"Did Not Play (other pro league—Italy, D-League)",,,,,,,,,,,,,,,,,,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2009-10,28,NYK,NBA,7,33.1,.441,.759,11.0,1.1,0.6,0.6,11.7,14.7,0.4,.091,-3.8,-0.1,,,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2010-11,29,Phoenix Suns,NBA,21,14.5,.323,.625,3.6,0.5,0.4,0.3,3.8,6.2,-0.2,-0.039,-6.6,-0.3,,188558,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2010-11,29,Phoenix Suns,NBA,12,15.3,.235,.600,3.3,0.3,0.5,0.3,3.0,1.5,-0.4,-0.106,-8.5,-0.3,,188558,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2010-11,29,Phoenix Suns,NBA,7,12.1,.459,1.000,3.1,0.6,0.3,0.3,5.1,17.3,0.2,.130,-0.9,0.0,,188558,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2010-11,29,Phoenix Suns,NBA,2,18.5,.273,.500,7.0,1.5,0.0,0.0,3.5,3.8,-0.1,-0.093,-10.1,-0.1,,188558,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2011-12,30,Golden State Warriors,NBA,2,4.5,.500,,0.5,0.0,0.0,0.0,2.0,4.7,0.0,.054,-10.3,0.0,,185588,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2012-13,31,Washington Wizards,NBA,12,13.3,.353,.429,5.1,0.4,0.4,0.5,3.3,8.9,0.0,-0.003,-6.6,-0.2,,358600,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2012-13,31,Washington Wizards,NBA,11,11.1,.351,.400,3.9,0.3,0.5,0.5,2.5,6.9,-0.1,-0.025,-6.8,-0.1,,358600,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2012-13,31,Washington Wizards,NBA,1,37.0,.357,.500,18.0,2.0,0.0,1.0,11.0,15.4,0.1,.069,-5.9,0.0,,358600,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2013-14,32,Did Not Play,,,,,,,,,,,,,,,,,,"Clarksdale in Clarksdale, Mississippi"
-barroea01,2014-15,33,Phoenix Suns,NBA,16,8.9,.308,.500,1.8,0.3,0.3,0.1,2.0,5.0,0.0,-0.011,-5.9,-0.1,,107676,"Clarksdale in Clarksdale, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-0.71,0.05,barroea01,2005-06,MIA,-2.8,-0.2,-0.167,-20.4,-0.2,,NBA,398762,24,8,5.6,.313,.750,1.3,0.0,0.0,0.0,1.6,MIA
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-1.23,0.14,barroea01,2006-07,MIA,6.6,-0.3,-0.062,-10.4,-0.4,,NBA,744551,25,28,7.3,.289,.944,1.5,0.2,0.2,0.1,2.3,MIA
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-3.92,-1.01,barroea01,2007-08,MIA,9.4,-0.4,-0.019,-7.7,-1.3,,NBA,973328,26,46,19.3,.404,.701,4.3,0.6,0.4,0.2,7.1,MIA
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",,,barroea01,2008-09,"Did Not Play (other pro league—Italy, D-League)",,,,,,,,,27,,,,,,,,,,"Did Not Play (other pro league—Italy, D-League)"
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-0.71,0.26,barroea01,2009-10,NYK,14.7,0.4,.091,-3.8,-0.1,,NBA,,28,7,33.1,.441,.759,11.0,1.1,0.6,0.6,11.7,NYK
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-3.15,-0.17,barroea01,2010-11,TOT,6.2,-0.2,-0.039,-6.6,-0.3,,NBA,188558,29,21,14.5,.323,.625,3.6,0.5,0.4,0.3,3.8,"PHO,MIL,POR"
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-0.39,0.01,barroea01,2011-12,GSW,4.7,0.0,.054,-10.3,0.0,,NBA,185588,30,2,4.5,.500,,0.5,0.0,0.0,0.0,2.0,GSW
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-0.47,0.19,barroea01,2012-13,TOT,8.9,0.0,-0.003,-6.6,-0.2,,NBA,358600,31,12,13.3,.353,.429,5.1,0.4,0.4,0.5,3.3,"WAS,NYK"
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",,,barroea01,2013-14,Did Not Play,,,,,,,,,32,,,,,,,,,,Did Not Play
+Earl Barron,/players/b/barroea01.html,2006,2015,University of Memphis,false,"Clarksdale in Clarksdale, Mississippi",-1.50,0.06,barroea01,2014-15,PHO,5.0,0.0,-0.011,-5.9,-0.1,,NBA,107676,33,16,8.9,.308,.500,1.8,0.3,0.3,0.1,2.0,PHO

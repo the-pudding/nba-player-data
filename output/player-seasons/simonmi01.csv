@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-simonmi01,1998-99,23,Orlando Magic,NBA,5,3.8,.200,,0.4,0.0,0.2,0.0,0.4,-7.2,-0.1,-0.289,-15.5,-0.1,,287500,"Mater Dei in Santa Ana, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Miles Simon,/players/s/simonmi01.html,1999,1999,University of Arizona,false,"Mater Dei in Santa Ana, California",+0.68,0.04,simonmi01,1998-99,ORL,-7.2,-0.1,-0.289,-15.5,-0.1,,NBA,287500,23,5,3.8,.200,,0.4,0.0,0.2,0.0,0.4,ORL

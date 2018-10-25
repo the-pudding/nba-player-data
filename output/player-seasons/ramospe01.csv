@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ramospe01,2004-05,19,Washington Wizards,NBA,6,3.3,.500,.500,0.7,0.0,0.0,0.2,1.8,8.2,0.0,-0.108,-18.3,-0.1,,600000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Peter John Ramos,/players/r/ramospe01.html,2005,2005,,false,,-1.12,0.01,ramospe01,2004-05,WAS,8.2,0.0,-0.108,-18.3,-0.1,,NBA,600000,19,6,3.3,.500,.500,0.7,0.0,0.0,0.2,1.8,WAS

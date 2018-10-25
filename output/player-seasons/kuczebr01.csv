@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kuczebr01,1983-84,22,"NJN,PHI,IND",NBA,15,7.9,.270,.667,1.5,0.5,0.1,0.1,1.9,-0.5,-0.4,-0.152,-11.6,-0.3,,"Central in Bristol, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bruce Kuczenski,/players/k/kuczebr01.html,1984,1984,University of Connecticut,false,"Central in Bristol, Connecticut",-0.85,0.11,kuczebr01,1983-84,TOT,-0.5,-0.4,-0.152,-11.6,-0.3,,22,NBA,15,7.9,.270,.667,1.5,0.5,0.1,0.1,1.9,"NJN,PHI,IND"

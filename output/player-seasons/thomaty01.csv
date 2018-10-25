@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thomaty01,2006-07,20,Chicago Bulls,NBA,72,13.4,.475,.606,3.7,0.6,0.6,1.1,5.2,14.8,2.2,.110,0.1,0.5,,3260760,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2007-08,21,Chicago Bulls,NBA,74,18.0,.423,.741,4.6,1.2,0.6,1.0,6.8,14.6,2.4,.088,-0.7,0.5,,3505320,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2008-09,22,Chicago Bulls,NBA,79,27.5,.451,.783,6.4,1.0,1.2,1.9,10.8,15.9,4.6,.101,0.2,1.2,,3749880,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2009-10,23,Charlotte Bobcats,NBA,54,22.6,.462,.686,6.2,1.0,1.2,1.6,9.4,16.8,2.6,.103,0.1,0.6,,4743598,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2009-10,23,Charlotte Bobcats,NBA,29,23.4,.483,.644,6.3,1.1,1.4,1.7,8.8,16.5,1.4,.101,0.9,0.5,,4743598,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2009-10,23,Charlotte Bobcats,NBA,25,21.7,.442,.729,6.1,0.9,0.9,1.5,10.1,17.1,1.2,.106,-0.9,0.1,,4743598,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2010-11,24,Charlotte Bobcats,NBA,41,21.0,.471,.787,5.5,0.7,0.7,1.6,10.2,18.2,1.8,.103,-1.2,0.2,,6611570,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2011-12,25,Charlotte Bobcats,NBA,54,18.8,.367,.759,3.7,0.6,0.7,1.1,5.6,9.0,-0.6,-0.029,-5.4,-0.9,,7305765,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2012-13,26,Charlotte Bobcats,NBA,26,13.8,.353,.839,2.3,0.7,0.5,0.6,4.8,9.6,-0.2,-0.025,-6.2,-0.4,,8000000,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2013-14,27,Did Not Play,,,,,,,,,,,,,,,,,,"McKinley in Baton Rouge, Louisiana"
-thomaty01,2014-15,28,Charlotte Hornets,NBA,2,3.5,1.000,1.000,0.0,0.5,0.0,0.0,2.0,31.4,0.1,.477,-1.6,0.0,,9388000,"McKinley in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",+1.65,2.95,thomaty01,2006-07,CHI,14.8,2.2,.110,0.1,0.5,,NBA,3260760,20,72,13.4,.475,.606,3.7,0.6,0.6,1.1,5.2,CHI
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",+0.88,2.86,thomaty01,2007-08,CHI,14.6,2.4,.088,-0.7,0.5,,NBA,3505320,21,74,18.0,.423,.741,4.6,1.2,0.6,1.0,6.8,CHI
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",-0.89,2.24,thomaty01,2008-09,CHI,15.9,4.6,.101,0.2,1.2,,NBA,3749880,22,79,27.5,.451,.783,6.4,1.0,1.2,1.9,10.8,CHI
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",+0.67,2.60,thomaty01,2009-10,TOT,16.8,2.6,.103,0.1,0.6,,NBA,4743598,23,54,22.6,.462,.686,6.2,1.0,1.2,1.6,9.4,"CHI,CHA"
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",+0.67,1.73,thomaty01,2010-11,CHA,18.2,1.8,.103,-1.2,0.2,,NBA,6611570,24,41,21.0,.471,.787,5.5,0.7,0.7,1.6,10.2,CHA
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",-3.07,-0.59,thomaty01,2011-12,CHA,9.0,-0.6,-0.029,-5.4,-0.9,,NBA,7305765,25,54,18.8,.367,.759,3.7,0.6,0.7,1.1,5.6,CHA
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",-3.01,-0.18,thomaty01,2012-13,CHA,9.6,-0.2,-0.025,-6.2,-0.4,,NBA,8000000,26,26,13.8,.353,.839,2.3,0.7,0.5,0.6,4.8,CHA
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",,,thomaty01,2013-14,Did Not Play,,,,,,,,,27,,,,,,,,,,Did Not Play
+Tyrus Thomas,/players/t/thomaty01.html,2007,2015,Louisiana State University,false,"McKinley in Baton Rouge, Louisiana",+0.23,0.01,thomaty01,2014-15,MEM,31.4,0.1,.477,-1.6,0.0,,NBA,9388000,28,2,3.5,1.000,1.000,0.0,0.5,0.0,0.0,2.0,MEM

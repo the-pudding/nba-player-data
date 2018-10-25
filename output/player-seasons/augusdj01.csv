@@ -1,18 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-augusdj01,2008-09,21,Charlotte Bobcats,NBA,72,26.5,.430,.893,1.8,3.5,0.6,0.0,11.8,14.9,5.1,.128,-0.7,0.6,,2208960,"Hightower in Missouri City, Texas"
-augusdj01,2009-10,22,Charlotte Bobcats,NBA,80,18.4,.386,.779,1.2,2.4,0.6,0.1,6.4,11.2,2.8,.092,-2.6,-0.2,,2385480,"Hightower in Missouri City, Texas"
-augusdj01,2010-11,23,Charlotte Bobcats,NBA,82,33.6,.416,.906,2.7,6.1,0.7,0.0,14.4,15.9,6.2,.108,-0.4,1.1,,2540400,"Hightower in Missouri City, Texas"
-augusdj01,2011-12,24,Charlotte Bobcats,NBA,48,29.3,.376,.875,2.3,6.4,0.8,0.0,11.1,14.1,0.5,.018,-3.6,-0.6,,3236470,"Hightower in Missouri City, Texas"
-augusdj01,2012-13,25,Indiana Pacers,NBA,76,16.1,.350,.838,1.2,2.2,0.4,0.0,4.7,11.0,2.8,.112,-1.9,0.0,,3500000,"Hightower in Missouri City, Texas"
-augusdj01,2013-14,26,Toronto Raptors,NBA,71,27.3,.415,.885,1.8,4.4,0.7,0.0,13.1,16.2,6.2,.154,0.4,1.2,,1267000,"Hightower in Missouri City, Texas"
-augusdj01,2013-14,26,Toronto Raptors,NBA,10,8.2,.292,1.000,0.4,1.0,0.1,0.0,2.1,1.2,-0.2,-0.112,-11.2,-0.2,,1267000,"Hightower in Missouri City, Texas"
-augusdj01,2013-14,26,Toronto Raptors,NBA,61,30.4,.419,.882,2.1,5.0,0.9,0.0,14.9,16.8,6.4,.166,1.0,1.4,,1267000,"Hightower in Missouri City, Texas"
-augusdj01,2014-15,27,Oklahoma City Thunder,NBA,82,24.0,.399,.868,2.0,4.3,0.6,0.0,9.5,13.9,3.4,.083,-2.5,-0.3,,3000000,"Hightower in Missouri City, Texas"
-augusdj01,2014-15,27,Oklahoma City Thunder,NBA,54,23.8,.410,.870,1.9,4.9,0.6,0.0,10.6,15.8,2.5,.094,-2.4,-0.1,,3000000,"Hightower in Missouri City, Texas"
-augusdj01,2014-15,27,Oklahoma City Thunder,NBA,28,24.2,.371,.861,2.2,3.1,0.6,0.0,7.3,10.2,0.9,.063,-2.8,-0.1,,3000000,"Hightower in Missouri City, Texas"
-augusdj01,2015-16,28,Denver Nuggets,NBA,62,19.0,.423,.805,1.5,3.2,0.6,0.1,7.5,13.9,2.6,.106,-1.7,0.1,,3000000,"Hightower in Missouri City, Texas"
-augusdj01,2015-16,28,Denver Nuggets,NBA,34,15.3,.380,.765,1.3,1.9,0.4,0.1,4.2,8.7,0.7,.065,-3.3,-0.2,,3000000,"Hightower in Missouri City, Texas"
-augusdj01,2015-16,28,Denver Nuggets,NBA,28,23.5,.445,.819,1.9,4.7,0.9,0.1,11.6,18.0,1.9,.139,-0.5,0.3,,3000000,"Hightower in Missouri City, Texas"
-augusdj01,2016-17,29,Orlando Magic,NBA,78,19.7,.377,.814,1.5,2.7,0.4,0.0,7.9,11.0,1.2,.038,-4.2,-0.9,,7250000,"Hightower in Missouri City, Texas"
-augusdj01,2017-18,30,Orlando Magic,NBA,75,23.5,.452,.868,2.1,3.8,0.7,0.0,10.2,15.4,4.1,.110,-0.9,0.5,,7250000,"Hightower in Missouri City, Texas"
-augusdj01,2018-19,31,ORL,NBA,4,26.8,.286,.889,2.0,5.8,0.3,0.0,8.0,8.5,0.0,-0.007,-7.4,-0.1,,,"Hightower in Missouri City, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-1.34,1.22,augusdj01,2008-09,CHA,14.9,5.1,.128,-0.7,0.6,,NBA,2208960,21,72,26.5,.430,.893,1.8,3.5,0.6,0.0,11.8,CHA
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-1.46,0.82,augusdj01,2009-10,CHA,11.2,2.8,.092,-2.6,-0.2,,NBA,2385480,22,80,18.4,.386,.779,1.2,2.4,0.6,0.1,6.4,CHA
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-1.16,2.08,augusdj01,2010-11,CHA,15.9,6.2,.108,-0.4,1.1,,NBA,2540400,23,82,33.6,.416,.906,2.7,6.1,0.7,0.0,14.4,CHA
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-3.24,-0.95,augusdj01,2011-12,CHA,14.1,0.5,.018,-3.6,-0.6,,NBA,3236470,24,48,29.3,.376,.875,2.3,6.4,0.8,0.0,11.1,CHA
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-4.42,-2.32,augusdj01,2012-13,IND,11.0,2.8,.112,-1.9,0.0,,NBA,3500000,25,76,16.1,.350,.838,1.2,2.2,0.4,0.0,4.7,IND
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-0.60,2.34,augusdj01,2013-14,TOT,16.2,6.2,.154,0.4,1.2,,NBA,1267000,26,71,27.3,.415,.885,1.8,4.4,0.7,0.0,13.1,"TOR,CHI"
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-2.07,0.25,augusdj01,2014-15,TOT,13.9,3.4,.083,-2.5,-0.3,,NBA,3000000,27,82,24.0,.399,.868,2.0,4.3,0.6,0.0,9.5,"DET,OKC"
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-1.64,0.51,augusdj01,2015-16,TOT,13.9,2.6,.106,-1.7,0.1,,NBA,3000000,28,62,19.0,.423,.805,1.5,3.2,0.6,0.1,7.5,"OKC,DEN"
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-5.18,-2.93,augusdj01,2016-17,ORL,11.0,1.2,.038,-4.2,-0.9,,NBA,7250000,29,78,19.7,.377,.814,1.5,2.7,0.4,0.0,7.9,ORL
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",-0.89,1.65,augusdj01,2017-18,ORL,15.4,4.1,.110,-0.9,0.5,,NBA,7250000,30,75,23.5,.452,.868,2.1,3.8,0.7,0.0,10.2,ORL
+D.J. Augustin,/players/a/augusdj01.html,2009,2019,University of Texas at Austin,true,"Hightower in Missouri City, Texas",,,augusdj01,2018-19,ORL,8.5,0.0,-0.007,-7.4,-0.1,,NBA,,31,4,26.8,.286,.889,2.0,5.8,0.3,0.0,8.0,ORL

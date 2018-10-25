@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ingrabr01,2016-17,19,Los Angeles Lakers,NBA,79,28.8,.402,.621,4.0,2.1,0.6,0.5,9.4,8.5,-0.3,-0.007,-3.8,-1.1,,5281680,"Kinston in Kinston, North Carolina"
-ingrabr01,2017-18,20,Los Angeles Lakers,NBA,59,33.5,.470,.681,5.3,3.9,0.8,0.7,16.1,13.8,2.8,.068,-1.3,0.4,,5519400,"Kinston in Kinston, North Carolina"
-ingrabr01,2018-19,21,LAL,NBA,2,28.0,.522,.667,4.0,0.5,1.5,1.0,14.0,13.9,0.0,.004,-4.6,0.0,,,"Kinston in Kinston, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brandon Ingram,/players/i/ingrabr01.html,2017,2019,Duke University,true,"Kinston in Kinston, North Carolina",-3.24,-1.27,ingrabr01,2016-17,LAL,8.5,-0.3,-0.007,-3.8,-1.1,,NBA,5281680,19,79,28.8,.402,.621,4.0,2.1,0.6,0.5,9.4,LAL
+Brandon Ingram,/players/i/ingrabr01.html,2017,2019,Duke University,true,"Kinston in Kinston, North Carolina",-1.21,1.43,ingrabr01,2017-18,LAL,13.8,2.8,.068,-1.3,0.4,,NBA,5519400,20,59,33.5,.470,.681,5.3,3.9,0.8,0.7,16.1,LAL
+Brandon Ingram,/players/i/ingrabr01.html,2017,2019,Duke University,true,"Kinston in Kinston, North Carolina",,,ingrabr01,2018-19,LAL,13.9,0.0,.004,-4.6,0.0,,NBA,,21,2,28.0,.522,.667,4.0,0.5,1.5,1.0,14.0,LAL

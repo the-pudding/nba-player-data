@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-grundan01,2005-06,26,ATL,NBA,12,9.0,.500,.643,1.4,0.8,0.6,0.0,4.3,16.6,0.2,.095,-1.7,0.0,,"Warren Central in Bowling Green, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Grundy,/players/g/grundan01.html,2006,2006,North Carolina State University,false,"Warren Central in Bowling Green, Kentucky",+0.68,0.22,grundan01,2005-06,ATL,16.6,0.2,.095,-1.7,0.0,,26,NBA,12,9.0,.500,.643,1.4,0.8,0.6,0.0,4.3,ATL

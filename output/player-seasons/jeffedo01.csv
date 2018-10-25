@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jeffedo01,2008-09,25,CHA,NBA,6,14.0,.500,.667,2.0,1.5,0.7,0.2,4.8,12.7,0.2,.089,-2.0,0.0,,"Stephenson in Stone Mountain, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dontell Jefferson,/players/j/jeffedo01.html,2009,2009,University of Arkansas,false,"Stephenson in Stone Mountain, Georgia",-0.47,0.10,jeffedo01,2008-09,CHA,12.7,0.2,.089,-2.0,0.0,,25,NBA,6,14.0,.500,.667,2.0,1.5,0.7,0.2,4.8,CHA

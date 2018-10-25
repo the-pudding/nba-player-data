@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-adamsdo01,1976-77,29,BUF,NBA,77,22.2,.411,.746,4.8,1.9,1.0,0.2,7.3,11.7,1.6,.046,-1.7,0.1,,"South Fulton in South Fulton, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Don Adams,/players/a/adamsdo01.html,1971,1977,Northwestern University,false,"South Fulton in South Fulton, Georgia",-1.91,0.25,adamsdo01,1976-77,BUF,11.7,1.6,.046,-1.7,0.1,,29,NBA,77,22.2,.411,.746,4.8,1.9,1.0,0.2,7.3,BUF

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownja01,2014-15,22,Los Angeles Lakers,NBA,19,29.9,.412,.753,1.9,2.1,0.6,0.1,11.9,11.0,0.4,.033,-3.8,-0.3,,44765,"Oakland High School in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jabari Brown,/players/b/brownja01.html,2015,2015,"University of Oregon, University of Missouri",false,"Oakland High School in Oakland, California",-3.03,-0.29,brownja01,2014-15,LAL,11.0,0.4,.033,-3.8,-0.3,,NBA,44765,22,19,29.9,.412,.753,1.9,2.1,0.6,0.1,11.9,LAL

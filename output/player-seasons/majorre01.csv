@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-majorre01,2006-07,24,Golden State Warriors,NBA,1,27.0,.200,.500,2.0,0.0,2.0,0.0,5.0,-3.7,-0.1,-0.196,-15.2,-0.1,,20133,"Carver in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Renaldo Major,/players/m/majorre01.html,2007,2007,"South Plains College, California State University, Fresno",false,"Carver in Chicago, Illinois",-0.40,0.03,majorre01,2006-07,GSW,-3.7,-0.1,-0.196,-15.2,-0.1,,NBA,20133,24,1,27.0,.200,.500,2.0,0.0,2.0,0.0,5.0,GSW

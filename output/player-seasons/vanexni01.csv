@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vanexni01,1993-94,22,Los Angeles Lakers,NBA,81,33.3,.394,.781,2.9,5.8,1.0,0.1,13.6,13.6,3.4,.061,-1.4,0.4,,1100000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,1994-95,23,Los Angeles Lakers,NBA,80,36.8,.420,.783,2.8,8.3,1.2,0.1,16.9,16.3,6.4,.104,-0.3,1.2,,1900000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,1995-96,24,Los Angeles Lakers,NBA,74,34.0,.417,.799,2.4,6.9,0.9,0.1,14.9,15.9,5.7,.109,-0.4,1.0,,1900000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,1996-97,25,Los Angeles Lakers,NBA,79,37.2,.402,.825,2.9,8.5,0.9,0.1,15.3,16.0,7.2,.118,-0.3,1.2,,1900000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,1997-98,26,Los Angeles Lakers,NBA,64,32.1,.419,.791,3.0,6.9,1.0,0.1,13.8,17.8,7.1,.166,1.4,1.8,,1900000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,1998-99,27,Denver Nuggets,NBA,50,36.0,.398,.811,2.3,7.4,0.8,0.1,16.5,16.7,2.2,.058,-2.1,0.0,,1900000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,1999-00,28,Denver Nuggets,NBA,79,37.3,.390,.817,3.9,9.0,0.9,0.1,16.1,16.0,4.9,.079,-0.3,1.3,,8354614,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2000-01,29,Denver Nuggets,NBA,71,37.9,.414,.819,3.4,8.5,0.9,0.3,17.7,18.5,6.4,.114,1.1,2.1,,9200000,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2001-02,30,Denver Nuggets,NBA,72,34.7,.409,.801,3.5,6.6,0.6,0.2,18.4,17.8,4.4,.084,0.7,1.7,,10164642,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2001-02,30,Denver Nuggets,NBA,45,38.6,.408,.782,3.8,8.1,0.7,0.2,21.4,18.4,2.9,.080,1.3,1.5,,10164642,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2001-02,30,Denver Nuggets,NBA,27,28.0,.411,.844,3.1,4.2,0.5,0.1,13.2,16.3,1.5,.093,-0.7,0.2,,10164642,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2002-03,31,Dallas Mavericks,NBA,73,27.8,.412,.764,2.8,4.3,0.6,0.1,12.5,15.6,4.0,.094,-0.3,0.9,,11061234,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2003-04,32,Golden State Warriors,NBA,39,32.2,.390,.707,2.7,5.3,0.5,0.1,12.6,13.1,1.2,.045,-2.4,-0.1,,11956625,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2004-05,33,Portland Trail Blazers,NBA,53,30.5,.381,.784,3.0,4.3,0.8,0.0,11.1,12.5,1.6,.049,-1.8,0.1,,11933252,"Saint Joseph's in Kenosha, Wisconsin"
-vanexni01,2005-06,34,San Antonio Spurs,NBA,65,15.2,.397,.683,1.4,1.9,0.2,0.0,5.5,11.0,1.4,.070,-2.8,-0.2,,1138500,"Saint Joseph's in Kenosha, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-0.96,2.42,vanexni01,1993-94,LAL,13.6,3.4,.061,-1.4,0.4,,NBA,1100000,22,81,33.3,.394,.781,2.9,5.8,1.0,0.1,13.6,LAL
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",+1.00,7.50,vanexni01,1994-95,LAL,16.3,6.4,.104,-0.3,1.2,,NBA,1900000,23,80,36.8,.420,.783,2.8,8.3,1.2,0.1,16.9,LAL
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",+0.67,5.27,vanexni01,1995-96,LAL,15.9,5.7,.109,-0.4,1.0,,NBA,1900000,24,74,34.0,.417,.799,2.4,6.9,0.9,0.1,14.9,LAL
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",+1.24,7.83,vanexni01,1996-97,LAL,16.0,7.2,.118,-0.3,1.2,,NBA,1900000,25,79,37.2,.402,.825,2.9,8.5,0.9,0.1,15.3,LAL
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",+1.22,5.71,vanexni01,1997-98,LAL,17.8,7.1,.166,1.4,1.8,,NBA,1900000,26,64,32.1,.419,.791,3.0,6.9,1.0,0.1,13.8,LAL
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-1.50,0.96,vanexni01,1998-99,DEN,16.7,2.2,.058,-2.1,0.0,,NBA,1900000,27,50,36.0,.398,.811,2.3,7.4,0.8,0.1,16.5,DEN
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",+0.02,4.59,vanexni01,1999-00,DEN,16.0,4.9,.079,-0.3,1.3,,NBA,8354614,28,79,37.3,.390,.817,3.9,9.0,0.9,0.1,16.1,DEN
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",+0.40,4.89,vanexni01,2000-01,DEN,18.5,6.4,.114,1.1,2.1,,NBA,9200000,29,71,37.9,.414,.819,3.4,8.5,0.9,0.3,17.7,DEN
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-1.42,1.60,vanexni01,2001-02,TOT,17.8,4.4,.084,0.7,1.7,,NBA,10164642,30,72,34.7,.409,.801,3.5,6.6,0.6,0.2,18.4,"DEN,DAL"
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-2.76,-0.81,vanexni01,2002-03,DAL,15.6,4.0,.094,-0.3,0.9,,NBA,11061234,31,73,27.8,.412,.764,2.8,4.3,0.6,0.1,12.5,DAL
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-2.62,-0.34,vanexni01,2003-04,GSW,13.1,1.2,.045,-2.4,-0.1,,NBA,11956625,32,39,32.2,.390,.707,2.7,5.3,0.5,0.1,12.6,GSW
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-1.19,1.17,vanexni01,2004-05,POR,12.5,1.6,.049,-1.8,0.1,,NBA,11933252,33,53,30.5,.381,.784,3.0,4.3,0.8,0.0,11.1,POR
+Nick Van Exel,/players/v/vanexni01.html,1994,2006,"Trinity Valley Community College, University of Cincinnati",false,"Saint Joseph's in Kenosha, Wisconsin",-2.58,-0.29,vanexni01,2005-06,SAS,11.0,1.4,.070,-2.8,-0.2,,NBA,1138500,34,65,15.2,.397,.683,1.4,1.9,0.2,0.0,5.5,SAS

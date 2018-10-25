@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-knighto01,1977-78,22,NYK,NBA,80,14.6,.477,.649,4.0,0.5,0.6,0.4,6.3,12.2,1.6,.066,-3.5,-0.4,,"Port Jefferson in Port Jefferson, New York"
-knighto01,1978-79,23,NYK,NBA,82,32.5,.519,.704,6.7,1.5,0.7,0.7,16.6,15.3,5.7,.102,-0.5,1.0,,"Port Jefferson in Port Jefferson, New York"
-knighto01,1979-80,24,NYK,NBA,81,36.4,.529,.808,6.1,1.9,1.4,1.1,19.1,16.4,7.3,.120,1.0,2.2,,"Port Jefferson in Port Jefferson, New York"
-knighto01,1980-81,25,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,"Port Jefferson in Port Jefferson, New York"
-knighto01,1981-82,26,NYK,NBA,40,13.8,.557,.680,2.1,0.6,0.4,0.3,5.5,13.0,1.1,.099,-2.1,0.0,,"Port Jefferson in Port Jefferson, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Toby Knight,/players/k/knighto01.html,1978,1982,University of Notre Dame,false,"Port Jefferson in Port Jefferson, New York",-1.58,0.49,knighto01,1977-78,NYK,12.2,1.6,.066,-3.5,-0.4,,22,NBA,80,14.6,.477,.649,4.0,0.5,0.6,0.4,6.3,NYK
+Toby Knight,/players/k/knighto01.html,1978,1982,University of Notre Dame,false,"Port Jefferson in Port Jefferson, New York",-0.62,2.96,knighto01,1978-79,NYK,15.3,5.7,.102,-0.5,1.0,,23,NBA,82,32.5,.519,.704,6.7,1.5,0.7,0.7,16.6,NYK
+Toby Knight,/players/k/knighto01.html,1978,1982,University of Notre Dame,false,"Port Jefferson in Port Jefferson, New York",+0.07,4.69,knighto01,1979-80,NYK,16.4,7.3,.120,1.0,2.2,,24,NBA,81,36.4,.529,.808,6.1,1.9,1.4,1.1,19.1,NYK
+Toby Knight,/players/k/knighto01.html,1978,1982,University of Notre Dame,false,"Port Jefferson in Port Jefferson, New York",,,knighto01,1980-81,Did Not Play (injury—knee),,,,,,,25,,,,,,,,,,,Did Not Play (injury—knee)
+Toby Knight,/players/k/knighto01.html,1978,1982,University of Notre Dame,false,"Port Jefferson in Port Jefferson, New York",-1.70,0.21,knighto01,1981-82,NYK,13.0,1.1,.099,-2.1,0.0,,26,NBA,40,13.8,.557,.680,2.1,0.6,0.4,0.3,5.5,NYK

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-whiteru01,1976-77,23,HOU,NBA,46,8.0,.443,.600,0.9,0.8,0.2,0.0,2.4,9.6,0.2,.025,-4.6,-0.2,,"Union in Phoenix, Arizona"
-whiteru01,1977-78,24,HOU,NBA,21,10.4,.365,.778,1.0,1.0,0.4,0.0,3.6,6.4,-0.3,-0.070,-6.9,-0.3,,"Union in Phoenix, Arizona"
-whiteru01,1978-79,25,Did Not Play,,,,,,,,,,,,,,,,,"Union in Phoenix, Arizona"
-whiteru01,1979-80,26,HOU,NBA,9,11.8,.542,.769,1.0,0.6,0.6,0.0,4.0,9.6,0.1,.052,-4.1,-0.1,,"Union in Phoenix, Arizona"
-whiteru01,1980-81,27,"GSW,SEA",NBA,16,13.0,.354,.938,0.7,1.3,0.6,0.1,3.8,6.6,0.0,.001,-6.8,-0.3,,"Union in Phoenix, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rudy White,/players/w/whiteru01.html,1976,1981,Arizona State University,false,"Union in Phoenix, Arizona",-2.44,-0.06,whiteru01,1976-77,HOU,9.6,0.2,.025,-4.6,-0.2,,23,NBA,46,8.0,.443,.600,0.9,0.8,0.2,0.0,2.4,HOU
+Rudy White,/players/w/whiteru01.html,1976,1981,Arizona State University,false,"Union in Phoenix, Arizona",-1.81,0.06,whiteru01,1977-78,HOU,6.4,-0.3,-0.070,-6.9,-0.3,,24,NBA,21,10.4,.365,.778,1.0,1.0,0.4,0.0,3.6,HOU
+Rudy White,/players/w/whiteru01.html,1976,1981,Arizona State University,false,"Union in Phoenix, Arizona",,,whiteru01,1978-79,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play
+Rudy White,/players/w/whiteru01.html,1976,1981,Arizona State University,false,"Union in Phoenix, Arizona",+0.01,0.16,whiteru01,1979-80,HOU,9.6,0.1,.052,-4.1,-0.1,,26,NBA,9,11.8,.542,.769,1.0,0.6,0.6,0.0,4.0,HOU
+Rudy White,/players/w/whiteru01.html,1976,1981,Arizona State University,false,"Union in Phoenix, Arizona",-0.66,0.23,whiteru01,1980-81,TOT,6.6,0.0,.001,-6.8,-0.3,,27,NBA,16,13.0,.354,.938,0.7,1.3,0.6,0.1,3.8,"GSW,SEA"

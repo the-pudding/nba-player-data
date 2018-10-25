@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-causwdu01,1990-91,22,Sacramento Kings,NBA,76,22.6,.508,.636,5.1,0.9,0.6,1.9,6.9,13.0,2.8,.079,-0.2,0.8,,650000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1991-92,23,Sacramento Kings,NBA,80,28.6,.549,.613,7.3,0.7,0.6,2.7,8.0,12.4,3.9,.081,-0.6,0.8,,820000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1992-93,24,Sacramento Kings,NBA,55,22.0,.545,.624,5.5,0.6,0.6,1.6,8.2,14.2,2.9,.115,-0.2,0.5,,950000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1993-94,25,Sacramento Kings,NBA,41,16.4,.518,.588,4.5,0.3,0.5,1.2,4.4,11.8,1.2,.085,-2.3,0.0,,1260000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1994-95,26,Sacramento Kings,NBA,58,14.1,.517,.582,3.0,0.3,0.2,1.4,3.6,11.4,1.8,.105,-0.3,0.4,,1545000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1995-96,27,Sacramento Kings,NBA,73,14.3,.417,.729,3.4,0.3,0.4,1.1,3.4,9.9,1.3,.059,-2.4,-0.1,,1830000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1996-97,28,Sacramento Kings,NBA,46,12.6,.511,.541,2.8,0.4,0.3,0.8,2.6,8.9,0.7,.060,-1.1,0.1,,2215000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1997-98,29,Miami Heat,NBA,37,9.8,.416,.577,2.7,0.1,0.2,0.7,2.4,9.2,0.5,.069,-4.6,-0.2,,1211705,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1998-99,30,Miami Heat,NBA,19,7.2,.571,.333,1.8,0.1,0.0,0.6,2.3,8.1,0.0,-0.007,-6.2,-0.1,,1454000,"Benjamin Cardozo in Bayside, New York"
-causwdu01,1999-00,31,Miami Heat,NBA,25,7.4,.541,.684,1.9,0.1,0.1,0.6,2.6,14.1,0.7,.171,-3.2,-0.1,,1696387,"Benjamin Cardozo in Bayside, New York"
-causwdu01,2000-01,32,Miami Heat,NBA,31,12.4,.376,.480,2.7,0.2,0.3,0.6,2.5,4.8,0.0,.002,-6.8,-0.5,,4000000,"Benjamin Cardozo in Bayside, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-0.54,2.00,causwdu01,1990-91,SAC,13.0,2.8,.079,-0.2,0.8,,NBA,650000,22,76,22.6,.508,.636,5.1,0.9,0.6,1.9,6.9,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-0.69,2.46,causwdu01,1991-92,SAC,12.4,3.9,.081,-0.6,0.8,,NBA,820000,23,80,28.6,.549,.613,7.3,0.7,0.6,2.7,8.0,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",+0.58,2.34,causwdu01,1992-93,SAC,14.2,2.9,.115,-0.2,0.5,,NBA,950000,24,55,22.0,.545,.624,5.5,0.6,0.6,1.6,8.2,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-0.83,0.65,causwdu01,1993-94,SAC,11.8,1.2,.085,-2.3,0.0,,NBA,1260000,25,41,16.4,.518,.588,4.5,0.3,0.5,1.2,4.4,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",+0.12,1.33,causwdu01,1994-95,SAC,11.4,1.8,.105,-0.3,0.4,,NBA,1545000,26,58,14.1,.517,.582,3.0,0.3,0.2,1.4,3.6,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-1.45,0.59,causwdu01,1995-96,SAC,9.9,1.3,.059,-2.4,-0.1,,NBA,1830000,27,73,14.3,.417,.729,3.4,0.3,0.4,1.1,3.4,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-1.57,0.26,causwdu01,1996-97,SAC,8.9,0.7,.060,-1.1,0.1,,NBA,2215000,28,46,12.6,.511,.541,2.8,0.4,0.3,0.8,2.6,SAC
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-0.90,0.33,causwdu01,1997-98,MIA,9.2,0.5,.069,-4.6,-0.2,,NBA,1211705,29,37,9.8,.416,.577,2.7,0.1,0.2,0.7,2.4,MIA
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-0.32,0.21,causwdu01,1998-99,MIA,8.1,0.0,-0.007,-6.2,-0.1,,NBA,1454000,30,19,7.2,.571,.333,1.8,0.1,0.0,0.6,2.3,MIA
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",+0.31,0.33,causwdu01,1999-00,MIA,14.1,0.7,.171,-3.2,-0.1,,NBA,1696387,31,25,7.4,.541,.684,1.9,0.1,0.1,0.6,2.6,MIA
+Duane Causwell,/players/c/causwdu01.html,1991,2001,Temple University,false,"Benjamin Cardozo in Bayside, New York",-3.35,-0.33,causwdu01,2000-01,MIA,4.8,0.0,.002,-6.8,-0.5,,NBA,4000000,32,31,12.4,.376,.480,2.7,0.2,0.3,0.6,2.5,MIA

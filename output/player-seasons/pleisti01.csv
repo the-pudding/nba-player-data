@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-pleisti01,2015-16,26,Utah Jazz,NBA,12,6.8,.440,1.000,1.3,0.2,0.1,0.2,2.0,3.5,-0.1,-0.041,-8.1,-0.1,,3000000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tibor Pleiss,/players/p/pleisti01.html,2016,2016,,false,,-0.05,0.12,pleisti01,2015-16,UTA,3.5,-0.1,-0.041,-8.1,-0.1,,NBA,3000000,26,12,6.8,.440,1.000,1.3,0.2,0.1,0.2,2.0,UTA

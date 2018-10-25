@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-boynewi01,1978-79,21,NJN,NBA,69,17.0,.430,.787,2.2,1.1,0.6,0.1,9.3,11.7,0.6,.026,-5.3,-1.0,,"Capitol Hill in Oklahoma City, Oklahoma"
-boynewi01,1979-80,22,NJN,NBA,64,17.2,.473,.765,2.1,1.5,0.9,0.3,8.5,13.1,1.7,.072,-2.3,-0.1,,"Capitol Hill in Oklahoma City, Oklahoma"
-boynewi01,1980-81,23,DAL,NBA,44,17.2,.387,.818,1.7,0.8,0.5,0.4,6.5,6.1,-1.4,-0.091,-8.2,-1.2,,"Capitol Hill in Oklahoma City, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Winford Boynes,/players/b/boynewi01.html,1979,1981,University of San Francisco,false,"Capitol Hill in Oklahoma City, Oklahoma",-2.93,-0.66,boynewi01,1978-79,NJN,11.7,0.6,.026,-5.3,-1.0,,21,NBA,69,17.0,.430,.787,2.2,1.1,0.6,0.1,9.3,NJN
+Winford Boynes,/players/b/boynewi01.html,1979,1981,University of San Francisco,false,"Capitol Hill in Oklahoma City, Oklahoma",-1.04,0.88,boynewi01,1979-80,NJN,13.1,1.7,.072,-2.3,-0.1,,22,NBA,64,17.2,.473,.765,2.1,1.5,0.9,0.3,8.5,NJN
+Winford Boynes,/players/b/boynewi01.html,1979,1981,University of San Francisco,false,"Capitol Hill in Oklahoma City, Oklahoma",-4.51,-1.14,boynewi01,1980-81,DAL,6.1,-1.4,-0.091,-8.2,-1.2,,23,NBA,44,17.2,.387,.818,1.7,0.8,0.5,0.4,6.5,DAL

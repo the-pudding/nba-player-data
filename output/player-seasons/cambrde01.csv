@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cambrde01,1992-93,23,Dallas Mavericks,NBA,53,16.7,.484,.687,3.2,1.1,0.5,0.1,7.0,12.1,0.4,.022,-3.3,-0.3,,150000,"A.F. Adderly in Nassau, Bahamas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dexter Cambridge,/players/c/cambrde01.html,1993,1993,University of Texas at Austin,false,"A.F. Adderly in Nassau, Bahamas",-3.96,-0.96,cambrde01,1992-93,DAL,12.1,0.4,.022,-3.3,-0.3,,NBA,150000,23,53,16.7,.484,.687,3.2,1.1,0.5,0.1,7.0,DAL

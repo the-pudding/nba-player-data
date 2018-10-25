@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-loftoza01,2018-19,26,DET,NBA,1,4.0,.000,,0.0,0.0,1.0,0.0,0.0,-9.7,0.0,-0.423,-7.8,0.0,,"Columbia Heights HS in Columbia Heights, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zach Lofton,/players/l/loftoza01.html,2019,2019,"Illinois State University, Texas Southern University, New Mexico State University",true,"Columbia Heights HS in Columbia Heights, Minnesota",,,loftoza01,2018-19,DET,-9.7,0.0,-0.423,-7.8,0.0,,26,NBA,1,4.0,.000,,0.0,0.0,1.0,0.0,0.0,DET

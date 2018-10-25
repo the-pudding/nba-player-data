@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bradlto01,2017-18,20,Utah Jazz,NBA,9,3.2,.273,1.000,1.2,0.1,0.0,0.0,0.9,9.5,0.0,.033,-9.6,-0.1,,1414920,"Bartow in Bartow, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Bradley,/players/b/bradlto01.html,2018,2018,University of North Carolina,true,"Bartow in Bartow, Florida",-0.31,0.04,bradlto01,2017-18,UTA,9.5,0.0,.033,-9.6,-0.1,,NBA,1414920,20,9,3.2,.273,1.000,1.2,0.1,0.0,0.0,0.9,UTA

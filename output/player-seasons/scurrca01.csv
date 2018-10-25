@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-scurrca01,1985-86,23,Utah Jazz,NBA,78,15.0,.472,.619,3.1,1.1,1.0,0.8,4.7,11.9,1.8,.072,1.1,0.9,,70000,"Alexander Hamilton in Brooklyn, New York"
-scurrca01,1986-87,24,UTA,NBA,69,10.9,.498,.701,2.9,0.8,0.8,0.8,5.0,18.3,2.6,.168,5.0,1.3,,,"Alexander Hamilton in Brooklyn, New York"
-scurrca01,1987-88,25,"UTA,NYK",NBA,33,13.8,.466,.692,2.5,1.5,1.5,0.7,4.2,12.9,0.9,.095,4.3,0.7,,,"Alexander Hamilton in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carey Scurry,/players/s/scurrca01.html,1986,1988,Long Island University,false,"Alexander Hamilton in Brooklyn, New York",-0.41,1.53,scurrca01,1985-86,UTA,11.9,1.8,.072,1.1,0.9,,NBA,70000,23,78,15.0,.472,.619,3.1,1.1,1.0,0.8,4.7,UTA
+Carey Scurry,/players/s/scurrca01.html,1986,1988,Long Island University,false,"Alexander Hamilton in Brooklyn, New York",+2.03,2.40,scurrca01,1986-87,UTA,18.3,2.6,.168,5.0,1.3,,NBA,,24,69,10.9,.498,.701,2.9,0.8,0.8,0.8,5.0,UTA
+Carey Scurry,/players/s/scurrca01.html,1986,1988,Long Island University,false,"Alexander Hamilton in Brooklyn, New York",+0.76,0.94,scurrca01,1987-88,TOT,12.9,0.9,.095,4.3,0.7,,NBA,,25,33,13.8,.466,.692,2.5,1.5,1.5,0.7,4.2,"UTA,NYK"

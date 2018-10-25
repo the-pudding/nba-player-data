@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-rowinji01,1988-89,28,"DET,PHI",NBA,9,1.7,.250,.833,0.6,0.0,0.0,0.0,0.8,17.9,0.1,.205,-12.0,0.0,,"Syosset in Syosset, New York"
-rowinji01,1989-90,29,MIA,NBA,14,8.0,.438,.846,2.1,0.4,0.1,0.1,3.6,13.2,0.2,.101,-3.6,0.0,,"Syosset in Syosset, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Rowinski,/players/r/rowinji01.html,1989,1990,Purdue University,false,"Syosset in Syosset, New York",+0.15,0.02,rowinji01,1988-89,TOT,17.9,0.1,.205,-12.0,0.0,,28,NBA,9,1.7,.250,.833,0.6,0.0,0.0,0.0,0.8,"DET,PHI"
+Jim Rowinski,/players/r/rowinji01.html,1989,1990,Purdue University,false,"Syosset in Syosset, New York",-0.01,0.17,rowinji01,1989-90,MIA,13.2,0.2,.101,-3.6,0.0,,29,NBA,14,8.0,.438,.846,2.1,0.4,0.1,0.1,3.6,MIA

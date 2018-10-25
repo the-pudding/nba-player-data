@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-slayta01,2002-03,22,New Jersey Nets,NBA,36,7.6,.379,.700,0.9,0.4,0.4,0.1,2.6,7.1,0.0,-0.004,-5.6,-0.3,,349458,"Woodrow Wilson in Beckley, West Virginia"
-slayta01,2003-04,23,New Jersey Nets,NBA,22,7.5,.350,.500,1.1,0.6,0.3,0.0,2.4,7.8,0.0,-0.004,-5.4,-0.1,,563679,"Woodrow Wilson in Beckley, West Virginia"
-slayta01,2004-05,24,Charlotte Bobcats,NBA,8,9.8,.333,.000,1.8,0.4,0.6,0.0,3.5,1.5,-0.3,-0.166,-8.8,-0.1,,695046,"Woodrow Wilson in Beckley, West Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tamar Slay,/players/s/slayta01.html,2003,2005,Marshall University,false,"Woodrow Wilson in Beckley, West Virginia",-2.98,-0.17,slayta01,2002-03,NJN,7.1,0.0,-0.004,-5.6,-0.3,,NBA,349458,22,36,7.6,.379,.700,0.9,0.4,0.4,0.1,2.6,NJN
+Tamar Slay,/players/s/slayta01.html,2003,2005,Marshall University,false,"Woodrow Wilson in Beckley, West Virginia",-1.87,0.03,slayta01,2003-04,NJN,7.8,0.0,-0.004,-5.4,-0.1,,NBA,563679,23,22,7.5,.350,.500,1.1,0.6,0.3,0.0,2.4,NJN
+Tamar Slay,/players/s/slayta01.html,2003,2005,Marshall University,false,"Woodrow Wilson in Beckley, West Virginia",-0.22,0.11,slayta01,2004-05,CHA,1.5,-0.3,-0.166,-8.8,-0.1,,NBA,695046,24,8,9.8,.333,.000,1.8,0.4,0.6,0.0,3.5,CHA

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-vocega01,1989-90,24,CLE,NBA,1,4.0,.333,,2.0,0.0,0.0,0.0,2.0,19.2,0.0,.031,-14.6,0.0,,"Saint Nicholas of Tolentine in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gary Voce,/players/v/vocega01.html,1990,1990,University of Notre Dame,false,"Saint Nicholas of Tolentine in Bronx, New York",+0.02,0.01,vocega01,1989-90,CLE,19.2,0.0,.031,-14.6,0.0,,24,NBA,1,4.0,.333,,2.0,0.0,0.0,0.0,2.0,CLE

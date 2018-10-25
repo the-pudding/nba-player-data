@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-burttst01,1984-85,22,GSW,NBA,47,8.9,.383,.688,0.6,0.4,0.4,0.1,4.2,7.4,-0.4,-0.043,-8.6,-0.7,,"Charles Evans Hughes in New York, New York",
-burttst01,1985-86,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Charles Evans Hughes in New York, New York",
-burttst01,1986-87,24,Did Not Play,,,,,,,,,,,,,,,,,"Charles Evans Hughes in New York, New York",
-burttst01,1987-88,25,Los Angeles Clippers,NBA,19,16.4,.449,.681,1.4,2.0,0.5,0.3,9.0,10.2,-0.1,-0.019,-6.2,-0.3,,"Charles Evans Hughes in New York, New York",75000
-burttst01,1988-89,26,Did Not Play,,,,,,,,,,,,,,,,,"Charles Evans Hughes in New York, New York",
-burttst01,1989-90,27,Did Not Play,,,,,,,,,,,,,,,,,"Charles Evans Hughes in New York, New York",
-burttst01,1990-91,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Charles Evans Hughes in New York, New York",
-burttst01,1991-92,29,PHO,NBA,31,11.5,.463,.704,1.1,1.9,0.5,0.1,6.0,13.4,0.5,.067,-3.1,-0.1,,"Charles Evans Hughes in New York, New York",
-burttst01,1992-93,30,WSB,NBA,4,8.8,.385,.800,0.8,1.5,0.5,0.0,7.3,18.5,0.0,.011,-2.4,0.0,,"Charles Evans Hughes in New York, New York",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",-3.63,-0.36,burttst01,1984-85,GSW,7.4,-0.4,-0.043,-8.6,-0.7,,22,NBA,47,8.9,.383,.688,0.6,0.4,0.4,0.1,4.2,GSW,
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",,,burttst01,1985-86,Did Not Play (other pro league—CBA),,,,,,,23,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",,,burttst01,1986-87,Did Not Play,,,,,,,24,,,,,,,,,,,Did Not Play,
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",-2.77,-0.13,burttst01,1987-88,LAC,10.2,-0.1,-0.019,-6.2,-0.3,,25,NBA,19,16.4,.449,.681,1.4,2.0,0.5,0.3,9.0,LAC,75000
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",,,burttst01,1988-89,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",,,burttst01,1989-90,Did Not Play,,,,,,,27,,,,,,,,,,,Did Not Play,
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",,,burttst01,1990-91,Did Not Play (other pro league—CBA),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",-1.48,0.25,burttst01,1991-92,PHO,13.4,0.5,.067,-3.1,-0.1,,29,NBA,31,11.5,.463,.704,1.1,1.9,0.5,0.1,6.0,PHO,
+Steve Burtt,/players/b/burttst01.html,1985,1993,Iona College,false,"Charles Evans Hughes in New York, New York",-0.19,0.05,burttst01,1992-93,WSB,18.5,0.0,.011,-2.4,0.0,,30,NBA,4,8.8,.385,.800,0.8,1.5,0.5,0.0,7.3,WSB,

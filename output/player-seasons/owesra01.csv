@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-owesra01,1996-97,24,Golden State Warriors,NBA,57,10.4,.417,.565,2.9,0.3,0.3,0.4,3.1,11.1,0.4,.036,-5.5,-0.5,,220000,"San Bernardino in San Bernardino, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ray Owes,/players/o/owesra01.html,1997,1997,University of Arizona,false,"San Bernardino in San Bernardino, California",-2.37,-0.03,owesra01,1996-97,GSW,11.1,0.4,.036,-5.5,-0.5,,NBA,220000,24,57,10.4,.417,.565,2.9,0.3,0.3,0.4,3.1,GSW

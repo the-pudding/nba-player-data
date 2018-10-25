@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-harmoje01,1994-95,25,PHI,NBA,10,15.8,.396,.500,2.3,1.2,0.9,0.0,4.6,10.1,0.0,.009,-3.7,-0.1,,"Lew Wallace in Gary, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerome Harmon,/players/h/harmoje01.html,1995,1995,University of Louisville,false,"Lew Wallace in Gary, Indiana",-0.83,0.15,harmoje01,1994-95,PHI,10.1,0.0,.009,-3.7,-0.1,,25,NBA,10,15.8,.396,.500,2.3,1.2,0.9,0.0,4.6,PHI

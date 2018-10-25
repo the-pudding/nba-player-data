@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-muscami01,2013-14,22,ATL,NBA,20,10.8,.425,1.000,2.6,0.4,0.2,0.5,3.8,10.8,0.2,.040,-6.0,-0.2,,"Roseville in Roseville, Minnesota",
-muscami01,2014-15,23,Atlanta Hawks,NBA,40,12.6,.550,.880,3.0,0.6,0.4,0.5,4.9,18.0,1.9,.179,1.7,0.5,,"Roseville in Roseville, Minnesota",816482
-muscami01,2015-16,24,Atlanta Hawks,NBA,60,9.4,.500,.795,2.0,0.6,0.2,0.5,3.3,13.6,1.6,.136,-0.5,0.2,,"Roseville in Roseville, Minnesota",947276
-muscami01,2016-17,25,Atlanta Hawks,NBA,70,17.7,.504,.766,3.4,1.4,0.4,0.6,6.2,14.4,3.4,.132,1.1,1.0,,"Roseville in Roseville, Minnesota",1015696
-muscami01,2017-18,26,Atlanta Hawks,NBA,53,20.0,.458,.919,4.3,1.0,0.6,0.5,7.6,14.4,2.4,.110,0.2,0.6,,"Roseville in Roseville, Minnesota",5000000
-muscami01,2018-19,27,PHI,NBA,2,17.5,.556,1.000,3.0,0.5,0.0,1.0,6.5,12.6,0.1,.126,-1.2,0.0,,"Roseville in Roseville, Minnesota",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mike Muscala,/players/m/muscami01.html,2014,2019,Bucknell University,true,"Roseville in Roseville, Minnesota",-2.72,-0.07,muscami01,2013-14,ATL,10.8,0.2,.040,-6.0,-0.2,,22,NBA,20,10.8,.425,1.000,2.6,0.4,0.2,0.5,3.8,ATL,
+Mike Muscala,/players/m/muscami01.html,2014,2019,Bucknell University,true,"Roseville in Roseville, Minnesota",-1.06,0.49,muscami01,2014-15,ATL,18.0,1.9,.179,1.7,0.5,,23,NBA,40,12.6,.550,.880,3.0,0.6,0.4,0.5,4.9,ATL,816482
+Mike Muscala,/players/m/muscami01.html,2014,2019,Bucknell University,true,"Roseville in Roseville, Minnesota",-1.14,0.47,muscami01,2015-16,ATL,13.6,1.6,.136,-0.5,0.2,,24,NBA,60,9.4,.500,.795,2.0,0.6,0.2,0.5,3.3,ATL,947276
+Mike Muscala,/players/m/muscami01.html,2014,2019,Bucknell University,true,"Roseville in Roseville, Minnesota",-0.57,1.52,muscami01,2016-17,ATL,14.4,3.4,.132,1.1,1.0,,25,NBA,70,17.7,.504,.766,3.4,1.4,0.4,0.6,6.2,ATL,1015696
+Mike Muscala,/players/m/muscami01.html,2014,2019,Bucknell University,true,"Roseville in Roseville, Minnesota",-0.21,1.48,muscami01,2017-18,ATL,14.4,2.4,.110,0.2,0.6,,26,NBA,53,20.0,.458,.919,4.3,1.0,0.6,0.5,7.6,ATL,5000000
+Mike Muscala,/players/m/muscami01.html,2014,2019,Bucknell University,true,"Roseville in Roseville, Minnesota",,,muscami01,2018-19,PHI,12.6,0.1,.126,-1.2,0.0,,27,NBA,2,17.5,.556,1.000,3.0,0.5,0.0,1.0,6.5,PHI,

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bazarse01,1994-95,29,Atlanta Hawks,NBA,10,7.4,.500,.778,0.7,1.4,0.1,0.1,3.0,13.6,0.2,.101,-4.9,-0.1,,168000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sergei Bazarevich,/players/b/bazarse01.html,1995,1995,,false,,+0.22,0.13,bazarse01,1994-95,ATL,13.6,0.2,.101,-4.9,-0.1,,NBA,168000,29,10,7.4,.500,.778,0.7,1.4,0.1,0.1,3.0,ATL

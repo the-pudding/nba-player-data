@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-silasxa01,2011-12,24,PHI,NBA,2,19.5,.267,.667,2.0,1.5,0.0,0.0,5.5,0.1,-0.1,-0.131,-10.5,-0.1,,"Brewster Academy in Wolfeboro, New Hampshire",
-silasxa01,2012-13,25,Did Not Play,,,,,,,,,,,,,,,,,"Brewster Academy in Wolfeboro, New Hampshire",
-silasxa01,2013-14,26,Did Not Play,,,,,,,,,,,,,,,,,"Brewster Academy in Wolfeboro, New Hampshire",
-silasxa01,2014-15,27,Did Not Play,,,,,,,,,,,,,,,,,"Brewster Academy in Wolfeboro, New Hampshire",
-silasxa01,2015-16,28,Did Not Play,,,,,,,,,,,,,,,,,"Brewster Academy in Wolfeboro, New Hampshire",
-silasxa01,2016-17,29,Did Not Play,,,,,,,,,,,,,,,,,"Brewster Academy in Wolfeboro, New Hampshire",
-silasxa01,2017-18,30,Boston Celtics,NBA,2,3.5,.000,,1.0,0.0,0.5,0.0,0.0,-4.9,0.0,-0.250,-13.4,0.0,,"Brewster Academy in Wolfeboro, New Hampshire",74159
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",+0.36,0.08,silasxa01,2011-12,PHI,0.1,-0.1,-0.131,-10.5,-0.1,,24,NBA,2,19.5,.267,.667,2.0,1.5,0.0,0.0,5.5,PHI,
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",,,silasxa01,2012-13,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play,
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",,,silasxa01,2013-14,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",,,silasxa01,2014-15,Did Not Play,,,,,,,27,,,,,,,,,,,Did Not Play,
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",,,silasxa01,2015-16,Did Not Play,,,,,,,28,,,,,,,,,,,Did Not Play,
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",,,silasxa01,2016-17,Did Not Play,,,,,,,29,,,,,,,,,,,Did Not Play,
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true,"Brewster Academy in Wolfeboro, New Hampshire",-0.33,0.01,silasxa01,2017-18,BOS,-4.9,0.0,-0.250,-13.4,0.0,,30,NBA,2,3.5,.000,,1.0,0.0,0.5,0.0,0.0,BOS,74159

@@ -1,17 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-martida01,1994-95,23,MIN,NBA,34,23.6,.408,.877,1.9,3.9,1.0,0.0,7.5,10.3,0.1,.004,-4.9,-0.6,,"Saint Anthony in Long Beach, California",
-martida01,1995-96,24,Vancouver Grizzlies,NBA,59,19.5,.406,.842,1.4,3.7,0.9,0.1,7.0,11.7,0.5,.023,-5.1,-0.9,,"Saint Anthony in Long Beach, California",425000
-martida01,1995-96,24,Vancouver Grizzlies,NBA,24,16.8,.450,.826,1.6,2.5,1.1,0.0,6.7,14.3,0.5,.059,-2.0,0.0,,"Saint Anthony in Long Beach, California",425000
-martida01,1995-96,24,Vancouver Grizzlies,NBA,35,21.3,.381,.851,1.3,4.5,0.7,0.1,7.3,10.3,0.1,.003,-6.7,-0.9,,"Saint Anthony in Long Beach, California",425000
-martida01,1996-97,25,Los Angeles Clippers,NBA,82,22.2,.407,.872,1.4,4.1,0.7,0.0,10.9,16.9,4.6,.121,-1.7,0.1,,"Saint Anthony in Long Beach, California",375000
-martida01,1997-98,26,Los Angeles Clippers,NBA,82,28.0,.377,.848,2.0,4.0,1.0,0.1,10.3,12.3,1.9,.041,-2.8,-0.5,,"Saint Anthony in Long Beach, California",431250
-martida01,1998-99,27,LAC,NBA,37,25.4,.367,.803,1.3,3.9,1.2,0.1,8.0,11.6,0.2,.010,-3.7,-0.4,,"Saint Anthony in Long Beach, California",
-martida01,1999-00,28,Sacramento Kings,NBA,71,12.6,.380,.824,0.6,1.7,0.4,0.0,5.7,11.9,1.3,.067,-4.6,-0.6,,"Saint Anthony in Long Beach, California",572500
-martida01,2000-01,29,Sacramento Kings,NBA,31,5.7,.382,.886,0.5,0.5,0.2,0.0,3.3,17.0,0.7,.182,-2.0,0.0,,"Saint Anthony in Long Beach, California",673500
-martida01,2001-02,30,Dallas Mavericks,NBA,3,7.3,.000,.500,0.3,1.0,0.7,0.0,0.3,-11.2,-0.2,-0.427,-16.9,-0.1,,"Saint Anthony in Long Beach, California",778350
-martida01,2002-03,31,"Did Not Play (other pro league—Italy, Russia)",,,,,,,,,,,,,,,,,"Saint Anthony in Long Beach, California",
-martida01,2003-04,32,MIN,NBA,16,10.8,.299,1.000,0.4,1.4,0.1,0.1,3.4,6.1,0.0,-0.008,-8.1,-0.3,,"Saint Anthony in Long Beach, California",
-martida01,2004-05,33,LAC,NBA,11,17.3,.320,.625,0.9,2.5,0.5,0.0,3.8,7.2,0.1,.015,-5.6,-0.2,,"Saint Anthony in Long Beach, California",
-martida01,2005-06,34,Toronto Raptors,NBA,40,8.5,.351,.750,0.5,1.4,0.4,0.0,2.6,11.5,0.4,.052,-4.3,-0.2,,"Saint Anthony in Long Beach, California",946646
-martida01,2006-07,35,Toronto Raptors,NBA,31,7.1,.351,.714,0.4,1.4,0.1,0.0,3.0,11.6,0.1,.031,-5.9,-0.2,,"Saint Anthony in Long Beach, California",1178348
-martida01,2007-08,36,Toronto Raptors,NBA,17,8.3,.233,.833,0.4,1.2,0.4,0.0,1.6,5.8,-0.1,-0.021,-5.9,-0.1,,"Saint Anthony in Long Beach, California",1219590
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-2.92,-0.34,martida01,1994-95,MIN,10.3,0.1,.004,-4.9,-0.6,,23,NBA,34,23.6,.408,.877,1.9,3.9,1.0,0.0,7.5,MIN,
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-2.52,-0.23,martida01,1995-96,TOT,11.7,0.5,.023,-5.1,-0.9,,24,NBA,59,19.5,.406,.842,1.4,3.7,0.9,0.1,7.0,"VAN,MIN",425000
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",+0.23,3.22,martida01,1996-97,LAC,16.9,4.6,.121,-1.7,0.1,,25,NBA,82,22.2,.407,.872,1.4,4.1,0.7,0.0,10.9,LAC,375000
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-1.77,0.81,martida01,1997-98,LAC,12.3,1.9,.041,-2.8,-0.5,,26,NBA,82,28.0,.377,.848,2.0,4.0,1.0,0.1,10.3,LAC,431250
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-1.95,0.19,martida01,1998-99,LAC,11.6,0.2,.010,-3.7,-0.4,,27,NBA,37,25.4,.367,.803,1.3,3.9,1.2,0.1,8.0,LAC,
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-1.73,0.30,martida01,1999-00,SAC,11.9,1.3,.067,-4.6,-0.6,,28,NBA,71,12.6,.380,.824,0.6,1.7,0.4,0.0,5.7,SAC,572500
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-0.66,0.20,martida01,2000-01,SAC,17.0,0.7,.182,-2.0,0.0,,29,NBA,31,5.7,.382,.886,0.5,0.5,0.2,0.0,3.3,SAC,673500
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-0.54,0.03,martida01,2001-02,DAL,-11.2,-0.2,-0.427,-16.9,-0.1,,30,NBA,3,7.3,.000,.500,0.3,1.0,0.7,0.0,0.3,DAL,778350
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",,,martida01,2002-03,"Did Not Play (other pro league—Italy, Russia)",,,,,,,31,,,,,,,,,,,"Did Not Play (other pro league—Italy, Russia)",
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-3.81,-0.44,martida01,2003-04,MIN,6.1,0.0,-0.008,-8.1,-0.3,,32,NBA,16,10.8,.299,1.000,0.4,1.4,0.1,0.1,3.4,MIN,
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-0.75,0.19,martida01,2004-05,LAC,7.2,0.1,.015,-5.6,-0.2,,33,NBA,11,17.3,.320,.625,0.9,2.5,0.5,0.0,3.8,LAC,
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",+0.59,0.65,martida01,2005-06,TOR,11.5,0.4,.052,-4.3,-0.2,,34,NBA,40,8.5,.351,.750,0.5,1.4,0.4,0.0,2.6,TOR,946646
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",-1.09,0.18,martida01,2006-07,TOR,11.6,0.1,.031,-5.9,-0.2,,35,NBA,31,7.1,.351,.714,0.4,1.4,0.1,0.0,3.0,TOR,1178348
+Darrick Martin,/players/m/martida01.html,1995,2008,"University of California, Los Angeles",false,"Saint Anthony in Long Beach, California",+0.08,0.23,martida01,2007-08,TOR,5.8,-0.1,-0.021,-5.9,-0.1,,36,NBA,17,8.3,.233,.833,0.4,1.2,0.4,0.0,1.6,TOR,1219590

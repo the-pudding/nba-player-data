@@ -1,19 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-anthoca01,2003-04,19,Denver Nuggets,NBA,82,36.5,.426,.777,6.1,2.8,1.2,0.5,21.0,17.6,6.1,.098,0.1,1.6,,3229200,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2004-05,20,Denver Nuggets,NBA,75,34.8,.431,.796,5.7,2.6,0.9,0.4,20.8,16.7,4.9,.090,-1.2,0.5,,3471360,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2005-06,21,Denver Nuggets,NBA,80,36.8,.481,.808,4.9,2.7,1.1,0.5,26.5,22.0,9.4,.153,1.5,2.6,All-NBA (3rd),3713640,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2006-07,22,Denver Nuggets,NBA,65,38.2,.476,.808,6.0,3.8,1.2,0.4,28.9,22.1,7.3,.140,2.0,2.5,All-NBA (3rd),4694041,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2007-08,23,Denver Nuggets,NBA,77,36.4,.492,.786,7.4,3.4,1.3,0.5,25.7,21.1,8.2,.140,1.6,2.6,,13041250,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2008-09,24,Denver Nuggets,NBA,66,34.5,.443,.793,6.8,3.4,1.1,0.4,22.8,19.0,5.0,.105,0.3,1.3,All-NBA (3rd),14410581,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2009-10,25,Denver Nuggets,NBA,69,38.2,.458,.830,6.6,3.2,1.3,0.4,28.2,22.2,7.9,.145,1.4,2.3,All-NBA (2nd),15779912,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2010-11,26,New York Knicks,NBA,77,35.7,.455,.838,7.3,2.9,0.9,0.6,25.6,21.7,7.9,.138,0.5,1.8,,17149243,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2010-11,26,New York Knicks,NBA,50,35.5,.452,.823,7.6,2.8,0.9,0.6,25.2,21.2,4.7,.127,0.2,1.0,,17149243,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2010-11,26,New York Knicks,NBA,27,36.2,.461,.872,6.7,3.0,0.9,0.6,26.3,22.8,3.2,.157,1.2,0.8,,17149243,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2011-12,27,New York Knicks,NBA,55,34.1,.430,.804,6.3,3.6,1.1,0.4,22.6,21.1,6.2,.160,2.9,2.3,All-NBA (3rd),18518574,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2012-13,28,New York Knicks,NBA,67,37.0,.449,.830,6.9,2.6,0.8,0.5,28.7,24.8,9.5,.184,2.4,2.8,All-NBA (2nd),19450000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2013-14,29,New York Knicks,NBA,77,38.7,.452,.848,8.1,3.1,1.2,0.7,27.4,24.4,10.7,.172,3.6,4.2,,22407474,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2014-15,30,New York Knicks,NBA,40,35.7,.444,.797,6.6,3.1,1.0,0.4,24.2,21.5,2.9,.097,1.4,1.2,,22458000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2015-16,31,New York Knicks,NBA,72,35.1,.434,.829,7.7,4.2,0.9,0.5,21.8,20.3,6.4,.121,2.6,2.9,,22875000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2016-17,32,New York Knicks,NBA,74,34.3,.433,.833,5.9,2.9,0.8,0.5,22.4,17.9,4.7,.089,-0.7,0.8,,24559380,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2017-18,33,Oklahoma City Thunder,NBA,78,32.1,.404,.767,5.8,1.3,0.6,0.6,16.2,12.7,3.7,.071,-3.8,-1.1,,26243760,"Oak Hill Academy in Mouth of Wilson, Virginia"
-anthoca01,2018-19,34,HOU,NBA,4,30.5,.400,.625,6.8,1.0,0.5,0.5,11.8,9.0,0.0,-0.011,-4.7,-0.1,,,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.46,1.64,anthoca01,2003-04,DEN,17.6,6.1,.098,0.1,1.6,,NBA,3229200,19,82,36.5,.426,.777,6.1,2.8,1.2,0.5,21.0,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.26,4.80,anthoca01,2004-05,DEN,16.7,4.9,.090,-1.2,0.5,,NBA,3471360,20,75,34.8,.431,.796,5.7,2.6,0.9,0.4,20.8,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.26,5.38,anthoca01,2005-06,DEN,22.0,9.4,.153,1.5,2.6,All-NBA (3rd),NBA,3713640,21,80,36.8,.481,.808,4.9,2.7,1.1,0.5,26.5,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.16,4.44,anthoca01,2006-07,DEN,22.1,7.3,.140,2.0,2.5,All-NBA (3rd),NBA,4694041,22,65,38.2,.476,.808,6.0,3.8,1.2,0.4,28.9,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.97,2.65,anthoca01,2007-08,DEN,21.1,8.2,.140,1.6,2.6,,NBA,13041250,23,77,36.4,.492,.786,7.4,3.4,1.3,0.5,25.7,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+2.48,9.12,anthoca01,2008-09,DEN,19.0,5.0,.105,0.3,1.3,All-NBA (3rd),NBA,14410581,24,66,34.5,.443,.793,6.8,3.4,1.1,0.4,22.8,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+2.00,8.23,anthoca01,2009-10,DEN,22.2,7.9,.145,1.4,2.3,All-NBA (2nd),NBA,15779912,25,69,38.2,.458,.830,6.6,3.2,1.3,0.4,28.2,DEN
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.87,6.15,anthoca01,2010-11,TOT,21.7,7.9,.138,0.5,1.8,,NBA,17149243,26,77,35.7,.455,.838,7.3,2.9,0.9,0.6,25.6,"DEN,NYK"
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.91,4.54,anthoca01,2011-12,NYK,21.1,6.2,.160,2.9,2.3,All-NBA (3rd),NBA,18518574,27,55,34.1,.430,.804,6.3,3.6,1.1,0.4,22.6,NYK
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+2.39,9.32,anthoca01,2012-13,NYK,24.8,9.5,.184,2.4,2.8,All-NBA (2nd),NBA,19450000,28,67,37.0,.449,.830,6.9,2.6,0.8,0.5,28.7,NYK
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+3.59,11.69,anthoca01,2013-14,NYK,24.4,10.7,.172,3.6,4.2,,NBA,22407474,29,77,38.7,.452,.848,8.1,3.1,1.2,0.7,27.4,NYK
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.77,2.94,anthoca01,2014-15,NYK,21.5,2.9,.097,1.4,1.2,,NBA,22458000,30,40,35.7,.444,.797,6.6,3.1,1.0,0.4,24.2,NYK
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+1.76,6.92,anthoca01,2015-16,NYK,20.3,6.4,.121,2.6,2.9,,NBA,22875000,31,72,35.1,.434,.829,7.7,4.2,0.9,0.5,21.8,NYK
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.15,2.01,anthoca01,2016-17,NYK,17.9,4.7,.089,-0.7,0.8,,NBA,24559380,32,74,34.3,.433,.833,5.9,2.9,0.8,0.5,22.4,NYK
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.43,4.92,anthoca01,2017-18,OKC,12.7,3.7,.071,-3.8,-1.1,,NBA,26243760,33,78,32.1,.404,.767,5.8,1.3,0.6,0.6,16.2,OKC
+Carmelo Anthony,/players/a/anthoca01.html,2004,2019,Syracuse University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",,,anthoca01,2018-19,HOU,9.0,0.0,-0.011,-4.7,-0.1,,NBA,,34,4,30.5,.400,.625,6.8,1.0,0.5,0.5,11.8,HOU

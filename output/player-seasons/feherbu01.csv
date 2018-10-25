@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-feherbu01,1976-77,22,PHO,NBA,48,10.1,.531,.768,1.5,0.8,0.2,0.1,5.2,15.9,1.5,.145,-1.8,0.0,,"Alpena in Alpena, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Butch Feher,/players/f/feherbu01.html,1977,1977,Vanderbilt University,false,"Alpena in Alpena, Michigan",-0.09,0.72,feherbu01,1976-77,PHO,15.9,1.5,.145,-1.8,0.0,,22,NBA,48,10.1,.531,.768,1.5,0.8,0.2,0.1,5.2,PHO

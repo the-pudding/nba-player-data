@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bynumwi01,2005-06,23,GSW,NBA,15,10.8,.404,.625,0.8,1.3,0.5,0.0,3.6,8.7,-0.1,-0.021,-6.6,-0.2,,"Crane Technical Preparatory in Chicago, Illinois",
-bynumwi01,2006-07,24,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"Crane Technical Preparatory in Chicago, Illinois",
-bynumwi01,2007-08,25,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"Crane Technical Preparatory in Chicago, Illinois",
-bynumwi01,2008-09,26,Detroit Pistons,NBA,57,14.1,.456,.798,1.3,2.8,0.6,0.0,7.2,17.4,1.3,.078,-1.7,0.1,,"Crane Technical Preparatory in Chicago, Illinois",711517
-bynumwi01,2009-10,27,Detroit Pistons,NBA,63,26.5,.444,.798,2.3,4.5,0.9,0.1,10.0,13.8,1.9,.054,-2.5,-0.2,,"Crane Technical Preparatory in Chicago, Illinois",825497
-bynumwi01,2010-11,28,Detroit Pistons,NBA,61,18.4,.448,.836,1.2,3.2,0.9,0.1,7.9,15.2,1.5,.066,-3.1,-0.3,,"Crane Technical Preparatory in Chicago, Illinois",3250000
-bynumwi01,2011-12,29,Detroit Pistons,NBA,36,14.3,.381,.766,1.6,1.8,0.6,0.1,5.7,10.0,-0.2,-0.022,-5.2,-0.4,,"Crane Technical Preparatory in Chicago, Illinois",3250000
-bynumwi01,2012-13,30,Detroit Pistons,NBA,65,18.8,.469,.809,1.5,3.6,0.7,0.1,9.8,16.6,1.7,.067,-2.4,-0.1,,"Crane Technical Preparatory in Chicago, Illinois",3250000
-bynumwi01,2013-14,31,Detroit Pistons,NBA,56,18.8,.428,.802,1.8,3.9,0.7,0.1,8.7,14.4,1.0,.047,-3.5,-0.4,,"Crane Technical Preparatory in Chicago, Illinois",2790343
-bynumwi01,2014-15,32,Boston Celtics,NBA,7,9.6,.323,.500,0.9,2.6,0.1,0.1,3.1,4.8,-0.2,-0.132,-9.1,-0.1,,"Crane Technical Preparatory in Chicago, Illinois",2915908
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-1.49,0.09,bynumwi01,2005-06,GSW,8.7,-0.1,-0.021,-6.6,-0.2,,23,NBA,15,10.8,.404,.625,0.8,1.3,0.5,0.0,3.6,GSW,
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",,,bynumwi01,2006-07,Did Not Play (other pro league—Israel),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",,,bynumwi01,2007-08,Did Not Play (other pro league—Israel),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",+0.68,1.76,bynumwi01,2008-09,DET,17.4,1.3,.078,-1.7,0.1,,26,NBA,57,14.1,.456,.798,1.3,2.8,0.6,0.0,7.2,DET,711517
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-3.56,-1.28,bynumwi01,2009-10,DET,13.8,1.9,.054,-2.5,-0.2,,27,NBA,63,26.5,.444,.798,2.3,4.5,0.9,0.1,10.0,DET,825497
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-2.63,-0.21,bynumwi01,2010-11,DET,15.2,1.5,.066,-3.1,-0.3,,28,NBA,61,18.4,.448,.836,1.2,3.2,0.9,0.1,7.9,DET,3250000
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-1.44,0.26,bynumwi01,2011-12,DET,10.0,-0.2,-0.022,-5.2,-0.4,,29,NBA,36,14.3,.381,.766,1.6,1.8,0.6,0.1,5.7,DET,3250000
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-2.20,0.07,bynumwi01,2012-13,DET,16.6,1.7,.067,-2.4,-0.1,,30,NBA,65,18.8,.469,.809,1.5,3.6,0.7,0.1,9.8,DET,3250000
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-2.26,0.01,bynumwi01,2013-14,DET,14.4,1.0,.047,-3.5,-0.4,,31,NBA,56,18.8,.428,.802,1.8,3.9,0.7,0.1,8.7,DET,2790343
+Will Bynum,/players/b/bynumwi01.html,2006,2015,"University of Arizona, Georgia Institute of Technology",false,"Crane Technical Preparatory in Chicago, Illinois",-1.18,0.07,bynumwi01,2014-15,WAS,4.8,-0.2,-0.132,-9.1,-0.1,,32,NBA,7,9.6,.323,.500,0.9,2.6,0.1,0.1,3.1,WAS,2915908

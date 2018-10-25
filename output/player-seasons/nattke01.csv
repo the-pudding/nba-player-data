@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-nattke01,1980-81,22,IND,NBA,19,7.8,.325,.636,0.8,0.5,0.3,0.1,3.1,5.2,-0.2,-0.075,-9.1,-0.3,,"Bastrop in Bastrop, Louisiana"
-nattke01,1981-82,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Bastrop in Bastrop, Louisiana"
-nattke01,1982-83,24,UTA,NBA,22,9.5,.521,.643,1.0,1.3,0.2,0.0,3.9,9.1,0.1,.013,-6.1,-0.2,,"Bastrop in Bastrop, Louisiana"
-nattke01,1983-84,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Bastrop in Bastrop, Louisiana"
-nattke01,1984-85,26,"UTA,KCK",NBA,8,3.6,.333,.500,0.4,0.4,0.3,0.0,0.8,4.7,0.0,-0.063,-8.5,0.0,,"Bastrop in Bastrop, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenny Natt,/players/n/nattke01.html,1981,1985,University of Louisiana at Monroe,false,"Bastrop in Bastrop, Louisiana",-0.78,0.15,nattke01,1980-81,IND,5.2,-0.2,-0.075,-9.1,-0.3,,22,NBA,19,7.8,.325,.636,0.8,0.5,0.3,0.1,3.1,IND
+Kenny Natt,/players/n/nattke01.html,1981,1985,University of Louisiana at Monroe,false,"Bastrop in Bastrop, Louisiana",,,nattke01,1981-82,Did Not Play (other pro league—CBA),,,,,,,23,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Kenny Natt,/players/n/nattke01.html,1981,1985,University of Louisiana at Monroe,false,"Bastrop in Bastrop, Louisiana",-1.71,0.07,nattke01,1982-83,UTA,9.1,0.1,.013,-6.1,-0.2,,24,NBA,22,9.5,.521,.643,1.0,1.3,0.2,0.0,3.9,UTA
+Kenny Natt,/players/n/nattke01.html,1981,1985,University of Louisiana at Monroe,false,"Bastrop in Bastrop, Louisiana",,,nattke01,1983-84,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Kenny Natt,/players/n/nattke01.html,1981,1985,University of Louisiana at Monroe,false,"Bastrop in Bastrop, Louisiana",+0.05,0.05,nattke01,1984-85,TOT,4.7,0.0,-0.063,-8.5,0.0,,26,NBA,8,3.6,.333,.500,0.4,0.4,0.3,0.0,0.8,"UTA,KCK"

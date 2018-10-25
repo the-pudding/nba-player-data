@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bosweto01,1976-77,23,BOS,NBA,70,15.5,.515,.711,4.4,1.2,0.4,0.1,6.4,13.6,2.4,.107,0.4,0.6,,"Carver in Montgomery, Alabama"
-bosweto01,1977-78,24,BOS,NBA,65,17.7,.518,.756,4.4,1.1,0.4,0.2,7.1,12.9,2.7,.111,-0.8,0.4,,"Carver in Montgomery, Alabama"
-bosweto01,1978-79,25,DEN,NBA,79,27.9,.532,.697,6.8,3.1,0.6,0.6,10.6,14.6,5.6,.122,2.2,2.4,,"Carver in Montgomery, Alabama"
-bosweto01,1979-80,26,"DEN,UTA",NBA,79,26.3,.564,.755,5.6,2.0,0.4,0.5,11.4,14.3,3.7,.086,-1.1,0.5,,"Carver in Montgomery, Alabama"
-bosweto01,1980-81,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Carver in Montgomery, Alabama"
-bosweto01,1981-82,28,Did Not Play,,,,,,,,,,,,,,,,,"Carver in Montgomery, Alabama"
-bosweto01,1982-83,29,Did Not Play,,,,,,,,,,,,,,,,,"Carver in Montgomery, Alabama"
-bosweto01,1983-84,30,UTA,NBA,38,6.9,.538,.762,1.7,0.4,0.2,0.0,1.9,10.2,0.6,.115,-0.8,0.1,,"Carver in Montgomery, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",-0.39,1.45,bosweto01,1976-77,BOS,13.6,2.4,.107,0.4,0.6,,23,NBA,70,15.5,.515,.711,4.4,1.2,0.4,0.1,6.4,BOS
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",-1.27,0.71,bosweto01,1977-78,BOS,12.9,2.7,.111,-0.8,0.4,,24,NBA,65,17.7,.518,.756,4.4,1.1,0.4,0.2,7.1,BOS
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",-0.03,3.53,bosweto01,1978-79,DEN,14.6,5.6,.122,2.2,2.4,,25,NBA,79,27.9,.532,.697,6.8,3.1,0.6,0.6,10.6,DEN
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",-2.21,0.08,bosweto01,1979-80,TOT,14.3,3.7,.086,-1.1,0.5,,26,NBA,79,26.3,.564,.755,5.6,2.0,0.4,0.5,11.4,"DEN,UTA"
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",,,bosweto01,1980-81,Did Not Play (other pro league—Italy),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—Italy)
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",,,bosweto01,1981-82,Did Not Play,,,,,,,28,,,,,,,,,,,Did Not Play
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",,,bosweto01,1982-83,Did Not Play,,,,,,,29,,,,,,,,,,,Did Not Play
+Tom Boswell,/players/b/bosweto01.html,1976,1984,"South Carolina State University, University of South Carolina",false,"Carver in Montgomery, Alabama",-2.37,-0.02,bosweto01,1983-84,UTA,10.2,0.6,.115,-0.8,0.1,,30,NBA,38,6.9,.538,.762,1.7,0.4,0.2,0.0,1.9,UTA

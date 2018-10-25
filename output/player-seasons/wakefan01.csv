@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wakefan01,1978-79,24,"CHI,DET",NBA,73,8.0,.350,.696,1.0,1.0,0.3,0.0,2.4,4.9,-0.9,-0.072,-7.4,-0.8,,"Crane Technical Preparatory in Chicago, Illinois"
-wakefan01,1979-80,25,UTA,NBA,8,5.9,.400,1.000,0.5,0.4,0.1,0.0,1.9,-2.0,-0.2,-0.187,-14.0,-0.1,,"Crane Technical Preparatory in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Wakefield,/players/w/wakefan01.html,1979,1980,Loyola University of Chicago,false,"Crane Technical Preparatory in Chicago, Illinois",-4.71,-1.01,wakefan01,1978-79,TOT,4.9,-0.9,-0.072,-7.4,-0.8,,24,NBA,73,8.0,.350,.696,1.0,1.0,0.3,0.0,2.4,"CHI,DET"
+Andre Wakefield,/players/w/wakefan01.html,1979,1980,Loyola University of Chicago,false,"Crane Technical Preparatory in Chicago, Illinois",-0.01,0.07,wakefan01,1979-80,UTA,-2.0,-0.2,-0.187,-14.0,-0.1,,25,NBA,8,5.9,.400,1.000,0.5,0.4,0.1,0.0,1.9,UTA

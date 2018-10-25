@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grangda01,2005-06,22,Indiana Pacers,NBA,78,22.6,.462,.777,4.9,1.2,0.7,0.8,7.5,14.7,5.1,.139,2.1,1.9,,1318920,"Grace King in Metairie, Louisiana"
-grangda01,2006-07,23,Indiana Pacers,NBA,82,34.0,.459,.803,4.6,1.4,0.8,0.7,13.9,13.9,6.5,.111,0.9,2.0,,1417800,"Grace King in Metairie, Louisiana"
-grangda01,2007-08,24,Indiana Pacers,NBA,80,36.0,.446,.852,6.1,2.1,1.2,1.1,19.6,16.7,7.3,.122,1.4,2.5,,1516800,"Grace King in Metairie, Louisiana"
-grangda01,2008-09,25,Indiana Pacers,NBA,67,36.2,.447,.878,5.1,2.7,1.0,1.4,25.8,21.8,8.0,.158,2.9,3.0,,2329805,"Grace King in Metairie, Louisiana"
-grangda01,2009-10,26,Indiana Pacers,NBA,62,36.7,.428,.848,5.5,2.8,1.5,0.8,24.1,19.8,6.2,.131,2.7,2.7,,9930500,"Grace King in Metairie, Louisiana"
-grangda01,2010-11,27,Indiana Pacers,NBA,79,35.0,.425,.848,5.4,2.6,1.1,0.8,20.5,17.8,6.9,.120,1.6,2.5,,10973202,"Grace King in Metairie, Louisiana"
-grangda01,2011-12,28,Indiana Pacers,NBA,62,33.3,.416,.873,5.0,1.8,1.0,0.6,18.7,18.6,6.7,.155,1.9,2.0,,12015904,"Grace King in Metairie, Louisiana"
-grangda01,2012-13,29,Indiana Pacers,NBA,5,14.8,.286,.625,1.8,0.6,0.4,0.2,5.4,4.0,-0.1,-0.075,-9.6,-0.1,,13058606,"Grace King in Metairie, Louisiana"
-grangda01,2013-14,30,Philadelphia 76ers,NBA,41,20.7,.378,.940,3.2,1.0,0.3,0.4,8.2,10.9,1.3,.073,-2.8,-0.2,,14021788,"Grace King in Metairie, Louisiana"
-grangda01,2013-14,30,Philadelphia 76ers,NBA,29,22.5,.359,.962,3.6,1.1,0.3,0.4,8.3,10.3,1.0,.075,-2.6,-0.1,,14021788,"Grace King in Metairie, Louisiana"
-grangda01,2013-14,30,Philadelphia 76ers,NBA,12,16.2,.429,.857,2.3,0.7,0.3,0.3,8.0,12.6,0.3,.070,-3.4,-0.1,,14021788,"Grace King in Metairie, Louisiana"
-grangda01,2014-15,31,Phoenix Suns,NBA,30,20.4,.401,.757,2.7,0.6,0.4,0.2,6.3,8.6,0.6,.046,-3.2,-0.2,,2077000,"Grace King in Metairie, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",-1.10,1.48,grangda01,2005-06,IND,14.7,5.1,.139,2.1,1.9,,NBA,1318920,22,78,22.6,.462,.777,4.9,1.2,0.7,0.8,7.5,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",-1.58,1.28,grangda01,2006-07,IND,13.9,6.5,.111,0.9,2.0,,NBA,1417800,23,82,34.0,.459,.803,4.6,1.4,0.8,0.7,13.9,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",-0.22,4.01,grangda01,2007-08,IND,16.7,7.3,.122,1.4,2.5,,NBA,1516800,24,80,36.0,.446,.852,6.1,2.1,1.2,1.1,19.6,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",+2.80,8.17,grangda01,2008-09,IND,21.8,8.0,.158,2.9,3.0,,NBA,2329805,25,67,36.2,.447,.878,5.1,2.7,1.0,1.4,25.8,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",+2.07,6.70,grangda01,2009-10,IND,19.8,6.2,.131,2.7,2.7,,NBA,9930500,26,62,36.7,.428,.848,5.5,2.8,1.5,0.8,24.1,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",+0.67,5.90,grangda01,2010-11,IND,17.8,6.9,.120,1.6,2.5,,NBA,10973202,27,79,35.0,.425,.848,5.4,2.6,1.1,0.8,20.5,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",+3.30,9.44,grangda01,2011-12,IND,18.6,6.7,.155,1.9,2.0,,NBA,12015904,28,62,33.3,.416,.873,5.0,1.8,1.0,0.6,18.7,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",-1.36,0.04,grangda01,2012-13,IND,4.0,-0.1,-0.075,-9.6,-0.1,,NBA,13058606,29,5,14.8,.286,.625,1.8,0.6,0.4,0.2,5.4,IND
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",-1.04,0.78,grangda01,2013-14,TOT,10.9,1.3,.073,-2.8,-0.2,,NBA,14021788,30,41,20.7,.378,.940,3.2,1.0,0.3,0.4,8.2,"IND,LAC"
+Danny Granger,/players/g/grangda01.html,2006,2015,"Bradley University, University of New Mexico",false,"Grace King in Metairie, Louisiana",-2.74,-0.20,grangda01,2014-15,MIA,8.6,0.6,.046,-3.2,-0.2,,NBA,2077000,31,30,20.4,.401,.757,2.7,0.6,0.4,0.2,6.3,MIA

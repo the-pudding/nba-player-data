@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksra02,1998-99,23,Washington Wizards,NBA,27,10.0,.426,.656,2.0,0.3,0.1,0.4,4.2,11.6,-0.1,-0.014,-6.4,-0.3,,287500,"Winchendon School in Winchendon, Massachusetts"
-jacksra02,1999-00,24,Dallas Mavericks,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.025,-6.1,0.0,,115500,"Winchendon School in Winchendon, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Randell Jackson,/players/j/jacksra02.html,1999,2000,Florida State University,false,"Winchendon School in Winchendon, Massachusetts",-2.39,-0.04,jacksra02,1998-99,WAS,11.6,-0.1,-0.014,-6.4,-0.3,,NBA,287500,23,27,10.0,.426,.656,2.0,0.3,0.1,0.4,4.2,WAS
+Randell Jackson,/players/j/jacksra02.html,1999,2000,Florida State University,false,"Winchendon School in Winchendon, Massachusetts",-0.13,0.00,jacksra02,1999-00,DAL,0.0,0.0,-0.025,-6.1,0.0,,NBA,115500,24,1,1.0,,,0.0,0.0,0.0,0.0,0.0,DAL

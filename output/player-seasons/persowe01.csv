@@ -1,17 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-persowe01,1994-95,23,Phoenix Suns,NBA,78,23.1,.484,.792,2.6,1.3,0.6,0.3,10.4,14.2,3.8,.101,0.1,1.0,,650000,"Brantley in Brantley, Alabama"
-persowe01,1995-96,24,Phoenix Suns,NBA,82,31.8,.445,.771,3.9,1.7,0.7,0.3,12.7,12.6,4.0,.074,-1.2,0.6,,845000,"Brantley in Brantley, Alabama"
-persowe01,1996-97,25,Phoenix Suns,NBA,80,29.1,.453,.798,3.7,1.5,1.1,0.3,13.5,15.9,5.2,.108,1.2,1.9,,1040000,"Brantley in Brantley, Alabama"
-persowe01,1997-98,26,Cleveland Cavaliers,NBA,82,39.0,.460,.776,4.4,2.3,1.6,0.6,14.7,15.1,10.3,.155,4.5,5.2,,3500000,"Brantley in Brantley, Alabama"
-persowe01,1998-99,27,Cleveland Cavaliers,NBA,45,29.8,.453,.604,3.2,1.8,0.8,0.4,11.2,14.4,2.6,.094,1.1,1.0,,4200000,"Brantley in Brantley, Alabama"
-persowe01,1999-00,28,Cleveland Cavaliers,NBA,79,26.0,.428,.792,3.4,1.8,0.5,0.2,9.2,12.0,3.7,.086,-0.7,0.7,,4900000,"Brantley in Brantley, Alabama"
-persowe01,2000-01,29,Cleveland Cavaliers,NBA,44,21.8,.438,.800,3.0,1.5,0.6,0.3,7.1,11.6,1.2,.061,-1.8,0.1,,5600000,"Brantley in Brantley, Alabama"
-persowe01,2001-02,30,Cleveland Cavaliers,NBA,78,35.8,.495,.798,3.8,2.2,1.0,0.5,15.1,16.3,6.9,.119,1.9,2.7,,6300000,"Brantley in Brantley, Alabama"
-persowe01,2002-03,31,Memphis Grizzlies,NBA,66,29.4,.456,.814,2.9,1.7,0.6,0.3,11.0,13.5,3.3,.082,-0.3,0.8,,7000000,"Brantley in Brantley, Alabama"
-persowe01,2003-04,32,Portland Trail Blazers,NBA,58,17.9,.401,.795,2.0,1.1,0.3,0.2,5.8,11.5,1.3,.061,-3.2,-0.3,,7700000,"Brantley in Brantley, Alabama"
-persowe01,2003-04,32,Portland Trail Blazers,NBA,16,17.8,.308,.750,1.1,1.4,0.3,0.1,5.2,4.6,-0.4,-0.075,-7.7,-0.4,,7700000,"Brantley in Brantley, Alabama"
-persowe01,2003-04,32,Portland Trail Blazers,NBA,33,18.8,.476,.760,2.2,1.2,0.3,0.2,6.5,14.8,1.6,.124,-0.7,0.2,,7700000,"Brantley in Brantley, Alabama"
-persowe01,2003-04,32,Portland Trail Blazers,NBA,9,14.7,.333,1.000,2.8,0.6,0.3,0.1,4.4,10.6,0.1,.053,-5.2,-0.1,,7700000,"Brantley in Brantley, Alabama"
-persowe01,2004-05,33,Miami Heat,NBA,41,16.3,.473,.692,2.0,1.0,0.5,0.1,6.4,14.1,1.6,.115,-1.2,0.1,,1600000,"Brantley in Brantley, Alabama"
-persowe01,2004-05,33,Miami Heat,NBA,16,12.9,.439,1.000,1.4,0.7,0.4,0.0,3.9,10.5,0.3,.076,-3.1,-0.1,,1600000,"Brantley in Brantley, Alabama"
-persowe01,2004-05,33,Miami Heat,NBA,25,18.4,.485,.556,2.4,1.1,0.5,0.2,8.1,15.6,1.3,.133,-0.4,0.2,,1600000,"Brantley in Brantley, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-0.56,2.42,persowe01,1994-95,PHO,14.2,3.8,.101,0.1,1.0,,NBA,650000,23,78,23.1,.484,.792,2.6,1.3,0.6,0.3,10.4,PHO
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-1.19,2.12,persowe01,1995-96,PHO,12.6,4.0,.074,-1.2,0.6,,NBA,845000,24,82,31.8,.445,.771,3.9,1.7,0.7,0.3,12.7,PHO
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",+0.64,4.89,persowe01,1996-97,PHO,15.9,5.2,.108,1.2,1.9,,NBA,1040000,25,80,29.1,.453,.798,3.7,1.5,1.1,0.3,13.5,PHO
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",+2.05,9.99,persowe01,1997-98,CLE,15.1,10.3,.155,4.5,5.2,,NBA,3500000,26,82,39.0,.460,.776,4.4,2.3,1.6,0.6,14.7,CLE
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",+0.01,2.08,persowe01,1998-99,CLE,14.4,2.6,.094,1.1,1.0,,NBA,4200000,27,45,29.8,.453,.604,3.2,1.8,0.8,0.4,11.2,CLE
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-1.47,1.04,persowe01,1999-00,CLE,12.0,3.7,.086,-0.7,0.7,,NBA,4900000,28,79,26.0,.428,.792,3.4,1.8,0.5,0.2,9.2,CLE
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-0.81,0.92,persowe01,2000-01,CLE,11.6,1.2,.061,-1.8,0.1,,NBA,5600000,29,44,21.8,.438,.800,3.0,1.5,0.6,0.3,7.1,CLE
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",+1.98,8.07,persowe01,2001-02,CLE,16.3,6.9,.119,1.9,2.7,,NBA,6300000,30,78,35.8,.495,.798,3.8,2.2,1.0,0.5,15.1,CLE
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-0.84,1.87,persowe01,2002-03,MEM,13.5,3.3,.082,-0.3,0.8,,NBA,7000000,31,66,29.4,.456,.814,2.9,1.7,0.6,0.3,11.0,MEM
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-2.88,-0.48,persowe01,2003-04,TOT,11.5,1.3,.061,-3.2,-0.3,,NBA,7700000,32,58,17.9,.401,.795,2.0,1.1,0.3,0.2,5.8,"MEM,POR,ATL"
+Wesley Person,/players/p/persowe01.html,1995,2005,Auburn University,false,"Brantley in Brantley, Alabama",-1.69,0.28,persowe01,2004-05,TOT,14.1,1.6,.115,-1.2,0.1,,NBA,1600000,33,41,16.3,.473,.692,2.0,1.0,0.5,0.1,6.4,"MIA,DEN"

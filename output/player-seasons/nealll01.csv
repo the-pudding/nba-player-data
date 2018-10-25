@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-nealll01,1976-77,26,POR,NBA,58,16.5,.471,.675,4.4,1.0,0.1,0.6,6.8,13.1,1.8,.091,-2.5,-0.1,,"Talbotton in Talbotton, Georgia"
-nealll01,1977-78,27,POR,NBA,61,19.2,.504,.718,6.1,1.3,0.5,0.3,11.0,19.8,4.3,.178,0.6,0.8,,"Talbotton in Talbotton, Georgia"
-nealll01,1978-79,28,POR,NBA,4,12.0,.364,1.000,2.3,0.3,0.0,0.3,2.3,-0.6,-0.1,-0.112,-11.2,-0.1,,"Talbotton in Talbotton, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lloyd Neal,/players/n/nealll01.html,1973,1979,Tennessee State University,false,"Talbotton in Talbotton, Georgia",-1.23,0.75,nealll01,1976-77,POR,13.1,1.8,.091,-2.5,-0.1,,26,NBA,58,16.5,.471,.675,4.4,1.0,0.1,0.6,6.8,POR
+Lloyd Neal,/players/n/nealll01.html,1973,1979,Tennessee State University,false,"Talbotton in Talbotton, Georgia",+1.07,2.83,nealll01,1977-78,POR,19.8,4.3,.178,0.6,0.8,,27,NBA,61,19.2,.504,.718,6.1,1.3,0.5,0.3,11.0,POR
+Lloyd Neal,/players/n/nealll01.html,1973,1979,Tennessee State University,false,"Talbotton in Talbotton, Georgia",+0.56,0.09,nealll01,1978-79,POR,-0.6,-0.1,-0.112,-11.2,-0.1,,28,NBA,4,12.0,.364,1.000,2.3,0.3,0.0,0.3,2.3,POR

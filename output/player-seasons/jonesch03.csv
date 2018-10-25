@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesch03,1998-99,23,Chicago Bulls,NBA,29,16.4,.317,.500,1.4,1.4,0.6,0.2,3.7,6.5,-0.4,-0.037,-5.6,-0.4,,287500,"Bishop Ford in Brooklyn, New York"
-jonesch03,1999-00,24,Los Angeles Clippers,NBA,56,11.8,.328,.739,1.1,1.7,0.5,0.1,3.4,11.4,0.4,.025,-3.4,-0.2,,385000,"Bishop Ford in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charles Jones,/players/j/jonesch03.html,1999,2000,"Rutgers University, Long Island University",false,"Bishop Ford in Brooklyn, New York",-3.40,-0.46,jonesch03,1998-99,CHI,6.5,-0.4,-0.037,-5.6,-0.4,,NBA,287500,23,29,16.4,.317,.500,1.4,1.4,0.6,0.2,3.7,CHI
+Charles Jones,/players/j/jonesch03.html,1999,2000,"Rutgers University, Long Island University",false,"Bishop Ford in Brooklyn, New York",-1.74,0.21,jonesch03,1999-00,LAC,11.4,0.4,.025,-3.4,-0.2,,NBA,385000,24,56,11.8,.328,.739,1.1,1.7,0.5,0.1,3.4,LAC

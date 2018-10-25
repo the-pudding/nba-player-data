@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bacondw01,2017-18,22,Charlotte Hornets,NBA,53,13.5,.375,.800,2.3,0.7,0.3,0.0,3.3,5.8,-0.1,-0.007,-5.7,-0.7,,815615,"Oak Hill Academy in Mouth of Wilson, Virginia"
-bacondw01,2018-19,23,CHO,NBA,1,8.0,.400,1.000,0.0,1.0,0.0,0.0,7.0,22.2,0.0,.244,-5.8,0.0,,,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dwayne Bacon,/players/b/bacondw01.html,2018,2019,Florida State University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.02,0.12,bacondw01,2017-18,CHO,5.8,-0.1,-0.007,-5.7,-0.7,,NBA,815615,22,53,13.5,.375,.800,2.3,0.7,0.3,0.0,3.3,CHO
+Dwayne Bacon,/players/b/bacondw01.html,2018,2019,Florida State University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",,,bacondw01,2018-19,CHO,22.2,0.0,.244,-5.8,0.0,,NBA,,23,1,8.0,.400,1.000,0.0,1.0,0.0,0.0,7.0,CHO

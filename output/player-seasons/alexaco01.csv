@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-alexaco01,1995-96,22,San Antonio Spurs,NBA,60,9.3,.406,.640,0.7,2.0,0.5,0.0,2.8,8.7,0.2,.021,-4.7,-0.4,,490000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,1996-97,23,San Antonio Spurs,NBA,80,18.2,.396,.736,1.5,3.2,1.0,0.2,7.2,14.3,1.1,.035,-1.3,0.2,,521000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,1997-98,24,San Antonio Spurs,NBA,60,21.6,.428,.784,2.4,3.5,1.2,0.2,8.1,15.2,2.2,.081,0.1,0.7,,562380,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,1997-98,24,San Antonio Spurs,NBA,37,13.5,.414,.676,1.3,1.9,0.7,0.1,4.5,11.1,0.7,.065,-1.5,0.1,,562380,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,1997-98,24,San Antonio Spurs,NBA,23,34.7,.435,.846,4.3,6.0,2.0,0.3,14.0,17.8,1.5,.091,1.1,0.6,,562380,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,1998-99,25,DEN,NBA,36,21.6,.373,.841,2.1,3.3,1.0,0.1,7.3,11.0,-0.3,-0.016,-3.6,-0.3,,,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,1999-00,26,Denver Nuggets,NBA,29,11.3,.286,.773,1.4,2.0,0.8,0.1,2.8,8.8,-0.1,-0.012,-3.5,-0.1,,1980000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,2000-01,27,Denver Nuggets,NBA,26,8.7,.321,.667,1.0,1.4,0.6,0.0,2.0,6.3,-0.1,-0.031,-6.1,-0.2,,2160000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,2001-02,28,Denver Nuggets,NBA,,,,,,,,,,,,,,,,1995741,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,2002-03,29,Denver Nuggets,NBA,,,,,,,,,,,,,,,,2149259,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,2003-04,30,Denver Nuggets,NBA,,,,,,,,,,,,,,,,2302778,"Oak Hill Academy in Mouth of Wilson, Virginia"
-alexaco01,2004-05,31,CHA,NBA,16,12.6,.327,.750,1.8,2.3,0.6,0.1,3.1,8.8,0.0,.002,-3.4,-0.1,,,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.45,-0.09,alexaco01,1995-96,SAS,8.7,0.2,.021,-4.7,-0.4,,NBA,490000,22,60,9.3,.406,.640,0.7,2.0,0.5,0.0,2.8,SAS
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.37,0.90,alexaco01,1996-97,SAS,14.3,1.1,.035,-1.3,0.2,,NBA,521000,23,80,18.2,.396,.736,1.5,3.2,1.0,0.2,7.2,SAS
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.42,1.62,alexaco01,1997-98,TOT,15.2,2.2,.081,0.1,0.7,,NBA,562380,24,60,21.6,.428,.784,2.4,3.5,1.2,0.2,8.1,"SAS,DEN"
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-3.02,-0.39,alexaco01,1998-99,DEN,11.0,-0.3,-0.016,-3.6,-0.3,,NBA,,25,36,21.6,.373,.841,2.1,3.3,1.0,0.1,7.3,DEN
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.42,0.18,alexaco01,1999-00,DEN,8.8,-0.1,-0.012,-3.5,-0.1,,NBA,1980000,26,29,11.3,.286,.773,1.4,2.0,0.8,0.1,2.8,DEN
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.53,0.08,alexaco01,2000-01,ORL,6.3,-0.1,-0.031,-6.1,-0.2,,NBA,2160000,27,26,8.7,.321,.667,1.0,1.4,0.6,0.0,2.0,ORL
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",,,alexaco01,2001-02,Did Not Play,,,,,,,NBA,1995741,28,,,,,,,,,,Did Not Play
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",,,alexaco01,2002-03,Did Not Play (other pro league—D-League),,,,,,,NBA,2149259,29,,,,,,,,,,Did Not Play (other pro league—D-League)
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",,,alexaco01,2003-04,Did Not Play (other pro league—Italy),,,,,,,NBA,2302778,30,,,,,,,,,,Did Not Play (other pro league—Italy)
+Cory Alexander,/players/a/alexaco01.html,1996,2005,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.88,0.18,alexaco01,2004-05,CHA,8.8,0.0,.002,-3.4,-0.1,,NBA,,31,16,12.6,.327,.750,1.8,2.3,0.6,0.1,3.1,CHA

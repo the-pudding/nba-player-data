@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-josepyv01,1985-86,28,NJN,NBA,1,5.0,,1.000,0.0,0.0,0.0,0.0,2.0,12.8,0.0,.309,-0.9,0.0,,"Notre Dame in Port-au-Prince, Haiti"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Yvon Joseph,/players/j/josepyv01.html,1986,1986,Georgia Institute of Technology,false,"Notre Dame in Port-au-Prince, Haiti",+0.35,0.01,josepyv01,1985-86,NJN,12.8,0.0,.309,-0.9,0.0,,28,NBA,1,5.0,,1.000,0.0,0.0,0.0,0.0,2.0,NJN

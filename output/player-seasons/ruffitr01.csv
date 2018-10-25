@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ruffitr01,1994-95,24,Phoenix Suns,NBA,49,6.5,.426,.711,0.5,1.0,0.3,0.0,4.8,15.5,0.1,.009,-3.1,-0.1,,143860,"Bennett in Buffalo, New York"
-ruffitr01,1995-96,25,PHI,NBA,61,25.4,.406,.813,2.2,4.4,0.7,0.0,12.8,14.8,1.2,.037,-2.7,-0.3,,,"Bennett in Buffalo, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Trevor Ruffin,/players/r/ruffitr01.html,1995,1996,University of Hawaii,false,"Bennett in Buffalo, New York",-1.46,0.19,ruffitr01,1994-95,PHO,15.5,0.1,.009,-3.1,-0.1,,NBA,143860,24,49,6.5,.426,.711,0.5,1.0,0.3,0.0,4.8,PHO
+Trevor Ruffin,/players/r/ruffitr01.html,1995,1996,University of Hawaii,false,"Bennett in Buffalo, New York",-2.52,-0.21,ruffitr01,1995-96,PHI,14.8,1.2,.037,-2.7,-0.3,,NBA,,25,61,25.4,.406,.813,2.2,4.4,0.7,0.0,12.8,PHI

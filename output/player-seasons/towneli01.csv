@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-towneli01,1982-83,23,POR,NBA,55,9.4,.449,.737,1.2,0.6,0.3,0.1,4.5,11.9,0.7,.064,-3.4,-0.2,,"Covington in Covington, Virginia"
-towneli01,1983-84,24,"MIL,SDC",NBA,4,4.8,.500,,0.3,0.3,0.3,0.5,2.0,11.7,0.0,.036,-2.7,0.0,,"Covington in Covington, Virginia"
-towneli01,1984-85,25,SAS,NBA,1,8.0,.000,1.000,1.0,0.0,0.0,0.0,2.0,-11.4,-0.1,-0.403,-29.8,-0.1,,"Covington in Covington, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Linton Townes,/players/t/towneli01.html,1983,1985,James Madison University,false,"Covington in Covington, Virginia",-2.24,-0.01,towneli01,1982-83,POR,11.9,0.7,.064,-3.4,-0.2,,23,NBA,55,9.4,.449,.737,1.2,0.6,0.3,0.1,4.5,POR
+Linton Townes,/players/t/towneli01.html,1983,1985,James Madison University,false,"Covington in Covington, Virginia",+0.36,0.03,towneli01,1983-84,TOT,11.7,0.0,.036,-2.7,0.0,,24,NBA,4,4.8,.500,,0.3,0.3,0.3,0.5,2.0,"MIL,SDC"
+Linton Townes,/players/t/towneli01.html,1983,1985,James Madison University,false,"Covington in Covington, Virginia",-0.08,0.02,towneli01,1984-85,SAS,-11.4,-0.1,-0.403,-29.8,-0.1,,25,NBA,1,8.0,.000,1.000,1.0,0.0,0.0,0.0,2.0,SAS

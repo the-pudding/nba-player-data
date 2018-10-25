@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-coxch01,1982-83,27,WSB,NBA,7,11.1,.351,.500,1.4,0.9,0.0,0.1,4.1,1.6,-0.2,-0.127,-9.7,-0.2,,"Roxborough in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chubby Cox,/players/c/coxch01.html,1983,1983,"Villanova University, University of San Francisco",false,"Roxborough in Philadelphia, Pennsylvania",+0.23,0.13,coxch01,1982-83,WSB,1.6,-0.2,-0.127,-9.7,-0.2,,27,NBA,7,11.1,.351,.500,1.4,0.9,0.0,0.1,4.1,WSB

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-owensch01,2002-03,23,Memphis Grizzlies,NBA,1,6.0,.667,,1.0,0.0,0.0,0.0,4.0,20.1,0.0,-0.032,-10.7,0.0,,349458,"Duncanville in Duncanville, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Owens,/players/o/owensch01.html,2003,2003,"Tulane University, University of Texas at Austin",false,"Duncanville in Duncanville, Texas",-0.23,0.01,owensch01,2002-03,MEM,20.1,0.0,-0.032,-10.7,0.0,,NBA,349458,23,1,6.0,.667,,1.0,0.0,0.0,0.0,4.0,MEM

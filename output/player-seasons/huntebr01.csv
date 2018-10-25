@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-huntebr01,2003-04,23,Boston Celtics,NBA,36,11.3,.457,.442,3.3,0.5,0.4,0.0,3.5,12.6,0.6,.066,-3.9,-0.2,,366931,"Withrow in Cincinnati, Ohio"
-huntebr01,2004-05,24,Orlando Magic,NBA,31,7.2,.507,.538,2.2,0.1,0.1,0.2,3.1,12.2,0.2,.036,-8.1,-0.3,,620046,"Withrow in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brandon Hunter,/players/h/huntebr01.html,2004,2005,Ohio University,false,"Withrow in Cincinnati, Ohio",-0.95,0.35,huntebr01,2003-04,BOS,12.6,0.6,.066,-3.9,-0.2,,NBA,366931,23,36,11.3,.457,.442,3.3,0.5,0.4,0.0,3.5,BOS
+Brandon Hunter,/players/h/huntebr01.html,2004,2005,Ohio University,false,"Withrow in Cincinnati, Ohio",-1.06,0.18,huntebr01,2004-05,ORL,12.2,0.2,.036,-8.1,-0.3,,NBA,620046,24,31,7.2,.507,.538,2.2,0.1,0.1,0.2,3.1,ORL

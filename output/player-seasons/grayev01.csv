@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-grayev01,1996-97,27,NJN,NBA,5,8.4,.267,1.000,0.6,0.4,0.2,0.0,2.6,2.8,-0.1,-0.080,-10.8,-0.1,,"Bloomington in Bloomington, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Evric Gray,/players/g/grayev01.html,1997,1997,"University of Nevada, Las Vegas",false,"Bloomington in Bloomington, California",-0.24,0.06,grayev01,1996-97,NJN,2.8,-0.1,-0.080,-10.8,-0.1,,27,NBA,5,8.4,.267,1.000,0.6,0.4,0.2,0.0,2.6,NJN

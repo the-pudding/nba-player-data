@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kleizli01,2005-06,21,Denver Nuggets,NBA,61,8.5,.445,.704,1.9,0.2,0.2,0.2,3.5,13.2,1.2,.111,-4.3,-0.3,,879360,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2006-07,22,Denver Nuggets,NBA,79,18.8,.422,.852,3.4,0.6,0.4,0.2,7.6,11.1,2.8,.090,-2.3,-0.1,,945360,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2007-08,23,Denver Nuggets,NBA,79,23.9,.472,.770,4.2,1.2,0.6,0.2,11.1,14.4,4.7,.119,-0.6,0.7,,1011360,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2008-09,24,Denver Nuggets,NBA,82,22.2,.447,.725,4.0,0.8,0.4,0.2,9.9,13.2,3.6,.095,-2.1,0.0,,1824493,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2009-10,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2010-11,26,Toronto Raptors,NBA,39,26.5,.438,.631,4.5,1.0,0.5,0.2,11.2,10.1,-0.3,-0.012,-4.7,-0.7,,4995000,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2011-12,27,Toronto Raptors,NBA,49,21.6,.402,.810,4.1,0.9,0.5,0.1,9.7,12.4,1.5,.066,-2.2,-0.1,,4605000,"Montrose Christian School in Rockville, Maryland"
-kleizli01,2012-13,28,Toronto Raptors,NBA,20,18.8,.333,.842,2.6,0.8,0.2,0.1,7.4,8.2,0.1,.013,-5.7,-0.3,,4600000,"Montrose Christian School in Rockville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",-0.82,0.52,kleizli01,2005-06,DEN,13.2,1.2,.111,-4.3,-0.3,,NBA,879360,21,61,8.5,.445,.704,1.9,0.2,0.2,0.2,3.5,DEN
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",-0.36,2.01,kleizli01,2006-07,DEN,11.1,2.8,.090,-2.3,-0.1,,NBA,945360,22,79,18.8,.422,.852,3.4,0.6,0.4,0.2,7.6,DEN
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",+0.45,3.70,kleizli01,2007-08,DEN,14.4,4.7,.119,-0.6,0.7,,NBA,1011360,23,79,23.9,.472,.770,4.2,1.2,0.6,0.2,11.1,DEN
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",-2.14,0.24,kleizli01,2008-09,DEN,13.2,3.6,.095,-2.1,0.0,,NBA,1824493,24,82,22.2,.447,.725,4.0,0.8,0.4,0.2,9.9,DEN
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",,,kleizli01,2009-10,Did Not Play (other pro league—Greece),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Greece)
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",-1.62,0.48,kleizli01,2010-11,TOR,10.1,-0.3,-0.012,-4.7,-0.7,,NBA,4995000,26,39,26.5,.438,.631,4.5,1.0,0.5,0.2,11.2,TOR
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",-0.93,0.93,kleizli01,2011-12,TOR,12.4,1.5,.066,-2.2,-0.1,,NBA,4605000,27,49,21.6,.402,.810,4.1,0.9,0.5,0.1,9.7,TOR
+Linas Kleiza,/players/k/kleizli01.html,2006,2013,University of Missouri,false,"Montrose Christian School in Rockville, Maryland",-2.63,-0.08,kleizli01,2012-13,TOR,8.2,0.1,.013,-5.7,-0.3,,NBA,4600000,28,20,18.8,.333,.842,2.6,0.8,0.2,0.1,7.4,TOR

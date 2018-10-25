@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-paigema01,2017-18,24,Charlotte Hornets,NBA,5,5.6,.286,1.000,0.8,0.6,0.0,0.0,2.4,9.1,0.0,-0.006,-6.9,0.0,,,"Linn-Marr in Marion, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Paige,/players/p/paigema01.html,2018,2018,University of North Carolina,true,"Linn-Marr in Marion, Iowa",-0.51,0.03,paigema01,2017-18,CHO,9.1,0.0,-0.006,-6.9,0.0,,NBA,,24,5,5.6,.286,1.000,0.8,0.6,0.0,0.0,2.4,CHO

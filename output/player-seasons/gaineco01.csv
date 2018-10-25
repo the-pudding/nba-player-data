@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-gaineco01,1988-89,23,NJN,NBA,32,10.5,.422,.750,0.6,2.1,0.5,0.0,2.1,9.1,0.2,.035,-6.2,-0.4,,"Saint Bernard in Playa del Rey, California",
-gaineco01,1989-90,24,PHI,NBA,9,9.0,.333,.250,0.6,2.9,0.4,0.0,1.1,6.2,-0.1,-0.044,-9.9,-0.2,,"Saint Bernard in Playa del Rey, California",
-gaineco01,1990-91,25,DEN,NBA,10,22.6,.400,.846,1.4,9.1,1.0,0.2,8.3,15.2,0.3,.061,-7.0,-0.3,,"Saint Bernard in Playa del Rey, California",
-gaineco01,1991-92,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Saint Bernard in Playa del Rey, California",
-gaineco01,1992-93,27,Seattle SuperSonics,NBA,,,,,,,,,,,,,,,,"Saint Bernard in Playa del Rey, California",13000
-gaineco01,1993-94,28,NYK,NBA,18,4.3,.450,.867,0.7,1.7,0.1,0.0,1.8,23.7,0.6,.339,2.6,0.1,,"Saint Bernard in Playa del Rey, California",
-gaineco01,1994-95,29,PHI,NBA,11,25.5,.471,.455,1.6,3.0,0.7,0.1,5.0,7.2,0.1,.013,-4.8,-0.2,,"Saint Bernard in Playa del Rey, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",-1.78,0.11,gaineco01,1988-89,NJN,9.1,0.2,.035,-6.2,-0.4,,23,NBA,32,10.5,.422,.750,0.6,2.1,0.5,0.0,2.1,NJN,
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",-0.47,0.10,gaineco01,1989-90,PHI,6.2,-0.1,-0.044,-9.9,-0.2,,24,NBA,9,9.0,.333,.250,0.6,2.9,0.4,0.0,1.1,PHI,
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",-0.78,0.23,gaineco01,1990-91,DEN,15.2,0.3,.061,-7.0,-0.3,,25,NBA,10,22.6,.400,.846,1.4,9.1,1.0,0.2,8.3,DEN,
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",,,gaineco01,1991-92,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",,,gaineco01,1992-93,Did Not Play (other pro league—CBA),,,,,,,27,NBA,,,,,,,,,,Did Not Play (other pro league—CBA),13000
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",+0.92,0.23,gaineco01,1993-94,NYK,23.7,0.6,.339,2.6,0.1,,28,NBA,18,4.3,.450,.867,0.7,1.7,0.1,0.0,1.8,NYK,
+Corey Gaines,/players/g/gaineco01.html,1989,1995,"University of California, Los Angeles, Loyola Marymount University",false,"Saint Bernard in Playa del Rey, California",-2.14,0.02,gaineco01,1994-95,PHI,7.2,0.1,.013,-4.8,-0.2,,29,NBA,11,25.5,.471,.455,1.6,3.0,0.7,0.1,5.0,PHI,

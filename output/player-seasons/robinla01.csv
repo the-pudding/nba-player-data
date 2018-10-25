@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-robinla01,1990-91,23,"GSW,WSB",NBA,36,11.8,.413,.556,1.4,1.0,0.4,0.0,3.9,7.6,-0.1,-0.016,-5.3,-0.4,,"Airline in Bossier City, Louisiana",
-robinla01,1991-92,24,BOS,NBA,1,6.0,.200,,2.0,1.0,0.0,0.0,2.0,-9.3,-0.1,-0.434,-12.6,0.0,,"Airline in Bossier City, Louisiana",
-robinla01,1992-93,25,WSB,NBA,4,8.3,.375,.600,0.8,0.8,0.3,0.3,3.8,12.0,0.0,-0.024,-7.8,0.0,,"Airline in Bossier City, Louisiana",
-robinla01,1993-94,26,HOU,NBA,6,9.2,.500,.375,1.7,1.0,1.2,0.0,4.2,13.0,0.0,-0.002,0.9,0.0,,"Airline in Bossier City, Louisiana",
-robinla01,1994-95,27,Houston Rockets,NBA,,,,,,,,,,,,,,,,"Airline in Bossier City, Louisiana",30000
-robinla01,1995-96,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"Airline in Bossier City, Louisiana",
-robinla01,1996-97,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Airline in Bossier City, Louisiana",
-robinla01,1997-98,30,VAN,NBA,6,6.8,.316,1.000,2.0,0.2,0.7,0.0,2.8,15.8,0.0,.033,-6.0,0.0,,"Airline in Bossier City, Louisiana",
-robinla01,1998-99,31,Did Not Play,,,,,,,,,,,,,,,,,"Airline in Bossier City, Louisiana",
-robinla01,1999-00,32,Did Not Play,,,,,,,,,,,,,,,,,"Airline in Bossier City, Louisiana",
-robinla01,2000-01,33,Atlanta Hawks,NBA,34,18.6,.364,.875,2.6,1.1,0.8,0.1,5.9,11.8,1.1,.083,0.1,0.3,,"Airline in Bossier City, Louisiana",611000
-robinla01,2000-01,33,Atlanta Hawks,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,-54.4,0.0,-1.521,-48.0,0.0,,"Airline in Bossier City, Louisiana",611000
-robinla01,2000-01,33,Atlanta Hawks,NBA,33,19.1,.364,.875,2.6,1.1,0.8,0.1,6.0,11.9,1.1,.085,0.2,0.4,,"Airline in Bossier City, Louisiana",611000
-robinla01,2001-02,34,New York Knicks,NBA,2,5.0,.250,,1.0,0.0,0.0,0.0,1.5,3.8,0.0,-0.038,-14.9,0.0,,"Airline in Bossier City, Louisiana",715850
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",-3.71,-0.40,robinla01,1990-91,TOT,7.6,-0.1,-0.016,-5.3,-0.4,,23,NBA,36,11.8,.413,.556,1.4,1.0,0.4,0.0,3.9,"GSW,WSB",
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",+0.17,0.01,robinla01,1991-92,BOS,-9.3,-0.1,-0.434,-12.6,0.0,,24,NBA,1,6.0,.200,,2.0,1.0,0.0,0.0,2.0,BOS,
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",-0.20,0.05,robinla01,1992-93,WSB,12.0,0.0,-0.024,-7.8,0.0,,25,NBA,4,8.3,.375,.600,0.8,0.8,0.3,0.3,3.8,WSB,
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",-0.09,0.08,robinla01,1993-94,HOU,13.0,0.0,-0.002,0.9,0.0,,26,NBA,6,9.2,.500,.375,1.7,1.0,1.2,0.0,4.2,HOU,
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",,,robinla01,1994-95,Did Not Play (other pro league—CBA),,,,,,,27,NBA,,,,,,,,,,Did Not Play (other pro league—CBA),30000
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",,,robinla01,1995-96,Did Not Play (other pro league—Spain),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—Spain),
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",,,robinla01,1996-97,Did Not Play (other pro league—CBA),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",-0.12,0.06,robinla01,1997-98,VAN,15.8,0.0,.033,-6.0,0.0,,30,NBA,6,6.8,.316,1.000,2.0,0.2,0.7,0.0,2.8,VAN,
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",,,robinla01,1998-99,Did Not Play,,,,,,,31,,,,,,,,,,,Did Not Play,
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",,,robinla01,1999-00,Did Not Play,,,,,,,32,,,,,,,,,,,Did Not Play,
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",-1.11,0.47,robinla01,2000-01,TOT,11.8,1.1,.083,0.1,0.3,,33,NBA,34,18.6,.364,.875,2.6,1.1,0.8,0.1,5.9,"CLE,ATL",611000
+Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false,"Airline in Bossier City, Louisiana",+0.56,0.02,robinla01,2001-02,NYK,3.8,0.0,-0.038,-14.9,0.0,,34,NBA,2,5.0,.250,,1.0,0.0,0.0,0.0,1.5,NYK,715850

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-nwabada01,2016-17,24,Los Angeles Lakers,NBA,20,19.9,.580,.641,3.2,0.7,0.7,0.4,6.0,12.2,0.8,.091,-1.9,0.0,,137466,"University High School in Los Angeles, California"
-nwabada01,2017-18,25,Chicago Bulls,NBA,70,23.5,.478,.655,4.7,1.5,0.8,0.4,7.9,12.2,2.4,.071,-1.6,0.1,,1312611,"University High School in Los Angeles, California"
-nwabada01,2018-19,26,CLE,NBA,2,3.0,,,0.0,0.5,0.0,0.5,0.0,9.3,0.0,.086,-5.2,0.0,,,"University High School in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Nwaba,/players/n/nwabada01.html,2017,2019,"California Polytechnic State University, San Luis Obispo",true,"University High School in Los Angeles, California",+0.06,0.63,nwabada01,2016-17,LAL,12.2,0.8,.091,-1.9,0.0,,NBA,137466,24,20,19.9,.580,.641,3.2,0.7,0.7,0.4,6.0,LAL
+David Nwaba,/players/n/nwabada01.html,2017,2019,"California Polytechnic State University, San Luis Obispo",true,"University High School in Los Angeles, California",-1.84,0.50,nwabada01,2017-18,CHI,12.2,2.4,.071,-1.6,0.1,,NBA,1312611,25,70,23.5,.478,.655,4.7,1.5,0.8,0.4,7.9,CHI
+David Nwaba,/players/n/nwabada01.html,2017,2019,"California Polytechnic State University, San Luis Obispo",true,"University High School in Los Angeles, California",,,nwabada01,2018-19,CLE,9.3,0.0,.086,-5.2,0.0,,NBA,,26,2,3.0,,,0.0,0.5,0.0,0.5,0.0,CLE

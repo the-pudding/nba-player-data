@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mchalke01,1980-81,23,BOS,NBA,82,20.1,.533,.679,4.4,0.7,0.3,1.8,10.0,16.4,4.7,.137,0.3,1.0,,"Hibbing in Hibbing, Minnesota",
-mchalke01,1981-82,24,BOS,NBA,82,28.4,.531,.754,6.8,1.1,0.4,2.3,13.6,16.9,7.5,.155,1.7,2.2,,"Hibbing in Hibbing, Minnesota",
-mchalke01,1982-83,25,BOS,NBA,82,28.6,.541,.717,6.7,1.3,0.4,2.3,14.1,17.6,7.5,.154,2.0,2.4,,"Hibbing in Hibbing, Minnesota",
-mchalke01,1983-84,26,BOS,NBA,82,31.4,.556,.765,7.4,1.3,0.3,1.5,18.4,20.0,10.5,.196,1.6,2.4,,"Hibbing in Hibbing, Minnesota",
-mchalke01,1984-85,27,Boston Celtics,NBA,79,33.6,.570,.760,9.0,1.8,0.4,1.5,19.8,20.7,11.0,.199,2.3,2.9,,"Hibbing in Hibbing, Minnesota",1000000
-mchalke01,1985-86,28,Boston Celtics,NBA,68,35.3,.574,.776,8.1,2.7,0.4,2.0,21.3,21.6,11.0,.220,4.6,4.0,,"Hibbing in Hibbing, Minnesota",1000000
-mchalke01,1986-87,29,BOS,NBA,77,39.7,.604,.836,9.9,2.6,0.5,2.2,26.1,24.0,14.8,.232,5.2,5.6,All-NBA (1st),"Hibbing in Hibbing, Minnesota",
-mchalke01,1987-88,30,Boston Celtics,NBA,64,37.3,.604,.797,8.4,2.7,0.4,1.4,22.6,21.9,10.2,.205,4.1,3.7,,"Hibbing in Hibbing, Minnesota",1300000
-mchalke01,1988-89,31,Boston Celtics,NBA,78,36.9,.546,.818,8.2,2.2,0.3,1.2,22.5,20.3,10.1,.168,2.1,3.0,,"Hibbing in Hibbing, Minnesota",1300000
-mchalke01,1989-90,32,Boston Celtics,NBA,82,33.2,.549,.893,8.3,2.1,0.4,1.9,20.9,21.8,11.1,.195,3.7,3.9,,"Hibbing in Hibbing, Minnesota",1200000
-mchalke01,1990-91,33,Boston Celtics,NBA,68,30.4,.553,.829,7.1,1.9,0.4,2.1,18.4,21.2,7.9,.182,2.5,2.3,,"Hibbing in Hibbing, Minnesota",1400000
-mchalke01,1991-92,34,Boston Celtics,NBA,56,25.0,.509,.822,5.9,1.5,0.2,1.1,13.9,18.5,4.0,.136,0.3,0.8,,"Hibbing in Hibbing, Minnesota",3500000
-mchalke01,1992-93,35,Boston Celtics,NBA,71,23.3,.459,.841,5.0,1.0,0.2,0.8,10.7,14.4,2.8,.082,-2.5,-0.2,,"Hibbing in Hibbing, Minnesota",3500000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+0.73,3.98,mchalke01,1980-81,BOS,16.4,4.7,.137,0.3,1.0,,23,NBA,82,20.1,.533,.679,4.4,0.7,0.3,1.8,10.0,BOS,
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+1.98,7.72,mchalke01,1981-82,BOS,16.9,7.5,.155,1.7,2.2,,24,NBA,82,28.4,.531,.754,6.8,1.1,0.4,2.3,13.6,BOS,
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+1.62,6.72,mchalke01,1982-83,BOS,17.6,7.5,.154,2.0,2.4,,25,NBA,82,28.6,.541,.717,6.7,1.3,0.4,2.3,14.1,BOS,
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+1.90,9.22,mchalke01,1983-84,BOS,20.0,10.5,.196,1.6,2.4,,26,NBA,82,31.4,.556,.765,7.4,1.3,0.3,1.5,18.4,BOS,
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+2.45,10.99,mchalke01,1984-85,BOS,20.7,11.0,.199,2.3,2.9,,27,NBA,79,33.6,.570,.760,9.0,1.8,0.4,1.5,19.8,BOS,1000000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+3.59,12.19,mchalke01,1985-86,BOS,21.6,11.0,.220,4.6,4.0,,28,NBA,68,35.3,.574,.776,8.1,2.7,0.4,2.0,21.3,BOS,1000000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+3.71,15.26,mchalke01,1986-87,BOS,24.0,14.8,.232,5.2,5.6,All-NBA (1st),29,NBA,77,39.7,.604,.836,9.9,2.6,0.5,2.2,26.1,BOS,
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+3.06,10.81,mchalke01,1987-88,BOS,21.9,10.2,.205,4.1,3.7,,30,NBA,64,37.3,.604,.797,8.4,2.7,0.4,1.4,22.6,BOS,1300000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+1.65,7.82,mchalke01,1988-89,BOS,20.3,10.1,.168,2.1,3.0,,31,NBA,78,36.9,.546,.818,8.2,2.2,0.3,1.2,22.5,BOS,1300000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+2.76,9.72,mchalke01,1989-90,BOS,21.8,11.1,.195,3.7,3.9,,32,NBA,82,33.2,.549,.893,8.3,2.1,0.4,1.9,20.9,BOS,1200000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",+1.96,6.92,mchalke01,1990-91,BOS,21.2,7.9,.182,2.5,2.3,,33,NBA,68,30.4,.553,.829,7.1,1.9,0.4,2.1,18.4,BOS,1400000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",-0.15,2.46,mchalke01,1991-92,BOS,18.5,4.0,.136,0.3,0.8,,34,NBA,56,25.0,.509,.822,5.9,1.5,0.2,1.1,13.9,BOS,3500000
+Kevin McHale,/players/m/mchalke01.html,1981,1993,University of Minnesota,false,"Hibbing in Hibbing, Minnesota",-1.21,1.29,mchalke01,1992-93,BOS,14.4,2.8,.082,-2.5,-0.2,,35,NBA,71,23.3,.459,.841,5.0,1.0,0.2,0.8,10.7,BOS,3500000

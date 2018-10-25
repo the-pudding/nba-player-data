@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownst02,2017-18,22,Milwaukee Bucks,NBA,54,14.4,.400,.875,2.6,0.5,0.6,0.2,4.0,9.1,0.7,.043,-4.0,-0.4,,815615,"Proviso East in Maywood, Illinois"
-brownst02,2018-19,23,MIL,NBA,2,2.0,1.000,,0.0,0.0,0.0,0.0,1.0,18.7,0.0,.210,0.5,0.0,,,"Proviso East in Maywood, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sterling Brown,/players/b/brownst02.html,2018,2019,Southern Methodist University,true,"Proviso East in Maywood, Illinois",-2.55,-0.13,brownst02,2017-18,MIL,9.1,0.7,.043,-4.0,-0.4,,NBA,815615,22,54,14.4,.400,.875,2.6,0.5,0.6,0.2,4.0,MIL
+Sterling Brown,/players/b/brownst02.html,2018,2019,Southern Methodist University,true,"Proviso East in Maywood, Illinois",,,brownst02,2018-19,MIL,18.7,0.0,.210,0.5,0.0,,NBA,,23,2,2.0,1.000,,0.0,0.0,0.0,0.0,1.0,MIL

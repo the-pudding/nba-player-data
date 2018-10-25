@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stoudsa01,2005-06,23,Atlanta Hawks,NBA,61,20.3,.415,.900,1.9,1.2,0.4,0.0,9.7,12.5,1.2,.046,-4.5,-0.8,,675000,"Lake Oswego in Lake Oswego, Oregon"
-stoudsa01,2006-07,24,Atlanta Hawks,NBA,61,17.0,.416,.897,1.2,1.0,0.3,0.0,7.7,11.4,0.8,.036,-5.4,-0.9,,729000,"Lake Oswego in Lake Oswego, Oregon"
-stoudsa01,2007-08,25,Atlanta Hawks,NBA,35,11.5,.361,.820,0.7,0.8,0.2,0.1,5.7,11.1,0.3,.031,-6.2,-0.4,,783000,"Lake Oswego in Lake Oswego, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Salim Stoudamire,/players/s/stoudsa01.html,2006,2008,University of Arizona,false,"Lake Oswego in Lake Oswego, Oregon",-1.93,0.32,stoudsa01,2005-06,ATL,12.5,1.2,.046,-4.5,-0.8,,NBA,675000,23,61,20.3,.415,.900,1.9,1.2,0.4,0.0,9.7,ATL
+Salim Stoudamire,/players/s/stoudsa01.html,2006,2008,University of Arizona,false,"Lake Oswego in Lake Oswego, Oregon",-2.82,-0.37,stoudsa01,2006-07,ATL,11.4,0.8,.036,-5.4,-0.9,,NBA,729000,24,61,17.0,.416,.897,1.2,1.0,0.3,0.0,7.7,ATL
+Salim Stoudamire,/players/s/stoudsa01.html,2006,2008,University of Arizona,false,"Lake Oswego in Lake Oswego, Oregon",-2.40,-0.02,stoudsa01,2007-08,ATL,11.1,0.3,.031,-6.2,-0.4,,NBA,783000,25,35,11.5,.361,.820,0.7,0.8,0.2,0.1,5.7,ATL

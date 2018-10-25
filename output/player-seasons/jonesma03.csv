@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jonesma03,2004-05,29,ORL,NBA,10,11.6,.290,.500,1.3,0.6,0.5,0.2,2.3,4.4,-0.1,-0.033,-5.4,-0.1,,"Milwaukee Trade and Technical in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Jones,/players/j/jonesma03.html,2005,2005,"University of Minnesota, University of Central Florida",false,"Milwaukee Trade and Technical in Milwaukee, Wisconsin",-0.10,0.17,jonesma03,2004-05,ORL,4.4,-0.1,-0.033,-5.4,-0.1,,29,NBA,10,11.6,.290,.500,1.3,0.6,0.5,0.2,2.3,ORL

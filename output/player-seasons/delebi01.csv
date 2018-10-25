@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-delebi01,1991-92,22,Orlando Magic,NBA,48,18.9,.528,.669,5.7,0.7,0.9,1.1,9.1,17.1,1.8,.097,-0.1,0.4,,777000,"Santa Monica in Santa Monica, California"
-delebi01,1992-93,23,Orlando Magic,NBA,21,11.4,.513,.800,2.7,0.2,0.7,0.8,4.6,12.9,0.3,.069,-1.3,0.0,,1011000,"Santa Monica in Santa Monica, California"
-delebi01,1993-94,24,Denver Nuggets,NBA,80,18.8,.541,.649,5.6,0.6,0.6,1.1,8.0,16.5,4.7,.151,0.0,0.8,,1244000,"Santa Monica in Santa Monica, California"
-delebi01,1994-95,25,Denver Nuggets,NBA,63,20.0,.589,.654,4.7,0.8,0.6,0.7,7.9,13.9,2.3,.089,-0.8,0.4,,2000000,"Santa Monica in Santa Monica, California"
-delebi01,1995-96,26,Los Angeles Clippers,NBA,65,33.2,.543,.734,7.6,1.9,1.1,0.8,15.8,17.0,4.0,.090,0.0,1.1,,2200000,"Santa Monica in Santa Monica, California"
-delebi01,1996-97,27,CHI,NBA,9,15.3,.413,.733,3.7,1.3,0.3,0.6,7.0,13.7,0.2,.073,-3.3,0.0,,,"Santa Monica in Santa Monica, California"
-delebi01,1997-98,28,Detroit Pistons,NBA,78,33.6,.511,.707,8.9,1.2,0.9,0.7,16.2,18.1,6.9,.126,-0.4,1.1,,4050000,"Santa Monica in Santa Monica, California"
-delebi01,1998-99,29,Detroit Pistons,NBA,49,24.0,.501,.686,5.6,1.4,0.8,0.8,10.5,15.8,2.4,.097,0.2,0.7,,4860000,"Santa Monica in Santa Monica, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",+0.00,1.40,delebi01,1991-92,ORL,17.1,1.8,.097,-0.1,0.4,,NBA,777000,22,48,18.9,.528,.669,5.7,0.7,0.9,1.1,9.1,ORL
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",-0.43,0.30,delebi01,1992-93,ORL,12.9,0.3,.069,-1.3,0.0,,NBA,1011000,23,21,11.4,.513,.800,2.7,0.2,0.7,0.8,4.6,ORL
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",+0.39,3.27,delebi01,1993-94,DEN,16.5,4.7,.151,0.0,0.8,,NBA,1244000,24,80,18.8,.541,.649,5.6,0.6,0.6,1.1,8.0,DEN
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",-1.43,0.75,delebi01,1994-95,DEN,13.9,2.3,.089,-0.8,0.4,,NBA,2000000,25,63,20.0,.589,.654,4.7,0.8,0.6,0.7,7.9,DEN
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",-0.56,2.51,delebi01,1995-96,LAC,17.0,4.0,.090,0.0,1.1,,NBA,2200000,26,65,33.2,.543,.734,7.6,1.9,1.1,0.8,15.8,LAC
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",-0.66,0.52,delebi01,1996-97,CHI,13.7,0.2,.073,-3.3,0.0,,NBA,,27,9,15.3,.413,.733,3.7,1.3,0.3,0.6,7.0,CHI
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",+0.71,5.33,delebi01,1997-98,DET,18.1,6.9,.126,-0.4,1.1,,NBA,4050000,28,78,33.6,.511,.707,8.9,1.2,0.9,0.7,16.2,DET
+Bison Dele,/players/d/delebi01.html,1992,1999,"University of Maryland, University of Arizona",false,"Santa Monica in Santa Monica, California",+0.43,2.40,delebi01,1998-99,DET,15.8,2.4,.097,0.2,0.7,,NBA,4860000,29,49,24.0,.501,.686,5.6,1.4,0.8,0.8,10.5,DET

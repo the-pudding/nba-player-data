@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesde02,2016-17,19,Phoenix Suns,NBA,32,17.0,.562,.707,2.5,0.4,0.4,0.4,5.3,12.0,1.1,.098,-1.1,0.1,,543471,"Archbishop Carroll in Radnor, Pennsylvania"
-jonesde02,2017-18,20,Phoenix Suns,NBA,20,12.3,.396,.667,1.9,0.5,0.2,0.7,3.1,10.1,0.4,.075,-2.0,0.0,,400458,"Archbishop Carroll in Radnor, Pennsylvania"
-jonesde02,2017-18,20,Phoenix Suns,NBA,6,5.5,.500,.833,0.7,0.5,0.2,0.7,1.5,18.4,0.1,.177,3.9,0.0,,400458,"Archbishop Carroll in Radnor, Pennsylvania"
-jonesde02,2017-18,20,Phoenix Suns,NBA,14,15.1,.388,.611,2.4,0.4,0.2,0.6,3.7,8.8,0.3,.059,-2.9,0.0,,400458,"Archbishop Carroll in Radnor, Pennsylvania"
-jonesde02,2018-19,21,MIA,NBA,4,17.8,.429,.636,2.5,1.0,0.5,0.5,8.5,12.0,0.2,.109,0.6,0.0,,,"Archbishop Carroll in Radnor, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Jones,/players/j/jonesde02.html,2017,2019,"University of Nevada, Las Vegas",true,"Archbishop Carroll in Radnor, Pennsylvania",-0.49,0.66,jonesde02,2016-17,PHO,12.0,1.1,.098,-1.1,0.1,,NBA,543471,19,32,17.0,.562,.707,2.5,0.4,0.4,0.4,5.3,PHO
+Derrick Jones,/players/j/jonesde02.html,2017,2019,"University of Nevada, Las Vegas",true,"Archbishop Carroll in Radnor, Pennsylvania",-1.18,0.18,jonesde02,2017-18,TOT,10.1,0.4,.075,-2.0,0.0,,NBA,400458,20,20,12.3,.396,.667,1.9,0.5,0.2,0.7,3.1,"PHO,MIA"
+Derrick Jones,/players/j/jonesde02.html,2017,2019,"University of Nevada, Las Vegas",true,"Archbishop Carroll in Radnor, Pennsylvania",,,jonesde02,2018-19,MIA,12.0,0.2,.109,0.6,0.0,,NBA,,21,4,17.8,.429,.636,2.5,1.0,0.5,0.5,8.5,MIA

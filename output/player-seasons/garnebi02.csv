@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-garnebi02,1982-83,22,DAL,NBA,75,18.8,.533,.741,5.4,1.4,0.6,0.9,6.3,15.0,3.9,.133,2.1,1.5,,"Regis in Denver, Colorado",
-garnebi02,1983-84,23,DAL,NBA,80,19.1,.472,.733,4.1,1.6,0.6,0.8,5.1,12.3,3.5,.109,1.0,1.1,,"Regis in Denver, Colorado",
-garnebi02,1984-85,24,Indiana Pacers,NBA,65,17.3,.481,.690,4.4,1.0,0.4,0.2,6.4,10.7,1.5,.063,-2.8,-0.2,,"Regis in Denver, Colorado",269000
-garnebi02,1985-86,25,Indiana Pacers,NBA,80,15.0,.469,.716,3.4,1.2,0.5,0.3,4.3,10.5,2.0,.078,-0.8,0.4,,"Regis in Denver, Colorado",294000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Bill Garnett,/players/g/garnebi02.html,1983,1986,University of Wyoming,false,"Regis in Denver, Colorado",+0.85,2.98,garnebi02,1982-83,DAL,15.0,3.9,.133,2.1,1.5,,22,NBA,75,18.8,.533,.741,5.4,1.4,0.6,0.9,6.3,DAL,
+Bill Garnett,/players/g/garnebi02.html,1983,1986,University of Wyoming,false,"Regis in Denver, Colorado",+0.08,2.56,garnebi02,1983-84,DAL,12.3,3.5,.109,1.0,1.1,,23,NBA,80,19.1,.472,.733,4.1,1.6,0.6,0.8,5.1,DAL,
+Bill Garnett,/players/g/garnebi02.html,1983,1986,University of Wyoming,false,"Regis in Denver, Colorado",-2.29,-0.04,garnebi02,1984-85,IND,10.7,1.5,.063,-2.8,-0.2,,24,NBA,65,17.3,.481,.690,4.4,1.0,0.4,0.2,6.4,IND,269000
+Bill Garnett,/players/g/garnebi02.html,1983,1986,University of Wyoming,false,"Regis in Denver, Colorado",-1.80,0.34,garnebi02,1985-86,IND,10.5,2.0,.078,-0.8,0.4,,25,NBA,80,15.0,.469,.716,3.4,1.2,0.5,0.3,4.3,IND,294000

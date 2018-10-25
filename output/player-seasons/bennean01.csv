@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bennean01,2013-14,20,Cleveland Cavaliers,NBA,52,12.8,.356,.638,3.0,0.3,0.4,0.2,4.2,6.9,-0.4,-0.028,-7.3,-0.9,,5324280,"Findlay College Prep in Henderson, Nevada"
-bennean01,2014-15,21,Minnesota Timberwolves,NBA,57,15.7,.421,.641,3.8,0.8,0.5,0.3,5.2,11.4,0.3,.017,-4.8,-0.6,,5563920,"Findlay College Prep in Henderson, Nevada"
-bennean01,2015-16,22,Minnesota Timberwolves,NBA,19,4.4,.296,.900,1.2,0.0,0.3,0.0,1.5,10.4,0.1,.054,-9.4,-0.2,,3650000,"Findlay College Prep in Henderson, Nevada"
-bennean01,2016-17,23,Brooklyn Nets,NBA,23,11.5,.413,.722,3.4,0.5,0.2,0.1,5.0,14.7,0.5,.090,-3.0,-0.1,,1015696,"Findlay College Prep in Henderson, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Bennett,/players/b/bennean01.html,2014,2017,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",-2.77,-0.23,bennean01,2013-14,CLE,6.9,-0.4,-0.028,-7.3,-0.9,,NBA,5324280,20,52,12.8,.356,.638,3.0,0.3,0.4,0.2,4.2,CLE
+Anthony Bennett,/players/b/bennean01.html,2014,2017,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",-3.10,-0.49,bennean01,2014-15,MIN,11.4,0.3,.017,-4.8,-0.6,,NBA,5563920,21,57,15.7,.421,.641,3.8,0.8,0.5,0.3,5.2,MIN
+Anthony Bennett,/players/b/bennean01.html,2014,2017,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",-0.14,0.12,bennean01,2015-16,TOR,10.4,0.1,.054,-9.4,-0.2,,NBA,3650000,22,19,4.4,.296,.900,1.2,0.0,0.3,0.0,1.5,TOR
+Anthony Bennett,/players/b/bennean01.html,2014,2017,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",-1.18,0.21,bennean01,2016-17,BRK,14.7,0.5,.090,-3.0,-0.1,,NBA,1015696,23,23,11.5,.413,.722,3.4,0.5,0.2,0.1,5.0,BRK

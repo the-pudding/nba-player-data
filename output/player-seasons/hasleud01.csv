@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hasleud01,2003-04,23,Miami Heat,NBA,75,23.9,.459,.765,6.3,0.7,0.4,0.3,7.3,13.7,4.8,.128,-1.7,0.1,,366931,"Miami in Miami, Florida"
-hasleud01,2004-05,24,Miami Heat,NBA,80,33.4,.540,.791,9.1,1.4,0.8,0.5,10.9,15.5,9.2,.165,1.8,2.6,,620046,"Miami in Miami, Florida"
-hasleud01,2005-06,25,Miami Heat,NBA,81,30.8,.508,.789,7.8,1.2,0.6,0.2,9.3,13.7,7.0,.134,0.0,1.3,,5000000,"Miami in Miami, Florida"
-hasleud01,2006-07,26,Miami Heat,NBA,79,31.4,.492,.680,8.3,1.2,0.6,0.3,10.7,13.7,5.1,.099,-1.7,0.2,,5525000,"Miami in Miami, Florida"
-hasleud01,2007-08,27,Miami Heat,NBA,49,36.8,.467,.810,9.0,1.4,0.8,0.4,12.0,12.7,2.5,.067,-2.7,-0.3,,6050000,"Miami in Miami, Florida"
-hasleud01,2008-09,28,Miami Heat,NBA,75,34.1,.518,.753,8.2,1.1,0.6,0.3,10.6,13.1,5.7,.106,-1.8,0.2,,6575000,"Miami in Miami, Florida"
-hasleud01,2009-10,29,Miami Heat,NBA,78,27.9,.494,.762,8.1,0.7,0.4,0.3,9.9,14.6,6.0,.132,-2.6,-0.3,,7100000,"Miami in Miami, Florida"
-hasleud01,2010-11,30,Miami Heat,NBA,13,26.5,.512,.800,8.2,0.5,0.5,0.2,8.0,12.7,0.9,.130,-3.3,-0.1,,3500000,"Miami in Miami, Florida"
-hasleud01,2011-12,31,Miami Heat,NBA,64,24.8,.423,.814,7.3,0.7,0.5,0.4,6.0,10.9,3.5,.106,-2.8,-0.3,,3780000,"Miami in Miami, Florida"
-hasleud01,2012-13,32,Miami Heat,NBA,75,18.9,.514,.711,5.4,0.5,0.4,0.2,3.9,9.9,3.2,.108,-2.9,-0.3,,4060000,"Miami in Miami, Florida"
-hasleud01,2013-14,33,Miami Heat,NBA,46,14.2,.507,.568,3.8,0.3,0.2,0.3,3.8,10.5,1.1,.083,-4.9,-0.5,,4340000,"Miami in Miami, Florida"
-hasleud01,2014-15,34,Miami Heat,NBA,62,16.0,.448,.703,4.2,0.7,0.3,0.2,4.2,10.6,1.4,.066,-3.4,-0.4,,2732000,"Miami in Miami, Florida"
-hasleud01,2015-16,35,Miami Heat,NBA,37,7.0,.377,.750,2.0,0.4,0.1,0.1,1.6,9.1,0.4,.072,-4.5,-0.2,,2854940,"Miami in Miami, Florida"
-hasleud01,2016-17,36,Miami Heat,NBA,16,8.1,.478,.600,2.3,0.4,0.4,0.1,1.9,8.8,0.2,.074,-3.2,0.0,,4000000,"Miami in Miami, Florida"
-hasleud01,2017-18,37,Miami Heat,NBA,14,5.1,.200,.500,0.7,0.4,0.0,0.1,0.6,1.8,-0.1,-0.059,-7.5,-0.1,,1471382,"Miami in Miami, Florida"
-hasleud01,2018-19,38,MIA,NBA,1,4.0,.000,,1.0,0.0,0.0,0.0,0.0,-45.2,-0.1,-1.067,-40.7,0.0,,,"Miami in Miami, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-1.86,0.40,hasleud01,2003-04,MIA,13.7,4.8,.128,-1.7,0.1,,NBA,366931,23,75,23.9,.459,.765,6.3,0.7,0.4,0.3,7.3,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",+1.69,8.67,hasleud01,2004-05,MIA,15.5,9.2,.165,1.8,2.6,,NBA,620046,24,80,33.4,.540,.791,9.1,1.4,0.8,0.5,10.9,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-0.23,4.34,hasleud01,2005-06,MIA,13.7,7.0,.134,0.0,1.3,,NBA,5000000,25,81,30.8,.508,.789,7.8,1.2,0.6,0.2,9.3,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",+0.06,4.10,hasleud01,2006-07,MIA,13.7,5.1,.099,-1.7,0.2,,NBA,5525000,26,79,31.4,.492,.680,8.3,1.2,0.6,0.3,10.7,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-1.61,0.79,hasleud01,2007-08,MIA,12.7,2.5,.067,-2.7,-0.3,,NBA,6050000,27,49,36.8,.467,.810,9.0,1.4,0.8,0.4,12.0,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",+0.13,4.50,hasleud01,2008-09,MIA,13.1,5.7,.106,-1.8,0.2,,NBA,6575000,28,75,34.1,.518,.753,8.2,1.1,0.6,0.3,10.6,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-0.85,2.22,hasleud01,2009-10,MIA,14.6,6.0,.132,-2.6,-0.3,,NBA,7100000,29,78,27.9,.494,.762,8.1,0.7,0.4,0.3,9.9,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-2.29,-0.01,hasleud01,2010-11,MIA,12.7,0.9,.130,-3.3,-0.1,,NBA,3500000,30,13,26.5,.512,.800,8.2,0.5,0.5,0.2,8.0,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-1.85,0.46,hasleud01,2011-12,MIA,10.9,3.5,.106,-2.8,-0.3,,NBA,3780000,31,64,24.8,.423,.814,7.3,0.7,0.5,0.4,6.0,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-0.77,1.80,hasleud01,2012-13,MIA,9.9,3.2,.108,-2.9,-0.3,,NBA,4060000,32,75,18.9,.514,.711,5.4,0.5,0.4,0.2,3.9,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-3.63,-0.74,hasleud01,2013-14,MIA,10.5,1.1,.083,-4.9,-0.5,,NBA,4340000,33,46,14.2,.507,.568,3.8,0.3,0.2,0.3,3.8,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-2.81,-0.40,hasleud01,2014-15,MIA,10.6,1.4,.066,-3.4,-0.4,,NBA,2732000,34,62,16.0,.448,.703,4.2,0.7,0.3,0.2,4.2,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-1.22,0.24,hasleud01,2015-16,MIA,9.1,0.4,.072,-4.5,-0.2,,NBA,2854940,35,37,7.0,.377,.750,2.0,0.4,0.1,0.1,1.6,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-1.42,0.07,hasleud01,2016-17,MIA,8.8,0.2,.074,-3.2,0.0,,NBA,4000000,36,16,8.1,.478,.600,2.3,0.4,0.4,0.1,1.9,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",-0.53,0.08,hasleud01,2017-18,MIA,1.8,-0.1,-0.059,-7.5,-0.1,,NBA,1471382,37,14,5.1,.200,.500,0.7,0.4,0.0,0.1,0.6,MIA
+Udonis Haslem,/players/h/hasleud01.html,2004,2019,University of Florida,true,"Miami in Miami, Florida",,,hasleud01,2018-19,MIA,-45.2,-0.1,-1.067,-40.7,0.0,,NBA,,38,1,4.0,.000,,1.0,0.0,0.0,0.0,0.0,MIA

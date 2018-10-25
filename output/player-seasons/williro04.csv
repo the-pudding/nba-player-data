@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-williro04,2018-19,21,BOS,NBA,1,4.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,.065,-4.8,0.0,,"North Caddo HS in Vivian, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Robert Williams,/players/w/williro04.html,2019,2019,Texas A&M University,true,"North Caddo HS in Vivian, Louisiana",,,williro04,2018-19,BOS,0.0,0.0,.065,-4.8,0.0,,21,NBA,1,4.0,,,0.0,0.0,0.0,0.0,0.0,BOS

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-morgagu01,1982-83,22,IND,NBA,8,5.8,.292,.250,2.1,0.9,0.3,0.0,1.9,9.9,-0.1,-0.059,-5.3,0.0,,"First Colonial in Virginia Beach, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Guy Morgan,/players/m/morgagu01.html,1983,1983,Wake Forest University,false,"First Colonial in Virginia Beach, Virginia",-0.00,0.07,morgagu01,1982-83,IND,9.9,-0.1,-0.059,-5.3,0.0,,22,NBA,8,5.8,.292,.250,2.1,0.9,0.3,0.0,1.9,IND

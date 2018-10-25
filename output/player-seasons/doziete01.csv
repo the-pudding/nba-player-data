@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-doziete01,1989-90,23,CHH,NBA,9,10.2,.333,.500,1.7,0.3,0.7,0.2,2.4,5.1,-0.2,-0.084,-6.0,-0.1,,"Paul Laurence Dunbar in Baltimore, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Terry Dozier,/players/d/doziete01.html,1990,1990,University of South Carolina,false,"Paul Laurence Dunbar in Baltimore, Maryland",-0.67,0.10,doziete01,1989-90,CHH,5.1,-0.2,-0.084,-6.0,-0.1,,23,NBA,9,10.2,.333,.500,1.7,0.3,0.7,0.2,2.4,CHH

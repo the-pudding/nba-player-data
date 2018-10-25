@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-blumera01,1981-82,23,CHI,NBA,49,11.1,.459,.643,0.8,1.4,0.5,0.0,4.6,9.7,-0.1,-0.013,-5.9,-0.5,,"Parkrose in Portland, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ray Blume,/players/b/blumera01.html,1982,1982,Oregon State University,false,"Parkrose in Portland, Oregon",-3.24,-0.35,blumera01,1981-82,CHI,9.7,-0.1,-0.013,-5.9,-0.5,,23,NBA,49,11.1,.459,.643,0.8,1.4,0.5,0.0,4.6,CHI

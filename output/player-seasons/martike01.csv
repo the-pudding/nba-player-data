@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-martike01,2000-01,23,New Jersey Nets,NBA,68,33.4,.445,.630,7.4,1.9,1.1,1.7,12.0,13.4,2.1,.044,-0.7,0.8,,3536640,"Bryan Adams in Dallas, Texas"
-martike01,2001-02,24,New Jersey Nets,NBA,73,34.3,.463,.678,5.3,2.6,1.2,1.7,14.9,14.5,4.9,.093,0.9,1.8,,3801960,"Bryan Adams in Dallas, Texas"
-martike01,2002-03,25,New Jersey Nets,NBA,77,34.1,.470,.653,8.3,2.4,1.3,0.9,16.7,16.9,7.1,.129,1.2,2.1,,4067160,"Bryan Adams in Dallas, Texas"
-martike01,2003-04,26,New Jersey Nets,NBA,65,34.6,.488,.684,9.5,2.5,1.5,1.3,16.7,18.7,6.7,.142,1.9,2.2,,5128689,"Bryan Adams in Dallas, Texas"
-martike01,2004-05,27,Denver Nuggets,NBA,70,32.5,.490,.646,7.3,2.4,1.4,1.1,15.5,17.5,5.3,.111,1.6,2.1,,9454546,"Bryan Adams in Dallas, Texas"
-martike01,2005-06,28,Denver Nuggets,NBA,56,27.6,.495,.712,6.3,1.4,0.8,0.9,12.9,16.7,3.8,.117,-0.2,0.7,,10636364,"Bryan Adams in Dallas, Texas"
-martike01,2006-07,29,Denver Nuggets,NBA,2,31.5,.500,.250,10.0,0.5,0.0,0.0,9.5,5.4,0.0,-0.036,-10.2,-0.1,,12068182,"Bryan Adams in Dallas, Texas"
-martike01,2007-08,30,Denver Nuggets,NBA,71,30.4,.538,.580,6.5,1.3,1.2,1.2,12.4,14.7,5.0,.111,0.1,1.1,,13250000,"Bryan Adams in Dallas, Texas"
-martike01,2008-09,31,Denver Nuggets,NBA,66,32.0,.491,.604,6.0,2.0,1.5,1.1,11.7,13.6,4.0,.090,0.9,1.6,,14431816,"Bryan Adams in Dallas, Texas"
-martike01,2009-10,32,Denver Nuggets,NBA,58,34.2,.456,.557,9.4,1.9,1.2,1.1,11.5,13.4,3.3,.079,0.2,1.1,,15363636,"Bryan Adams in Dallas, Texas"
-martike01,2010-11,33,Denver Nuggets,NBA,48,25.7,.511,.583,6.2,2.3,0.9,0.7,8.6,14.1,2.7,.104,1.8,1.2,,16545454,"Bryan Adams in Dallas, Texas"
-martike01,2011-12,34,Los Angeles Clippers,NBA,42,22.4,.441,.370,4.3,0.4,1.0,1.0,5.2,9.9,0.9,.048,-1.5,0.1,,2500000,"Bryan Adams in Dallas, Texas"
-martike01,2012-13,35,New York Knicks,NBA,18,23.9,.602,.425,5.3,0.4,0.9,0.9,7.2,13.9,1.2,.128,0.5,0.3,,437470,"Bryan Adams in Dallas, Texas"
-martike01,2013-14,36,New York Knicks,NBA,32,19.8,.512,.579,4.2,1.6,0.8,0.8,4.3,12.2,1.2,.090,1.1,0.5,,1399507,"Bryan Adams in Dallas, Texas"
-martike01,2014-15,37,Milwaukee Bucks,NBA,11,9.5,.409,1.000,1.7,0.5,0.5,0.5,1.8,10.0,0.2,.086,-0.8,0.0,,414551,"Bryan Adams in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",-0.86,2.10,martike01,2000-01,NJN,13.4,2.1,.044,-0.7,0.8,,NBA,3536640,23,68,33.4,.445,.630,7.4,1.9,1.1,1.7,12.0,NJN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+1.40,8.23,martike01,2001-02,NJN,14.5,4.9,.093,0.9,1.8,,NBA,3801960,24,73,34.3,.463,.678,5.3,2.6,1.2,1.7,14.9,NJN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+3.41,13.48,martike01,2002-03,NJN,16.9,7.1,.129,1.2,2.1,,NBA,4067160,25,77,34.1,.470,.653,8.3,2.4,1.3,0.9,16.7,NJN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+2.21,8.48,martike01,2003-04,NJN,18.7,6.7,.142,1.9,2.2,,NBA,5128689,26,65,34.6,.488,.684,9.5,2.5,1.5,1.3,16.7,NJN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+0.64,4.84,martike01,2004-05,DEN,17.5,5.3,.111,1.6,2.1,,NBA,9454546,27,70,32.5,.490,.646,7.3,2.4,1.4,1.1,15.5,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+0.56,3.05,martike01,2005-06,DEN,16.7,3.8,.117,-0.2,0.7,,NBA,10636364,28,56,27.6,.495,.712,6.3,1.4,0.8,0.9,12.9,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+0.09,0.10,martike01,2006-07,DEN,5.4,0.0,-0.036,-10.2,-0.1,,NBA,12068182,29,2,31.5,.500,.250,10.0,0.5,0.0,0.0,9.5,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",-0.90,2.14,martike01,2007-08,DEN,14.7,5.0,.111,0.1,1.1,,NBA,13250000,30,71,30.4,.538,.580,6.5,1.3,1.2,1.2,12.4,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+0.58,5.11,martike01,2008-09,DEN,13.6,4.0,.090,0.9,1.6,,NBA,14431816,31,66,32.0,.491,.604,6.0,2.0,1.5,1.1,11.7,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",-0.37,2.84,martike01,2009-10,DEN,13.4,3.3,.079,0.2,1.1,,NBA,15363636,32,58,34.2,.456,.557,9.4,1.9,1.2,1.1,11.5,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+1.63,3.64,martike01,2010-11,DEN,14.1,2.7,.104,1.8,1.2,,NBA,16545454,33,48,25.7,.511,.583,6.2,2.3,0.9,0.7,8.6,DEN
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",-1.24,0.76,martike01,2011-12,LAC,9.9,0.9,.048,-1.5,0.1,,NBA,2500000,34,42,22.4,.441,.370,4.3,0.4,1.0,1.0,5.2,LAC
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+0.24,1.17,martike01,2012-13,NYK,13.9,1.2,.128,0.5,0.3,,NBA,437470,35,18,23.9,.602,.425,5.3,0.4,0.9,0.9,7.2,NYK
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",+0.55,1.22,martike01,2013-14,NYK,12.2,1.2,.090,1.1,0.5,,NBA,1399507,36,32,19.8,.512,.579,4.2,1.6,0.8,0.8,4.3,NYK
+Kenyon Martin,/players/m/martike01.html,2001,2015,University of Cincinnati,false,"Bryan Adams in Dallas, Texas",-0.37,0.13,martike01,2014-15,MIL,10.0,0.2,.086,-0.8,0.0,,NBA,414551,37,11,9.5,.409,1.000,1.7,0.5,0.5,0.5,1.8,MIL

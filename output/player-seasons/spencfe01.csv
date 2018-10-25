@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-spencfe01,1990-91,23,Minnesota Timberwolves,NBA,81,25.9,.512,.722,7.9,0.3,0.6,1.5,7.1,13.8,5.6,.128,-1.4,0.3,,1070000,"Eastern in Middletown, Kentucky"
-spencfe01,1991-92,24,Minnesota Timberwolves,NBA,61,24.3,.426,.691,7.1,0.9,0.4,1.3,6.6,11.2,2.0,.064,-2.2,-0.1,,1340000,"Eastern in Middletown, Kentucky"
-spencfe01,1992-93,25,Minnesota Timberwolves,NBA,71,18.3,.465,.654,4.6,0.2,0.3,0.9,4.1,8.2,1.1,.039,-4.6,-0.9,,1610000,"Eastern in Middletown, Kentucky"
-spencfe01,1993-94,26,Utah Jazz,NBA,79,28.0,.505,.607,8.3,0.5,0.5,0.8,8.6,11.7,4.7,.102,-1.2,0.5,,1581000,"Eastern in Middletown, Kentucky"
-spencfe01,1994-95,27,Utah Jazz,NBA,34,26.6,.488,.793,7.6,0.5,0.4,0.9,9.3,12.3,2.0,.104,-1.5,0.1,,1881250,"Eastern in Middletown, Kentucky"
-spencfe01,1995-96,28,Utah Jazz,NBA,71,17.8,.520,.689,4.3,0.2,0.3,0.8,5.6,10.4,2.4,.089,-3.0,-0.3,,2181000,"Eastern in Middletown, Kentucky"
-spencfe01,1996-97,29,Golden State Warriors,NBA,73,21.3,.489,.584,5.7,0.3,0.5,0.7,5.1,9.2,1.3,.040,-4.0,-0.8,,2694000,"Eastern in Middletown, Kentucky"
-spencfe01,1996-97,29,Golden State Warriors,NBA,1,19.0,1.000,,6.0,1.0,0.0,0.0,4.0,17.1,0.1,.186,3.5,0.0,,2694000,"Eastern in Middletown, Kentucky"
-spencfe01,1996-97,29,Golden State Warriors,NBA,72,21.4,.486,.584,5.7,0.3,0.5,0.7,5.1,9.1,1.2,.038,-4.1,-0.8,,2694000,"Eastern in Middletown, Kentucky"
-spencfe01,1997-98,30,Golden State Warriors,NBA,68,12.0,.457,.557,3.3,0.3,0.3,0.5,2.4,8.5,0.9,.052,-3.5,-0.3,,2178099,"Eastern in Middletown, Kentucky"
-spencfe01,1998-99,31,Golden State Warriors,NBA,26,6.1,.455,.462,1.8,0.0,0.2,0.4,1.6,9.8,0.3,.078,-7.1,-0.2,,1650000,"Eastern in Middletown, Kentucky"
-spencfe01,1999-00,32,San Antonio Spurs,NBA,26,5.7,.455,.667,1.5,0.1,0.2,0.3,1.9,13.6,0.5,.159,-1.0,0.0,,510000,"Eastern in Middletown, Kentucky"
-spencfe01,2000-01,33,New York Knicks,NBA,18,6.3,.600,.600,1.9,0.1,0.1,0.1,2.2,13.5,0.4,.152,-2.9,0.0,,1000000,"Eastern in Middletown, Kentucky"
-spencfe01,2001-02,34,New York Knicks,NBA,32,7.8,.231,.515,1.6,0.1,0.2,0.3,0.9,0.8,-0.1,-0.013,-6.1,-0.3,,1000000,"Eastern in Middletown, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-0.40,2.67,spencfe01,1990-91,MIN,13.8,5.6,.128,-1.4,0.3,,NBA,1070000,23,81,25.9,.512,.722,7.9,0.3,0.6,1.5,7.1,MIN
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-1.63,0.66,spencfe01,1991-92,MIN,11.2,2.0,.064,-2.2,-0.1,,NBA,1340000,24,61,24.3,.426,.691,7.1,0.9,0.4,1.3,6.6,MIN
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-3.04,-0.66,spencfe01,1992-93,MIN,8.2,1.1,.039,-4.6,-0.9,,NBA,1610000,25,71,18.3,.465,.654,4.6,0.2,0.3,0.9,4.1,MIN
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-0.53,3.18,spencfe01,1993-94,UTA,11.7,4.7,.102,-1.2,0.5,,NBA,1581000,26,79,28.0,.505,.607,8.3,0.5,0.5,0.8,8.6,UTA
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-1.04,0.77,spencfe01,1994-95,UTA,12.3,2.0,.104,-1.5,0.1,,NBA,1881250,27,34,26.6,.488,.793,7.6,0.5,0.4,0.9,9.3,UTA
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-1.07,1.27,spencfe01,1995-96,UTA,10.4,2.4,.089,-3.0,-0.3,,NBA,2181000,28,71,17.8,.520,.689,4.3,0.2,0.3,0.8,5.6,UTA
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-2.61,-0.36,spencfe01,1996-97,TOT,9.2,1.3,.040,-4.0,-0.8,,NBA,2694000,29,73,21.3,.489,.584,5.7,0.3,0.5,0.7,5.1,"ORL,GSW"
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-2.54,-0.25,spencfe01,1997-98,GSW,8.5,0.9,.052,-3.5,-0.3,,NBA,2178099,30,68,12.0,.457,.557,3.3,0.3,0.3,0.5,2.4,GSW
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",+0.34,0.29,spencfe01,1998-99,GSW,9.8,0.3,.078,-7.1,-0.2,,NBA,1650000,31,26,6.1,.455,.462,1.8,0.0,0.2,0.4,1.6,GSW
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",+0.37,0.27,spencfe01,1999-00,SAS,13.6,0.5,.159,-1.0,0.0,,NBA,510000,32,26,5.7,.455,.667,1.5,0.1,0.2,0.3,1.9,SAS
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",+1.00,0.26,spencfe01,2000-01,NYK,13.5,0.4,.152,-2.9,0.0,,NBA,1000000,33,18,6.3,.600,.600,1.9,0.1,0.1,0.1,2.2,NYK
+Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false,"Eastern in Middletown, Kentucky",-1.01,0.20,spencfe01,2001-02,NYK,0.8,-0.1,-0.013,-6.1,-0.3,,NBA,1000000,34,32,7.8,.231,.515,1.6,0.1,0.2,0.3,0.9,NYK

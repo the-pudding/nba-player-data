@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lesji01,1988-89,25,Utah Jazz,NBA,82,9.5,.301,.781,1.1,2.6,0.3,0.1,1.7,7.9,0.3,.018,-5.8,-0.8,,100000,"Notre Dame in Niles, Illinois"
-lesji01,1989-90,26,"UTA,LAC",NBA,7,13.1,.357,.765,1.0,3.0,0.4,0.0,3.3,9.3,0.1,.026,-7.1,-0.1,,,"Notre Dame in Niles, Illinois"
-lesji01,1990-91,27,Sacramento Kings,NBA,55,25.4,.444,.835,2.0,5.4,1.0,0.1,7.2,13.7,3.6,.125,-1.2,0.3,,30000,"Notre Dame in Niles, Illinois"
-lesji01,1991-92,28,Sacramento Kings,NBA,62,11.5,.385,.809,1.0,2.3,0.5,0.0,3.7,12.8,1.3,.086,-2.9,-0.2,,323000,"Notre Dame in Niles, Illinois"
-lesji01,1992-93,29,Sacramento Kings,NBA,73,12.1,.425,.840,1.2,2.3,0.5,0.1,4.5,14.7,2.3,.127,-0.3,0.4,,413000,"Notre Dame in Niles, Illinois"
-lesji01,1993-94,30,Sacramento Kings,NBA,18,9.4,.382,.846,0.7,2.2,0.4,0.1,2.5,12.9,0.3,.098,-3.9,-0.1,,363000,"Notre Dame in Niles, Illinois"
-lesji01,1994-95,31,Atlanta Hawks,NBA,24,7.8,.289,.852,1.1,1.8,0.2,0.0,2.1,9.7,0.2,.050,-5.3,-0.2,,250000,"Notre Dame in Niles, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",-2.34,-0.08,lesji01,1988-89,UTA,7.9,0.3,.018,-5.8,-0.8,,NBA,100000,25,82,9.5,.301,.781,1.1,2.6,0.3,0.1,1.7,UTA
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",-0.17,0.13,lesji01,1989-90,TOT,9.3,0.1,.026,-7.1,-0.1,,NBA,,26,7,13.1,.357,.765,1.0,3.0,0.4,0.0,3.3,"UTA,LAC"
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",-0.46,1.72,lesji01,1990-91,SAC,13.7,3.6,.125,-1.2,0.3,,NBA,30000,27,55,25.4,.444,.835,2.0,5.4,1.0,0.1,7.2,SAC
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",-0.97,0.63,lesji01,1991-92,SAC,12.8,1.3,.086,-2.9,-0.2,,NBA,323000,28,62,11.5,.385,.809,1.0,2.3,0.5,0.0,3.7,SAC
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",+0.28,1.52,lesji01,1992-93,SAC,14.7,2.3,.127,-0.3,0.4,,NBA,413000,29,73,12.1,.425,.840,1.2,2.3,0.5,0.1,4.5,SAC
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",-0.43,0.21,lesji01,1993-94,SAC,12.9,0.3,.098,-3.9,-0.1,,NBA,363000,30,18,9.4,.382,.846,0.7,2.2,0.4,0.1,2.5,SAC
+Jim Les,/players/l/lesji01.html,1989,1995,"Cleveland State University, Bradley University",false,"Notre Dame in Niles, Illinois",-0.46,0.23,lesji01,1994-95,ATL,9.7,0.2,.050,-5.3,-0.2,,NBA,250000,31,24,7.8,.289,.852,1.1,1.8,0.2,0.0,2.1,ATL

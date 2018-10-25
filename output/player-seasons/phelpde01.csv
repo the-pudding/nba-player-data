@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-phelpde01,1994-95,22,SAC,NBA,3,1.7,.000,.000,0.0,0.3,0.0,0.0,0.0,-17.3,0.0,-0.339,-24.3,0.0,,"Christ the King in Middle Village, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Phelps,/players/p/phelpde01.html,1995,1995,University of North Carolina,false,"Christ the King in Middle Village, New York",+0.46,0.01,phelpde01,1994-95,SAC,-17.3,0.0,-0.339,-24.3,0.0,,22,NBA,3,1.7,.000,.000,0.0,0.3,0.0,0.0,0.0,SAC

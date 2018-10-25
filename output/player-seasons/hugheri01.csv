@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hugheri01,1985-86,23,San Antonio Spurs,NBA,68,12.7,.409,.583,1.7,0.9,0.4,0.1,5.2,8.2,-0.5,-0.029,-6.5,-1.0,,177830,"Robeson in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alfredrick Hughes,/players/h/hugheri01.html,1986,1986,Loyola University of Chicago,false,"Robeson in Chicago, Illinois",-4.22,-1.13,hugheri01,1985-86,SAS,8.2,-0.5,-0.029,-6.5,-1.0,,NBA,177830,23,68,12.7,.409,.583,1.7,0.9,0.4,0.1,5.2,SAS

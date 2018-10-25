@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bramlaj01,1999-00,23,Cleveland Cavaliers,NBA,8,7.6,.190,,2.8,0.0,0.1,0.0,1.0,-0.4,-0.2,-0.129,-16.8,-0.2,,118974,"La Cueva in Albuquerque, New Mexico"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+A.J. Bramlett,/players/b/bramlaj01.html,2000,2000,University of Arizona,false,"La Cueva in Albuquerque, New Mexico",+0.07,0.10,bramlaj01,1999-00,CLE,-0.4,-0.2,-0.129,-16.8,-0.2,,NBA,118974,23,8,7.6,.190,,2.8,0.0,0.1,0.0,1.0,CLE

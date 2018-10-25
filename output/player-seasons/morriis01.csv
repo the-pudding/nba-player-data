@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-morriis01,1992-93,23,Detroit Pistons,NBA,25,4.1,.456,.750,0.5,0.2,0.1,0.0,2.2,10.6,0.0,-0.022,-7.9,-0.2,,140000,"Huguenot in Richmond, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Isaiah Morris,/players/m/morriis01.html,1993,1993,University of Arkansas,false,"Huguenot in Richmond, Virginia",-0.08,0.15,morriis01,1992-93,DET,10.6,0.0,-0.022,-7.9,-0.2,,NBA,140000,23,25,4.1,.456,.750,0.5,0.2,0.1,0.0,2.2,DET

@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-lampje01,1981-82,22,POR,NBA,54,11.4,.510,.820,1.2,0.5,0.3,0.0,4.6,9.8,0.6,.048,-4.8,-0.4,,"Ballard in Louisville, Kentucky",
-lampje01,1982-83,23,POR,NBA,59,11.7,.425,.808,1.3,1.0,0.3,0.1,4.4,10.0,0.7,.046,-4.4,-0.4,,"Ballard in Louisville, Kentucky",
-lampje01,1983-84,24,POR,NBA,64,10.3,.490,.896,1.0,0.8,0.3,0.1,5.0,12.7,1.0,.074,-3.8,-0.3,,"Ballard in Louisville, Kentucky",
-lampje01,1984-85,25,Did Not Play,,,,,,,,,,,,,,,,,"Ballard in Louisville, Kentucky",
-lampje01,1985-86,26,Milwaukee Bucks,NBA,74,17.9,.477,.835,2.7,1.6,0.5,0.1,8.2,13.2,3.0,.108,-1.5,0.2,,"Ballard in Louisville, Kentucky",75000
-lampje01,1985-86,26,Milwaukee Bucks,NBA,44,15.9,.449,.859,2.8,1.5,0.5,0.1,6.3,12.2,1.8,.124,-0.8,0.2,,"Ballard in Louisville, Kentucky",75000
-lampje01,1985-86,26,Milwaukee Bucks,NBA,30,20.7,.502,.812,2.6,1.8,0.6,0.0,11.1,14.4,1.2,.090,-2.3,0.0,,"Ballard in Louisville, Kentucky",75000
-lampje01,1986-87,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Ballard in Louisville, Kentucky",
-lampje01,1987-88,28,Los Angeles Lakers,NBA,3,2.3,,1.000,0.0,0.0,0.0,0.0,0.7,9.2,0.0,.227,-2.0,0.0,,"Ballard in Louisville, Kentucky",75000
-lampje01,1988-89,29,Los Angeles Lakers,NBA,37,4.8,.391,.800,0.9,0.4,0.2,0.1,1.6,6.8,-0.1,-0.026,-6.5,-0.2,,"Ballard in Louisville, Kentucky",100000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",-3.36,-0.43,lampje01,1981-82,POR,9.8,0.6,.048,-4.8,-0.4,,22,NBA,54,11.4,.510,.820,1.2,0.5,0.3,0.0,4.6,POR,
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",-2.67,-0.21,lampje01,1982-83,POR,10.0,0.7,.046,-4.4,-0.4,,23,NBA,59,11.7,.425,.808,1.3,1.0,0.3,0.1,4.4,POR,
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",-2.41,-0.04,lampje01,1983-84,POR,12.7,1.0,.074,-3.8,-0.3,,24,NBA,64,10.3,.490,.896,1.0,0.8,0.3,0.1,5.0,POR,
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",,,lampje01,1984-85,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play,
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",-1.72,0.51,lampje01,1985-86,TOT,13.2,3.0,.108,-1.5,0.2,,26,NBA,74,17.9,.477,.835,2.7,1.6,0.5,0.1,8.2,"MIL,SAS",75000
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",,,lampje01,1986-87,Did Not Play (other pro league—Italy),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",-0.16,0.01,lampje01,1987-88,LAL,9.2,0.0,.227,-2.0,0.0,,28,NBA,3,2.3,,1.000,0.0,0.0,0.0,0.0,0.7,LAL,75000
+Jeff Lamp,/players/l/lampje01.html,1982,1989,University of Virginia,false,"Ballard in Louisville, Kentucky",-1.57,0.09,lampje01,1988-89,LAL,6.8,-0.1,-0.026,-6.5,-0.2,,29,NBA,37,4.8,.391,.800,0.9,0.4,0.2,0.1,1.6,LAL,100000

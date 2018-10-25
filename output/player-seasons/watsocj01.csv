@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-watsocj01,2007-08,23,Golden State Warriors,NBA,32,11.5,.426,.793,1.0,1.1,0.5,0.0,3.7,11.0,0.4,.056,-3.6,-0.2,,125479,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2008-09,24,Golden State Warriors,NBA,77,24.5,.457,.870,2.5,2.7,1.2,0.1,9.5,14.2,3.3,.084,-1.1,0.4,,711517,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2009-10,25,Golden State Warriors,NBA,65,27.5,.468,.771,2.6,2.8,1.6,0.1,10.3,13.8,3.1,.082,-0.4,0.7,,1000497,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2010-11,26,Chicago Bulls,NBA,82,13.3,.371,.742,1.1,2.3,0.7,0.1,4.9,12.8,2.1,.093,-2.2,0.0,,3100000,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2011-12,27,Chicago Bulls,NBA,49,23.7,.368,.808,2.1,4.1,0.9,0.2,9.7,13.3,2.6,.109,-0.1,0.5,,3400000,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2012-13,28,BRK,NBA,80,19.0,.418,.780,1.8,2.0,0.8,0.2,6.8,13.9,3.8,.120,1.0,1.2,,,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2013-14,29,Indiana Pacers,NBA,63,18.9,.437,.784,1.6,1.7,1.0,0.1,6.6,13.0,3.2,.130,0.5,0.7,,2016000,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2014-15,30,Indiana Pacers,NBA,57,24.9,.434,.826,2.9,3.6,1.0,0.2,10.0,15.4,4.0,.135,1.5,1.3,,2106720,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2015-16,31,Orlando Magic,NBA,33,19.9,.343,.872,2.0,2.7,0.6,0.2,4.3,8.6,0.6,.047,-3.3,-0.2,,5000000,"Bishop Gorman in Las Vegas, Nevada"
-watsocj01,2016-17,32,Orlando Magic,NBA,62,16.3,.387,.864,1.4,1.8,0.7,0.0,4.5,9.3,0.9,.041,-3.6,-0.4,,5000000,"Bishop Gorman in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",-2.60,-0.06,watsocj01,2007-08,GSW,11.0,0.4,.056,-3.6,-0.2,,NBA,125479,23,32,11.5,.426,.793,1.0,1.1,0.5,0.0,3.7,GSW
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",-1.44,1.14,watsocj01,2008-09,GSW,14.2,3.3,.084,-1.1,0.4,,NBA,711517,24,77,24.5,.457,.870,2.5,2.7,1.2,0.1,9.5,GSW
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",+0.09,2.86,watsocj01,2009-10,GSW,13.8,3.1,.082,-0.4,0.7,,NBA,1000497,25,65,27.5,.468,.771,2.6,2.8,1.6,0.1,10.3,GSW
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",+0.44,2.27,watsocj01,2010-11,CHI,12.8,2.1,.093,-2.2,0.0,,NBA,3100000,26,82,13.3,.371,.742,1.1,2.3,0.7,0.1,4.9,CHI
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",-1.50,0.64,watsocj01,2011-12,CHI,13.3,2.6,.109,-0.1,0.5,,NBA,3400000,27,49,23.7,.368,.808,2.1,4.1,0.9,0.2,9.7,CHI
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",-1.19,1.23,watsocj01,2012-13,BRK,13.9,3.8,.120,1.0,1.2,,NBA,,28,80,19.0,.418,.780,1.8,2.0,0.8,0.2,6.8,BRK
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",+0.08,2.46,watsocj01,2013-14,IND,13.0,3.2,.130,0.5,0.7,,NBA,2016000,29,63,18.9,.437,.784,1.6,1.7,1.0,0.1,6.6,IND
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",+0.53,2.72,watsocj01,2014-15,IND,15.4,4.0,.135,1.5,1.3,,NBA,2106720,30,57,24.9,.434,.826,2.9,3.6,1.0,0.2,10.0,IND
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",-1.80,0.22,watsocj01,2015-16,ORL,8.6,0.6,.047,-3.3,-0.2,,NBA,5000000,31,33,19.9,.343,.872,2.0,2.7,0.6,0.2,4.3,ORL
+C.J. Watson,/players/w/watsocj01.html,2008,2017,University of Tennessee,true,"Bishop Gorman in Las Vegas, Nevada",-2.64,-0.27,watsocj01,2016-17,ORL,9.3,0.9,.041,-3.6,-0.4,,NBA,5000000,32,62,16.3,.387,.864,1.4,1.8,0.7,0.0,4.5,ORL

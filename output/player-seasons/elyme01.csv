@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-elyme01,2002-03,24,Los Angeles Clippers,NBA,52,15.4,.495,.703,3.3,0.3,0.2,0.6,4.5,10.8,0.8,.048,-4.4,-0.5,,1490120,"Thornton Township in Harvey, Illinois"
-elyme01,2003-04,25,Los Angeles Clippers,NBA,42,12.1,.431,.595,2.4,0.5,0.2,0.4,3.7,11.1,0.4,.039,-3.7,-0.2,,1628760,"Thornton Township in Harvey, Illinois"
-elyme01,2004-05,26,Charlotte Bobcats,NBA,79,20.9,.432,.575,4.1,1.0,0.4,0.9,7.3,10.5,0.1,.004,-3.3,-0.6,,1742400,"Thornton Township in Harvey, Illinois"
-elyme01,2005-06,27,Charlotte Bobcats,NBA,57,23.6,.508,.667,4.9,1.3,0.5,0.8,9.8,14.3,2.0,.072,-1.4,0.2,,2401027,"Thornton Township in Harvey, Illinois"
-elyme01,2006-07,28,San Antonio Spurs,NBA,30,10.3,.363,.660,1.8,0.6,0.2,0.3,3.0,5.2,-0.3,-0.039,-7.2,-0.4,,3303813,"Thornton Township in Harvey, Illinois"
-elyme01,2006-07,28,San Antonio Spurs,NBA,24,10.2,.383,.686,1.6,0.6,0.1,0.3,2.9,4.8,-0.2,-0.047,-7.8,-0.4,,3303813,"Thornton Township in Harvey, Illinois"
-elyme01,2006-07,28,San Antonio Spurs,NBA,6,10.8,.300,.583,2.3,0.7,0.7,0.3,3.2,6.7,0.0,-0.009,-5.0,0.0,,3303813,"Thornton Township in Harvey, Illinois"
-elyme01,2007-08,29,New Orleans Hornets,NBA,52,11.9,.472,.552,2.8,0.4,0.1,0.3,3.9,9.0,0.3,.022,-6.0,-0.6,,895341,"Thornton Township in Harvey, Illinois"
-elyme01,2008-09,30,New Orleans Hornets,NBA,31,12.0,.389,.639,2.1,0.6,0.1,0.3,3.1,6.0,-0.1,-0.008,-6.2,-0.4,,998398,"Thornton Township in Harvey, Illinois"
-elyme01,2009-10,31,Did Not Play,,,,,,,,,,,,,,,,,,"Thornton Township in Harvey, Illinois"
-elyme01,2010-11,32,Denver Nuggets,NBA,30,12.2,.549,.619,2.5,0.5,0.1,0.4,2.3,8.3,0.6,.083,-1.0,0.1,,1223166,"Thornton Township in Harvey, Illinois"
-elyme01,2011-12,33,Did Not Play,,,,,,,,,,,,,,,,,,"Thornton Township in Harvey, Illinois"
-elyme01,2012-13,34,Did Not Play,,,,,,,,,,,,,,,,,,"Thornton Township in Harvey, Illinois"
-elyme01,2013-14,35,NOP,NBA,2,13.5,.500,,0.5,0.0,0.0,0.5,3.0,3.9,0.0,.011,-7.6,0.0,,,"Thornton Township in Harvey, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.37,1.03,elyme01,2002-03,LAC,10.8,0.8,.048,-4.4,-0.5,,NBA,1490120,24,52,15.4,.495,.703,3.3,0.3,0.2,0.6,4.5,LAC
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.98,0.43,elyme01,2003-04,LAC,11.1,0.4,.039,-3.7,-0.2,,NBA,1628760,25,42,12.1,.431,.595,2.4,0.5,0.2,0.4,3.7,LAC
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-1.58,0.75,elyme01,2004-05,CHA,10.5,0.1,.004,-3.3,-0.6,,NBA,1742400,26,79,20.9,.432,.575,4.1,1.0,0.4,0.9,7.3,CHA
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-1.17,0.98,elyme01,2005-06,CHA,14.3,2.0,.072,-1.4,0.2,,NBA,2401027,27,57,23.6,.508,.667,4.9,1.3,0.5,0.8,9.8,CHA
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-4.76,-0.56,elyme01,2006-07,TOT,5.2,-0.3,-0.039,-7.2,-0.4,,NBA,3303813,28,30,10.3,.363,.660,1.8,0.6,0.2,0.3,3.0,"CHA,SAS"
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-2.07,0.08,elyme01,2007-08,NOH,9.0,0.3,.022,-6.0,-0.6,,NBA,895341,29,52,11.9,.472,.552,2.8,0.4,0.1,0.3,3.9,NOH
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-4.48,-0.56,elyme01,2008-09,NOH,6.0,-0.1,-0.008,-6.2,-0.4,,NBA,998398,30,31,12.0,.389,.639,2.1,0.6,0.1,0.3,3.1,NOH
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",,,elyme01,2009-10,Did Not Play,,,,,,,,,31,,,,,,,,,,Did Not Play
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-2.42,0.00,elyme01,2010-11,DEN,8.3,0.6,.083,-1.0,0.1,,NBA,1223166,32,30,12.2,.549,.619,2.5,0.5,0.1,0.4,2.3,DEN
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",,,elyme01,2011-12,Did Not Play,,,,,,,,,33,,,,,,,,,,Did Not Play
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",,,elyme01,2012-13,Did Not Play,,,,,,,,,34,,,,,,,,,,Did Not Play
+Melvin Ely,/players/e/elyme01.html,2003,2014,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.20,0.04,elyme01,2013-14,NOP,3.9,0.0,.011,-7.6,0.0,,NBA,,35,2,13.5,.500,,0.5,0.0,0.0,0.5,3.0,NOP

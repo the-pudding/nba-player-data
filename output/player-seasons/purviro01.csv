@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-purviro01,2017-18,23,Orlando Magic,NBA,16,18.1,.327,.867,1.7,1.1,0.2,0.2,6.0,4.5,-0.3,-0.056,-7.9,-0.4,,161280,"Upper Room Christian Academy in Raleigh, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rodney Purvis,/players/p/purviro01.html,2018,2018,University of Connecticut,true,"Upper Room Christian Academy in Raleigh, North Carolina",-2.66,-0.08,purviro01,2017-18,ORL,4.5,-0.3,-0.056,-7.9,-0.4,,NBA,161280,23,16,18.1,.327,.867,1.7,1.1,0.2,0.2,6.0,ORL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-edelike01,1984-85,22,IND,NBA,10,14.3,.308,.375,2.6,1.0,0.5,0.4,1.1,3.3,0.1,.042,-2.1,0.0,,"Bayfield in Alexandria, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenton Edelin,/players/e/edelike01.html,1985,1985,University of Virginia,false,"Bayfield in Alexandria, Virginia",-0.15,0.21,edelike01,1984-85,IND,3.3,0.1,.042,-2.1,0.0,,22,NBA,10,14.3,.308,.375,2.6,1.0,0.5,0.4,1.1,IND

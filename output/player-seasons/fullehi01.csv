@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-fullehi01,2003-04,22,ATL,NBA,4,10.8,.375,.333,2.8,0.5,0.0,0.3,2.0,3.6,-0.1,-0.094,-9.3,-0.1,,"Stadium in Tacoma, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Hiram Fuller,/players/f/fullehi01.html,2004,2004,"California State University, Fresno",false,"Stadium in Tacoma, Washington",-0.28,0.06,fullehi01,2003-04,ATL,3.6,-0.1,-0.094,-9.3,-0.1,,22,NBA,4,10.8,.375,.333,2.8,0.5,0.0,0.3,2.0,ATL

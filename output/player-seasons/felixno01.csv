@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-felixno01,2005-06,24,SEA,NBA,12,6.8,.240,.625,1.1,0.2,0.2,0.3,1.5,-1.1,-0.3,-0.197,-12.5,-0.2,,"Inglewood in Inglewood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Noel Felix,/players/f/felixno01.html,2006,2006,"California State University, Fresno",false,"Inglewood in Inglewood, California",-0.71,0.09,felixno01,2005-06,SEA,-1.1,-0.3,-0.197,-12.5,-0.2,,24,NBA,12,6.8,.240,.625,1.1,0.2,0.2,0.3,1.5,SEA

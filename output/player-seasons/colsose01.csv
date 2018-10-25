@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-colsose01,2000-01,25,"ATL,HOU",NBA,13,3.4,.250,.500,0.5,0.8,0.1,0.0,1.2,6.8,-0.1,-0.106,-6.3,0.0,,"Maine Central Institute in Pittsfield, Maine"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sean Colson,/players/c/colsose01.html,2001,2001,"University of Rhode Island, University of North Carolina at Charlotte",false,"Maine Central Institute in Pittsfield, Maine",-0.16,0.06,colsose01,2000-01,TOT,6.8,-0.1,-0.106,-6.3,0.0,,25,NBA,13,3.4,.250,.500,0.5,0.8,0.1,0.0,1.2,"ATL,HOU"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-chrisse01,2016-17,24,Oklahoma City Thunder,NBA,64,15.2,.345,.548,1.4,2.0,0.4,0.1,2.9,5.7,0.1,.006,-6.3,-1.1,,543471,"Brewster Academy in Wolfeboro, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Semaj Christon,/players/c/chrisse01.html,2017,2017,Xavier University,true,"Brewster Academy in Wolfeboro, New Hampshire",-4.64,-1.46,chrisse01,2016-17,OKC,5.7,0.1,.006,-6.3,-1.1,,NBA,543471,24,64,15.2,.345,.548,1.4,2.0,0.4,0.1,2.9,OKC

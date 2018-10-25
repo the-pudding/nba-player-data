@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-dawkida01,1976-77,20,PHI,NBA,59,11.6,.628,.506,3.9,0.4,0.2,0.8,5.3,16.5,2.1,.150,-1.1,0.2,,"Evans in Orlando, Florida",
-dawkida01,1977-78,21,PHI,NBA,70,24.6,.575,.709,7.9,1.2,0.5,1.8,11.7,18.0,6.4,.178,1.5,1.5,,"Evans in Orlando, Florida",
-dawkida01,1978-79,22,PHI,NBA,78,26.1,.517,.672,8.1,1.6,0.4,1.8,13.1,15.6,4.6,.108,-0.8,0.6,,"Evans in Orlando, Florida",
-dawkida01,1979-80,23,PHI,NBA,80,31.8,.522,.653,8.7,1.9,0.6,1.8,14.7,14.6,5.7,.107,0.1,1.4,,"Evans in Orlando, Florida",
-dawkida01,1980-81,24,PHI,NBA,76,27.5,.607,.720,7.2,1.4,0.5,1.5,14.0,15.9,6.3,.145,0.8,1.5,,"Evans in Orlando, Florida",
-dawkida01,1981-82,25,PHI,NBA,48,23.4,.564,.695,6.4,1.1,0.4,1.1,11.0,15.0,2.9,.122,-0.9,0.3,,"Evans in Orlando, Florida",
-dawkida01,1982-83,26,NJN,NBA,81,25.8,.599,.646,5.2,1.4,0.8,1.9,12.0,13.2,4.0,.092,0.7,1.5,,"Evans in Orlando, Florida",
-dawkida01,1983-84,27,NJN,NBA,81,29.8,.593,.735,6.7,1.5,0.7,1.7,16.8,17.6,7.9,.156,2.4,2.7,,"Evans in Orlando, Florida",
-dawkida01,1984-85,28,New Jersey Nets,NBA,39,24.9,.566,.711,4.6,1.2,0.4,0.9,13.5,14.5,2.1,.104,-1.9,0.0,,"Evans in Orlando, Florida",768000
-dawkida01,1985-86,29,New Jersey Nets,NBA,51,23.7,.644,.707,4.9,1.5,0.3,1.2,15.3,19.5,4.4,.175,2.0,1.2,,"Evans in Orlando, Florida",808000
-dawkida01,1986-87,30,NJN,NBA,6,17.7,.625,.708,3.2,0.3,0.3,0.5,9.5,11.5,0.1,.048,-4.3,-0.1,,"Evans in Orlando, Florida",
-dawkida01,1987-88,31,"UTA,DET",NBA,6,5.5,.222,.400,0.8,0.3,0.0,0.3,1.7,-9.5,-0.2,-0.313,-17.2,-0.1,,"Evans in Orlando, Florida",
-dawkida01,1988-89,32,Detroit Pistons,NBA,14,3.4,.474,.500,0.5,0.1,0.0,0.1,1.9,8.2,0.0,.027,-8.9,-0.1,,"Evans in Orlando, Florida",300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+0.97,2.29,dawkida01,1976-77,PHI,16.5,2.1,.150,-1.1,0.2,,20,NBA,59,11.6,.628,.506,3.9,0.4,0.2,0.8,5.3,PHI,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+2.27,5.98,dawkida01,1977-78,PHI,18.0,6.4,.178,1.5,1.5,,21,NBA,70,24.6,.575,.709,7.9,1.2,0.5,1.8,11.7,PHI,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+0.85,4.93,dawkida01,1978-79,PHI,15.6,4.6,.108,-0.8,0.6,,22,NBA,78,26.1,.517,.672,8.1,1.6,0.4,1.8,13.1,PHI,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+0.66,6.32,dawkida01,1979-80,PHI,14.6,5.7,.107,0.1,1.4,,23,NBA,80,31.8,.522,.653,8.7,1.9,0.6,1.8,14.7,PHI,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+1.22,6.02,dawkida01,1980-81,PHI,15.9,6.3,.145,0.8,1.5,,24,NBA,76,27.5,.607,.720,7.2,1.4,0.5,1.5,14.0,PHI,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",-0.09,2.35,dawkida01,1981-82,PHI,15.0,2.9,.122,-0.9,0.3,,25,NBA,48,23.4,.564,.695,6.4,1.1,0.4,1.1,11.0,PHI,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+0.61,4.27,dawkida01,1982-83,NJN,13.2,4.0,.092,0.7,1.5,,26,NBA,81,25.8,.599,.646,5.2,1.4,0.8,1.9,12.0,NJN,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+1.97,7.96,dawkida01,1983-84,NJN,17.6,7.9,.156,2.4,2.7,,27,NBA,81,29.8,.593,.735,6.7,1.5,0.7,1.7,16.8,NJN,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",-1.02,0.88,dawkida01,1984-85,NJN,14.5,2.1,.104,-1.9,0.0,,28,NBA,39,24.9,.566,.711,4.6,1.2,0.4,0.9,13.5,NJN,768000
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+0.75,2.51,dawkida01,1985-86,NJN,19.5,4.4,.175,2.0,1.2,,29,NBA,51,23.7,.644,.707,4.9,1.5,0.3,1.2,15.3,NJN,808000
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",-0.35,0.14,dawkida01,1986-87,NJN,11.5,0.1,.048,-4.3,-0.1,,30,NBA,6,17.7,.625,.708,3.2,0.3,0.3,0.5,9.5,NJN,
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",-0.13,0.05,dawkida01,1987-88,TOT,-9.5,-0.2,-0.313,-17.2,-0.1,,31,NBA,6,5.5,.222,.400,0.8,0.3,0.0,0.3,1.7,"UTA,DET",
+Darryl Dawkins,/players/d/dawkida01.html,1976,1989,,false,"Evans in Orlando, Florida",+0.47,0.09,dawkida01,1988-89,DET,8.2,0.0,.027,-8.9,-0.1,,32,NBA,14,3.4,.474,.500,0.5,0.1,0.0,0.1,1.9,DET,300000

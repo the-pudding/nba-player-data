@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-portech01,2000-01,22,Golden State Warriors,NBA,51,22.5,.389,.667,3.7,1.2,0.9,0.1,8.6,11.1,0.2,.008,-4.6,-0.8,,316969,"Abbeville in Abbeville, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Porter,/players/p/portech01.html,2001,2001,Auburn University,false,"Abbeville in Abbeville, Alabama",-3.09,-0.67,portech01,2000-01,GSW,11.1,0.2,.008,-4.6,-0.8,,NBA,316969,22,51,22.5,.389,.667,3.7,1.2,0.9,0.1,8.6,GSW

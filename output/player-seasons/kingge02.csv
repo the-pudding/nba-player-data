@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kingge02,1998-99,26,SAS,NBA,19,3.3,.429,.611,0.7,0.2,0.1,0.1,1.2,13.6,0.2,.166,-0.7,0.0,,"John McDonogh in New Orleans, Louisiana",
-kingge02,1999-00,27,Washington Wizards,NBA,62,17.1,.502,.742,4.0,0.8,0.5,0.2,5.3,13.4,2.3,.103,-0.4,0.4,,"John McDonogh in New Orleans, Louisiana",460000
-kingge02,2000-01,28,Washington Wizards,NBA,45,15.7,.511,.800,2.9,0.7,0.3,0.2,4.8,10.1,0.5,.035,-3.8,-0.3,,"John McDonogh in New Orleans, Louisiana",489500
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Gerard King,/players/k/kingge02.html,1999,2001,Nicholls State University,false,"John McDonogh in New Orleans, Louisiana",+0.43,0.14,kingge02,1998-99,SAS,13.6,0.2,.166,-0.7,0.0,,26,NBA,19,3.3,.429,.611,0.7,0.2,0.1,0.1,1.2,SAS,
+Gerard King,/players/k/kingge02.html,1999,2001,Nicholls State University,false,"John McDonogh in New Orleans, Louisiana",-1.20,0.75,kingge02,1999-00,WAS,13.4,2.3,.103,-0.4,0.4,,27,NBA,62,17.1,.502,.742,4.0,0.8,0.5,0.2,5.3,WAS,460000
+Gerard King,/players/k/kingge02.html,1999,2001,Nicholls State University,false,"John McDonogh in New Orleans, Louisiana",-2.12,0.00,kingge02,2000-01,WAS,10.1,0.5,.035,-3.8,-0.3,,28,NBA,45,15.7,.511,.800,2.9,0.7,0.3,0.2,4.8,WAS,489500

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-diazgu01,2007-08,22,Los Angeles Clippers,NBA,6,3.0,.250,.600,0.3,0.2,0.0,0.0,0.8,9.9,0.0,.033,-5.9,0.0,,56065,"Miami Christian School in Miami, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Guillermo Diaz,/players/d/diazgu01.html,2008,2008,University of Miami,false,"Miami Christian School in Miami, Florida",+0.12,0.03,diazgu01,2007-08,LAC,9.9,0.0,.033,-5.9,0.0,,NBA,56065,22,6,3.0,.250,.600,0.3,0.2,0.0,0.0,0.8,LAC

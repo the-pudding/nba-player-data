@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-andrima01,2005-06,19,Cleveland Cavaliers,NBA,6,1.5,.000,,0.7,0.0,0.3,0.0,0.0,15.5,0.0,.155,0.1,0.0,,398762,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Martynas Andriuskevicius,/players/a/andrima01.html,2006,2006,,false,,+0.12,0.02,andrima01,2005-06,CLE,15.5,0.0,.155,0.1,0.0,,NBA,398762,19,6,1.5,.000,,0.7,0.0,0.3,0.0,0.0,CLE

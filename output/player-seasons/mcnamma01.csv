@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mcnamma01,1982-83,23,PHI,NBA,36,5.1,.453,.444,2.1,0.2,0.1,0.1,2.2,7.6,-0.2,-0.056,-8.2,-0.3,,"Del Mar in San Jose, California",
-mcnamma01,1983-84,24,SAS,NBA,70,14.8,.621,.471,4.5,0.4,0.2,0.2,5.5,11.9,1.2,.057,-2.5,-0.1,,"Del Mar in San Jose, California",
-mcnamma01,1984-85,25,San Antonio Spurs,NBA,45,6.1,.526,.516,1.6,0.1,0.2,0.2,2.5,12.9,0.4,.062,-5.4,-0.2,,"Del Mar in San Jose, California",165000
-mcnamma01,1984-85,25,San Antonio Spurs,NBA,12,5.3,.667,.500,1.4,0.0,0.2,0.1,2.8,16.0,0.1,.092,-8.3,-0.1,,"Del Mar in San Jose, California",165000
-mcnamma01,1984-85,25,San Antonio Spurs,NBA,33,6.4,.483,.523,1.7,0.2,0.2,0.2,2.4,12.0,0.2,.053,-4.5,-0.1,,"Del Mar in San Jose, California",165000
-mcnamma01,1985-86,26,Milwaukee Bucks,NBA,,,,,,,,,,,,,,,,"Del Mar in San Jose, California",100000
-mcnamma01,1986-87,27,PHI,NBA,11,10.3,.467,.368,3.3,0.2,0.1,0.0,3.2,8.2,0.0,.007,-8.3,-0.2,,"Del Mar in San Jose, California",
-mcnamma01,1987-88,28,Philadelphia 76ers,NBA,42,13.8,.391,.727,3.7,0.4,0.1,0.3,3.6,9.4,0.6,.052,-4.6,-0.4,,"Del Mar in San Jose, California",100000
-mcnamma01,1988-89,29,Los Angeles Lakers,NBA,39,8.2,.500,.628,2.6,0.3,0.1,0.1,2.9,11.2,0.7,.106,-4.2,-0.2,,"Del Mar in San Jose, California",100000
-mcnamma01,1989-90,30,LAL,NBA,33,5.8,.442,.650,1.9,0.1,0.1,0.0,3.1,11.3,0.1,.015,-11.6,-0.5,,"Del Mar in San Jose, California",
-mcnamma01,1990-91,31,ORL,NBA,2,6.5,.000,,2.0,0.0,0.0,0.0,0.0,1.0,0.0,-0.019,-13.8,0.0,,"Del Mar in San Jose, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-1.46,0.09,mcnamma01,1982-83,PHI,7.6,-0.2,-0.056,-8.2,-0.3,,23,NBA,36,5.1,.453,.444,2.1,0.2,0.1,0.1,2.2,PHI,
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-3.05,-0.46,mcnamma01,1983-84,SAS,11.9,1.2,.057,-2.5,-0.1,,24,NBA,70,14.8,.621,.471,4.5,0.4,0.2,0.2,5.5,SAS,
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-1.10,0.22,mcnamma01,1984-85,TOT,12.9,0.4,.062,-5.4,-0.2,,25,NBA,45,6.1,.526,.516,1.6,0.1,0.2,0.2,2.5,"SAS,KCK",165000
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",,,mcnamma01,1985-86,Did Not Play (other pro league—Italy),,,,,,,26,NBA,,,,,,,,,,Did Not Play (other pro league—Italy),100000
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-0.69,0.12,mcnamma01,1986-87,PHI,8.2,0.0,.007,-8.3,-0.2,,27,NBA,11,10.3,.467,.368,3.3,0.2,0.1,0.0,3.2,PHI,
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-2.88,-0.22,mcnamma01,1987-88,PHI,9.4,0.6,.052,-4.6,-0.4,,28,NBA,42,13.8,.391,.727,3.7,0.4,0.1,0.3,3.6,PHI,100000
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-1.97,0.07,mcnamma01,1988-89,LAL,11.2,0.7,.106,-4.2,-0.2,,29,NBA,39,8.2,.500,.628,2.6,0.3,0.1,0.1,2.9,LAL,100000
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",-1.73,0.07,mcnamma01,1989-90,LAL,11.3,0.1,.015,-11.6,-0.5,,30,NBA,33,5.8,.442,.650,1.9,0.1,0.1,0.0,3.1,LAL,
+Mark McNamara,/players/m/mcnamma01.html,1983,1991,"Santa Clara University, University of California",false,"Del Mar in San Jose, California",+0.42,0.02,mcnamma01,1990-91,ORL,1.0,0.0,-0.019,-13.8,0.0,,31,NBA,2,6.5,.000,,2.0,0.0,0.0,0.0,0.0,ORL,

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-shawca01,1998-99,23,Philadelphia 76ers,NBA,9,1.6,.125,,0.3,0.0,0.0,0.0,0.2,-14.9,-0.1,-0.498,-27.8,-0.1,,287500,"Lebanon in Lebanon, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Casey Shaw,/players/s/shawca01.html,1999,1999,University of Toledo,false,"Lebanon in Lebanon, Ohio",+0.41,0.03,shawca01,1998-99,PHI,-14.9,-0.1,-0.498,-27.8,-0.1,,NBA,287500,23,9,1.6,.125,,0.3,0.0,0.0,0.0,0.2,PHI

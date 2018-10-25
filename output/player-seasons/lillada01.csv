@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lillada01,2012-13,22,Portland Trail Blazers,NBA,82,38.6,.429,.844,3.1,6.5,0.9,0.2,19.0,16.4,5.8,.088,0.3,1.9,,3065040,"Oakland in Oakland, California"
-lillada01,2013-14,23,Portland Trail Blazers,NBA,82,35.8,.424,.871,3.5,5.6,0.8,0.3,20.7,18.6,9.6,.157,2.7,3.5,All-NBA (3rd),3202920,"Oakland in Oakland, California"
-lillada01,2014-15,24,Portland Trail Blazers,NBA,82,35.7,.434,.864,4.6,6.2,1.2,0.3,21.0,20.7,10.6,.174,5.1,5.2,,3340920,"Oakland in Oakland, California"
-lillada01,2015-16,25,Portland Trail Blazers,NBA,75,35.7,.419,.892,4.0,6.8,0.9,0.4,25.1,22.2,9.2,.165,3.7,3.8,All-NBA (2nd),4236287,"Oakland in Oakland, California"
-lillada01,2016-17,26,Portland Trail Blazers,NBA,75,35.9,.444,.895,4.9,5.9,0.9,0.3,27.0,24.1,10.4,.185,4.3,4.3,,24328425,"Oakland in Oakland, California"
-lillada01,2017-18,27,Portland Trail Blazers,NBA,73,36.6,.439,.916,4.5,6.6,1.1,0.4,26.9,25.2,12.6,.227,6.7,5.9,All-NBA (1st),26153057,"Oakland in Oakland, California"
-lillada01,2018-19,28,POR,NBA,3,35.3,.439,.935,5.3,7.0,0.7,0.3,28.7,26.6,0.6,.257,5.6,0.2,,,"Oakland in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",+1.33,7.72,lillada01,2012-13,POR,16.4,5.8,.088,0.3,1.9,,NBA,3065040,22,82,38.6,.429,.844,3.1,6.5,0.9,0.2,19.0,POR
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",+2.83,11.57,lillada01,2013-14,POR,18.6,9.6,.157,2.7,3.5,All-NBA (3rd),NBA,3202920,23,82,35.8,.424,.871,3.5,5.6,0.8,0.3,20.7,POR
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",+2.41,9.93,lillada01,2014-15,POR,20.7,10.6,.174,5.1,5.2,,NBA,3340920,24,82,35.7,.434,.864,4.6,6.2,1.2,0.3,21.0,POR
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",+0.19,5.20,lillada01,2015-16,POR,22.2,9.2,.165,3.7,3.8,All-NBA (2nd),NBA,4236287,25,75,35.7,.419,.892,4.0,6.8,0.9,0.4,25.1,POR
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",+2.48,8.96,lillada01,2016-17,POR,24.1,10.4,.185,4.3,4.3,,NBA,24328425,26,75,35.9,.444,.895,4.9,5.9,0.9,0.3,27.0,POR
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",+4.43,12.60,lillada01,2017-18,POR,25.2,12.6,.227,6.7,5.9,All-NBA (1st),NBA,26153057,27,73,36.6,.439,.916,4.5,6.6,1.1,0.4,26.9,POR
+Damian Lillard,/players/l/lillada01.html,2013,2019,Weber State University,true,"Oakland in Oakland, California",,,lillada01,2018-19,POR,26.6,0.6,.257,5.6,0.2,,NBA,,28,3,35.3,.439,.935,5.3,7.0,0.7,0.3,28.7,POR

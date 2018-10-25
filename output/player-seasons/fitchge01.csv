@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fitchge01,2005-06,23,Miami Heat,NBA,18,13.3,.337,.739,1.7,1.8,0.4,0.3,4.7,10.2,0.1,.026,-3.6,-0.1,,359858,"Westside in Macon, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gerald Fitch,/players/f/fitchge01.html,2006,2006,University of Kentucky,false,"Westside in Macon, Georgia",-1.42,0.13,fitchge01,2005-06,MIA,10.2,0.1,.026,-3.6,-0.1,,NBA,359858,23,18,13.3,.337,.739,1.7,1.8,0.4,0.3,4.7,MIA

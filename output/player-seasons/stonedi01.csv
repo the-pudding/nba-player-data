@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stonedi01,2016-17,19,Los Angeles Clippers,NBA,7,3.4,.231,1.000,0.9,0.0,0.0,0.1,1.4,-1.2,-0.1,-0.211,-24.1,-0.1,,543471,"Dominican in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Diamond Stone,/players/s/stonedi01.html,2017,2017,University of Maryland,true,"Dominican in Milwaukee, Wisconsin",-0.84,0.02,stonedi01,2016-17,LAC,-1.2,-0.1,-0.211,-24.1,-0.1,,NBA,543471,19,7,3.4,.231,1.000,0.9,0.0,0.0,0.1,1.4,LAC

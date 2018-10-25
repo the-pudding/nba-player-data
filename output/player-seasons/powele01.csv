@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-powele01,2006-07,23,Boston Celtics,NBA,63,11.4,.446,.736,3.4,0.2,0.2,0.3,4.2,14.6,1.7,.116,-4.4,-0.4,,432000,"Oakland Technical in Oakland, California"
-powele01,2007-08,24,Boston Celtics,NBA,56,14.4,.572,.710,4.1,0.3,0.3,0.3,7.9,20.9,4.3,.256,-0.9,0.2,,687456,"Oakland Technical in Oakland, California"
-powele01,2008-09,25,Boston Celtics,NBA,70,17.5,.524,.689,4.9,0.7,0.3,0.5,7.7,17.2,4.9,.192,0.5,0.8,,797581,"Oakland Technical in Oakland, California"
-powele01,2009-10,26,Cleveland Cavaliers,NBA,20,11.8,.429,.587,3.1,0.0,0.3,0.1,4.0,10.2,0.5,.097,-9.9,-0.5,,855189,"Oakland Technical in Oakland, California"
-powele01,2010-11,27,Cleveland Cavaliers,NBA,30,10.9,.496,.556,2.1,0.2,0.3,0.1,5.3,15.0,0.6,.090,-5.5,-0.3,,915852,"Oakland Technical in Oakland, California"
-powele01,2010-11,27,Cleveland Cavaliers,NBA,14,13.4,.492,.462,2.7,0.1,0.5,0.2,5.0,12.9,0.2,.051,-5.9,-0.2,,915852,"Oakland Technical in Oakland, California"
-powele01,2010-11,27,Cleveland Cavaliers,NBA,16,8.8,.500,.609,1.6,0.3,0.2,0.1,5.5,17.8,0.4,.142,-5.0,-0.1,,915852,"Oakland Technical in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Leon Powe,/players/p/powele01.html,2007,2011,University of California,false,"Oakland Technical in Oakland, California",-0.51,0.85,powele01,2006-07,BOS,14.6,1.7,.116,-4.4,-0.4,,NBA,432000,23,63,11.4,.446,.736,3.4,0.2,0.2,0.3,4.2,BOS
+Leon Powe,/players/p/powele01.html,2007,2011,University of California,false,"Oakland Technical in Oakland, California",-1.32,0.69,powele01,2007-08,BOS,20.9,4.3,.256,-0.9,0.2,,NBA,687456,24,56,14.4,.572,.710,4.1,0.3,0.3,0.3,7.9,BOS
+Leon Powe,/players/p/powele01.html,2007,2011,University of California,false,"Oakland Technical in Oakland, California",+0.12,2.04,powele01,2008-09,BOS,17.2,4.9,.192,0.5,0.8,,NBA,797581,25,70,17.5,.524,.689,4.9,0.7,0.3,0.5,7.7,BOS
+Leon Powe,/players/p/powele01.html,2007,2011,University of California,false,"Oakland Technical in Oakland, California",-1.73,0.09,powele01,2009-10,CLE,10.2,0.5,.097,-9.9,-0.5,,NBA,855189,26,20,11.8,.429,.587,3.1,0.0,0.3,0.1,4.0,CLE
+Leon Powe,/players/p/powele01.html,2007,2011,University of California,false,"Oakland Technical in Oakland, California",-1.52,0.17,powele01,2010-11,TOT,15.0,0.6,.090,-5.5,-0.3,,NBA,915852,27,30,10.9,.496,.556,2.1,0.2,0.3,0.1,5.3,"CLE,MEM"

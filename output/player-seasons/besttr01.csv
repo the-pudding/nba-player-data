@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-besttr01,1995-96,23,Indiana Pacers,NBA,59,9.7,.423,.833,0.7,1.6,0.3,0.1,3.7,11.5,0.7,.057,-3.9,-0.3,,580000,"Springfield Central in Springfield, Massachusetts"
-besttr01,1996-97,24,Indiana Pacers,NBA,76,27.2,.442,.756,2.2,4.2,1.3,0.1,9.9,13.3,4.1,.096,0.4,1.3,,666000,"Springfield Central in Springfield, Massachusetts"
-besttr01,1997-98,25,Indiana Pacers,NBA,82,18.9,.419,.855,1.5,3.4,1.0,0.1,6.5,13.6,3.3,.103,-0.3,0.7,,752000,"Springfield Central in Springfield, Massachusetts"
-besttr01,1998-99,26,Indiana Pacers,NBA,49,21.3,.416,.843,1.6,3.4,0.9,0.1,7.1,14.1,2.1,.097,-0.1,0.5,,2750000,"Springfield Central in Springfield, Massachusetts"
-besttr01,1999-00,27,Indiana Pacers,NBA,82,20.6,.483,.821,1.7,3.3,0.9,0.1,8.9,16.5,5.1,.145,0.6,1.1,,3250000,"Springfield Central in Springfield, Massachusetts"
-besttr01,2000-01,28,Indiana Pacers,NBA,77,31.9,.440,.827,2.9,6.1,1.4,0.1,11.9,16.7,7.2,.140,0.6,1.6,,3500000,"Springfield Central in Springfield, Massachusetts"
-besttr01,2001-02,29,Indiana Pacers,NBA,74,23.6,.440,.897,2.0,4.4,1.2,0.1,7.9,14.3,3.4,.093,-1.7,0.1,,3375000,"Springfield Central in Springfield, Massachusetts"
-besttr01,2001-02,29,Indiana Pacers,NBA,44,21.7,.439,.877,1.6,4.0,1.3,0.1,6.9,13.7,2.0,.099,-1.5,0.1,,3375000,"Springfield Central in Springfield, Massachusetts"
-besttr01,2001-02,29,Indiana Pacers,NBA,30,26.4,.441,.922,2.7,5.0,1.1,0.0,9.3,14.9,1.4,.085,-1.9,0.0,,3375000,"Springfield Central in Springfield, Massachusetts"
-besttr01,2002-03,30,Miami Heat,NBA,72,25.1,.396,.854,2.0,3.5,0.6,0.1,8.4,11.2,1.8,.048,-2.8,-0.4,,1400000,"Springfield Central in Springfield, Massachusetts"
-besttr01,2003-04,31,Dallas Mavericks,NBA,61,12.5,.372,.870,1.1,1.8,0.5,0.1,2.8,10.1,0.7,.044,-3.4,-0.3,,938679,"Springfield Central in Springfield, Massachusetts"
-besttr01,2004-05,32,New Jersey Nets,NBA,76,19.2,.420,.885,1.4,1.9,0.9,0.1,6.8,11.9,2.5,.084,-2.9,-0.3,,1000000,"Springfield Central in Springfield, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",-1.56,0.32,besttr01,1995-96,IND,11.5,0.7,.057,-3.9,-0.3,,NBA,580000,23,59,9.7,.423,.833,0.7,1.6,0.3,0.1,3.7,IND
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",+0.27,3.57,besttr01,1996-97,IND,13.3,4.1,.096,0.4,1.3,,NBA,666000,24,76,27.2,.442,.756,2.2,4.2,1.3,0.1,9.9,IND
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",+0.15,3.01,besttr01,1997-98,IND,13.6,3.3,.103,-0.3,0.7,,NBA,752000,25,82,18.9,.419,.855,1.5,3.4,1.0,0.1,6.5,IND
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",-0.47,1.46,besttr01,1998-99,IND,14.1,2.1,.097,-0.1,0.5,,NBA,2750000,26,49,21.3,.416,.843,1.6,3.4,0.9,0.1,7.1,IND
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",+0.73,4.40,besttr01,1999-00,IND,16.5,5.1,.145,0.6,1.1,,NBA,3250000,27,82,20.6,.483,.821,1.7,3.3,0.9,0.1,8.9,IND
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",+1.65,7.12,besttr01,2000-01,IND,16.7,7.2,.140,0.6,1.6,,NBA,3500000,28,77,31.9,.440,.827,2.9,6.1,1.4,0.1,11.9,IND
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",-0.82,1.70,besttr01,2001-02,TOT,14.3,3.4,.093,-1.7,0.1,,NBA,3375000,29,74,23.6,.440,.897,2.0,4.4,1.2,0.1,7.9,"IND,CHI"
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",-1.49,0.82,besttr01,2002-03,MIA,11.2,1.8,.048,-2.8,-0.4,,NBA,1400000,30,72,25.1,.396,.854,2.0,3.5,0.6,0.1,8.4,MIA
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",+0.02,1.18,besttr01,2003-04,DAL,10.1,0.7,.044,-3.4,-0.3,,NBA,938679,31,61,12.5,.372,.870,1.1,1.8,0.5,0.1,2.8,DAL
+Travis Best,/players/b/besttr01.html,1996,2005,Georgia Institute of Technology,false,"Springfield Central in Springfield, Massachusetts",-3.62,-1.43,besttr01,2004-05,NJN,11.9,2.5,.084,-2.9,-0.3,,NBA,1000000,32,76,19.2,.420,.885,1.4,1.9,0.9,0.1,6.8,NJN

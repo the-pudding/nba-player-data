@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-feliccr01,2015-16,23,Chicago Bulls,NBA,31,10.4,.556,.714,3.3,0.8,0.2,0.4,3.4,17.6,1.2,.175,0.9,0.2,,525090,
-feliccr01,2016-17,24,Chicago Bulls,NBA,66,15.8,.579,.645,4.7,0.6,0.4,0.3,4.8,15.3,3.4,.158,0.0,0.5,,874636,
-feliccr01,2017-18,25,Chicago Bulls,NBA,55,17.8,.591,.667,4.2,1.0,0.3,0.2,5.6,12.5,1.7,.086,-2.4,-0.1,,7843500,
-feliccr01,2018-19,26,CHI,NBA,1,16.0,.750,.750,5.0,0.0,1.0,0.0,9.0,28.6,0.1,.326,-1.5,0.0,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cristiano Felicio,/players/f/feliccr01.html,2016,2019,,true,,+1.91,0.91,feliccr01,2015-16,CHI,17.6,1.2,.175,0.9,0.2,,NBA,525090,23,31,10.4,.556,.714,3.3,0.8,0.2,0.4,3.4,CHI
+Cristiano Felicio,/players/f/feliccr01.html,2016,2019,,true,,-0.67,1.22,feliccr01,2016-17,CHI,15.3,3.4,.158,0.0,0.5,,NBA,874636,24,66,15.8,.579,.645,4.7,0.6,0.4,0.3,4.8,CHI
+Cristiano Felicio,/players/f/feliccr01.html,2016,2019,,true,,-4.78,-1.64,feliccr01,2017-18,CHI,12.5,1.7,.086,-2.4,-0.1,,NBA,7843500,25,55,17.8,.591,.667,4.2,1.0,0.3,0.2,5.6,CHI
+Cristiano Felicio,/players/f/feliccr01.html,2016,2019,,true,,,,feliccr01,2018-19,CHI,28.6,0.1,.326,-1.5,0.0,,NBA,,26,1,16.0,.750,.750,5.0,0.0,1.0,0.0,9.0,CHI

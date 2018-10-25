@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-othicma01,1992-93,23,San Antonio Spurs,NBA,4,9.8,.600,.000,0.5,1.8,0.3,0.0,2.0,5.9,0.0,.019,-5.4,0.0,,13000,"Bishop Gorman in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Matt Othick,/players/o/othicma01.html,1993,1993,University of Arizona,false,"Bishop Gorman in Las Vegas, Nevada",-0.13,0.06,othicma01,1992-93,SAS,5.9,0.0,.019,-5.4,0.0,,NBA,13000,23,4,9.8,.600,.000,0.5,1.8,0.3,0.0,2.0,SAS

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-blankla01,1990-91,24,Detroit Pistons,NBA,38,5.6,.426,.714,0.5,0.7,0.2,0.1,1.7,7.5,0.1,.027,-3.5,-0.1,,365000,"McCullough in The Woodlands, Texas"
-blankla01,1991-92,25,Detroit Pistons,NBA,43,4.4,.455,.727,0.5,0.4,0.3,0.0,1.5,11.9,0.4,.096,0.2,0.1,,415000,"McCullough in The Woodlands, Texas"
-blankla01,1992-93,26,Minnesota Timberwolves,NBA,61,10.5,.433,.625,1.1,1.2,0.3,0.1,2.6,8.4,0.2,.013,-5.0,-0.5,,490000,"McCullough in The Woodlands, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lance Blanks,/players/b/blankla01.html,1991,1993,"University of Virginia, University of Texas at Austin",false,"McCullough in The Woodlands, Texas",-0.47,0.26,blankla01,1990-91,DET,7.5,0.1,.027,-3.5,-0.1,,NBA,365000,24,38,5.6,.426,.714,0.5,0.7,0.2,0.1,1.7,DET
+Lance Blanks,/players/b/blankla01.html,1991,1993,"University of Virginia, University of Texas at Austin",false,"McCullough in The Woodlands, Texas",+0.40,0.36,blankla01,1991-92,DET,11.9,0.4,.096,0.2,0.1,,NBA,415000,25,43,4.4,.455,.727,0.5,0.4,0.3,0.0,1.5,DET
+Lance Blanks,/players/b/blankla01.html,1991,1993,"University of Virginia, University of Texas at Austin",false,"McCullough in The Woodlands, Texas",-3.27,-0.42,blankla01,1992-93,MIN,8.4,0.2,.013,-5.0,-0.5,,NBA,490000,26,61,10.5,.433,.625,1.1,1.2,0.3,0.1,2.6,MIN

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-engliki01,2012-13,24,Detroit Pistons,NBA,41,9.9,.375,.724,0.9,0.6,0.4,0.1,2.9,7.9,0.2,.021,-4.2,-0.2,,473604,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kim English,/players/e/engliki01.html,2013,2013,University of Missouri,false,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.15,0.04,engliki01,2012-13,DET,7.9,0.2,.021,-4.2,-0.2,,NBA,473604,24,41,9.9,.375,.724,0.9,0.6,0.4,0.1,2.9,DET

@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-westda01,2003-04,23,New Orleans Hornets,NBA,71,13.1,.474,.713,4.2,0.8,0.4,0.4,3.8,15.9,2.8,.143,0.1,0.5,,1160160,"Garner in Garner, North Carolina"
-westda01,2004-05,24,New Orleans Hornets,NBA,30,18.4,.436,.680,4.3,0.8,0.4,0.5,6.2,11.1,0.2,.022,-4.6,-0.4,,1247160,"Garner in Garner, North Carolina"
-westda01,2005-06,25,New Orleans/Oklahoma City Hornets,NBA,74,34.1,.512,.843,7.4,1.2,0.8,0.9,17.1,19.7,7.4,.141,1.0,1.9,,1334160,"Garner in Garner, North Carolina"
-westda01,2006-07,26,New Orleans/Oklahoma City Hornets,NBA,52,36.5,.476,.824,8.2,2.2,0.8,0.7,18.3,18.9,5.2,.131,1.2,1.5,,2051938,"Garner in Garner, North Carolina"
-westda01,2007-08,27,New Orleans Hornets,NBA,76,37.8,.482,.850,8.9,2.3,0.8,1.3,20.6,19.9,8.4,.140,1.1,2.3,,10650000,"Garner in Garner, North Carolina"
-westda01,2008-09,28,New Orleans Hornets,NBA,76,39.2,.472,.884,8.5,2.3,0.6,0.9,21.0,18.9,7.8,.125,-0.5,1.2,,9862500,"Garner in Garner, North Carolina"
-westda01,2009-10,29,New Orleans Hornets,NBA,81,36.4,.505,.865,7.5,3.0,0.9,0.7,19.0,18.9,7.5,.122,1.2,2.4,,9075000,"Garner in Garner, North Carolina"
-westda01,2010-11,30,New Orleans Hornets,NBA,70,35.0,.508,.807,7.6,2.3,1.0,0.9,18.9,20.4,7.8,.152,2.7,2.9,,8287500,"Garner in Garner, North Carolina"
-westda01,2011-12,31,Indiana Pacers,NBA,66,29.2,.487,.807,6.6,2.1,0.8,0.7,12.8,17.8,5.9,.147,1.7,1.8,,10000000,"Garner in Garner, North Carolina"
-westda01,2012-13,32,Indiana Pacers,NBA,73,33.4,.498,.768,7.7,2.9,1.0,0.9,17.1,20.1,9.1,.179,3.3,3.3,,10000000,"Garner in Garner, North Carolina"
-westda01,2013-14,33,Indiana Pacers,NBA,80,30.9,.488,.789,6.8,2.8,0.8,0.9,14.0,17.5,8.1,.157,2.0,2.5,,12000000,"Garner in Garner, North Carolina"
-westda01,2014-15,34,Indiana Pacers,NBA,66,28.7,.471,.739,6.8,3.4,0.7,0.7,11.7,16.0,4.3,.108,1.7,1.8,,12000000,"Garner in Garner, North Carolina"
-westda01,2015-16,35,San Antonio Spurs,NBA,78,18.0,.545,.788,4.0,1.8,0.6,0.7,7.1,17.6,5.4,.184,3.4,1.9,,1499000,"Garner in Garner, North Carolina"
-westda01,2016-17,36,Golden State Warriors,NBA,68,12.6,.536,.768,3.0,2.2,0.6,0.7,4.6,16.6,2.6,.148,2.2,0.9,,1551659,"Garner in Garner, North Carolina"
-westda01,2017-18,37,Golden State Warriors,NBA,73,13.7,.571,.759,3.3,1.9,0.6,1.0,6.8,20.9,3.5,.168,3.0,1.3,,1471382,"Garner in Garner, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",-1.10,0.77,westda01,2003-04,NOH,15.9,2.8,.143,0.1,0.5,,NBA,1160160,23,71,13.1,.474,.713,4.2,0.8,0.4,0.4,3.8,NOH
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",-3.66,-0.57,westda01,2004-05,NOH,11.1,0.2,.022,-4.6,-0.4,,NBA,1247160,24,30,18.4,.436,.680,4.3,0.8,0.4,0.5,6.2,NOH
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",-0.17,3.60,westda01,2005-06,NOK,19.7,7.4,.141,1.0,1.9,,NBA,1334160,25,74,34.1,.512,.843,7.4,1.2,0.8,0.9,17.1,NOK
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+1.17,4.42,westda01,2006-07,NOK,18.9,5.2,.131,1.2,1.5,,NBA,2051938,26,52,36.5,.476,.824,8.2,2.2,0.8,0.7,18.3,NOK
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+2.32,10.34,westda01,2007-08,NOH,19.9,8.4,.140,1.1,2.3,,NBA,10650000,27,76,37.8,.482,.850,8.9,2.3,0.8,1.3,20.6,NOH
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+2.36,9.81,westda01,2008-09,NOH,18.9,7.8,.125,-0.5,1.2,,NBA,9862500,28,76,39.2,.472,.884,8.5,2.3,0.6,0.9,21.0,NOH
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",-0.45,3.66,westda01,2009-10,NOH,18.9,7.5,.122,1.2,2.4,,NBA,9075000,29,81,36.4,.505,.865,7.5,3.0,0.9,0.7,19.0,NOH
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+2.52,7.98,westda01,2010-11,NOH,20.4,7.8,.152,2.7,2.9,,NBA,8287500,30,70,35.0,.508,.807,7.6,2.3,1.0,0.9,18.9,NOH
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+2.28,7.32,westda01,2011-12,IND,17.8,5.9,.147,1.7,1.8,,NBA,10000000,31,66,29.2,.487,.807,6.6,2.1,0.8,0.7,12.8,IND
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+2.63,10.52,westda01,2012-13,IND,20.1,9.1,.179,3.3,3.3,,NBA,10000000,32,73,33.4,.498,.768,7.7,2.9,1.0,0.9,17.1,IND
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+3.09,11.63,westda01,2013-14,IND,17.5,8.1,.157,2.0,2.5,,NBA,12000000,33,80,30.9,.488,.789,6.8,2.8,0.8,0.9,14.0,IND
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+1.03,4.31,westda01,2014-15,IND,16.0,4.3,.108,1.7,1.8,,NBA,12000000,34,66,28.7,.471,.739,6.8,3.4,0.7,0.7,11.7,IND
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",+1.42,4.01,westda01,2015-16,SAS,17.6,5.4,.184,3.4,1.9,,NBA,1499000,35,78,18.0,.545,.788,4.0,1.8,0.6,0.7,7.1,SAS
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",-1.24,0.75,westda01,2016-17,GSW,16.6,2.6,.148,2.2,0.9,,NBA,1551659,36,68,12.6,.536,.768,3.0,2.2,0.6,0.7,4.6,GSW
+David West,/players/w/westda01.html,2004,2018,Xavier University,false,"Garner in Garner, North Carolina",-0.32,1.53,westda01,2017-18,GSW,20.9,3.5,.168,3.0,1.3,,NBA,1471382,37,73,13.7,.571,.759,3.3,1.9,0.6,1.0,6.8,GSW

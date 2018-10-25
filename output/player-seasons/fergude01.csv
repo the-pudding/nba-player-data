@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-fergude01,2003-04,26,POR,NBA,7,4.6,.417,.000,0.6,0.1,0.0,0.0,1.9,11.3,0.0,.021,-7.1,0.0,,"Everett in Lansing, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Desmond Ferguson,/players/f/fergude01.html,2004,2004,"University of Missouri, University of Detroit Mercy",false,"Everett in Lansing, Michigan",+0.23,0.05,fergude01,2003-04,POR,11.3,0.0,.021,-7.1,0.0,,26,NBA,7,4.6,.417,.000,0.6,0.1,0.0,0.0,1.9,POR

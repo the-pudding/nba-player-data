@@ -32,6 +32,13 @@ const data = d3.csvParse(
 	fs.readFileSync('./output/all-players--bbr.csv', 'utf-8')
 );
 
+const pipmData = d3.csvParse(fs.readFileSync('./input/pipm.csv', 'utf-8'));
+
+const nestedPipm = d3
+	.nest()
+	.key(d => d.Player)
+	.entries(pipmData);
+
 function getValues($, tr, cols, bbrID) {
 	const values = $(tr)
 		.find('td,th')
@@ -193,20 +200,31 @@ function getAwardHTML($) {
 		.get()[0];
 }
 
-function joinStats(basic, advanced, award, salary, hs) {
+function joinStats(player, basic, advanced, award, salary, hs) {
 	const joined = basic.map(b => {
 		const advancedMatch = advanced.find(
 			a => a.Season === b.Season && a.Tm === b.Tm
 		);
 		const awardMatch = award.find(w => w.Season === b.Season) || {};
 		const salaryMatch = salary.find(w => w.Season === b.Season) || {};
+
+		const nestedPipmMatch = nestedPipm.find(w => w.key === player.name);
+		const pipmMatch = nestedPipmMatch
+			? nestedPipmMatch.values.find(
+				w => w.Season === b.Season && w.Team === b.Tm
+			  )
+			: {};
+
 		return {
-			...b,
+			...player,
+			HS: hs,
+			PIPM: pipmMatch ? pipmMatch.PIPM : null,
+			'Wins Added': pipmMatch ? pipmMatch['Wins Added'] : null,
 			...advancedMatch,
 			Award: '',
 			...awardMatch,
 			...salaryMatch,
-			HS: hs
+			...b
 		};
 	});
 
@@ -221,7 +239,7 @@ function joinStats(basic, advanced, award, salary, hs) {
 
 	const withOthers = withoutDupes.map(d => ({
 		...d,
-		Tm:
+		Team:
 			d.Tm === 'TOT'
 				? others
 					.filter(o => o.Season === d.Season)
@@ -283,6 +301,7 @@ function getSeasons(player, i) {
 
 	// join all stats together
 	const joinedStats = joinStats(
+		player,
 		basicStats,
 		advancedStats,
 		awardStats,

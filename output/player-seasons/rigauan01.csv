@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-rigauan01,2002-03,31,DAL,NBA,11,8.3,.229,,0.7,0.5,0.3,0.0,1.5,-2.4,-0.4,-0.192,-11.3,-0.2,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antoine Rigaudeau,/players/r/rigauan01.html,2003,2003,,false,,-2.03,0.00,rigauan01,2002-03,DAL,-2.4,-0.4,-0.192,-11.3,-0.2,,31,NBA,11,8.3,.229,,0.7,0.5,0.3,0.0,1.5,DAL

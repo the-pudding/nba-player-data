@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-taylole01,1989-90,23,GSW,NBA,10,3.7,.000,.688,1.2,0.1,0.0,0.0,1.1,3.8,-0.1,-0.097,-12.8,-0.1,,"Saint Bernard in Playa del Rey, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Leonard Taylor,/players/t/taylole01.html,1990,1990,University of California,false,"Saint Bernard in Playa del Rey, California",-0.67,0.04,taylole01,1989-90,GSW,3.8,-0.1,-0.097,-12.8,-0.1,,23,NBA,10,3.7,.000,.688,1.2,0.1,0.0,0.0,1.1,GSW

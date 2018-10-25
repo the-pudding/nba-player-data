@@ -1,15 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leeco01,2008-09,23,Orlando Magic,NBA,77,25.2,.450,.830,2.3,1.2,1.0,0.2,8.4,10.7,4.4,.108,0.5,1.2,,1176240,"Pike in Indianapolis, Indiana"
-leeco01,2009-10,24,New Jersey Nets,NBA,71,33.5,.436,.869,3.5,1.7,1.3,0.3,12.5,12.8,3.1,.063,-0.8,0.7,,1264440,"Pike in Indianapolis, Indiana"
-leeco01,2010-11,25,Houston Rockets,NBA,81,21.3,.439,.792,2.6,1.2,0.7,0.2,8.3,12.6,2.7,.076,-1.4,0.2,,1409040,"Pike in Indianapolis, Indiana"
-leeco01,2011-12,26,Houston Rockets,NBA,58,30.3,.433,.826,2.7,1.5,1.2,0.4,11.4,12.6,3.2,.087,0.3,1.0,,2225093,"Pike in Indianapolis, Indiana"
-leeco01,2012-13,27,Boston Celtics,NBA,78,24.9,.464,.861,2.4,1.8,1.1,0.3,7.8,11.7,3.3,.082,-0.3,0.8,,5000000,"Pike in Indianapolis, Indiana"
-leeco01,2013-14,28,Memphis Grizzlies,NBA,79,25.0,.480,.884,2.4,1.5,0.8,0.4,9.6,13.8,4.7,.114,0.4,1.2,,5225000,"Pike in Indianapolis, Indiana"
-leeco01,2013-14,28,Memphis Grizzlies,NBA,30,16.8,.492,.818,1.6,1.1,0.7,0.3,7.4,14.6,1.0,.094,-1.2,0.1,,5225000,"Pike in Indianapolis, Indiana"
-leeco01,2013-14,28,Memphis Grizzlies,NBA,49,30.0,.476,.900,2.8,1.7,0.9,0.4,11.0,13.5,3.7,.120,1.0,1.1,,5225000,"Pike in Indianapolis, Indiana"
-leeco01,2014-15,29,Memphis Grizzlies,NBA,77,30.6,.448,.860,2.3,2.0,1.0,0.2,10.1,11.5,4.8,.099,0.5,1.5,,5450000,"Pike in Indianapolis, Indiana"
-leeco01,2015-16,30,Charlotte Hornets,NBA,79,29.5,.454,.839,2.6,1.7,1.1,0.4,9.6,11.5,3.9,.080,-0.6,0.9,,5675000,"Pike in Indianapolis, Indiana"
-leeco01,2015-16,30,Charlotte Hornets,NBA,51,29.2,.458,.826,2.3,1.5,1.0,0.3,10.0,11.7,2.2,.072,-1.0,0.4,,5675000,"Pike in Indianapolis, Indiana"
-leeco01,2015-16,30,Charlotte Hornets,NBA,28,30.2,.445,.885,3.1,2.1,1.2,0.4,8.9,11.2,1.6,.094,0.2,0.5,,5675000,"Pike in Indianapolis, Indiana"
-leeco01,2016-17,31,New York Knicks,NBA,77,31.9,.456,.867,3.4,2.3,1.1,0.3,10.8,12.2,4.2,.081,-0.1,1.1,,11242000,"Pike in Indianapolis, Indiana"
-leeco01,2017-18,32,New York Knicks,NBA,76,30.4,.454,.919,2.9,2.4,1.1,0.2,12.0,13.0,3.9,.082,0.0,1.2,,11747890,"Pike in Indianapolis, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-0.48,3.04,leeco01,2008-09,ORL,10.7,4.4,.108,0.5,1.2,,NBA,1176240,23,77,25.2,.450,.830,2.3,1.2,1.0,0.2,8.4,ORL
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-2.33,-0.01,leeco01,2009-10,NJN,12.8,3.1,.063,-0.8,0.7,,NBA,1264440,24,71,33.5,.436,.869,3.5,1.7,1.3,0.3,12.5,NJN
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-1.83,0.58,leeco01,2010-11,HOU,12.6,2.7,.076,-1.4,0.2,,NBA,1409040,25,81,21.3,.439,.792,2.6,1.2,0.7,0.2,8.3,HOU
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-0.78,1.76,leeco01,2011-12,HOU,12.6,3.2,.087,0.3,1.0,,NBA,2225093,26,58,30.3,.433,.826,2.7,1.5,1.2,0.4,11.4,HOU
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-1.47,1.02,leeco01,2012-13,BOS,11.7,3.3,.082,-0.3,0.8,,NBA,5000000,27,78,24.9,.464,.861,2.4,1.8,1.1,0.3,7.8,BOS
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-0.18,3.12,leeco01,2013-14,TOT,13.8,4.7,.114,0.4,1.2,,NBA,5225000,28,79,25.0,.480,.884,2.4,1.5,0.8,0.4,9.6,"BOS,MEM"
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-1.13,2.07,leeco01,2014-15,MEM,11.5,4.8,.099,0.5,1.5,,NBA,5450000,29,77,30.6,.448,.860,2.3,2.0,1.0,0.2,10.1,MEM
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-0.20,3.64,leeco01,2015-16,TOT,11.5,3.9,.080,-0.6,0.9,,NBA,5675000,30,79,29.5,.454,.839,2.6,1.7,1.1,0.4,9.6,"MEM,CHO"
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-2.21,0.25,leeco01,2016-17,NYK,12.2,4.2,.081,-0.1,1.1,,NBA,11242000,31,77,31.9,.456,.867,3.4,2.3,1.1,0.3,10.8,NYK
+Courtney Lee,/players/l/leeco01.html,2009,2018,Western Kentucky University,true,"Pike in Indianapolis, Indiana",-2.18,0.20,leeco01,2017-18,NYK,13.0,3.9,.082,0.0,1.2,,NBA,11747890,32,76,30.4,.454,.919,2.9,2.4,1.1,0.2,12.0,NYK

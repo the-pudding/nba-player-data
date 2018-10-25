@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kopicjo01,1982-83,22,WSB,NBA,17,11.8,.451,.840,3.6,0.5,0.5,0.1,3.9,15.1,0.7,.177,-0.2,0.1,,"Fitzgerald in Warren, Michigan",
-kopicjo01,1983-84,23,WSB,NBA,59,11.5,.485,.813,2.8,0.8,0.3,0.1,3.7,13.4,1.9,.136,-0.7,0.2,,"Fitzgerald in Warren, Michigan",
-kopicjo01,1984-85,24,Denver Nuggets,NBA,42,7.3,.526,.796,2.0,0.7,0.3,0.0,3.5,15.3,0.9,.135,-1.1,0.1,,"Fitzgerald in Warren, Michigan",80000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Joe Kopicki,/players/k/kopicjo01.html,1983,1985,University of Detroit Mercy,false,"Fitzgerald in Warren, Michigan",+0.59,0.40,kopicjo01,1982-83,WSB,15.1,0.7,.177,-0.2,0.1,,22,NBA,17,11.8,.451,.840,3.6,0.5,0.5,0.1,3.9,WSB,
+Joe Kopicki,/players/k/kopicjo01.html,1983,1985,University of Detroit Mercy,false,"Fitzgerald in Warren, Michigan",-1.26,0.47,kopicjo01,1983-84,WSB,13.4,1.9,.136,-0.7,0.2,,23,NBA,59,11.5,.485,.813,2.8,0.8,0.3,0.1,3.7,WSB,
+Joe Kopicki,/players/k/kopicjo01.html,1983,1985,University of Detroit Mercy,false,"Fitzgerald in Warren, Michigan",-0.57,0.39,kopicjo01,1984-85,DEN,15.3,0.9,.135,-1.1,0.1,,24,NBA,42,7.3,.526,.796,2.0,0.7,0.3,0.0,3.5,DEN,80000

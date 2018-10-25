@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-landsma01,1977-78,22,CHI,NBA,62,14.9,.506,.580,4.9,0.7,0.3,0.1,5.6,14.5,1.9,.100,-2.2,-0.1,,"Mounds View in Saint Paul, Minnesota"
-landsma01,1978-79,23,CHI,NBA,80,24.5,.475,.469,9.3,0.9,0.3,0.3,8.1,12.6,2.2,.054,-3.4,-0.7,,"Mounds View in Saint Paul, Minnesota"
-landsma01,1979-80,24,"CHI,LAL",NBA,77,19.6,.516,.523,8.0,0.6,0.4,0.3,8.0,15.7,3.4,.109,-3.1,-0.4,,"Mounds View in Saint Paul, Minnesota"
-landsma01,1980-81,25,LAL,NBA,69,15.7,.502,.534,5.5,0.4,0.3,0.1,5.7,12.5,2.2,.099,-4.4,-0.6,,"Mounds View in Saint Paul, Minnesota"
-landsma01,1981-82,26,LAL,NBA,75,15.1,.438,.508,5.3,0.4,0.1,0.1,4.3,10.3,1.7,.072,-4.8,-0.8,,"Mounds View in Saint Paul, Minnesota"
-landsma01,1982-83,27,LAL,NBA,39,9.1,.422,.480,3.3,0.3,0.2,0.1,2.5,10.2,0.4,.061,-4.6,-0.2,,"Mounds View in Saint Paul, Minnesota"
-landsma01,1983-84,28,ATL,NBA,35,9.6,.373,.577,3.4,0.3,0.2,0.1,1.5,8.1,0.3,.036,-4.9,-0.2,,"Mounds View in Saint Paul, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-1.19,0.64,landsma01,1977-78,CHI,14.5,1.9,.100,-2.2,-0.1,,22,NBA,62,14.9,.506,.580,4.9,0.7,0.3,0.1,5.6,CHI
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-2.41,-0.31,landsma01,1978-79,CHI,12.6,2.2,.054,-3.4,-0.7,,23,NBA,80,24.5,.475,.469,9.3,0.9,0.3,0.3,8.1,CHI
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-1.35,1.05,landsma01,1979-80,TOT,15.7,3.4,.109,-3.1,-0.4,,24,NBA,77,19.6,.516,.523,8.0,0.6,0.4,0.3,8.0,"CHI,LAL"
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-2.07,0.12,landsma01,1980-81,LAL,12.5,2.2,.099,-4.4,-0.6,,25,NBA,69,15.7,.502,.534,5.5,0.4,0.3,0.1,5.7,LAL
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-3.46,-0.93,landsma01,1981-82,LAL,10.3,1.7,.072,-4.8,-0.8,,26,NBA,75,15.1,.438,.508,5.3,0.4,0.1,0.1,4.3,LAL
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-3.09,-0.27,landsma01,1982-83,LAL,10.2,0.4,.061,-4.6,-0.2,,27,NBA,39,9.1,.422,.480,3.3,0.3,0.2,0.1,2.5,LAL
+Mark Landsberger,/players/l/landsma01.html,1978,1984,"University of Minnesota, Arizona State University",false,"Mounds View in Saint Paul, Minnesota",-2.65,-0.10,landsma01,1983-84,ATL,8.1,0.3,.036,-4.9,-0.2,,28,NBA,35,9.6,.373,.577,3.4,0.3,0.2,0.1,1.5,ATL

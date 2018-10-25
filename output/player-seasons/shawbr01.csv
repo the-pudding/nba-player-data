@@ -1,20 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-shawbr01,1988-89,22,Boston Celtics,NBA,82,28.1,.433,.826,4.6,5.8,1.0,0.3,8.6,12.2,2.2,.046,-0.4,0.9,,150000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1989-90,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Bishop O'Dowd in Oakland, California"
-shawbr01,1990-91,24,Boston Celtics,NBA,79,35.1,.469,.819,4.7,7.6,1.3,0.4,13.8,15.5,5.9,.102,1.1,2.2,,1212000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1991-92,25,Boston Celtics,NBA,63,22.6,.407,.791,3.2,4.0,0.9,0.3,7.9,12.3,1.0,.034,-2.0,0.0,,1313000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1991-92,25,Boston Celtics,NBA,17,25.6,.427,.875,4.1,5.2,0.7,0.6,10.3,15.0,0.7,.078,-0.2,0.2,,1313000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1991-92,25,Boston Celtics,NBA,46,21.5,.398,.725,2.9,3.5,1.0,0.3,7.0,11.1,0.3,.014,-2.8,-0.2,,1313000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1992-93,26,Miami Heat,NBA,68,23.6,.393,.782,3.8,3.5,0.7,0.3,7.3,11.3,1.8,.054,-0.7,0.5,,1413000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1993-94,27,Miami Heat,NBA,77,26.5,.417,.719,4.5,5.0,0.9,0.3,9.0,13.4,3.2,.076,0.8,1.4,,1513000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1994-95,28,Orlando Magic,NBA,78,23.5,.389,.737,3.1,5.2,0.9,0.2,6.4,10.4,1.3,.035,-2.5,-0.2,,692900,"Bishop O'Dowd in Oakland, California"
-shawbr01,1995-96,29,Orlando Magic,NBA,75,22.4,.374,.798,3.0,4.5,0.8,0.1,6.6,10.2,0.6,.018,-3.6,-0.7,,4250000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1996-97,30,Orlando Magic,NBA,77,24.2,.366,.793,2.5,4.1,0.9,0.3,7.2,10.4,1.1,.029,-2.8,-0.4,,4000000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1997-98,31,Golden State Warriors,NBA,59,25.9,.345,.692,3.6,4.4,0.8,0.3,6.3,9.1,0.1,.002,-3.4,-0.5,,3750000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1997-98,31,Golden State Warriors,NBA,39,26.4,.336,.727,3.9,4.4,0.9,0.4,6.4,8.7,-0.3,-0.014,-3.6,-0.4,,3750000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1997-98,31,Golden State Warriors,NBA,20,25.1,.367,.632,3.2,4.4,0.7,0.2,6.1,10.0,0.4,.035,-3.0,-0.1,,3750000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1998-99,32,Philadelphia 76ers,NBA,1,5.0,.000,,1.0,1.0,0.0,0.0,0.0,-11.6,0.0,-0.358,-17.7,0.0,,3400000,"Bishop O'Dowd in Oakland, California"
-shawbr01,1999-00,33,Houston Rockets,NBA,74,16.9,.382,.759,2.9,2.7,0.5,0.2,4.1,10.9,2.1,.082,-1.6,0.1,,1100000,"Bishop O'Dowd in Oakland, California"
-shawbr01,2000-01,34,Los Angeles Lakers,NBA,80,22.9,.399,.797,3.8,3.2,0.6,0.3,5.3,10.9,2.5,.067,-1.3,0.3,,2250000,"Bishop O'Dowd in Oakland, California"
-shawbr01,2001-02,35,Los Angeles Lakers,NBA,58,10.9,.353,.692,1.9,1.5,0.4,0.1,2.9,11.8,1.2,.089,-0.9,0.2,,963415,"Bishop O'Dowd in Oakland, California"
-shawbr01,2002-03,36,Los Angeles Lakers,NBA,72,12.5,.387,.667,1.7,1.4,0.4,0.2,3.5,10.2,0.6,.034,-3.7,-0.4,,1030000,"Bishop O'Dowd in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-1.04,2.07,shawbr01,1988-89,BOS,12.2,2.2,.046,-0.4,0.9,,NBA,150000,22,82,28.1,.433,.826,4.6,5.8,1.0,0.3,8.6,BOS
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",,,shawbr01,1989-90,Did Not Play (other pro league—Italy),,,,,,,,,23,,,,,,,,,,Did Not Play (other pro league—Italy)
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",+0.97,6.75,shawbr01,1990-91,BOS,15.5,5.9,.102,1.1,2.2,,NBA,1212000,24,79,35.1,.469,.819,4.7,7.6,1.3,0.4,13.8,BOS
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-1.78,0.52,shawbr01,1991-92,TOT,12.3,1.0,.034,-2.0,0.0,,NBA,1313000,25,63,22.6,.407,.791,3.2,4.0,0.9,0.3,7.9,"BOS,MIA"
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-1.17,1.21,shawbr01,1992-93,MIA,11.3,1.8,.054,-0.7,0.5,,NBA,1413000,26,68,23.6,.393,.782,3.8,3.5,0.7,0.3,7.3,MIA
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-0.21,3.00,shawbr01,1993-94,MIA,13.4,3.2,.076,0.8,1.4,,NBA,1513000,27,77,26.5,.417,.719,4.5,5.0,0.9,0.3,9.0,MIA
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-1.39,1.38,shawbr01,1994-95,ORL,10.4,1.3,.035,-2.5,-0.2,,NBA,692900,28,78,23.5,.389,.737,3.1,5.2,0.9,0.2,6.4,ORL
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-2.41,-0.11,shawbr01,1995-96,ORL,10.2,0.6,.018,-3.6,-0.7,,NBA,4250000,29,75,22.4,.374,.798,3.0,4.5,0.8,0.1,6.6,ORL
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-1.82,0.56,shawbr01,1996-97,ORL,10.4,1.1,.029,-2.8,-0.4,,NBA,4000000,30,77,24.2,.366,.793,2.5,4.1,0.9,0.3,7.2,ORL
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-2.85,-0.72,shawbr01,1997-98,TOT,9.1,0.1,.002,-3.4,-0.5,,NBA,3750000,31,59,25.9,.345,.692,3.6,4.4,0.8,0.3,6.3,"GSW,PHI"
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",+0.90,0.01,shawbr01,1998-99,POR,-11.6,0.0,-0.358,-17.7,0.0,,NBA,3400000,32,1,5.0,.000,,1.0,1.0,0.0,0.0,0.0,POR
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-0.74,1.68,shawbr01,1999-00,LAL,10.9,2.1,.082,-1.6,0.1,,NBA,1100000,33,74,16.9,.382,.759,2.9,2.7,0.5,0.2,4.1,LAL
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-2.26,-0.05,shawbr01,2000-01,LAL,10.9,2.5,.067,-1.3,0.3,,NBA,2250000,34,80,22.9,.399,.797,3.8,3.2,0.6,0.3,5.3,LAL
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-0.16,1.24,shawbr01,2001-02,LAL,11.8,1.2,.089,-0.9,0.2,,NBA,963415,35,58,10.9,.353,.692,1.9,1.5,0.4,0.1,2.9,LAL
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false,"Bishop O'Dowd in Oakland, California",-3.17,-0.79,shawbr01,2002-03,LAL,10.2,0.6,.034,-3.7,-0.4,,NBA,1030000,36,72,12.5,.387,.667,1.7,1.4,0.4,0.2,3.5,LAL

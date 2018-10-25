@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-norwowi01,1976-77,29,SEA,NBA,76,21.7,.469,.733,3.8,1.3,0.8,0.1,7.7,12.0,3.3,.095,-1.0,0.4,,"Marshall in Carrolton, Mississippi"
-norwowi01,1977-78,30,"DET,POR",NBA,35,17.5,.409,.667,3.4,0.9,0.9,0.1,5.7,8.2,0.5,.037,-2.6,-0.1,,"Marshall in Carrolton, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Willie Norwood,/players/n/norwowi01.html,1972,1978,Alcorn State University,false,"Marshall in Carrolton, Mississippi",-1.67,0.50,norwowi01,1976-77,SEA,12.0,3.3,.095,-1.0,0.4,,29,NBA,76,21.7,.469,.733,3.8,1.3,0.8,0.1,7.7,SEA
+Willie Norwood,/players/n/norwowi01.html,1972,1978,Alcorn State University,false,"Marshall in Carrolton, Mississippi",-1.98,0.06,norwowi01,1977-78,TOT,8.2,0.5,.037,-2.6,-0.1,,30,NBA,35,17.5,.409,.667,3.4,0.9,0.9,0.1,5.7,"DET,POR"

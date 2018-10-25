@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-armstbj01,1989-90,22,CHI,NBA,81,15.9,.485,.885,1.3,2.5,0.6,0.1,5.6,11.9,1.7,.064,-4.8,-0.9,,"Brother Rice in Birmingham, Michigan",
-armstbj01,1990-91,23,Chicago Bulls,NBA,82,21.1,.481,.874,1.8,3.7,0.9,0.0,8.8,14.8,4.1,.114,-1.8,0.1,,"Brother Rice in Birmingham, Michigan",425000
-armstbj01,1991-92,24,Chicago Bulls,NBA,82,22.9,.481,.806,1.8,3.2,0.6,0.1,9.9,14.1,4.6,.117,-2.0,0.0,,"Brother Rice in Birmingham, Michigan",435000
-armstbj01,1992-93,25,Chicago Bulls,NBA,82,30.4,.499,.861,1.8,4.0,0.8,0.1,12.3,14.7,7.5,.144,-0.9,0.7,,"Brother Rice in Birmingham, Michigan",540000
-armstbj01,1993-94,26,Chicago Bulls,NBA,82,33.8,.476,.855,2.1,3.9,1.0,0.1,14.8,14.5,7.5,.130,-0.9,0.8,,"Brother Rice in Birmingham, Michigan",620000
-armstbj01,1994-95,27,Chicago Bulls,NBA,82,31.4,.468,.884,2.3,3.0,1.0,0.1,14.0,15.1,8.1,.152,0.2,1.4,,"Brother Rice in Birmingham, Michigan",2800000
-armstbj01,1995-96,28,Golden State Warriors,NBA,82,27.6,.468,.839,2.2,4.9,0.8,0.1,12.3,17.3,7.0,.149,0.1,1.2,,"Brother Rice in Birmingham, Michigan",2400000
-armstbj01,1996-97,29,Golden State Warriors,NBA,49,20.8,.453,.861,1.5,2.6,0.5,0.0,7.9,12.9,1.3,.061,-3.9,-0.5,,"Brother Rice in Birmingham, Michigan",2400000
-armstbj01,1997-98,30,Golden State Warriors,NBA,66,12.6,.493,.840,1.2,2.3,0.4,0.0,4.0,14.6,2.2,.124,-2.3,-0.1,,"Brother Rice in Birmingham, Michigan",2600000
-armstbj01,1997-98,30,Golden State Warriors,NBA,4,14.8,.316,.714,1.8,1.5,1.0,0.0,4.3,6.3,-0.1,-0.092,-6.3,-0.1,,"Brother Rice in Birmingham, Michigan",2600000
-armstbj01,1997-98,30,Golden State Warriors,NBA,62,12.5,.510,.860,1.1,2.3,0.4,0.0,3.9,15.2,2.3,.141,-2.0,0.0,,"Brother Rice in Birmingham, Michigan",2600000
-armstbj01,1998-99,31,Los Angeles Lakers,NBA,32,11.2,.455,.857,1.2,1.9,0.4,0.0,3.3,12.9,0.7,.100,-3.4,-0.1,,"Brother Rice in Birmingham, Michigan",2800000
-armstbj01,1998-99,31,Los Angeles Lakers,NBA,10,17.8,.488,.900,1.6,2.7,0.3,0.0,5.7,13.3,0.4,.114,-3.4,-0.1,,"Brother Rice in Birmingham, Michigan",2800000
-armstbj01,1998-99,31,Los Angeles Lakers,NBA,22,8.2,.422,.818,1.0,1.5,0.4,0.0,2.2,12.4,0.3,.087,-3.5,-0.1,,"Brother Rice in Birmingham, Michigan",2800000
-armstbj01,1999-00,32,Chicago Bulls,NBA,27,21.6,.446,.880,1.7,2.9,0.3,0.0,7.4,10.7,0.4,.030,-6.4,-0.6,,"Brother Rice in Birmingham, Michigan",510000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-2.56,-0.21,armstbj01,1989-90,CHI,11.9,1.7,.064,-4.8,-0.9,,22,NBA,81,15.9,.485,.885,1.3,2.5,0.6,0.1,5.6,CHI,
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-0.32,2.66,armstbj01,1990-91,CHI,14.8,4.1,.114,-1.8,0.1,,23,NBA,82,21.1,.481,.874,1.8,3.7,0.9,0.0,8.8,CHI,425000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-0.63,2.60,armstbj01,1991-92,CHI,14.1,4.6,.117,-2.0,0.0,,24,NBA,82,22.9,.481,.806,1.8,3.2,0.6,0.1,9.9,CHI,435000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",+0.70,6.27,armstbj01,1992-93,CHI,14.7,7.5,.144,-0.9,0.7,,25,NBA,82,30.4,.499,.861,1.8,4.0,0.8,0.1,12.3,CHI,540000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",+0.66,6.26,armstbj01,1993-94,CHI,14.5,7.5,.130,-0.9,0.8,,26,NBA,82,33.8,.476,.855,2.1,3.9,1.0,0.1,14.8,CHI,620000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",+1.39,7.09,armstbj01,1994-95,CHI,15.1,8.1,.152,0.2,1.4,,27,NBA,82,31.4,.468,.884,2.3,3.0,1.0,0.1,14.0,CHI,2800000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",+0.52,4.26,armstbj01,1995-96,GSW,17.3,7.0,.149,0.1,1.2,,28,NBA,82,27.6,.468,.839,2.2,4.9,0.8,0.1,12.3,GSW,2400000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-2.40,-0.04,armstbj01,1996-97,GSW,12.9,1.3,.061,-3.9,-0.5,,29,NBA,49,20.8,.453,.861,1.5,2.6,0.5,0.0,7.9,GSW,2400000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-1.52,0.46,armstbj01,1997-98,TOT,14.6,2.2,.124,-2.3,-0.1,,30,NBA,66,12.6,.493,.840,1.2,2.3,0.4,0.0,4.0,"GSW,CHH",2600000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-1.19,0.25,armstbj01,1998-99,TOT,12.9,0.7,.100,-3.4,-0.1,,31,NBA,32,11.2,.455,.857,1.2,1.9,0.4,0.0,3.3,"CHH,ORL",2800000
+B.J. Armstrong,/players/a/armstbj01.html,1990,2000,University of Iowa,false,"Brother Rice in Birmingham, Michigan",-3.02,-0.37,armstbj01,1999-00,CHI,10.7,0.4,.030,-6.4,-0.6,,32,NBA,27,21.6,.446,.880,1.7,2.9,0.3,0.0,7.4,CHI,510000

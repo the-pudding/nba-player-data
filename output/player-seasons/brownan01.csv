@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownan01,2006-07,25,Seattle SuperSonics,NBA,38,7.1,.568,.600,1.9,0.1,0.2,0.1,2.4,11.1,0.0,-0.002,-8.5,-0.4,,241591,"Leo in Chicago, Illinois"
-brownan01,2007-08,26,Memphis Grizzlies,NBA,33,8.7,.500,.449,2.8,0.2,0.2,0.1,3.0,13.5,0.4,.068,-5.1,-0.2,,711517,"Leo in Chicago, Illinois"
-brownan01,2008-09,27,Charlotte Bobcats,NBA,4,10.3,.143,1.000,3.0,0.3,0.3,0.0,1.0,-1.5,-0.1,-0.122,-9.3,-0.1,,107908,"Leo in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Brown,/players/b/brownan01.html,2007,2009,DePaul University,false,"Leo in Chicago, Illinois",-2.15,0.01,brownan01,2006-07,SEA,11.1,0.0,-0.002,-8.5,-0.4,,NBA,241591,25,38,7.1,.568,.600,1.9,0.1,0.2,0.1,2.4,SEA
+Andre Brown,/players/b/brownan01.html,2007,2009,DePaul University,false,"Leo in Chicago, Illinois",-1.43,0.18,brownan01,2007-08,MEM,13.5,0.4,.068,-5.1,-0.2,,NBA,711517,26,33,8.7,.500,.449,2.8,0.2,0.2,0.1,3.0,MEM
+Andre Brown,/players/b/brownan01.html,2007,2009,DePaul University,false,"Leo in Chicago, Illinois",-0.40,0.05,brownan01,2008-09,CHA,-1.5,-0.1,-0.122,-9.3,-0.1,,NBA,107908,27,4,10.3,.143,1.000,3.0,0.3,0.3,0.0,1.0,CHA

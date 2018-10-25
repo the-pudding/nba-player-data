@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-barketo01,1976-77,21,ATL,NBA,59,22.9,.417,.683,6.8,1.0,0.6,0.7,8.1,11.5,1.0,.035,-3.2,-0.4,,"Welasco in Harlingen, Texas"
-barketo01,1977-78,22,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Welasco in Harlingen, Texas"
-barketo01,1978-79,23,"HOU,BOS,NYK",NBA,39,12.2,.436,.730,3.1,0.4,0.3,0.3,4.2,9.1,0.3,.031,-5.6,-0.4,,"Welasco in Harlingen, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tom Barker,/players/b/barketo01.html,1977,1979,University of Hawaii,false,"Welasco in Harlingen, Texas",-1.55,0.54,barketo01,1976-77,ATL,11.5,1.0,.035,-3.2,-0.4,,21,NBA,59,22.9,.417,.683,6.8,1.0,0.6,0.7,8.1,ATL
+Tom Barker,/players/b/barketo01.html,1977,1979,University of Hawaii,false,"Welasco in Harlingen, Texas",,,barketo01,1977-78,Did Not Play (other pro league—CBA),,,,,,,22,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Tom Barker,/players/b/barketo01.html,1977,1979,University of Hawaii,false,"Welasco in Harlingen, Texas",-2.46,-0.08,barketo01,1978-79,TOT,9.1,0.3,.031,-5.6,-0.4,,23,NBA,39,12.2,.436,.730,3.1,0.4,0.3,0.3,4.2,"HOU,BOS,NYK"

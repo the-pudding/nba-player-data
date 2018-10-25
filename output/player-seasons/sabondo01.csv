@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sabondo01,2016-17,20,Oklahoma City Thunder,NBA,81,20.1,.399,.657,3.6,1.0,0.5,0.4,5.9,6.9,0.8,.022,-4.8,-1.2,,2440200,
-sabondo01,2017-18,21,Indiana Pacers,NBA,74,24.5,.514,.750,7.7,2.0,0.5,0.4,11.6,17.5,4.7,.126,-0.2,0.8,,2550000,
-sabondo01,2018-19,22,IND,NBA,4,22.3,.618,.700,11.3,2.3,0.8,0.5,12.5,28.7,0.6,.314,9.0,0.2,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Domantas Sabonis,/players/s/sabondo01.html,2017,2019,Gonzaga University,true,,-2.03,0.25,sabondo01,2016-17,OKC,6.9,0.8,.022,-4.8,-1.2,,NBA,2440200,20,81,20.1,.399,.657,3.6,1.0,0.5,0.4,5.9,OKC
+Domantas Sabonis,/players/s/sabondo01.html,2017,2019,Gonzaga University,true,,-0.91,1.85,sabondo01,2017-18,IND,17.5,4.7,.126,-0.2,0.8,,NBA,2550000,21,74,24.5,.514,.750,7.7,2.0,0.5,0.4,11.6,IND
+Domantas Sabonis,/players/s/sabondo01.html,2017,2019,Gonzaga University,true,,,,sabondo01,2018-19,IND,28.7,0.6,.314,9.0,0.2,,NBA,,22,4,22.3,.618,.700,11.3,2.3,0.8,0.5,12.5,IND

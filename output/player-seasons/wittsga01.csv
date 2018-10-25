@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wittsga01,1981-82,22,WSB,NBA,46,10.7,.583,.825,1.3,0.8,0.4,0.1,2.9,9.5,1.1,.104,-0.2,0.2,,"St. Joseph in Metuchen, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Garry Witts,/players/w/wittsga01.html,1982,1982,College of the Holy Cross,false,"St. Joseph in Metuchen, New Jersey",-1.58,0.22,wittsga01,1981-82,WSB,9.5,1.1,.104,-0.2,0.2,,22,NBA,46,10.7,.583,.825,1.3,0.8,0.4,0.1,2.9,WSB

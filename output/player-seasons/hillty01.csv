@@ -1,19 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hillty01,1990-91,22,Golden State Warriors,NBA,74,16.1,.492,.632,5.2,0.3,0.4,0.4,5.3,10.5,2.1,.084,-3.9,-0.6,,1000000,"Withrow in Cincinnati, Ohio"
-hillty01,1991-92,23,Golden State Warriors,NBA,82,23.0,.522,.694,7.2,0.6,0.9,0.5,8.2,12.8,4.5,.114,-1.5,0.2,,1200000,"Withrow in Cincinnati, Ohio"
-hillty01,1992-93,24,Golden State Warriors,NBA,74,28.0,.508,.624,10.2,0.9,0.6,0.5,8.6,12.9,4.9,.112,-1.1,0.4,,1400000,"Withrow in Cincinnati, Ohio"
-hillty01,1993-94,25,Cleveland Cavaliers,NBA,57,25.4,.543,.668,8.8,0.8,0.9,0.6,10.6,18.4,5.7,.191,1.0,1.1,,1075000,"Withrow in Cincinnati, Ohio"
-hillty01,1994-95,26,Cleveland Cavaliers,NBA,70,34.2,.504,.662,10.9,0.8,0.8,0.6,13.8,16.8,6.9,.138,-1.1,0.5,,2820000,"Withrow in Cincinnati, Ohio"
-hillty01,1995-96,27,Cleveland Cavaliers,NBA,44,21.1,.512,.600,5.5,0.8,0.7,0.5,7.8,14.6,1.9,.101,-2.5,-0.1,,3425000,"Withrow in Cincinnati, Ohio"
-hillty01,1996-97,28,Cleveland Cavaliers,NBA,74,34.9,.600,.633,9.9,1.2,0.9,0.4,12.9,17.8,9.9,.184,1.7,2.4,,3480000,"Withrow in Cincinnati, Ohio"
-hillty01,1997-98,29,Milwaukee Bucks,NBA,57,36.2,.498,.608,10.7,1.5,1.2,0.5,10.0,13.6,4.8,.113,1.2,1.6,,4110000,"Withrow in Cincinnati, Ohio"
-hillty01,1998-99,30,Philadelphia 76ers,NBA,38,29.1,.455,.540,7.6,0.9,0.9,0.4,8.6,12.3,2.2,.095,-1.1,0.3,,5352000,"Withrow in Cincinnati, Ohio"
-hillty01,1998-99,30,Philadelphia 76ers,NBA,17,30.4,.424,.568,7.9,1.0,1.1,0.5,8.6,12.3,1.0,.093,-0.7,0.2,,5352000,"Withrow in Cincinnati, Ohio"
-hillty01,1998-99,30,Philadelphia 76ers,NBA,21,28.0,.480,.507,7.3,0.9,0.8,0.4,8.5,12.2,1.2,.096,-1.4,0.1,,5352000,"Withrow in Cincinnati, Ohio"
-hillty01,1999-00,31,Philadelphia 76ers,NBA,68,31.7,.485,.691,9.2,0.8,0.9,0.4,12.0,14.6,5.7,.128,-0.8,0.7,,6422400,"Withrow in Cincinnati, Ohio"
-hillty01,2000-01,32,Philadelphia 76ers,NBA,76,31.1,.474,.630,9.0,0.6,0.5,0.4,9.6,12.4,5.5,.111,-1.7,0.2,,7300000,"Withrow in Cincinnati, Ohio"
-hillty01,2001-02,33,Cleveland Cavaliers,NBA,26,31.2,.390,.650,10.5,0.9,0.7,0.5,8.0,10.1,0.6,.036,-4.5,-0.5,,6600000,"Withrow in Cincinnati, Ohio"
-hillty01,2002-03,34,Cleveland Cavaliers,NBA,56,24.1,.422,.675,7.0,0.7,0.8,0.5,5.6,9.9,1.4,.049,-3.4,-0.5,,6600000,"Withrow in Cincinnati, Ohio"
-hillty01,2002-03,34,Cleveland Cavaliers,NBA,32,26.7,.431,.733,8.3,1.0,1.0,0.6,6.3,10.3,0.6,.036,-3.7,-0.4,,6600000,"Withrow in Cincinnati, Ohio"
-hillty01,2002-03,34,Cleveland Cavaliers,NBA,24,20.7,.404,.600,5.2,0.4,0.6,0.3,4.5,9.3,0.7,.072,-3.1,-0.1,,6600000,"Withrow in Cincinnati, Ohio"
-hillty01,2003-04,35,Miami Heat,NBA,5,7.6,.600,.750,1.6,0.0,0.0,0.2,1.8,8.2,0.1,.123,-6.4,0.0,,221829,"Withrow in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-2.12,0.18,hillty01,1990-91,GSW,10.5,2.1,.084,-3.9,-0.6,,NBA,1000000,22,74,16.1,.492,.632,5.2,0.3,0.4,0.4,5.3,GSW
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-0.21,2.71,hillty01,1991-92,GSW,12.8,4.5,.114,-1.5,0.2,,NBA,1200000,23,82,23.0,.522,.694,7.2,0.6,0.9,0.5,8.2,GSW
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-0.34,2.73,hillty01,1992-93,GSW,12.9,4.9,.112,-1.1,0.4,,NBA,1400000,24,74,28.0,.508,.624,10.2,0.9,0.6,0.5,8.6,GSW
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",+1.20,3.70,hillty01,1993-94,CLE,18.4,5.7,.191,1.0,1.1,,NBA,1075000,25,57,25.4,.543,.668,8.8,0.8,0.9,0.6,10.6,CLE
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",+0.60,4.97,hillty01,1994-95,CLE,16.8,6.9,.138,-1.1,0.5,,NBA,2820000,26,70,34.2,.504,.662,10.9,0.8,0.8,0.6,13.8,CLE
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-1.24,0.69,hillty01,1995-96,CLE,14.6,1.9,.101,-2.5,-0.1,,NBA,3425000,27,44,21.1,.512,.600,5.5,0.8,0.7,0.5,7.8,CLE
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",+1.43,6.56,hillty01,1996-97,CLE,17.8,9.9,.184,1.7,2.4,,NBA,3480000,28,74,34.9,.600,.633,9.9,1.2,0.9,0.4,12.9,CLE
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-0.30,2.75,hillty01,1997-98,MIL,13.6,4.8,.113,1.2,1.6,,NBA,4110000,29,57,36.2,.498,.608,10.7,1.5,1.2,0.5,10.0,MIL
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-1.52,0.58,hillty01,1998-99,TOT,12.3,2.2,.095,-1.1,0.3,,NBA,5352000,30,38,29.1,.455,.540,7.6,0.9,0.9,0.4,8.6,"MIL,PHI"
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-0.08,3.72,hillty01,1999-00,PHI,14.6,5.7,.128,-0.8,0.7,,NBA,6422400,31,68,31.7,.485,.691,9.2,0.8,0.9,0.4,12.0,PHI
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-0.36,3.99,hillty01,2000-01,PHI,12.4,5.5,.111,-1.7,0.2,,NBA,7300000,32,76,31.1,.474,.630,9.0,0.6,0.5,0.4,9.6,PHI
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-0.47,0.98,hillty01,2001-02,CLE,10.1,0.6,.036,-4.5,-0.5,,NBA,6600000,33,26,31.2,.390,.650,10.5,0.9,0.7,0.5,8.0,CLE
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",-2.00,0.17,hillty01,2002-03,TOT,9.9,1.4,.049,-3.4,-0.5,,NBA,6600000,34,56,24.1,.422,.675,7.0,0.7,0.8,0.5,5.6,"CLE,PHI"
+Tyrone Hill,/players/h/hillty01.html,1991,2004,Xavier University,false,"Withrow in Cincinnati, Ohio",+0.05,0.06,hillty01,2003-04,MIA,8.2,0.1,.123,-6.4,0.0,,NBA,221829,35,5,7.6,.600,.750,1.6,0.0,0.0,0.2,1.8,MIA

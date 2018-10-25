@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wilsomi01,1983-84,24,WSB,NBA,6,4.3,.000,.500,0.2,0.5,0.0,0.0,0.2,-5.5,-0.1,-0.159,-12.1,-0.1,,"Manassas in Memphis, Tennessee"
-wilsomi01,1984-85,25,"CLE,NJN",NBA,19,14.1,.468,.750,1.6,1.8,0.7,0.3,5.2,13.3,0.4,.079,-0.9,0.1,,"Manassas in Memphis, Tennessee"
-wilsomi01,1985-86,26,Did Not Play (other pro league—USBL),,,,,,,,,,,,,,,,,"Manassas in Memphis, Tennessee"
-wilsomi01,1986-87,27,"NJN,ATL",NBA,7,6.4,.300,1.000,0.6,1.0,0.1,0.0,1.1,0.3,-0.1,-0.098,-9.2,-0.1,,"Manassas in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Wilson,/players/w/wilsomi01.html,1984,1987,Marquette University,false,"Manassas in Memphis, Tennessee",+0.42,0.05,wilsomi01,1983-84,WSB,-5.5,-0.1,-0.159,-12.1,-0.1,,24,NBA,6,4.3,.000,.500,0.2,0.5,0.0,0.0,0.2,WSB
+Michael Wilson,/players/w/wilsomi01.html,1984,1987,Marquette University,false,"Manassas in Memphis, Tennessee",-0.70,0.28,wilsomi01,1984-85,TOT,13.3,0.4,.079,-0.9,0.1,,25,NBA,19,14.1,.468,.750,1.6,1.8,0.7,0.3,5.2,"CLE,NJN"
+Michael Wilson,/players/w/wilsomi01.html,1984,1987,Marquette University,false,"Manassas in Memphis, Tennessee",,,wilsomi01,1985-86,Did Not Play (other pro league—USBL),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—USBL)
+Michael Wilson,/players/w/wilsomi01.html,1984,1987,Marquette University,false,"Manassas in Memphis, Tennessee",-0.05,0.07,wilsomi01,1986-87,TOT,0.3,-0.1,-0.098,-9.2,-0.1,,27,NBA,7,6.4,.300,1.000,0.6,1.0,0.1,0.0,1.1,"NJN,ATL"

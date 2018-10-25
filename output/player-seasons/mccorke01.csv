@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mccorke01,1980-81,23,WSB,NBA,2,4.5,.500,,1.0,0.5,0.0,0.0,2.0,7.9,0.0,-0.136,-7.7,0.0,,"West End in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith McCord,/players/m/mccorke01.html,1981,1981,"University of Alabama, University of Alabama at Birmingham",false,"West End in Birmingham, Alabama",+0.88,0.02,mccorke01,1980-81,WSB,7.9,0.0,-0.136,-7.7,0.0,,23,NBA,2,4.5,.500,,1.0,0.5,0.0,0.0,2.0,WSB

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnske01,1985-86,23,Portland Trail Blazers,NBA,64,12.7,.528,.435,3.8,0.3,0.2,0.3,4.1,9.3,0.8,.044,-5.0,-0.6,,106000,"La Jolla in La Jolla, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ken Johnson,/players/j/johnske01.html,1986,1986,"University of Southern California, Michigan State University",false,"La Jolla in La Jolla, California",-2.52,-0.13,johnske01,1985-86,POR,9.3,0.8,.044,-5.0,-0.6,,NBA,106000,23,64,12.7,.528,.435,3.8,0.3,0.2,0.3,4.1,POR

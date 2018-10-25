@@ -1,16 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wilksmi01,2002-03,23,Atlanta Hawks,NBA,46,15.0,.338,.787,1.5,2.0,0.6,0.1,3.2,9.3,0.7,.049,-3.1,-0.2,,55402,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2002-03,23,Atlanta Hawks,NBA,15,24.3,.358,.724,2.7,2.8,1.1,0.1,5.7,9.4,0.3,.042,-2.9,-0.1,,55402,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2002-03,23,Atlanta Hawks,NBA,31,10.5,.313,.889,1.0,1.6,0.4,0.1,2.0,9.1,0.4,.056,-3.4,-0.1,,55402,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2003-04,24,Houston Rockets,NBA,26,5.6,.472,.833,0.6,0.7,0.1,0.0,1.9,14.4,0.5,.169,-1.9,0.0,,638679,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2004-05,25,Chicago Bulls,NBA,48,5.8,.416,.750,0.5,0.7,0.3,0.0,1.7,11.0,0.6,.099,-2.2,0.0,,720046,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2005-06,26,Cleveland Cavaliers,NBA,47,7.4,.322,.610,0.8,0.7,0.3,0.0,1.8,5.8,-0.3,-0.042,-6.3,-0.4,,745248,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2005-06,26,Cleveland Cavaliers,NBA,37,6.6,.288,.500,0.7,0.5,0.2,0.0,1.1,2.0,-0.4,-0.075,-7.3,-0.3,,745248,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2005-06,26,Cleveland Cavaliers,NBA,10,10.5,.387,.655,1.2,1.4,0.6,0.0,4.4,14.6,0.1,.035,-3.8,0.0,,745248,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2006-07,27,Seattle SuperSonics,NBA,47,11.4,.468,.786,1.1,1.7,0.3,0.1,3.6,12.7,0.8,.070,-3.2,-0.2,,798112,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2007-08,28,Denver Nuggets,NBA,15,12.5,.472,1.000,1.3,0.9,0.6,0.0,2.7,8.6,0.2,.052,-2.9,0.0,,162281,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2007-08,28,Denver Nuggets,NBA,8,15.3,.435,1.000,1.5,0.8,0.6,0.0,3.0,6.4,0.1,.032,-3.6,0.0,,162281,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2007-08,28,Denver Nuggets,NBA,4,11.0,.500,,1.5,0.8,0.8,0.0,1.3,10.1,0.1,.094,0.2,0.0,,162281,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2007-08,28,Denver Nuggets,NBA,3,7.3,.556,1.000,0.3,1.7,0.3,0.0,4.0,17.7,0.0,.074,-5.6,0.0,,162281,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2008-09,29,Memphis Grizzlies,NBA,,,,,,,,,,,,,,,,998398,"Rufus King in Milwaukee, Wisconsin"
-wilksmi01,2009-10,30,Oklahoma City Thunder,NBA,4,14.8,.500,.500,1.0,1.0,0.0,0.0,4.0,5.9,0.0,.023,-6.2,-0.1,,175908,"Rufus King in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",-1.75,0.19,wilksmi01,2002-03,TOT,9.3,0.7,.049,-3.1,-0.2,,NBA,55402,23,46,15.0,.338,.787,1.5,2.0,0.6,0.1,3.2,"ATL,MIN"
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",+0.17,0.24,wilksmi01,2003-04,HOU,14.4,0.5,.169,-1.9,0.0,,NBA,638679,24,26,5.6,.472,.833,0.6,0.7,0.1,0.0,1.9,HOU
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",-2.44,-0.04,wilksmi01,2004-05,SAS,11.0,0.6,.099,-2.2,0.0,,NBA,720046,25,48,5.8,.416,.750,0.5,0.7,0.3,0.0,1.7,SAS
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",-1.99,0.05,wilksmi01,2005-06,TOT,5.8,-0.3,-0.042,-6.3,-0.4,,NBA,745248,26,47,7.4,.322,.610,0.8,0.7,0.3,0.0,1.8,"CLE,SEA"
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",-1.04,0.45,wilksmi01,2006-07,SEA,12.7,0.8,.070,-3.2,-0.2,,NBA,798112,27,47,11.4,.468,.786,1.1,1.7,0.3,0.1,3.6,SEA
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",-1.27,0.12,wilksmi01,2007-08,TOT,8.6,0.2,.052,-2.9,0.0,,NBA,162281,28,15,12.5,.472,1.000,1.3,0.9,0.6,0.0,2.7,"DEN,WAS,SEA"
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",,,wilksmi01,2008-09,Did Not Play (injury—knee),,,,,,,NBA,998398,29,,,,,,,,,,Did Not Play (injury—knee)
+Mike Wilks,/players/w/wilksmi01.html,2003,2010,Rice University,false,"Rufus King in Milwaukee, Wisconsin",-0.87,0.06,wilksmi01,2009-10,OKC,5.9,0.0,.023,-6.2,-0.1,,NBA,175908,30,4,14.8,.500,.500,1.0,1.0,0.0,0.0,4.0,OKC

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lorthry01,1994-95,22,GSW,NBA,37,18.2,.475,.648,1.9,2.7,0.8,0.0,7.4,12.9,0.4,.032,-3.7,-0.3,,"Murrah in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ryan Lorthridge,/players/l/lorthry01.html,1995,1995,Jackson State University,false,"Murrah in Jackson, Mississippi",-2.40,-0.03,lorthry01,1994-95,GSW,12.9,0.4,.032,-3.7,-0.3,,22,NBA,37,18.2,.475,.648,1.9,2.7,0.8,0.0,7.4,GSW

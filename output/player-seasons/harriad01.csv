@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harriad01,2002-03,22,Dallas Mavericks,NBA,19,5.8,.297,.750,0.4,0.6,0.1,0.1,1.6,7.4,0.0,.017,-7.1,-0.1,,140636,"Pioneer Valley Regional in Bernardston, Massachusetts"
-harriad01,2002-03,22,Dallas Mavericks,NBA,13,2.8,.235,1.000,0.2,0.2,0.1,0.1,0.8,1.4,-0.1,-0.164,-12.6,-0.1,,140636,"Pioneer Valley Regional in Bernardston, Massachusetts"
-harriad01,2002-03,22,Dallas Mavericks,NBA,6,12.3,.350,.500,1.0,1.7,0.2,0.0,3.2,10.4,0.2,.108,-4.4,0.0,,140636,"Pioneer Valley Regional in Bernardston, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Adam Harrington,/players/h/harriad01.html,2003,2003,"North Carolina State University, Auburn University",false,"Pioneer Valley Regional in Bernardston, Massachusetts",-0.46,0.13,harriad01,2002-03,TOT,7.4,0.0,.017,-7.1,-0.1,,NBA,140636,22,19,5.8,.297,.750,0.4,0.6,0.1,0.1,1.6,"DAL,DEN"

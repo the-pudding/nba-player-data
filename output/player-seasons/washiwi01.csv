@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-washiwi01,1977-78,22,"PHI,NJN",NBA,38,14.8,.485,.547,4.1,0.3,0.5,1.0,6.0,11.4,0.3,.026,-4.4,-0.3,,"Booker T. Washington in Norfolk, Virginia"
-washiwi01,1978-79,23,NJN,NBA,62,18.4,.502,.635,4.7,0.8,0.5,1.1,8.1,12.9,1.8,.077,-2.5,-0.1,,"Booker T. Washington in Norfolk, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wilson Washington,/players/w/washiwi01.html,1978,1979,Old Dominion University,false,"Booker T. Washington in Norfolk, Virginia",-1.47,0.26,washiwi01,1977-78,TOT,11.4,0.3,.026,-4.4,-0.3,,22,NBA,38,14.8,.485,.547,4.1,0.3,0.5,1.0,6.0,"PHI,NJN"
+Wilson Washington,/players/w/washiwi01.html,1978,1979,Old Dominion University,false,"Booker T. Washington in Norfolk, Virginia",-0.83,1.07,washiwi01,1978-79,NJN,12.9,1.8,.077,-2.5,-0.1,,23,NBA,62,18.4,.502,.635,4.7,0.8,0.5,1.1,8.1,NJN

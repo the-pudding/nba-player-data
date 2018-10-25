@@ -1,17 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thornma01,2009-10,22,New Orleans Hornets,NBA,73,25.6,.451,.814,2.9,1.6,0.8,0.2,14.5,17.4,4.0,.103,-0.4,0.8,,457888,"Tara in Baton Rouge, Louisiana"
-thornma01,2010-11,23,Sacramento Kings,NBA,73,24.3,.434,.788,3.5,1.8,0.9,0.1,12.8,16.5,3.5,.095,0.0,0.9,,762195,"Tara in Baton Rouge, Louisiana"
-thornma01,2010-11,23,Sacramento Kings,NBA,46,16.2,.410,.758,2.8,0.9,0.4,0.1,7.8,14.0,0.9,.057,-3.1,-0.2,,762195,"Tara in Baton Rouge, Louisiana"
-thornma01,2010-11,23,Sacramento Kings,NBA,27,38.1,.450,.805,4.7,3.4,1.7,0.2,21.3,18.2,2.6,.123,2.2,1.1,,762195,"Tara in Baton Rouge, Louisiana"
-thornma01,2011-12,24,Sacramento Kings,NBA,51,34.9,.438,.865,3.7,1.9,1.4,0.2,18.7,17.4,3.8,.103,1.0,1.3,,7000000,"Tara in Baton Rouge, Louisiana"
-thornma01,2012-13,25,Sacramento Kings,NBA,72,24.0,.429,.881,2.5,1.3,0.8,0.1,12.7,16.3,3.2,.089,-0.7,0.6,,7525000,"Tara in Baton Rouge, Louisiana"
-thornma01,2013-14,26,Sacramento Kings,NBA,72,24.2,.394,.804,2.8,1.1,0.8,0.2,9.8,12.0,2.0,.055,-1.6,0.2,,8050000,"Tara in Baton Rouge, Louisiana"
-thornma01,2013-14,26,Sacramento Kings,NBA,46,24.4,.381,.808,2.7,1.0,0.7,0.2,8.3,9.7,0.9,.038,-2.1,0.0,,8050000,"Tara in Baton Rouge, Louisiana"
-thornma01,2013-14,26,Sacramento Kings,NBA,26,23.8,.414,.800,2.8,1.2,1.0,0.1,12.3,16.1,1.1,.087,-0.7,0.2,,8050000,"Tara in Baton Rouge, Louisiana"
-thornma01,2014-15,27,Phoenix Suns,NBA,48,15.0,.406,.821,1.8,0.8,0.6,0.1,7.9,15.0,1.2,.083,-2.4,-0.1,,8575000,"Tara in Baton Rouge, Louisiana"
-thornma01,2014-15,27,Phoenix Suns,NBA,39,16.4,.416,.824,1.9,0.9,0.5,0.2,8.9,15.8,1.4,.104,-1.7,0.0,,8575000,"Tara in Baton Rouge, Louisiana"
-thornma01,2014-15,27,Phoenix Suns,NBA,9,9.0,.325,.800,1.4,0.2,0.7,0.0,3.6,8.3,-0.1,-0.077,-7.7,-0.1,,8575000,"Tara in Baton Rouge, Louisiana"
-thornma01,2015-16,28,Houston Rockets,NBA,61,18.2,.399,.848,2.5,1.4,0.8,0.1,9.7,14.7,1.7,.074,-2.1,0.0,,1186000,"Tara in Baton Rouge, Louisiana"
-thornma01,2015-16,28,Houston Rockets,NBA,47,18.8,.400,.879,2.4,1.4,0.7,0.1,10.0,14.6,1.3,.072,-2.5,-0.1,,1186000,"Tara in Baton Rouge, Louisiana"
-thornma01,2015-16,28,Houston Rockets,NBA,14,16.0,.393,.762,2.5,1.4,0.9,0.1,8.4,15.5,0.4,.080,-0.7,0.1,,1186000,"Tara in Baton Rouge, Louisiana"
-thornma01,2016-17,29,Brooklyn Nets,NBA,33,17.4,.400,.852,2.3,1.2,0.6,0.1,6.6,10.4,0.5,.042,-3.2,-0.2,,1315448,"Tara in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-0.42,2.37,thornma01,2009-10,NOH,17.4,4.0,.103,-0.4,0.8,,NBA,457888,22,73,25.6,.451,.814,2.9,1.6,0.8,0.2,14.5,NOH
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-0.99,1.53,thornma01,2010-11,TOT,16.5,3.5,.095,0.0,0.9,,NBA,762195,23,73,24.3,.434,.788,3.5,1.8,0.9,0.1,12.8,"NOH,SAC"
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-0.73,1.86,thornma01,2011-12,SAC,17.4,3.8,.103,1.0,1.3,,NBA,7000000,24,51,34.9,.438,.865,3.7,1.9,1.4,0.2,18.7,SAC
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-2.85,-0.61,thornma01,2012-13,SAC,16.3,3.2,.089,-0.7,0.6,,NBA,7525000,25,72,24.0,.429,.881,2.5,1.3,0.8,0.1,12.7,SAC
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-1.79,0.63,thornma01,2013-14,TOT,12.0,2.0,.055,-1.6,0.2,,NBA,8050000,26,72,24.2,.394,.804,2.8,1.1,0.8,0.2,9.8,"SAC,BRK"
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-0.16,1.03,thornma01,2014-15,TOT,15.0,1.2,.083,-2.4,-0.1,,NBA,8575000,27,48,15.0,.406,.821,1.8,0.8,0.6,0.1,7.9,"BOS,PHO"
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-1.21,0.80,thornma01,2015-16,TOT,14.7,1.7,.074,-2.1,0.0,,NBA,1186000,28,61,18.2,.399,.848,2.5,1.4,0.8,0.1,9.7,"HOU,WAS"
+Marcus Thornton,/players/t/thornma01.html,2010,2017,Louisiana State University,true,"Tara in Baton Rouge, Louisiana",-4.79,-0.87,thornma01,2016-17,WAS,10.4,0.5,.042,-3.2,-0.2,,NBA,1315448,29,33,17.4,.400,.852,2.3,1.2,0.6,0.1,6.6,WAS

@@ -1,22 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsan02,1997-98,23,Sacramento Kings,NBA,77,29.4,.371,.727,2.2,4.3,0.8,0.1,7.5,8.6,0.4,.008,-4.3,-1.3,,242000,"Stall in Charleston, South Carolina"
-johnsan02,1998-99,24,Atlanta Hawks,NBA,49,18.1,.404,.695,1.5,2.2,0.7,0.1,5.0,10.6,1.1,.061,-2.1,0.0,,1000000,"Stall in Charleston, South Carolina"
-johnsan02,1999-00,25,Orlando Magic,NBA,56,11.4,.378,.718,0.9,1.3,0.6,0.1,2.8,9.1,0.3,.020,-3.6,-0.3,,1100000,"Stall in Charleston, South Carolina"
-johnsan02,1999-00,25,Orlando Magic,NBA,38,11.1,.350,.792,1.0,1.6,0.6,0.1,2.4,9.2,0.1,.006,-4.0,-0.2,,1100000,"Stall in Charleston, South Carolina"
-johnsan02,1999-00,25,Orlando Magic,NBA,18,11.9,.426,.600,0.7,0.7,0.6,0.1,3.4,8.9,0.2,.049,-3.0,-0.1,,1100000,"Stall in Charleston, South Carolina"
-johnsan02,2000-01,26,Atlanta Hawks,NBA,53,9.6,.349,.697,0.8,1.5,0.4,0.1,2.5,8.1,-0.2,-0.019,-5.7,-0.5,,1200000,"Stall in Charleston, South Carolina"
-johnsan02,2000-01,26,Atlanta Hawks,NBA,25,11.2,.366,.706,0.9,1.4,0.7,0.2,2.6,7.2,-0.1,-0.013,-4.5,-0.2,,1200000,"Stall in Charleston, South Carolina"
-johnsan02,2000-01,26,Atlanta Hawks,NBA,28,8.3,.333,.688,0.8,1.6,0.2,0.0,2.4,9.1,-0.1,-0.025,-7.0,-0.3,,1200000,"Stall in Charleston, South Carolina"
-johnsan02,2001-02,27,NJN,NBA,34,10.8,.411,.640,0.9,1.4,0.9,0.0,2.8,11.8,0.7,.092,-1.4,0.1,,,"Stall in Charleston, South Carolina"
-johnsan02,2002-03,28,New Jersey Nets,NBA,66,12.8,.446,.689,1.2,1.3,0.6,0.1,4.1,11.3,1.8,.105,-2.4,-0.1,,699935,"Stall in Charleston, South Carolina"
-johnsan02,2003-04,29,Indiana Pacers,NBA,73,21.9,.406,.798,1.8,2.8,0.9,0.1,6.2,11.6,3.6,.109,-0.5,0.6,,813679,"Stall in Charleston, South Carolina"
-johnsan02,2004-05,30,Indiana Pacers,NBA,63,27.7,.445,.752,2.8,4.8,0.9,0.2,8.4,14.3,4.0,.110,0.1,0.9,,2200000,"Stall in Charleston, South Carolina"
-johnsan02,2005-06,31,Indiana Pacers,NBA,75,26.4,.443,.752,2.2,4.3,0.8,0.3,9.2,14.2,4.5,.108,-0.3,0.9,,2420000,"Stall in Charleston, South Carolina"
-johnsan02,2006-07,32,Atlanta Hawks,NBA,67,19.4,.414,.754,1.5,3.0,0.5,0.0,5.3,9.9,1.2,.045,-4.1,-0.7,,2640000,"Stall in Charleston, South Carolina"
-johnsan02,2006-07,32,Atlanta Hawks,NBA,40,14.1,.411,.724,1.2,2.0,0.4,0.0,3.8,9.3,0.8,.070,-2.7,-0.1,,2640000,"Stall in Charleston, South Carolina"
-johnsan02,2006-07,32,Atlanta Hawks,NBA,27,27.4,.416,.781,2.0,4.6,0.6,0.1,7.5,10.3,0.4,.026,-5.1,-0.6,,2640000,"Stall in Charleston, South Carolina"
-johnsan02,2007-08,33,Sacramento Kings,NBA,69,22.2,.437,.814,2.0,3.8,0.8,0.1,5.6,11.2,2.0,.061,-3.0,-0.4,,2860000,"Stall in Charleston, South Carolina"
-johnsan02,2007-08,33,Sacramento Kings,NBA,42,26.7,.431,.813,2.3,4.8,1.0,0.2,6.7,12.0,1.8,.077,-2.3,-0.1,,2860000,"Stall in Charleston, South Carolina"
-johnsan02,2007-08,33,Sacramento Kings,NBA,27,15.2,.455,.818,1.4,2.2,0.4,0.0,3.9,8.9,0.2,.020,-5.0,-0.3,,2860000,"Stall in Charleston, South Carolina"
-johnsan02,2008-09,34,Orlando Magic,NBA,80,18.5,.404,.753,1.8,2.5,0.6,0.1,5.3,10.3,2.8,.091,-1.3,0.3,,1910000,"Stall in Charleston, South Carolina"
-johnsan02,2009-10,35,Orlando Magic,NBA,31,13.1,.441,.950,1.5,2.0,0.4,0.0,4.2,12.4,1.0,.116,-0.8,0.1,,2160000,"Stall in Charleston, South Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-3.00,-1.21,johnsan02,1997-98,SAC,8.6,0.4,.008,-4.3,-1.3,,NBA,242000,23,77,29.4,.371,.727,2.2,4.3,0.8,0.1,7.5,SAC
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-1.18,0.67,johnsan02,1998-99,ATL,10.6,1.1,.061,-2.1,0.0,,NBA,1000000,24,49,18.1,.404,.695,1.5,2.2,0.7,0.1,5.0,ATL
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-2.06,0.05,johnsan02,1999-00,TOT,9.1,0.3,.020,-3.6,-0.3,,NBA,1100000,25,56,11.4,.378,.718,0.9,1.3,0.6,0.1,2.8,"ATL,ORL"
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-2.83,-0.26,johnsan02,2000-01,TOT,8.1,-0.2,-0.019,-5.7,-0.5,,NBA,1200000,26,53,9.6,.349,.697,0.8,1.5,0.4,0.1,2.5,"ATL,CLE"
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-1.03,0.42,johnsan02,2001-02,NJN,11.8,0.7,.092,-1.4,0.1,,NBA,,27,34,10.8,.411,.640,0.9,1.4,0.9,0.0,2.8,NJN
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-2.09,0.00,johnsan02,2002-03,NJN,11.3,1.8,.105,-2.4,-0.1,,NBA,699935,28,66,12.8,.446,.689,1.2,1.3,0.6,0.1,4.1,NJN
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-2.78,-0.89,johnsan02,2003-04,IND,11.6,3.6,.109,-0.5,0.6,,NBA,813679,29,73,21.9,.406,.798,1.8,2.8,0.9,0.1,6.2,IND
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-0.93,1.87,johnsan02,2004-05,IND,14.3,4.0,.110,0.1,0.9,,NBA,2200000,30,63,27.7,.445,.752,2.8,4.8,0.9,0.2,8.4,IND
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",+1.66,5.96,johnsan02,2005-06,IND,14.2,4.5,.108,-0.3,0.9,,NBA,2420000,31,75,26.4,.443,.752,2.2,4.3,0.8,0.3,9.2,IND
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-3.30,-0.88,johnsan02,2006-07,TOT,9.9,1.2,.045,-4.1,-0.7,,NBA,2640000,32,67,19.4,.414,.754,1.5,3.0,0.5,0.0,5.3,"DAL,ATL"
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-1.43,0.86,johnsan02,2007-08,TOT,11.2,2.0,.061,-3.0,-0.4,,NBA,2860000,33,69,22.2,.437,.814,2.0,3.8,0.8,0.1,5.6,"ATL,SAC"
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-1.82,0.53,johnsan02,2008-09,ORL,10.3,2.8,.091,-1.3,0.3,,NBA,1910000,34,80,18.5,.404,.753,1.8,2.5,0.6,0.1,5.3,ORL
+Anthony Johnson,/players/j/johnsan02.html,1998,2010,College of Charleston,false,"Stall in Charleston, South Carolina",-0.12,0.60,johnsan02,2009-10,ORL,12.4,1.0,.116,-0.8,0.1,,NBA,2160000,35,31,13.1,.441,.950,1.5,2.0,0.4,0.0,4.2,ORL

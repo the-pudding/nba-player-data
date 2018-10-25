@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-anderan02,2009-10,24,OKC,NBA,1,15.0,.333,,1.0,0.0,0.0,0.0,2.0,-1.7,0.0,-0.104,-11.4,0.0,,"Laurinburg Institute in Laurinburg, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antonio Anderson,/players/a/anderan02.html,2010,2010,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-0.46,0.02,anderan02,2009-10,OKC,-1.7,0.0,-0.104,-11.4,0.0,,24,NBA,1,15.0,.333,,1.0,0.0,0.0,0.0,2.0,OKC

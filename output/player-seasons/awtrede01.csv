@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-awtrede01,1976-77,28,PHO,NBA,72,24.4,.429,.722,4.9,2.5,0.3,0.4,5.7,9.6,2.1,.057,-2.0,0.0,,"Blackford in San Jose, California"
-awtrede01,1977-78,29,PHO,NBA,81,20.0,.424,.633,3.7,2.0,0.2,0.3,3.6,6.1,1.0,.030,-2.8,-0.3,,"Blackford in San Jose, California"
-awtrede01,1978-79,30,"BOS,SEA",NBA,63,11.8,.411,.732,2.4,1.1,0.3,0.2,2.0,6.7,0.7,.046,-2.7,-0.1,,"Blackford in San Jose, California"
-awtrede01,1979-80,31,CHI,NBA,26,21.5,.450,.640,4.4,1.5,0.5,0.6,3.3,7.4,0.6,.053,-1.4,0.1,,"Blackford in San Jose, California"
-awtrede01,1980-81,32,SEA,NBA,47,12.9,.473,.700,2.3,1.1,0.3,0.2,2.2,6.7,0.6,.047,-2.6,-0.1,,"Blackford in San Jose, California"
-awtrede01,1981-82,33,POR,NBA,10,12.1,.333,.556,1.4,0.8,0.1,0.2,1.5,1.6,0.0,-0.013,-4.9,-0.1,,"Blackford in San Jose, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dennis Awtrey,/players/a/awtrede01.html,1971,1982,Santa Clara University,false,"Blackford in San Jose, California",-1.95,0.18,awtrede01,1976-77,PHO,9.6,2.1,.057,-2.0,0.0,,28,NBA,72,24.4,.429,.722,4.9,2.5,0.3,0.4,5.7,PHO
+Dennis Awtrey,/players/a/awtrede01.html,1971,1982,Santa Clara University,false,"Blackford in San Jose, California",-2.99,-1.07,awtrede01,1977-78,PHO,6.1,1.0,.030,-2.8,-0.3,,29,NBA,81,20.0,.424,.633,3.7,2.0,0.2,0.3,3.6,PHO
+Dennis Awtrey,/players/a/awtrede01.html,1971,1982,Santa Clara University,false,"Blackford in San Jose, California",-1.84,0.20,awtrede01,1978-79,TOT,6.7,0.7,.046,-2.7,-0.1,,30,NBA,63,11.8,.411,.732,2.4,1.1,0.3,0.2,2.0,"BOS,SEA"
+Dennis Awtrey,/players/a/awtrede01.html,1971,1982,Santa Clara University,false,"Blackford in San Jose, California",-1.65,0.22,awtrede01,1979-80,CHI,7.4,0.6,.053,-1.4,0.1,,31,NBA,26,21.5,.450,.640,4.4,1.5,0.5,0.6,3.3,CHI
+Dennis Awtrey,/players/a/awtrede01.html,1971,1982,Santa Clara University,false,"Blackford in San Jose, California",-2.22,-0.01,awtrede01,1980-81,SEA,6.7,0.6,.047,-2.6,-0.1,,32,NBA,47,12.9,.473,.700,2.3,1.1,0.3,0.2,2.2,SEA
+Dennis Awtrey,/players/a/awtrede01.html,1971,1982,Santa Clara University,false,"Blackford in San Jose, California",-0.71,0.13,awtrede01,1981-82,POR,1.6,0.0,-0.013,-4.9,-0.1,,33,NBA,10,12.1,.333,.556,1.4,0.8,0.1,0.2,1.5,POR

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-haywosp01,1976-77,27,NYK,NBA,31,32.9,.450,.832,9.0,1.6,0.5,0.9,16.5,15.6,2.1,.096,-1.9,0.0,,"Pershing in Detroit, Michigan"
-haywosp01,1977-78,28,NYK,NBA,67,26.3,.484,.711,6.6,1.9,0.6,1.1,13.7,15.7,3.1,.083,-1.2,0.3,,"Pershing in Detroit, Michigan"
-haywosp01,1978-79,29,"NYK,NOJ",NBA,68,34.7,.494,.791,7.8,1.9,0.6,1.2,20.9,16.8,4.3,.087,-1.4,0.3,,"Pershing in Detroit, Michigan"
-haywosp01,1979-80,30,LAL,NBA,76,20.3,.487,.772,4.6,1.2,0.5,0.8,9.7,13.9,3.1,.095,-2.4,-0.2,,"Pershing in Detroit, Michigan"
-haywosp01,1980-81,31,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Pershing in Detroit, Michigan"
-haywosp01,1981-82,32,WSB,NBA,76,27.4,.476,.842,5.6,0.8,0.6,0.9,13.3,13.2,3.6,.083,-1.9,0.1,,"Pershing in Detroit, Michigan"
-haywosp01,1982-83,33,WSB,NBA,38,20.4,.401,.724,4.8,0.8,0.3,0.7,8.2,10.0,0.4,.025,-4.6,-0.5,,"Pershing in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",-0.85,0.94,haywosp01,1976-77,NYK,15.6,2.1,.096,-1.9,0.0,,27,NBA,31,32.9,.450,.832,9.0,1.6,0.5,0.9,16.5,NYK
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",-0.82,1.86,haywosp01,1977-78,NYK,15.7,3.1,.083,-1.2,0.3,,28,NBA,67,26.3,.484,.711,6.6,1.9,0.6,1.1,13.7,NYK
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",-1.45,1.24,haywosp01,1978-79,TOT,16.8,4.3,.087,-1.4,0.3,,29,NBA,68,34.7,.494,.791,7.8,1.9,0.6,1.2,20.9,"NYK,NOJ"
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",-1.78,0.54,haywosp01,1979-80,LAL,13.9,3.1,.095,-2.4,-0.2,,30,NBA,76,20.3,.487,.772,4.6,1.2,0.5,0.8,9.7,LAL
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",,,haywosp01,1980-81,Did Not Play (other pro league—Italy),,,,,,,31,,,,,,,,,,,Did Not Play (other pro league—Italy)
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",-0.72,2.39,haywosp01,1981-82,WSB,13.2,3.6,.083,-1.9,0.1,,32,NBA,76,27.4,.476,.842,5.6,0.8,0.6,0.9,13.3,WSB
+Spencer Haywood,/players/h/haywosp01.html,1970,1983,University of Detroit Mercy,false,"Pershing in Detroit, Michigan",-2.54,-0.25,haywosp01,1982-83,WSB,10.0,0.4,.025,-4.6,-0.5,,33,NBA,38,20.4,.401,.724,4.8,0.8,0.3,0.7,8.2,WSB

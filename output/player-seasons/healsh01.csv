@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-healsh01,1996-97,26,Minnesota Timberwolves,NBA,43,5.5,.268,.600,0.4,0.8,0.1,0.1,1.7,5.0,-0.4,-0.086,-8.8,-0.4,,320000,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,1997-98,27,Minnesota Timberwolves,NBA,,,,,,,,,,,,,,,,384000,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,1998-99,28,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,1999-00,29,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,2000-01,30,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,2001-02,31,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,2002-03,32,Did Not Play (other pro league—Australia),,,,,,,,,,,,,,,,,,"Upper Yarra Secondary College in Yarra Junction, Australia"
-healsh01,2003-04,33,San Antonio Spurs,NBA,6,12.0,.292,.800,0.7,0.8,0.2,0.0,3.7,5.3,0.0,-0.006,-6.2,-0.1,,75615,"Upper Yarra Secondary College in Yarra Junction, Australia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",-2.02,0.04,healsh01,1996-97,MIN,5.0,-0.4,-0.086,-8.8,-0.4,,NBA,320000,26,43,5.5,.268,.600,0.4,0.8,0.1,0.1,1.7,MIN
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",,,healsh01,1997-98,Did Not Play (other pro league—Australia),,,,,,,NBA,384000,27,,,,,,,,,,Did Not Play (other pro league—Australia)
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",,,healsh01,1998-99,Did Not Play (other pro league—Australia),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Australia)
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",,,healsh01,1999-00,Did Not Play (other pro league—Australia),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Australia)
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",,,healsh01,2000-01,Did Not Play (other pro league—Australia),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Australia)
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",,,healsh01,2001-02,Did Not Play (other pro league—Australia),,,,,,,,,31,,,,,,,,,,Did Not Play (other pro league—Australia)
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",,,healsh01,2002-03,Did Not Play (other pro league—Australia),,,,,,,,,32,,,,,,,,,,Did Not Play (other pro league—Australia)
+Shane Heal,/players/h/healsh01.html,1997,2004,,false,"Upper Yarra Secondary College in Yarra Junction, Australia",+0.37,0.13,healsh01,2003-04,SAS,5.3,0.0,-0.006,-6.2,-0.1,,NBA,75615,33,6,12.0,.292,.800,0.7,0.8,0.2,0.0,3.7,SAS

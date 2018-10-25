@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-blalowi01,2006-07,23,Detroit Pistons,NBA,14,11.9,.300,1.000,1.1,1.2,0.4,0.0,1.8,4.5,-0.1,-0.032,-5.7,-0.2,,412718,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Will Blalock,/players/b/blalowi01.html,2007,2007,Iowa State University,false,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-1.63,0.06,blalowi01,2006-07,DET,4.5,-0.1,-0.032,-5.7,-0.2,,NBA,412718,23,14,11.9,.300,1.000,1.1,1.2,0.4,0.0,1.8,DET

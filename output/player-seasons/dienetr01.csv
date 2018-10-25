@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dienetr01,2005-06,23,Orlando Magic,NBA,23,10.7,.420,.833,0.9,0.7,0.3,0.0,3.8,12.6,0.6,.115,-0.2,0.1,,398762,"Goodrich in Fond du Lac, Wisconsin"
-dienetr01,2006-07,24,Orlando Magic,NBA,26,11.1,.425,.800,0.7,1.3,0.2,0.0,3.8,11.6,0.7,.113,-2.6,0.0,,664209,"Goodrich in Fond du Lac, Wisconsin"
-dienetr01,2007-08,25,Indiana Pacers,NBA,66,20.5,.370,.901,1.7,3.8,0.5,0.1,6.9,12.2,2.5,.088,-2.5,-0.2,,1500000,"Goodrich in Fond du Lac, Wisconsin"
-dienetr01,2008-09,26,Indiana Pacers,NBA,55,13.1,.413,.800,1.6,2.2,0.5,0.1,3.7,13.7,1.9,.125,-0.5,0.3,,1620000,"Goodrich in Fond du Lac, Wisconsin"
-dienetr01,2009-10,27,Indiana Pacers,NBA,9,5.7,.200,.250,0.3,0.9,0.4,0.0,0.7,7.6,0.0,.019,-3.9,0.0,,1740000,"Goodrich in Fond du Lac, Wisconsin"
-dienetr01,2009-10,27,Indiana Pacers,NBA,4,6.3,.167,.000,0.5,1.0,0.8,0.0,0.8,7.9,0.0,-0.005,-2.1,0.0,,1740000,"Goodrich in Fond du Lac, Wisconsin"
-dienetr01,2009-10,27,Indiana Pacers,NBA,5,5.2,.250,.500,0.2,0.8,0.2,0.0,0.6,7.3,0.0,.043,-5.6,0.0,,1740000,"Goodrich in Fond du Lac, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Travis Diener,/players/d/dienetr01.html,2006,2010,Marquette University,false,"Goodrich in Fond du Lac, Wisconsin",-1.35,0.16,dienetr01,2005-06,ORL,12.6,0.6,.115,-0.2,0.1,,NBA,398762,23,23,10.7,.420,.833,0.9,0.7,0.3,0.0,3.8,ORL
+Travis Diener,/players/d/dienetr01.html,2006,2010,Marquette University,false,"Goodrich in Fond du Lac, Wisconsin",-0.48,0.35,dienetr01,2006-07,ORL,11.6,0.7,.113,-2.6,0.0,,NBA,664209,24,26,11.1,.425,.800,0.7,1.3,0.2,0.0,3.8,ORL
+Travis Diener,/players/d/dienetr01.html,2006,2010,Marquette University,false,"Goodrich in Fond du Lac, Wisconsin",-1.14,1.06,dienetr01,2007-08,IND,12.2,2.5,.088,-2.5,-0.2,,NBA,1500000,25,66,20.5,.370,.901,1.7,3.8,0.5,0.1,6.9,IND
+Travis Diener,/players/d/dienetr01.html,2006,2010,Marquette University,false,"Goodrich in Fond du Lac, Wisconsin",+0.24,1.22,dienetr01,2008-09,IND,13.7,1.9,.125,-0.5,0.3,,NBA,1620000,26,55,13.1,.413,.800,1.6,2.2,0.5,0.1,3.7,IND
+Travis Diener,/players/d/dienetr01.html,2006,2010,Marquette University,false,"Goodrich in Fond du Lac, Wisconsin",-0.04,0.09,dienetr01,2009-10,TOT,7.6,0.0,.019,-3.9,0.0,,NBA,1740000,27,9,5.7,.200,.250,0.3,0.9,0.4,0.0,0.7,"IND,POR"

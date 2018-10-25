@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dysonje01,2011-12,24,NOH,NBA,9,20.0,.396,.778,2.1,2.0,1.2,0.2,7.4,11.3,0.1,.026,-3.1,-0.1,,"Proctor Academy in Andover, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerome Dyson,/players/d/dysonje01.html,2012,2012,University of Connecticut,false,"Proctor Academy in Andover, New Hampshire",+0.11,0.29,dysonje01,2011-12,NOH,11.3,0.1,.026,-3.1,-0.1,,24,NBA,9,20.0,.396,.778,2.1,2.0,1.2,0.2,7.4,NOH

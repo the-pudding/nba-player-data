@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-wiggimi01,1983-84,24,CHI,NBA,82,25.9,.448,.742,4.0,2.3,1.3,0.1,12.4,13.7,3.3,.076,0.0,1.1,,"North Lenoir in La Grange, North Carolina",
-wiggimi01,1984-85,25,Houston Rockets,NBA,82,19.2,.484,.733,2.9,1.5,1.0,0.2,9.0,14.0,3.5,.107,0.0,0.8,,"North Lenoir in La Grange, North Carolina",130000
-wiggimi01,1985-86,26,Houston Rockets,NBA,78,15.4,.454,.729,2.0,1.3,0.8,0.1,6.8,12.6,2.0,.079,-1.9,0.0,,"North Lenoir in La Grange, North Carolina",155000
-wiggimi01,1986-87,27,HOU,NBA,32,24.6,.437,.754,4.2,2.4,1.4,0.1,11.1,13.5,1.2,.070,-0.1,0.4,,"North Lenoir in La Grange, North Carolina",
-wiggimi01,1987-88,28,Did Not Play (suspended—substance abuse),,,,,,,,,,,,,,,,,"North Lenoir in La Grange, North Carolina",
-wiggimi01,1988-89,29,Did Not Play (suspended—substance abuse),,,,,,,,,,,,,,,,,"North Lenoir in La Grange, North Carolina",
-wiggimi01,1989-90,30,HOU,NBA,66,28.1,.488,.810,4.3,1.6,1.3,0.0,15.5,16.3,5.4,.139,0.1,1.0,,"North Lenoir in La Grange, North Carolina",
-wiggimi01,1990-91,31,Did Not Play,,,,,,,,,,,,,,,,,"North Lenoir in La Grange, North Carolina",
-wiggimi01,1991-92,32,Philadelphia 76ers,NBA,49,11.6,.384,.686,1.9,0.4,0.4,0.0,4.3,8.9,-0.1,-0.008,-6.9,-0.7,,"North Lenoir in La Grange, North Carolina",335000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",-1.25,1.43,wiggimi01,1983-84,CHI,13.7,3.3,.076,0.0,1.1,,24,NBA,82,25.9,.448,.742,4.0,2.3,1.3,0.1,12.4,CHI,
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",-0.86,1.55,wiggimi01,1984-85,HOU,14.0,3.5,.107,0.0,0.8,,25,NBA,82,19.2,.484,.733,2.9,1.5,1.0,0.2,9.0,HOU,130000
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",-2.21,0.11,wiggimi01,1985-86,HOU,12.6,2.0,.079,-1.9,0.0,,26,NBA,78,15.4,.454,.729,2.0,1.3,0.8,0.1,6.8,HOU,155000
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",-1.38,0.46,wiggimi01,1986-87,HOU,13.5,1.2,.070,-0.1,0.4,,27,NBA,32,24.6,.437,.754,4.2,2.4,1.4,0.1,11.1,HOU,
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",,,wiggimi01,1987-88,Did Not Play (suspended—substance abuse),,,,,,,28,,,,,,,,,,,Did Not Play (suspended—substance abuse),
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",,,wiggimi01,1988-89,Did Not Play (suspended—substance abuse),,,,,,,29,,,,,,,,,,,Did Not Play (suspended—substance abuse),
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",-0.54,2.22,wiggimi01,1989-90,HOU,16.3,5.4,.139,0.1,1.0,,30,NBA,66,28.1,.488,.810,4.3,1.6,1.3,0.0,15.5,HOU,
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",,,wiggimi01,1990-91,Did Not Play,,,,,,,31,,,,,,,,,,,Did Not Play,
+Mitchell Wiggins,/players/w/wiggimi01.html,1984,1992,"Clemson University, Florida State University",false,"North Lenoir in La Grange, North Carolina",-3.84,-0.57,wiggimi01,1991-92,PHI,8.9,-0.1,-0.008,-6.9,-0.7,,32,NBA,49,11.6,.384,.686,1.9,0.4,0.4,0.0,4.3,PHI,335000

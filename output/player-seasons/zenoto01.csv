@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-zenoto01,1979-80,22,IND,NBA,8,7.4,.286,1.000,1.8,0.1,0.5,0.4,1.8,0.2,-0.2,-0.160,-12.1,-0.2,,"Washington in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Zeno,/players/z/zenoto01.html,1980,1980,Arizona State University,false,"Washington in Los Angeles, California",-0.03,0.09,zenoto01,1979-80,IND,0.2,-0.2,-0.160,-12.1,-0.2,,22,NBA,8,7.4,.286,1.000,1.8,0.1,0.5,0.4,1.8,IND

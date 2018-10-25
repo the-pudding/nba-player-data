@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mayescl01,1976-77,23,"IND,BUF,POR",NBA,9,5.8,.263,.429,1.8,0.3,0.0,0.4,1.4,6.7,-0.1,-0.109,-10.2,-0.1,,"Wade Hampton in Greenville, South Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Clyde Mayes,/players/m/mayescl01.html,1976,1977,Furman University,false,"Wade Hampton in Greenville, South Carolina",-1.37,0.03,mayescl01,1976-77,TOT,6.7,-0.1,-0.109,-10.2,-0.1,,23,NBA,9,5.8,.263,.429,1.8,0.3,0.0,0.4,1.4,"IND,BUF,POR"

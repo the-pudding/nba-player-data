@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mornida01,1993-94,24,Dallas Mavericks,NBA,23,16.0,.476,.600,3.5,0.7,0.6,0.1,4.2,8.9,0.4,.048,-3.7,-0.2,,43000,"Stevenson in Stevenson, Washington"
-mornida01,1993-94,24,Dallas Mavericks,NBA,22,16.5,.469,.600,3.6,0.7,0.6,0.1,4.3,8.8,0.3,.045,-3.7,-0.2,,43000,"Stevenson in Stevenson, Washington"
-mornida01,1993-94,24,Dallas Mavericks,NBA,1,4.0,1.000,,1.0,0.0,0.0,0.0,2.0,19.4,0.0,.247,-4.0,0.0,,43000,"Stevenson in Stevenson, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Darren Morningstar,/players/m/mornida01.html,1994,1994,"United States Naval Academy, University of Pittsburgh",false,"Stevenson in Stevenson, Washington",-2.04,0.05,mornida01,1993-94,TOT,8.9,0.4,.048,-3.7,-0.2,,NBA,43000,24,23,16.0,.476,.600,3.5,0.7,0.6,0.1,4.2,"DAL,UTA"

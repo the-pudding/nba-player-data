@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-loderke01,1981-82,22,KCK,NBA,71,16.0,.464,.720,2.7,1.2,0.5,0.4,6.9,12.9,1.5,.062,-1.9,0.0,,"Ross Beatty in Cassopolis, Michigan"
-loderke01,1982-83,23,KCK,NBA,66,12.4,.460,.663,1.9,1.1,0.4,0.1,5.1,10.9,0.9,.051,-3.2,-0.2,,"Ross Beatty in Cassopolis, Michigan"
-loderke01,1983-84,24,"KCK,SDC",NBA,11,12.5,.442,.692,1.6,1.3,0.3,0.5,4.4,9.5,0.1,.023,-3.4,0.0,,"Ross Beatty in Cassopolis, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Loder,/players/l/loderke01.html,1982,1984,"Kentucky State University, Alabama State University",false,"Ross Beatty in Cassopolis, Michigan",-1.54,0.54,loderke01,1981-82,KCK,12.9,1.5,.062,-1.9,0.0,,22,NBA,71,16.0,.464,.720,2.7,1.2,0.5,0.4,6.9,KCK
+Kevin Loder,/players/l/loderke01.html,1982,1984,"Kentucky State University, Alabama State University",false,"Ross Beatty in Cassopolis, Michigan",-2.00,0.13,loderke01,1982-83,KCK,10.9,0.9,.051,-3.2,-0.2,,23,NBA,66,12.4,.460,.663,1.9,1.1,0.4,0.1,5.1,KCK
+Kevin Loder,/players/l/loderke01.html,1982,1984,"Kentucky State University, Alabama State University",false,"Ross Beatty in Cassopolis, Michigan",-0.17,0.20,loderke01,1983-84,TOT,9.5,0.1,.023,-3.4,0.0,,24,NBA,11,12.5,.442,.692,1.6,1.3,0.3,0.5,4.4,"KCK,SDC"

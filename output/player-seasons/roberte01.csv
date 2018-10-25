@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-roberte01,2000-01,24,Charlotte Hornets,NBA,3,4.3,.000,,0.3,0.3,0.0,0.0,0.0,-15.0,-0.1,-0.334,-17.7,-0.1,,316969,"Buena Vista in Saginaw, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Terrance Roberson,/players/r/roberte01.html,2001,2001,"California State University, Fresno",false,"Buena Vista in Saginaw, Michigan",-0.39,0.02,roberte01,2000-01,CHH,-15.0,-0.1,-0.334,-17.7,-0.1,,NBA,316969,24,3,4.3,.000,,0.3,0.3,0.0,0.0,0.0,CHH

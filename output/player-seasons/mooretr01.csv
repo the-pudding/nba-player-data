@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mooretr01,1991-92,26,DAL,NBA,42,18.6,.400,.833,2.0,1.1,0.8,0.1,8.5,11.6,0.6,.039,-2.8,-0.2,,"John Marshall in Oklahoma City, Oklahoma",
-mooretr01,1992-93,27,Dallas Mavericks,NBA,39,13.1,.414,.869,1.3,1.2,0.5,0.1,7.2,14.8,0.5,.046,-2.7,-0.1,,"John Marshall in Oklahoma City, Oklahoma",250000
-mooretr01,1993-94,28,Detroit Pistons,NBA,3,3.3,.667,1.000,0.3,0.0,0.7,0.0,2.0,33.0,0.1,.395,7.5,0.0,,"John Marshall in Oklahoma City, Oklahoma",40000
-mooretr01,1994-95,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"John Marshall in Oklahoma City, Oklahoma",
-mooretr01,1995-96,30,HOU,NBA,8,23.8,.395,.947,2.8,0.8,0.3,0.0,11.4,12.4,0.3,.076,-5.0,-0.1,,"John Marshall in Oklahoma City, Oklahoma",
-mooretr01,1996-97,31,Houston Rockets,NBA,27,8.8,.388,.710,1.0,0.7,0.2,0.0,3.7,11.4,0.3,.066,-3.9,-0.1,,"John Marshall in Oklahoma City, Oklahoma",247500
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Tracy Moore,/players/m/mooretr01.html,1992,1997,University of Tulsa,false,"John Marshall in Oklahoma City, Oklahoma",-2.18,0.05,mooretr01,1991-92,DAL,11.6,0.6,.039,-2.8,-0.2,,26,NBA,42,18.6,.400,.833,2.0,1.1,0.8,0.1,8.5,DAL,
+Tracy Moore,/players/m/mooretr01.html,1992,1997,University of Tulsa,false,"John Marshall in Oklahoma City, Oklahoma",-2.04,0.08,mooretr01,1992-93,DAL,14.8,0.5,.046,-2.7,-0.1,,27,NBA,39,13.1,.414,.869,1.3,1.2,0.5,0.1,7.2,DAL,250000
+Tracy Moore,/players/m/mooretr01.html,1992,1997,University of Tulsa,false,"John Marshall in Oklahoma City, Oklahoma",+0.17,0.02,mooretr01,1993-94,DET,33.0,0.1,.395,7.5,0.0,,28,NBA,3,3.3,.667,1.000,0.3,0.0,0.7,0.0,2.0,DET,40000
+Tracy Moore,/players/m/mooretr01.html,1992,1997,University of Tulsa,false,"John Marshall in Oklahoma City, Oklahoma",,,mooretr01,1994-95,Did Not Play (other pro league—CBA),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Tracy Moore,/players/m/mooretr01.html,1992,1997,University of Tulsa,false,"John Marshall in Oklahoma City, Oklahoma",-1.24,0.14,mooretr01,1995-96,HOU,12.4,0.3,.076,-5.0,-0.1,,30,NBA,8,23.8,.395,.947,2.8,0.8,0.3,0.0,11.4,HOU,
+Tracy Moore,/players/m/mooretr01.html,1992,1997,University of Tulsa,false,"John Marshall in Oklahoma City, Oklahoma",-1.26,0.16,mooretr01,1996-97,HOU,11.4,0.3,.066,-3.9,-0.1,,31,NBA,27,8.8,.388,.710,1.0,0.7,0.2,0.0,3.7,HOU,247500

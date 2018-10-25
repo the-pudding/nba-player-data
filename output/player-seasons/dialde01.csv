@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dialde01,1999-00,24,San Antonio Spurs,NBA,8,11.9,.370,.600,3.3,0.6,0.1,0.1,5.0,12.0,0.1,.032,-3.5,0.0,,301875,"Cass Technical in Detroit, Michigan"
-dialde01,2000-01,25,San Antonio Spurs,NBA,33,6.3,.434,.571,1.2,0.6,0.1,0.2,2.6,14.3,0.4,.091,-1.4,0.0,,423500,"Cass Technical in Detroit, Michigan"
-dialde01,2001-02,26,New Jersey Nets,NBA,32,9.3,.342,.750,1.8,1.1,0.3,0.1,3.2,11.0,0.1,.020,-4.7,-0.2,,540850,"Cass Technical in Detroit, Michigan"
-dialde01,2001-02,26,New Jersey Nets,NBA,25,10.0,.319,.722,1.8,1.2,0.3,0.2,2.9,9.3,0.0,.002,-5.1,-0.2,,540850,"Cass Technical in Detroit, Michigan"
-dialde01,2001-02,26,New Jersey Nets,NBA,7,7.1,.423,.833,1.6,0.6,0.3,0.0,4.0,19.1,0.1,.106,-3.1,0.0,,540850,"Cass Technical in Detroit, Michigan"
-dialde01,2002-03,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Cass Technical in Detroit, Michigan"
-dialde01,2003-04,28,Orlando Magic,NBA,9,9.6,.321,.750,1.4,0.2,0.7,0.0,2.9,11.6,0.1,.035,-4.2,0.0,,32375,"Cass Technical in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Dial,/players/d/dialde01.html,2000,2004,Eastern Michigan University,false,"Cass Technical in Detroit, Michigan",+0.03,0.16,dialde01,1999-00,SAS,12.0,0.1,.032,-3.5,0.0,,NBA,301875,24,8,11.9,.370,.600,3.3,0.6,0.1,0.1,5.0,SAS
+Derrick Dial,/players/d/dialde01.html,2000,2004,Eastern Michigan University,false,"Cass Technical in Detroit, Michigan",-1.30,0.14,dialde01,2000-01,SAS,14.3,0.4,.091,-1.4,0.0,,NBA,423500,25,33,6.3,.434,.571,1.2,0.6,0.1,0.2,2.6,SAS
+Derrick Dial,/players/d/dialde01.html,2000,2004,Eastern Michigan University,false,"Cass Technical in Detroit, Michigan",-0.56,0.34,dialde01,2001-02,TOT,11.0,0.1,.020,-4.7,-0.2,,NBA,540850,26,32,9.3,.342,.750,1.8,1.1,0.3,0.1,3.2,"NJN,TOR"
+Derrick Dial,/players/d/dialde01.html,2000,2004,Eastern Michigan University,false,"Cass Technical in Detroit, Michigan",,,dialde01,2002-03,Did Not Play (other pro league—Italy),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—Italy)
+Derrick Dial,/players/d/dialde01.html,2000,2004,Eastern Michigan University,false,"Cass Technical in Detroit, Michigan",+0.25,0.14,dialde01,2003-04,ORL,11.6,0.1,.035,-4.2,0.0,,NBA,32375,28,9,9.6,.321,.750,1.4,0.2,0.7,0.0,2.9,ORL

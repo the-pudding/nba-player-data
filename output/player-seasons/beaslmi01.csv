@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-beaslmi01,2008-09,20,Miami Heat,NBA,81,24.8,.472,.772,5.4,1.0,0.5,0.5,13.9,17.2,3.4,.081,-4.3,-1.2,,4314960,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2009-10,21,Miami Heat,NBA,78,29.8,.450,.800,6.4,1.3,1.0,0.6,14.8,16.1,4.6,.095,-1.7,0.2,,4638600,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2010-11,22,Minnesota Timberwolves,NBA,73,32.3,.450,.753,5.6,2.2,0.7,0.7,19.2,15.5,1.7,.035,-2.4,-0.3,,4962240,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2011-12,23,Minnesota Timberwolves,NBA,47,23.1,.445,.642,4.4,1.0,0.4,0.4,11.5,13.0,0.5,.022,-3.9,-0.5,,6262347,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2012-13,24,Phoenix Suns,NBA,75,20.7,.405,.746,3.8,1.5,0.4,0.5,10.1,10.8,-1.5,-0.047,-6.1,-1.6,,5750000,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2013-14,25,Phoenix Suns,NBA,55,15.1,.499,.772,3.1,0.8,0.4,0.4,7.9,16.8,1.6,.092,-3.5,-0.3,,4666667,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2014-15,26,Phoenix Suns,NBA,24,21.0,.434,.769,3.7,1.3,0.6,0.5,8.8,10.6,-0.1,-0.007,-4.7,-0.3,,777778,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2015-16,27,Houston Rockets,NBA,20,18.2,.522,.776,4.9,0.8,0.6,0.5,12.8,22.5,1.0,.128,-3.4,-0.1,,306527,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2016-17,28,Milwaukee Bucks,NBA,56,16.7,.532,.743,3.4,0.9,0.5,0.5,9.4,17.8,1.8,.092,-2.9,-0.2,,1403611,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2017-18,29,New York Knicks,NBA,74,22.3,.507,.780,5.6,1.7,0.5,0.6,13.2,17.8,2.4,.069,-1.5,0.2,,1471382,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-beaslmi01,2018-19,30,LAL,NBA,2,4.0,.333,.500,1.5,0.0,0.0,0.0,1.5,0.8,0.0,-0.183,-22.0,0.0,,,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.12,0.28,beaslmi01,2008-09,MIA,17.2,3.4,.081,-4.3,-1.2,,NBA,4314960,20,81,24.8,.472,.772,5.4,1.0,0.5,0.5,13.9,MIA
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-1.12,1.92,beaslmi01,2009-10,MIA,16.1,4.6,.095,-1.7,0.2,,NBA,4638600,21,78,29.8,.450,.800,6.4,1.3,1.0,0.6,14.8,MIA
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-1.14,1.81,beaslmi01,2010-11,MIN,15.5,1.7,.035,-2.4,-0.3,,NBA,4962240,22,73,32.3,.450,.753,5.6,2.2,0.7,0.7,19.2,MIN
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.49,-0.21,beaslmi01,2011-12,MIN,13.0,0.5,.022,-3.9,-0.5,,NBA,6262347,23,47,23.1,.445,.642,4.4,1.0,0.4,0.4,11.5,MIN
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-4.24,-2.07,beaslmi01,2012-13,PHO,10.8,-1.5,-0.047,-6.1,-1.6,,NBA,5750000,24,75,20.7,.405,.746,3.8,1.5,0.4,0.5,10.1,PHO
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.21,0.07,beaslmi01,2013-14,MIA,16.8,1.6,.092,-3.5,-0.3,,NBA,4666667,25,55,15.1,.499,.772,3.1,0.8,0.4,0.4,7.9,MIA
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-1.92,0.09,beaslmi01,2014-15,MIA,10.6,-0.1,-0.007,-4.7,-0.3,,NBA,777778,26,24,21.0,.434,.769,3.7,1.3,0.6,0.5,8.8,MIA
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.59,-0.08,beaslmi01,2015-16,HOU,22.5,1.0,.128,-3.4,-0.1,,NBA,306527,27,20,18.2,.522,.776,4.9,0.8,0.6,0.5,12.8,HOU
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-1.37,0.62,beaslmi01,2016-17,MIL,17.8,1.8,.092,-2.9,-0.2,,NBA,1403611,28,56,16.7,.532,.743,3.4,0.9,0.5,0.5,9.4,MIL
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.19,0.17,beaslmi01,2017-18,NYK,17.8,2.4,.069,-1.5,0.2,,NBA,1471382,29,74,22.3,.507,.780,5.6,1.7,0.5,0.6,13.2,NYK
+Michael Beasley,/players/b/beaslmi01.html,2009,2019,Kansas State University,true,"Notre Dame Preparatory School in Fitchburg, Massachusetts",,,beaslmi01,2018-19,LAL,0.8,0.0,-0.183,-22.0,0.0,,NBA,,30,2,4.0,.333,.500,1.5,0.0,0.0,0.0,1.5,LAL

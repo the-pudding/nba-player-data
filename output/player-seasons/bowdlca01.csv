@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bowdlca01,1999-00,22,Atlanta Hawks,NBA,46,9.2,.426,.632,1.8,0.3,0.3,0.2,2.7,10.0,0.2,.027,-4.8,-0.3,,1025880,"Rappahannock in Warsaw, Virginia"
-bowdlca01,2000-01,23,Atlanta Hawks,NBA,44,8.5,.465,.825,1.8,0.1,0.2,0.5,3.2,15.8,1.0,.134,-2.8,-0.1,,1102800,"Rappahannock in Warsaw, Virginia"
-bowdlca01,2001-02,24,Atlanta Hawks,NBA,52,11.3,.351,.830,2.1,0.2,0.3,0.3,3.1,9.4,0.5,.039,-5.8,-0.6,,1179720,"Rappahannock in Warsaw, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cal Bowdler,/players/b/bowdlca01.html,2000,2002,Old Dominion University,false,"Rappahannock in Warsaw, Virginia",-2.13,0.02,bowdlca01,1999-00,ATL,10.0,0.2,.027,-4.8,-0.3,,NBA,1025880,22,46,9.2,.426,.632,1.8,0.3,0.3,0.2,2.7,ATL
+Cal Bowdler,/players/b/bowdlca01.html,2000,2002,Old Dominion University,false,"Rappahannock in Warsaw, Virginia",+0.49,0.70,bowdlca01,2000-01,ATL,15.8,1.0,.134,-2.8,-0.1,,NBA,1102800,23,44,8.5,.465,.825,1.8,0.1,0.2,0.5,3.2,ATL
+Cal Bowdler,/players/b/bowdlca01.html,2000,2002,Old Dominion University,false,"Rappahannock in Warsaw, Virginia",-0.98,0.50,bowdlca01,2001-02,ATL,9.4,0.5,.039,-5.8,-0.6,,NBA,1179720,24,52,11.3,.351,.830,2.1,0.2,0.3,0.3,3.1,ATL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kennedj01,2011-12,22,CLE,NBA,2,29.5,.417,.000,3.5,1.5,1.0,0.0,6.0,4.7,0.0,-0.023,-5.6,-0.1,,"Schenley in Pittsburgh, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+D.J. Kennedy,/players/k/kennedj01.html,2012,2012,St. John's University,false,"Schenley in Pittsburgh, Pennsylvania",-0.57,0.07,kennedj01,2011-12,CLE,4.7,0.0,-0.023,-5.6,-0.1,,22,NBA,2,29.5,.417,.000,3.5,1.5,1.0,0.0,6.0,CLE

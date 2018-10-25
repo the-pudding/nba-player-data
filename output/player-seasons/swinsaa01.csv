@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-swinsaa01,1994-95,24,Phoenix Suns,NBA,9,5.7,.556,.800,0.9,0.3,0.1,0.0,2.7,11.7,0.0,.039,-5.8,0.0,,102424,"Brunswick in Brunswick, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Aaron Swinson,/players/s/swinsaa01.html,1995,1995,Auburn University,false,"Brunswick in Brunswick, Georgia",-0.36,0.07,swinsaa01,1994-95,PHO,11.7,0.0,.039,-5.8,0.0,,NBA,102424,24,9,5.7,.556,.800,0.9,0.3,0.1,0.0,2.7,PHO

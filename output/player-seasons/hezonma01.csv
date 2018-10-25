@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hezonma01,2015-16,20,Orlando Magic,NBA,79,17.9,.433,.907,2.2,1.4,0.5,0.2,6.1,9.4,0.9,.029,-2.8,-0.3,,3741480,
-hezonma01,2016-17,21,Orlando Magic,NBA,65,14.8,.355,.800,2.2,1.0,0.5,0.2,4.9,7.2,-0.7,-0.033,-5.7,-0.9,,3909840,
-hezonma01,2017-18,22,Orlando Magic,NBA,75,22.1,.442,.819,3.7,1.4,1.1,0.4,9.6,13.7,2.3,.066,-0.8,0.5,,4078320,
-hezonma01,2018-19,23,NYK,NBA,5,18.8,.377,.429,2.2,1.2,1.0,0.0,10.0,8.3,-0.1,-0.072,-5.8,-0.1,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mario Hezonja,/players/h/hezonma01.html,2016,2019,,true,,-2.14,0.10,hezonma01,2015-16,ORL,9.4,0.9,.029,-2.8,-0.3,,NBA,3741480,20,79,17.9,.433,.907,2.2,1.4,0.5,0.2,6.1,ORL
+Mario Hezonja,/players/h/hezonma01.html,2016,2019,,true,,-5.01,-1.71,hezonma01,2016-17,ORL,7.2,-0.7,-0.033,-5.7,-0.9,,NBA,3909840,21,65,14.8,.355,.800,2.2,1.0,0.5,0.2,4.9,ORL
+Mario Hezonja,/players/h/hezonma01.html,2016,2019,,true,,-1.95,0.40,hezonma01,2017-18,ORL,13.7,2.3,.066,-0.8,0.5,,NBA,4078320,22,75,22.1,.442,.819,3.7,1.4,1.1,0.4,9.6,ORL
+Mario Hezonja,/players/h/hezonma01.html,2016,2019,,true,,,,hezonma01,2018-19,NYK,8.3,-0.1,-0.072,-5.8,-0.1,,NBA,,23,5,18.8,.377,.429,2.2,1.2,1.0,0.0,10.0,NYK

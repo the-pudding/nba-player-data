@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willode01,1999-00,25,Chicago Bulls,NBA,25,20.3,.341,.765,2.0,2.6,0.9,0.1,7.6,12.2,0.4,.040,-2.3,0.0,,134956,"Archbishop Shaw in New Orleans, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dedric Willoughby,/players/w/willode01.html,2000,2000,"University of New Orleans, Iowa State University",false,"Archbishop Shaw in New Orleans, Louisiana",-1.46,0.24,willode01,1999-00,CHI,12.2,0.4,.040,-2.3,0.0,,NBA,134956,25,25,20.3,.341,.765,2.0,2.6,0.9,0.1,7.6,CHI

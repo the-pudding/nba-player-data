@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-milleda01,2012-13,22,New Orleans Hornets,NBA,52,13.3,.407,1.000,1.5,0.8,0.3,0.2,2.3,6.3,0.5,.034,-2.2,0.0,,473604,"Mason County in Maysville, Kentucky"
-milleda01,2013-14,23,New Orleans Pelicans,NBA,45,16.1,.440,.806,1.2,1.0,0.5,0.2,4.4,9.0,0.8,.055,-2.3,-0.1,,788872,"Mason County in Maysville, Kentucky"
-milleda01,2014-15,24,New Orleans Pelicans,NBA,5,8.6,.143,,0.2,0.4,0.2,0.0,0.4,-5.1,-0.1,-0.122,-9.9,-0.1,,400000,"Mason County in Maysville, Kentucky"
-milleda01,2015-16,25,Did Not Play,,,,,,,,,,,,,,,,,,"Mason County in Maysville, Kentucky"
-milleda01,2016-17,26,Did Not Play,,,,,,,,,,,,,,,,,,"Mason County in Maysville, Kentucky"
-milleda01,2017-18,27,New Orleans Pelicans,NBA,82,23.7,.444,.866,2.0,1.4,0.3,0.2,7.8,9.3,3.0,.075,-1.0,0.5,,2100000,"Mason County in Maysville, Kentucky"
-milleda01,2018-19,28,NOP,NBA,3,18.7,.364,1.000,0.3,1.3,0.3,0.0,4.0,3.1,0.0,-0.003,-1.4,0.0,,,"Mason County in Maysville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",-1.29,0.44,milleda01,2012-13,NOH,6.3,0.5,.034,-2.2,0.0,,NBA,473604,22,52,13.3,.407,1.000,1.5,0.8,0.3,0.2,2.3,NOH
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",-0.62,0.81,milleda01,2013-14,NOP,9.0,0.8,.055,-2.3,-0.1,,NBA,788872,23,45,16.1,.440,.806,1.2,1.0,0.5,0.2,4.4,NOP
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",-0.84,0.04,milleda01,2014-15,NOP,-5.1,-0.1,-0.122,-9.9,-0.1,,NBA,400000,24,5,8.6,.143,,0.2,0.4,0.2,0.0,0.4,NOP
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",,,milleda01,2015-16,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",,,milleda01,2016-17,Did Not Play,,,,,,,,,26,,,,,,,,,,Did Not Play
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",-3.16,-1.09,milleda01,2017-18,NOP,9.3,3.0,.075,-1.0,0.5,,NBA,2100000,27,82,23.7,.444,.866,2.0,1.4,0.3,0.2,7.8,NOP
+Darius Miller,/players/m/milleda01.html,2013,2019,University of Kentucky,true,"Mason County in Maysville, Kentucky",,,milleda01,2018-19,NOP,3.1,0.0,-0.003,-1.4,0.0,,NBA,,28,3,18.7,.364,1.000,0.3,1.3,0.3,0.0,4.0,NOP

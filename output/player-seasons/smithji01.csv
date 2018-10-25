@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-smithji01,1981-82,23,SDC,NBA,72,11.9,.509,.459,2.5,0.6,0.3,0.7,2.9,9.2,0.6,.034,-1.7,0.1,,"East Technical in Cleveland, Ohio"
-smithji01,1982-83,24,DET,NBA,4,4.5,.750,.500,1.3,0.0,0.0,0.0,2.0,14.2,0.1,.189,-9.7,0.0,,"East Technical in Cleveland, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Smith,/players/s/smithji01.html,1982,1983,Ohio State University,false,"East Technical in Cleveland, Ohio",-1.64,0.38,smithji01,1981-82,SDC,9.2,0.6,.034,-1.7,0.1,,23,NBA,72,11.9,.509,.459,2.5,0.6,0.3,0.7,2.9,SDC
+Jim Smith,/players/s/smithji01.html,1982,1983,Ohio State University,false,"East Technical in Cleveland, Ohio",-0.08,0.03,smithji01,1982-83,DET,14.2,0.1,.189,-9.7,0.0,,24,NBA,4,4.5,.750,.500,1.3,0.0,0.0,0.0,2.0,DET

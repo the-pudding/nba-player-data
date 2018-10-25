@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-nwosuju01,1994-95,23,San Antonio Spurs,NBA,23,3.7,.321,.765,1.0,0.1,0.0,0.1,1.3,6.8,0.0,-0.009,-8.6,-0.1,,150000,"Imo State Secondary in Imo, Nigeria"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Julius Nwosu,/players/n/nwosuju01.html,1995,1995,Liberty University,false,"Imo State Secondary in Imo, Nigeria",-0.74,0.09,nwosuju01,1994-95,SAS,6.8,0.0,-0.009,-8.6,-0.1,,NBA,150000,23,23,3.7,.321,.765,1.0,0.1,0.0,0.1,1.3,SAS

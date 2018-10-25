@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-garbajo01,2006-07,29,Toronto Raptors,NBA,67,28.5,.420,.731,4.9,1.9,1.2,0.2,8.5,12.1,3.0,.074,0.8,1.4,,3750000,
-garbajo01,2007-08,30,Toronto Raptors,NBA,7,10.6,.320,,2.1,0.4,0.4,0.0,3.1,10.4,0.1,.047,-2.7,0.0,,4000000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jorge Garbajosa,/players/g/garbajo01.html,2007,2008,,false,,+0.93,4.17,garbajo01,2006-07,TOR,12.1,3.0,.074,0.8,1.4,,NBA,3750000,29,67,28.5,.420,.731,4.9,1.9,1.2,0.2,8.5,TOR
+Jorge Garbajosa,/players/g/garbajo01.html,2007,2008,,false,,-0.26,0.10,garbajo01,2007-08,TOR,10.4,0.1,.047,-2.7,0.0,,NBA,4000000,30,7,10.6,.320,,2.1,0.4,0.4,0.0,3.1,TOR

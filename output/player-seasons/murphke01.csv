@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-murphke01,2012-13,22,Utah Jazz,NBA,17,3.1,.250,,0.2,0.1,0.1,0.0,0.9,-4.5,-0.3,-0.272,-17.6,-0.2,,473604,"Creekside in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Murphy,/players/m/murphke01.html,2013,2013,Tennessee Technological University,false,"Creekside in Atlanta, Georgia",-0.12,0.08,murphke01,2012-13,UTA,-4.5,-0.3,-0.272,-17.6,-0.2,,NBA,473604,22,17,3.1,.250,,0.2,0.1,0.1,0.0,0.9,UTA

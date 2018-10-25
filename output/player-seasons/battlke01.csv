@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-battlke01,1989-90,25,PHO,NBA,59,12.4,.547,.671,2.1,0.6,0.6,0.2,4.1,12.2,1.9,.127,0.9,0.5,,"West Aurora in Aurora, Illinois",
-battlke01,1990-91,26,Denver Nuggets,NBA,56,16.9,.472,.753,3.1,1.1,1.1,0.3,6.1,12.4,1.3,.068,-0.7,0.3,,"West Aurora in Aurora, Illinois",350000
-battlke01,1990-91,26,Denver Nuggets,NBA,16,16.4,.442,.690,3.3,0.9,1.2,0.4,6.0,12.8,0.4,.081,0.2,0.1,,"West Aurora in Aurora, Illinois",350000
-battlke01,1990-91,26,Denver Nuggets,NBA,40,17.1,.485,.781,3.1,1.2,1.0,0.3,6.1,12.3,0.9,.063,-1.0,0.2,,"West Aurora in Aurora, Illinois",350000
-battlke01,1991-92,27,"BOS,GSW",NBA,16,5.8,.647,.833,1.0,0.3,0.1,0.1,2.0,13.4,0.3,.153,-2.5,0.0,,"West Aurora in Aurora, Illinois",
-battlke01,1992-93,28,Boston Celtics,NBA,3,9.7,.462,1.000,3.7,0.7,0.3,0.0,4.7,20.7,0.1,.143,1.8,0.0,,"West Aurora in Aurora, Illinois",140000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Kenny Battle,/players/b/battlke01.html,1990,1993,"Northern Illinois University, University of Illinois at Urbana-Champaign",false,"West Aurora in Aurora, Illinois",-0.89,0.72,battlke01,1989-90,PHO,12.2,1.9,.127,0.9,0.5,,25,NBA,59,12.4,.547,.671,2.1,0.6,0.6,0.2,4.1,PHO,
+Kenny Battle,/players/b/battlke01.html,1990,1993,"Northern Illinois University, University of Illinois at Urbana-Champaign",false,"West Aurora in Aurora, Illinois",-1.70,0.39,battlke01,1990-91,TOT,12.4,1.3,.068,-0.7,0.3,,26,NBA,56,16.9,.472,.753,3.1,1.1,1.1,0.3,6.1,"PHO,DEN",350000
+Kenny Battle,/players/b/battlke01.html,1990,1993,"Northern Illinois University, University of Illinois at Urbana-Champaign",false,"West Aurora in Aurora, Illinois",-0.32,0.12,battlke01,1991-92,TOT,13.4,0.3,.153,-2.5,0.0,,27,NBA,16,5.8,.647,.833,1.0,0.3,0.1,0.1,2.0,"BOS,GSW",
+Kenny Battle,/players/b/battlke01.html,1990,1993,"Northern Illinois University, University of Illinois at Urbana-Champaign",false,"West Aurora in Aurora, Illinois",+0.23,0.05,battlke01,1992-93,BOS,20.7,0.1,.143,1.8,0.0,,28,NBA,3,9.7,.462,1.000,3.7,0.7,0.3,0.0,4.7,BOS,140000

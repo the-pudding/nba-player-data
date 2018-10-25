@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-robingl02,2014-15,21,Philadelphia 76ers,NBA,35,7.5,.388,.667,1.1,0.3,0.2,0.0,2.1,8.5,0.1,.012,-6.3,-0.3,,507336,"Lake Central in St. John, Indiana"
-robingl02,2014-15,21,Philadelphia 76ers,NBA,25,4.3,.333,.750,0.6,0.1,0.1,0.0,1.2,8.2,0.0,.009,-7.1,-0.1,,507336,"Lake Central in St. John, Indiana"
-robingl02,2014-15,21,Philadelphia 76ers,NBA,10,15.3,.419,.500,2.5,0.8,0.3,0.1,4.4,8.6,0.0,.013,-5.8,-0.1,,507336,"Lake Central in St. John, Indiana"
-robingl02,2015-16,22,Indiana Pacers,NBA,45,11.3,.430,.692,1.5,0.6,0.4,0.2,3.8,11.4,0.8,.078,-3.0,-0.1,,845000,"Lake Central in St. John, Indiana"
-robingl02,2016-17,23,Indiana Pacers,NBA,69,20.7,.467,.711,3.6,0.7,0.6,0.3,6.1,11.5,2.5,.085,-1.3,0.2,,1050500,"Lake Central in St. John, Indiana"
-robingl02,2017-18,24,Indiana Pacers,NBA,23,14.7,.424,.818,1.6,0.7,0.6,0.0,4.1,10.8,0.6,.088,-1.8,0.0,,1524305,"Lake Central in St. John, Indiana"
-robingl02,2018-19,25,DET,NBA,2,16.5,.571,,1.0,0.0,0.5,0.5,4.5,8.1,0.0,.029,-5.2,0.0,,,"Lake Central in St. John, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Glenn Robinson,/players/r/robingl02.html,2015,2019,University of Michigan,true,"Lake Central in St. John, Indiana",-0.91,0.24,robingl02,2014-15,TOT,8.5,0.1,.012,-6.3,-0.3,,NBA,507336,21,35,7.5,.388,.667,1.1,0.3,0.2,0.0,2.1,"MIN,PHI"
+Glenn Robinson,/players/r/robingl02.html,2015,2019,University of Michigan,true,"Lake Central in St. John, Indiana",-1.67,0.19,robingl02,2015-16,IND,11.4,0.8,.078,-3.0,-0.1,,NBA,845000,22,45,11.3,.430,.692,1.5,0.6,0.4,0.2,3.8,IND
+Glenn Robinson,/players/r/robingl02.html,2015,2019,University of Michigan,true,"Lake Central in St. John, Indiana",-2.28,0.01,robingl02,2016-17,IND,11.5,2.5,.085,-1.3,0.2,,NBA,1050500,23,69,20.7,.467,.711,3.6,0.7,0.6,0.3,6.1,IND
+Glenn Robinson,/players/r/robingl02.html,2015,2019,University of Michigan,true,"Lake Central in St. John, Indiana",-1.67,0.14,robingl02,2017-18,IND,10.8,0.6,.088,-1.8,0.0,,NBA,1524305,24,23,14.7,.424,.818,1.6,0.7,0.6,0.0,4.1,IND
+Glenn Robinson,/players/r/robingl02.html,2015,2019,University of Michigan,true,"Lake Central in St. John, Indiana",,,robingl02,2018-19,DET,8.1,0.0,.029,-5.2,0.0,,NBA,,25,2,16.5,.571,,1.0,0.0,0.5,0.5,4.5,DET

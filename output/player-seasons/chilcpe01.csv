@@ -1,15 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-chilcpe01,1991-92,23,Sacramento Kings,NBA,69,11.8,.452,.821,2.7,0.6,0.5,0.2,3.6,11.2,0.7,.042,-3.9,-0.4,,475000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1992-93,24,Sacramento Kings,NBA,59,14.1,.485,.696,3.3,1.1,0.4,0.4,6.1,13.4,1.0,.055,-2.3,-0.1,,630000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1993-94,25,Sacramento Kings,NBA,76,18.0,.453,.631,4.9,1.1,0.7,0.5,5.9,12.7,1.5,.052,-1.6,0.1,,760000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1993-94,25,Sacramento Kings,NBA,46,21.2,.463,.596,5.9,1.5,0.9,0.6,7.3,13.6,1.3,.063,-0.4,0.4,,760000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1993-94,25,Sacramento Kings,NBA,30,13.0,.425,.769,3.3,0.5,0.3,0.4,3.8,10.5,0.2,.025,-4.6,-0.3,,760000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1994-95,26,Houston Rockets,NBA,68,19.8,.445,.738,4.7,1.0,0.4,0.6,5.3,11.0,2.1,.074,-1.6,0.2,,126300,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1995-96,27,Houston Rockets,NBA,74,8.8,.408,.654,2.1,0.4,0.3,0.2,2.7,12.5,1.4,.101,-1.9,0.0,,700000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1996-97,28,Vancouver Grizzlies,NBA,54,12.3,.436,.591,2.9,0.9,0.5,0.3,3.4,14.5,1.1,.080,-0.3,0.3,,700000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1997-98,29,Vancouver Grizzlies,NBA,82,17.3,.435,.661,3.7,1.3,0.6,0.5,4.9,12.6,2.0,.067,-0.5,0.5,,700000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1998-99,30,Vancouver Grizzlies,NBA,46,15.2,.366,.824,2.5,0.7,0.5,0.3,3.6,9.4,0.3,.019,-3.6,-0.3,,700000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1999-00,31,Utah Jazz,NBA,56,10.7,.417,1.000,2.3,0.5,0.3,0.2,2.1,8.9,0.6,.046,-3.0,-0.2,,510000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1999-00,31,Utah Jazz,NBA,26,8.6,.355,1.000,1.7,0.4,0.2,0.2,1.8,5.7,0.0,.005,-4.3,-0.1,,510000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1999-00,31,Utah Jazz,NBA,6,5.0,.000,,1.5,0.2,0.0,0.0,0.0,4.4,0.0,.037,-4.9,0.0,,510000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
-chilcpe01,1999-00,31,Utah Jazz,NBA,24,14.5,.492,1.000,3.3,0.7,0.4,0.3,3.0,11.3,0.5,.074,-2.0,0.0,,510000,"Tuscaloosa Academy in Tuscaloosa, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-3.04,-0.43,chilcpe01,1991-92,SAC,11.2,0.7,.042,-3.9,-0.4,,NBA,475000,23,69,11.8,.452,.821,2.7,0.6,0.5,0.2,3.6,SAC
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-2.15,0.08,chilcpe01,1992-93,SAC,13.4,1.0,.055,-2.3,-0.1,,NBA,630000,24,59,14.1,.485,.696,3.3,1.1,0.4,0.4,6.1,SAC
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-2.03,0.20,chilcpe01,1993-94,TOT,12.7,1.5,.052,-1.6,0.1,,NBA,760000,25,76,18.0,.453,.631,4.9,1.1,0.7,0.5,5.9,"SAC,DET"
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-2.16,0.15,chilcpe01,1994-95,HOU,11.0,2.1,.074,-1.6,0.2,,NBA,126300,26,68,19.8,.445,.738,4.7,1.0,0.4,0.6,5.3,HOU
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-1.22,0.47,chilcpe01,1995-96,HOU,12.5,1.4,.101,-1.9,0.0,,NBA,700000,27,74,8.8,.408,.654,2.1,0.4,0.3,0.2,2.7,HOU
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-1.62,0.28,chilcpe01,1996-97,VAN,14.5,1.1,.080,-0.3,0.3,,NBA,700000,28,54,12.3,.436,.591,2.9,0.9,0.5,0.3,3.4,VAN
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-1.32,0.92,chilcpe01,1997-98,VAN,12.6,2.0,.067,-0.5,0.5,,NBA,700000,29,82,17.3,.435,.661,3.7,1.3,0.6,0.5,4.9,VAN
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-3.06,-0.43,chilcpe01,1998-99,VAN,9.4,0.3,.019,-3.6,-0.3,,NBA,700000,30,46,15.2,.366,.824,2.5,0.7,0.5,0.3,3.6,VAN
+Pete Chilcutt,/players/c/chilcpe01.html,1992,2000,University of North Carolina,false,"Tuscaloosa Academy in Tuscaloosa, Alabama",-2.74,-0.23,chilcpe01,1999-00,TOT,8.9,0.6,.046,-3.0,-0.2,,NBA,510000,31,56,10.7,.417,1.000,2.3,0.5,0.3,0.2,2.1,"UTA,CLE,LAC"

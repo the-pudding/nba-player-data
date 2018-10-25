@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hagangl01,1981-82,26,DET,NBA,4,6.3,.429,1.000,1.0,2.0,0.8,0.0,1.8,18.1,0.1,.201,3.7,0.0,,"Cardinal Mooney in Rochester, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Glenn Hagan,/players/h/hagangl01.html,1982,1982,St. Bonaventure University,false,"Cardinal Mooney in Rochester, New York",+0.31,0.04,hagangl01,1981-82,DET,18.1,0.1,.201,3.7,0.0,,26,NBA,4,6.3,.429,1.000,1.0,2.0,0.8,0.0,1.8,DET

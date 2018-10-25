@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-verhope01,1981-82,22,POR,NBA,71,17.0,.503,.708,3.6,0.7,0.6,0.3,4.9,10.4,2.1,.085,-0.9,0.3,,"Hanford in Hanford, California",
-verhope01,1982-83,23,POR,NBA,48,11.0,.509,.677,2.0,0.7,0.4,0.2,4.1,10.9,0.8,.069,-1.9,0.0,,"Hanford in Hanford, California",
-verhope01,1983-84,24,POR,NBA,43,7.6,.500,.680,1.4,0.5,0.5,0.3,2.7,12.0,0.7,.099,0.2,0.2,,"Hanford in Hanford, California",
-verhope01,1984-85,25,Kansas City Kings,NBA,54,6.8,.472,.840,1.2,0.3,0.3,0.1,2.3,8.6,0.4,.053,-2.9,-0.1,,"Hanford in Hanford, California",100000
-verhope01,1985-86,26,Golden State Warriors,NBA,61,12.3,.539,.581,2.6,0.5,0.5,0.3,3.4,10.1,1.2,.076,-1.1,0.2,,"Hanford in Hanford, California",185000
-verhope01,1986-87,27,IND,NBA,5,8.8,.357,,1.4,0.4,0.4,0.2,2.0,5.2,0.0,.040,-4.5,0.0,,"Hanford in Hanford, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Pete Verhoeven,/players/v/verhope01.html,1982,1987,"California State University, Fresno",false,"Hanford in Hanford, California",-1.85,0.36,verhope01,1981-82,POR,10.4,2.1,.085,-0.9,0.3,,22,NBA,71,17.0,.503,.708,3.6,0.7,0.6,0.3,4.9,POR,
+Pete Verhoeven,/players/v/verhope01.html,1982,1987,"California State University, Fresno",false,"Hanford in Hanford, California",-2.25,-0.01,verhope01,1982-83,POR,10.9,0.8,.069,-1.9,0.0,,23,NBA,48,11.0,.509,.677,2.0,0.7,0.4,0.2,4.1,POR,
+Pete Verhoeven,/players/v/verhope01.html,1982,1987,"California State University, Fresno",false,"Hanford in Hanford, California",-0.56,0.40,verhope01,1983-84,POR,12.0,0.7,.099,0.2,0.2,,24,NBA,43,7.6,.500,.680,1.4,0.5,0.5,0.3,2.7,POR,
+Pete Verhoeven,/players/v/verhope01.html,1982,1987,"California State University, Fresno",false,"Hanford in Hanford, California",-2.32,0.00,verhope01,1984-85,KCK,8.6,0.4,.053,-2.9,-0.1,,25,NBA,54,6.8,.472,.840,1.2,0.3,0.3,0.1,2.3,KCK,100000
+Pete Verhoeven,/players/v/verhope01.html,1982,1987,"California State University, Fresno",false,"Hanford in Hanford, California",-2.01,0.15,verhope01,1985-86,GSW,10.1,1.2,.076,-1.1,0.2,,26,NBA,61,12.3,.539,.581,2.6,0.5,0.5,0.3,3.4,GSW,185000
+Pete Verhoeven,/players/v/verhope01.html,1982,1987,"California State University, Fresno",false,"Hanford in Hanford, California",+0.28,0.08,verhope01,1986-87,IND,5.2,0.0,.040,-4.5,0.0,,27,NBA,5,8.8,.357,,1.4,0.4,0.4,0.2,2.0,IND,

@@ -1,22 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-benjabe01,1985-86,21,Los Angeles Clippers,NBA,79,26.4,.490,.746,7.6,1.0,0.8,2.6,11.1,16.1,4.0,.093,-0.3,0.9,,575000,"Carroll in Monroe, Louisiana"
-benjabe01,1986-87,22,LAC,NBA,72,31.0,.449,.715,8.1,1.9,0.8,2.6,11.5,12.6,1.1,.024,-1.7,0.2,,,"Carroll in Monroe, Louisiana"
-benjabe01,1987-88,23,Los Angeles Clippers,NBA,66,32.9,.491,.706,8.0,2.6,0.8,3.4,13.0,14.1,2.0,.045,0.4,1.3,,1082000,"Carroll in Monroe, Louisiana"
-benjabe01,1988-89,24,Los Angeles Clippers,NBA,79,32.7,.541,.744,8.8,2.0,0.7,2.8,16.4,17.4,5.1,.095,0.4,1.5,,1000000,"Carroll in Monroe, Louisiana"
-benjabe01,1989-90,25,Los Angeles Clippers,NBA,71,32.6,.526,.732,9.3,2.2,0.8,2.6,13.5,16.7,5.4,.113,1.9,2.3,,1100000,"Carroll in Monroe, Louisiana"
-benjabe01,1990-91,26,Seattle SuperSonics,NBA,70,31.9,.496,.712,10.3,1.7,0.8,2.1,14.0,15.1,3.0,.064,-1.1,0.5,,1750000,"Carroll in Monroe, Louisiana"
-benjabe01,1990-91,26,Seattle SuperSonics,NBA,39,34.3,.492,.728,12.0,1.9,0.7,2.3,14.9,15.2,1.9,.068,-1.1,0.3,,1750000,"Carroll in Monroe, Louisiana"
-benjabe01,1990-91,26,Seattle SuperSonics,NBA,31,29.0,.502,.690,8.2,1.5,0.9,1.7,12.9,15.1,1.1,.059,-1.2,0.2,,1750000,"Carroll in Monroe, Louisiana"
-benjabe01,1991-92,27,Seattle SuperSonics,NBA,63,30.8,.478,.687,8.1,1.2,0.6,1.9,14.0,14.1,2.2,.054,-2.4,-0.2,,2875000,"Carroll in Monroe, Louisiana"
-benjabe01,1992-93,28,Seattle SuperSonics,NBA,59,12.8,.491,.663,3.5,0.4,0.5,0.8,5.7,13.2,0.9,.057,-4.4,-0.5,,3175000,"Carroll in Monroe, Louisiana"
-benjabe01,1992-93,28,Seattle SuperSonics,NBA,31,14.5,.497,.701,3.6,0.4,0.5,1.1,6.7,14.7,0.9,.093,-3.0,-0.1,,3175000,"Carroll in Monroe, Louisiana"
-benjabe01,1992-93,28,Seattle SuperSonics,NBA,28,10.9,.481,.595,3.4,0.4,0.5,0.5,4.5,11.0,0.0,.003,-6.4,-0.3,,3175000,"Carroll in Monroe, Louisiana"
-benjabe01,1993-94,29,New Jersey Nets,NBA,77,23.6,.480,.710,6.5,0.6,0.5,1.2,9.3,14.2,4.1,.107,-2.4,-0.2,,3575000,"Carroll in Monroe, Louisiana"
-benjabe01,1994-95,30,New Jersey Nets,NBA,61,26.2,.510,.760,7.2,0.6,0.4,1.0,11.1,13.9,2.2,.066,-4.3,-0.9,,3774600,"Carroll in Monroe, Louisiana"
-benjabe01,1995-96,31,Milwaukee Bucks,NBA,83,22.8,.498,.722,6.5,0.8,0.5,1.0,8.8,14.4,2.3,.057,-3.3,-0.6,,3975000,"Carroll in Monroe, Louisiana"
-benjabe01,1995-96,31,Milwaukee Bucks,NBA,13,31.1,.441,.696,7.9,1.2,0.8,1.2,13.9,13.6,0.1,.010,-4.9,-0.3,,3975000,"Carroll in Monroe, Louisiana"
-benjabe01,1995-96,31,Milwaukee Bucks,NBA,70,21.3,.520,.732,6.2,0.7,0.5,1.0,7.8,14.6,2.2,.070,-2.9,-0.3,,3975000,"Carroll in Monroe, Louisiana"
-benjabe01,1996-97,32,TOR,NBA,4,11.0,.417,.750,2.3,0.3,0.3,0.0,3.3,8.9,0.0,.033,-8.4,-0.1,,,"Carroll in Monroe, Louisiana"
-benjabe01,1997-98,33,PHI,NBA,14,14.1,.537,.633,3.8,0.2,0.3,0.3,4.5,12.5,0.4,.098,-4.8,-0.1,,,"Carroll in Monroe, Louisiana"
-benjabe01,1998-99,34,PHI,NBA,6,5.5,.286,,1.3,0.2,0.0,0.0,0.7,-1.5,-0.1,-0.100,-10.8,-0.1,,,"Carroll in Monroe, Louisiana"
-benjabe01,1999-00,35,Cleveland Cavaliers,NBA,3,2.7,.333,,0.3,0.0,0.0,0.3,0.7,5.5,0.0,-0.036,-11.0,0.0,,123529,"Carroll in Monroe, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",+0.69,4.20,benjabe01,1985-86,LAC,16.1,4.0,.093,-0.3,0.9,,NBA,575000,21,79,26.4,.490,.746,7.6,1.0,0.8,2.6,11.1,LAC
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-1.23,1.55,benjabe01,1986-87,LAC,12.6,1.1,.024,-1.7,0.2,,NBA,,22,72,31.0,.449,.715,8.1,1.9,0.8,2.6,11.5,LAC
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.43,2.68,benjabe01,1987-88,LAC,14.1,2.0,.045,0.4,1.3,,NBA,1082000,23,66,32.9,.491,.706,8.0,2.6,0.8,3.4,13.0,LAC
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",+0.36,4.63,benjabe01,1988-89,LAC,17.4,5.1,.095,0.4,1.5,,NBA,1000000,24,79,32.7,.541,.744,8.8,2.0,0.7,2.8,16.4,LAC
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",+1.44,5.86,benjabe01,1989-90,LAC,16.7,5.4,.113,1.9,2.3,,NBA,1100000,25,71,32.6,.526,.732,9.3,2.2,0.8,2.6,13.5,LAC
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.05,3.61,benjabe01,1990-91,TOT,15.1,3.0,.064,-1.1,0.5,,NBA,1750000,26,70,31.9,.496,.712,10.3,1.7,0.8,2.1,14.0,"LAC,SEA"
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.22,2.93,benjabe01,1991-92,SEA,14.1,2.2,.054,-2.4,-0.2,,NBA,2875000,27,63,30.8,.478,.687,8.1,1.2,0.6,1.9,14.0,SEA
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.80,0.75,benjabe01,1992-93,TOT,13.2,0.9,.057,-4.4,-0.5,,NBA,3175000,28,59,12.8,.491,.663,3.5,0.4,0.5,0.8,5.7,"SEA,LAL"
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.08,2.87,benjabe01,1993-94,NJN,14.2,4.1,.107,-2.4,-0.2,,NBA,3575000,29,77,23.6,.480,.710,6.5,0.6,0.5,1.2,9.3,NJN
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-1.41,0.92,benjabe01,1994-95,NJN,13.9,2.2,.066,-4.3,-0.9,,NBA,3774600,30,61,26.2,.510,.760,7.2,0.6,0.4,1.0,11.1,NJN
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-1.46,1.00,benjabe01,1995-96,TOT,14.4,2.3,.057,-3.3,-0.6,,NBA,3975000,31,83,22.8,.498,.722,6.5,0.8,0.5,1.0,8.8,"VAN,MIL"
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.21,0.06,benjabe01,1996-97,TOR,8.9,0.0,.033,-8.4,-0.1,,NBA,,32,4,11.0,.417,.750,2.3,0.3,0.3,0.0,3.3,TOR
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",-0.56,0.23,benjabe01,1997-98,PHI,12.5,0.4,.098,-4.8,-0.1,,NBA,,33,14,14.1,.537,.633,3.8,0.2,0.3,0.3,4.5,PHI
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",+0.33,0.06,benjabe01,1998-99,PHI,-1.5,-0.1,-0.100,-10.8,-0.1,,NBA,,34,6,5.5,.286,,1.3,0.2,0.0,0.0,0.7,PHI
+Benoit Benjamin,/players/b/benjabe01.html,1986,2000,Creighton University,false,"Carroll in Monroe, Louisiana",+0.45,0.01,benjabe01,1999-00,CLE,5.5,0.0,-0.036,-11.0,0.0,,NBA,123529,35,3,2.7,.333,,0.3,0.0,0.0,0.3,0.7,CLE

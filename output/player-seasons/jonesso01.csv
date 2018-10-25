@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesso01,2006-07,22,Atlanta Hawks,NBA,58,11.5,.508,.787,2.3,0.2,0.2,0.7,3.3,12.3,1.6,.117,-2.5,-0.1,,675000,"Mount Dora in Mount Dora, Florida"
-jonesso01,2007-08,23,Atlanta Hawks,NBA,35,4.1,.400,.550,1.2,0.0,0.1,0.1,1.0,6.8,0.0,.000,-11.5,-0.3,,729000,"Mount Dora in Mount Dora, Florida"
-jonesso01,2008-09,24,Atlanta Hawks,NBA,63,10.7,.604,.716,2.3,0.2,0.1,0.5,3.0,12.0,1.9,.138,-1.4,0.1,,797581,"Mount Dora in Mount Dora, Florida"
-jonesso01,2009-10,25,Indiana Pacers,NBA,52,13.0,.443,.718,2.8,0.6,0.3,0.7,4.0,9.9,0.8,.058,-3.1,-0.2,,1620000,"Mount Dora in Mount Dora, Florida"
-jonesso01,2010-11,26,Indiana Pacers,NBA,39,13.5,.405,.661,2.9,0.8,0.3,0.6,3.6,8.5,0.5,.042,-2.6,-0.1,,1500000,"Mount Dora in Mount Dora, Florida"
-jonesso01,2011-12,27,Los Angeles Clippers,NBA,21,13.9,.393,.826,2.8,0.4,0.4,0.5,3.2,9.1,0.3,.042,-2.0,0.0,,280234,"Mount Dora in Mount Dora, Florida"
-jonesso01,2011-12,27,Los Angeles Clippers,NBA,10,9.6,.125,.800,1.7,0.2,0.4,0.5,0.6,5.3,0.0,.008,-1.1,0.0,,280234,"Mount Dora in Mount Dora, Florida"
-jonesso01,2011-12,27,Los Angeles Clippers,NBA,11,17.8,.434,.833,3.7,0.6,0.5,0.5,5.5,11.0,0.2,.059,-2.4,0.0,,280234,"Mount Dora in Mount Dora, Florida"
-jonesso01,2012-13,28,NYK,NBA,2,13.0,.000,,1.5,0.0,0.0,0.5,0.0,-5.7,-0.1,-0.172,-10.5,-0.1,,,"Mount Dora in Mount Dora, Florida"
-jonesso01,2013-14,29,ORL,NBA,11,7.7,.353,.500,1.5,0.2,0.2,0.2,1.3,5.8,0.0,.013,-5.5,-0.1,,,"Mount Dora in Mount Dora, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",-2.66,-0.16,jonesso01,2006-07,ATL,12.3,1.6,.117,-2.5,-0.1,,NBA,675000,22,58,11.5,.508,.787,2.3,0.2,0.2,0.7,3.3,ATL
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",-1.66,0.08,jonesso01,2007-08,ATL,6.8,0.0,.000,-11.5,-0.3,,NBA,729000,23,35,4.1,.400,.550,1.2,0.0,0.1,0.1,1.0,ATL
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",-3.05,-0.37,jonesso01,2008-09,ATL,12.0,1.9,.138,-1.4,0.1,,NBA,797581,24,63,10.7,.604,.716,2.3,0.2,0.1,0.5,3.0,ATL
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",-2.98,-0.35,jonesso01,2009-10,IND,9.9,0.8,.058,-3.1,-0.2,,NBA,1620000,25,52,13.0,.443,.718,2.8,0.6,0.3,0.7,4.0,IND
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",-2.14,0.02,jonesso01,2010-11,IND,8.5,0.5,.042,-2.6,-0.1,,NBA,1500000,26,39,13.5,.405,.661,2.9,0.8,0.3,0.6,3.6,IND
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",-3.44,-0.25,jonesso01,2011-12,TOT,9.1,0.3,.042,-2.0,0.0,,NBA,280234,27,21,13.9,.393,.826,2.8,0.4,0.4,0.5,3.2,"LAC,NOH"
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",+0.12,0.04,jonesso01,2012-13,NYK,-5.7,-0.1,-0.172,-10.5,-0.1,,NBA,,28,2,13.0,.000,,1.5,0.0,0.0,0.5,0.0,NYK
+Solomon Jones,/players/j/jonesso01.html,2007,2014,University of South Florida,false,"Mount Dora in Mount Dora, Florida",+0.12,0.14,jonesso01,2013-14,ORL,5.8,0.0,.013,-5.5,-0.1,,NBA,,29,11,7.7,.353,.500,1.5,0.2,0.2,0.2,1.3,ORL

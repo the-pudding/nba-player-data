@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-baileja01,1979-80,22,SEA,NBA,67,10.8,.450,.673,2.9,0.4,0.3,0.8,4.7,12.3,1.0,.063,-3.5,-0.3,,"Xaverian in Westwood, Massachusetts",
-baileja01,1980-81,23,SEA,NBA,82,31.0,.499,.709,7.4,1.2,0.9,1.7,14.0,14.5,4.9,.094,-0.1,1.2,,"Xaverian in Westwood, Massachusetts",
-baileja01,1981-82,24,"SEA,NJN",NBA,77,19.1,.517,.612,5.1,0.8,0.5,1.1,8.6,13.3,2.9,.094,-1.5,0.2,,"Xaverian in Westwood, Massachusetts",
-baileja01,1982-83,25,"NJN,HOU",NBA,75,23.5,.497,.702,6.3,0.9,0.6,0.8,13.3,15.6,2.0,.055,-3.1,-0.5,,"Xaverian in Westwood, Massachusetts",
-baileja01,1983-84,26,HOU,NBA,73,16.1,.491,.719,4.0,1.1,0.5,0.5,8.8,15.5,2.3,.093,-1.5,0.1,,"Xaverian in Westwood, Massachusetts",
-baileja01,1984-85,27,NYK,NBA,74,17.5,.447,.676,4.6,0.5,0.4,0.7,5.2,7.9,0.6,.021,-4.1,-0.7,,"Xaverian in Westwood, Massachusetts",
-baileja01,1985-86,28,New York Knicks,NBA,48,25.9,.456,.772,7.0,1.0,0.7,0.8,11.1,12.6,1.9,.075,-2.0,0.0,,"Xaverian in Westwood, Massachusetts",500000
-baileja01,1986-87,29,NJN,NBA,34,15.9,.469,.725,4.0,0.6,0.4,0.7,8.3,11.9,0.3,.031,-4.7,-0.4,,"Xaverian in Westwood, Massachusetts",
-baileja01,1987-88,30,Phoenix Suns,NBA,65,13.4,.452,.787,3.2,0.6,0.3,0.4,4.4,8.3,0.4,.023,-4.4,-0.5,,"Xaverian in Westwood, Massachusetts",300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-0.11,1.27,baileja01,1979-80,SEA,12.3,1.0,.063,-3.5,-0.3,,22,NBA,67,10.8,.450,.673,2.9,0.4,0.3,0.8,4.7,SEA,
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",+0.48,4.77,baileja01,1980-81,SEA,14.5,4.9,.094,-0.1,1.2,,23,NBA,82,31.0,.499,.709,7.4,1.2,0.9,1.7,14.0,SEA,
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-0.58,1.68,baileja01,1981-82,TOT,13.3,2.9,.094,-1.5,0.2,,24,NBA,77,19.1,.517,.612,5.1,0.8,0.5,1.1,8.6,"SEA,NJN",
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-1.76,0.49,baileja01,1982-83,TOT,15.6,2.0,.055,-3.1,-0.5,,25,NBA,75,23.5,.497,.702,6.3,0.9,0.6,0.8,13.3,"NJN,HOU",
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-0.93,1.06,baileja01,1983-84,HOU,15.5,2.3,.093,-1.5,0.1,,26,NBA,73,16.1,.491,.719,4.0,1.1,0.5,0.5,8.8,HOU,
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-2.58,-0.29,baileja01,1984-85,NYK,7.9,0.6,.021,-4.1,-0.7,,27,NBA,74,17.5,.447,.676,4.6,0.5,0.4,0.7,5.2,NYK,
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-0.91,1.11,baileja01,1985-86,NYK,12.6,1.9,.075,-2.0,0.0,,28,NBA,48,25.9,.456,.772,7.0,1.0,0.7,0.8,11.1,NYK,500000
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-2.33,-0.02,baileja01,1986-87,NJN,11.9,0.3,.031,-4.7,-0.4,,29,NBA,34,15.9,.469,.725,4.0,0.6,0.4,0.7,8.3,NJN,
+James Bailey,/players/b/baileja01.html,1980,1988,Rutgers University,false,"Xaverian in Westwood, Massachusetts",-2.91,-0.34,baileja01,1987-88,PHO,8.3,0.4,.023,-4.4,-0.5,,30,NBA,65,13.4,.452,.787,3.2,0.6,0.3,0.4,4.4,PHO,300000

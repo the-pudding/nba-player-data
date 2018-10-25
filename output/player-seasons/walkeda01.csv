@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-walkeda01,1983-84,22,NYK,NBA,82,16.1,.417,.791,2.0,3.5,1.5,0.2,7.9,15.9,2.3,.083,2.0,1.3,,"Corliss in Chicago, Illinois",
-walkeda01,1984-85,23,New York Knicks,NBA,82,30.4,.435,.700,3.4,5.0,2.0,0.3,13.5,14.7,2.8,.054,0.8,1.8,,"Corliss in Chicago, Illinois",230000
-walkeda01,1985-86,24,New York Knicks,NBA,81,25.0,.430,.686,2.7,4.2,1.8,0.4,10.3,14.0,2.1,.050,0.9,1.5,,"Corliss in Chicago, Illinois",265000
-walkeda01,1986-87,25,DEN,NBA,81,24.9,.482,.745,4.0,3.5,1.5,0.5,12.2,15.8,3.8,.090,0.7,1.4,,"Corliss in Chicago, Illinois",
-walkeda01,1987-88,26,Washington Bullets,NBA,52,18.1,.392,.781,2.4,1.9,1.2,0.2,6.0,10.6,0.8,.041,-0.8,0.3,,"Corliss in Chicago, Illinois",400000
-walkeda01,1988-89,27,Washington Bullets,NBA,79,32.5,.420,.772,6.4,6.3,2.0,0.3,9.0,13.4,3.7,.070,1.9,2.5,,"Corliss in Chicago, Illinois",450000
-walkeda01,1989-90,28,WSB,NBA,81,35.6,.454,.687,8.8,8.0,1.7,0.4,9.5,15.6,6.3,.105,2.8,3.5,,"Corliss in Chicago, Illinois",
-walkeda01,1990-91,29,Washington Bullets,NBA,71,32.5,.430,.604,7.0,6.5,1.1,0.5,7.8,12.4,2.9,.061,0.2,1.3,,"Corliss in Chicago, Illinois",610000
-walkeda01,1991-92,30,Detroit Pistons,NBA,74,20.8,.423,.619,3.2,2.8,0.9,0.2,5.2,10.9,2.4,.075,-0.2,0.7,,"Corliss in Chicago, Illinois",665000
-walkeda01,1992-93,31,Detroit Pistons,NBA,37,13.8,.354,.462,1.6,1.4,0.9,0.1,2.2,6.4,0.2,.019,-2.8,-0.1,,"Corliss in Chicago, Illinois",735000
-walkeda01,1992-93,31,Detroit Pistons,NBA,9,16.0,.158,.333,2.1,1.0,1.1,0.0,0.9,0.1,-0.3,-0.117,-5.6,-0.1,,"Corliss in Chicago, Illinois",735000
-walkeda01,1992-93,31,Detroit Pistons,NBA,28,13.1,.403,.500,1.4,1.6,0.8,0.1,2.6,8.9,0.6,.073,-1.7,0.0,,"Corliss in Chicago, Illinois",735000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",+0.96,3.36,walkeda01,1983-84,NYK,15.9,2.3,.083,2.0,1.3,,22,NBA,82,16.1,.417,.791,2.0,3.5,1.5,0.2,7.9,NYK,
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",+0.04,3.91,walkeda01,1984-85,NYK,14.7,2.8,.054,0.8,1.8,,23,NBA,82,30.4,.435,.700,3.4,5.0,2.0,0.3,13.5,NYK,230000
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",-0.10,2.97,walkeda01,1985-86,NYK,14.0,2.1,.050,0.9,1.5,,24,NBA,81,25.0,.430,.686,2.7,4.2,1.8,0.4,10.3,NYK,265000
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",-0.44,2.61,walkeda01,1986-87,DEN,15.8,3.8,.090,0.7,1.4,,25,NBA,81,24.9,.482,.745,4.0,3.5,1.5,0.5,12.2,DEN,
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",-1.11,0.85,walkeda01,1987-88,WSB,10.6,0.8,.041,-0.8,0.3,,26,NBA,52,18.1,.392,.781,2.4,1.9,1.2,0.2,6.0,WSB,400000
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",+0.91,5.55,walkeda01,1988-89,WSB,13.4,3.7,.070,1.9,2.5,,27,NBA,79,32.5,.420,.772,6.4,6.3,2.0,0.3,9.0,WSB,450000
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",+2.06,8.40,walkeda01,1989-90,WSB,15.6,6.3,.105,2.8,3.5,,28,NBA,81,35.6,.454,.687,8.8,8.0,1.7,0.4,9.5,WSB,
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",-0.49,2.78,walkeda01,1990-91,WSB,12.4,2.9,.061,0.2,1.3,,29,NBA,71,32.5,.430,.604,7.0,6.5,1.1,0.5,7.8,WSB,610000
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",-1.01,1.35,walkeda01,1991-92,DET,10.9,2.4,.075,-0.2,0.7,,30,NBA,74,20.8,.423,.619,3.2,2.8,0.9,0.2,5.2,DET,665000
+Darrell Walker,/players/w/walkeda01.html,1984,1993,University of Arkansas,false,"Corliss in Chicago, Illinois",-2.38,-0.04,walkeda01,1992-93,TOT,6.4,0.2,.019,-2.8,-0.1,,31,NBA,37,13.8,.354,.462,1.6,1.4,0.9,0.1,2.2,"DET,CHI",735000

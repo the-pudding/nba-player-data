@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-maravpe01,1976-77,29,NOJ,NBA,73,41.7,.433,.835,5.1,5.4,1.2,0.3,31.1,19.8,6.4,.101,1.8,2.9,All-NBA (1st),"Edward Military Institute in Salemberg, North Carolina"
-maravpe01,1977-78,30,NOJ,NBA,50,40.8,.444,.870,3.6,6.7,2.0,0.2,27.0,17.6,2.9,.069,0.0,1.0,All-NBA (2nd),"Edward Military Institute in Salemberg, North Carolina"
-maravpe01,1978-79,31,NOJ,NBA,49,37.2,.421,.841,2.5,5.0,1.2,0.4,22.6,13.4,0.1,.004,-4.5,-1.1,,"Edward Military Institute in Salemberg, North Carolina"
-maravpe01,1979-80,32,"UTA,BOS",NBA,43,22.4,.449,.867,1.8,1.9,0.6,0.1,13.7,13.8,0.5,.027,-5.8,-0.9,,"Edward Military Institute in Salemberg, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pete Maravich,/players/m/maravpe01.html,1971,1980,Louisiana State University,false,"Edward Military Institute in Salemberg, North Carolina",+0.20,5.14,maravpe01,1976-77,NOJ,19.8,6.4,.101,1.8,2.9,All-NBA (1st),29,NBA,73,41.7,.433,.835,5.1,5.4,1.2,0.3,31.1,NOJ
+Pete Maravich,/players/m/maravpe01.html,1971,1980,Louisiana State University,false,"Edward Military Institute in Salemberg, North Carolina",-0.85,1.89,maravpe01,1977-78,NOJ,17.6,2.9,.069,0.0,1.0,All-NBA (2nd),30,NBA,50,40.8,.444,.870,3.6,6.7,2.0,0.2,27.0,NOJ
+Pete Maravich,/players/m/maravpe01.html,1971,1980,Louisiana State University,false,"Edward Military Institute in Salemberg, North Carolina",-3.15,-1.19,maravpe01,1978-79,NOJ,13.4,0.1,.004,-4.5,-1.1,,31,NBA,49,37.2,.421,.841,2.5,5.0,1.2,0.4,22.6,NOJ
+Pete Maravich,/players/m/maravpe01.html,1971,1980,Louisiana State University,false,"Edward Military Institute in Salemberg, North Carolina",-3.03,-0.55,maravpe01,1979-80,TOT,13.8,0.5,.027,-5.8,-0.9,,32,NBA,43,22.4,.449,.867,1.8,1.9,0.6,0.1,13.7,"UTA,BOS"

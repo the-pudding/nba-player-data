@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-herroke01,1978-79,22,ATL,NBA,14,5.8,.292,.923,0.7,0.2,0.4,0.1,2.9,9.3,0.0,-0.011,-7.7,-0.1,,"Mackin in Washington, District of Columbia"
-herroke01,1979-80,23,Did Not Play (other pro league—Belgium),,,,,,,,,,,,,,,,,"Mackin in Washington, District of Columbia"
-herroke01,1980-81,24,DET,NBA,80,28.4,.453,.854,2.6,1.9,1.1,0.3,13.7,13.4,3.5,.074,-2.1,-0.1,,"Mackin in Washington, District of Columbia"
-herroke01,1981-82,25,CLE,NBA,30,9.0,.368,.875,0.7,0.8,0.3,0.1,2.8,6.8,-0.3,-0.052,-7.3,-0.4,,"Mackin in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Herron,/players/h/herroke01.html,1979,1982,Villanova University,false,"Mackin in Washington, District of Columbia",+0.38,0.15,herroke01,1978-79,ATL,9.3,0.0,-0.011,-7.7,-0.1,,22,NBA,14,5.8,.292,.923,0.7,0.2,0.4,0.1,2.9,ATL
+Keith Herron,/players/h/herroke01.html,1979,1982,Villanova University,false,"Mackin in Washington, District of Columbia",,,herroke01,1979-80,Did Not Play (other pro league—Belgium),,,,,,,23,,,,,,,,,,,Did Not Play (other pro league—Belgium)
+Keith Herron,/players/h/herroke01.html,1979,1982,Villanova University,false,"Mackin in Washington, District of Columbia",-2.03,0.24,herroke01,1980-81,DET,13.4,3.5,.074,-2.1,-0.1,,24,NBA,80,28.4,.453,.854,2.6,1.9,1.1,0.3,13.7,DET
+Keith Herron,/players/h/herroke01.html,1979,1982,Villanova University,false,"Mackin in Washington, District of Columbia",-3.19,-0.17,herroke01,1981-82,CLE,6.8,-0.3,-0.052,-7.3,-0.4,,25,NBA,30,9.0,.368,.875,0.7,0.8,0.3,0.1,2.8,CLE

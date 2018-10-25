@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rubiori01,2011-12,21,Minnesota Timberwolves,NBA,41,34.2,.357,.803,4.2,8.2,2.2,0.2,10.6,14.6,2.0,.070,0.9,1.0,,3480120,
-rubiori01,2012-13,22,Minnesota Timberwolves,NBA,57,29.7,.360,.799,4.0,7.3,2.4,0.1,10.7,16.2,3.0,.085,1.8,1.6,,3741120,
-rubiori01,2013-14,23,Minnesota Timberwolves,NBA,82,32.2,.381,.802,4.2,8.6,2.3,0.1,9.5,15.4,5.9,.107,1.5,2.3,,4002120,
-rubiori01,2014-15,24,Minnesota Timberwolves,NBA,22,31.5,.356,.803,5.7,8.8,1.7,0.0,10.3,15.2,0.5,.033,-0.5,0.3,,5070686,
-rubiori01,2015-16,25,Minnesota Timberwolves,NBA,76,30.6,.374,.847,4.3,8.7,2.1,0.1,10.1,17.6,5.8,.119,1.9,2.3,,12365000,
-rubiori01,2016-17,26,Minnesota Timberwolves,NBA,75,32.9,.402,.891,4.1,9.1,1.7,0.1,11.1,16.8,6.1,.119,0.8,1.7,,13550000,
-rubiori01,2017-18,27,Utah Jazz,NBA,77,29.3,.418,.866,4.6,5.3,1.6,0.1,13.1,15.4,5.3,.112,1.7,2.1,,14275000,
-rubiori01,2018-19,28,UTA,NBA,4,29.3,.219,1.000,2.5,6.3,1.0,0.3,6.0,3.0,-0.2,-0.069,-5.5,-0.1,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+1.80,3.94,rubiori01,2011-12,MIN,14.6,2.0,.070,0.9,1.0,,NBA,3480120,21,41,34.2,.357,.803,4.2,8.2,2.2,0.2,10.6,MIN
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+0.68,3.41,rubiori01,2012-13,MIN,16.2,3.0,.085,1.8,1.6,,NBA,3741120,22,57,29.7,.360,.799,4.0,7.3,2.4,0.1,10.7,MIN
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+3.90,10.86,rubiori01,2013-14,MIN,15.4,5.9,.107,1.5,2.3,,NBA,4002120,23,82,32.2,.381,.802,4.2,8.6,2.3,0.1,9.5,MIN
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+2.05,2.05,rubiori01,2014-15,MIN,15.2,0.5,.033,-0.5,0.3,,NBA,5070686,24,22,31.5,.356,.803,5.7,8.8,1.7,0.0,10.3,MIN
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+3.29,8.68,rubiori01,2015-16,MIN,17.6,5.8,.119,1.9,2.3,,NBA,12365000,25,76,30.6,.374,.847,4.3,8.7,2.1,0.1,10.1,MIN
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+1.00,5.42,rubiori01,2016-17,MIN,16.8,6.1,.119,0.8,1.7,,NBA,13550000,26,75,32.9,.402,.891,4.1,9.1,1.7,0.1,11.1,MIN
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,+1.80,6.74,rubiori01,2017-18,UTA,15.4,5.3,.112,1.7,2.1,,NBA,14275000,27,77,29.3,.418,.866,4.6,5.3,1.6,0.1,13.1,UTA
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true,,,,rubiori01,2018-19,UTA,3.0,-0.2,-0.069,-5.5,-0.1,,NBA,,28,4,29.3,.219,1.000,2.5,6.3,1.0,0.3,6.0,UTA

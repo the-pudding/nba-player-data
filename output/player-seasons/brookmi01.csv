@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-brookmi01,1980-81,22,SDC,NBA,82,30.2,.479,.706,5.4,2.5,1.2,0.4,14.7,15.8,4.9,.095,1.0,1.9,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1981-82,23,SDC,NBA,82,33.5,.504,.757,7.6,2.9,1.4,0.5,15.6,16.1,4.5,.079,1.0,2.1,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1982-83,24,SDC,NBA,82,30.0,.484,.697,6.4,3.2,1.4,0.5,12.2,15.2,4.7,.091,1.5,2.2,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1983-84,25,SDC,NBA,47,29.9,.479,.689,7.3,1.9,1.1,0.3,11.3,14.0,2.4,.081,1.1,1.1,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1984-85,26,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1985-86,27,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1986-87,28,IND,NBA,10,14.8,.351,.700,2.8,1.1,0.9,0.0,3.3,6.4,0.0,-0.007,-3.9,-0.1,,"West Catholic in Philadelphia, Pennsylvania",
-brookmi01,1987-88,29,Denver Nuggets,NBA,16,8.3,.408,.750,2.8,0.8,0.3,0.1,2.7,9.6,0.0,.016,-3.8,-0.1,,"West Catholic in Philadelphia, Pennsylvania",75000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",-0.49,3.00,brookmi01,1980-81,SDC,15.8,4.9,.095,1.0,1.9,,22,NBA,82,30.2,.479,.706,5.4,2.5,1.2,0.4,14.7,SDC,
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",-0.36,3.59,brookmi01,1981-82,SDC,16.1,4.5,.079,1.0,2.1,,23,NBA,82,33.5,.504,.757,7.6,2.9,1.4,0.5,15.6,SDC,
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",-0.71,2.60,brookmi01,1982-83,SDC,15.2,4.7,.091,1.5,2.2,,24,NBA,82,30.0,.484,.697,6.4,3.2,1.4,0.5,12.2,SDC,
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",-1.23,1.03,brookmi01,1983-84,SDC,14.0,2.4,.081,1.1,1.1,,25,NBA,47,29.9,.479,.689,7.3,1.9,1.1,0.3,11.3,SDC,
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",,,brookmi01,1984-85,Did Not Play (injury—knee),,,,,,,26,,,,,,,,,,,Did Not Play (injury—knee),
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",,,brookmi01,1985-86,Did Not Play (injury—knee),,,,,,,27,,,,,,,,,,,Did Not Play (injury—knee),
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",-0.44,0.18,brookmi01,1986-87,IND,6.4,0.0,-0.007,-3.9,-0.1,,28,NBA,10,14.8,.351,.700,2.8,1.1,0.9,0.0,3.3,IND,
+Michael Brooks,/players/b/brookmi01.html,1981,1988,La Salle University,false,"West Catholic in Philadelphia, Pennsylvania",-1.02,0.12,brookmi01,1987-88,DEN,9.6,0.0,.016,-3.8,-0.1,,29,NBA,16,8.3,.408,.750,2.8,0.8,0.3,0.1,2.7,DEN,75000

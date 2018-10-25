@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hansbbe01,2012-13,25,Indiana Pacers,NBA,28,7.1,.333,.778,0.6,0.8,0.3,0.1,2.0,7.2,0.2,.044,-4.4,-0.1,,473604,"Poplar Bluff in Poplar Bluff, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ben Hansbrough,/players/h/hansbbe01.html,2013,2013,"Mississippi State University, University of Notre Dame",false,"Poplar Bluff in Poplar Bluff, Missouri",-3.02,-0.15,hansbbe01,2012-13,IND,7.2,0.2,.044,-4.4,-0.1,,NBA,473604,25,28,7.1,.333,.778,0.6,0.8,0.3,0.1,2.0,IND

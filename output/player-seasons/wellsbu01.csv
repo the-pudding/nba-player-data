@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wellsbu01,1997-98,23,Dallas Mavericks,NBA,39,10.1,.414,.721,1.7,0.9,0.4,0.1,3.3,11.1,0.1,.013,-5.0,-0.3,,260000,"Russellville in Russellville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bubba Wells,/players/w/wellsbu01.html,1998,1998,Austin Peay State University,false,"Russellville in Russellville, Kentucky",-2.57,-0.10,wellsbu01,1997-98,DAL,11.1,0.1,.013,-5.0,-0.3,,NBA,260000,23,39,10.1,.414,.721,1.7,0.9,0.4,0.1,3.3,DAL

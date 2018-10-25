@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-morrija01,2017-18,22,Atlanta Hawks,NBA,6,16.3,.406,,2.7,1.2,0.3,0.2,4.7,6.5,-0.1,-0.053,-7.1,-0.1,,193536,"St. Joseph's Collegiate Institute in Buffalo, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jaylen Morris,/players/m/morrija01.html,2018,2018,Molloy,true,"St. Joseph's Collegiate Institute in Buffalo, New York",-0.79,0.10,morrija01,2017-18,ATL,6.5,-0.1,-0.053,-7.1,-0.1,,NBA,193536,22,6,16.3,.406,,2.7,1.2,0.3,0.2,4.7,ATL

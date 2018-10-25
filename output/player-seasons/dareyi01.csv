@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dareyi01,1994-95,22,New Jersey Nets,NBA,1,3.0,.000,,1.0,0.0,0.0,0.0,0.0,-33.9,0.0,-0.736,-39.3,0.0,,920000,"Milford Academy in Milford, Connecticut"
-dareyi01,1995-96,23,New Jersey Nets,NBA,58,10.8,.438,.613,3.1,0.0,0.1,0.7,2.8,6.1,-0.5,-0.037,-11.5,-1.5,,1184000,"Milford Academy in Milford, Connecticut"
-dareyi01,1996-97,24,New Jersey Nets,NBA,41,7.6,.352,.514,2.0,0.1,0.1,0.7,1.4,7.2,-0.1,-0.014,-6.3,-0.3,,1448000,"Milford Academy in Milford, Connecticut"
-dareyi01,1997-98,25,New Jersey Nets,NBA,10,6.0,.222,.500,1.7,0.1,0.0,0.2,1.2,4.5,-0.1,-0.051,-9.4,-0.1,,1552500,"Milford Academy in Milford, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Yinka Dare,/players/d/dareyi01.html,1995,1998,George Washington University,false,"Milford Academy in Milford, Connecticut",+0.12,0.00,dareyi01,1994-95,NJN,-33.9,0.0,-0.736,-39.3,0.0,,NBA,920000,22,1,3.0,.000,,1.0,0.0,0.0,0.0,0.0,NJN
+Yinka Dare,/players/d/dareyi01.html,1995,1998,George Washington University,false,"Milford Academy in Milford, Connecticut",-3.69,-0.65,dareyi01,1995-96,NJN,6.1,-0.5,-0.037,-11.5,-1.5,,NBA,1184000,23,58,10.8,.438,.613,3.1,0.0,0.1,0.7,2.8,NJN
+Yinka Dare,/players/d/dareyi01.html,1995,1998,George Washington University,false,"Milford Academy in Milford, Connecticut",-2.30,-0.01,dareyi01,1996-97,NJN,7.2,-0.1,-0.014,-6.3,-0.3,,NBA,1448000,24,41,7.6,.352,.514,2.0,0.1,0.1,0.7,1.4,NJN
+Yinka Dare,/players/d/dareyi01.html,1995,1998,George Washington University,false,"Milford Academy in Milford, Connecticut",-0.16,0.09,dareyi01,1997-98,NJN,4.5,-0.1,-0.051,-9.4,-0.1,,NBA,1552500,25,10,6.0,.222,.500,1.7,0.1,0.0,0.2,1.2,NJN

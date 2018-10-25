@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-henrymy01,2017-18,25,Memphis Grizzlies,NBA,20,18.9,.376,.600,1.9,1.1,1.6,0.3,5.4,9.7,0.1,.017,-1.3,0.1,,,"Orr in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Myke Henry,/players/h/henrymy01.html,2018,2018,DePaul University,true,"Orr in Chicago, Illinois",-1.20,0.29,henrymy01,2017-18,MEM,9.7,0.1,.017,-1.3,0.1,,NBA,,25,20,18.9,.376,.600,1.9,1.1,1.6,0.3,5.4,MEM

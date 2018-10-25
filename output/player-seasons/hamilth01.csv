@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hamilth01,1995-96,20,BOS,NBA,11,6.4,.290,.389,2.0,0.1,0.0,0.8,2.3,4.3,-0.3,-0.213,-14.9,-0.2,,"Martin Luther King in Chicago, Illinois",
-hamilth01,1996-97,21,Did Not Play,,,,,,,,,,,,,,,,,"Martin Luther King in Chicago, Illinois",
-hamilth01,1997-98,22,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Martin Luther King in Chicago, Illinois",
-hamilth01,1998-99,23,Did Not Play,,,,,,,,,,,,,,,,,"Martin Luther King in Chicago, Illinois",
-hamilth01,1999-00,24,Houston Rockets,NBA,22,12.4,.443,.522,4.1,0.7,0.2,0.6,3.7,11.4,0.0,.002,-4.7,-0.2,,"Martin Luther King in Chicago, Illinois",510000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Thomas Hamilton,/players/h/hamilth01.html,1996,2000,University of Pittsburgh,false,"Martin Luther King in Chicago, Illinois",-0.32,0.09,hamilth01,1995-96,BOS,4.3,-0.3,-0.213,-14.9,-0.2,,20,NBA,11,6.4,.290,.389,2.0,0.1,0.0,0.8,2.3,BOS,
+Thomas Hamilton,/players/h/hamilth01.html,1996,2000,University of Pittsburgh,false,"Martin Luther King in Chicago, Illinois",,,hamilth01,1996-97,Did Not Play,,,,,,,21,,,,,,,,,,,Did Not Play,
+Thomas Hamilton,/players/h/hamilth01.html,1996,2000,University of Pittsburgh,false,"Martin Luther King in Chicago, Illinois",,,hamilth01,1997-98,Did Not Play (other pro league—CBA),,,,,,,22,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Thomas Hamilton,/players/h/hamilth01.html,1996,2000,University of Pittsburgh,false,"Martin Luther King in Chicago, Illinois",,,hamilth01,1998-99,Did Not Play,,,,,,,23,,,,,,,,,,,Did Not Play,
+Thomas Hamilton,/players/h/hamilth01.html,1996,2000,University of Pittsburgh,false,"Martin Luther King in Chicago, Illinois",-1.75,0.09,hamilth01,1999-00,HOU,11.4,0.0,.002,-4.7,-0.2,,24,NBA,22,12.4,.443,.522,4.1,0.7,0.2,0.6,3.7,HOU,510000

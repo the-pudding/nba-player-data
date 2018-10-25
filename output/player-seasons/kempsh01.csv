@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kempsh01,1989-90,20,SEA,NBA,81,13.8,.479,.736,4.3,0.3,0.6,0.9,6.5,15.9,2.1,.092,-1.7,0.1,,"Concord in Elkhart, Indiana",
-kempsh01,1990-91,21,Seattle SuperSonics,NBA,81,30.1,.508,.661,8.4,1.8,1.0,1.5,15.0,17.6,6.1,.121,1.9,2.4,,"Concord in Elkhart, Indiana",350000
-kempsh01,1991-92,22,Seattle SuperSonics,NBA,64,28.3,.504,.748,10.4,1.3,1.1,1.9,15.5,21.6,6.7,.177,2.9,2.2,,"Concord in Elkhart, Indiana",430000
-kempsh01,1992-93,23,Seattle SuperSonics,NBA,78,33.1,.492,.712,10.7,2.0,1.5,1.9,17.8,20.4,9.1,.169,3.2,3.4,,"Concord in Elkhart, Indiana",650000
-kempsh01,1993-94,24,Seattle SuperSonics,NBA,79,32.9,.538,.741,10.8,2.6,1.8,2.1,18.1,22.9,11.7,.216,6.5,5.6,All-NBA (2nd),"Concord in Elkhart, Indiana",750000
-kempsh01,1994-95,25,Seattle SuperSonics,NBA,82,32.7,.547,.749,10.9,1.8,1.2,1.5,18.7,21.7,10.6,.190,3.1,3.5,All-NBA (2nd),"Concord in Elkhart, Indiana",1000000
-kempsh01,1995-96,26,Seattle SuperSonics,NBA,79,33.3,.561,.742,11.4,2.2,1.2,1.6,19.6,22.6,11.2,.205,3.8,3.9,All-NBA (2nd),"Concord in Elkhart, Indiana",3000000
-kempsh01,1996-97,27,Seattle SuperSonics,NBA,81,34.0,.510,.742,10.0,1.9,1.5,1.0,18.7,20.7,10.0,.174,2.0,2.8,,"Concord in Elkhart, Indiana",3300000
-kempsh01,1997-98,28,Cleveland Cavaliers,NBA,80,34.6,.445,.727,9.3,2.5,1.4,1.1,18.0,17.5,6.8,.118,1.6,2.5,,"Concord in Elkhart, Indiana",8600000
-kempsh01,1998-99,29,Cleveland Cavaliers,NBA,42,35.1,.482,.789,9.2,2.4,1.1,1.1,20.5,23.6,6.3,.205,4.7,2.5,,"Concord in Elkhart, Indiana",9740000
-kempsh01,1999-00,30,Cleveland Cavaliers,NBA,82,30.4,.417,.776,8.8,1.7,1.2,1.2,17.8,17.2,4.0,.077,-1.6,0.3,,"Concord in Elkhart, Indiana",10780000
-kempsh01,2000-01,31,Portland Trail Blazers,NBA,68,15.9,.407,.771,3.8,1.0,0.7,0.3,6.5,11.4,0.9,.041,-4.4,-0.7,,"Concord in Elkhart, Indiana",11720000
-kempsh01,2001-02,32,Portland Trail Blazers,NBA,75,16.4,.430,.794,3.8,0.7,0.6,0.4,6.1,12.1,1.9,.074,-3.3,-0.4,,"Concord in Elkhart, Indiana",12660000
-kempsh01,2002-03,33,Portland Trail Blazers,NBA,79,20.7,.418,.742,5.7,0.7,0.8,0.4,6.8,11.7,2.0,.059,-4.0,-0.8,,"Concord in Elkhart, Indiana",12621028
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+0.09,1.79,kempsh01,1989-90,SEA,15.9,2.1,.092,-1.7,0.1,,20,NBA,81,13.8,.479,.736,4.3,0.3,0.6,0.9,6.5,SEA,
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+1.40,6.41,kempsh01,1990-91,SEA,17.6,6.1,.121,1.9,2.4,,21,NBA,81,30.1,.508,.661,8.4,1.8,1.0,1.5,15.0,SEA,350000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+2.18,6.40,kempsh01,1991-92,SEA,21.6,6.7,.177,2.9,2.2,,22,NBA,64,28.3,.504,.748,10.4,1.3,1.1,1.9,15.5,SEA,430000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+4.22,13.99,kempsh01,1992-93,SEA,20.4,9.1,.169,3.2,3.4,,23,NBA,78,33.1,.492,.712,10.7,2.0,1.5,1.9,17.8,SEA,650000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+4.99,13.60,kempsh01,1993-94,SEA,22.9,11.7,.216,6.5,5.6,All-NBA (2nd),24,NBA,79,32.9,.538,.741,10.8,2.6,1.8,2.1,18.1,SEA,750000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+3.57,10.94,kempsh01,1994-95,SEA,21.7,10.6,.190,3.1,3.5,All-NBA (2nd),25,NBA,82,32.7,.547,.749,10.9,1.8,1.2,1.5,18.7,SEA,1000000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+4.27,14.72,kempsh01,1995-96,SEA,22.6,11.2,.205,3.8,3.9,All-NBA (2nd),26,NBA,79,33.3,.561,.742,11.4,2.2,1.2,1.6,19.6,SEA,3000000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+3.08,11.52,kempsh01,1996-97,SEA,20.7,10.0,.174,2.0,2.8,,27,NBA,81,34.0,.510,.742,10.0,1.9,1.5,1.0,18.7,SEA,3300000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+1.68,8.03,kempsh01,1997-98,CLE,17.5,6.8,.118,1.6,2.5,,28,NBA,80,34.6,.445,.727,9.3,2.5,1.4,1.1,18.0,CLE,8600000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+2.46,4.84,kempsh01,1998-99,CLE,23.6,6.3,.205,4.7,2.5,,29,NBA,42,35.1,.482,.789,9.2,2.4,1.1,1.1,20.5,CLE,9740000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",+0.44,4.62,kempsh01,1999-00,CLE,17.2,4.0,.077,-1.6,0.3,,30,NBA,82,30.4,.417,.776,8.8,1.7,1.2,1.2,17.8,CLE,10780000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",-2.13,0.02,kempsh01,2000-01,POR,11.4,0.9,.041,-4.4,-0.7,,31,NBA,68,15.9,.407,.771,3.8,1.0,0.7,0.3,6.5,POR,11720000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",-2.33,-0.09,kempsh01,2001-02,POR,12.1,1.9,.074,-3.3,-0.4,,32,NBA,75,16.4,.430,.794,3.8,0.7,0.6,0.4,6.1,POR,12660000
+Shawn Kemp,/players/k/kempsh01.html,1990,2003,Trinity Valley Community College,false,"Concord in Elkhart, Indiana",-1.59,0.73,kempsh01,2002-03,ORL,11.7,2.0,.059,-4.0,-0.8,,33,NBA,79,20.7,.418,.742,5.7,0.7,0.8,0.4,6.8,ORL,12621028

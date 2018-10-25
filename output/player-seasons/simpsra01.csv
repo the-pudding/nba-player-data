@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-simpsra01,1976-77,27,DET,NBA,77,20.7,.427,.708,2.4,2.3,0.9,0.1,11.0,14.4,1.2,.037,-3.3,-0.5,,"Pershing in Detroit, Michigan"
-simpsra01,1977-78,28,"DET,DEN",NBA,64,20.7,.375,.817,2.5,2.5,1.2,0.1,8.1,10.1,-0.2,-0.007,-4.3,-0.8,,"Pershing in Detroit, Michigan"
-simpsra01,1978-79,29,"PHI,NJN",NBA,69,14.2,.402,.685,1.4,1.8,0.5,0.1,6.1,9.7,-0.2,-0.010,-6.0,-1.0,,"Pershing in Detroit, Michigan"
-simpsra01,1979-80,30,NJN,NBA,8,10.1,.383,.500,1.4,1.8,1.1,0.0,5.1,12.6,-0.1,-0.064,-3.0,0.0,,"Pershing in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ralph Simpson,/players/s/simpsra01.html,1971,1980,Michigan State University,false,"Pershing in Detroit, Michigan",-2.33,-0.21,simpsra01,1976-77,DET,14.4,1.2,.037,-3.3,-0.5,,27,NBA,77,20.7,.427,.708,2.4,2.3,0.9,0.1,11.0,DET
+Ralph Simpson,/players/s/simpsra01.html,1971,1980,Michigan State University,false,"Pershing in Detroit, Michigan",-2.88,-0.81,simpsra01,1977-78,TOT,10.1,-0.2,-0.007,-4.3,-0.8,,28,NBA,64,20.7,.375,.817,2.5,2.5,1.2,0.1,8.1,"DET,DEN"
+Ralph Simpson,/players/s/simpsra01.html,1971,1980,Michigan State University,false,"Pershing in Detroit, Michigan",-3.23,-0.77,simpsra01,1978-79,TOT,9.7,-0.2,-0.010,-6.0,-1.0,,29,NBA,69,14.2,.402,.685,1.4,1.8,0.5,0.1,6.1,"PHI,NJN"
+Ralph Simpson,/players/s/simpsra01.html,1971,1980,Michigan State University,false,"Pershing in Detroit, Michigan",+0.47,0.15,simpsra01,1979-80,NJN,12.6,-0.1,-0.064,-3.0,0.0,,30,NBA,8,10.1,.383,.500,1.4,1.8,1.1,0.0,5.1,NJN

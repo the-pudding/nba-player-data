@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cookom01,2003-04,22,POR,NBA,17,8.2,.259,,0.4,1.4,0.6,0.0,0.8,4.7,-0.2,-0.068,-8.3,-0.2,,"Christ the King in Middle Village, New York"
-cookom01,2004-05,23,TOR,NBA,5,14.8,.417,.500,1.4,4.4,1.2,0.2,4.6,17.0,0.1,.067,-2.1,0.0,,"Christ the King in Middle Village, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Omar Cook,/players/c/cookom01.html,2004,2005,St. John's University,false,"Christ the King in Middle Village, New York",-0.62,0.15,cookom01,2003-04,POR,4.7,-0.2,-0.068,-8.3,-0.2,,22,NBA,17,8.2,.259,,0.4,1.4,0.6,0.0,0.8,POR
+Omar Cook,/players/c/cookom01.html,2004,2005,St. John's University,false,"Christ the King in Middle Village, New York",-0.13,0.11,cookom01,2004-05,TOR,17.0,0.1,.067,-2.1,0.0,,23,NBA,5,14.8,.417,.500,1.4,4.4,1.2,0.2,4.6,TOR

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-dayeda01,1983-84,23,WSB,NBA,75,15.7,.441,.714,2.5,2.3,0.5,0.2,6.1,12.3,1.3,.053,-1.4,0.2,,"John F. Kennedy in Granada Hills, California",
-dayeda01,1984-85,24,Washington Bullets,NBA,80,19.7,.512,.715,3.4,3.0,0.7,0.2,8.7,15.7,3.8,.117,0.6,1.0,,"John F. Kennedy in Granada Hills, California",95000
-dayeda01,1985-86,25,Washington Bullets,NBA,64,16.8,.496,.671,2.9,1.7,0.7,0.2,8.7,16.4,2.4,.105,-0.2,0.5,,"John F. Kennedy in Granada Hills, California",120000
-dayeda01,1986-87,26,"CHI,BOS",NBA,62,11.8,.500,.523,2.0,1.2,0.4,0.1,3.8,9.5,0.6,.041,-3.0,-0.2,,"John F. Kennedy in Granada Hills, California",
-dayeda01,1987-88,27,BOS,NBA,47,13.9,.516,.678,1.6,1.5,0.6,0.1,6.0,13.6,1.2,.086,-1.4,0.1,,"John F. Kennedy in Granada Hills, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Darren Daye,/players/d/dayeda01.html,1984,1988,"University of California, Los Angeles",false,"John F. Kennedy in Granada Hills, California",-2.04,0.16,dayeda01,1983-84,WSB,12.3,1.3,.053,-1.4,0.2,,23,NBA,75,15.7,.441,.714,2.5,2.3,0.5,0.2,6.1,WSB,
+Darren Daye,/players/d/dayeda01.html,1984,1988,"University of California, Los Angeles",false,"John F. Kennedy in Granada Hills, California",-0.15,2.38,dayeda01,1984-85,WSB,15.7,3.8,.117,0.6,1.0,,24,NBA,80,19.7,.512,.715,3.4,3.0,0.7,0.2,8.7,WSB,95000
+Darren Daye,/players/d/dayeda01.html,1984,1988,"University of California, Los Angeles",false,"John F. Kennedy in Granada Hills, California",-0.90,1.01,dayeda01,1985-86,WSB,16.4,2.4,.105,-0.2,0.5,,25,NBA,64,16.8,.496,.671,2.9,1.7,0.7,0.2,8.7,WSB,120000
+Darren Daye,/players/d/dayeda01.html,1984,1988,"University of California, Los Angeles",false,"John F. Kennedy in Granada Hills, California",-2.67,-0.24,dayeda01,1986-87,TOT,9.5,0.6,.041,-3.0,-0.2,,26,NBA,62,11.8,.500,.523,2.0,1.2,0.4,0.1,3.8,"CHI,BOS",
+Darren Daye,/players/d/dayeda01.html,1984,1988,"University of California, Los Angeles",false,"John F. Kennedy in Granada Hills, California",-1.54,0.35,dayeda01,1987-88,BOS,13.6,1.2,.086,-1.4,0.1,,27,NBA,47,13.9,.516,.678,1.6,1.5,0.6,0.1,6.0,BOS,

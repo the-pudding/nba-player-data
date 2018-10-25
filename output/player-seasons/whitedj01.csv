@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-whitedj01,2008-09,22,Oklahoma City Thunder,NBA,7,18.6,.520,.769,4.6,0.9,0.4,0.7,8.9,19.8,0.4,.157,-1.0,0.0,,964080,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2009-10,23,Oklahoma City Thunder,NBA,12,8.5,.610,.900,1.9,0.3,0.4,0.3,4.9,25.9,0.6,.276,3.3,0.1,,1036440,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2010-11,24,Charlotte Bobcats,NBA,47,14.6,.507,.719,3.4,0.4,0.3,0.4,5.7,15.3,1.8,.128,-2.9,-0.1,,1108680,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2010-11,24,Charlotte Bobcats,NBA,23,9.5,.462,.500,2.3,0.2,0.3,0.3,2.8,10.1,0.3,.056,-5.5,-0.2,,1108680,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2010-11,24,Charlotte Bobcats,NBA,24,19.4,.526,.759,4.4,0.6,0.3,0.5,8.5,17.7,1.6,.161,-1.7,0.0,,1108680,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2011-12,25,Charlotte Bobcats,NBA,58,18.9,.493,.705,3.6,0.8,0.3,0.4,6.8,12.4,0.8,.034,-4.6,-0.7,,2001167,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2012-13,26,Boston Celtics,NBA,12,7.2,.522,.556,1.1,0.3,0.1,0.5,2.4,14.7,0.2,.117,-2.1,0.0,,269368,"Hillcrest in Tuscaloosa, Alabama"
-whitedj01,2013-14,27,CHA,NBA,2,5.0,.000,,1.0,0.0,0.5,0.0,0.0,2.4,0.0,.004,-6.9,0.0,,,"Hillcrest in Tuscaloosa, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+D.J. White,/players/w/whitedj01.html,2009,2014,Indiana University,false,"Hillcrest in Tuscaloosa, Alabama",+0.70,0.26,whitedj01,2008-09,OKC,19.8,0.4,.157,-1.0,0.0,,NBA,964080,22,7,18.6,.520,.769,4.6,0.9,0.4,0.7,8.9,OKC
+D.J. White,/players/w/whitedj01.html,2009,2014,Indiana University,false,"Hillcrest in Tuscaloosa, Alabama",-0.30,0.14,whitedj01,2009-10,OKC,25.9,0.6,.276,3.3,0.1,,NBA,1036440,23,12,8.5,.610,.900,1.9,0.3,0.4,0.3,4.9,OKC
+D.J. White,/players/w/whitedj01.html,2009,2014,Indiana University,false,"Hillcrest in Tuscaloosa, Alabama",-1.22,0.49,whitedj01,2010-11,TOT,15.3,1.8,.128,-2.9,-0.1,,NBA,1108680,24,47,14.6,.507,.719,3.4,0.4,0.3,0.4,5.7,"OKC,CHA"
+D.J. White,/players/w/whitedj01.html,2009,2014,Indiana University,false,"Hillcrest in Tuscaloosa, Alabama",-3.90,-1.28,whitedj01,2011-12,CHA,12.4,0.8,.034,-4.6,-0.7,,NBA,2001167,25,58,18.9,.493,.705,3.6,0.8,0.3,0.4,6.8,CHA
+D.J. White,/players/w/whitedj01.html,2009,2014,Indiana University,false,"Hillcrest in Tuscaloosa, Alabama",+0.50,0.16,whitedj01,2012-13,BOS,14.7,0.2,.117,-2.1,0.0,,NBA,269368,26,12,7.2,.522,.556,1.1,0.3,0.1,0.5,2.4,BOS
+D.J. White,/players/w/whitedj01.html,2009,2014,Indiana University,false,"Hillcrest in Tuscaloosa, Alabama",+0.13,0.02,whitedj01,2013-14,CHA,2.4,0.0,.004,-6.9,0.0,,NBA,,27,2,5.0,.000,,1.0,0.0,0.5,0.0,0.0,CHA

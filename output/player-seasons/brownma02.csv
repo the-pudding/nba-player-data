@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownma02,2014-15,23,Brooklyn Nets,NBA,47,16.6,.362,.825,2.3,0.8,0.7,0.3,4.6,9.1,0.5,.031,-2.7,-0.1,,507336,"Peabody Magnet in Alexandria, Louisiana"
-brownma02,2015-16,24,Brooklyn Nets,NBA,62,15.8,.394,.755,2.0,1.5,0.6,0.2,5.9,11.3,0.6,.031,-2.6,-0.2,,845059,"Peabody Magnet in Alexandria, Louisiana"
-brownma02,2016-17,25,Did Not Play,,,,,,,,,,,,,,,,,,"Peabody Magnet in Alexandria, Louisiana"
-brownma02,2017-18,26,Houston Rockets,NBA,4,7.8,.286,,1.3,0.5,0.0,0.0,1.3,-1.2,0.0,-0.063,-8.4,-0.1,,,"Peabody Magnet in Alexandria, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Markel Brown,/players/b/brownma02.html,2015,2018,Oklahoma State University,true,"Peabody Magnet in Alexandria, Louisiana",-0.22,1.10,brownma02,2014-15,BRK,9.1,0.5,.031,-2.7,-0.1,,NBA,507336,23,47,16.6,.362,.825,2.3,0.8,0.7,0.3,4.6,BRK
+Markel Brown,/players/b/brownma02.html,2015,2018,Oklahoma State University,true,"Peabody Magnet in Alexandria, Louisiana",-3.06,-0.47,brownma02,2015-16,BRK,11.3,0.6,.031,-2.6,-0.2,,NBA,845059,24,62,15.8,.394,.755,2.0,1.5,0.6,0.2,5.9,BRK
+Markel Brown,/players/b/brownma02.html,2015,2018,Oklahoma State University,true,"Peabody Magnet in Alexandria, Louisiana",,,brownma02,2016-17,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Markel Brown,/players/b/brownma02.html,2015,2018,Oklahoma State University,true,"Peabody Magnet in Alexandria, Louisiana",-0.97,0.03,brownma02,2017-18,HOU,-1.2,0.0,-0.063,-8.4,-0.1,,NBA,,26,4,7.8,.286,,1.3,0.5,0.0,0.0,1.3,HOU

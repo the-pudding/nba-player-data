@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hudsolo01,1976-77,32,ATL,NBA,58,30.1,.456,.840,2.2,2.7,1.2,0.3,16.7,14.7,2.7,.074,-1.8,0.1,,"Dudley in Greensboro, North Carolina"
-hudsolo01,1977-78,33,LAL,NBA,82,27.8,.497,.774,2.3,2.4,1.1,0.2,13.7,14.2,4.2,.088,-1.0,0.6,,"Dudley in Greensboro, North Carolina"
-hudsolo01,1978-79,34,LAL,NBA,78,21.6,.517,.887,1.8,1.8,0.7,0.2,9.8,13.7,3.3,.095,-1.5,0.2,,"Dudley in Greensboro, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lou Hudson,/players/h/hudsolo01.html,1967,1979,University of Minnesota,false,"Dudley in Greensboro, North Carolina",-2.10,0.04,hudsolo01,1976-77,ATL,14.7,2.7,.074,-1.8,0.1,,32,NBA,58,30.1,.456,.840,2.2,2.7,1.2,0.3,16.7,ATL
+Lou Hudson,/players/h/hudsolo01.html,1967,1979,University of Minnesota,false,"Dudley in Greensboro, North Carolina",-0.74,2.41,hudsolo01,1977-78,LAL,14.2,4.2,.088,-1.0,0.6,,33,NBA,82,27.8,.497,.774,2.3,2.4,1.1,0.2,13.7,LAL
+Lou Hudson,/players/h/hudsolo01.html,1967,1979,University of Minnesota,false,"Dudley in Greensboro, North Carolina",-1.71,0.64,hudsolo01,1978-79,LAL,13.7,3.3,.095,-1.5,0.2,,34,NBA,78,21.6,.517,.887,1.8,1.8,0.7,0.2,9.8,LAL

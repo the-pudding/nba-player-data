@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-glennmi01,1977-78,22,BUF,NBA,56,16.9,.527,.785,1.4,1.4,0.6,0.1,7.9,14.3,1.9,.096,-2.3,-0.1,,"Coosa in Rome, Georgia"
-glennmi01,1978-79,23,NYK,NBA,75,15.6,.541,.905,1.1,1.8,0.5,0.1,7.8,15.5,2.8,.117,-2.2,-0.1,,"Coosa in Rome, Georgia"
-glennmi01,1979-80,24,NYK,NBA,75,10.7,.516,.863,0.9,1.1,0.5,0.1,5.9,16.6,2.1,.126,-2.5,-0.1,,"Coosa in Rome, Georgia"
-glennmi01,1980-81,25,NYK,NBA,82,18.4,.558,.891,1.1,1.3,0.9,0.1,8.2,15.0,4.4,.139,-0.7,0.5,,"Coosa in Rome, Georgia"
-glennmi01,1981-82,26,ATL,NBA,49,17.0,.543,.881,1.2,1.8,0.5,0.1,7.7,16.0,2.8,.161,-0.5,0.3,,"Coosa in Rome, Georgia"
-glennmi01,1982-83,27,ATL,NBA,73,15.4,.518,.831,1.2,1.7,0.4,0.1,7.3,15.1,2.9,.126,-1.6,0.1,,"Coosa in Rome, Georgia"
-glennmi01,1983-84,28,ATL,NBA,81,18.6,.563,.800,1.3,2.1,0.6,0.1,8.4,15.5,3.9,.124,-0.9,0.4,,"Coosa in Rome, Georgia"
-glennmi01,1984-85,29,ATL,NBA,60,18.8,.588,.816,1.4,2.0,0.5,0.0,8.6,15.2,2.9,.126,-1.1,0.3,,"Coosa in Rome, Georgia"
-glennmi01,1985-86,30,MIL,NBA,38,15.1,.495,.959,1.5,1.0,0.2,0.1,6.2,12.0,1.5,.128,-2.7,-0.1,,"Coosa in Rome, Georgia"
-glennmi01,1986-87,31,MIL,NBA,4,8.5,.385,.714,0.5,0.3,0.3,0.0,3.8,10.1,0.1,.080,-7.3,0.0,,"Coosa in Rome, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-1.13,0.70,glennmi01,1977-78,BUF,14.3,1.9,.096,-2.3,-0.1,,22,NBA,56,16.9,.527,.785,1.4,1.4,0.6,0.1,7.9,BUF
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-0.91,1.06,glennmi01,1978-79,NYK,15.5,2.8,.117,-2.2,-0.1,,23,NBA,75,15.6,.541,.905,1.1,1.8,0.5,0.1,7.8,NYK
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-0.73,0.84,glennmi01,1979-80,NYK,16.6,2.1,.126,-2.5,-0.1,,24,NBA,75,10.7,.516,.863,0.9,1.1,0.5,0.1,5.9,NYK
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-0.25,2.10,glennmi01,1980-81,NYK,15.0,4.4,.139,-0.7,0.5,,25,NBA,82,18.4,.558,.891,1.1,1.3,0.9,0.1,8.2,NYK
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",+0.23,1.48,glennmi01,1981-82,ATL,16.0,2.8,.161,-0.5,0.3,,26,NBA,49,17.0,.543,.881,1.2,1.8,0.5,0.1,7.7,ATL
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-0.92,1.07,glennmi01,1982-83,ATL,15.1,2.9,.126,-1.6,0.1,,27,NBA,73,15.4,.518,.831,1.2,1.7,0.4,0.1,7.3,ATL
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-1.01,1.33,glennmi01,1983-84,ATL,15.5,3.9,.124,-0.9,0.4,,28,NBA,81,18.6,.563,.800,1.3,2.1,0.6,0.1,8.4,ATL
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-1.46,0.62,glennmi01,1984-85,ATL,15.2,2.9,.126,-1.1,0.3,,29,NBA,60,18.8,.588,.816,1.4,2.0,0.5,0.0,8.6,ATL
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-1.81,0.21,glennmi01,1985-86,MIL,12.0,1.5,.128,-2.7,-0.1,,30,NBA,38,15.1,.495,.959,1.5,1.0,0.2,0.1,6.2,MIL
+Mike Glenn,/players/g/glennmi01.html,1978,1987,Southern Illinois University,false,"Coosa in Rome, Georgia",-0.05,0.05,glennmi01,1986-87,MIL,10.1,0.1,.080,-7.3,0.0,,31,NBA,4,8.5,.385,.714,0.5,0.3,0.3,0.0,3.8,MIL

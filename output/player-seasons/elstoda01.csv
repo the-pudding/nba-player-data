@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-elstoda01,1976-77,24,IND,NBA,5,8.0,.143,.500,1.2,0.4,0.2,0.0,1.0,-1.6,-0.2,-0.218,-15.4,-0.1,,"Tipton in Tipton, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Darrell Elston,/players/e/elstoda01.html,1975,1977,University of North Carolina,false,"Tipton in Tipton, Indiana",-1.40,0.02,elstoda01,1976-77,IND,-1.6,-0.2,-0.218,-15.4,-0.1,,24,NBA,5,8.0,.143,.500,1.2,0.4,0.2,0.0,1.0,IND

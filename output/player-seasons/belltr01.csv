@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-belltr01,2003-04,23,Memphis Grizzlies,NBA,6,5.7,.222,1.000,0.7,0.7,0.2,0.0,1.8,-4.5,-0.2,-0.326,-14.4,-0.1,,1285440,"Academy of Holy Angels in Richfield, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Troy Bell,/players/b/belltr01.html,2004,2004,Boston College,false,"Academy of Holy Angels in Richfield, Minnesota",-0.08,0.05,belltr01,2003-04,MEM,-4.5,-0.2,-0.326,-14.4,-0.1,,NBA,1285440,23,6,5.7,.222,1.000,0.7,0.7,0.2,0.0,1.8,MEM

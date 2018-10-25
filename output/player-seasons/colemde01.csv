@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-colemde01,1990-91,23,New Jersey Nets,NBA,74,35.2,.467,.731,10.3,2.2,1.0,1.3,18.4,17.6,5.8,.108,0.5,1.7,,2100000,"Detroit Northern in Detroit, Michigan"
-colemde01,1991-92,24,New Jersey Nets,NBA,65,34.0,.504,.763,9.5,3.2,0.8,1.5,19.8,19.5,5.6,.121,1.9,2.2,,2300000,"Detroit Northern in Detroit, Michigan"
-colemde01,1992-93,25,New Jersey Nets,NBA,76,36.3,.460,.808,11.2,3.6,1.2,1.7,20.7,21.2,9.5,.165,4.8,4.8,All-NBA (3rd),2870000,"Detroit Northern in Detroit, Michigan"
-colemde01,1993-94,26,New Jersey Nets,NBA,77,36.1,.447,.774,11.3,3.4,0.9,1.8,20.2,21.4,9.9,.171,4.5,4.5,All-NBA (3rd),3440000,"Detroit Northern in Detroit, Michigan"
-colemde01,1994-95,27,New Jersey Nets,NBA,56,37.6,.424,.767,10.6,3.3,0.6,1.7,20.5,19.0,5.1,.117,2.1,2.2,,4212000,"Detroit Northern in Detroit, Michigan"
-colemde01,1995-96,28,Philadelphia 76ers,NBA,11,26.7,.407,.625,6.5,2.8,0.4,0.9,11.2,12.0,-0.2,-0.029,-4.5,-0.2,,5476000,"Detroit Northern in Detroit, Michigan"
-colemde01,1996-97,29,Philadelphia 76ers,NBA,57,36.9,.435,.745,10.1,3.4,0.9,1.3,18.1,17.3,3.3,.076,0.1,1.1,,6739000,"Detroit Northern in Detroit, Michigan"
-colemde01,1997-98,30,Philadelphia 76ers,NBA,59,36.2,.411,.772,9.9,2.5,0.8,1.2,17.6,17.5,4.4,.100,-0.2,1.0,,8002800,"Detroit Northern in Detroit, Michigan"
-colemde01,1998-99,31,Charlotte Hornets,NBA,37,31.8,.414,.753,8.9,2.1,0.6,1.1,13.1,15.6,2.0,.081,-1.1,0.3,,6667000,"Detroit Northern in Detroit, Michigan"
-colemde01,1999-00,32,Charlotte Hornets,NBA,74,31.7,.456,.785,8.5,2.4,0.5,1.8,16.7,18.9,6.5,.133,1.1,1.8,,7370000,"Detroit Northern in Detroit, Michigan"
-colemde01,2000-01,33,Charlotte Hornets,NBA,34,20.1,.380,.685,5.4,1.1,0.3,0.6,8.1,13.8,1.2,.082,-3.3,-0.2,,8000000,"Detroit Northern in Detroit, Michigan"
-colemde01,2001-02,34,Philadelphia 76ers,NBA,58,35.9,.450,.815,8.8,1.7,0.7,0.9,15.1,16.2,5.9,.135,0.7,1.4,,8710000,"Detroit Northern in Detroit, Michigan"
-colemde01,2002-03,35,Philadelphia 76ers,NBA,64,27.2,.448,.784,7.0,1.4,0.8,1.1,9.4,15.4,4.5,.124,1.1,1.4,,9380000,"Detroit Northern in Detroit, Michigan"
-colemde01,2003-04,36,Philadelphia 76ers,NBA,34,24.8,.413,.754,5.6,1.4,0.7,0.8,8.0,11.6,0.8,.047,-2.0,0.0,,4000000,"Detroit Northern in Detroit, Michigan"
-colemde01,2004-05,37,Detroit Pistons,NBA,5,10.0,.214,1.000,3.0,0.0,0.0,0.0,1.8,1.2,-0.1,-0.049,-17.4,-0.2,,4500000,"Detroit Northern in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-0.01,4.00,colemde01,1990-91,NJN,17.6,5.8,.108,0.5,1.7,,NBA,2100000,23,74,35.2,.467,.731,10.3,2.2,1.0,1.3,18.4,NJN
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+0.71,4.78,colemde01,1991-92,NJN,19.5,5.6,.121,1.9,2.2,,NBA,2300000,24,65,34.0,.504,.763,9.5,3.2,0.8,1.5,19.8,NJN
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+3.43,11.49,colemde01,1992-93,NJN,21.2,9.5,.165,4.8,4.8,All-NBA (3rd),NBA,2870000,25,76,36.3,.460,.808,11.2,3.6,1.2,1.7,20.7,NJN
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+2.99,10.50,colemde01,1993-94,NJN,21.4,9.9,.171,4.5,4.5,All-NBA (3rd),NBA,3440000,26,77,36.1,.447,.774,11.3,3.4,0.9,1.8,20.2,NJN
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+0.76,4.33,colemde01,1994-95,NJN,19.0,5.1,.117,2.1,2.2,,NBA,4212000,27,56,37.6,.424,.767,10.6,3.3,0.6,1.7,20.5,NJN
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-1.95,0.06,colemde01,1995-96,PHI,12.0,-0.2,-0.029,-4.5,-0.2,,NBA,5476000,28,11,26.7,.407,.625,6.5,2.8,0.4,0.9,11.2,PHI
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-0.57,2.43,colemde01,1996-97,PHI,17.3,3.3,.076,0.1,1.1,,NBA,6739000,29,57,36.9,.435,.745,10.1,3.4,0.9,1.3,18.1,PHI
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+0.30,3.74,colemde01,1997-98,PHI,17.5,4.4,.100,-0.2,1.0,,NBA,8002800,30,59,36.2,.411,.772,9.9,2.5,0.8,1.2,17.6,PHI
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-0.17,1.67,colemde01,1998-99,CHH,15.6,2.0,.081,-1.1,0.3,,NBA,6667000,31,37,31.8,.414,.753,8.9,2.1,0.6,1.1,13.1,CHH
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+1.56,6.65,colemde01,1999-00,CHH,18.9,6.5,.133,1.1,1.8,,NBA,7370000,32,74,31.7,.456,.785,8.5,2.4,0.5,1.8,16.7,CHH
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-2.89,-0.42,colemde01,2000-01,CHH,13.8,1.2,.082,-3.3,-0.2,,NBA,8000000,33,34,20.1,.380,.685,5.4,1.1,0.3,0.6,8.1,CHH
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-0.51,2.68,colemde01,2001-02,PHI,16.2,5.9,.135,0.7,1.4,,NBA,8710000,34,58,35.9,.450,.815,8.8,1.7,0.7,0.9,15.1,PHI
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",+2.39,7.08,colemde01,2002-03,PHI,15.4,4.5,.124,1.1,1.4,,NBA,9380000,35,64,27.2,.448,.784,7.0,1.4,0.8,1.1,9.4,PHI
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-1.32,0.49,colemde01,2003-04,PHI,11.6,0.8,.047,-2.0,0.0,,NBA,4000000,36,34,24.8,.413,.754,5.6,1.4,0.7,0.8,8.0,PHI
+Derrick Coleman,/players/c/colemde01.html,1991,2005,Syracuse University,false,"Detroit Northern in Detroit, Michigan",-1.64,0.02,colemde01,2004-05,DET,1.2,-0.1,-0.049,-17.4,-0.2,,NBA,4500000,37,5,10.0,.214,1.000,3.0,0.0,0.0,0.0,1.8,DET

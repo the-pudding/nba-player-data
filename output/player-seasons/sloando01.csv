@@ -1,11 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sloando01,2011-12,24,Atlanta Hawks,NBA,33,20.3,.399,.767,2.0,3.2,0.4,0.1,5.5,8.9,-0.3,-0.024,-6.0,-0.7,,122237,"Seagoville in Dallas, Texas"
-sloando01,2011-12,24,Atlanta Hawks,NBA,5,4.0,.375,,1.0,1.0,0.2,0.0,1.2,11.6,0.0,.012,-2.0,0.0,,122237,"Seagoville in Dallas, Texas"
-sloando01,2011-12,24,Atlanta Hawks,NBA,3,13.7,.357,.500,1.0,2.7,0.7,0.0,4.0,8.0,-0.1,-0.104,-7.8,-0.1,,122237,"Seagoville in Dallas, Texas"
-sloando01,2011-12,24,Atlanta Hawks,NBA,25,24.3,.403,.808,2.4,3.7,0.4,0.1,6.6,8.9,-0.3,-0.020,-6.0,-0.6,,122237,"Seagoville in Dallas, Texas"
-sloando01,2012-13,25,Cleveland Cavaliers,NBA,23,11.4,.346,.800,1.2,1.7,0.2,0.0,3.5,9.6,0.1,.017,-6.3,-0.3,,251076,"Seagoville in Dallas, Texas"
-sloando01,2012-13,25,Cleveland Cavaliers,NBA,20,12.9,.346,.800,1.4,1.9,0.3,0.0,4.1,9.9,0.1,.022,-6.0,-0.3,,251076,"Seagoville in Dallas, Texas"
-sloando01,2012-13,25,Cleveland Cavaliers,NBA,3,2.0,,,0.0,0.3,0.0,0.0,0.0,-3.3,0.0,-0.212,-20.0,0.0,,251076,"Seagoville in Dallas, Texas"
-sloando01,2013-14,26,Indiana Pacers,NBA,48,8.2,.376,.600,0.9,1.0,0.2,0.0,2.3,8.5,0.3,.039,-4.8,-0.3,,884293,"Seagoville in Dallas, Texas"
-sloando01,2014-15,27,Indiana Pacers,NBA,53,20.9,.408,.779,2.7,3.6,0.4,0.0,7.4,13.1,2.0,.085,-1.4,0.2,,948163,"Seagoville in Dallas, Texas"
-sloando01,2015-16,28,Brooklyn Nets,NBA,61,21.6,.440,.750,2.8,4.4,0.5,0.1,7.0,13.9,2.0,.071,-2.4,-0.1,,1015421,"Seagoville in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M University,true,"Seagoville in Dallas, Texas",-5.61,-1.47,sloando01,2011-12,TOT,8.9,-0.3,-0.024,-6.0,-0.7,,NBA,122237,24,33,20.3,.399,.767,2.0,3.2,0.4,0.1,5.5,"ATL,NOH,CLE"
+Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M University,true,"Seagoville in Dallas, Texas",-1.94,0.03,sloando01,2012-13,TOT,9.6,0.1,.017,-6.3,-0.3,,NBA,251076,25,23,11.4,.346,.800,1.2,1.7,0.2,0.0,3.5,"CLE,NOH"
+Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M University,true,"Seagoville in Dallas, Texas",-3.67,-0.42,sloando01,2013-14,IND,8.5,0.3,.039,-4.8,-0.3,,NBA,884293,26,48,8.2,.376,.600,0.9,1.0,0.2,0.0,2.3,IND
+Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M University,true,"Seagoville in Dallas, Texas",-1.04,0.88,sloando01,2014-15,IND,13.1,2.0,.085,-1.4,0.2,,NBA,948163,27,53,20.9,.408,.779,2.7,3.6,0.4,0.0,7.4,IND
+Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M University,true,"Seagoville in Dallas, Texas",-1.03,1.10,sloando01,2015-16,BRK,13.9,2.0,.071,-2.4,-0.1,,NBA,1015421,28,61,21.6,.440,.750,2.8,4.4,0.5,0.1,7.0,BRK

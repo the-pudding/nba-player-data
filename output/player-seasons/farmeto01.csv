@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-farmeto01,1997-98,28,Charlotte Hornets,NBA,27,6.3,.321,.795,1.2,0.2,0.4,0.1,2.5,13.9,0.4,.109,-2.7,0.0,,272250,"Artesia in Lakewood, California"
-farmeto01,1998-99,29,Did Not Play (other pro league—Belgium),,,,,,,,,,,,,,,,,,"Artesia in Lakewood, California"
-farmeto01,1999-00,30,Golden State Warriors,NBA,74,16.2,.407,.766,4.0,1.0,0.9,0.2,6.3,15.7,2.9,.114,-0.5,0.4,,510000,"Artesia in Lakewood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Farmer,/players/f/farmeto01.html,1998,2000,"San Jose State University, University of Nebraska",false,"Artesia in Lakewood, California",-0.01,0.26,farmeto01,1997-98,CHH,13.9,0.4,.109,-2.7,0.0,,NBA,272250,28,27,6.3,.321,.795,1.2,0.2,0.4,0.1,2.5,CHH
+Tony Farmer,/players/f/farmeto01.html,1998,2000,"San Jose State University, University of Nebraska",false,"Artesia in Lakewood, California",,,farmeto01,1998-99,Did Not Play (other pro league—Belgium),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Belgium)
+Tony Farmer,/players/f/farmeto01.html,1998,2000,"San Jose State University, University of Nebraska",false,"Artesia in Lakewood, California",-0.79,1.19,farmeto01,1999-00,GSW,15.7,2.9,.114,-0.5,0.4,,NBA,510000,30,74,16.2,.407,.766,4.0,1.0,0.9,0.2,6.3,GSW

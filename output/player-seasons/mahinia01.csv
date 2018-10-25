@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mahinia01,2007-08,21,San Antonio Spurs,NBA,6,3.8,.500,1.000,0.8,0.2,0.0,0.7,3.5,35.3,0.2,.372,2.3,0.0,,938760,
-mahinia01,2008-09,22,San Antonio Spurs,NBA,,,,,,,,,,,,,,,,1009200,
-mahinia01,2009-10,23,San Antonio Spurs,NBA,26,6.3,.636,.660,2.0,0.1,0.1,0.3,3.9,21.6,0.7,.206,-3.9,-0.1,,1079640,
-mahinia01,2010-11,24,Dallas Mavericks,NBA,56,8.7,.561,.768,2.1,0.1,0.3,0.3,3.1,13.7,1.8,.177,-0.6,0.2,,762196,
-mahinia01,2011-12,25,DAL,NBA,61,18.7,.546,.639,4.7,0.2,0.6,0.5,5.8,13.5,3.4,.144,-1.2,0.2,,,
-mahinia01,2012-13,26,Indiana Pacers,NBA,80,16.5,.453,.608,3.9,0.3,0.5,0.8,5.0,10.6,2.3,.083,-2.7,-0.2,,4000000,
-mahinia01,2013-14,27,Indiana Pacers,NBA,77,16.2,.481,.621,3.3,0.3,0.5,0.9,3.5,10.2,3.3,.129,0.3,0.7,,4000000,
-mahinia01,2014-15,28,Indiana Pacers,NBA,61,18.8,.552,.304,5.8,0.5,0.5,0.8,4.3,10.8,2.1,.090,-1.2,0.2,,4000000,
-mahinia01,2015-16,29,Indiana Pacers,NBA,71,25.6,.589,.587,7.1,1.5,0.9,1.1,9.3,16.6,6.2,.163,2.4,2.0,,4000000,
-mahinia01,2016-17,30,Washington Wizards,NBA,31,17.9,.586,.573,4.8,0.6,1.1,0.8,5.6,14.1,1.4,.123,0.8,0.4,,15944154,
-mahinia01,2017-18,31,Washington Wizards,NBA,77,14.9,.556,.703,4.1,0.7,0.5,0.5,4.8,12.2,2.2,.093,-0.7,0.4,,16661641,
-mahinia01,2018-19,32,WAS,NBA,3,11.0,.167,.500,2.3,0.7,0.7,1.0,1.7,7.6,0.0,-0.006,2.6,0.0,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,+0.36,0.04,mahinia01,2007-08,SAS,35.3,0.2,.372,2.3,0.0,,NBA,938760,21,6,3.8,.500,1.000,0.8,0.2,0.0,0.7,3.5,SAS
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,,,mahinia01,2008-09,Did Not Play,,,,,,,NBA,1009200,22,,,,,,,,,,Did Not Play
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,+0.04,0.29,mahinia01,2009-10,SAS,21.6,0.7,.206,-3.9,-0.1,,NBA,1079640,23,26,6.3,.636,.660,2.0,0.1,0.1,0.3,3.9,SAS
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,-0.49,0.64,mahinia01,2010-11,DAL,13.7,1.8,.177,-0.6,0.2,,NBA,762196,24,56,8.7,.561,.768,2.1,0.1,0.3,0.3,3.1,DAL
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,+0.50,2.30,mahinia01,2011-12,DAL,13.5,3.4,.144,-1.2,0.2,,NBA,,25,61,18.7,.546,.639,4.7,0.2,0.6,0.5,5.8,DAL
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,-4.72,-2.59,mahinia01,2012-13,IND,10.6,2.3,.083,-2.7,-0.2,,NBA,4000000,26,80,16.5,.453,.608,3.9,0.3,0.5,0.8,5.0,IND
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,-1.49,0.69,mahinia01,2013-14,IND,10.2,3.3,.129,0.3,0.7,,NBA,4000000,27,77,16.2,.481,.621,3.3,0.3,0.5,0.9,3.5,IND
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,+0.33,2.04,mahinia01,2014-15,IND,10.8,2.1,.090,-1.2,0.2,,NBA,4000000,28,61,18.8,.552,.304,5.8,0.5,0.5,0.8,4.3,IND
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,+2.22,6.19,mahinia01,2015-16,IND,16.6,6.2,.163,2.4,2.0,,NBA,4000000,29,71,25.6,.589,.587,7.1,1.5,0.9,1.1,9.3,IND
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,-1.35,0.39,mahinia01,2016-17,WAS,14.1,1.4,.123,0.8,0.4,,NBA,15944154,30,31,17.9,.586,.573,4.8,0.6,1.1,0.8,5.6,WAS
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,-1.45,0.69,mahinia01,2017-18,WAS,12.2,2.2,.093,-0.7,0.4,,NBA,16661641,31,77,14.9,.556,.703,4.1,0.7,0.5,0.5,4.8,WAS
+Ian Mahinmi,/players/m/mahinia01.html,2008,2019,,true,,,,mahinia01,2018-19,WAS,7.6,0.0,-0.006,2.6,0.0,,NBA,,32,3,11.0,.167,.500,2.3,0.7,0.7,1.0,1.7,WAS

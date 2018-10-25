@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-flowebr01,1982-83,25,CLE,NBA,53,13.2,.534,.774,3.4,0.9,0.4,0.2,4.9,15.2,1.7,.119,0.1,0.4,,"Berkley in Berkley, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bruce Flowers,/players/f/flowebr01.html,1983,1983,University of Notre Dame,false,"Berkley in Berkley, Michigan",-0.95,0.61,flowebr01,1982-83,CLE,15.2,1.7,.119,0.1,0.4,,25,NBA,53,13.2,.534,.774,3.4,0.9,0.4,0.2,4.9,CLE

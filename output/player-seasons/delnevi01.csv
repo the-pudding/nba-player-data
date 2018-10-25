@@ -1,17 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-delnevi01,1988-89,22,Sacramento Kings,NBA,80,19.5,.475,.850,2.1,2.6,0.8,0.2,7.1,12.7,2.5,.077,-1.8,0.1,,175000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1989-90,23,SAC,NBA,76,24.4,.462,.871,2.6,3.3,0.8,0.1,9.7,12.6,2.2,.057,-2.6,-0.3,,,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1990-91,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1991-92,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1992-93,26,San Antonio Spurs,NBA,73,20.9,.507,.863,2.2,4.0,0.6,0.0,7.4,13.9,3.5,.111,-1.1,0.3,,920000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1993-94,27,San Antonio Spurs,NBA,77,25.3,.487,.824,2.1,4.2,0.8,0.0,10.0,15.3,5.7,.140,-0.8,0.6,,1195365,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1994-95,28,San Antonio Spurs,NBA,75,31.5,.486,.790,2.6,3.0,0.8,0.2,12.5,13.8,6.8,.138,0.9,1.8,,1471000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1995-96,29,San Antonio Spurs,NBA,82,33.7,.497,.832,3.3,3.8,1.0,0.1,14.5,15.6,8.3,.144,1.6,2.5,,1747000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1996-97,30,San Antonio Spurs,NBA,72,31.2,.467,.868,2.9,3.2,0.8,0.1,12.3,14.4,3.1,.066,-1.8,0.1,,2023000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1997-98,31,San Antonio Spurs,NBA,54,31.9,.441,.796,2.8,3.4,0.7,0.1,9.5,11.1,3.7,.104,-1.0,0.4,,2298777,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1998-99,32,Milwaukee Bucks,NBA,48,22.8,.422,.800,2.1,3.6,0.7,0.1,5.9,12.3,1.6,.070,-2.2,-0.1,,1750000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,1999-00,33,Milwaukee Bucks,NBA,67,18.1,.471,.897,1.6,2.4,0.5,0.0,5.2,11.7,1.5,.061,-3.5,-0.5,,1925000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,2000-01,34,Golden State Warriors,NBA,65,14.2,.453,.932,1.3,1.9,0.4,0.0,3.9,11.3,1.6,.085,-4.2,-0.5,,2100000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,2000-01,34,Golden State Warriors,NBA,29,13.7,.333,1.000,1.1,2.1,0.2,0.0,2.7,6.9,0.0,-0.005,-8.4,-0.6,,2100000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,2000-01,34,Golden State Warriors,NBA,36,14.6,.528,.893,1.4,1.8,0.6,0.1,4.9,14.7,1.7,.153,-1.0,0.1,,2100000,"Suffield Academy in Suffield, Connecticut"
-delnevi01,2001-02,35,Los Angeles Clippers,NBA,2,3.0,.250,,0.0,1.0,0.0,0.0,1.0,7.1,0.0,-0.141,-19.9,0.0,,2275000,"Suffield Academy in Suffield, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-1.51,0.81,delnevi01,1988-89,SAC,12.7,2.5,.077,-1.8,0.1,,NBA,175000,22,80,19.5,.475,.850,2.1,2.6,0.8,0.2,7.1,SAC
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-2.00,0.36,delnevi01,1989-90,SAC,12.6,2.2,.057,-2.6,-0.3,,NBA,,23,76,24.4,.462,.871,2.6,3.3,0.8,0.1,9.7,SAC
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",,,delnevi01,1990-91,Did Not Play (other pro league—Italy),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—Italy)
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",,,delnevi01,1991-92,Did Not Play (other pro league—Italy),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Italy)
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-0.59,1.88,delnevi01,1992-93,SAS,13.9,3.5,.111,-1.1,0.3,,NBA,920000,26,73,20.9,.507,.863,2.2,4.0,0.6,0.0,7.4,SAS
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",+0.61,3.98,delnevi01,1993-94,SAS,15.3,5.7,.140,-0.8,0.6,,NBA,1195365,27,77,25.3,.487,.824,2.1,4.2,0.8,0.0,10.0,SAS
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",+0.25,4.69,delnevi01,1994-95,SAS,13.8,6.8,.138,0.9,1.8,,NBA,1471000,28,75,31.5,.486,.790,2.6,3.0,0.8,0.2,12.5,SAS
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",+1.28,7.57,delnevi01,1995-96,SAS,15.6,8.3,.144,1.6,2.5,,NBA,1747000,29,82,33.7,.497,.832,3.3,3.8,1.0,0.1,14.5,SAS
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-2.17,0.22,delnevi01,1996-97,SAS,14.4,3.1,.066,-1.8,0.1,,NBA,2023000,30,72,31.2,.467,.868,2.9,3.2,0.8,0.1,12.3,SAS
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-0.84,1.89,delnevi01,1997-98,SAS,11.1,3.7,.104,-1.0,0.4,,NBA,2298777,31,54,31.9,.441,.796,2.8,3.4,0.7,0.1,9.5,SAS
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-0.86,1.02,delnevi01,1998-99,MIL,12.3,1.6,.070,-2.2,-0.1,,NBA,1750000,32,48,22.8,.422,.800,2.1,3.6,0.7,0.1,5.9,MIL
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-2.30,0.00,delnevi01,1999-00,MIL,11.7,1.5,.061,-3.5,-0.5,,NBA,1925000,33,67,18.1,.471,.897,1.6,2.4,0.5,0.0,5.2,MIL
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",-1.53,0.44,delnevi01,2000-01,TOT,11.3,1.6,.085,-4.2,-0.5,,NBA,2100000,34,65,14.2,.453,.932,1.3,1.9,0.4,0.0,3.9,"GSW,PHO"
+Vinny Del Negro,/players/d/delnevi01.html,1989,2002,North Carolina State University,false,"Suffield Academy in Suffield, Connecticut",+0.73,0.01,delnevi01,2001-02,PHO,7.1,0.0,-0.141,-19.9,0.0,,NBA,2275000,35,2,3.0,.250,,0.0,1.0,0.0,0.0,1.0,PHO

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-fernser01,1976-77,23,CHI,NBA,5,12.2,.200,.727,3.2,1.2,0.2,0.6,2.8,10.0,0.0,.004,-3.4,0.0,,"Skyline in Oakland, California"
-fernser01,1977-78,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Skyline in Oakland, California"
-fernser01,1978-79,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Skyline in Oakland, California"
-fernser01,1979-80,26,BOS,NBA,56,7.7,.464,.635,1.7,0.5,0.3,0.2,3.1,14.4,1.2,.133,-0.6,0.2,,"Skyline in Oakland, California"
-fernser01,1980-81,27,BOS,NBA,45,6.2,.481,.667,1.4,0.2,0.1,0.2,2.1,11.0,0.5,.079,-3.2,-0.1,,"Skyline in Oakland, California"
-fernser01,1981-82,28,BOS,NBA,43,4.7,.388,.633,1.0,0.2,0.1,0.2,1.3,8.1,0.2,.047,-4.4,-0.1,,"Skyline in Oakland, California"
-fernser01,1982-83,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Skyline in Oakland, California"
-fernser01,1983-84,30,NYK,NBA,32,12.6,.558,.735,2.7,0.3,0.5,0.3,2.6,9.6,1.0,.118,-0.1,0.2,,"Skyline in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",-0.81,0.06,fernser01,1976-77,CHI,10.0,0.0,.004,-3.4,0.0,,23,NBA,5,12.2,.200,.727,3.2,1.2,0.2,0.6,2.8,CHI
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",,,fernser01,1977-78,Did Not Play (other pro league—Italy),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—Italy)
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",,,fernser01,1978-79,Did Not Play (other pro league—Italy),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—Italy)
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",-0.11,0.66,fernser01,1979-80,BOS,14.4,1.2,.133,-0.6,0.2,,26,NBA,56,7.7,.464,.635,1.7,0.5,0.3,0.2,3.1,BOS
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",-1.81,0.08,fernser01,1980-81,BOS,11.0,0.5,.079,-3.2,-0.1,,27,NBA,45,6.2,.481,.667,1.4,0.2,0.1,0.2,2.1,BOS
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",-0.69,0.23,fernser01,1981-82,BOS,8.1,0.2,.047,-4.4,-0.1,,28,NBA,43,4.7,.388,.633,1.0,0.2,0.1,0.2,1.3,BOS
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",,,fernser01,1982-83,Did Not Play (other pro league—Italy),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—Italy)
+Eric Fernsten,/players/f/fernser01.html,1976,1984,University of San Francisco,false,"Skyline in Oakland, California",-0.64,0.44,fernser01,1983-84,NYK,9.6,1.0,.118,-0.1,0.2,,30,NBA,32,12.6,.558,.735,2.7,0.3,0.5,0.3,2.6,NYK

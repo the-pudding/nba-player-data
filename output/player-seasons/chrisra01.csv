@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-chrisra01,2015-16,24,Indiana Pacers,NBA,1,6.0,1.000,,1.0,0.0,0.0,0.0,4.0,32.0,0.0,.343,3.2,0.0,,1000000,"Academy of the New Church in Bryn Athyn, Pennsylvania"
-chrisra01,2016-17,25,Indiana Pacers,NBA,29,7.6,.442,.724,1.9,0.1,0.1,0.2,2.0,10.4,0.5,.099,-4.2,-0.1,,1052342,"Academy of the New Church in Bryn Athyn, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rakeem Christmas,/players/c/chrisra01.html,2016,2017,Syracuse University,true,"Academy of the New Church in Bryn Athyn, Pennsylvania",-0.21,0.01,chrisra01,2015-16,IND,32.0,0.0,.343,3.2,0.0,,NBA,1000000,24,1,6.0,1.000,,1.0,0.0,0.0,0.0,4.0,IND
+Rakeem Christmas,/players/c/chrisra01.html,2016,2017,Syracuse University,true,"Academy of the New Church in Bryn Athyn, Pennsylvania",-2.47,-0.02,chrisra01,2016-17,IND,10.4,0.5,.099,-4.2,-0.1,,NBA,1052342,25,29,7.6,.442,.724,1.9,0.1,0.1,0.2,2.0,IND

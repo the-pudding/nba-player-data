@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-butleja01,2004-05,19,NYK,NBA,3,1.7,1.000,1.000,0.0,0.0,0.3,0.0,3.3,90.3,0.1,1.333,21.5,0.0,,"Coastal Christian Academy in Virginia Beach, Virginia",
-butleja01,2005-06,20,New York Knicks,NBA,55,13.5,.544,.753,3.3,0.5,0.3,0.6,5.3,14.8,1.2,.078,-1.6,0.1,,"Coastal Christian Academy in Virginia Beach, Virginia",398762
-butleja01,2006-07,21,San Antonio Spurs,NBA,11,9.4,.457,.900,2.0,0.5,0.2,0.0,3.7,9.6,0.1,.047,-6.1,-0.1,,"Coastal Christian Academy in Virginia Beach, Virginia",2200000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jackie Butler,/players/b/butleja01.html,2005,2007,,false,"Coastal Christian Academy in Virginia Beach, Virginia",+0.13,0.01,butleja01,2004-05,NYK,90.3,0.1,1.333,21.5,0.0,,19,NBA,3,1.7,1.000,1.000,0.0,0.0,0.3,0.0,3.3,NYK,
+Jackie Butler,/players/b/butleja01.html,2005,2007,,false,"Coastal Christian Academy in Virginia Beach, Virginia",+1.26,1.77,butleja01,2005-06,NYK,14.8,1.2,.078,-1.6,0.1,,20,NBA,55,13.5,.544,.753,3.3,0.5,0.3,0.6,5.3,NYK,398762
+Jackie Butler,/players/b/butleja01.html,2005,2007,,false,"Coastal Christian Academy in Virginia Beach, Virginia",-0.93,0.09,butleja01,2006-07,SAS,9.6,0.1,.047,-6.1,-0.1,,21,NBA,11,9.4,.457,.900,2.0,0.5,0.2,0.0,3.7,SAS,2200000

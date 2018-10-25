@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-clavevi01,2012-13,24,Portland Trail Blazers,NBA,49,16.6,.392,.467,2.4,0.9,0.5,0.2,3.8,7.0,-0.1,-0.005,-3.3,-0.3,,1300000,
-clavevi01,2013-14,25,Portland Trail Blazers,NBA,21,8.8,.405,.909,1.9,0.6,0.1,0.1,2.2,8.8,0.2,.047,-3.0,0.0,,1330000,
-clavevi01,2014-15,26,Denver Nuggets,NBA,10,7.6,.450,,2.0,0.1,0.1,0.1,2.4,9.2,0.1,.086,-4.2,0.0,,1370000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Victor Claver,/players/c/clavevi01.html,2013,2015,,false,,-3.63,-0.73,clavevi01,2012-13,POR,7.0,-0.1,-0.005,-3.3,-0.3,,NBA,1300000,24,49,16.6,.392,.467,2.4,0.9,0.5,0.2,3.8,POR
+Victor Claver,/players/c/clavevi01.html,2013,2015,,false,,-1.52,0.10,clavevi01,2013-14,POR,8.8,0.2,.047,-3.0,0.0,,NBA,1330000,25,21,8.8,.405,.909,1.9,0.6,0.1,0.1,2.2,POR
+Victor Claver,/players/c/clavevi01.html,2013,2015,,false,,+0.37,0.14,clavevi01,2014-15,POR,9.2,0.1,.086,-4.2,0.0,,NBA,1370000,26,10,7.6,.450,,2.0,0.1,0.1,0.1,2.4,POR

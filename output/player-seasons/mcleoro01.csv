@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcleoro01,1998-99,23,Atlanta Hawks,NBA,34,10.2,.380,.822,1.5,0.4,0.1,0.0,4.8,11.3,0.3,.035,-7.5,-0.5,,740000,"Saint Anthony's in Jersey City, New Jersey"
-mcleoro01,1999-00,24,Atlanta Hawks,NBA,44,19.5,.395,.771,3.1,1.2,0.4,0.1,7.2,9.1,-0.4,-0.025,-5.9,-0.8,,914760,"Saint Anthony's in Jersey City, New Jersey"
-mcleoro01,2000-01,25,Atlanta Hawks,NBA,35,26.3,.437,.882,3.4,1.7,0.7,0.2,9.6,10.5,0.4,.019,-3.3,-0.3,,978600,"Saint Anthony's in Jersey City, New Jersey"
-mcleoro01,2000-01,25,Atlanta Hawks,NBA,34,26.7,.436,.882,3.5,1.7,0.7,0.2,9.9,10.6,0.4,.019,-3.2,-0.3,,978600,"Saint Anthony's in Jersey City, New Jersey"
-mcleoro01,2000-01,25,Atlanta Hawks,NBA,1,15.0,.500,,2.0,0.0,0.0,0.0,2.0,0.9,0.0,-0.019,-8.2,0.0,,978600,"Saint Anthony's in Jersey City, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roshown McLeod,/players/m/mcleoro01.html,1999,2001,"St. John's University, Duke University",false,"Saint Anthony's in Jersey City, New Jersey",-2.41,-0.09,mcleoro01,1998-99,ATL,11.3,0.3,.035,-7.5,-0.5,,NBA,740000,23,34,10.2,.380,.822,1.5,0.4,0.1,0.0,4.8,ATL
+Roshown McLeod,/players/m/mcleoro01.html,1999,2001,"St. John's University, Duke University",false,"Saint Anthony's in Jersey City, New Jersey",-4.03,-1.05,mcleoro01,1999-00,ATL,9.1,-0.4,-0.025,-5.9,-0.8,,NBA,914760,24,44,19.5,.395,.771,3.1,1.2,0.4,0.1,7.2,ATL
+Roshown McLeod,/players/m/mcleoro01.html,1999,2001,"St. John's University, Duke University",false,"Saint Anthony's in Jersey City, New Jersey",-2.10,0.01,mcleoro01,2000-01,TOT,10.5,0.4,.019,-3.3,-0.3,,NBA,978600,25,35,26.3,.437,.882,3.4,1.7,0.7,0.2,9.6,"ATL,PHI"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-langfke01,2007-08,24,San Antonio Spurs,NBA,2,5.0,.250,,1.0,0.0,0.0,0.0,1.0,-2.4,0.0,-0.142,-19.9,0.0,,272316,"North Crowley in Fort Worth, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Langford,/players/l/langfke01.html,2008,2008,University of Kansas,false,"North Crowley in Fort Worth, Texas",+0.40,0.02,langfke01,2007-08,SAS,-2.4,0.0,-0.142,-19.9,0.0,,NBA,272316,24,2,5.0,.250,,1.0,0.0,0.0,0.0,1.0,SAS

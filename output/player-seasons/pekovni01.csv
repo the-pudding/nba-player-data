@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-pekovni01,2010-11,25,Minnesota Timberwolves,NBA,65,13.6,.517,.763,3.0,0.4,0.3,0.5,5.5,11.2,0.6,.035,-3.9,-0.4,,4000000,
-pekovni01,2011-12,26,Minnesota Timberwolves,NBA,47,26.9,.564,.743,7.4,0.7,0.6,0.7,13.9,21.4,4.5,.170,1.5,1.1,,4503600,
-pekovni01,2012-13,27,Minnesota Timberwolves,NBA,62,31.6,.520,.744,8.8,0.9,0.7,0.8,16.3,20.2,6.7,.163,0.3,1.2,,4837200,
-pekovni01,2013-14,28,Minnesota Timberwolves,NBA,54,30.8,.541,.747,8.7,0.9,0.6,0.4,17.5,20.7,5.9,.169,0.2,0.9,,12100000,
-pekovni01,2014-15,29,Minnesota Timberwolves,NBA,31,26.3,.424,.837,7.5,0.9,0.6,0.4,12.5,16.6,1.2,.069,-4.5,-0.5,,12100000,
-pekovni01,2015-16,30,Minnesota Timberwolves,NBA,12,13.0,.380,.800,1.8,0.9,0.1,0.0,4.5,6.5,-0.1,-0.022,-8.2,-0.2,,12100000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nikola Pekovic,/players/p/pekovni01.html,2011,2016,,false,,-3.75,-0.89,pekovni01,2010-11,MIN,11.2,0.6,.035,-3.9,-0.4,,NBA,4000000,25,65,13.6,.517,.763,3.0,0.4,0.3,0.5,5.5,MIN
+Nikola Pekovic,/players/p/pekovni01.html,2011,2016,,false,,-0.15,1.82,pekovni01,2011-12,MIN,21.4,4.5,.170,1.5,1.1,,NBA,4503600,26,47,26.9,.564,.743,7.4,0.7,0.6,0.7,13.9,MIN
+Nikola Pekovic,/players/p/pekovni01.html,2011,2016,,false,,+0.37,3.52,pekovni01,2012-13,MIN,20.2,6.7,.163,0.3,1.2,,NBA,4837200,27,62,31.6,.520,.744,8.8,0.9,0.7,0.8,16.3,MIN
+Nikola Pekovic,/players/p/pekovni01.html,2011,2016,,false,,+1.30,4.03,pekovni01,2013-14,MIN,20.7,5.9,.169,0.2,0.9,,NBA,12100000,28,54,30.8,.541,.747,8.7,0.9,0.6,0.4,17.5,MIN
+Nikola Pekovic,/players/p/pekovni01.html,2011,2016,,false,,-0.17,1.16,pekovni01,2014-15,MIN,16.6,1.2,.069,-4.5,-0.5,,NBA,12100000,29,31,26.3,.424,.837,7.5,0.9,0.6,0.4,12.5,MIN
+Nikola Pekovic,/players/p/pekovni01.html,2011,2016,,false,,-2.23,0.00,pekovni01,2015-16,MIN,6.5,-0.1,-0.022,-8.2,-0.2,,NBA,12100000,30,12,13.0,.380,.800,1.8,0.9,0.1,0.0,4.5,MIN

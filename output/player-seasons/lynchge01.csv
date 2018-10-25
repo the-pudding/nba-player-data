@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lynchge01,1993-94,23,Los Angeles Lakers,NBA,71,24.8,.508,.596,5.8,1.4,1.4,0.4,9.6,16.1,3.9,.107,1.5,1.5,,1100000,"Flint Hill School in Oakton, Virginia"
-lynchge01,1994-95,24,Los Angeles Lakers,NBA,56,17.0,.468,.721,3.3,1.1,0.9,0.2,6.1,12.4,0.9,.046,-2.3,-0.1,,1430000,"Flint Hill School in Oakton, Virginia"
-lynchge01,1995-96,25,Los Angeles Lakers,NBA,76,13.3,.430,.663,2.8,0.7,0.6,0.1,3.8,11.4,1.7,.080,-2.0,0.0,,1760000,"Flint Hill School in Oakton, Virginia"
-lynchge01,1996-97,26,Vancouver Grizzlies,NBA,41,25.8,.471,.619,6.4,1.9,1.5,0.4,8.3,15.4,1.5,.070,0.2,0.6,,2090000,"Flint Hill School in Oakton, Virginia"
-lynchge01,1997-98,27,Vancouver Grizzlies,NBA,82,18.2,.481,.703,4.4,1.5,0.8,0.5,7.5,16.8,2.5,.079,0.3,0.9,,2115000,"Flint Hill School in Oakton, Virginia"
-lynchge01,1998-99,28,Philadelphia 76ers,NBA,43,30.6,.421,.631,6.5,1.8,2.0,0.5,8.3,12.8,2.6,.096,2.1,1.4,,1000000,"Flint Hill School in Oakton, Virginia"
-lynchge01,1999-00,29,Philadelphia 76ers,NBA,75,32.2,.461,.617,7.8,1.8,1.6,0.5,9.6,13.7,5.8,.116,2.7,2.9,,2000000,"Flint Hill School in Oakton, Virginia"
-lynchge01,2000-01,30,Philadelphia 76ers,NBA,82,32.3,.445,.719,7.2,1.7,1.2,0.4,8.4,12.4,6.5,.118,2.3,2.9,,2200000,"Flint Hill School in Oakton, Virginia"
-lynchge01,2001-02,31,Charlotte Hornets,NBA,45,19.8,.369,.625,4.1,1.2,0.9,0.3,3.8,9.0,0.7,.038,-1.4,0.1,,2400000,"Flint Hill School in Oakton, Virginia"
-lynchge01,2002-03,32,New Orleans Hornets,NBA,81,18.5,.409,.554,4.4,1.3,0.8,0.2,4.5,12.9,3.5,.113,1.0,1.1,,2600000,"Flint Hill School in Oakton, Virginia"
-lynchge01,2003-04,33,New Orleans Hornets,NBA,78,21.8,.397,.667,4.0,1.5,0.6,0.2,4.8,9.7,2.5,.072,-1.3,0.3,,2800000,"Flint Hill School in Oakton, Virginia"
-lynchge01,2004-05,34,New Orleans Hornets,NBA,44,21.2,.360,.739,4.0,2.0,0.7,0.3,3.7,7.9,0.0,.000,-2.6,-0.1,,3000000,"Flint Hill School in Oakton, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-0.66,1.93,lynchge01,1993-94,LAL,16.1,3.9,.107,1.5,1.5,,NBA,1100000,23,71,24.8,.508,.596,5.8,1.4,1.4,0.4,9.6,LAL
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-2.25,0.04,lynchge01,1994-95,LAL,12.4,0.9,.046,-2.3,-0.1,,NBA,1430000,24,56,17.0,.468,.721,3.3,1.1,0.9,0.2,6.1,LAL
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-1.70,0.40,lynchge01,1995-96,LAL,11.4,1.7,.080,-2.0,0.0,,NBA,1760000,25,76,13.3,.430,.663,2.8,0.7,0.6,0.1,3.8,LAL
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-1.30,0.68,lynchge01,1996-97,VAN,15.4,1.5,.070,0.2,0.6,,NBA,2090000,26,41,25.8,.471,.619,6.4,1.9,1.5,0.4,8.3,VAN
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-1.13,1.16,lynchge01,1997-98,VAN,16.8,2.5,.079,0.3,0.9,,NBA,2115000,27,82,18.2,.481,.703,4.4,1.5,0.8,0.5,7.5,VAN
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",+0.08,2.51,lynchge01,1998-99,PHI,12.8,2.6,.096,2.1,1.4,,NBA,1000000,28,43,30.6,.421,.631,6.5,1.8,2.0,0.5,8.3,PHI
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",+0.42,5.00,lynchge01,1999-00,PHI,13.7,5.8,.116,2.7,2.9,,NBA,2000000,29,75,32.2,.461,.617,7.8,1.8,1.6,0.5,9.6,PHI
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-0.36,3.67,lynchge01,2000-01,PHI,12.4,6.5,.118,2.3,2.9,,NBA,2200000,30,82,32.3,.445,.719,7.2,1.7,1.2,0.4,8.4,PHI
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-1.32,0.69,lynchge01,2001-02,CHH,9.0,0.7,.038,-1.4,0.1,,NBA,2400000,31,45,19.8,.369,.625,4.1,1.2,0.9,0.3,3.8,CHH
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",+1.55,4.40,lynchge01,2002-03,NOH,12.9,3.5,.113,1.0,1.1,,NBA,2600000,32,81,18.5,.409,.554,4.4,1.3,0.8,0.2,4.5,NOH
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-1.61,0.70,lynchge01,2003-04,NOH,9.7,2.5,.072,-1.3,0.3,,NBA,2800000,33,78,21.8,.397,.667,4.0,1.5,0.6,0.2,4.8,NOH
+George Lynch,/players/l/lynchge01.html,1994,2005,University of North Carolina,false,"Flint Hill School in Oakton, Virginia",-1.36,0.53,lynchge01,2004-05,NOH,7.9,0.0,.000,-2.6,-0.1,,NBA,3000000,34,44,21.2,.360,.739,4.0,2.0,0.7,0.3,3.7,NOH

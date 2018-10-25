@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-boganke01,2003-04,23,Orlando Magic,NBA,73,24.5,.403,.631,4.3,1.3,0.6,0.1,6.8,11.0,1.3,.034,-1.9,0.0,,366931,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2004-05,24,Charlotte Bobcats,NBA,74,24.2,.381,.727,3.1,1.8,0.9,0.1,9.6,10.4,0.1,.002,-2.7,-0.3,,620046,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2005-06,25,Charlotte Bobcats,NBA,72,26.6,.395,.683,3.5,1.8,1.0,0.1,8.6,10.7,2.3,.058,-1.1,0.4,,869373,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2005-06,25,Charlotte Bobcats,NBA,39,21.7,.396,.762,2.7,1.2,1.0,0.1,8.7,12.4,1.2,.066,-1.6,0.1,,869373,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2005-06,25,Charlotte Bobcats,NBA,33,32.2,.395,.580,4.5,2.5,1.0,0.2,8.5,9.3,1.2,.053,-0.7,0.3,,869373,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2006-07,26,Orlando Magic,NBA,59,16.8,.404,.746,1.6,1.0,0.5,0.0,5.1,9.2,1.7,.080,-1.3,0.2,,2510000,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2007-08,27,Orlando Magic,NBA,82,26.8,.410,.736,3.2,1.3,0.7,0.1,8.7,10.9,4.9,.106,1.3,1.8,,2440000,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2008-09,28,Milwaukee Bucks,NBA,65,19.6,.367,.912,3.1,1.0,0.7,0.1,5.6,9.7,2.5,.096,-0.1,0.6,,2565000,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2008-09,28,Milwaukee Bucks,NBA,36,21.9,.360,.875,3.1,0.9,0.6,0.1,5.3,8.0,1.5,.093,0.0,0.4,,2565000,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2008-09,28,Milwaukee Bucks,NBA,29,16.7,.376,.939,3.1,1.1,0.7,0.1,6.0,12.5,1.0,.101,-0.2,0.2,,2565000,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2009-10,29,San Antonio Spurs,NBA,79,19.7,.403,.740,2.2,1.2,0.6,0.2,4.4,7.7,2.6,.081,0.1,0.8,,1033342,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2010-11,30,Chicago Bulls,NBA,82,17.8,.404,.656,1.8,1.2,0.5,0.1,4.4,9.0,3.6,.118,0.0,0.7,,1600000,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2011-12,31,New Jersey Nets,NBA,5,18.8,.381,.400,2.2,0.6,0.4,0.0,4.2,4.8,0.0,-0.005,-5.1,-0.1,,848266,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2012-13,32,Brooklyn Nets,NBA,74,19.0,.380,.647,1.6,1.0,0.4,0.1,4.2,6.7,1.4,.047,-1.3,0.3,,1229225,"DeMatha Catholic in Hyattsville, Maryland"
-boganke01,2013-14,33,Boston Celtics,NBA,6,9.2,.500,1.000,0.5,0.5,0.2,0.0,2.0,9.9,0.1,.121,-2.1,0.0,,5058198,"DeMatha Catholic in Hyattsville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-2.72,-0.58,boganke01,2003-04,ORL,11.0,1.3,.034,-1.9,0.0,,NBA,366931,23,73,24.5,.403,.631,4.3,1.3,0.6,0.1,6.8,ORL
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-2.89,-0.73,boganke01,2004-05,CHA,10.4,0.1,.002,-2.7,-0.3,,NBA,620046,24,74,24.2,.381,.727,3.1,1.8,0.9,0.1,9.6,CHA
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-1.73,0.63,boganke01,2005-06,TOT,10.7,2.3,.058,-1.1,0.4,,NBA,869373,25,72,26.6,.395,.683,3.5,1.8,1.0,0.1,8.6,"CHA,HOU"
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-0.33,1.30,boganke01,2006-07,ORL,9.2,1.7,.080,-1.3,0.2,,NBA,2510000,26,59,16.8,.404,.746,1.6,1.0,0.5,0.0,5.1,ORL
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",+0.30,4.35,boganke01,2007-08,ORL,10.9,4.9,.106,1.3,1.8,,NBA,2440000,27,82,26.8,.410,.736,3.2,1.3,0.7,0.1,8.7,ORL
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-0.54,1.50,boganke01,2008-09,TOT,9.7,2.5,.096,-0.1,0.6,,NBA,2565000,28,65,19.6,.367,.912,3.1,1.0,0.7,0.1,5.6,"ORL,MIL"
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-1.81,0.51,boganke01,2009-10,SAS,7.7,2.6,.081,0.1,0.8,,NBA,1033342,29,79,19.7,.403,.740,2.2,1.2,0.6,0.2,4.4,SAS
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",+0.42,3.23,boganke01,2010-11,CHI,9.0,3.6,.118,0.0,0.7,,NBA,1600000,30,82,17.8,.404,.656,1.8,1.2,0.5,0.1,4.4,CHI
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-0.97,0.08,boganke01,2011-12,NJN,4.8,0.0,-0.005,-5.1,-0.1,,NBA,848266,31,5,18.8,.381,.400,2.2,0.6,0.4,0.0,4.2,NJN
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",-3.31,-0.97,boganke01,2012-13,BRK,6.7,1.4,.047,-1.3,0.3,,NBA,1229225,32,74,19.0,.380,.647,1.6,1.0,0.4,0.1,4.2,BRK
+Keith Bogans,/players/b/boganke01.html,2004,2014,University of Kentucky,false,"DeMatha Catholic in Hyattsville, Maryland",+0.38,0.10,boganke01,2013-14,BOS,9.9,0.1,.121,-2.1,0.0,,NBA,5058198,33,6,9.2,.500,1.000,0.5,0.5,0.2,0.0,2.0,BOS

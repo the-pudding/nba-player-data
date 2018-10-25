@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-corzida01,1978-79,22,WSB,NBA,59,9.0,.534,.778,2.5,0.8,0.2,0.2,3.0,12.5,1.1,.102,-0.3,0.2,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1979-80,23,WSB,NBA,78,10.6,.417,.662,3.5,0.8,0.1,0.4,2.9,10.3,0.9,.050,-2.1,0.0,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1980-81,24,SAS,NBA,82,23.9,.490,.714,7.8,1.4,0.5,1.2,10.5,16.5,5.1,.125,0.4,1.2,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1981-82,25,SAS,NBA,82,26.7,.519,.746,7.7,1.6,0.4,1.5,10.1,14.9,5.2,.113,1.4,1.9,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1982-83,26,CHI,NBA,82,30.4,.497,.720,8.7,1.9,0.6,1.3,14.0,15.1,4.0,.076,-0.6,0.9,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1983-84,27,CHI,NBA,82,32.6,.467,.840,7.0,2.5,0.7,1.5,12.2,13.5,4.7,.084,0.7,1.8,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1984-85,28,Chicago Bulls,NBA,82,25.1,.486,.745,5.1,1.7,0.4,0.8,8.5,11.8,2.9,.067,-0.7,0.7,,"John Hersey in Arlington Heights, Illinois",660000
-corzida01,1985-86,29,Chicago Bulls,NBA,67,25.5,.491,.743,6.5,2.2,0.4,0.8,9.6,14.6,2.9,.080,0.1,0.9,,"John Hersey in Arlington Heights, Illinois",710000
-corzida01,1986-87,30,CHI,NBA,82,27.9,.475,.736,6.6,2.5,0.5,1.1,8.3,12.8,4.2,.089,0.3,1.3,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1987-88,31,Chicago Bulls,NBA,80,29.1,.481,.752,6.6,1.9,0.5,1.2,10.1,13.6,4.9,.101,-0.1,1.1,,"John Hersey in Arlington Heights, Illinois",700000
-corzida01,1988-89,32,Chicago Bulls,NBA,81,18.3,.461,.740,3.9,1.3,0.4,0.6,5.9,10.8,1.4,.046,-3.3,-0.5,,"John Hersey in Arlington Heights, Illinois",500000
-corzida01,1989-90,33,ORL,NBA,6,13.2,.379,.000,3.0,0.3,0.3,0.0,3.7,3.2,-0.2,-0.139,-10.7,-0.2,,"John Hersey in Arlington Heights, Illinois",
-corzida01,1990-91,34,Seattle SuperSonics,NBA,28,5.3,.447,.591,1.2,0.1,0.2,0.2,1.7,12.5,0.4,.117,-3.0,0.0,,"John Hersey in Arlington Heights, Illinois",300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-1.12,0.45,corzida01,1978-79,WSB,12.5,1.1,.102,-0.3,0.2,,22,NBA,59,9.0,.534,.778,2.5,0.8,0.2,0.2,3.0,WSB,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-2.02,0.10,corzida01,1979-80,WSB,10.3,0.9,.050,-2.1,0.0,,23,NBA,78,10.6,.417,.662,3.5,0.8,0.1,0.4,2.9,WSB,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",+0.57,4.09,corzida01,1980-81,SAS,16.5,5.1,.125,0.4,1.2,,24,NBA,82,23.9,.490,.714,7.8,1.4,0.5,1.2,10.5,SAS,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",+0.42,4.46,corzida01,1981-82,SAS,14.9,5.2,.113,1.4,1.9,,25,NBA,82,26.7,.519,.746,7.7,1.6,0.4,1.5,10.1,SAS,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-0.64,2.74,corzida01,1982-83,CHI,15.1,4.0,.076,-0.6,0.9,,26,NBA,82,30.4,.497,.720,8.7,1.9,0.6,1.3,14.0,CHI,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-0.53,3.13,corzida01,1983-84,CHI,13.5,4.7,.084,0.7,1.8,,27,NBA,82,32.6,.467,.840,7.0,2.5,0.7,1.5,12.2,CHI,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-1.58,1.05,corzida01,1984-85,CHI,11.8,2.9,.067,-0.7,0.7,,28,NBA,82,25.1,.486,.745,5.1,1.7,0.4,0.8,8.5,CHI,660000
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-1.14,1.43,corzida01,1985-86,CHI,14.6,2.9,.080,0.1,0.9,,29,NBA,67,25.5,.491,.743,6.5,2.2,0.4,0.8,9.6,CHI,710000
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-1.01,2.08,corzida01,1986-87,CHI,12.8,4.2,.089,0.3,1.3,,30,NBA,82,27.9,.475,.736,6.6,2.5,0.5,1.1,8.3,CHI,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-0.87,2.50,corzida01,1987-88,CHI,13.6,4.9,.101,-0.1,1.1,,31,NBA,80,29.1,.481,.752,6.6,1.9,0.5,1.2,10.1,CHI,700000
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-2.63,-0.38,corzida01,1988-89,CHI,10.8,1.4,.046,-3.3,-0.5,,32,NBA,81,18.3,.461,.740,3.9,1.3,0.4,0.6,5.9,CHI,500000
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-0.53,0.09,corzida01,1989-90,ORL,3.2,-0.2,-0.139,-10.7,-0.2,,33,NBA,6,13.2,.379,.000,3.0,0.3,0.3,0.0,3.7,ORL,
+Dave Corzine,/players/c/corzida01.html,1979,1991,DePaul University,false,"John Hersey in Arlington Heights, Illinois",-0.00,0.24,corzida01,1990-91,SEA,12.5,0.4,.117,-3.0,0.0,,34,NBA,28,5.3,.447,.591,1.2,0.1,0.2,0.2,1.7,SEA,300000

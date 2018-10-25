@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-webstma01,1976-77,24,DEN,NBA,80,16.0,.495,.650,6.1,0.8,0.3,1.5,6.7,16.7,3.9,.146,-0.3,0.6,,"Edmondson in Baltimore, Maryland",
-webstma01,1977-78,25,SEA,NBA,82,35.5,.502,.629,12.6,2.5,0.6,2.0,14.0,17.0,8.7,.143,3.0,3.7,,"Edmondson in Baltimore, Maryland",
-webstma01,1978-79,26,NYK,NBA,60,33.8,.473,.573,10.9,2.9,0.4,1.9,11.3,13.4,2.8,.066,0.3,1.2,,"Edmondson in Baltimore, Maryland",
-webstma01,1979-80,27,NYK,NBA,20,14.9,.481,.750,4.0,0.5,0.2,0.6,4.4,9.2,0.2,.039,-5.1,-0.2,,"Edmondson in Baltimore, Maryland",
-webstma01,1980-81,28,NYK,NBA,82,20.8,.466,.638,5.7,0.9,0.3,1.2,5.2,10.8,2.7,.076,-1.3,0.3,,"Edmondson in Baltimore, Maryland",
-webstma01,1981-82,29,NYK,NBA,82,23.0,.491,.635,6.0,1.2,0.3,1.1,6.2,11.8,3.2,.082,-0.5,0.7,,"Edmondson in Baltimore, Maryland",
-webstma01,1982-83,30,NYK,NBA,82,18.0,.508,.589,5.4,0.6,0.4,1.6,5.4,14.0,4.0,.130,1.7,1.4,,"Edmondson in Baltimore, Maryland",
-webstma01,1983-84,31,NYK,NBA,76,17.0,.469,.564,4.8,0.7,0.4,1.3,3.8,10.7,2.5,.091,1.1,1.0,,"Edmondson in Baltimore, Maryland",
-webstma01,1984-85,32,,NBA,,,,,,,,,,,,,,,,"Edmondson in Baltimore, Maryland",450000
-webstma01,1985-86,33,New York Knicks,NBA,,,,,,,,,,,,,,,,"Edmondson in Baltimore, Maryland",450000
-webstma01,1986-87,34,MIL,NBA,15,6.8,.526,.750,1.7,0.2,0.2,0.5,1.8,10.7,0.2,.095,-0.8,0.0,,"Edmondson in Baltimore, Maryland",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",+2.03,4.18,webstma01,1976-77,DEN,16.7,3.9,.146,-0.3,0.6,,24,NBA,80,16.0,.495,.650,6.1,0.8,0.3,1.5,6.7,DEN,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",+2.13,11.81,webstma01,1977-78,SEA,17.0,8.7,.143,3.0,3.7,,25,NBA,82,35.5,.502,.629,12.6,2.5,0.6,2.0,14.0,SEA,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",-0.41,2.54,webstma01,1978-79,NYK,13.4,2.8,.066,0.3,1.2,,26,NBA,60,33.8,.473,.573,10.9,2.9,0.4,1.9,11.3,NYK,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",-2.39,-0.03,webstma01,1979-80,NYK,9.2,0.2,.039,-5.1,-0.2,,27,NBA,20,14.9,.481,.750,4.0,0.5,0.2,0.6,4.4,NYK,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",-0.75,1.80,webstma01,1980-81,NYK,10.8,2.7,.076,-1.3,0.3,,28,NBA,82,20.8,.466,.638,5.7,0.9,0.3,1.2,5.2,NYK,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",-1.21,1.35,webstma01,1981-82,NYK,11.8,3.2,.082,-0.5,0.7,,29,NBA,82,23.0,.491,.635,6.0,1.2,0.3,1.1,6.2,NYK,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",+1.37,4.02,webstma01,1982-83,NYK,14.0,4.0,.130,1.7,1.4,,30,NBA,82,18.0,.508,.589,5.4,0.6,0.4,1.6,5.4,NYK,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",+0.42,2.74,webstma01,1983-84,NYK,10.7,2.5,.091,1.1,1.0,,31,NBA,76,17.0,.469,.564,4.8,0.7,0.4,1.3,3.8,NYK,
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",,,webstma01,1984-85,Did Not Play (illness—hepatitis),,,,,,,32,NBA,,,,,,,,,,Did Not Play (illness—hepatitis),450000
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",,,webstma01,1985-86,Did Not Play (illness—hepatitis),,,,,,,33,NBA,,,,,,,,,,Did Not Play (illness—hepatitis),450000
+Marvin Webster,/players/w/webstma01.html,1976,1987,Morgan State University,false,"Edmondson in Baltimore, Maryland",-0.22,0.14,webstma01,1986-87,MIL,10.7,0.2,.095,-0.8,0.0,,34,NBA,15,6.8,.526,.750,1.7,0.2,0.2,0.5,1.8,MIL,

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-slokaur01,2006-07,23,Toronto Raptors,NBA,20,3.6,.538,.692,0.7,0.1,0.1,0.1,1.9,13.9,0.1,.042,-7.0,-0.1,,412718,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Uros Slokar,/players/s/slokaur01.html,2007,2007,,false,,-0.67,0.08,slokaur01,2006-07,TOR,13.9,0.1,.042,-7.0,-0.1,,NBA,412718,23,20,3.6,.538,.692,0.7,0.1,0.1,0.1,1.9,TOR

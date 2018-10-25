@@ -1,21 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-schayda01,1981-82,22,UTA,NBA,82,19.8,.481,.757,5.2,1.8,0.6,0.9,7.9,13.2,1.7,.050,-1.5,0.2,,"Jamesville-DeWitt in DeWitt, New York",
-schayda01,1982-83,23,"UTA,DEN",NBA,82,27.9,.457,.773,7.7,2.5,0.7,1.2,11.1,12.1,2.0,.041,-1.4,0.4,,"Jamesville-DeWitt in DeWitt, New York",
-schayda01,1983-84,24,DEN,NBA,82,17.3,.493,.790,5.3,1.1,0.4,0.7,7.1,12.9,2.8,.095,-1.5,0.2,,"Jamesville-DeWitt in DeWitt, New York",
-schayda01,1984-85,25,Denver Nuggets,NBA,56,9.7,.465,.814,2.6,0.7,0.4,0.4,3.6,12.8,1.2,.109,-1.5,0.1,,"Jamesville-DeWitt in DeWitt, New York",225000
-schayda01,1985-86,26,Denver Nuggets,NBA,80,20.7,.502,.777,5.5,1.0,0.5,0.8,8.2,13.4,4.6,.134,-0.6,0.6,,"Jamesville-DeWitt in DeWitt, New York",350000
-schayda01,1986-87,27,DEN,NBA,76,20.5,.519,.779,5.0,1.1,0.3,1.0,8.5,13.4,3.9,.121,-1.6,0.1,,"Jamesville-DeWitt in DeWitt, New York",
-schayda01,1987-88,28,Denver Nuggets,NBA,81,26.7,.540,.836,8.2,1.3,0.8,1.1,13.9,18.4,8.8,.195,1.5,1.9,,"Jamesville-DeWitt in DeWitt, New York",425000
-schayda01,1988-89,29,Denver Nuggets,NBA,76,25.2,.522,.826,6.6,1.4,0.6,1.1,12.8,15.4,5.6,.141,-0.6,0.7,,"Jamesville-DeWitt in DeWitt, New York",1000000
-schayda01,1989-90,30,Denver Nuggets,NBA,53,22.5,.494,.852,6.5,1.2,0.8,0.8,10.4,16.5,4.5,.183,1.3,1.0,,"Jamesville-DeWitt in DeWitt, New York",1500000
-schayda01,1990-91,31,Milwaukee Bucks,NBA,82,27.2,.499,.835,6.5,1.2,0.7,0.7,10.6,14.8,6.8,.147,0.3,1.3,,"Jamesville-DeWitt in DeWitt, New York",1500000
-schayda01,1991-92,32,Milwaukee Bucks,NBA,43,16.9,.417,.771,3.9,0.8,0.4,0.4,5.6,10.7,0.9,.061,-3.5,-0.3,,"Jamesville-DeWitt in DeWitt, New York",1600000
-schayda01,1992-93,33,Milwaukee Bucks,NBA,70,16.1,.399,.818,3.6,1.1,0.5,0.5,4.6,10.6,1.4,.058,-3.0,-0.3,,"Jamesville-DeWitt in DeWitt, New York",1600000
-schayda01,1993-94,34,Milwaukee Bucks,NBA,36,10.1,.333,.906,2.2,0.4,0.3,0.3,2.4,7.4,0.0,-0.001,-6.6,-0.4,,"Jamesville-DeWitt in DeWitt, New York",1750000
-schayda01,1993-94,34,Milwaukee Bucks,NBA,23,10.0,.304,.955,2.0,0.2,0.2,0.3,2.1,6.3,0.0,-0.007,-7.7,-0.3,,"Jamesville-DeWitt in DeWitt, New York",1750000
-schayda01,1993-94,34,Milwaukee Bucks,NBA,13,10.2,.368,.800,2.6,0.6,0.4,0.2,2.8,9.3,0.0,.011,-4.8,-0.1,,"Jamesville-DeWitt in DeWitt, New York",1750000
-schayda01,1994-95,35,Phoenix Suns,NBA,69,11.9,.508,.725,3.0,1.3,0.3,0.5,4.4,13.2,1.4,.084,-0.8,0.2,,"Jamesville-DeWitt in DeWitt, New York",672000
-schayda01,1995-96,36,MIA,NBA,32,12.5,.340,.804,2.8,0.3,0.3,0.5,3.2,8.1,0.4,.049,-4.4,-0.2,,"Jamesville-DeWitt in DeWitt, New York",
-schayda01,1996-97,37,Orlando Magic,NBA,45,12.0,.392,.750,2.8,0.3,0.3,0.4,3.0,9.3,0.6,.055,-4.8,-0.4,,"Jamesville-DeWitt in DeWitt, New York",575000
-schayda01,1997-98,38,Orlando Magic,NBA,74,17.2,.418,.807,3.3,0.6,0.5,0.4,5.5,10.9,2.0,.076,-2.7,-0.2,,"Jamesville-DeWitt in DeWitt, New York",690000
-schayda01,1998-99,39,Orlando Magic,NBA,19,7.5,.379,.750,0.7,0.2,0.1,0.1,1.5,1.9,0.0,-0.008,-7.8,-0.2,,"Jamesville-DeWitt in DeWitt, New York",1000000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.61,0.74,schayda01,1981-82,UTA,13.2,1.7,.050,-1.5,0.2,,22,NBA,82,19.8,.481,.757,5.2,1.8,0.6,0.9,7.9,UTA,
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-2.50,-0.42,schayda01,1982-83,TOT,12.1,2.0,.041,-1.4,0.4,,23,NBA,82,27.9,.457,.773,7.7,2.5,0.7,1.2,11.1,"UTA,DEN",
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.05,1.28,schayda01,1983-84,DEN,12.9,2.8,.095,-1.5,0.2,,24,NBA,82,17.3,.493,.790,5.3,1.1,0.4,0.7,7.1,DEN,
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-0.62,0.74,schayda01,1984-85,DEN,12.8,1.2,.109,-1.5,0.1,,25,NBA,56,9.7,.465,.814,2.6,0.7,0.4,0.4,3.6,DEN,225000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-0.30,2.61,schayda01,1985-86,DEN,13.4,4.6,.134,-0.6,0.6,,26,NBA,80,20.7,.502,.777,5.5,1.0,0.5,0.8,8.2,DEN,350000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-0.58,1.88,schayda01,1986-87,DEN,13.4,3.9,.121,-1.6,0.1,,27,NBA,76,20.5,.519,.779,5.0,1.1,0.3,1.0,8.5,DEN,
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",+2.44,7.85,schayda01,1987-88,DEN,18.4,8.8,.195,1.5,1.9,,28,NBA,81,26.7,.540,.836,8.2,1.3,0.8,1.1,13.9,DEN,425000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",+0.48,3.64,schayda01,1988-89,DEN,15.4,5.6,.141,-0.6,0.7,,29,NBA,76,25.2,.522,.826,6.6,1.4,0.6,1.1,12.8,DEN,1000000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",+1.12,2.75,schayda01,1989-90,DEN,16.5,4.5,.183,1.3,1.0,,30,NBA,53,22.5,.494,.852,6.5,1.2,0.8,0.8,10.4,DEN,1500000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",+0.47,4.28,schayda01,1990-91,MIL,14.8,6.8,.147,0.3,1.3,,31,NBA,82,27.2,.499,.835,6.5,1.2,0.7,0.7,10.6,MIL,1500000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.98,0.16,schayda01,1991-92,MIL,10.7,0.9,.061,-3.5,-0.3,,32,NBA,43,16.9,.417,.771,3.9,0.8,0.4,0.4,5.6,MIL,1600000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.99,0.22,schayda01,1992-93,MIL,10.6,1.4,.058,-3.0,-0.3,,33,NBA,70,16.1,.399,.818,3.6,1.1,0.5,0.5,4.6,MIL,1600000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-3.33,-0.27,schayda01,1993-94,TOT,7.4,0.0,-0.001,-6.6,-0.4,,34,NBA,36,10.1,.333,.906,2.2,0.4,0.3,0.3,2.4,"MIL,LAL",1750000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.17,0.75,schayda01,1994-95,PHO,13.2,1.4,.084,-0.8,0.2,,35,NBA,69,11.9,.508,.725,3.0,1.3,0.3,0.5,4.4,PHO,672000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.43,0.22,schayda01,1995-96,MIA,8.1,0.4,.049,-4.4,-0.2,,36,NBA,32,12.5,.340,.804,2.8,0.3,0.3,0.5,3.2,MIA,
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-2.20,0.01,schayda01,1996-97,ORL,9.3,0.6,.055,-4.8,-0.4,,37,NBA,45,12.0,.392,.750,2.8,0.3,0.3,0.4,3.0,ORL,575000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-1.73,0.41,schayda01,1997-98,ORL,10.9,2.0,.076,-2.7,-0.2,,38,NBA,74,17.2,.418,.807,3.3,0.6,0.5,0.4,5.5,ORL,690000
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false,"Jamesville-DeWitt in DeWitt, New York",-0.53,0.17,schayda01,1998-99,ORL,1.9,0.0,-0.008,-7.8,-0.2,,39,NBA,19,7.5,.379,.750,0.7,0.2,0.1,0.1,1.5,ORL,1000000

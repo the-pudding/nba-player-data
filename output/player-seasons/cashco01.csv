@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cashco01,1976-77,24,DET,NBA,6,8.2,.391,.500,2.7,0.2,0.3,0.2,3.5,12.0,0.0,-0.010,-7.6,-0.1,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cornelius Cash,/players/c/cashco01.html,1977,1977,Bowling Green State University,false,,-1.27,0.03,cashco01,1976-77,DET,12.0,0.0,-0.010,-7.6,-0.1,,24,NBA,6,8.2,.391,.500,2.7,0.2,0.3,0.2,3.5,DET

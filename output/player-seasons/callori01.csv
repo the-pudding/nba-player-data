@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-callori01,1990-91,24,Sacramento Kings,NBA,64,10.6,.391,.696,1.2,1.0,0.3,0.1,3.2,6.6,-0.3,-0.025,-6.8,-0.8,,125000,"Withrow in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rick Calloway,/players/c/callori01.html,1991,1991,"Indiana University, University of Kansas",false,"Withrow in Cincinnati, Ohio",-3.93,-0.77,callori01,1990-91,SAC,6.6,-0.3,-0.025,-6.8,-0.8,,NBA,125000,24,64,10.6,.391,.696,1.2,1.0,0.3,0.1,3.2,SAC

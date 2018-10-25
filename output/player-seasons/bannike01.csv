@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bannike01,1984-85,24,NYK,NBA,75,18.7,.470,.474,4.4,0.5,0.5,0.5,6.8,7.3,-0.8,-0.028,-6.0,-1.4,,"Southwestern in Baltimore, Maryland",
-bannike01,1985-86,25,New York Knicks,NBA,70,20.1,.491,.526,4.6,0.6,0.6,0.3,8.6,10.4,0.7,.025,-4.6,-0.9,,"Southwestern in Baltimore, Maryland",105000
-bannike01,1986-87,26,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"Southwestern in Baltimore, Maryland",
-bannike01,1987-88,27,"Did Not Play (other pro league—Israel, CBA)",,,,,,,,,,,,,,,,,"Southwestern in Baltimore, Maryland",
-bannike01,1988-89,28,LAC,NBA,9,14.4,.611,.566,3.7,0.3,0.8,0.2,8.2,17.9,0.4,.150,-3.7,-0.1,,"Southwestern in Baltimore, Maryland",
-bannike01,1989-90,29,LAC,NBA,52,11.3,.478,.473,2.2,0.3,0.3,0.1,4.0,7.6,0.1,.005,-6.2,-0.6,,"Southwestern in Baltimore, Maryland",
-bannike01,1990-91,30,Los Angeles Clippers,NBA,47,7.2,.531,.385,2.0,0.2,0.1,0.1,2.4,7.8,0.2,.028,-6.3,-0.4,,"Southwestern in Baltimore, Maryland",400000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",-3.20,-0.89,bannike01,1984-85,NYK,7.3,-0.8,-0.028,-6.0,-1.4,,24,NBA,75,18.7,.470,.474,4.4,0.5,0.5,0.5,6.8,NYK,
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",-2.27,-0.10,bannike01,1985-86,NYK,10.4,0.7,.025,-4.6,-0.9,,25,NBA,70,20.1,.491,.526,4.6,0.6,0.6,0.3,8.6,NYK,105000
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",,,bannike01,1986-87,Did Not Play (other pro league—Israel),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",,,bannike01,1987-88,"Did Not Play (other pro league—Israel, CBA)",,,,,,,27,,,,,,,,,,,"Did Not Play (other pro league—Israel, CBA)",
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",+0.04,0.20,bannike01,1988-89,LAC,17.9,0.4,.150,-3.7,-0.1,,28,NBA,9,14.4,.611,.566,3.7,0.3,0.8,0.2,8.2,LAC,
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",-3.02,-0.32,bannike01,1989-90,LAC,7.6,0.1,.005,-6.2,-0.6,,29,NBA,52,11.3,.478,.473,2.2,0.3,0.3,0.1,4.0,LAC,
+Ken Bannister,/players/b/bannike01.html,1985,1991,"Indiana State University, Saint Augustine's College",false,"Southwestern in Baltimore, Maryland",-2.48,-0.06,bannike01,1990-91,LAC,7.8,0.2,.028,-6.3,-0.4,,30,NBA,47,7.2,.531,.385,2.0,0.2,0.1,0.1,2.4,LAC,400000

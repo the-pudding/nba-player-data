@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willima05,2017-18,24,Miami Heat,NBA,3,3.7,.333,,0.3,0.0,0.0,0.0,1.7,-0.7,0.0,-0.197,-17.1,0.0,,,"Jones in Orlando, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Matt Williams,/players/w/willima05.html,2018,2018,University of Central Florida,true,"Jones in Orlando, Florida",-0.34,0.01,willima05,2017-18,MIA,-0.7,0.0,-0.197,-17.1,0.0,,NBA,,24,3,3.7,.333,,0.3,0.0,0.0,0.0,1.7,MIA

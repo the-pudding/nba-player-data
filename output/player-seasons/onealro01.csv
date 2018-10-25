@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-onealro01,2017-18,24,Utah Jazz,NBA,69,16.7,.423,.803,3.4,1.4,0.5,0.2,5.0,10.8,2.4,.099,-0.6,0.4,,815615,"Harker Heights in Harker Heights, Texas"
-onealro01,2018-19,25,UTA,NBA,4,11.3,.300,1.000,2.3,0.3,0.0,0.0,2.3,-0.3,-0.1,-0.082,-7.8,-0.1,,,"Harker Heights in Harker Heights, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Royce O'Neale,/players/o/onealro01.html,2018,2019,Baylor University,true,"Harker Heights in Harker Heights, Texas",+0.27,2.43,onealro01,2017-18,UTA,10.8,2.4,.099,-0.6,0.4,,NBA,815615,24,69,16.7,.423,.803,3.4,1.4,0.5,0.2,5.0,UTA
+Royce O'Neale,/players/o/onealro01.html,2018,2019,Baylor University,true,"Harker Heights in Harker Heights, Texas",,,onealro01,2018-19,UTA,-0.3,-0.1,-0.082,-7.8,-0.1,,NBA,,25,4,11.3,.300,1.000,2.3,0.3,0.0,0.0,2.3,UTA

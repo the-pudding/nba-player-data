@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-beardbu01,1976-77,29,NYK,NBA,70,15.5,.505,.688,2.3,2.1,0.8,0.1,5.3,13.4,2.0,.088,0.4,0.7,,"Breckenridge County in Hardinsburg, Kentucky"
-beardbu01,1977-78,30,NYK,NBA,79,25.1,.502,.806,3.3,4.3,1.5,0.0,9.4,14.6,4.4,.107,0.6,1.3,,"Breckenridge County in Hardinsburg, Kentucky"
-beardbu01,1978-79,31,NYK,NBA,7,12.1,.423,,1.4,2.7,1.0,0.0,3.1,9.0,0.0,-0.012,-4.8,-0.1,,"Breckenridge County in Hardinsburg, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Butch Beard,/players/b/beardbu01.html,1970,1979,University of Louisville,false,"Breckenridge County in Hardinsburg, Kentucky",+0.13,1.77,beardbu01,1976-77,NYK,13.4,2.0,.088,0.4,0.7,,29,NBA,70,15.5,.505,.688,2.3,2.1,0.8,0.1,5.3,NYK
+Butch Beard,/players/b/beardbu01.html,1970,1979,University of Louisville,false,"Breckenridge County in Hardinsburg, Kentucky",+0.17,3.55,beardbu01,1977-78,NYK,14.6,4.4,.107,0.6,1.3,,30,NBA,79,25.1,.502,.806,3.3,4.3,1.5,0.0,9.4,NYK
+Butch Beard,/players/b/beardbu01.html,1970,1979,University of Louisville,false,"Breckenridge County in Hardinsburg, Kentucky",+0.55,0.16,beardbu01,1978-79,NYK,9.0,0.0,-0.012,-4.8,-0.1,,31,NBA,7,12.1,.423,,1.4,2.7,1.0,0.0,3.1,NYK

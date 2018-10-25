@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-thomaad01,2013-14,20,"ORL,PHI",NBA,6,6.2,.429,1.000,0.5,0.5,0.0,0.0,2.3,7.3,0.0,.001,-9.7,-0.1,,"Melrose in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Adonis Thomas,/players/t/thomaad01.html,2014,2014,University of Memphis,false,"Melrose in Memphis, Tennessee",+0.35,0.07,thomaad01,2013-14,TOT,7.3,0.0,.001,-9.7,-0.1,,20,NBA,6,6.2,.429,1.000,0.5,0.5,0.0,0.0,2.3,"ORL,PHI"

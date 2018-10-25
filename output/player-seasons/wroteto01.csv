@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wroteto01,2012-13,19,Memphis Grizzlies,NBA,35,7.8,.384,.724,0.8,1.2,0.2,0.1,2.6,9.3,0.1,.017,-4.2,-0.2,,1110120,"Garfield in Seattle, Washington"
-wroteto01,2013-14,20,Memphis Grizzlies,NBA,72,24.5,.427,.641,3.2,3.0,1.1,0.2,13.0,12.9,-0.9,-0.025,-4.6,-1.2,,1160040,"Garfield in Seattle, Washington"
-wroteto01,2014-15,21,Philadelphia 76ers,NBA,30,29.8,.403,.667,2.9,5.2,1.6,0.3,16.9,14.9,0.3,.014,-1.5,0.1,,1210080,"Garfield in Seattle, Washington"
-wroteto01,2015-16,22,Philadelphia 76ers,NBA,8,18.0,.338,.541,2.6,2.5,0.4,0.0,8.4,1.8,-0.8,-0.263,-13.4,-0.4,,2179354,"Garfield in Seattle, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Wroten,/players/w/wroteto01.html,2013,2016,University of Washington,true,"Garfield in Seattle, Washington",-4.28,-0.40,wroteto01,2012-13,MEM,9.3,0.1,.017,-4.2,-0.2,,NBA,1110120,19,35,7.8,.384,.724,0.8,1.2,0.2,0.1,2.6,MEM
+Tony Wroten,/players/w/wroteto01.html,2013,2016,University of Washington,true,"Garfield in Seattle, Washington",-3.89,-1.93,wroteto01,2013-14,PHI,12.9,-0.9,-0.025,-4.6,-1.2,,NBA,1160040,20,72,24.5,.427,.641,3.2,3.0,1.1,0.2,13.0,PHI
+Tony Wroten,/players/w/wroteto01.html,2013,2016,University of Washington,true,"Garfield in Seattle, Washington",-2.88,-0.41,wroteto01,2014-15,PHI,14.9,0.3,.014,-1.5,0.1,,NBA,1210080,21,30,29.8,.403,.667,2.9,5.2,1.6,0.3,16.9,PHI
+Tony Wroten,/players/w/wroteto01.html,2013,2016,University of Washington,true,"Garfield in Seattle, Washington",-1.80,0.03,wroteto01,2015-16,PHI,1.8,-0.8,-0.263,-13.4,-0.4,,NBA,2179354,22,8,18.0,.338,.541,2.6,2.5,0.4,0.0,8.4,PHI

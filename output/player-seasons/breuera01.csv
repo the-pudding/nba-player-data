@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-breuera01,1983-84,23,MIL,NBA,57,8.3,.384,.696,1.9,0.3,0.2,0.7,2.9,9.2,0.3,.029,-4.5,-0.3,,"Lincoln in Lake City, Minnesota",
-breuera01,1984-85,24,Milwaukee Bucks,NBA,78,13.9,.511,.701,3.3,0.5,0.3,1.1,5.3,13.4,3.0,.133,-0.4,0.4,,"Lincoln in Lake City, Minnesota",167000
-breuera01,1985-86,25,Milwaukee Bucks,NBA,82,21.9,.477,.712,5.6,1.4,0.6,1.4,8.4,14.1,4.5,.120,1.4,1.6,,"Lincoln in Lake City, Minnesota",182000
-breuera01,1986-87,26,MIL,NBA,76,19.3,.485,.584,4.6,0.6,0.7,0.8,7.9,12.3,2.4,.077,-2.1,0.0,,"Lincoln in Lake City, Minnesota",
-breuera01,1987-88,27,Milwaukee Bucks,NBA,81,27.9,.495,.657,6.8,1.3,0.6,1.3,12.0,15.3,5.1,.109,0.0,1.1,,"Lincoln in Lake City, Minnesota",312500
-breuera01,1988-89,28,Milwaukee Bucks,NBA,48,10.7,.480,.549,2.8,0.5,0.2,0.8,4.2,13.8,0.9,.083,-2.0,0.0,,"Lincoln in Lake City, Minnesota",950000
-breuera01,1989-90,29,"MIL,MIN",NBA,81,23.2,.428,.653,5.1,1.2,0.5,1.3,8.9,13.0,2.0,.051,-2.5,-0.2,,"Lincoln in Lake City, Minnesota",
-breuera01,1990-91,30,Minnesota Timberwolves,NBA,73,20.6,.453,.443,4.7,1.0,0.5,1.1,5.9,11.4,1.0,.031,-3.1,-0.4,,"Lincoln in Lake City, Minnesota",1150000
-breuera01,1991-92,31,Minnesota Timberwolves,NBA,67,17.6,.468,.532,4.2,1.3,0.4,1.5,5.4,14.3,1.7,.070,-0.2,0.5,,"Lincoln in Lake City, Minnesota",1250000
-breuera01,1992-93,32,ATL,NBA,12,8.9,.484,.400,2.3,0.5,0.2,0.3,2.7,11.1,0.1,.052,-4.0,-0.1,,"Lincoln in Lake City, Minnesota",
-breuera01,1993-94,33,Sacramento Kings,NBA,26,9.5,.308,.214,2.2,0.3,0.2,0.7,0.7,5.4,0.0,-0.007,-3.9,-0.1,,"Lincoln in Lake City, Minnesota",150000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-1.18,0.38,breuera01,1983-84,MIL,9.2,0.3,.029,-4.5,-0.3,,23,NBA,57,8.3,.384,.696,1.9,0.3,0.2,0.7,2.9,MIL,
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",+0.30,2.07,breuera01,1984-85,MIL,13.4,3.0,.133,-0.4,0.4,,24,NBA,78,13.9,.511,.701,3.3,0.5,0.3,1.1,5.3,MIL,167000
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",+1.45,5.34,breuera01,1985-86,MIL,14.1,4.5,.120,1.4,1.6,,25,NBA,82,21.9,.477,.712,5.6,1.4,0.6,1.4,8.4,MIL,182000
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-0.75,1.67,breuera01,1986-87,MIL,12.3,2.4,.077,-2.1,0.0,,26,NBA,76,19.3,.485,.584,4.6,0.6,0.7,0.8,7.9,MIL,
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",+0.44,4.23,breuera01,1987-88,MIL,15.3,5.1,.109,0.0,1.1,,27,NBA,81,27.9,.495,.657,6.8,1.3,0.6,1.3,12.0,MIL,312500
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-0.40,0.86,breuera01,1988-89,MIL,13.8,0.9,.083,-2.0,0.0,,28,NBA,48,10.7,.480,.549,2.8,0.5,0.2,0.8,4.2,MIL,950000
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-1.44,1.04,breuera01,1989-90,TOT,13.0,2.0,.051,-2.5,-0.2,,29,NBA,81,23.2,.428,.653,5.1,1.2,0.5,1.3,8.9,"MIL,MIN",
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-2.11,0.19,breuera01,1990-91,MIN,11.4,1.0,.031,-3.1,-0.4,,30,NBA,73,20.6,.453,.443,4.7,1.0,0.5,1.1,5.9,MIN,1150000
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-0.52,1.40,breuera01,1991-92,MIN,14.3,1.7,.070,-0.2,0.5,,31,NBA,67,17.6,.468,.532,4.2,1.3,0.4,1.5,5.4,MIN,1250000
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-0.60,0.14,breuera01,1992-93,ATL,11.1,0.1,.052,-4.0,-0.1,,32,NBA,12,8.9,.484,.400,2.3,0.5,0.2,0.3,2.7,ATL,
+Randy Breuer,/players/b/breuera01.html,1984,1994,University of Minnesota,false,"Lincoln in Lake City, Minnesota",-1.30,0.15,breuera01,1993-94,SAC,5.4,0.0,-0.007,-3.9,-0.1,,33,NBA,26,9.5,.308,.214,2.2,0.3,0.2,0.7,0.7,SAC,150000

@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-landrma01,2009-10,24,Boston Celtics,NBA,18,6.2,.372,.600,1.1,0.0,0.1,0.1,2.4,7.2,-0.1,-0.034,-11.8,-0.3,,457588,"Vincent in Milwaukee, Wisconsin"
-landrma01,2009-10,24,Boston Celtics,NBA,17,6.4,.390,.600,1.1,0.0,0.1,0.1,2.6,8.1,0.0,-0.015,-11.3,-0.3,,457588,"Vincent in Milwaukee, Wisconsin"
-landrma01,2009-10,24,Boston Celtics,NBA,1,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-26.8,0.0,-0.738,-29.9,0.0,,457588,"Vincent in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Landry,/players/l/landrma01.html,2010,2010,University of Wisconsin,false,"Vincent in Milwaukee, Wisconsin",-1.04,0.10,landrma01,2009-10,TOT,7.2,-0.1,-0.034,-11.8,-0.3,,NBA,457588,24,18,6.2,.372,.600,1.1,0.0,0.1,0.1,2.4,"NYK,BOS"

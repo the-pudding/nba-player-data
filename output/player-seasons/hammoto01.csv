@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hammoto01,1989-90,22,WSB,NBA,61,13.2,.437,.643,2.8,0.8,0.2,0.2,5.3,10.5,0.5,.031,-5.2,-0.6,,"Crestview in Crestview, Florida",
-hammoto01,1990-91,23,Washington Bullets,NBA,70,14.6,.461,.722,2.9,0.6,0.2,0.1,5.2,9.6,0.8,.038,-5.9,-1.0,,"Crestview in Crestview, Florida",800000
-hammoto01,1991-92,24,Washington Bullets,NBA,37,26.6,.488,.610,5.0,1.0,0.6,0.4,11.9,11.2,0.6,.027,-5.1,-0.8,,"Crestview in Crestview, Florida",825000
-hammoto01,1992-93,25,Charlotte Hornets,NBA,54,13.2,.475,.613,2.4,0.4,0.3,0.2,4.6,9.9,0.8,.055,-4.6,-0.5,,"Crestview in Crestview, Florida",850000
-hammoto01,1992-93,25,Charlotte Hornets,NBA,19,7.5,.422,.625,1.6,0.4,0.0,0.2,2.3,8.3,0.1,.038,-6.2,-0.2,,"Crestview in Crestview, Florida",850000
-hammoto01,1992-93,25,Charlotte Hornets,NBA,35,16.3,.489,.611,2.7,0.5,0.5,0.2,5.9,10.3,0.7,.059,-4.2,-0.3,,"Crestview in Crestview, Florida",850000
-hammoto01,1993-94,26,Denver Nuggets,NBA,74,11.9,.500,.683,2.7,0.5,0.3,0.2,4.1,12.4,2.2,.118,-2.6,-0.1,,"Crestview in Crestview, Florida",800000
-hammoto01,1994-95,27,Denver Nuggets,NBA,70,13.7,.535,.746,3.2,0.5,0.2,0.2,5.9,14.7,2.6,.129,-3.5,-0.4,,"Crestview in Crestview, Florida",700000
-hammoto01,1995-96,28,Denver Nuggets,NBA,71,14.7,.474,.765,3.1,0.3,0.3,0.2,4.8,11.2,1.8,.081,-4.4,-0.6,,"Crestview in Crestview, Florida",970000
-hammoto01,1996-97,29,Denver Nuggets,NBA,81,21.7,.480,.721,5.0,0.8,0.2,0.3,6.2,10.1,1.7,.046,-3.8,-0.8,,"Crestview in Crestview, Florida",1070000
-hammoto01,1997-98,30,Denver Nuggets,NBA,57,20.0,.516,.697,4.8,0.6,0.3,0.3,6.1,12.1,2.4,.102,-2.4,-0.1,,"Crestview in Crestview, Florida",970000
-hammoto01,1998-99,31,MIN,NBA,49,14.6,.458,.640,2.8,0.4,0.2,0.1,4.3,9.4,1.0,.065,-5.1,-0.6,,"Crestview in Crestview, Florida",
-hammoto01,1999-00,32,Minnesota Timberwolves,NBA,56,6.6,.433,.589,1.8,0.2,0.1,0.1,2.1,9.9,0.5,.061,-6.5,-0.4,,"Crestview in Crestview, Florida",1800000
-hammoto01,2000-01,33,Minnesota Timberwolves,NBA,7,4.3,.300,.500,0.6,0.1,0.0,0.0,1.0,-4.9,-0.1,-0.187,-14.5,-0.1,,"Crestview in Crestview, Florida",1130000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.86,-0.30,hammoto01,1989-90,WSB,10.5,0.5,.031,-5.2,-0.6,,22,NBA,61,13.2,.437,.643,2.8,0.8,0.2,0.2,5.3,WSB,
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-3.33,-0.75,hammoto01,1990-91,WSB,9.6,0.8,.038,-5.9,-1.0,,23,NBA,70,14.6,.461,.722,2.9,0.6,0.2,0.1,5.2,WSB,800000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.97,-0.47,hammoto01,1991-92,WSB,11.2,0.6,.027,-5.1,-0.8,,24,NBA,37,26.6,.488,.610,5.0,1.0,0.6,0.4,11.9,WSB,825000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.71,-0.21,hammoto01,1992-93,TOT,9.9,0.8,.055,-4.6,-0.5,,25,NBA,54,13.2,.475,.613,2.4,0.4,0.3,0.2,4.6,"CHH,DEN",850000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-1.80,0.25,hammoto01,1993-94,DEN,12.4,2.2,.118,-2.6,-0.1,,26,NBA,74,11.9,.500,.683,2.7,0.5,0.3,0.2,4.1,DEN,800000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-1.37,0.62,hammoto01,1994-95,DEN,14.7,2.6,.129,-3.5,-0.4,,27,NBA,70,13.7,.535,.746,3.2,0.5,0.2,0.2,5.9,DEN,700000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.69,-0.30,hammoto01,1995-96,DEN,11.2,1.8,.081,-4.4,-0.6,,28,NBA,71,14.7,.474,.765,3.1,0.3,0.3,0.2,4.8,DEN,970000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-3.95,-1.89,hammoto01,1996-97,DEN,10.1,1.7,.046,-3.8,-0.8,,29,NBA,81,21.7,.480,.721,5.0,0.8,0.2,0.3,6.2,DEN,1070000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.27,0.01,hammoto01,1997-98,MIN,12.1,2.4,.102,-2.4,-0.1,,30,NBA,57,20.0,.516,.697,4.8,0.6,0.3,0.3,6.1,MIN,970000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.58,-0.22,hammoto01,1998-99,MIN,9.4,1.0,.065,-5.1,-0.6,,31,NBA,49,14.6,.458,.640,2.8,0.4,0.2,0.1,4.3,MIN,
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-2.18,0.01,hammoto01,1999-00,MIN,9.9,0.5,.061,-6.5,-0.4,,32,NBA,56,6.6,.433,.589,1.8,0.2,0.1,0.1,2.1,MIN,1800000
+Tom Hammonds,/players/h/hammoto01.html,1990,2001,Georgia Institute of Technology,false,"Crestview in Crestview, Florida",-0.43,0.04,hammoto01,2000-01,MIN,-4.9,-0.1,-0.187,-14.5,-0.1,,33,NBA,7,4.3,.300,.500,0.6,0.1,0.0,0.0,1.0,MIN,1130000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-clarkco01,2015-16,23,Boston Celtics,NBA,3,2.0,.500,,0.3,0.0,0.0,0.0,2.0,23.9,0.0,.025,-9.5,0.0,,61776,"Pinson in Pinson Valley, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Coty Clarke,/players/c/clarkco01.html,2016,2016,University of Arkansas,false,"Pinson in Pinson Valley, Alabama",-0.31,0.01,clarkco01,2015-16,BOS,23.9,0.0,.025,-9.5,0.0,,NBA,61776,23,3,2.0,.500,,0.3,0.0,0.0,0.0,2.0,BOS

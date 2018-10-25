@@ -1,19 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-humphkr01,2004-05,19,Utah Jazz,NBA,67,13.0,.404,.436,2.9,0.6,0.4,0.3,4.1,9.5,-0.3,-0.019,-5.0,-0.7,,1481400,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2005-06,20,Utah Jazz,NBA,62,10.0,.379,.523,2.5,0.5,0.4,0.3,3.0,10.3,0.2,.019,-4.8,-0.4,,1592400,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2006-07,21,Toronto Raptors,NBA,60,11.2,.470,.671,3.1,0.3,0.2,0.4,3.8,13.5,1.5,.107,-2.7,-0.1,,1703520,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2007-08,22,Toronto Raptors,NBA,70,13.2,.483,.605,3.7,0.4,0.4,0.4,5.7,15.7,1.8,.096,-3.2,-0.3,,2522913,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2008-09,23,Toronto Raptors,NBA,29,9.1,.422,.792,2.4,0.3,0.3,0.2,3.9,16.3,0.7,.125,-3.1,-0.1,,3200000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2009-10,24,New Jersey Nets,NBA,69,17.7,.441,.668,5.5,0.5,0.5,0.7,7.1,15.1,1.9,.074,-4.5,-0.8,,3200000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2009-10,24,New Jersey Nets,NBA,25,12.6,.461,.568,3.8,0.3,0.3,0.4,5.2,14.8,0.6,.097,-4.5,-0.2,,3200000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2009-10,24,New Jersey Nets,NBA,44,20.6,.433,.699,6.4,0.6,0.7,0.8,8.1,15.1,1.3,.066,-4.6,-0.6,,3200000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2010-11,25,New Jersey Nets,NBA,74,27.9,.527,.665,10.4,1.1,0.4,1.1,10.0,17.8,5.4,.125,0.0,1.0,,3200000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2011-12,26,New Jersey Nets,NBA,62,34.9,.481,.752,11.0,1.5,0.8,1.2,13.8,17.9,5.3,.118,-0.2,1.0,,8000000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2012-13,27,Brooklyn Nets,NBA,65,18.3,.448,.789,5.6,0.5,0.2,0.5,5.8,13.6,2.7,.109,-2.7,-0.2,,12000000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2013-14,28,Boston Celtics,NBA,69,19.9,.501,.813,5.9,1.0,0.4,0.9,8.4,18.2,4.1,.143,0.0,0.7,,12000000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2014-15,29,Washington Wizards,NBA,64,21.0,.473,.744,6.5,0.9,0.5,0.4,8.0,15.4,3.8,.134,-1.3,0.2,,4300000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2015-16,30,Phoenix Suns,NBA,53,15.8,.410,.798,4.1,0.7,0.3,0.4,6.5,13.1,1.6,.093,-2.9,-0.2,,4600000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2015-16,30,Phoenix Suns,NBA,28,16.6,.405,.935,4.1,0.6,0.1,0.5,6.4,11.8,0.7,.073,-3.8,-0.2,,4600000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2015-16,30,Phoenix Suns,NBA,4,18.5,.278,.750,8.0,1.8,0.8,0.5,7.3,13.5,0.0,.012,-2.4,0.0,,4600000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2015-16,30,Phoenix Suns,NBA,21,14.0,.465,.711,3.4,0.6,0.5,0.3,6.4,14.9,0.9,.143,-1.6,0.0,,4600000,"Hopkins in Minnetonka, Minnesota"
-humphkr01,2016-17,31,Atlanta Hawks,NBA,56,12.3,.407,.780,3.7,0.5,0.3,0.4,4.6,13.6,1.6,.115,-2.7,-0.1,,4000000,"Hopkins in Minnetonka, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-2.81,-0.36,humphkr01,2004-05,UTA,9.5,-0.3,-0.019,-5.0,-0.7,,NBA,1481400,19,67,13.0,.404,.436,2.9,0.6,0.4,0.3,4.1,UTA
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-2.52,-0.12,humphkr01,2005-06,UTA,10.3,0.2,.019,-4.8,-0.4,,NBA,1592400,20,62,10.0,.379,.523,2.5,0.5,0.4,0.3,3.0,UTA
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-2.11,0.09,humphkr01,2006-07,TOR,13.5,1.5,.107,-2.7,-0.1,,NBA,1703520,21,60,11.2,.470,.671,3.1,0.3,0.2,0.4,3.8,TOR
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-1.55,0.45,humphkr01,2007-08,TOR,15.7,1.8,.096,-3.2,-0.3,,NBA,2522913,22,70,13.2,.483,.605,3.7,0.4,0.4,0.4,5.7,TOR
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-0.23,0.37,humphkr01,2008-09,TOR,16.3,0.7,.125,-3.1,-0.1,,NBA,3200000,23,29,9.1,.422,.792,2.4,0.3,0.3,0.2,3.9,TOR
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-2.33,-0.02,humphkr01,2009-10,TOT,15.1,1.9,.074,-4.5,-0.8,,NBA,3200000,24,69,17.7,.441,.668,5.5,0.5,0.5,0.7,7.1,"DAL,NJN"
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",+1.04,4.64,humphkr01,2010-11,NJN,17.8,5.4,.125,0.0,1.0,,NBA,3200000,25,74,27.9,.527,.665,10.4,1.1,0.4,1.1,10.0,NJN
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",+0.63,4.27,humphkr01,2011-12,NJN,17.9,5.3,.118,-0.2,1.0,,NBA,8000000,26,62,34.9,.481,.752,11.0,1.5,0.8,1.2,13.8,NJN
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-3.33,-0.89,humphkr01,2012-13,BRK,13.6,2.7,.109,-2.7,-0.2,,NBA,12000000,27,65,18.3,.448,.789,5.6,0.5,0.2,0.5,5.8,BRK
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-0.32,1.82,humphkr01,2013-14,BOS,18.2,4.1,.143,0.0,0.7,,NBA,12000000,28,69,19.9,.501,.813,5.9,1.0,0.4,0.9,8.4,BOS
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-1.72,0.44,humphkr01,2014-15,WAS,15.4,3.8,.134,-1.3,0.2,,NBA,4300000,29,64,21.0,.473,.744,6.5,0.9,0.5,0.4,8.0,WAS
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-0.86,0.85,humphkr01,2015-16,TOT,13.1,1.6,.093,-2.9,-0.2,,NBA,4600000,30,53,15.8,.410,.798,4.1,0.7,0.3,0.4,6.5,"WAS,PHO,ATL"
+Kris Humphries,/players/h/humphkr01.html,2005,2017,University of Minnesota,false,"Hopkins in Minnetonka, Minnesota",-0.83,0.67,humphkr01,2016-17,ATL,13.6,1.6,.115,-2.7,-0.1,,NBA,4000000,31,56,12.3,.407,.780,3.7,0.5,0.3,0.4,4.6,ATL

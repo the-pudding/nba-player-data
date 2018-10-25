@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dougljo01,1981-82,25,SDC,NBA,64,16.1,.465,.657,1.4,2.3,0.8,0.1,7.0,12.1,0.5,.022,-3.3,-0.3,,"Colbert County in Leighton, Alabama"
-dougljo01,1982-83,26,SDC,NBA,3,4.0,.167,1.000,0.3,0.3,0.0,0.0,1.7,7.8,0.0,.013,-10.8,0.0,,"Colbert County in Leighton, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Douglas,/players/d/dougljo01.html,1982,1983,University of Kansas,false,"Colbert County in Leighton, Alabama",-2.16,0.12,dougljo01,1981-82,SDC,12.1,0.5,.022,-3.3,-0.3,,25,NBA,64,16.1,.465,.657,1.4,2.3,0.8,0.1,7.0,SDC
+John Douglas,/players/d/dougljo01.html,1982,1983,University of Kansas,false,"Colbert County in Leighton, Alabama",+0.12,0.02,dougljo01,1982-83,SDC,7.8,0.0,.013,-10.8,0.0,,26,NBA,3,4.0,.167,1.000,0.3,0.3,0.0,0.0,1.7,SDC

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-boonejo01,2006-07,22,New Jersey Nets,NBA,61,11.0,.579,.544,2.9,0.2,0.2,0.3,4.2,14.6,1.7,.122,-4.4,-0.4,,1053960,"West Nottingham Academy in Colora, Maryland"
-boonejo01,2007-08,23,New Jersey Nets,NBA,70,25.3,.548,.456,7.3,0.8,0.5,0.9,8.2,14.8,3.7,.100,-1.2,0.3,,1133040,"West Nottingham Academy in Colora, Maryland"
-boonejo01,2008-09,24,New Jersey Nets,NBA,62,16.0,.528,.376,4.2,0.5,0.4,0.8,4.2,13.3,1.8,.089,-1.3,0.2,,1212120,"West Nottingham Academy in Colora, Maryland"
-boonejo01,2009-10,25,New Jersey Nets,NBA,63,16.6,.525,.328,5.0,0.5,0.5,0.8,4.0,13.7,1.8,.084,-1.9,0.0,,2056968,"West Nottingham Academy in Colora, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Boone,/players/b/boonejo01.html,2007,2010,University of Connecticut,false,"West Nottingham Academy in Colora, Maryland",-1.51,0.39,boonejo01,2006-07,NJN,14.6,1.7,.122,-4.4,-0.4,,NBA,1053960,22,61,11.0,.579,.544,2.9,0.2,0.2,0.3,4.2,NJN
+Josh Boone,/players/b/boonejo01.html,2007,2010,University of Connecticut,false,"West Nottingham Academy in Colora, Maryland",-1.29,1.21,boonejo01,2007-08,NJN,14.8,3.7,.100,-1.2,0.3,,NBA,1133040,23,70,25.3,.548,.456,7.3,0.8,0.5,0.9,8.2,NJN
+Josh Boone,/players/b/boonejo01.html,2007,2010,University of Connecticut,false,"West Nottingham Academy in Colora, Maryland",-1.18,0.76,boonejo01,2008-09,NJN,13.3,1.8,.089,-1.3,0.2,,NBA,1212120,24,62,16.0,.528,.376,4.2,0.5,0.4,0.8,4.2,NJN
+Josh Boone,/players/b/boonejo01.html,2007,2010,University of Connecticut,false,"West Nottingham Academy in Colora, Maryland",-1.79,0.32,boonejo01,2009-10,NJN,13.7,1.8,.084,-1.9,0.0,,NBA,2056968,25,63,16.6,.525,.328,5.0,0.5,0.5,0.8,4.0,NJN

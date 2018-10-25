@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mcneach01,1985-86,24,NYK,NBA,30,20.9,.486,.660,6.8,1.4,1.3,0.4,5.7,13.7,1.6,.122,1.9,0.6,,"Roosevelt in Fresno, California"
-mcneach01,1986-87,25,NYK,NBA,59,16.5,.492,.650,3.8,0.8,0.6,0.3,3.9,8.7,0.8,.039,-2.0,0.0,,"Roosevelt in Fresno, California"
-mcneach01,1987-88,26,NYK,NBA,19,13.9,.311,.677,3.4,1.2,0.8,0.1,3.5,7.7,0.2,.030,-1.9,0.0,,"Roosevelt in Fresno, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris McNealy,/players/m/mcneach01.html,1986,1988,San Jose State University,false,"Roosevelt in Fresno, California",+0.52,1.20,mcneach01,1985-86,NYK,13.7,1.6,.122,1.9,0.6,,24,NBA,30,20.9,.486,.660,6.8,1.4,1.3,0.4,5.7,NYK
+Chris McNealy,/players/m/mcneach01.html,1986,1988,San Jose State University,false,"Roosevelt in Fresno, California",-2.72,-0.29,mcneach01,1986-87,NYK,8.7,0.8,.039,-2.0,0.0,,25,NBA,59,16.5,.492,.650,3.8,0.8,0.6,0.3,3.9,NYK
+Chris McNealy,/players/m/mcneach01.html,1986,1988,San Jose State University,false,"Roosevelt in Fresno, California",-1.16,0.19,mcneach01,1987-88,NYK,7.7,0.2,.030,-1.9,0.0,,26,NBA,19,13.9,.311,.677,3.4,1.2,0.8,0.1,3.5,NYK

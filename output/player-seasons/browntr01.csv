@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-browntr01,2018-19,19,WAS,NBA,1,7.0,.333,1.000,1.0,0.0,1.0,0.0,4.0,18.8,0.0,.132,-4.2,0.0,,"Centennial HS in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Troy Brown,/players/b/browntr01.html,2019,2019,University of Oregon,true,"Centennial HS in Las Vegas, Nevada",,,browntr01,2018-19,WAS,18.8,0.0,.132,-4.2,0.0,,19,NBA,1,7.0,.333,1.000,1.0,0.0,1.0,0.0,4.0,WAS

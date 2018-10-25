@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-sesayan01,2001-02,25,SEA,NBA,9,15.8,.500,.700,2.2,0.9,0.3,0.2,6.4,15.5,0.5,.156,-2.1,0.0,,"Willowridge in Houston, Texas",
-sesayan01,2002-03,26,Seattle SuperSonics,NBA,45,10.0,.383,.571,1.6,0.5,0.3,0.1,2.1,6.1,-0.1,-0.007,-5.0,-0.3,,"Willowridge in Houston, Texas",612435
-sesayan01,2003-04,27,Seattle SuperSonics,NBA,57,10.2,.455,.696,1.6,0.3,0.3,0.4,3.5,13.0,0.8,.065,-2.6,-0.1,,"Willowridge in Houston, Texas",688679
-sesayan01,2004-05,28,Golden State Warriors,NBA,16,8.0,.405,.542,2.4,0.8,0.1,0.2,3.1,14.8,0.2,.077,-2.0,0.0,,"Willowridge in Houston, Texas",745046
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ansu Sesay,/players/s/sesayan01.html,2002,2005,University of Mississippi,false,"Willowridge in Houston, Texas",-0.55,0.24,sesayan01,2001-02,SEA,15.5,0.5,.156,-2.1,0.0,,25,NBA,9,15.8,.500,.700,2.2,0.9,0.3,0.2,6.4,SEA,
+Ansu Sesay,/players/s/sesayan01.html,2002,2005,University of Mississippi,false,"Willowridge in Houston, Texas",-3.16,-0.36,sesayan01,2002-03,SEA,6.1,-0.1,-0.007,-5.0,-0.3,,26,NBA,45,10.0,.383,.571,1.6,0.5,0.3,0.1,2.1,SEA,612435
+Ansu Sesay,/players/s/sesayan01.html,2002,2005,University of Mississippi,false,"Willowridge in Houston, Texas",-1.00,0.48,sesayan01,2003-04,SEA,13.0,0.8,.065,-2.6,-0.1,,27,NBA,57,10.2,.455,.696,1.6,0.3,0.3,0.4,3.5,SEA,688679
+Ansu Sesay,/players/s/sesayan01.html,2002,2005,University of Mississippi,false,"Willowridge in Houston, Texas",-0.52,0.15,sesayan01,2004-05,GSW,14.8,0.2,.077,-2.0,0.0,,28,NBA,16,8.0,.405,.542,2.4,0.8,0.1,0.2,3.1,GSW,745046

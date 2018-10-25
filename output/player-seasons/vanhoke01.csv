@@ -1,14 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vanhoke01,1997-98,22,New Jersey Nets,NBA,62,37.5,.426,.846,6.6,1.7,1.0,0.4,19.7,15.7,4.8,.098,-0.4,0.9,,2655360,"Diamond Bar in Diamond Bar, California"
-vanhoke01,1998-99,23,New Jersey Nets,NBA,42,37.5,.428,.859,8.5,1.5,1.0,1.3,21.8,19.6,3.7,.113,-0.7,0.5,,3054000,"Diamond Bar in Diamond Bar, California"
-vanhoke01,1999-00,24,New Jersey Nets,NBA,80,34.8,.445,.847,8.5,2.0,0.8,0.8,19.2,18.1,5.5,.096,-0.5,1.1,,3451920,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2000-01,25,New Jersey Nets,NBA,49,35.4,.435,.806,7.1,1.7,0.8,0.4,17.0,15.5,2.8,.079,-1.3,0.3,,9000000,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2001-02,26,New Jersey Nets,NBA,81,30.4,.433,.800,7.5,2.0,0.8,0.5,14.8,16.0,6.3,.123,0.2,1.4,,10865250,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2002-03,27,Philadelphia 76ers,NBA,74,31.6,.482,.804,7.1,1.3,0.9,0.4,15.9,17.3,6.5,.133,0.0,1.2,,12072500,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2003-04,28,New York Knicks,NBA,72,32.5,.454,.859,7.0,1.7,0.9,0.5,16.1,17.8,6.3,.129,1.6,2.1,,13279750,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2003-04,28,New York Knicks,NBA,47,33.5,.445,.819,7.3,1.8,1.1,0.4,16.4,17.2,3.9,.119,1.5,1.4,,13279750,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2003-04,28,New York Knicks,NBA,25,30.6,.472,.945,6.3,1.5,0.6,0.6,15.7,18.9,2.4,.151,1.8,0.7,,13279750,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2004-05,29,Milwaukee Bucks,NBA,62,24.2,.456,.815,4.7,1.2,0.6,0.3,11.2,15.7,3.5,.112,-0.2,0.7,,14487000,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2004-05,29,Milwaukee Bucks,NBA,33,24.8,.449,.862,5.0,1.2,0.6,0.3,10.4,14.7,1.4,.084,-0.1,0.4,,14487000,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2004-05,29,Milwaukee Bucks,NBA,29,23.6,.462,.783,4.4,1.2,0.5,0.3,12.2,16.9,2.1,.145,-0.3,0.3,,14487000,"Diamond Bar in Diamond Bar, California"
-vanhoke01,2005-06,30,Dallas Mavericks,NBA,53,20.6,.424,.832,3.6,0.7,0.6,0.2,8.9,13.8,2.3,.101,-1.5,0.1,,15694250,"Diamond Bar in Diamond Bar, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-0.58,2.77,vanhoke01,1997-98,NJN,15.7,4.8,.098,-0.4,0.9,,NBA,2655360,22,62,37.5,.426,.846,6.6,1.7,1.0,0.4,19.7,NJN
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-0.31,2.09,vanhoke01,1998-99,NJN,19.6,3.7,.113,-0.7,0.5,,NBA,3054000,23,42,37.5,.428,.859,8.5,1.5,1.0,1.3,21.8,NJN
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-0.10,4.11,vanhoke01,1999-00,NJN,18.1,5.5,.096,-0.5,1.1,,NBA,3451920,24,80,34.8,.445,.847,8.5,2.0,0.8,0.8,19.2,NJN
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-0.70,1.83,vanhoke01,2000-01,NJN,15.5,2.8,.079,-1.3,0.3,,NBA,9000000,25,49,35.4,.435,.806,7.1,1.7,0.8,0.4,17.0,NJN
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-0.18,4.39,vanhoke01,2001-02,NJN,16.0,6.3,.123,0.2,1.4,,NBA,10865250,26,81,30.4,.433,.800,7.5,2.0,0.8,0.5,14.8,NJN
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",+0.45,5.10,vanhoke01,2002-03,PHI,17.3,6.5,.133,0.0,1.2,,NBA,12072500,27,74,31.6,.482,.804,7.1,1.3,0.9,0.4,15.9,PHI
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",+0.30,4.35,vanhoke01,2003-04,TOT,17.8,6.3,.129,1.6,2.1,,NBA,13279750,28,72,32.5,.454,.859,7.0,1.7,0.9,0.5,16.1,"NYK,MIL"
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-0.76,1.58,vanhoke01,2004-05,TOT,15.7,3.5,.112,-0.2,0.7,,NBA,14487000,29,62,24.2,.456,.815,4.7,1.2,0.6,0.3,11.2,"MIL,DAL"
+Keith Van Horn,/players/v/vanhoke01.html,1998,2006,University of Utah,false,"Diamond Bar in Diamond Bar, California",-2.74,-0.35,vanhoke01,2005-06,DAL,13.8,2.3,.101,-1.5,0.1,,NBA,15694250,30,53,20.6,.424,.832,3.6,0.7,0.6,0.2,8.9,DAL

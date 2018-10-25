@@ -1,14 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-geeal01,2009-10,22,WAS,NBA,11,16.5,.475,.621,3.0,0.6,0.6,0.1,7.4,16.2,0.4,.108,-1.4,0.0,,"William T. Dwyer in Palm Beach Gardens, Florida",
-geeal01,2010-11,23,Cleveland Cavaliers,NBA,56,20.0,.458,.783,3.3,0.7,0.7,0.3,5.9,10.8,1.0,.045,-2.3,-0.1,,"William T. Dwyer in Palm Beach Gardens, Florida",479735
-geeal01,2010-11,23,Cleveland Cavaliers,NBA,5,3.6,.333,,0.6,0.0,0.0,0.4,0.4,-2.1,-0.1,-0.175,-10.6,0.0,,"William T. Dwyer in Palm Beach Gardens, Florida",479735
-geeal01,2010-11,23,Cleveland Cavaliers,NBA,11,11.5,.444,.667,2.0,0.5,0.6,0.0,2.9,9.9,0.1,.023,-3.4,0.0,,"William T. Dwyer in Palm Beach Gardens, Florida",479735
-geeal01,2010-11,23,Cleveland Cavaliers,NBA,40,24.3,.462,.800,3.9,0.8,0.8,0.4,7.4,11.1,1.0,.052,-2.0,0.0,,"William T. Dwyer in Palm Beach Gardens, Florida",479735
-geeal01,2011-12,24,Cleveland Cavaliers,NBA,63,29.0,.412,.788,5.1,1.8,1.3,0.3,10.6,13.2,2.4,.063,-0.5,0.7,,"William T. Dwyer in Palm Beach Gardens, Florida",854389
-geeal01,2012-13,25,Cleveland Cavaliers,NBA,82,31.0,.410,.795,3.9,1.6,1.3,0.4,10.3,10.5,1.9,.036,-1.5,0.3,,"William T. Dwyer in Palm Beach Gardens, Florida",3500000
-geeal01,2013-14,26,Cleveland Cavaliers,NBA,65,15.7,.415,.705,2.3,0.7,0.6,0.2,4.0,8.6,0.9,.041,-2.6,-0.2,,"William T. Dwyer in Palm Beach Gardens, Florida",3250000
-geeal01,2014-15,27,Portland Trail Blazers,NBA,54,12.3,.468,.701,1.7,0.5,0.6,0.1,4.5,13.0,1.2,.086,-1.0,0.2,,"William T. Dwyer in Palm Beach Gardens, Florida",1063384
-geeal01,2014-15,27,Portland Trail Blazers,NBA,39,13.1,.482,.738,1.8,0.5,0.7,0.2,4.9,14.0,1.1,.100,-0.4,0.2,,"William T. Dwyer in Palm Beach Gardens, Florida",1063384
-geeal01,2014-15,27,Portland Trail Blazers,NBA,15,10.1,.429,.500,1.6,0.4,0.5,0.1,3.4,9.7,0.1,.039,-3.0,0.0,,"William T. Dwyer in Palm Beach Gardens, Florida",1063384
-geeal01,2015-16,28,New Orleans Pelicans,NBA,73,22.4,.518,.667,3.4,1.0,0.9,0.2,4.5,8.4,1.9,.056,-0.8,0.5,,"William T. Dwyer in Palm Beach Gardens, Florida",1375000
-geeal01,2016-17,29,New Orleans Pelicans,NBA,13,6.8,.214,.556,1.2,0.5,0.4,0.1,0.8,3.1,-0.1,-0.032,-4.6,-0.1,,"William T. Dwyer in Palm Beach Gardens, Florida",1400000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",+0.08,0.29,geeal01,2009-10,WAS,16.2,0.4,.108,-1.4,0.0,,22,NBA,11,16.5,.475,.621,3.0,0.6,0.6,0.1,7.4,WAS,
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-3.13,-0.61,geeal01,2010-11,TOT,10.8,1.0,.045,-2.3,-0.1,,23,NBA,56,20.0,.458,.783,3.3,0.7,0.7,0.3,5.9,"SAS,WAS,CLE",479735
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-1.37,1.07,geeal01,2011-12,CLE,13.2,2.4,.063,-0.5,0.7,,24,NBA,63,29.0,.412,.788,5.1,1.8,1.3,0.3,10.6,CLE,854389
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-2.89,-1.00,geeal01,2012-13,CLE,10.5,1.9,.036,-1.5,0.3,,25,NBA,82,31.0,.410,.795,3.9,1.6,1.3,0.4,10.3,CLE,3500000
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-2.66,-0.29,geeal01,2013-14,CLE,8.6,0.9,.041,-2.6,-0.2,,26,NBA,65,15.7,.415,.705,2.3,0.7,0.6,0.2,4.0,CLE,3250000
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-2.30,-0.02,geeal01,2014-15,TOT,13.0,1.2,.086,-1.0,0.2,,27,NBA,54,12.3,.468,.701,1.7,0.5,0.6,0.1,4.5,"DEN,POR",1063384
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-1.84,0.42,geeal01,2015-16,NOP,8.4,1.9,.056,-0.8,0.5,,28,NBA,73,22.4,.518,.667,3.4,1.0,0.9,0.2,4.5,NOP,1375000
+Alonzo Gee,/players/g/geeal01.html,2010,2017,University of Alabama,false,"William T. Dwyer in Palm Beach Gardens, Florida",-0.51,0.11,geeal01,2016-17,DEN,3.1,-0.1,-0.032,-4.6,-0.1,,29,NBA,13,6.8,.214,.556,1.2,0.5,0.4,0.1,0.8,DEN,1400000

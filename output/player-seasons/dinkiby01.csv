@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dinkiby01,1989-90,22,HOU,NBA,33,11.0,.404,.867,1.2,2.3,0.6,0.1,3.5,10.9,0.3,.043,-4.1,-0.2,,"East Mecklenburg in Charlotte, North Carolina"
-dinkiby01,1990-91,23,"SAS,IND",NBA,12,12.4,.412,.889,1.0,1.6,0.2,0.0,3.0,4.6,0.0,-0.010,-7.9,-0.2,,"East Mecklenburg in Charlotte, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Byron Dinkins,/players/d/dinkiby01.html,1990,1991,University of North Carolina at Charlotte,false,"East Mecklenburg in Charlotte, North Carolina",-1.92,0.07,dinkiby01,1989-90,HOU,10.9,0.3,.043,-4.1,-0.2,,22,NBA,33,11.0,.404,.867,1.2,2.3,0.6,0.1,3.5,HOU
+Byron Dinkins,/players/d/dinkiby01.html,1990,1991,University of North Carolina at Charlotte,false,"East Mecklenburg in Charlotte, North Carolina",-1.04,0.12,dinkiby01,1990-91,TOT,4.6,0.0,-0.010,-7.9,-0.2,,23,NBA,12,12.4,.412,.889,1.0,1.6,0.2,0.0,3.0,"SAS,IND"

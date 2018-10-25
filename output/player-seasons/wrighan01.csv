@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wrighan01,2005-06,21,New Jersey Nets,NBA,39,9.5,.358,.500,0.8,0.3,0.1,0.1,1.8,0.7,-0.5,-0.062,-9.0,-0.7,,1461360,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2006-07,22,New Jersey Nets,NBA,63,18.0,.438,.603,2.8,0.9,0.5,0.2,4.5,8.1,1.2,.049,-3.4,-0.4,,1570920,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2007-08,23,Dallas Mavericks,NBA,56,22.0,.413,.687,2.6,1.4,0.5,0.4,6.3,8.4,0.8,.029,-2.8,-0.2,,1680600,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2007-08,23,Dallas Mavericks,NBA,41,25.8,.401,.707,3.0,1.6,0.6,0.4,7.3,8.3,0.5,.025,-2.8,-0.2,,1680600,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2007-08,23,Dallas Mavericks,NBA,15,11.7,.500,.556,1.5,0.9,0.1,0.3,3.5,9.0,0.2,.056,-2.6,0.0,,1680600,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2008-09,24,Dallas Mavericks,NBA,65,23.9,.415,.747,2.1,1.2,0.7,0.4,7.3,8.6,1.4,.044,-1.7,0.1,,1800000,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2009-10,25,Toronto Raptors,NBA,67,20.8,.406,.688,2.8,1.1,0.4,0.2,6.5,8.6,0.3,.011,-2.7,-0.3,,2110550,"Lawrence Academy in Groton, Massachusetts"
-wrighan01,2010-11,26,Sacramento Kings,NBA,7,4.4,.125,,0.4,0.0,0.1,0.0,0.3,-4.8,-0.1,-0.179,-12.5,-0.1,,992680,"Lawrence Academy in Groton, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antoine Wright,/players/w/wrighan01.html,2006,2011,Texas A&M University,false,"Lawrence Academy in Groton, Massachusetts",-6.21,-1.03,wrighan01,2005-06,NJN,0.7,-0.5,-0.062,-9.0,-0.7,,NBA,1461360,21,39,9.5,.358,.500,0.8,0.3,0.1,0.1,1.8,NJN
+Antoine Wright,/players/w/wrighan01.html,2006,2011,Texas A&M University,false,"Lawrence Academy in Groton, Massachusetts",-3.67,-1.29,wrighan01,2006-07,NJN,8.1,1.2,.049,-3.4,-0.4,,NBA,1570920,22,63,18.0,.438,.603,2.8,0.9,0.5,0.2,4.5,NJN
+Antoine Wright,/players/w/wrighan01.html,2006,2011,Texas A&M University,false,"Lawrence Academy in Groton, Massachusetts",-3.66,-1.18,wrighan01,2007-08,TOT,8.4,0.8,.029,-2.8,-0.2,,NBA,1680600,23,56,22.0,.413,.687,2.6,1.4,0.5,0.4,6.3,"NJN,DAL"
+Antoine Wright,/players/w/wrighan01.html,2006,2011,Texas A&M University,false,"Lawrence Academy in Groton, Massachusetts",-1.88,0.55,wrighan01,2008-09,DAL,8.6,1.4,.044,-1.7,0.1,,NBA,1800000,24,65,23.9,.415,.747,2.1,1.2,0.7,0.4,7.3,DAL
+Antoine Wright,/players/w/wrighan01.html,2006,2011,Texas A&M University,false,"Lawrence Academy in Groton, Massachusetts",-0.63,1.57,wrighan01,2009-10,TOR,8.6,0.3,.011,-2.7,-0.3,,NBA,2110550,25,67,20.8,.406,.688,2.8,1.1,0.4,0.2,6.5,TOR
+Antoine Wright,/players/w/wrighan01.html,2006,2011,Texas A&M University,false,"Lawrence Academy in Groton, Massachusetts",+0.15,0.05,wrighan01,2010-11,SAC,-4.8,-0.1,-0.179,-12.5,-0.1,,NBA,992680,26,7,4.4,.125,,0.4,0.0,0.1,0.0,0.3,SAC

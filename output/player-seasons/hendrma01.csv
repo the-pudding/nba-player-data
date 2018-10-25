@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hendrma01,1996-97,22,Philadelphia 76ers,NBA,29,10.4,.416,.692,3.2,0.1,0.3,0.1,2.9,11.5,0.3,.054,-7.0,-0.4,,247000,"Mount Vernon in Mount Vernon, Washington"
-hendrma01,1997-98,23,SAC,NBA,48,15.4,.389,.825,3.0,0.9,0.5,0.2,3.4,9.4,0.8,.049,-3.7,-0.3,,,"Mount Vernon in Mount Vernon, Washington"
-hendrma01,1998-99,24,New Jersey Nets,NBA,22,18.1,.443,.840,3.1,0.6,0.5,0.0,5.5,12.3,0.9,.105,-2.6,-0.1,,425000,"Mount Vernon in Mount Vernon, Washington"
-hendrma01,1999-00,25,Cleveland Cavaliers,NBA,15,4.7,.625,.750,0.9,0.4,0.1,0.1,0.9,10.4,0.1,.098,-2.7,0.0,,62764,"Mount Vernon in Mount Vernon, Washington"
-hendrma01,1999-00,25,Cleveland Cavaliers,NBA,10,4.7,.714,1.000,1.1,0.3,0.2,0.1,1.2,12.9,0.1,.132,-0.7,0.0,,62764,"Mount Vernon in Mount Vernon, Washington"
-hendrma01,1999-00,25,Cleveland Cavaliers,NBA,5,4.8,.000,.500,0.4,0.6,0.0,0.0,0.2,5.5,0.0,.030,-6.6,0.0,,62764,"Mount Vernon in Mount Vernon, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Hendrickson,/players/h/hendrma01.html,1997,2000,Washington State University,false,"Mount Vernon in Mount Vernon, Washington",-2.12,0.03,hendrma01,1996-97,PHI,11.5,0.3,.054,-7.0,-0.4,,NBA,247000,22,29,10.4,.416,.692,3.2,0.1,0.3,0.1,2.9,PHI
+Mark Hendrickson,/players/h/hendrma01.html,1997,2000,Washington State University,false,"Mount Vernon in Mount Vernon, Washington",-2.22,-0.01,hendrma01,1997-98,SAC,9.4,0.8,.049,-3.7,-0.3,,NBA,,23,48,15.4,.389,.825,3.0,0.9,0.5,0.2,3.4,SAC
+Mark Hendrickson,/players/h/hendrma01.html,1997,2000,Washington State University,false,"Mount Vernon in Mount Vernon, Washington",-2.36,-0.05,hendrma01,1998-99,NJN,12.3,0.9,.105,-2.6,-0.1,,NBA,425000,24,22,18.1,.443,.840,3.1,0.6,0.5,0.0,5.5,NJN
+Mark Hendrickson,/players/h/hendrma01.html,1997,2000,Washington State University,false,"Mount Vernon in Mount Vernon, Washington",+0.13,0.12,hendrma01,1999-00,TOT,10.4,0.1,.098,-2.7,0.0,,NBA,62764,25,15,4.7,.625,.750,0.9,0.4,0.1,0.1,0.9,"CLE,NJN"

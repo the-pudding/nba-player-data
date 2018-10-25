@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-rellfri01,1987-88,23,SAS,NBA,4,10.5,.625,.750,1.8,0.3,0.0,0.8,4.0,11.6,0.0,.048,-5.4,0.0,,"Suncoast in Riviera Beach, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Richard Rellford,/players/r/rellfri01.html,1988,1988,University of Michigan,false,"Suncoast in Riviera Beach, Florida",-0.57,0.05,rellfri01,1987-88,SAS,11.6,0.0,.048,-5.4,0.0,,23,NBA,4,10.5,.625,.750,1.8,0.3,0.0,0.8,4.0,SAS

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-southja01,2013-14,23,"CHA,NOP",NBA,4,7.5,.333,.500,2.0,0.0,0.3,0.5,3.5,11.8,0.0,-0.023,-13.3,-0.1,,"Notre Dame Prep in Fitchburg, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Southerland,/players/s/southja01.html,2014,2014,Syracuse University,false,"Notre Dame Prep in Fitchburg, Massachusetts",-0.10,0.05,southja01,2013-14,TOT,11.8,0.0,-0.023,-13.3,-0.1,,23,NBA,4,7.5,.333,.500,2.0,0.0,0.3,0.5,3.5,"CHA,NOP"

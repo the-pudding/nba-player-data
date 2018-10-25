@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leema01,2011-12,21,Minnesota Timberwolves,NBA,19,12.8,.390,.824,1.4,1.6,0.4,0.2,3.3,9.3,0.1,.024,-3.0,-0.1,,500000,"John W. North in Riverside, California"
-leema01,2012-13,22,Minnesota Timberwolves,NBA,16,18.1,.382,.600,2.4,1.3,0.8,0.4,4.9,9.8,0.4,.059,-0.9,0.1,,762195,"John W. North in Riverside, California"
-leema01,2013-14,23,Phoenix Suns,NBA,,,,,,,,,,,,,,,,884293,"John W. North in Riverside, California"
-leema01,2014-15,24,PHI,NBA,1,2.0,.000,,0.0,0.0,0.0,0.0,0.0,-19.7,0.0,-0.527,-28.5,0.0,,,"John W. North in Riverside, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Malcolm Lee,/players/l/leema01.html,2012,2015,"University of California, Los Angeles",false,"John W. North in Riverside, California",-1.59,0.10,leema01,2011-12,MIN,9.3,0.1,.024,-3.0,-0.1,,NBA,500000,21,19,12.8,.390,.824,1.4,1.6,0.4,0.2,3.3,MIN
+Malcolm Lee,/players/l/leema01.html,2012,2015,"University of California, Los Angeles",false,"John W. North in Riverside, California",-0.02,0.44,leema01,2012-13,MIN,9.8,0.4,.059,-0.9,0.1,,NBA,762195,22,16,18.1,.382,.600,2.4,1.3,0.8,0.4,4.9,MIN
+Malcolm Lee,/players/l/leema01.html,2012,2015,"University of California, Los Angeles",false,"John W. North in Riverside, California",,,leema01,2013-14,Did Not Play,,,,,,,NBA,884293,23,,,,,,,,,,Did Not Play
+Malcolm Lee,/players/l/leema01.html,2012,2015,"University of California, Los Angeles",false,"John W. North in Riverside, California",-0.46,0.00,leema01,2014-15,PHI,-19.7,0.0,-0.527,-28.5,0.0,,NBA,,24,1,2.0,.000,,0.0,0.0,0.0,0.0,0.0,PHI

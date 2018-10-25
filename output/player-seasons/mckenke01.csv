@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mckenke01,1981-82,23,LAL,NBA,36,6.6,.322,.647,0.8,0.4,0.3,0.1,1.9,2.8,-0.3,-0.069,-7.8,-0.3,,"Palatine Township in Palatine, Illinois",
-mckenke01,1982-83,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Palatine Township in Palatine, Illinois",
-mckenke01,1983-84,25,IND,NBA,61,15.1,.410,.816,1.6,1.9,0.8,0.1,6.3,10.8,0.6,.031,-4.1,-0.5,,"Palatine Township in Palatine, Illinois",
-mckenke01,1984-85,26,New Jersey Nets,NBA,29,18.4,.455,.884,1.7,2.0,1.0,0.2,5.7,10.9,0.9,.082,-0.9,0.1,,"Palatine Township in Palatine, Illinois",85000
-mckenke01,1985-86,27,WSB,NBA,30,14.3,.367,.833,1.2,0.8,1.0,0.1,5.8,10.9,0.7,.073,-1.2,0.1,,"Palatine Township in Palatine, Illinois",
-mckenke01,1986-87,28,NJN,NBA,56,16.8,.454,.754,1.4,1.7,1.0,0.1,7.2,12.1,1.7,.087,0.0,0.5,,"Palatine Township in Palatine, Illinois",
-mckenke01,1987-88,29,New Jersey Nets,NBA,31,12.7,.394,.960,1.0,1.3,0.5,0.1,4.1,9.2,0.5,.061,-3.2,-0.1,,"Palatine Township in Palatine, Illinois",150000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",-3.11,-0.14,mckenke01,1981-82,LAL,2.8,-0.3,-0.069,-7.8,-0.3,,23,NBA,36,6.6,.322,.647,0.8,0.4,0.3,0.1,1.9,LAL,
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",,,mckenke01,1982-83,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",-2.31,-0.07,mckenke01,1983-84,IND,10.8,0.6,.031,-4.1,-0.5,,25,NBA,61,15.1,.410,.816,1.6,1.9,0.8,0.1,6.3,IND,
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",-1.28,0.36,mckenke01,1984-85,NJN,10.9,0.9,.082,-0.9,0.1,,26,NBA,29,18.4,.455,.884,1.7,2.0,1.0,0.2,5.7,NJN,85000
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",-0.68,0.46,mckenke01,1985-86,WSB,10.9,0.7,.073,-1.2,0.1,,27,NBA,30,14.3,.367,.833,1.2,0.8,1.0,0.1,5.8,WSB,
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",-0.77,0.96,mckenke01,1986-87,NJN,12.1,1.7,.087,0.0,0.5,,28,NBA,56,16.8,.454,.754,1.4,1.7,1.0,0.1,7.2,NJN,
+Kevin McKenna,/players/m/mckenke01.html,1982,1988,Creighton University,false,"Palatine Township in Palatine, Illinois",-1.86,0.10,mckenke01,1987-88,NJN,9.2,0.5,.061,-3.2,-0.1,,29,NBA,31,12.7,.394,.960,1.0,1.3,0.5,0.1,4.1,NJN,150000

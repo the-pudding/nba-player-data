@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-smithje01,2011-12,24,NJN,NBA,5,9.2,.214,,1.4,0.8,1.0,0.0,1.4,7.8,0.0,-0.007,-1.7,0.0,,"East in Wauwatosa, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerry Smith,/players/s/smithje01.html,2012,2012,University of Louisville,false,"East in Wauwatosa, Wisconsin",-0.51,0.05,smithje01,2011-12,NJN,7.8,0.0,-0.007,-1.7,0.0,,24,NBA,5,9.2,.214,,1.4,0.8,1.0,0.0,1.4,NJN

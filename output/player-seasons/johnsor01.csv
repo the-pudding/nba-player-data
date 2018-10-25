@@ -1,9 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsor01,2012-13,23,Indiana Pacers,NBA,51,12.1,.400,.719,2.2,0.9,0.2,0.2,4.0,11.4,1.5,.115,-1.2,0.1,,550000,"Palma in Salinas, California"
-johnsor01,2013-14,24,Indiana Pacers,NBA,45,8.7,.319,.731,1.2,0.4,0.1,0.0,2.2,5.3,0.1,.008,-6.2,-0.4,,788872,"Palma in Salinas, California"
-johnsor01,2013-14,24,Indiana Pacers,NBA,38,9.0,.344,.773,1.3,0.4,0.2,0.0,2.4,6.1,0.2,.031,-5.5,-0.3,,788872,"Palma in Salinas, California"
-johnsor01,2013-14,24,Indiana Pacers,NBA,7,7.1,.176,.500,0.6,0.6,0.0,0.1,1.3,-0.3,-0.1,-0.144,-10.4,-0.1,,788872,"Palma in Salinas, California"
-johnsor01,2014-15,25,Did Not Play,,,,,,,,,,,,,,,,,,"Palma in Salinas, California"
-johnsor01,2015-16,26,New Orleans Pelicans,NBA,7,14.4,.265,.750,2.1,0.3,0.4,0.4,3.7,3.6,-0.2,-0.087,-10.4,-0.2,,55722,"Palma in Salinas, California"
-johnsor01,2015-16,26,New Orleans Pelicans,NBA,2,23.5,.294,.833,4.5,0.0,1.0,1.5,8.0,10.1,0.0,.026,-8.2,-0.1,,55722,"Palma in Salinas, California"
-johnsor01,2015-16,26,New Orleans Pelicans,NBA,5,10.8,.235,.500,1.2,0.4,0.2,0.0,2.0,-2.1,-0.2,-0.185,-12.3,-0.1,,55722,"Palma in Salinas, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Orlando Johnson,/players/j/johnsor01.html,2013,2016,"Loyola Marymount University, University of California, Santa Barbara",false,"Palma in Salinas, California",-2.86,-0.30,johnsor01,2012-13,IND,11.4,1.5,.115,-1.2,0.1,,NBA,550000,23,51,12.1,.400,.719,2.2,0.9,0.2,0.2,4.0,IND
+Orlando Johnson,/players/j/johnsor01.html,2013,2016,"Loyola Marymount University, University of California, Santa Barbara",false,"Palma in Salinas, California",-2.97,-0.24,johnsor01,2013-14,TOT,5.3,0.1,.008,-6.2,-0.4,,NBA,788872,24,45,8.7,.319,.731,1.2,0.4,0.1,0.0,2.2,"IND,SAC"
+Orlando Johnson,/players/j/johnsor01.html,2013,2016,"Loyola Marymount University, University of California, Santa Barbara",false,"Palma in Salinas, California",,,johnsor01,2014-15,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Orlando Johnson,/players/j/johnsor01.html,2013,2016,"Loyola Marymount University, University of California, Santa Barbara",false,"Palma in Salinas, California",-0.47,0.12,johnsor01,2015-16,TOT,3.6,-0.2,-0.087,-10.4,-0.2,,NBA,55722,26,7,14.4,.265,.750,2.1,0.3,0.4,0.4,3.7,"PHO,NOP"

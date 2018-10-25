@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wrighju01,2007-08,20,New Orleans Hornets,NBA,57,11.2,.533,.635,2.1,0.7,0.5,0.2,3.9,15.4,1.7,.126,0.6,0.4,,1739160,"Homewood-Flossmoor in Flossmoor, Illinois"
-wrighju01,2008-09,21,New Orleans Hornets,NBA,54,14.3,.466,.567,2.8,0.8,0.6,0.4,4.4,12.6,0.8,.048,-2.1,0.0,,1869600,"Homewood-Flossmoor in Flossmoor, Illinois"
-wrighju01,2009-10,22,New Orleans Hornets,NBA,68,12.8,.500,.610,2.1,0.6,0.4,0.3,3.8,11.8,0.8,.044,-2.8,-0.2,,2000040,"Homewood-Flossmoor in Flossmoor, Illinois"
-wrighju01,2010-11,23,Toronto Raptors,NBA,52,14.7,.513,.512,2.3,1.1,0.8,0.4,3.6,12.1,0.6,.038,-0.4,0.3,,2858057,"Homewood-Flossmoor in Flossmoor, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Julian Wright,/players/w/wrighju01.html,2008,2011,University of Kansas,false,"Homewood-Flossmoor in Flossmoor, Illinois",-1.10,0.61,wrighju01,2007-08,NOH,15.4,1.7,.126,0.6,0.4,,NBA,1739160,20,57,11.2,.533,.635,2.1,0.7,0.5,0.2,3.9,NOH
+Julian Wright,/players/w/wrighju01.html,2008,2011,University of Kansas,false,"Homewood-Flossmoor in Flossmoor, Illinois",-1.88,0.20,wrighju01,2008-09,NOH,12.6,0.8,.048,-2.1,0.0,,NBA,1869600,21,54,14.3,.466,.567,2.8,0.8,0.6,0.4,4.4,NOH
+Julian Wright,/players/w/wrighju01.html,2008,2011,University of Kansas,false,"Homewood-Flossmoor in Flossmoor, Illinois",-0.86,0.84,wrighju01,2009-10,NOH,11.8,0.8,.044,-2.8,-0.2,,NBA,2000040,22,68,12.8,.500,.610,2.1,0.6,0.4,0.3,3.8,NOH
+Julian Wright,/players/w/wrighju01.html,2008,2011,University of Kansas,false,"Homewood-Flossmoor in Flossmoor, Illinois",-0.09,1.13,wrighju01,2010-11,TOR,12.1,0.6,.038,-0.4,0.3,,NBA,2858057,23,52,14.7,.513,.512,2.3,1.1,0.8,0.4,3.6,TOR

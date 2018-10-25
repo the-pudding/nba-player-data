@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hummero01,2013-14,24,MIN,NBA,53,12.4,.379,.938,2.5,0.4,0.3,0.0,3.4,9.6,1.1,.084,-2.1,0.0,,"Valparaiso in Valparaiso, Indiana",
-hummero01,2014-15,25,Minnesota Timberwolves,NBA,45,16.5,.459,.828,3.0,0.6,0.4,0.2,4.4,9.7,0.8,.050,-3.5,-0.3,,"Valparaiso in Valparaiso, Indiana",880000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Robbie Hummel,/players/h/hummero01.html,2014,2015,Purdue University,false,"Valparaiso in Valparaiso, Indiana",-1.86,0.18,hummero01,2013-14,MIN,9.6,1.1,.084,-2.1,0.0,,24,NBA,53,12.4,.379,.938,2.5,0.4,0.3,0.0,3.4,MIN,
+Robbie Hummel,/players/h/hummero01.html,2014,2015,Purdue University,false,"Valparaiso in Valparaiso, Indiana",-2.09,0.11,hummero01,2014-15,MIN,9.7,0.8,.050,-3.5,-0.3,,25,NBA,45,16.5,.459,.828,3.0,0.6,0.4,0.2,4.4,MIN,880000

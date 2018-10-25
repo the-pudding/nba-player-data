@@ -1,22 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-marshdo01,1994-95,21,Minnesota Timberwolves,NBA,72,29.0,.394,.662,5.6,1.5,0.6,1.2,12.6,12.5,0.3,.007,-2.9,-0.5,,2100000,"Reading in Reading, Pennsylvania"
-marshdo01,1994-95,21,Minnesota Timberwolves,NBA,40,25.9,.374,.680,4.9,1.4,0.6,1.3,10.8,12.7,-0.1,-0.005,-3.3,-0.3,,2100000,"Reading in Reading, Pennsylvania"
-marshdo01,1994-95,21,Minnesota Timberwolves,NBA,32,32.8,.413,.640,6.5,1.5,0.6,1.2,14.8,12.4,0.4,.020,-2.6,-0.1,,2100000,"Reading in Reading, Pennsylvania"
-marshdo01,1995-96,22,Golden State Warriors,NBA,62,15.1,.398,.771,3.4,0.8,0.4,0.5,5.5,12.7,1.3,.065,-2.5,-0.1,,2730000,"Reading in Reading, Pennsylvania"
-marshdo01,1996-97,23,Golden State Warriors,NBA,61,16.8,.413,.622,4.5,0.9,0.4,0.8,7.3,15.6,1.3,.059,-2.3,-0.1,,3360000,"Reading in Reading, Pennsylvania"
-marshdo01,1997-98,24,Golden State Warriors,NBA,73,35.8,.414,.731,8.6,2.2,1.3,1.0,15.4,15.5,4.2,.078,1.1,2.1,,3990000,"Reading in Reading, Pennsylvania"
-marshdo01,1998-99,25,Golden State Warriors,NBA,48,26.0,.421,.727,7.1,1.4,1.0,0.8,11.0,16.9,3.0,.117,1.2,1.0,,4370000,"Reading in Reading, Pennsylvania"
-marshdo01,1999-00,26,Golden State Warriors,NBA,64,32.4,.394,.780,10.0,2.6,1.1,1.1,14.2,17.1,3.8,.088,0.6,1.4,,5250000,"Reading in Reading, Pennsylvania"
-marshdo01,2000-01,27,Utah Jazz,NBA,81,28.7,.503,.751,7.0,1.6,1.0,1.0,13.6,19.9,8.5,.174,4.0,3.5,,5630000,"Reading in Reading, Pennsylvania"
-marshdo01,2001-02,28,Utah Jazz,NBA,58,30.2,.519,.708,7.6,1.7,0.9,1.2,14.8,19.2,5.0,.138,1.9,1.7,,6510000,"Reading in Reading, Pennsylvania"
-marshdo01,2002-03,29,Chicago Bulls,NBA,78,30.5,.459,.756,9.0,1.8,1.2,1.1,13.4,18.4,6.0,.122,1.8,2.3,,4186542,"Reading in Reading, Pennsylvania"
-marshdo01,2003-04,30,Toronto Raptors,NBA,82,36.4,.461,.736,9.9,1.5,1.1,1.5,14.7,18.9,10.4,.167,3.2,3.9,,4605196,"Reading in Reading, Pennsylvania"
-marshdo01,2003-04,30,Toronto Raptors,NBA,16,25.5,.419,.700,6.2,1.8,0.8,1.3,8.7,13.8,0.7,.077,0.0,0.2,,4605196,"Reading in Reading, Pennsylvania"
-marshdo01,2003-04,30,Toronto Raptors,NBA,66,39.1,.467,.741,10.7,1.4,1.2,1.6,16.2,19.7,9.8,.181,3.7,3.7,,4605196,"Reading in Reading, Pennsylvania"
-marshdo01,2004-05,31,Toronto Raptors,NBA,65,25.3,.443,.791,6.6,1.2,0.9,0.7,11.5,19.9,6.0,.176,3.9,2.5,,5023850,"Reading in Reading, Pennsylvania"
-marshdo01,2005-06,32,Cleveland Cavaliers,NBA,81,25.6,.395,.748,6.1,0.7,0.7,0.5,9.3,13.4,4.2,.097,-0.7,0.7,,4799108,"Reading in Reading, Pennsylvania"
-marshdo01,2006-07,33,Cleveland Cavaliers,NBA,81,16.8,.424,.663,4.0,0.6,0.5,0.5,7.0,15.3,3.8,.135,0.2,0.8,,5633037,"Reading in Reading, Pennsylvania"
-marshdo01,2007-08,34,Seattle SuperSonics,NBA,26,13.1,.327,.864,2.9,0.4,0.2,0.6,3.8,9.8,0.3,.042,-3.5,-0.1,,6016965,"Reading in Reading, Pennsylvania"
-marshdo01,2007-08,34,Seattle SuperSonics,NBA,11,14.2,.295,.778,2.7,0.5,0.2,0.8,3.7,8.4,0.1,.039,-4.1,-0.1,,6016965,"Reading in Reading, Pennsylvania"
-marshdo01,2007-08,34,Seattle SuperSonics,NBA,15,12.3,.352,.923,3.1,0.3,0.3,0.5,3.8,10.9,0.2,.045,-3.0,0.0,,6016965,"Reading in Reading, Pennsylvania"
-marshdo01,2008-09,35,Oklahoma City Thunder,NBA,25,7.6,.452,.500,1.6,0.6,0.2,0.2,3.8,18.9,0.8,.201,3.3,0.3,,5950894,"Reading in Reading, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-2.64,-0.47,marshdo01,1994-95,TOT,12.5,0.3,.007,-2.9,-0.5,,NBA,2100000,21,72,29.0,.394,.662,5.6,1.5,0.6,1.2,12.6,"MIN,GSW"
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-1.72,0.36,marshdo01,1995-96,GSW,12.7,1.3,.065,-2.5,-0.1,,NBA,2730000,22,62,15.1,.398,.771,3.4,0.8,0.4,0.5,5.5,GSW
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-1.06,0.85,marshdo01,1996-97,GSW,15.6,1.3,.059,-2.3,-0.1,,NBA,3360000,23,61,16.8,.413,.622,4.5,0.9,0.4,0.8,7.3,GSW
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-0.72,2.68,marshdo01,1997-98,GSW,15.5,4.2,.078,1.1,2.1,,NBA,3990000,24,73,35.8,.414,.731,8.6,2.2,1.3,1.0,15.4,GSW
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",+0.17,2.09,marshdo01,1998-99,GSW,16.9,3.0,.117,1.2,1.0,,NBA,4370000,25,48,26.0,.421,.727,7.1,1.4,1.0,0.8,11.0,GSW
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-0.31,2.74,marshdo01,1999-00,GSW,17.1,3.8,.088,0.6,1.4,,NBA,5250000,26,64,32.4,.394,.780,10.0,2.6,1.1,1.1,14.2,GSW
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",+2.35,7.93,marshdo01,2000-01,UTA,19.9,8.5,.174,4.0,3.5,,NBA,5630000,27,81,28.7,.503,.751,7.0,1.6,1.0,1.0,13.6,UTA
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-2.40,-0.23,marshdo01,2001-02,UTA,19.2,5.0,.138,1.9,1.7,,NBA,6510000,28,58,30.2,.519,.708,7.6,1.7,0.9,1.2,14.8,UTA
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-0.35,3.07,marshdo01,2002-03,CHI,18.4,6.0,.122,1.8,2.3,,NBA,4186542,29,78,30.5,.459,.756,9.0,1.8,1.2,1.1,13.4,CHI
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",+0.45,5.55,marshdo01,2003-04,TOT,18.9,10.4,.167,3.2,3.9,,NBA,4605196,30,82,36.4,.461,.736,9.9,1.5,1.1,1.5,14.7,"CHI,TOR"
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",+1.43,4.11,marshdo01,2004-05,TOR,19.9,6.0,.176,3.9,2.5,,NBA,5023850,31,65,25.3,.443,.791,6.6,1.2,0.9,0.7,11.5,TOR
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",+0.43,4.43,marshdo01,2005-06,CLE,13.4,4.2,.097,-0.7,0.7,,NBA,4799108,32,81,25.6,.395,.748,6.1,0.7,0.7,0.5,9.3,CLE
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",+0.45,2.91,marshdo01,2006-07,CLE,15.3,3.8,.135,0.2,0.8,,NBA,5633037,33,81,16.8,.424,.663,4.0,0.6,0.5,0.5,7.0,CLE
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-1.85,0.11,marshdo01,2007-08,TOT,9.8,0.3,.042,-3.5,-0.1,,NBA,6016965,34,26,13.1,.327,.864,2.9,0.4,0.2,0.6,3.8,"CLE,SEA"
+Donyell Marshall,/players/m/marshdo01.html,1995,2009,University of Connecticut,false,"Reading in Reading, Pennsylvania",-0.01,0.37,marshdo01,2008-09,PHI,18.9,0.8,.201,3.3,0.3,,NBA,5950894,35,25,7.6,.452,.500,1.6,0.6,0.2,0.2,3.8,PHI

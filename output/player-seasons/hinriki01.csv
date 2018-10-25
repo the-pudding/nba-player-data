@@ -1,18 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hinriki01,2003-04,23,Chicago Bulls,NBA,76,35.6,.386,.804,3.4,6.8,1.3,0.3,12.0,13.1,4.1,.072,-0.5,1.0,,2185920,"Sioux City West in Sioux City, Iowa"
-hinriki01,2004-05,24,Chicago Bulls,NBA,77,36.4,.397,.792,3.9,6.4,1.6,0.3,15.7,15.3,7.2,.124,3.3,3.7,,2349840,"Sioux City West in Sioux City, Iowa"
-hinriki01,2005-06,25,Chicago Bulls,NBA,81,36.5,.418,.815,3.6,6.3,1.2,0.3,15.9,15.5,7.6,.124,1.9,2.9,,2513880,"Sioux City West in Sioux City, Iowa"
-hinriki01,2006-07,26,Chicago Bulls,NBA,80,35.5,.448,.835,3.4,6.3,1.3,0.3,16.6,17.0,10.1,.171,2.9,3.5,,3192628,"Sioux City West in Sioux City, Iowa"
-hinriki01,2007-08,27,Chicago Bulls,NBA,75,31.7,.414,.831,3.3,6.0,1.2,0.3,11.5,13.1,3.6,.072,-0.8,0.7,,11250000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2008-09,28,Chicago Bulls,NBA,51,26.3,.437,.791,2.4,3.9,1.3,0.4,9.9,13.9,2.6,.092,0.4,0.8,,10000000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2009-10,29,Chicago Bulls,NBA,74,33.5,.409,.752,3.5,4.5,1.1,0.3,10.9,11.6,4.0,.077,0.0,1.2,,9500000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2010-11,30,Atlanta Hawks,NBA,72,30.0,.446,.841,2.5,4.0,1.0,0.2,10.2,12.3,3.0,.068,-1.5,0.3,,9000000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2010-11,30,Atlanta Hawks,NBA,48,30.6,.452,.876,2.7,4.4,1.2,0.2,11.1,13.5,2.3,.076,-1.2,0.3,,9000000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2010-11,30,Atlanta Hawks,NBA,24,28.6,.432,.667,2.2,3.3,0.8,0.3,8.6,9.8,0.7,.050,-2.0,0.0,,9000000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2011-12,31,Atlanta Hawks,NBA,48,25.8,.414,.781,2.1,2.8,0.8,0.2,6.6,9.2,1.8,.069,-1.4,0.2,,8100000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2012-13,32,Chicago Bulls,NBA,60,29.4,.377,.714,2.6,5.2,1.1,0.4,7.7,10.8,3.1,.085,-1.2,0.3,,3941000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2013-14,33,Chicago Bulls,NBA,73,29.0,.393,.760,2.6,3.9,1.1,0.4,9.1,10.8,3.8,.085,-0.8,0.6,,4059000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2014-15,34,Chicago Bulls,NBA,66,24.4,.373,.700,1.8,2.2,0.7,0.2,5.7,6.8,1.0,.030,-2.8,-0.3,,2730000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2015-16,35,Atlanta Hawks,NBA,46,13.7,.380,.938,1.5,1.6,0.3,0.0,3.0,7.2,0.6,.044,-3.7,-0.3,,2870000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2015-16,35,Atlanta Hawks,NBA,35,15.9,.398,.938,1.7,1.7,0.4,0.0,3.8,7.3,0.6,.048,-3.5,-0.2,,2870000,"Sioux City West in Sioux City, Iowa"
-hinriki01,2015-16,35,Atlanta Hawks,NBA,11,6.9,.182,,1.1,1.3,0.2,0.1,0.5,6.2,0.0,.019,-5.7,-0.1,,2870000,"Sioux City West in Sioux City, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",-0.08,4.02,hinriki01,2003-04,CHI,13.1,4.1,.072,-0.5,1.0,,NBA,2185920,23,76,35.6,.386,.804,3.4,6.8,1.3,0.3,12.0,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+0.14,4.94,hinriki01,2004-05,CHI,15.3,7.2,.124,3.3,3.7,,NBA,2349840,24,77,36.4,.397,.792,3.9,6.4,1.6,0.3,15.7,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+0.85,6.79,hinriki01,2005-06,CHI,15.5,7.6,.124,1.9,2.9,,NBA,2513880,25,81,36.5,.418,.815,3.6,6.3,1.2,0.3,15.9,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+1.53,8.35,hinriki01,2006-07,CHI,17.0,10.1,.171,2.9,3.5,,NBA,3192628,26,80,35.5,.448,.835,3.4,6.3,1.3,0.3,16.6,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+0.69,4.80,hinriki01,2007-08,CHI,13.1,3.6,.072,-0.8,0.7,,NBA,11250000,27,75,31.7,.414,.831,3.3,6.0,1.2,0.3,11.5,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+2.61,5.07,hinriki01,2008-09,CHI,13.9,2.6,.092,0.4,0.8,,NBA,10000000,28,51,26.3,.437,.791,2.4,3.9,1.3,0.4,9.9,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",-0.89,2.48,hinriki01,2009-10,CHI,11.6,4.0,.077,0.0,1.2,,NBA,9500000,29,74,33.5,.409,.752,3.5,4.5,1.1,0.3,10.9,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",-3.01,-1.17,hinriki01,2010-11,TOT,12.3,3.0,.068,-1.5,0.3,,NBA,9000000,30,72,30.0,.446,.841,2.5,4.0,1.0,0.2,10.2,"WAS,ATL"
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",-1.31,0.83,hinriki01,2011-12,ATL,9.2,1.8,.069,-1.4,0.2,,NBA,8100000,31,48,25.8,.414,.781,2.1,2.8,0.8,0.2,6.6,ATL
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+1.95,5.61,hinriki01,2012-13,CHI,10.8,3.1,.085,-1.2,0.3,,NBA,3941000,32,60,29.4,.377,.714,2.6,5.2,1.1,0.4,7.7,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",+0.29,3.99,hinriki01,2013-14,CHI,10.8,3.8,.085,-0.8,0.6,,NBA,4059000,33,73,29.0,.393,.760,2.6,3.9,1.1,0.4,9.1,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",-2.87,-0.73,hinriki01,2014-15,CHI,6.8,1.0,.030,-2.8,-0.3,,NBA,2730000,34,66,24.4,.373,.700,1.8,2.2,0.7,0.2,5.7,CHI
+Kirk Hinrich,/players/h/hinriki01.html,2004,2016,University of Kansas,false,"Sioux City West in Sioux City, Iowa",-1.34,0.39,hinriki01,2015-16,TOT,7.2,0.6,.044,-3.7,-0.3,,NBA,2870000,35,46,13.7,.380,.938,1.5,1.6,0.3,0.0,3.0,"CHI,ATL"

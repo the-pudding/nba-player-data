@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hansore01,1997-98,29,BOS,NBA,8,3.3,.500,,0.8,0.1,0.3,0.1,0.8,6.9,0.0,.001,-2.8,0.0,,"Pulaski County in Somerset, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Reggie Hanson,/players/h/hansore01.html,1998,1998,University of Kentucky,false,"Pulaski County in Somerset, Kentucky",+0.25,0.04,hansore01,1997-98,BOS,6.9,0.0,.001,-2.8,0.0,,29,NBA,8,3.3,.500,,0.8,0.1,0.3,0.1,0.8,BOS

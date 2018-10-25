@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-greenor01,2005-06,23,Boston Celtics,NBA,80,15.4,.395,.662,1.8,1.6,1.0,0.1,3.2,6.4,-0.3,-0.013,-3.4,-0.4,,398762,"Gainesville in Gainesville, Florida"
-greenor01,2006-07,24,Indiana Pacers,NBA,41,6.2,.371,.600,1.1,0.5,0.4,0.1,1.5,6.5,-0.2,-0.034,-4.0,-0.1,,664209,"Gainesville in Gainesville, Florida"
-greenor01,2007-08,25,SAC,NBA,7,8.7,.273,,0.9,0.4,0.4,0.1,0.9,-3.3,-0.2,-0.180,-9.8,-0.1,,,"Gainesville in Gainesville, Florida"
-greenor01,2008-09,26,Did Not Play (other pro league—Netherlands),,,,,,,,,,,,,,,,,,"Gainesville in Gainesville, Florida"
-greenor01,2009-10,27,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,"Gainesville in Gainesville, Florida"
-greenor01,2010-11,28,New Jersey Nets,NBA,3,1.7,.500,.500,0.0,0.3,0.3,0.0,1.0,33.0,0.0,.293,2.4,0.0,,52066,"Gainesville in Gainesville, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Orien Greene,/players/g/greenor01.html,2006,2011,"University of Florida, University of Louisiana at Lafayette",false,"Gainesville in Gainesville, Florida",-2.62,-0.39,greenor01,2005-06,BOS,6.4,-0.3,-0.013,-3.4,-0.4,,NBA,398762,23,80,15.4,.395,.662,1.8,1.6,1.0,0.1,3.2,BOS
+Orien Greene,/players/g/greenor01.html,2006,2011,"University of Florida, University of Louisiana at Lafayette",false,"Gainesville in Gainesville, Florida",-1.42,0.13,greenor01,2006-07,IND,6.5,-0.2,-0.034,-4.0,-0.1,,NBA,664209,24,41,6.2,.371,.600,1.1,0.5,0.4,0.1,1.5,IND
+Orien Greene,/players/g/greenor01.html,2006,2011,"University of Florida, University of Louisiana at Lafayette",false,"Gainesville in Gainesville, Florida",-0.74,0.06,greenor01,2007-08,SAC,-3.3,-0.2,-0.180,-9.8,-0.1,,NBA,,25,7,8.7,.273,,0.9,0.4,0.4,0.1,0.9,SAC
+Orien Greene,/players/g/greenor01.html,2006,2011,"University of Florida, University of Louisiana at Lafayette",false,"Gainesville in Gainesville, Florida",,,greenor01,2008-09,Did Not Play (other pro league—Netherlands),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Netherlands)
+Orien Greene,/players/g/greenor01.html,2006,2011,"University of Florida, University of Louisiana at Lafayette",false,"Gainesville in Gainesville, Florida",,,greenor01,2009-10,Did Not Play (other pro league—D-League),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—D-League)
+Orien Greene,/players/g/greenor01.html,2006,2011,"University of Florida, University of Louisiana at Lafayette",false,"Gainesville in Gainesville, Florida",+0.39,0.01,greenor01,2010-11,NJN,33.0,0.0,.293,2.4,0.0,,NBA,52066,28,3,1.7,.500,.500,0.0,0.3,0.3,0.0,1.0,NJN

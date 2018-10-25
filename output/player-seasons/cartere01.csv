@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cartere01,1980-81,23,NYK,NBA,60,8.9,.330,.739,1.2,1.3,0.4,0.0,2.8,8.8,0.1,.010,-4.7,-0.4,,"Long Island Lutheran in Brookville, New York"
-cartere01,1981-82,24,NYK,NBA,75,12.3,.425,.800,1.3,1.7,0.5,0.1,4.0,9.4,0.3,.016,-4.5,-0.6,,"Long Island Lutheran in Brookville, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Reggie Carter,/players/c/cartere01.html,1981,1982,"University of Hawaii, St. John's University",false,"Long Island Lutheran in Brookville, New York",-2.21,0.00,cartere01,1980-81,NYK,8.8,0.1,.010,-4.7,-0.4,,23,NBA,60,8.9,.330,.739,1.2,1.3,0.4,0.0,2.8,NYK
+Reggie Carter,/players/c/cartere01.html,1981,1982,"University of Hawaii, St. John's University",false,"Long Island Lutheran in Brookville, New York",-2.82,-0.34,cartere01,1981-82,NYK,9.4,0.3,.016,-4.5,-0.6,,24,NBA,75,12.3,.425,.800,1.3,1.7,0.5,0.1,4.0,NYK

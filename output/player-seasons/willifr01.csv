@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willifr01,1978-79,22,SDC,NBA,72,16.6,.490,.776,1.4,1.2,0.6,0.0,10.4,16.1,1.8,.072,-4.4,-0.7,,"Manual Arts in Los Angeles, California"
-willifr01,1979-80,23,SDC,NBA,82,25.8,.480,.815,2.3,2.0,0.9,0.1,18.6,19.4,4.1,.092,-2.0,0.0,,"Manual Arts in Los Angeles, California"
-willifr01,1980-81,24,SDC,NBA,82,24.1,.465,.852,1.6,2.0,1.1,0.1,19.3,20.2,4.0,.096,-1.7,0.2,,"Manual Arts in Los Angeles, California"
-willifr01,1981-82,25,"SDC,ATL",NBA,60,16.6,.443,.843,1.0,1.4,0.5,0.0,12.0,15.4,0.4,.020,-5.8,-1.0,,"Manual Arts in Los Angeles, California"
-willifr01,1982-83,26,UTA,NBA,18,11.7,.356,.720,0.9,0.6,0.3,0.1,5.1,5.9,-0.2,-0.050,-9.8,-0.4,,"Manual Arts in Los Angeles, California"
-willifr01,1983-84,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Manual Arts in Los Angeles, California"
-willifr01,1984-85,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Manual Arts in Los Angeles, California"
-willifr01,1985-86,29,WSB,NBA,9,12.2,.373,.706,1.3,0.8,0.8,0.1,7.7,12.5,-0.1,-0.034,-5.8,-0.1,,"Manual Arts in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",-2.43,-0.11,willifr01,1978-79,SDC,16.1,1.8,.072,-4.4,-0.7,,22,NBA,72,16.6,.490,.776,1.4,1.2,0.6,0.0,10.4,SDC
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",-1.17,1.61,willifr01,1979-80,SDC,19.4,4.1,.092,-2.0,0.0,,23,NBA,82,25.8,.480,.815,2.3,2.0,0.9,0.1,18.6,SDC
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",-0.54,2.33,willifr01,1980-81,SDC,20.2,4.0,.096,-1.7,0.2,,24,NBA,82,24.1,.465,.852,1.6,2.0,1.1,0.1,19.3,SDC
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",-3.04,-0.49,willifr01,1981-82,TOT,15.4,0.4,.020,-5.8,-1.0,,25,NBA,60,16.6,.443,.843,1.0,1.4,0.5,0.0,12.0,"SDC,ATL"
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",-1.93,0.03,willifr01,1982-83,UTA,5.9,-0.2,-0.050,-9.8,-0.4,,26,NBA,18,11.7,.356,.720,0.9,0.6,0.3,0.1,5.1,UTA
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",,,willifr01,1983-84,Did Not Play (other pro league—CBA),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",,,willifr01,1984-85,Did Not Play (other pro league—CBA),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Freeman Williams,/players/w/willifr01.html,1979,1986,Portland State University,false,"Manual Arts in Los Angeles, California",-0.14,0.16,willifr01,1985-86,WSB,12.5,-0.1,-0.034,-5.8,-0.1,,29,NBA,9,12.2,.373,.706,1.3,0.8,0.8,0.1,7.7,WSB

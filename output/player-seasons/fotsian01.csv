@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fotsian01,2001-02,20,Memphis Grizzlies,NBA,28,11.4,.404,.850,2.2,0.4,0.3,0.4,3.9,11.3,0.1,.017,-4.9,-0.2,,332817,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antonis Fotsis,/players/f/fotsian01.html,2002,2002,,false,,-2.66,-0.10,fotsian01,2001-02,MEM,11.3,0.1,.017,-4.9,-0.2,,NBA,332817,20,28,11.4,.404,.850,2.2,0.4,0.3,0.4,3.9,MEM

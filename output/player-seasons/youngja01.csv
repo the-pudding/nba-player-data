@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-youngja01,2014-15,19,Boston Celtics,NBA,31,10.7,.353,.552,1.4,0.4,0.3,0.1,3.4,8.5,0.3,.047,-3.8,-0.2,,1674480,"Rochester in Rochester Hills, Michigan"
-youngja01,2015-16,20,Boston Celtics,NBA,29,6.9,.306,.250,0.9,0.3,0.2,0.0,1.0,3.6,0.1,.013,-4.6,-0.1,,1749840,"Rochester in Rochester Hills, Michigan"
-youngja01,2016-17,21,Boston Celtics,NBA,29,7.6,.431,.667,0.9,0.1,0.3,0.1,2.3,10.0,0.3,.076,-3.1,-0.1,,1825200,"Rochester in Rochester Hills, Michigan"
-youngja01,2017-18,22,Philadelphia 76ers,NBA,6,10.2,.357,.667,0.3,0.3,0.0,0.0,2.8,4.6,0.1,.041,-6.6,-0.1,,,"Rochester in Rochester Hills, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Young,/players/y/youngja01.html,2015,2018,University of Kentucky,true,"Rochester in Rochester Hills, Michigan",-1.19,0.25,youngja01,2014-15,BOS,8.5,0.3,.047,-3.8,-0.2,,NBA,1674480,19,31,10.7,.353,.552,1.4,0.4,0.3,0.1,3.4,BOS
+James Young,/players/y/youngja01.html,2015,2018,University of Kentucky,true,"Rochester in Rochester Hills, Michigan",-1.62,0.09,youngja01,2015-16,BOS,3.6,0.1,.013,-4.6,-0.1,,NBA,1749840,20,29,6.9,.306,.250,0.9,0.3,0.2,0.0,1.0,BOS
+James Young,/players/y/youngja01.html,2015,2018,University of Kentucky,true,"Rochester in Rochester Hills, Michigan",-1.60,0.12,youngja01,2016-17,BOS,10.0,0.3,.076,-3.1,-0.1,,NBA,1825200,21,29,7.6,.431,.667,0.9,0.1,0.3,0.1,2.3,BOS
+James Young,/players/y/youngja01.html,2015,2018,University of Kentucky,true,"Rochester in Rochester Hills, Michigan",-1.14,0.05,youngja01,2017-18,PHI,4.6,0.1,.041,-6.6,-0.1,,NBA,,22,6,10.2,.357,.667,0.3,0.3,0.0,0.0,2.8,PHI

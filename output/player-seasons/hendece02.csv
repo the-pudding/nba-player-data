@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hendece02,1997-98,22,Cleveland Cavaliers,NBA,82,30.8,.480,.716,4.0,2.0,1.2,0.5,10.1,10.7,3.8,.072,-0.5,1.0,,250000,"East in Memphis, Tennessee"
-hendece02,1998-99,23,Cleveland Cavaliers,NBA,50,30.3,.417,.813,3.9,2.3,1.2,0.5,9.1,9.9,0.5,.015,-1.9,0.0,,250000,"East in Memphis, Tennessee"
-hendece02,1999-00,24,Cleveland Cavaliers,NBA,61,18.1,.396,.663,2.3,0.9,0.6,0.3,5.4,7.3,-0.2,-0.010,-5.1,-0.9,,2400000,"East in Memphis, Tennessee"
-hendece02,2000-01,25,Cleveland Cavaliers,NBA,55,17.5,.389,.652,1.6,1.4,0.5,0.4,4.3,6.2,-0.7,-0.037,-5.2,-0.8,,2700000,"East in Memphis, Tennessee"
-hendece02,2001-02,26,Golden State Warriors,NBA,12,5.8,.484,.571,0.3,0.3,0.5,0.2,3.0,14.4,0.0,.003,-4.5,0.0,,3000000,"East in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cedric Henderson,/players/h/hendece02.html,1998,2002,University of Memphis,false,"East in Memphis, Tennessee",-1.02,2.15,hendece02,1997-98,CLE,10.7,3.8,.072,-0.5,1.0,,NBA,250000,22,82,30.8,.480,.716,4.0,2.0,1.2,0.5,10.1,CLE
+Cedric Henderson,/players/h/hendece02.html,1998,2002,University of Memphis,false,"East in Memphis, Tennessee",-1.75,0.42,hendece02,1998-99,CLE,9.9,0.5,.015,-1.9,0.0,,NBA,250000,23,50,30.3,.417,.813,3.9,2.3,1.2,0.5,9.1,CLE
+Cedric Henderson,/players/h/hendece02.html,1998,2002,University of Memphis,false,"East in Memphis, Tennessee",-3.35,-0.92,hendece02,1999-00,CLE,7.3,-0.2,-0.010,-5.1,-0.9,,NBA,2400000,24,61,18.1,.396,.663,2.3,0.9,0.6,0.3,5.4,CLE
+Cedric Henderson,/players/h/hendece02.html,1998,2002,University of Memphis,false,"East in Memphis, Tennessee",-3.13,-0.66,hendece02,2000-01,CLE,6.2,-0.7,-0.037,-5.2,-0.8,,NBA,2700000,25,55,17.5,.389,.652,1.6,1.4,0.5,0.4,4.3,CLE
+Cedric Henderson,/players/h/hendece02.html,1998,2002,University of Memphis,false,"East in Memphis, Tennessee",+0.21,0.12,hendece02,2001-02,GSW,14.4,0.0,.003,-4.5,0.0,,NBA,3000000,26,12,5.8,.484,.571,0.3,0.3,0.5,0.2,3.0,GSW

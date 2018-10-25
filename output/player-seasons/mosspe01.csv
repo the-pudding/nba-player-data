@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mosspe01,1985-86,27,"WSB,PHI",NBA,72,14.1,.397,.730,1.6,1.5,0.8,0.2,4.2,8.5,0.5,.026,-2.7,-0.2,,"Regional in Amherst, Massachusetts"
-mosspe01,1986-87,28,GSW,NBA,64,10.9,.440,.710,1.5,1.4,0.7,0.0,3.6,10.2,0.4,.025,-2.5,-0.1,,"Regional in Amherst, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Perry Moss,/players/m/mosspe01.html,1986,1987,Northeastern University,false,"Regional in Amherst, Massachusetts",-2.82,-0.43,mosspe01,1985-86,TOT,8.5,0.5,.026,-2.7,-0.2,,27,NBA,72,14.1,.397,.730,1.6,1.5,0.8,0.2,4.2,"WSB,PHI"
+Perry Moss,/players/m/mosspe01.html,1986,1987,Northeastern University,false,"Regional in Amherst, Massachusetts",-1.70,0.30,mosspe01,1986-87,GSW,10.2,0.4,.025,-2.5,-0.1,,28,NBA,64,10.9,.440,.710,1.5,1.4,0.7,0.0,3.6,GSW

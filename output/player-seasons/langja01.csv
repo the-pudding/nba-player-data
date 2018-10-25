@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-langja01,2006-07,23,Washington Wizards,NBA,11,5.0,.444,.600,1.0,0.2,0.0,0.3,1.0,6.6,0.1,.047,-4.0,0.0,,771331,"Central Park Christian in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Lang,/players/l/langja01.html,2007,2007,,false,"Central Park Christian in Birmingham, Alabama",-0.68,0.06,langja01,2006-07,WAS,6.6,0.1,.047,-4.0,0.0,,NBA,771331,23,11,5.0,.444,.600,1.0,0.2,0.0,0.3,1.0,WAS

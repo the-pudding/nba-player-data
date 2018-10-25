@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harrist01,1985-86,22,Houston Rockets,NBA,57,8.5,.442,.926,1.0,0.9,0.4,0.1,4.5,14.0,0.8,.078,-3.7,-0.2,,160000,"Blue Springs in Blue Springs, Missouri"
-harrist01,1986-87,23,HOU,NBA,74,15.9,.419,.854,2.3,1.4,0.5,0.2,8.3,12.9,1.3,.052,-4.0,-0.6,,,"Blue Springs in Blue Springs, Missouri"
-harrist01,1987-88,24,Golden State Warriors,NBA,58,18.7,.458,.788,2.2,1.5,0.9,0.1,9.2,14.0,1.2,.052,-3.0,-0.3,,180000,"Blue Springs in Blue Springs, Missouri"
-harrist01,1987-88,24,Golden State Warriors,NBA,14,14.2,.395,.938,1.5,1.2,0.6,0.1,5.9,12.1,0.3,.071,-3.0,0.0,,180000,"Blue Springs in Blue Springs, Missouri"
-harrist01,1987-88,24,Golden State Warriors,NBA,44,20.1,.471,.763,2.4,1.6,1.0,0.1,10.3,14.5,0.9,.048,-2.9,-0.2,,180000,"Blue Springs in Blue Springs, Missouri"
-harrist01,1988-89,25,DET,NBA,3,2.3,.250,1.000,0.7,0.0,0.3,0.0,1.3,18.3,0.0,.181,-10.6,0.0,,,"Blue Springs in Blue Springs, Missouri"
-harrist01,1989-90,26,LAC,NBA,15,6.2,.350,.750,0.7,0.1,0.5,0.1,2.1,6.0,-0.1,-0.061,-8.8,-0.2,,,"Blue Springs in Blue Springs, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Harris,/players/h/harrist01.html,1986,1990,University of Tulsa,false,"Blue Springs in Blue Springs, Missouri",-2.07,0.09,harrist01,1985-86,HOU,14.0,0.8,.078,-3.7,-0.2,,NBA,160000,22,57,8.5,.442,.926,1.0,0.9,0.4,0.1,4.5,HOU
+Steve Harris,/players/h/harrist01.html,1986,1990,University of Tulsa,false,"Blue Springs in Blue Springs, Missouri",-2.38,-0.11,harrist01,1986-87,HOU,12.9,1.3,.052,-4.0,-0.6,,NBA,,23,74,15.9,.419,.854,2.3,1.4,0.5,0.2,8.3,HOU
+Steve Harris,/players/h/harrist01.html,1986,1990,University of Tulsa,false,"Blue Springs in Blue Springs, Missouri",-1.89,0.29,harrist01,1987-88,TOT,14.0,1.2,.052,-3.0,-0.3,,NBA,180000,24,58,18.7,.458,.788,2.2,1.5,0.9,0.1,9.2,"HOU,GSW"
+Steve Harris,/players/h/harrist01.html,1986,1990,University of Tulsa,false,"Blue Springs in Blue Springs, Missouri",+0.62,0.01,harrist01,1988-89,DET,18.3,0.0,.181,-10.6,0.0,,NBA,,25,3,2.3,.250,1.000,0.7,0.0,0.3,0.0,1.3,DET
+Steve Harris,/players/h/harrist01.html,1986,1990,University of Tulsa,false,"Blue Springs in Blue Springs, Missouri",-0.29,0.12,harrist01,1989-90,LAC,6.0,-0.1,-0.061,-8.8,-0.2,,NBA,,26,15,6.2,.350,.750,0.7,0.1,0.5,0.1,2.1,LAC

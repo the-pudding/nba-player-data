@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hansbty01,2009-10,24,Indiana Pacers,NBA,29,17.6,.360,.743,4.8,1.0,0.6,0.3,8.5,14.6,0.7,.070,-4.2,-0.3,,1859160,"Poplar Bluff in Poplar Bluff, Missouri"
-hansbty01,2010-11,25,Indiana Pacers,NBA,70,21.9,.465,.779,5.2,0.6,0.5,0.2,11.0,16.4,3.8,.118,-3.3,-0.5,,1998600,"Poplar Bluff in Poplar Bluff, Missouri"
-hansbty01,2011-12,26,Indiana Pacers,NBA,66,21.8,.405,.813,4.4,0.5,0.8,0.1,9.3,14.7,3.9,.129,-2.7,-0.3,,2138040,"Poplar Bluff in Poplar Bluff, Missouri"
-hansbty01,2012-13,27,Indiana Pacers,NBA,81,16.9,.432,.720,4.6,0.4,0.4,0.2,7.0,15.3,4.4,.154,-2.9,-0.3,,3055259,"Poplar Bluff in Poplar Bluff, Missouri"
-hansbty01,2013-14,28,Toronto Raptors,NBA,64,15.3,.474,.681,4.5,0.3,0.4,0.3,4.9,14.2,3.0,.149,-1.8,0.0,,3183000,"Poplar Bluff in Poplar Bluff, Missouri"
-hansbty01,2014-15,29,Toronto Raptors,NBA,74,14.3,.521,.698,3.6,0.3,0.4,0.2,3.6,13.3,3.4,.156,-0.5,0.4,,3326235,"Poplar Bluff in Poplar Bluff, Missouri"
-hansbty01,2015-16,30,Charlotte Hornets,NBA,44,7.8,.451,.585,2.0,0.2,0.3,0.2,2.4,12.5,1.0,.134,-2.7,-0.1,,1185784,"Poplar Bluff in Poplar Bluff, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",-0.81,0.50,hansbty01,2009-10,IND,14.6,0.7,.070,-4.2,-0.3,,NBA,1859160,24,29,17.6,.360,.743,4.8,1.0,0.6,0.3,8.5,IND
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",-2.38,-0.12,hansbty01,2010-11,IND,16.4,3.8,.118,-3.3,-0.5,,NBA,1998600,25,70,21.9,.465,.779,5.2,0.6,0.5,0.2,11.0,IND
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",-3.23,-1.11,hansbty01,2011-12,IND,14.7,3.9,.129,-2.7,-0.3,,NBA,2138040,26,66,21.8,.405,.813,4.4,0.5,0.8,0.1,9.3,IND
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",-3.72,-1.71,hansbty01,2012-13,IND,15.3,4.4,.154,-2.9,-0.3,,NBA,3055259,27,81,16.9,.432,.720,4.6,0.4,0.4,0.2,7.0,IND
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",-0.41,1.27,hansbty01,2013-14,TOR,14.2,3.0,.149,-1.8,0.0,,NBA,3183000,28,64,15.3,.474,.681,4.5,0.3,0.4,0.3,4.9,TOR
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",+1.51,2.81,hansbty01,2014-15,TOR,13.3,3.4,.156,-0.5,0.4,,NBA,3326235,29,74,14.3,.521,.698,3.6,0.3,0.4,0.2,3.6,TOR
+Tyler Hansbrough,/players/h/hansbty01.html,2010,2016,University of North Carolina,false,"Poplar Bluff in Poplar Bluff, Missouri",-1.26,0.24,hansbty01,2015-16,CHO,12.5,1.0,.134,-2.7,-0.1,,NBA,1185784,30,44,7.8,.451,.585,2.0,0.2,0.3,0.2,2.4,CHO

@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fazekni01,2007-08,22,Dallas Mavericks,NBA,26,10.3,.561,.682,3.4,0.4,0.3,0.4,4.1,19.6,0.8,.148,-0.1,0.1,,427163,"Ralston Valley in Arvada, Colorado"
-fazekni01,2007-08,22,Dallas Mavericks,NBA,4,2.3,.400,,0.8,0.0,0.0,0.0,1.0,13.8,0.0,.021,-17.5,0.0,,427163,"Ralston Valley in Arvada, Colorado"
-fazekni01,2007-08,22,Dallas Mavericks,NBA,22,11.8,.571,.682,3.9,0.5,0.4,0.5,4.7,19.8,0.8,.153,0.5,0.2,,427163,"Ralston Valley in Arvada, Colorado"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nick Fazekas,/players/f/fazekni01.html,2008,2008,"University of Nevada, Reno",false,"Ralston Valley in Arvada, Colorado",-0.03,0.41,fazekni01,2007-08,TOT,19.6,0.8,.148,-0.1,0.1,,NBA,427163,22,26,10.3,.561,.682,3.4,0.4,0.3,0.4,4.1,"DAL,LAC"

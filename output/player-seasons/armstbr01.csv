@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-armstbr01,2001-02,21,New Jersey Nets,NBA,35,5.6,.318,.500,0.5,0.2,0.2,0.0,1.8,3.8,-0.2,-0.054,-8.7,-0.3,,865800,"Vallejo in Vallejo, California"
-armstbr01,2002-03,22,New Jersey Nets,NBA,17,4.1,.333,.833,0.2,0.1,0.2,0.1,1.4,3.9,-0.1,-0.050,-9.5,-0.1,,930720,"Vallejo in Vallejo, California"
-armstbr01,2003-04,23,New Jersey Nets,NBA,56,7.8,.371,.500,0.8,0.3,0.2,0.0,2.7,5.5,-0.3,-0.030,-8.4,-0.7,,995650,"Vallejo in Vallejo, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brandon Armstrong,/players/a/armstbr01.html,2002,2004,Pepperdine University,false,"Vallejo in Vallejo, California",-1.59,0.08,armstbr01,2001-02,NJN,3.8,-0.2,-0.054,-8.7,-0.3,,NBA,865800,21,35,5.6,.318,.500,0.5,0.2,0.2,0.0,1.8,NJN
+Brandon Armstrong,/players/a/armstbr01.html,2002,2004,Pepperdine University,false,"Vallejo in Vallejo, California",-0.64,0.07,armstbr01,2002-03,NJN,3.9,-0.1,-0.050,-9.5,-0.1,,NBA,930720,22,17,4.1,.333,.833,0.2,0.1,0.2,0.1,1.4,NJN
+Brandon Armstrong,/players/a/armstbr01.html,2002,2004,Pepperdine University,false,"Vallejo in Vallejo, California",-5.86,-1.13,armstbr01,2003-04,NJN,5.5,-0.3,-0.030,-8.4,-0.7,,NBA,995650,23,56,7.8,.371,.500,0.8,0.3,0.2,0.0,2.7,NJN

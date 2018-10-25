@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bunchgr01,1978-79,22,NYK,NBA,12,8.1,.346,.833,1.4,0.3,0.3,0.3,2.3,9.2,0.1,.046,-4.0,0.0,,"Pacific in San Bernadino, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Bunch,/players/b/bunchgr01.html,1979,1979,"California State University, Fullerton",false,"Pacific in San Bernadino, California",+0.42,0.18,bunchgr01,1978-79,NYK,9.2,0.1,.046,-4.0,0.0,,22,NBA,12,8.1,.346,.833,1.4,0.3,0.3,0.3,2.3,NYK

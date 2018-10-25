@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hansebo01,1983-84,23,UTA,NBA,55,7.6,.448,.643,0.9,0.8,0.3,0.1,2.7,7.6,-0.1,-0.008,-5.8,-0.4,,"Dowling in West Des Moines, Iowa",
-hansebo01,1984-85,24,Utah Jazz,NBA,54,12.0,.489,.556,1.3,1.4,0.5,0.0,4.8,10.0,0.7,.049,-3.3,-0.2,,"Dowling in West Des Moines, Iowa",65000
-hansebo01,1985-86,25,Utah Jazz,NBA,82,24.8,.476,.720,3.0,2.4,0.9,0.1,8.7,10.1,2.5,.058,-1.4,0.3,,"Dowling in West Des Moines, Iowa",80000
-hansebo01,1986-87,26,UTA,NBA,72,20.2,.453,.760,2.8,1.4,0.6,0.1,9.7,12.4,2.6,.085,-1.3,0.2,,"Dowling in West Des Moines, Iowa",
-hansebo01,1987-88,27,Utah Jazz,NBA,81,22.2,.517,.743,2.3,2.2,0.8,0.1,9.6,12.9,4.4,.118,0.9,1.3,,"Dowling in West Des Moines, Iowa",200000
-hansebo01,1988-89,28,Utah Jazz,NBA,46,21.0,.467,.560,2.8,1.1,0.8,0.1,7.4,9.7,1.7,.083,-0.9,0.3,,"Dowling in West Des Moines, Iowa",475000
-hansebo01,1989-90,29,UTA,NBA,81,26.8,.467,.516,2.8,1.8,0.6,0.1,7.6,8.5,2.8,.062,0.0,1.1,,"Dowling in West Des Moines, Iowa",
-hansebo01,1990-91,30,Sacramento Kings,NBA,36,22.5,.375,.500,2.7,2.5,0.6,0.1,6.4,8.1,-0.1,-0.004,-4.2,-0.4,,"Dowling in West Des Moines, Iowa",550000
-hansebo01,1991-92,31,Chicago Bulls,NBA,68,11.9,.444,.364,1.1,1.0,0.4,0.0,2.5,5.7,0.9,.053,-3.3,-0.3,,"Dowling in West Des Moines, Iowa",600000
-hansebo01,1991-92,31,Chicago Bulls,NBA,2,20.0,.444,,2.0,0.5,0.5,0.0,4.0,5.3,0.0,.033,-5.5,0.0,,"Dowling in West Des Moines, Iowa",600000
-hansebo01,1991-92,31,Chicago Bulls,NBA,66,11.7,.444,.364,1.1,1.0,0.4,0.0,2.5,5.8,0.9,.054,-3.2,-0.2,,"Dowling in West Des Moines, Iowa",600000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-3.40,-0.32,hansebo01,1983-84,UTA,7.6,-0.1,-0.008,-5.8,-0.4,,23,NBA,55,7.6,.448,.643,0.9,0.8,0.3,0.1,2.7,UTA,
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-2.24,-0.02,hansebo01,1984-85,UTA,10.0,0.7,.049,-3.3,-0.2,,24,NBA,54,12.0,.489,.556,1.3,1.4,0.5,0.0,4.8,UTA,65000
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-1.78,0.67,hansebo01,1985-86,UTA,10.1,2.5,.058,-1.4,0.3,,25,NBA,82,24.8,.476,.720,3.0,2.4,0.9,0.1,8.7,UTA,80000
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-1.54,0.75,hansebo01,1986-87,UTA,12.4,2.6,.085,-1.3,0.2,,26,NBA,72,20.2,.453,.760,2.8,1.4,0.6,0.1,9.7,UTA,
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-1.07,1.76,hansebo01,1987-88,UTA,12.9,4.4,.118,0.9,1.3,,27,NBA,81,22.2,.517,.743,2.3,2.2,0.8,0.1,9.6,UTA,200000
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-2.05,0.11,hansebo01,1988-89,UTA,9.7,1.7,.083,-0.9,0.3,,28,NBA,46,21.0,.467,.560,2.8,1.1,0.8,0.1,7.4,UTA,475000
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-1.75,0.84,hansebo01,1989-90,UTA,8.5,2.8,.062,0.0,1.1,,29,NBA,81,26.8,.467,.516,2.8,1.8,0.6,0.1,7.6,UTA,
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-3.25,-0.55,hansebo01,1990-91,SAC,8.1,-0.1,-0.004,-4.2,-0.4,,30,NBA,36,22.5,.375,.500,2.7,2.5,0.6,0.1,6.4,SAC,550000
+Bob Hansen,/players/h/hansebo01.html,1984,1992,University of Iowa,false,"Dowling in West Des Moines, Iowa",-3.10,-0.47,hansebo01,1991-92,TOT,5.7,0.9,.053,-3.3,-0.3,,31,NBA,68,11.9,.444,.364,1.1,1.0,0.4,0.0,2.5,"SAC,CHI",600000

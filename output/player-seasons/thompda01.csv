@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-thompda01,1976-77,22,DEN,NBA,82,36.6,.507,.766,4.1,4.1,1.4,0.6,25.9,19.8,10.7,.172,2.9,3.7,All-NBA (1st),"Crest in Shelby, North Carolina"
-thompda01,1977-78,23,DEN,NBA,80,37.8,.521,.778,4.9,4.5,1.2,1.2,27.2,23.2,12.7,.202,3.6,4.3,All-NBA (1st),"Crest in Shelby, North Carolina"
-thompda01,1978-79,24,DEN,NBA,76,35.1,.512,.753,3.6,3.0,0.9,1.1,24.0,19.9,9.5,.171,1.3,2.2,,"Crest in Shelby, North Carolina"
-thompda01,1979-80,25,DEN,NBA,39,31.8,.468,.758,4.5,3.2,1.0,1.0,21.5,19.0,3.0,.116,-0.2,0.6,,"Crest in Shelby, North Carolina"
-thompda01,1980-81,26,DEN,NBA,77,34.0,.506,.795,3.7,3.0,0.7,0.8,25.5,19.4,6.4,.117,0.0,1.3,,"Crest in Shelby, North Carolina"
-thompda01,1981-82,27,DEN,NBA,61,20.4,.486,.814,2.4,1.9,0.6,0.5,14.9,17.6,2.0,.079,-3.3,-0.4,,"Crest in Shelby, North Carolina"
-thompda01,1982-83,28,SEA,NBA,75,28.7,.481,.784,3.6,3.0,0.6,0.4,15.9,16.1,5.4,.120,-0.2,1.0,,"Crest in Shelby, North Carolina"
-thompda01,1983-84,29,SEA,NBA,19,18.4,.539,.849,2.3,0.7,0.5,0.7,12.6,20.0,1.0,.144,-1.5,0.0,,"Crest in Shelby, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",+1.94,9.56,thompda01,1976-77,DEN,19.8,10.7,.172,2.9,3.7,All-NBA (1st),22,NBA,82,36.6,.507,.766,4.1,4.1,1.4,0.6,25.9,DEN
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",+2.72,12.03,thompda01,1977-78,DEN,23.2,12.7,.202,3.6,4.3,All-NBA (1st),23,NBA,80,37.8,.521,.778,4.9,4.5,1.2,1.2,27.2,DEN
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",+1.68,7.54,thompda01,1978-79,DEN,19.9,9.5,.171,1.3,2.2,,24,NBA,76,35.1,.512,.753,3.6,3.0,0.9,1.1,24.0,DEN
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",+0.02,1.93,thompda01,1979-80,DEN,19.0,3.0,.116,-0.2,0.6,,25,NBA,39,31.8,.468,.758,4.5,3.2,1.0,1.0,21.5,DEN
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",+0.05,4.12,thompda01,1980-81,DEN,19.4,6.4,.117,0.0,1.3,,26,NBA,77,34.0,.506,.795,3.7,3.0,0.7,0.8,25.5,DEN
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",-2.00,0.35,thompda01,1981-82,DEN,17.6,2.0,.079,-3.3,-0.4,,27,NBA,61,20.4,.486,.814,2.4,1.9,0.6,0.5,14.9,DEN
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",-0.05,3.35,thompda01,1982-83,SEA,16.1,5.4,.120,-0.2,1.0,,28,NBA,75,28.7,.481,.784,3.6,3.0,0.6,0.4,15.9,SEA
+David Thompson,/players/t/thompda01.html,1976,1984,North Carolina State University,false,"Crest in Shelby, North Carolina",-0.12,0.51,thompda01,1983-84,SEA,20.0,1.0,.144,-1.5,0.0,,29,NBA,19,18.4,.539,.849,2.3,0.7,0.5,0.7,12.6,SEA

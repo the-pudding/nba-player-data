@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jacksto02,1980-81,23,LAL,NBA,2,7.0,.333,,1.0,1.0,1.0,0.0,1.0,12.9,0.0,.124,1.2,0.0,,"Bryan Station in Lexington, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Jackson,/players/j/jacksto02.html,1981,1981,Florida State University,false,"Bryan Station in Lexington, Kentucky",+0.31,0.02,jacksto02,1980-81,LAL,12.9,0.0,.124,1.2,0.0,,23,NBA,2,7.0,.333,,1.0,1.0,1.0,0.0,1.0,LAL

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bastoma01,2002-03,27,TOR,NBA,16,6.6,.600,.833,1.4,0.0,0.3,0.7,2.5,18.0,0.3,.153,-5.2,-0.1,,"H. Grady Spruce in Dallas, Texas",
-bastoma01,2003-04,28,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"H. Grady Spruce in Dallas, Texas",
-bastoma01,2004-05,29,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"H. Grady Spruce in Dallas, Texas",
-bastoma01,2005-06,30,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"H. Grady Spruce in Dallas, Texas",
-bastoma01,2006-07,31,Indiana Pacers,NBA,47,8.6,.645,.787,1.6,0.3,0.3,0.4,2.9,13.7,1.1,.127,-0.6,0.1,,"H. Grady Spruce in Dallas, Texas",744551
-bastoma01,2007-08,32,Toronto Raptors,NBA,15,6.9,.680,.700,1.7,0.2,0.1,0.3,2.7,17.6,0.4,.201,0.8,0.1,,"H. Grady Spruce in Dallas, Texas",1830000
-bastoma01,2008-09,33,Indiana Pacers,NBA,27,8.0,.543,.630,1.9,0.3,0.2,0.4,2.5,12.3,0.5,.105,-1.7,0.0,,"H. Grady Spruce in Dallas, Texas",2272860
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",-0.40,0.13,bastoma01,2002-03,TOR,18.0,0.3,.153,-5.2,-0.1,,27,NBA,16,6.6,.600,.833,1.4,0.0,0.3,0.7,2.5,TOR,
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",,,bastoma01,2003-04,Did Not Play (other pro league—Israel),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",,,bastoma01,2004-05,Did Not Play (other pro league—Israel),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",,,bastoma01,2005-06,Did Not Play (other pro league—Israel),,,,,,,30,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",-1.11,0.32,bastoma01,2006-07,IND,13.7,1.1,.127,-0.6,0.1,,31,NBA,47,8.6,.645,.787,1.6,0.3,0.3,0.4,2.9,IND,744551
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",-0.25,0.14,bastoma01,2007-08,TOR,17.6,0.4,.201,0.8,0.1,,32,NBA,15,6.9,.680,.700,1.7,0.2,0.1,0.3,2.7,TOR,1830000
+Maceo Baston,/players/b/bastoma01.html,2003,2009,University of Michigan,false,"H. Grady Spruce in Dallas, Texas",-0.75,0.22,bastoma01,2008-09,IND,12.3,0.5,.105,-1.7,0.0,,33,NBA,27,8.0,.543,.630,1.9,0.3,0.2,0.4,2.5,IND,2272860

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-seungha01,2004-05,19,POR,NBA,19,5.5,.435,.545,0.9,0.1,0.1,0.3,1.4,2.5,-0.2,-0.094,-9.9,-0.2,,"Samil Commercial in Suwon, Republic of Korea",
-seungha01,2005-06,20,Portland Trail Blazers,NBA,27,7.9,.581,.471,1.8,0.0,0.1,0.3,1.6,6.9,0.0,.003,-7.5,-0.3,,"Samil Commercial in Suwon, Republic of Korea",641748
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ha Seung-Jin,/players/s/seungha01.html,2005,2006,,false,"Samil Commercial in Suwon, Republic of Korea",-0.45,0.12,seungha01,2004-05,POR,2.5,-0.2,-0.094,-9.9,-0.2,,19,NBA,19,5.5,.435,.545,0.9,0.1,0.1,0.3,1.4,POR,
+Ha Seung-Jin,/players/s/seungha01.html,2005,2006,,false,"Samil Commercial in Suwon, Republic of Korea",-1.66,0.09,seungha01,2005-06,POR,6.9,0.0,.003,-7.5,-0.3,,20,NBA,27,7.9,.581,.471,1.8,0.0,0.1,0.3,1.6,POR,641748

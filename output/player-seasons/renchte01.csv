@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-renchte01,1995-96,22,Miami Heat,NBA,36,11.3,.330,.674,1.2,1.5,0.4,0.1,2.9,6.5,-0.2,-0.021,-5.5,-0.4,,200000,"St. Raymond in Bronx, New York"
-renchte01,1995-96,22,Miami Heat,NBA,34,11.7,.323,.698,1.2,1.6,0.5,0.0,3.0,6.5,-0.1,-0.016,-5.3,-0.3,,200000,"St. Raymond in Bronx, New York"
-renchte01,1995-96,22,Miami Heat,NBA,2,4.0,1.000,.333,1.0,0.0,0.0,0.5,1.5,4.4,0.0,-0.225,-16.4,0.0,,200000,"St. Raymond in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Terrence Rencher,/players/r/renchte01.html,1996,1996,University of Texas at Austin,false,"St. Raymond in Bronx, New York",-2.26,0.00,renchte01,1995-96,TOT,6.5,-0.2,-0.021,-5.5,-0.4,,NBA,200000,22,36,11.3,.330,.674,1.2,1.5,0.4,0.1,2.9,"MIA,PHO"

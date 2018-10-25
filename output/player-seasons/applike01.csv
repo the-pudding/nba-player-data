@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-applike01,2015-16,23,Orlando Magic,NBA,5,5.4,.250,1.000,0.2,0.2,0.2,0.0,1.2,-4.8,-0.1,-0.199,-13.0,-0.1,,161776,"Pershing in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Appling,/players/a/applike01.html,2016,2016,Michigan State University,false,"Pershing in Detroit, Michigan",-0.15,0.04,applike01,2015-16,ORL,-4.8,-0.1,-0.199,-13.0,-0.1,,NBA,161776,23,5,5.4,.250,1.000,0.2,0.2,0.2,0.0,1.2,ORL

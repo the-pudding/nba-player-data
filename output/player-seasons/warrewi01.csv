@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-warrewi01,2010-11,21,Los Angeles Clippers,NBA,19,7.1,.371,.750,0.6,1.4,0.3,0.0,1.9,10.8,0.2,.065,-4.5,-0.1,,500000,"North Crowley in Fort Worth, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Willie Warren,/players/w/warrewi01.html,2011,2011,University of Oklahoma,false,"North Crowley in Fort Worth, Texas",+0.33,0.24,warrewi01,2010-11,LAC,10.8,0.2,.065,-4.5,-0.1,,NBA,500000,21,19,7.1,.371,.750,0.6,1.4,0.3,0.0,1.9,LAC

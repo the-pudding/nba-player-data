@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-burnsda01,1981-82,23,"NJN,DEN",NBA,9,9.7,.438,.600,0.6,1.7,0.3,0.0,2.6,3.6,-0.1,-0.071,-9.4,-0.2,,"South Oak Cliff in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Burns,/players/b/burnsda01.html,1982,1982,Saint Louis University,false,"South Oak Cliff in Dallas, Texas",-0.61,0.10,burnsda01,1981-82,TOT,3.6,-0.1,-0.071,-9.4,-0.2,,23,NBA,9,9.7,.438,.600,0.6,1.7,0.3,0.0,2.6,"NJN,DEN"

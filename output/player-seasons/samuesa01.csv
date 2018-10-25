@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-samuesa01,2010-11,22,Cleveland Cavaliers,NBA,37,18.9,.456,.618,4.3,0.5,0.4,0.5,7.8,11.7,0.0,.002,-5.9,-0.7,,500000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-samuesa01,2011-12,23,Cleveland Cavaliers,NBA,54,15.3,.455,.701,3.3,0.4,0.4,0.4,5.4,11.1,0.7,.039,-5.4,-0.7,,762195,"Saint Benedict's Preparatory School in Newark, New Jersey"
-samuesa01,2012-13,24,Cleveland Cavaliers,NBA,18,10.9,.367,.583,1.6,0.4,0.2,0.2,3.2,6.2,-0.1,-0.016,-7.7,-0.3,,341756,"Saint Benedict's Preparatory School in Newark, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Samardo Samuels,/players/s/samuesa01.html,2011,2013,University of Louisville,false,"Saint Benedict's Preparatory School in Newark, New Jersey",-2.52,-0.13,samuesa01,2010-11,CLE,11.7,0.0,.002,-5.9,-0.7,,NBA,500000,22,37,18.9,.456,.618,4.3,0.5,0.4,0.5,7.8,CLE
+Samardo Samuels,/players/s/samuesa01.html,2011,2013,University of Louisville,false,"Saint Benedict's Preparatory School in Newark, New Jersey",-1.69,0.24,samuesa01,2011-12,CLE,11.1,0.7,.039,-5.4,-0.7,,NBA,762195,23,54,15.3,.455,.701,3.3,0.4,0.4,0.4,5.4,CLE
+Samardo Samuels,/players/s/samuesa01.html,2011,2013,University of Louisville,false,"Saint Benedict's Preparatory School in Newark, New Jersey",-0.78,0.19,samuesa01,2012-13,CLE,6.2,-0.1,-0.016,-7.7,-0.3,,NBA,341756,24,18,10.9,.367,.583,1.6,0.4,0.2,0.2,3.2,CLE

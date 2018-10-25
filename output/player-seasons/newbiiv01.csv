@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-newbiiv01,1994-95,24,Detroit Pistons,NBA,34,9.7,.356,.364,2.4,0.5,0.4,0.3,1.2,7.3,0.1,.022,-2.5,0.0,,150000,"Southwest in Macon, Georgia"
-newbiiv01,1995-96,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Southwest in Macon, Georgia"
-newbiiv01,1996-97,26,Atlanta Hawks,NBA,72,11.8,.440,.385,2.8,0.3,0.4,0.2,1.4,6.7,1.1,.060,-2.6,-0.1,,247500,"Southwest in Macon, Georgia"
-newbiiv01,1997-98,27,Vancouver Grizzlies,NBA,28,8.9,.351,.567,2.5,0.3,0.4,0.1,2.1,7.6,-0.1,-0.022,-6.5,-0.3,,272250,"Southwest in Macon, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ivano Newbill,/players/n/newbiiv01.html,1995,1998,Georgia Institute of Technology,false,"Southwest in Macon, Georgia",-2.61,-0.07,newbiiv01,1994-95,DET,7.3,0.1,.022,-2.5,0.0,,NBA,150000,24,34,9.7,.356,.364,2.4,0.5,0.4,0.3,1.2,DET
+Ivano Newbill,/players/n/newbiiv01.html,1995,1998,Georgia Institute of Technology,false,"Southwest in Macon, Georgia",,,newbiiv01,1995-96,Did Not Play (other pro league—CBA),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—CBA)
+Ivano Newbill,/players/n/newbiiv01.html,1995,1998,Georgia Institute of Technology,false,"Southwest in Macon, Georgia",-2.55,-0.21,newbiiv01,1996-97,ATL,6.7,1.1,.060,-2.6,-0.1,,NBA,247500,26,72,11.8,.440,.385,2.8,0.3,0.4,0.2,1.4,ATL
+Ivano Newbill,/players/n/newbiiv01.html,1995,1998,Georgia Institute of Technology,false,"Southwest in Macon, Georgia",-2.00,0.04,newbiiv01,1997-98,VAN,7.6,-0.1,-0.022,-6.5,-0.3,,NBA,272250,27,28,8.9,.351,.567,2.5,0.3,0.4,0.1,2.1,VAN

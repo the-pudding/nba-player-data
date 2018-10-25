@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fultzma01,2017-18,19,Philadelphia 76ers,NBA,14,18.1,.405,.476,3.1,3.8,0.9,0.3,7.1,12.4,0.2,.043,-3.0,-0.1,,7026240,"DeMatha Catholic in Hyattsville, Maryland"
-fultzma01,2018-19,20,PHI,NBA,5,25.4,.396,.500,3.4,3.8,1.2,0.2,8.6,8.7,0.0,-0.011,-5.4,-0.1,,,"DeMatha Catholic in Hyattsville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Markelle Fultz,/players/f/fultzma01.html,2018,2019,University of Washington,true,"DeMatha Catholic in Hyattsville, Maryland",-1.23,0.19,fultzma01,2017-18,PHI,12.4,0.2,.043,-3.0,-0.1,,NBA,7026240,19,14,18.1,.405,.476,3.1,3.8,0.9,0.3,7.1,PHI
+Markelle Fultz,/players/f/fultzma01.html,2018,2019,University of Washington,true,"DeMatha Catholic in Hyattsville, Maryland",,,fultzma01,2018-19,PHI,8.7,0.0,-0.011,-5.4,-0.1,,NBA,,20,5,25.4,.396,.500,3.4,3.8,1.2,0.2,8.6,PHI

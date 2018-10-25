@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-outlatr01,2003-04,19,Portland Trail Blazers,NBA,8,2.4,.429,.500,0.5,0.1,0.1,0.0,1.0,16.4,0.0,.067,-4.2,0.0,,941040,"Starkville in Starkville, Mississippi"
-outlatr01,2004-05,20,Portland Trail Blazers,NBA,59,13.4,.498,.653,2.1,0.6,0.5,0.7,5.4,15.4,1.4,.085,-1.9,0.0,,1011600,"Starkville in Starkville, Mississippi"
-outlatr01,2005-06,21,Portland Trail Blazers,NBA,69,16.7,.440,.697,2.7,0.5,0.4,0.7,5.8,12.9,0.9,.039,-3.5,-0.4,,1082160,"Starkville in Starkville, Mississippi"
-outlatr01,2006-07,22,Portland Trail Blazers,NBA,67,22.9,.434,.790,3.2,0.8,0.9,1.1,9.6,15.3,2.3,.072,-1.2,0.3,,1836426,"Starkville in Starkville, Mississippi"
-outlatr01,2007-08,23,Portland Trail Blazers,NBA,82,26.7,.433,.741,4.6,1.3,0.7,0.8,13.3,15.7,3.2,.071,-1.8,0.1,,4000000,"Starkville in Starkville, Mississippi"
-outlatr01,2008-09,24,Portland Trail Blazers,NBA,81,27.7,.453,.723,4.1,1.0,0.6,0.7,12.8,15.1,5.3,.113,-0.4,0.9,,4000000,"Starkville in Starkville, Mississippi"
-outlatr01,2009-10,25,Los Angeles Clippers,NBA,34,21.5,.391,.831,3.6,1.0,0.5,0.5,9.1,13.3,0.9,.062,-2.5,-0.1,,4000000,"Starkville in Starkville, Mississippi"
-outlatr01,2009-10,25,Los Angeles Clippers,NBA,11,21.0,.376,.875,3.5,0.7,0.6,0.7,9.9,14.8,0.3,.071,-2.5,0.0,,4000000,"Starkville in Starkville, Mississippi"
-outlatr01,2009-10,25,Los Angeles Clippers,NBA,23,21.7,.400,.800,3.6,1.1,0.5,0.4,8.7,12.6,0.6,.058,-2.6,-0.1,,4000000,"Starkville in Starkville, Mississippi"
-outlatr01,2010-11,26,New Jersey Nets,NBA,82,28.8,.375,.772,4.0,1.0,0.4,0.4,9.2,8.8,0.8,.016,-3.6,-0.9,,7000000,"Starkville in Starkville, Mississippi"
-outlatr01,2011-12,27,New Jersey Nets,NBA,39,12.8,.343,.674,1.6,0.4,0.5,0.5,4.3,9.6,-0.1,-0.008,-4.7,-0.3,,4000000,"Starkville in Starkville, Mississippi"
-outlatr01,2012-13,28,Sacramento Kings,NBA,38,11.7,.418,.731,1.6,0.6,0.3,0.2,5.3,13.0,0.3,.037,-4.7,-0.3,,3000000,"Starkville in Starkville, Mississippi"
-outlatr01,2013-14,29,Sacramento Kings,NBA,63,16.9,.399,.808,2.7,0.8,0.3,0.3,5.4,10.4,1.4,.062,-2.5,-0.1,,3000000,"Starkville in Starkville, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",+0.06,0.03,outlatr01,2003-04,POR,16.4,0.0,.067,-4.2,0.0,,NBA,941040,19,8,2.4,.429,.500,0.5,0.1,0.1,0.0,1.0,POR
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-1.59,0.37,outlatr01,2004-05,POR,15.4,1.4,.085,-1.9,0.0,,NBA,1011600,20,59,13.4,.498,.653,2.1,0.6,0.5,0.7,5.4,POR
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-2.95,-0.55,outlatr01,2005-06,POR,12.9,0.9,.039,-3.5,-0.4,,NBA,1082160,21,69,16.7,.440,.697,2.7,0.5,0.4,0.7,5.8,POR
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-0.73,1.61,outlatr01,2006-07,POR,15.3,2.3,.072,-1.2,0.3,,NBA,1836426,22,67,22.9,.434,.790,3.2,0.8,0.9,1.1,9.6,POR
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-2.04,0.42,outlatr01,2007-08,POR,15.7,3.2,.071,-1.8,0.1,,NBA,4000000,23,82,26.7,.433,.741,4.6,1.3,0.7,0.8,13.3,POR
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-1.82,0.82,outlatr01,2008-09,POR,15.1,5.3,.113,-0.4,0.9,,NBA,4000000,24,81,27.7,.453,.723,4.1,1.0,0.6,0.7,12.8,POR
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-1.14,0.55,outlatr01,2009-10,TOT,13.3,0.9,.062,-2.5,-0.1,,NBA,4000000,25,34,21.5,.391,.831,3.6,1.0,0.5,0.5,9.1,"POR,LAC"
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-3.27,-1.50,outlatr01,2010-11,NJN,8.8,0.8,.016,-3.6,-0.9,,NBA,7000000,26,82,28.8,.375,.772,4.0,1.0,0.4,0.4,9.2,NJN
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-1.60,0.24,outlatr01,2011-12,SAC,9.6,-0.1,-0.008,-4.7,-0.3,,NBA,4000000,27,39,12.8,.343,.674,1.6,0.4,0.5,0.5,4.3,SAC
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-2.20,0.04,outlatr01,2012-13,SAC,13.0,0.3,.037,-4.7,-0.3,,NBA,3000000,28,38,11.7,.418,.731,1.6,0.6,0.3,0.2,5.3,SAC
+Travis Outlaw,/players/o/outlatr01.html,2004,2014,,false,"Starkville in Starkville, Mississippi",-2.11,0.10,outlatr01,2013-14,SAC,10.4,1.4,.062,-2.5,-0.1,,NBA,3000000,29,63,16.9,.399,.808,2.7,0.8,0.3,0.3,5.4,SAC

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-reineja01,2004-05,22,Chicago Bulls,NBA,19,6.9,.333,.250,2.0,0.1,0.2,0.4,1.1,2.3,0.0,-0.013,-7.3,-0.2,,385277,"Tripp-Delmont in Tripp, South Dakota"
-reineja01,2005-06,23,Phoenix Suns,NBA,,,,,,,,,,,,,,,,242612,"Tripp-Delmont in Tripp, South Dakota"
-reineja01,2006-07,24,Milwaukee Bucks,NBA,27,9.0,.349,.300,2.6,0.5,0.2,0.2,1.2,4.8,-0.1,-0.027,-5.9,-0.2,,396905,"Tripp-Delmont in Tripp, South Dakota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jared Reiner,/players/r/reineja01.html,2005,2007,University of Iowa,false,"Tripp-Delmont in Tripp, South Dakota",-0.13,0.20,reineja01,2004-05,CHI,2.3,0.0,-0.013,-7.3,-0.2,,NBA,385277,22,19,6.9,.333,.250,2.0,0.1,0.2,0.4,1.1,CHI
+Jared Reiner,/players/r/reineja01.html,2005,2007,University of Iowa,false,"Tripp-Delmont in Tripp, South Dakota",,,reineja01,2005-06,Did Not Play (injury—knee),,,,,,,NBA,242612,23,,,,,,,,,,Did Not Play (injury—knee)
+Jared Reiner,/players/r/reineja01.html,2005,2007,University of Iowa,false,"Tripp-Delmont in Tripp, South Dakota",-2.78,-0.06,reineja01,2006-07,MIL,4.8,-0.1,-0.027,-5.9,-0.2,,NBA,396905,24,27,9.0,.349,.300,2.6,0.5,0.2,0.2,1.2,MIL

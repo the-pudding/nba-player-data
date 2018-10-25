@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-moniase01,2005-06,22,Portland Trail Blazers,NBA,26,13.2,.333,.714,2.0,0.7,0.3,0.2,3.0,6.3,-0.2,-0.025,-5.1,-0.3,,1016400,
-moniase01,2005-06,22,Portland Trail Blazers,NBA,23,14.6,.341,.667,2.2,0.8,0.3,0.2,3.3,6.2,-0.2,-0.026,-5.1,-0.3,,1016400,
-moniase01,2005-06,22,Portland Trail Blazers,NBA,3,2.3,.000,1.000,0.3,0.0,0.3,0.0,0.7,12.1,0.0,.062,-6.2,0.0,,1016400,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sergei Monia,/players/m/moniase01.html,2006,2006,,false,,-4.36,-0.47,moniase01,2005-06,TOT,6.3,-0.2,-0.025,-5.1,-0.3,,NBA,1016400,22,26,13.2,.333,.714,2.0,0.7,0.3,0.2,3.0,"POR,SAC"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stewake01,1997-98,24,Philadelphia 76ers,NBA,15,7.3,.462,.640,2.1,0.1,0.3,0.1,2.7,14.0,0.2,.098,-5.5,-0.1,,242000,"Our Savior Lutheran in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kebu Stewart,/players/s/stewake01.html,1998,1998,"University of Nevada, Las Vegas, California State University, Bakersfield",false,"Our Savior Lutheran in Bronx, New York",+0.07,0.18,stewake01,1997-98,PHI,14.0,0.2,.098,-5.5,-0.1,,NBA,242000,24,15,7.3,.462,.640,2.1,0.1,0.3,0.1,2.7,PHI

@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hawkihe01,1988-89,22,Philadelphia 76ers,NBA,79,32.6,.455,.831,2.8,3.0,1.5,0.5,15.1,14.2,4.0,.075,0.3,1.5,,650000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1989-90,23,PHI,NBA,82,34.8,.460,.888,3.7,3.2,1.6,0.3,18.5,17.0,8.0,.135,2.0,2.9,,,"Westinghouse in Chicago, Illinois"
-hawkihe01,1990-91,24,Philadelphia 76ers,NBA,80,38.9,.472,.871,3.9,3.7,2.2,0.5,22.1,19.4,9.8,.151,3.5,4.3,,1000000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1991-92,25,Philadelphia 76ers,NBA,81,37.2,.462,.874,3.3,3.1,1.9,0.5,19.0,17.0,7.8,.124,1.9,3.0,,805000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1992-93,26,Philadelphia 76ers,NBA,81,36.8,.470,.860,4.3,3.9,1.7,0.4,20.3,18.3,8.5,.138,2.8,3.6,,2400000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1993-94,27,Charlotte Hornets,NBA,82,32.3,.460,.862,4.6,2.6,1.6,0.3,14.4,15.6,6.5,.118,2.1,2.7,,2400000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1994-95,28,Charlotte Hornets,NBA,82,33.3,.482,.867,3.8,3.2,1.5,0.2,14.3,16.3,8.7,.153,3.4,3.7,,2500000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1995-96,29,Seattle SuperSonics,NBA,82,34.4,.473,.874,3.6,2.7,1.8,0.2,15.6,16.1,9.5,.161,3.1,3.6,,2500000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1996-97,30,Seattle SuperSonics,NBA,82,33.6,.464,.875,3.9,3.0,1.9,0.1,13.9,17.6,10.9,.190,4.5,4.5,,2604000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1997-98,31,Seattle SuperSonics,NBA,82,31.7,.440,.868,4.1,2.7,1.8,0.2,10.5,15.4,8.6,.158,3.6,3.7,,3124100,"Westinghouse in Chicago, Illinois"
-hawkihe01,1998-99,32,Seattle SuperSonics,NBA,50,32.9,.419,.902,4.0,2.5,1.6,0.4,10.3,14.0,3.5,.102,1.4,1.4,,3644000,"Westinghouse in Chicago, Illinois"
-hawkihe01,1999-00,33,Chicago Bulls,NBA,61,26.6,.424,.899,2.9,2.2,1.2,0.2,7.9,11.4,2.6,.077,-1.1,0.4,,4164100,"Westinghouse in Chicago, Illinois"
-hawkihe01,2000-01,34,Chicago Bulls,NBA,59,11.5,.409,.857,1.4,1.2,0.6,0.2,3.1,14.3,2.3,.165,0.1,0.4,,3560000,"Westinghouse in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",-0.09,3.93,hawkihe01,1988-89,PHI,14.2,4.0,.075,0.3,1.5,,NBA,650000,22,79,32.6,.455,.831,2.8,3.0,1.5,0.5,15.1,PHI
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+1.70,8.67,hawkihe01,1989-90,PHI,17.0,8.0,.135,2.0,2.9,,NBA,,23,82,34.8,.460,.888,3.7,3.2,1.6,0.3,18.5,PHI
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+2.75,11.55,hawkihe01,1990-91,PHI,19.4,9.8,.151,3.5,4.3,,NBA,1000000,24,80,38.9,.472,.871,3.9,3.7,2.2,0.5,22.1,PHI
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+1.07,6.78,hawkihe01,1991-92,PHI,17.0,7.8,.124,1.9,3.0,,NBA,805000,25,81,37.2,.462,.874,3.3,3.1,1.9,0.5,19.0,PHI
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+1.00,6.57,hawkihe01,1992-93,PHI,18.3,8.5,.138,2.8,3.6,,NBA,2400000,26,81,36.8,.470,.860,4.3,3.9,1.7,0.4,20.3,PHI
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+1.02,5.89,hawkihe01,1993-94,CHH,15.6,6.5,.118,2.1,2.7,,NBA,2400000,27,82,32.3,.460,.862,4.6,2.6,1.6,0.3,14.4,CHH
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+1.86,7.98,hawkihe01,1994-95,CHH,16.3,8.7,.153,3.4,3.7,,NBA,2500000,28,82,33.3,.482,.867,3.8,3.2,1.5,0.2,14.3,CHH
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+2.37,11.11,hawkihe01,1995-96,SEA,16.1,9.5,.161,3.1,3.6,,NBA,2500000,29,82,34.4,.473,.874,3.6,2.7,1.8,0.2,15.6,SEA
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+3.20,11.90,hawkihe01,1996-97,SEA,17.6,10.9,.190,4.5,4.5,,NBA,2604000,30,82,33.6,.464,.875,3.9,3.0,1.9,0.1,13.9,SEA
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",+2.69,9.80,hawkihe01,1997-98,SEA,15.4,8.6,.158,3.6,3.7,,NBA,3124100,31,82,31.7,.440,.868,4.1,2.7,1.8,0.2,10.5,SEA
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",-0.07,2.45,hawkihe01,1998-99,SEA,14.0,3.5,.102,1.4,1.4,,NBA,3644000,32,50,32.9,.419,.902,4.0,2.5,1.6,0.4,10.3,SEA
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",-1.63,0.58,hawkihe01,1999-00,CHI,11.4,2.6,.077,-1.1,0.4,,NBA,4164100,33,61,26.6,.424,.899,2.9,2.2,1.2,0.2,7.9,CHI
+Hersey Hawkins,/players/h/hawkihe01.html,1989,2001,Bradley University,false,"Westinghouse in Chicago, Illinois",-0.54,0.83,hawkihe01,2000-01,CHH,14.3,2.3,.165,0.1,0.4,,NBA,3560000,34,59,11.5,.409,.857,1.4,1.2,0.6,0.2,3.1,CHH

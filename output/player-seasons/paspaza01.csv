@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-paspaza01,1989-90,23,SAS,NBA,28,6.5,.342,.818,1.1,0.4,0.1,0.3,2.6,4.3,-0.3,-0.072,-9.2,-0.3,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zarko Paspalj,/players/p/paspaza01.html,1990,1990,,false,,-1.79,0.05,paspaza01,1989-90,SAS,4.3,-0.3,-0.072,-9.2,-0.3,,23,NBA,28,6.5,.342,.818,1.1,0.4,0.1,0.3,2.6,SAS

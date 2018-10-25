@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-evansja02,2018-19,21,GSW,NBA,2,6.0,.667,,1.0,1.5,0.0,0.0,2.0,17.8,0.1,.238,0.3,0.0,,"St. Michael the Archangel in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jacob Evans,/players/e/evansja02.html,2019,2019,University of Cincinnati,true,"St. Michael the Archangel in Baton Rouge, Louisiana",,,evansja02,2018-19,GSW,17.8,0.1,.238,0.3,0.0,,21,NBA,2,6.0,.667,,1.0,1.5,0.0,0.0,2.0,GSW

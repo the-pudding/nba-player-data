@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcrobjo01,2007-08,20,Portland Trail Blazers,NBA,8,3.5,.600,,1.3,0.3,0.1,0.0,1.5,20.3,0.1,.131,-0.3,0.0,,427163,"Carmel in Carmel, Indiana"
-mcrobjo01,2008-09,21,Indiana Pacers,NBA,33,8.5,.422,.769,2.2,0.5,0.4,0.5,2.4,12.5,0.4,.073,-1.1,0.1,,711517,"Carmel in Carmel, Indiana"
-mcrobjo01,2009-10,22,Indiana Pacers,NBA,42,12.5,.521,.500,3.0,1.0,0.4,0.4,4.3,14.8,1.5,.134,0.7,0.4,,825497,"Carmel in Carmel, Indiana"
-mcrobjo01,2010-11,23,Indiana Pacers,NBA,72,22.2,.547,.739,5.3,2.1,0.7,0.8,7.4,16.0,4.9,.147,2.9,2.0,,885120,"Carmel in Carmel, Indiana"
-mcrobjo01,2011-12,24,Los Angeles Lakers,NBA,50,14.4,.475,.639,3.4,1.0,0.3,0.4,2.8,10.9,1.4,.095,-0.2,0.3,,3000000,"Carmel in Carmel, Indiana"
-mcrobjo01,2012-13,25,Charlotte Bobcats,NBA,67,22.2,.455,.765,4.9,2.1,0.5,0.4,6.0,12.7,2.2,.072,-0.8,0.4,,3135000,"Carmel in Carmel, Indiana"
-mcrobjo01,2012-13,25,Charlotte Bobcats,NBA,41,16.7,.392,.733,3.3,1.7,0.2,0.3,3.9,10.2,0.7,.051,-2.0,0.0,,3135000,"Carmel in Carmel, Indiana"
-mcrobjo01,2012-13,25,Charlotte Bobcats,NBA,26,30.8,.505,.782,7.2,2.7,0.8,0.6,9.3,14.8,1.5,.090,0.1,0.4,,3135000,"Carmel in Carmel, Indiana"
-mcrobjo01,2013-14,26,Charlotte Bobcats,NBA,78,30.3,.436,.729,4.8,4.3,0.7,0.6,8.5,13.8,6.5,.132,2.9,2.9,,2652000,"Carmel in Carmel, Indiana"
-mcrobjo01,2014-15,27,Miami Heat,NBA,17,17.4,.528,.615,2.6,1.9,0.7,0.2,4.2,10.2,0.4,.070,-1.1,0.1,,5305000,"Carmel in Carmel, Indiana"
-mcrobjo01,2015-16,28,Miami Heat,NBA,42,14.2,.372,.700,2.5,1.9,0.4,0.2,3.6,9.9,0.8,.064,-1.4,0.1,,5543725,"Carmel in Carmel, Indiana"
-mcrobjo01,2016-17,29,Miami Heat,NBA,22,17.3,.373,.667,3.4,2.3,0.5,0.2,4.9,9.8,0.3,.036,-2.4,0.0,,5782450,"Carmel in Carmel, Indiana"
-mcrobjo01,2017-18,30,Dallas Mavericks,NBA,2,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-12.5,0.0,-0.190,-12.2,0.0,,6021175,"Carmel in Carmel, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",+0.49,0.05,mcrobjo01,2007-08,POR,20.3,0.1,.131,-0.3,0.0,,NBA,427163,20,8,3.5,.600,,1.3,0.3,0.1,0.0,1.5,POR
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",-0.37,0.36,mcrobjo01,2008-09,IND,12.5,0.4,.073,-1.1,0.1,,NBA,711517,21,33,8.5,.422,.769,2.2,0.5,0.4,0.5,2.4,IND
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",+0.25,0.90,mcrobjo01,2009-10,IND,14.8,1.5,.134,0.7,0.4,,NBA,825497,22,42,12.5,.521,.500,3.0,1.0,0.4,0.4,4.3,IND
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",+1.30,4.06,mcrobjo01,2010-11,IND,16.0,4.9,.147,2.9,2.0,,NBA,885120,23,72,22.2,.547,.739,5.3,2.1,0.7,0.8,7.4,IND
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",-2.44,-0.09,mcrobjo01,2011-12,LAL,10.9,1.4,.095,-0.2,0.3,,NBA,3000000,24,50,14.4,.475,.639,3.4,1.0,0.3,0.4,2.8,LAL
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",-1.45,0.79,mcrobjo01,2012-13,TOT,12.7,2.2,.072,-0.8,0.4,,NBA,3135000,25,67,22.2,.455,.765,4.9,2.1,0.5,0.4,6.0,"ORL,CHA"
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",+1.41,6.34,mcrobjo01,2013-14,CHA,13.8,6.5,.132,2.9,2.9,,NBA,2652000,26,78,30.3,.436,.729,4.8,4.3,0.7,0.6,8.5,CHA
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",-0.60,0.33,mcrobjo01,2014-15,MIA,10.2,0.4,.070,-1.1,0.1,,NBA,5305000,27,17,17.4,.528,.615,2.6,1.9,0.7,0.2,4.2,MIA
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",+0.12,1.18,mcrobjo01,2015-16,MIA,9.9,0.8,.064,-1.4,0.1,,NBA,5543725,28,42,14.2,.372,.700,2.5,1.9,0.4,0.2,3.6,MIA
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",-2.70,-0.10,mcrobjo01,2016-17,MIA,9.8,0.3,.036,-2.4,0.0,,NBA,5782450,29,22,17.3,.373,.667,3.4,2.3,0.5,0.2,4.9,MIA
+Josh McRoberts,/players/m/mcrobjo01.html,2008,2018,Duke University,true,"Carmel in Carmel, Indiana",+0.26,0.01,mcrobjo01,2017-18,DAL,-12.5,0.0,-0.190,-12.2,0.0,,NBA,6021175,30,2,3.0,.000,,0.0,0.0,0.0,0.0,0.0,DAL

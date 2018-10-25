@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-westma02,2007-08,23,Atlanta Hawks,NBA,64,4.2,.429,.654,0.8,0.2,0.2,0.1,0.9,8.6,0.5,.082,-1.9,0.0,,427163,"Douglas County in Douglasville, Georgia"
-westma02,2008-09,24,Atlanta Hawks,NBA,53,5.1,.412,.467,1.1,0.4,0.3,0.1,0.8,10.0,0.4,.080,-0.1,0.1,,711517,"Douglas County in Douglasville, Georgia"
-westma02,2009-10,25,Atlanta Hawks,NBA,39,3.6,.571,.600,0.7,0.2,0.2,0.0,0.8,9.9,0.3,.106,-0.8,0.0,,446740,"Douglas County in Douglasville, Georgia"
-westma02,2010-11,26,NJN,NBA,6,19.3,.429,.600,1.8,1.7,1.2,0.0,3.7,9.1,0.2,.069,-1.4,0.0,,,"Douglas County in Douglasville, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mario West,/players/w/westma02.html,2008,2011,Georgia Institute of Technology,false,"Douglas County in Douglasville, Georgia",-1.20,0.21,westma02,2007-08,ATL,8.6,0.5,.082,-1.9,0.0,,NBA,427163,23,64,4.2,.429,.654,0.8,0.2,0.2,0.1,0.9,ATL
+Mario West,/players/w/westma02.html,2008,2011,Georgia Institute of Technology,false,"Douglas County in Douglasville, Georgia",-1.88,0.09,westma02,2008-09,ATL,10.0,0.4,.080,-0.1,0.1,,NBA,711517,24,53,5.1,.412,.467,1.1,0.4,0.3,0.1,0.8,ATL
+Mario West,/players/w/westma02.html,2008,2011,Georgia Institute of Technology,false,"Douglas County in Douglasville, Georgia",-1.58,0.08,westma02,2009-10,ATL,9.9,0.3,.106,-0.8,0.0,,NBA,446740,25,39,3.6,.571,.600,0.7,0.2,0.2,0.0,0.8,ATL
+Mario West,/players/w/westma02.html,2008,2011,Georgia Institute of Technology,false,"Douglas County in Douglasville, Georgia",+0.25,0.20,westma02,2010-11,NJN,9.1,0.2,.069,-1.4,0.0,,NBA,,26,6,19.3,.429,.600,1.8,1.7,1.2,0.0,3.7,NJN

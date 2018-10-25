@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnsjo01,1976-77,29,HOU,NBA,79,22.0,.458,.712,3.4,2.1,0.6,0.3,9.3,13.0,2.3,.064,-1.9,0.1,,"Messmer in Milwaukee, Wisconsin"
-johnsjo01,1977-78,30,"HOU,SEA",NBA,77,23.7,.415,.751,4.0,2.7,0.6,0.2,10.6,11.9,2.1,.055,-2.2,-0.1,,"Messmer in Milwaukee, Wisconsin"
-johnsjo01,1978-79,31,SEA,NBA,82,29.1,.434,.760,5.0,4.4,0.7,0.3,11.0,11.2,2.7,.053,-1.0,0.6,,"Messmer in Milwaukee, Wisconsin"
-johnsjo01,1979-80,32,SEA,NBA,81,31.3,.488,.801,5.3,5.2,0.9,0.4,11.3,13.3,4.9,.093,0.9,1.9,,"Messmer in Milwaukee, Wisconsin"
-johnsjo01,1980-81,33,SEA,NBA,80,29.1,.431,.808,4.5,3.9,0.7,0.3,11.5,11.3,1.2,.025,-1.7,0.2,,"Messmer in Milwaukee, Wisconsin"
-johnsjo01,1981-82,34,SEA,NBA,14,13.4,.489,.750,1.3,2.1,0.3,0.2,4.2,9.8,0.2,.062,-4.5,-0.1,,"Messmer in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Johnson,/players/j/johnsjo01.html,1971,1982,University of Iowa,false,"Messmer in Milwaukee, Wisconsin",-1.76,0.57,johnsjo01,1976-77,HOU,13.0,2.3,.064,-1.9,0.1,,29,NBA,79,22.0,.458,.712,3.4,2.1,0.6,0.3,9.3,HOU
+John Johnson,/players/j/johnsjo01.html,1971,1982,University of Iowa,false,"Messmer in Milwaukee, Wisconsin",-2.73,-1.00,johnsjo01,1977-78,TOT,11.9,2.1,.055,-2.2,-0.1,,30,NBA,77,23.7,.415,.751,4.0,2.7,0.6,0.2,10.6,"HOU,SEA"
+John Johnson,/players/j/johnsjo01.html,1971,1982,University of Iowa,false,"Messmer in Milwaukee, Wisconsin",-1.22,2.01,johnsjo01,1978-79,SEA,11.2,2.7,.053,-1.0,0.6,,31,NBA,82,29.1,.434,.760,5.0,4.4,0.7,0.3,11.0,SEA
+John Johnson,/players/j/johnsjo01.html,1971,1982,University of Iowa,false,"Messmer in Milwaukee, Wisconsin",-0.21,4.21,johnsjo01,1979-80,SEA,13.3,4.9,.093,0.9,1.9,,32,NBA,81,31.3,.488,.801,5.3,5.2,0.9,0.4,11.3,SEA
+John Johnson,/players/j/johnsjo01.html,1971,1982,University of Iowa,false,"Messmer in Milwaukee, Wisconsin",-2.37,-0.23,johnsjo01,1980-81,SEA,11.3,1.2,.025,-1.7,0.2,,33,NBA,80,29.1,.431,.808,4.5,3.9,0.7,0.3,11.5,SEA
+John Johnson,/players/j/johnsjo01.html,1971,1982,University of Iowa,false,"Messmer in Milwaukee, Wisconsin",-1.72,0.12,johnsjo01,1981-82,SEA,9.8,0.2,.062,-4.5,-0.1,,34,NBA,14,13.4,.489,.750,1.3,2.1,0.3,0.2,4.2,SEA

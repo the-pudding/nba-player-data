@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dudlech02,1987-88,22,Cleveland Cavaliers,NBA,55,9.3,.474,.563,2.6,0.4,0.2,0.3,3.1,12.1,1.0,.093,-1.5,0.1,,75000,"Torrey Pines in Encinitas, California"
-dudlech02,1988-89,23,Cleveland Cavaliers,NBA,61,8.9,.435,.364,2.6,0.3,0.1,0.4,3.0,8.7,0.1,.011,-5.6,-0.5,,225000,"Torrey Pines in Encinitas, California"
-dudlech02,1989-90,24,"CLE,NJN",NBA,64,21.2,.411,.319,6.6,0.6,0.6,1.1,5.5,9.5,0.2,.005,-4.0,-0.7,,,"Torrey Pines in Encinitas, California"
-dudlech02,1990-91,25,New Jersey Nets,NBA,61,25.6,.408,.534,8.4,0.6,0.6,2.5,7.1,12.6,2.2,.068,-1.3,0.3,,950000,"Torrey Pines in Encinitas, California"
-dudlech02,1991-92,26,New Jersey Nets,NBA,82,23.2,.403,.468,9.0,0.7,0.5,2.2,5.6,13.2,3.4,.085,-0.8,0.6,,1000000,"Torrey Pines in Encinitas, California"
-dudlech02,1992-93,27,New Jersey Nets,NBA,71,19.7,.353,.518,7.2,0.2,0.2,1.5,3.5,9.9,2.2,.074,-3.2,-0.4,,1200000,"Torrey Pines in Encinitas, California"
-dudlech02,1993-94,28,Portland Trail Blazers,NBA,6,14.3,.240,.500,4.0,0.8,0.7,0.5,2.3,6.8,0.0,.022,-1.5,0.0,,790000,"Torrey Pines in Encinitas, California"
-dudlech02,1994-95,29,Portland Trail Blazers,NBA,82,27.4,.406,.464,9.3,0.4,0.5,1.5,5.5,10.9,4.1,.087,-1.2,0.5,,3500000,"Torrey Pines in Encinitas, California"
-dudlech02,1995-96,30,Portland Trail Blazers,NBA,80,24.1,.453,.510,9.0,0.5,0.5,1.3,5.1,12.2,4.7,.117,-1.0,0.5,,3800000,"Torrey Pines in Encinitas, California"
-dudlech02,1996-97,31,Portland Trail Blazers,NBA,81,22.7,.430,.474,7.3,0.5,0.5,1.2,3.9,10.1,3.5,.091,-1.0,0.5,,4100000,"Torrey Pines in Encinitas, California"
-dudlech02,1997-98,32,New York Knicks,NBA,51,16.8,.406,.446,5.4,0.4,0.3,1.0,3.1,9.5,1.5,.084,-1.6,0.1,,1135000,"Torrey Pines in Encinitas, California"
-dudlech02,1998-99,33,NYK,NBA,46,14.9,.440,.475,4.2,0.2,0.3,0.8,2.5,9.6,1.5,.108,-1.5,0.1,,,"Torrey Pines in Encinitas, California"
-dudlech02,1999-00,34,New York Knicks,NBA,47,9.8,.343,.333,2.9,0.1,0.1,0.4,1.2,6.1,0.5,.056,-3.3,-0.1,,7100000,"Torrey Pines in Encinitas, California"
-dudlech02,2000-01,35,Phoenix Suns,NBA,53,11.6,.397,.389,3.5,0.3,0.3,0.5,1.4,7.2,1.0,.079,-2.2,0.0,,6200000,"Torrey Pines in Encinitas, California"
-dudlech02,2001-02,36,New Jersey Nets,NBA,43,7.6,.400,.533,1.9,0.3,0.1,0.3,1.1,7.1,0.3,.042,-3.7,-0.1,,6200000,"Torrey Pines in Encinitas, California"
-dudlech02,2002-03,37,Portland Trail Blazers,NBA,3,3.7,.000,,0.7,0.0,0.0,0.0,0.0,-1.7,0.0,.000,-6.9,0.0,,1030000,"Torrey Pines in Encinitas, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-1.52,0.27,dudlech02,1987-88,CLE,12.1,1.0,.093,-1.5,0.1,,NBA,75000,22,55,9.3,.474,.563,2.6,0.4,0.2,0.3,3.1,CLE
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-2.77,-0.20,dudlech02,1988-89,CLE,8.7,0.1,.011,-5.6,-0.5,,NBA,225000,23,61,8.9,.435,.364,2.6,0.3,0.1,0.4,3.0,CLE
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-2.49,-0.26,dudlech02,1989-90,TOT,9.5,0.2,.005,-4.0,-0.7,,NBA,,24,64,21.2,.411,.319,6.6,0.6,0.6,1.1,5.5,"CLE,NJN"
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.84,1.49,dudlech02,1990-91,NJN,12.6,2.2,.068,-1.3,0.3,,NBA,950000,25,61,25.6,.408,.534,8.4,0.6,0.6,2.5,7.1,NJN
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.48,2.40,dudlech02,1991-92,NJN,13.2,3.4,.085,-0.8,0.6,,NBA,1000000,26,82,23.2,.403,.468,9.0,0.7,0.5,2.2,5.6,NJN
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-1.32,0.87,dudlech02,1992-93,NJN,9.9,2.2,.074,-3.2,-0.4,,NBA,1200000,27,71,19.7,.353,.518,7.2,0.2,0.2,1.5,3.5,NJN
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.74,0.17,dudlech02,1993-94,POR,6.8,0.0,.022,-1.5,0.0,,NBA,790000,28,6,14.3,.240,.500,4.0,0.8,0.7,0.5,2.3,POR
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",+0.11,3.73,dudlech02,1994-95,POR,10.9,4.1,.087,-1.2,0.5,,NBA,3500000,29,82,27.4,.406,.464,9.3,0.4,0.5,1.5,5.5,POR
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",+0.37,3.63,dudlech02,1995-96,POR,12.2,4.7,.117,-1.0,0.5,,NBA,3800000,30,80,24.1,.453,.510,9.0,0.5,0.5,1.3,5.1,POR
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.44,2.35,dudlech02,1996-97,POR,10.1,3.5,.091,-1.0,0.5,,NBA,4100000,31,81,22.7,.430,.474,7.3,0.5,0.5,1.2,3.9,POR
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.57,1.03,dudlech02,1997-98,NYK,9.5,1.5,.084,-1.6,0.1,,NBA,1135000,32,51,16.8,.406,.446,5.4,0.4,0.3,1.0,3.1,NYK
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.84,0.89,dudlech02,1998-99,NYK,9.6,1.5,.108,-1.5,0.1,,NBA,,33,46,14.9,.440,.475,4.2,0.2,0.3,0.8,2.5,NYK
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-1.92,0.07,dudlech02,1999-00,NYK,6.1,0.5,.056,-3.3,-0.1,,NBA,7100000,34,47,9.8,.343,.333,2.9,0.1,0.1,0.4,1.2,NYK
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-0.44,0.78,dudlech02,2000-01,PHO,7.2,1.0,.079,-2.2,0.0,,NBA,6200000,35,53,11.6,.397,.389,3.5,0.3,0.3,0.5,1.4,PHO
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",-1.70,0.12,dudlech02,2001-02,POR,7.1,0.3,.042,-3.7,-0.1,,NBA,6200000,36,43,7.6,.400,.533,1.9,0.3,0.1,0.3,1.1,POR
+Chris Dudley,/players/d/dudlech02.html,1988,2003,Yale University,false,"Torrey Pines in Encinitas, California",+0.10,0.02,dudlech02,2002-03,POR,-1.7,0.0,.000,-6.9,0.0,,NBA,1030000,37,3,3.7,.000,,0.7,0.0,0.0,0.0,0.0,POR

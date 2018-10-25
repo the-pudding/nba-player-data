@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-calhoco01,1976-77,26,POR,NBA,70,10.6,.464,.776,2.1,0.5,0.3,0.1,3.4,10.0,1.3,.083,-3.4,-0.3,,"Waukegan in Waukegan, Illinois"
-calhoco01,1977-78,27,POR,NBA,79,17.3,.479,.868,2.7,1.1,0.5,0.2,5.3,10.8,3.1,.109,-0.4,0.5,,"Waukegan in Waukegan, Illinois"
-calhoco01,1978-79,28,IND,NBA,81,16.4,.457,.837,2.9,1.3,0.5,0.2,4.7,9.9,2.3,.082,-1.7,0.1,,"Waukegan in Waukegan, Illinois"
-calhoco01,1979-80,29,IND,NBA,7,4.3,.444,.000,1.4,0.0,0.3,0.0,1.1,10.6,0.0,.067,-7.2,0.0,,"Waukegan in Waukegan, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Corky Calhoun,/players/c/calhoco01.html,1973,1980,University of Pennsylvania,false,"Waukegan in Waukegan, Illinois",-1.92,0.12,calhoco01,1976-77,POR,10.0,1.3,.083,-3.4,-0.3,,26,NBA,70,10.6,.464,.776,2.1,0.5,0.3,0.1,3.4,POR
+Corky Calhoun,/players/c/calhoco01.html,1973,1980,University of Pennsylvania,false,"Waukegan in Waukegan, Illinois",-0.62,1.62,calhoco01,1977-78,POR,10.8,3.1,.109,-0.4,0.5,,27,NBA,79,17.3,.479,.868,2.7,1.1,0.5,0.2,5.3,POR
+Corky Calhoun,/players/c/calhoco01.html,1973,1980,University of Pennsylvania,false,"Waukegan in Waukegan, Illinois",-1.45,0.69,calhoco01,1978-79,IND,9.9,2.3,.082,-1.7,0.1,,28,NBA,81,16.4,.457,.837,2.9,1.3,0.5,0.2,4.7,IND
+Corky Calhoun,/players/c/calhoco01.html,1973,1980,University of Pennsylvania,false,"Waukegan in Waukegan, Illinois",+0.19,0.05,calhoco01,1979-80,IND,10.6,0.0,.067,-7.2,0.0,,29,NBA,7,4.3,.444,.000,1.4,0.0,0.3,0.0,1.1,IND

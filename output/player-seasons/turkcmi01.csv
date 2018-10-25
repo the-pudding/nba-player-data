@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-turkcmi01,1999-00,23,New York Knicks,NBA,17,5.3,.368,.625,1.9,0.3,0.2,0.1,1.9,11.1,0.0,-0.019,-6.0,-0.1,,830745,
-turkcmi01,1999-00,23,New York Knicks,NBA,7,3.6,.200,,1.4,0.1,0.3,0.0,0.6,3.8,-0.1,-0.101,-8.5,0.0,,830745,
-turkcmi01,1999-00,23,New York Knicks,NBA,10,6.5,.429,.625,2.3,0.4,0.1,0.1,2.9,13.9,0.0,.012,-5.1,-0.1,,830745,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mirsad Turkcan,/players/t/turkcmi01.html,2000,2000,,false,,-0.38,0.13,turkcmi01,1999-00,TOT,11.1,0.0,-0.019,-6.0,-0.1,,NBA,830745,23,17,5.3,.368,.625,1.9,0.3,0.2,0.1,1.9,"NYK,MIL"

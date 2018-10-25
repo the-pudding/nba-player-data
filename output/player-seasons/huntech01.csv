@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-huntech01,2009-10,25,Golden State Warriors,NBA,60,13.1,.502,.754,2.8,0.6,0.2,0.6,4.5,12.2,1.3,.080,-3.1,-0.2,,632455,"West Side in Gary, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Hunter,/players/h/huntech01.html,2010,2010,University of Michigan,false,"West Side in Gary, Indiana",-1.10,0.65,huntech01,2009-10,GSW,12.2,1.3,.080,-3.1,-0.2,,NBA,632455,25,60,13.1,.502,.754,2.8,0.6,0.2,0.6,4.5,GSW

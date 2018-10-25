@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-houstby01,1992-93,23,Golden State Warriors,NBA,79,16.1,.446,.665,4.0,0.9,0.6,0.5,5.3,10.6,1.8,.068,-1.8,0.1,,500000,"Star-Spencer in Oklahoma City, Oklahoma"
-houstby01,1993-94,24,Golden State Warriors,NBA,71,12.2,.458,.611,2.7,0.5,0.5,0.4,2.8,7.5,0.9,.050,-3.0,-0.2,,600000,"Star-Spencer in Oklahoma City, Oklahoma"
-houstby01,1994-95,25,Seattle SuperSonics,NBA,39,6.6,.458,.737,1.4,0.2,0.3,0.1,3.4,13.8,0.5,.091,-4.7,-0.2,,700000,"Star-Spencer in Oklahoma City, Oklahoma"
-houstby01,1995-96,26,Sacramento Kings,NBA,25,11.0,.500,.808,3.4,0.3,0.5,0.3,3.4,13.1,0.7,.117,-1.5,0.0,,800000,"Star-Spencer in Oklahoma City, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Byron Houston,/players/h/houstby01.html,1993,1996,Oklahoma State University,false,"Star-Spencer in Oklahoma City, Oklahoma",-1.35,0.81,houstby01,1992-93,GSW,10.6,1.8,.068,-1.8,0.1,,NBA,500000,23,79,16.1,.446,.665,4.0,0.9,0.6,0.5,5.3,GSW
+Byron Houston,/players/h/houstby01.html,1993,1996,Oklahoma State University,false,"Star-Spencer in Oklahoma City, Oklahoma",-2.17,0.05,houstby01,1993-94,GSW,7.5,0.9,.050,-3.0,-0.2,,NBA,600000,24,71,12.2,.458,.611,2.7,0.5,0.5,0.4,2.8,GSW
+Byron Houston,/players/h/houstby01.html,1993,1996,Oklahoma State University,false,"Star-Spencer in Oklahoma City, Oklahoma",-1.21,0.19,houstby01,1994-95,SEA,13.8,0.5,.091,-4.7,-0.2,,NBA,700000,25,39,6.6,.458,.737,1.4,0.2,0.3,0.1,3.4,SEA
+Byron Houston,/players/h/houstby01.html,1993,1996,Oklahoma State University,false,"Star-Spencer in Oklahoma City, Oklahoma",-0.71,0.29,houstby01,1995-96,SAC,13.1,0.7,.117,-1.5,0.0,,NBA,800000,26,25,11.0,.500,.808,3.4,0.3,0.5,0.3,3.4,SAC

@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willira01,1977-78,23,NYK,NBA,81,19.1,.443,.705,2.6,4.5,1.3,0.2,9.3,14.5,1.0,.031,-1.5,0.2,,"Mount Vernon in Mount Vernon, New York"
-willira01,1978-79,24,NYK,NBA,81,29.3,.457,.802,3.6,6.2,1.6,0.2,17.3,17.7,3.9,.078,0.8,1.7,,"Mount Vernon in Mount Vernon, New York"
-willira01,1979-80,25,NYK,NBA,82,31.5,.496,.787,5.0,6.2,2.0,0.3,20.9,21.6,8.2,.152,4.0,3.9,,"Mount Vernon in Mount Vernon, New York"
-willira01,1980-81,26,NYK,NBA,79,34.7,.461,.817,4.1,5.5,2.3,0.5,19.7,19.0,7.2,.127,3.1,3.5,,"Mount Vernon in Mount Vernon, New York"
-willira01,1981-82,27,NJN,NBA,82,33.3,.462,.832,4.0,6.0,2.4,0.5,20.4,19.0,7.9,.139,3.9,4.1,,"Mount Vernon in Mount Vernon, New York"
-willira01,1982-83,28,KCK,NBA,72,30.1,.392,.769,4.5,7.9,1.7,0.4,15.4,14.4,0.9,.021,-0.4,0.9,,"Mount Vernon in Mount Vernon, New York"
-willira01,1983-84,29,NYK,NBA,76,29.3,.445,.827,3.5,5.9,2.1,0.3,14.8,17.4,6.2,.132,3.5,3.1,,"Mount Vernon in Mount Vernon, New York"
-willira01,1984-85,30,BOS,NBA,23,20.0,.385,.674,2.5,3.9,1.3,0.2,6.4,10.9,0.4,.042,-1.4,0.1,,"Mount Vernon in Mount Vernon, New York"
-willira01,1985-86,31,"ATL,SAS,NJN",NBA,47,17.6,.382,.913,1.8,4.0,1.3,0.1,7.6,13.5,1.0,.058,-1.3,0.1,,"Mount Vernon in Mount Vernon, New York"
-willira01,1986-87,32,NJN,NBA,32,25.0,.452,.817,2.3,5.8,1.2,0.3,9.9,11.9,0.4,.022,-2.2,0.0,,"Mount Vernon in Mount Vernon, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",-0.86,1.56,willira01,1977-78,NYK,14.5,1.0,.031,-1.5,0.2,,23,NBA,81,19.1,.443,.705,2.6,4.5,1.3,0.2,9.3,NYK
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",+0.21,4.00,willira01,1978-79,NYK,17.7,3.9,.078,0.8,1.7,,24,NBA,81,29.3,.457,.802,3.6,6.2,1.6,0.2,17.3,NYK
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",+1.95,7.37,willira01,1979-80,NYK,21.6,8.2,.152,4.0,3.9,,25,NBA,82,31.5,.496,.787,5.0,6.2,2.0,0.3,20.9,NYK
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",+1.92,8.08,willira01,1980-81,NYK,19.0,7.2,.127,3.1,3.5,,26,NBA,79,34.7,.461,.817,4.1,5.5,2.3,0.5,19.7,NYK
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",+2.38,8.99,willira01,1981-82,NJN,19.0,7.9,.139,3.9,4.1,,27,NBA,82,33.3,.462,.832,4.0,6.0,2.4,0.5,20.4,NJN
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",-0.07,3.23,willira01,1982-83,KCK,14.4,0.9,.021,-0.4,0.9,,28,NBA,72,30.1,.392,.769,4.5,7.9,1.7,0.4,15.4,KCK
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",+2.41,8.13,willira01,1983-84,NYK,17.4,6.2,.132,3.5,3.1,,29,NBA,76,29.3,.445,.827,3.5,5.9,2.1,0.3,14.8,NYK
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",-1.60,0.34,willira01,1984-85,BOS,10.9,0.4,.042,-1.4,0.1,,30,NBA,23,20.0,.385,.674,2.5,3.9,1.3,0.2,6.4,BOS
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",-0.92,0.75,willira01,1985-86,TOT,13.5,1.0,.058,-1.3,0.1,,31,NBA,47,17.6,.382,.913,1.8,4.0,1.3,0.1,7.6,"ATL,SAS,NJN"
+Ray Williams,/players/w/willira01.html,1978,1987,University of Minnesota,false,"Mount Vernon in Mount Vernon, New York",-1.61,0.36,willira01,1986-87,NJN,11.9,0.4,.022,-2.2,0.0,,32,NBA,32,25.0,.452,.817,2.3,5.8,1.2,0.3,9.9,NJN

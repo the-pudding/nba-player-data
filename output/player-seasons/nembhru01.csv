@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-nembhru01,1996-97,24,"UTA,POR",NBA,10,11.3,.432,.800,0.8,1.7,0.9,0.0,4.0,13.3,0.2,.085,-2.8,0.0,,"DeWitt Clinton in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ruben Nembhard,/players/n/nembhru01.html,1997,1997,Weber State University,false,"DeWitt Clinton in Bronx, New York",-0.32,0.15,nembhru01,1996-97,TOT,13.3,0.2,.085,-2.8,0.0,,24,NBA,10,11.3,.432,.800,0.8,1.7,0.9,0.0,4.0,"UTA,POR"

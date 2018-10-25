@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-taylojo01,1997-98,23,Orlando Magic,NBA,12,9.0,.351,.688,1.1,0.1,0.3,0.2,3.2,4.4,-0.1,-0.032,-10.0,-0.2,,901880,"Howard in Chattanooga, Tennessee"
-taylojo01,1998-99,24,Denver Nuggets,NBA,36,20.1,.414,.739,2.8,0.7,0.8,0.5,5.8,9.5,0.2,.014,-2.4,-0.1,,1037000,"Howard in Chattanooga, Tennessee"
-taylojo01,1999-00,25,Orlando Magic,NBA,6,5.7,.357,,1.0,0.2,0.2,0.2,1.8,6.2,0.0,-0.030,-7.6,0.0,,1172400,"Howard in Chattanooga, Tennessee"
-taylojo01,1999-00,25,Orlando Magic,NBA,1,5.0,.000,,1.0,0.0,0.0,0.0,0.0,-15.2,0.0,-0.370,-25.9,0.0,,1172400,"Howard in Chattanooga, Tennessee"
-taylojo01,1999-00,25,Orlando Magic,NBA,5,5.8,.417,,1.0,0.2,0.2,0.2,2.2,9.9,0.0,.028,-4.5,0.0,,1172400,"Howard in Chattanooga, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Johnny Taylor,/players/t/taylojo01.html,1998,2000,"Indian Hills Community College, University of Tennessee at Chattanooga",false,"Howard in Chattanooga, Tennessee",-0.05,0.16,taylojo01,1997-98,ORL,4.4,-0.1,-0.032,-10.0,-0.2,,NBA,901880,23,12,9.0,.351,.688,1.1,0.1,0.3,0.2,3.2,ORL
+Johnny Taylor,/players/t/taylojo01.html,1998,2000,"Indian Hills Community College, University of Tennessee at Chattanooga",false,"Howard in Chattanooga, Tennessee",-2.92,-0.32,taylojo01,1998-99,DEN,9.5,0.2,.014,-2.4,-0.1,,NBA,1037000,24,36,20.1,.414,.739,2.8,0.7,0.8,0.5,5.8,DEN
+Johnny Taylor,/players/t/taylojo01.html,1998,2000,"Indian Hills Community College, University of Tennessee at Chattanooga",false,"Howard in Chattanooga, Tennessee",+0.45,0.06,taylojo01,1999-00,TOT,6.2,0.0,-0.030,-7.6,0.0,,NBA,1172400,25,6,5.7,.357,,1.0,0.2,0.2,0.2,1.8,"DEN,ORL"

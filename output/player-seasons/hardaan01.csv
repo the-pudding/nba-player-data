@@ -1,18 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hardaan01,1993-94,22,Orlando Magic,NBA,82,36.8,.466,.742,5.4,6.6,2.3,0.6,16.0,17.4,7.1,.112,3.9,4.5,,1244000,"Treadwell in Memphis, Tennessee"
-hardaan01,1994-95,23,Orlando Magic,NBA,77,37.7,.512,.769,4.4,7.2,1.7,0.3,20.9,20.8,10.7,.177,4.2,4.5,All-NBA (1st),4305000,"Treadwell in Memphis, Tennessee"
-hardaan01,1995-96,24,Orlando Magic,NBA,82,36.8,.513,.767,4.3,7.1,2.0,0.5,21.7,24.6,14.4,.229,6.4,6.4,All-NBA (1st),5230000,"Treadwell in Memphis, Tennessee"
-hardaan01,1996-97,25,Orlando Magic,NBA,59,37.6,.447,.820,4.5,5.6,1.6,0.6,20.5,21.4,8.1,.175,4.7,3.8,All-NBA (3rd),6655000,"Treadwell in Memphis, Tennessee"
-hardaan01,1997-98,26,Orlando Magic,NBA,19,32.9,.377,.763,4.0,3.6,1.5,0.8,16.4,15.9,1.1,.085,0.2,0.3,,7580000,"Treadwell in Memphis, Tennessee"
-hardaan01,1998-99,27,Orlando Magic,NBA,50,38.9,.420,.706,5.7,5.3,2.2,0.5,15.8,16.7,5.0,.122,3.6,2.8,,8505000,"Treadwell in Memphis, Tennessee"
-hardaan01,1999-00,28,Phoenix Suns,NBA,60,37.6,.474,.790,5.8,5.3,1.6,0.6,16.9,17.9,7.8,.165,3.6,3.2,,9000000,"Treadwell in Memphis, Tennessee"
-hardaan01,2000-01,29,Phoenix Suns,NBA,4,28.0,.417,.636,4.5,3.8,1.5,0.3,9.8,16.6,0.4,.155,1.9,0.1,,10130000,"Treadwell in Memphis, Tennessee"
-hardaan01,2001-02,30,Phoenix Suns,NBA,80,30.8,.418,.810,4.4,4.1,1.5,0.4,12.0,13.9,2.9,.056,0.0,1.2,,11250000,"Treadwell in Memphis, Tennessee"
-hardaan01,2002-03,31,Phoenix Suns,NBA,58,30.6,.447,.794,4.4,4.1,1.1,0.4,10.6,13.0,2.3,.062,0.0,0.9,,12375000,"Treadwell in Memphis, Tennessee"
-hardaan01,2003-04,32,Phoenix Suns,NBA,76,27.6,.411,.804,3.8,2.3,0.9,0.3,9.2,11.8,2.0,.046,-1.9,0.0,,13500000,"Treadwell in Memphis, Tennessee"
-hardaan01,2003-04,32,Phoenix Suns,NBA,34,25.8,.443,.857,2.9,2.9,0.8,0.2,8.7,13.2,1.3,.069,-1.6,0.1,,13500000,"Treadwell in Memphis, Tennessee"
-hardaan01,2003-04,32,Phoenix Suns,NBA,42,29.0,.390,.775,4.5,1.9,1.0,0.3,9.6,10.8,0.7,.029,-2.1,0.0,,13500000,"Treadwell in Memphis, Tennessee"
-hardaan01,2004-05,33,New York Knicks,NBA,37,24.2,.423,.739,2.4,2.0,0.8,0.1,7.3,9.0,0.2,.009,-3.3,-0.3,,14625000,"Treadwell in Memphis, Tennessee"
-hardaan01,2005-06,34,New York Knicks,NBA,4,18.0,.286,1.000,2.5,2.0,0.5,0.0,2.5,2.0,-0.2,-0.101,-7.8,-0.1,,15750000,"Treadwell in Memphis, Tennessee"
-hardaan01,2006-07,35,Did Not Play (retired),,,,,,,,,,,,,,,,,,"Treadwell in Memphis, Tennessee"
-hardaan01,2007-08,36,Miami Heat,NBA,16,20.3,.367,.889,2.2,2.2,1.2,0.1,3.8,9.0,0.2,.036,-2.7,-0.1,,320142,"Treadwell in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+2.02,9.09,hardaan01,1993-94,ORL,17.4,7.1,.112,3.9,4.5,,NBA,1244000,22,82,36.8,.466,.742,5.4,6.6,2.3,0.6,16.0,ORL
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+3.28,13.66,hardaan01,1994-95,ORL,20.8,10.7,.177,4.2,4.5,All-NBA (1st),NBA,4305000,23,77,37.7,.512,.769,4.4,7.2,1.7,0.3,20.9,ORL
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+5.13,16.71,hardaan01,1995-96,ORL,24.6,14.4,.229,6.4,6.4,All-NBA (1st),NBA,5230000,24,82,36.8,.513,.767,4.3,7.1,2.0,0.5,21.7,ORL
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+3.00,8.68,hardaan01,1996-97,ORL,21.4,8.1,.175,4.7,3.8,All-NBA (3rd),NBA,6655000,25,59,37.6,.447,.820,4.5,5.6,1.6,0.6,20.5,ORL
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+0.45,1.16,hardaan01,1997-98,ORL,15.9,1.1,.085,0.2,0.3,,NBA,7580000,26,19,32.9,.377,.763,4.0,3.6,1.5,0.8,16.4,ORL
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+2.15,6.55,hardaan01,1998-99,ORL,16.7,5.0,.122,3.6,2.8,,NBA,8505000,27,50,38.9,.420,.706,5.7,5.3,2.2,0.5,15.8,ORL
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+2.54,8.78,hardaan01,1999-00,PHO,17.9,7.8,.165,3.6,3.2,,NBA,9000000,28,60,37.6,.474,.790,5.8,5.3,1.6,0.6,16.9,PHO
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+0.32,0.20,hardaan01,2000-01,PHO,16.6,0.4,.155,1.9,0.1,,NBA,10130000,29,4,28.0,.417,.636,4.5,3.8,1.5,0.3,9.8,PHO
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",-0.94,2.18,hardaan01,2001-02,PHO,13.9,2.9,.056,0.0,1.2,,NBA,11250000,30,80,30.8,.418,.810,4.4,4.1,1.5,0.4,12.0,PHO
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",-0.64,2.19,hardaan01,2002-03,PHO,13.0,2.3,.062,0.0,0.9,,NBA,12375000,31,58,30.6,.447,.794,4.4,4.1,1.1,0.4,10.6,PHO
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",-1.20,1.54,hardaan01,2003-04,TOT,11.8,2.0,.046,-1.9,0.0,,NBA,13500000,32,76,27.6,.411,.804,3.8,2.3,0.9,0.3,9.2,"PHO,NYK"
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",-2.71,-0.26,hardaan01,2004-05,NYK,9.0,0.2,.009,-3.3,-0.3,,NBA,14625000,33,37,24.2,.423,.739,2.4,2.0,0.8,0.1,7.3,NYK
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",+0.31,0.13,hardaan01,2005-06,NYK,2.0,-0.2,-0.101,-7.8,-0.1,,NBA,15750000,34,4,18.0,.286,1.000,2.5,2.0,0.5,0.0,2.5,NYK
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",,,hardaan01,2006-07,Did Not Play (retired),,,,,,,,,35,,,,,,,,,,Did Not Play (retired)
+Anfernee Hardaway,/players/h/hardaan01.html,1994,2008,University of Memphis,false,"Treadwell in Memphis, Tennessee",-0.82,0.31,hardaan01,2007-08,MIA,9.0,0.2,.036,-2.7,-0.1,,NBA,320142,36,16,20.3,.367,.889,2.2,2.2,1.2,0.1,3.8,MIA

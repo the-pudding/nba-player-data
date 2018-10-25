@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wiltjky01,2016-17,24,HOU,NBA,14,3.1,.286,.500,0.7,0.1,0.2,0.1,0.9,6.7,0.0,-0.039,-4.0,0.0,,"Jesuit in Portland, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kyle Wiltjer,/players/w/wiltjky01.html,2017,2017,Gonzaga University,true,"Jesuit in Portland, Oregon",-1.73,0.02,wiltjky01,2016-17,HOU,6.7,0.0,-0.039,-4.0,0.0,,24,NBA,14,3.1,.286,.500,0.7,0.1,0.2,0.1,0.9,HOU

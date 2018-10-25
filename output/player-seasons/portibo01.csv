@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-portibo01,2015-16,20,Chicago Bulls,NBA,62,17.8,.427,.727,5.4,0.8,0.4,0.4,7.0,13.8,1.5,.066,-3.3,-0.4,,1391160,"Hall in Little Rock, Arkansas"
-portibo01,2016-17,21,Chicago Bulls,NBA,64,15.6,.488,.661,4.6,0.5,0.3,0.2,6.8,14.9,2.4,.114,-3.0,-0.3,,1453680,"Hall in Little Rock, Arkansas"
-portibo01,2017-18,22,Chicago Bulls,NBA,73,22.5,.471,.769,6.8,1.7,0.7,0.3,13.2,19.7,3.5,.101,0.3,1.0,,1516320,"Hall in Little Rock, Arkansas"
-portibo01,2018-19,23,CHI,NBA,4,28.3,.415,.556,10.0,2.0,0.5,1.0,10.5,12.2,0.0,.016,-3.6,0.0,,,"Hall in Little Rock, Arkansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bobby Portis,/players/p/portibo01.html,2016,2019,University of Arkansas,true,"Hall in Little Rock, Arkansas",-2.30,-0.03,portibo01,2015-16,CHI,13.8,1.5,.066,-3.3,-0.4,,NBA,1391160,20,62,17.8,.427,.727,5.4,0.8,0.4,0.4,7.0,CHI
+Bobby Portis,/players/p/portibo01.html,2016,2019,University of Arkansas,true,"Hall in Little Rock, Arkansas",-1.52,0.57,portibo01,2016-17,CHI,14.9,2.4,.114,-3.0,-0.3,,NBA,1453680,21,64,15.6,.488,.661,4.6,0.5,0.3,0.2,6.8,CHI
+Bobby Portis,/players/p/portibo01.html,2016,2019,University of Arkansas,true,"Hall in Little Rock, Arkansas",+0.49,3.06,portibo01,2017-18,CHI,19.7,3.5,.101,0.3,1.0,,NBA,1516320,22,73,22.5,.471,.769,6.8,1.7,0.7,0.3,13.2,CHI
+Bobby Portis,/players/p/portibo01.html,2016,2019,University of Arkansas,true,"Hall in Little Rock, Arkansas",,,portibo01,2018-19,CHI,12.2,0.0,.016,-3.6,0.0,,NBA,,23,4,28.3,.415,.556,10.0,2.0,0.5,1.0,10.5,CHI

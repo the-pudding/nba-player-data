@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harpeju01,2011-12,22,Orlando Magic,NBA,14,6.0,.290,.000,0.9,0.1,0.1,0.2,1.4,1.7,-0.3,-0.145,-9.8,-0.2,,473604,"Meadowbrook in Richmond, Virginia"
-harpeju01,2012-13,23,Orlando Magic,NBA,,,,,,,,,,,,,,,,762195,"Meadowbrook in Richmond, Virginia"
-harpeju01,2013-14,24,Did Not Play,,,,,,,,,,,,,,,,,,"Meadowbrook in Richmond, Virginia"
-harpeju01,2014-15,25,Did Not Play,,,,,,,,,,,,,,,,,,"Meadowbrook in Richmond, Virginia"
-harpeju01,2015-16,26,Detroit Pistons,NBA,5,7.0,.400,.500,0.2,0.0,0.2,0.0,2.6,6.9,0.0,.039,-4.6,0.0,,99418,"Meadowbrook in Richmond, Virginia"
-harpeju01,2016-17,27,Philadelphia 76ers,NBA,3,10.3,.417,,1.7,0.7,0.0,0.0,4.0,4.9,-0.1,-0.103,-8.9,-0.1,,57672,"Meadowbrook in Richmond, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Justin Harper,/players/h/harpeju01.html,2012,2017,University of Richmond,true,"Meadowbrook in Richmond, Virginia",-1.11,0.06,harpeju01,2011-12,ORL,1.7,-0.3,-0.145,-9.8,-0.2,,NBA,473604,22,14,6.0,.290,.000,0.9,0.1,0.1,0.2,1.4,ORL
+Justin Harper,/players/h/harpeju01.html,2012,2017,University of Richmond,true,"Meadowbrook in Richmond, Virginia",,,harpeju01,2012-13,Did Not Play,,,,,,,NBA,762195,23,,,,,,,,,,Did Not Play
+Justin Harper,/players/h/harpeju01.html,2012,2017,University of Richmond,true,"Meadowbrook in Richmond, Virginia",,,harpeju01,2013-14,Did Not Play,,,,,,,,,24,,,,,,,,,,Did Not Play
+Justin Harper,/players/h/harpeju01.html,2012,2017,University of Richmond,true,"Meadowbrook in Richmond, Virginia",,,harpeju01,2014-15,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Justin Harper,/players/h/harpeju01.html,2012,2017,University of Richmond,true,"Meadowbrook in Richmond, Virginia",-0.36,0.05,harpeju01,2015-16,DET,6.9,0.0,.039,-4.6,0.0,,NBA,99418,26,5,7.0,.400,.500,0.2,0.0,0.2,0.0,2.6,DET
+Justin Harper,/players/h/harpeju01.html,2012,2017,University of Richmond,true,"Meadowbrook in Richmond, Virginia",-0.30,0.04,harpeju01,2016-17,PHI,4.9,-0.1,-0.103,-8.9,-0.1,,NBA,57672,27,3,10.3,.417,,1.7,0.7,0.0,0.0,4.0,PHI

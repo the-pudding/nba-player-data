@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-robinja02,1993-94,23,Portland Trail Blazers,NBA,58,11.6,.365,.672,1.3,1.2,0.5,0.3,4.8,10.0,0.2,.015,-3.4,-0.2,,650000,"Murrah in Jackson, Mississippi"
-robinja02,1994-95,24,Portland Trail Blazers,NBA,71,21.7,.409,.591,1.9,2.5,0.7,0.2,9.2,10.5,1.2,.038,-2.7,-0.3,,845000,"Murrah in Jackson, Mississippi"
-robinja02,1995-96,25,Portland Trail Blazers,NBA,76,21.4,.399,.659,2.1,2.0,0.4,0.2,8.5,10.6,2.3,.068,-1.6,0.2,,1040000,"Murrah in Jackson, Mississippi"
-robinja02,1996-97,26,Minnesota Timberwolves,NBA,69,19.0,.407,.684,1.6,1.8,0.4,0.1,8.3,12.7,1.9,.071,-2.3,-0.1,,1235000,"Murrah in Jackson, Mississippi"
-robinja02,1997-98,27,Los Angeles Clippers,NBA,70,17.6,.389,.720,1.6,1.9,0.5,0.1,7.7,12.4,0.2,.007,-3.8,-0.5,,1500000,"Murrah in Jackson, Mississippi"
-robinja02,1998-99,28,Los Angeles Clippers,NBA,31,16.3,.362,.683,2.0,1.8,0.7,0.3,5.9,10.7,-0.1,-0.006,-2.9,-0.1,,1800000,"Murrah in Jackson, Mississippi"
-robinja02,1998-99,28,Los Angeles Clippers,NBA,14,20.0,.398,.741,1.9,1.3,1.0,0.2,7.6,12.7,0.2,.027,-2.2,0.0,,1800000,"Murrah in Jackson, Mississippi"
-robinja02,1998-99,28,Los Angeles Clippers,NBA,17,13.3,.322,.571,2.1,2.2,0.5,0.3,4.5,8.2,-0.2,-0.047,-3.7,-0.1,,1800000,"Murrah in Jackson, Mississippi"
-robinja02,1999-00,29,Los Angeles Clippers,NBA,,,,,,,,,,,,,,,,1866667,"Murrah in Jackson, Mississippi"
-robinja02,2000-01,30,Los Angeles Clippers,NBA,6,8.3,.364,,1.3,0.0,0.7,0.2,1.7,5.1,0.0,-0.017,-7.9,-0.1,,1870000,"Murrah in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-2.15,0.05,robinja02,1993-94,POR,10.0,0.2,.015,-3.4,-0.2,,NBA,650000,23,58,11.6,.365,.672,1.3,1.2,0.5,0.3,4.8,POR
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-1.77,0.53,robinja02,1994-95,POR,10.5,1.2,.038,-2.7,-0.3,,NBA,845000,24,71,21.7,.409,.591,1.9,2.5,0.7,0.2,9.2,POR
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-1.58,0.74,robinja02,1995-96,POR,10.6,2.3,.068,-1.6,0.2,,NBA,1040000,25,76,21.4,.399,.659,2.1,2.0,0.4,0.2,8.5,POR
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-1.66,0.55,robinja02,1996-97,MIN,12.7,1.9,.071,-2.3,-0.1,,NBA,1235000,26,69,19.0,.407,.684,1.6,1.8,0.4,0.1,8.3,MIN
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-2.96,-0.55,robinja02,1997-98,LAC,12.4,0.2,.007,-3.8,-0.5,,NBA,1500000,27,70,17.6,.389,.720,1.6,1.9,0.5,0.1,7.7,LAC
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-2.36,-0.07,robinja02,1998-99,TOT,10.7,-0.1,-0.006,-2.9,-0.1,,NBA,1800000,28,31,16.3,.362,.683,2.0,1.8,0.7,0.3,5.9,"LAC,MIN"
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",,,robinja02,1999-00,Did Not Play (other pro league—Greece),,,,,,,NBA,1866667,29,,,,,,,,,,Did Not Play (other pro league—Greece)
+James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false,"Murrah in Jackson, Mississippi",-0.48,0.06,robinja02,2000-01,ORL,5.1,0.0,-0.017,-7.9,-0.1,,NBA,1870000,30,6,8.3,.364,,1.3,0.0,0.7,0.2,1.7,ORL

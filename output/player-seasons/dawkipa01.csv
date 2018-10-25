@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dawkipa01,1979-80,22,UTA,NBA,57,13.6,.470,.688,2.2,1.4,0.6,0.2,5.5,11.0,-0.1,-0.009,-4.4,-0.5,,"Saginaw in Saginaw, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul Dawkins,/players/d/dawkipa01.html,1980,1980,Northern Illinois University,false,"Saginaw in Saginaw, Michigan",-2.95,-0.35,dawkipa01,1979-80,UTA,11.0,-0.1,-0.009,-4.4,-0.5,,22,NBA,57,13.6,.470,.688,2.2,1.4,0.6,0.2,5.5,UTA

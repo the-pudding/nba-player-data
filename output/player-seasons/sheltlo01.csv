@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-sheltlo01,1976-77,21,NYK,NBA,82,25.7,.476,.707,7.7,1.8,1.5,1.2,11.6,16.7,4.6,.105,2.8,2.5,,"Foothill in Bakersfield, California",
-sheltlo01,1977-78,22,NYK,NBA,82,28.3,.514,.736,7.1,2.4,1.3,1.4,14.9,17.4,5.9,.122,2.2,2.4,,"Foothill in Bakersfield, California",
-sheltlo01,1978-79,23,SEA,NBA,76,28.4,.519,.693,6.2,1.4,1.0,1.0,13.5,14.9,5.1,.114,0.8,1.6,,"Foothill in Bakersfield, California",
-sheltlo01,1979-80,24,SEA,NBA,76,29.5,.530,.763,7.7,1.9,1.2,1.0,13.6,16.8,7.5,.161,2.7,2.6,,"Foothill in Bakersfield, California",
-sheltlo01,1980-81,25,SEA,NBA,14,31.4,.420,.655,5.6,2.5,1.6,0.2,13.0,10.9,0.1,.016,-1.9,0.0,,"Foothill in Bakersfield, California",
-sheltlo01,1981-82,26,SEA,NBA,81,32.9,.486,.783,6.3,3.1,1.2,0.5,14.9,14.2,5.8,.105,1.2,2.2,,"Foothill in Bakersfield, California",
-sheltlo01,1982-83,27,SEA,NBA,82,31.4,.478,.754,6.0,2.9,0.9,0.9,12.4,12.7,4.8,.090,1.0,1.9,,"Foothill in Bakersfield, California",
-sheltlo01,1983-84,28,CLE,NBA,79,26.6,.476,.764,4.8,2.3,1.0,0.7,10.8,12.6,2.1,.048,-0.1,1.0,,"Foothill in Bakersfield, California",
-sheltlo01,1984-85,29,Cleveland Cavaliers,NBA,57,21.8,.435,.662,4.7,1.7,0.8,0.3,6.4,9.0,0.9,.036,-1.0,0.3,,"Foothill in Bakersfield, California",395000
-sheltlo01,1985-86,30,Cleveland Cavaliers,NBA,44,15.5,.489,.875,3.3,1.4,0.5,0.1,4.5,8.5,0.5,.037,-1.7,0.1,,"Foothill in Bakersfield, California",420000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",+2.58,7.17,sheltlo01,1976-77,NYK,16.7,4.6,.105,2.8,2.5,,21,NBA,82,25.7,.476,.707,7.7,1.8,1.5,1.2,11.6,NYK,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",+1.08,5.71,sheltlo01,1977-78,NYK,17.4,5.9,.122,2.2,2.4,,22,NBA,82,28.3,.514,.736,7.1,2.4,1.3,1.4,14.9,NYK,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",+0.49,5.16,sheltlo01,1978-79,SEA,14.9,5.1,.114,0.8,1.6,,23,NBA,76,28.4,.519,.693,6.2,1.4,1.0,1.0,13.5,SEA,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",+1.93,7.85,sheltlo01,1979-80,SEA,16.8,7.5,.161,2.7,2.6,,24,NBA,76,29.5,.530,.763,7.7,1.9,1.2,1.0,13.6,SEA,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",-1.78,0.12,sheltlo01,1980-81,SEA,10.9,0.1,.016,-1.9,0.0,,25,NBA,14,31.4,.420,.655,5.6,2.5,1.6,0.2,13.0,SEA,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",+0.42,5.39,sheltlo01,1981-82,SEA,14.2,5.8,.105,1.2,2.2,,26,NBA,81,32.9,.486,.783,6.3,3.1,1.2,0.5,14.9,SEA,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",+0.14,4.30,sheltlo01,1982-83,SEA,12.7,4.8,.090,1.0,1.9,,27,NBA,82,31.4,.478,.754,6.0,2.9,0.9,0.9,12.4,SEA,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",-1.15,1.58,sheltlo01,1983-84,CLE,12.6,2.1,.048,-0.1,1.0,,28,NBA,79,26.6,.476,.764,4.8,2.3,1.0,0.7,10.8,CLE,
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",-2.46,-0.18,sheltlo01,1984-85,CLE,9.0,0.9,.036,-1.0,0.3,,29,NBA,57,21.8,.435,.662,4.7,1.7,0.8,0.3,6.4,CLE,395000
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false,"Foothill in Bakersfield, California",-2.88,-0.28,sheltlo01,1985-86,CLE,8.5,0.5,.037,-1.7,0.1,,30,NBA,44,15.5,.489,.875,3.3,1.4,0.5,0.1,4.5,CLE,420000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-brownbr01,2018-19,22,DET,NBA,1,19.0,.000,,2.0,1.0,0.0,1.0,0.0,-6.9,-0.1,-0.156,-9.2,0.0,,"Vermont Academy in Saxtons River, Vermont"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bruce Brown,/players/b/brownbr01.html,2019,2019,University of Miami,true,"Vermont Academy in Saxtons River, Vermont",,,brownbr01,2018-19,DET,-6.9,-0.1,-0.156,-9.2,0.0,,22,NBA,1,19.0,.000,,2.0,1.0,0.0,1.0,0.0,DET

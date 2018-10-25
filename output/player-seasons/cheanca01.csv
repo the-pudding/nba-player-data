@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cheanca01,1993-94,22,Washington Bullets,NBA,65,24.7,.470,.770,2.9,1.9,1.0,0.2,12.0,14.0,1.2,.035,-2.8,-0.3,,2000000,"Harrison in Evansville, Indiana"
-cheanca01,1994-95,23,Washington Bullets,NBA,78,34.0,.453,.812,4.1,2.3,1.0,0.3,16.6,14.2,3.2,.058,-1.2,0.5,,2400000,"Harrison in Evansville, Indiana"
-cheanca01,1995-96,24,Washington Bullets,NBA,70,33.2,.471,.706,3.4,2.2,1.0,0.3,15.1,13.0,3.2,.065,-1.5,0.3,,2800000,"Harrison in Evansville, Indiana"
-cheanca01,1996-97,25,Washington Bullets,NBA,79,30.5,.505,.693,3.4,1.4,1.0,0.2,10.6,11.1,3.9,.077,-1.7,0.2,,3200000,"Harrison in Evansville, Indiana"
-cheanca01,1997-98,26,Washington Wizards,NBA,82,34.6,.457,.647,4.0,2.1,1.2,0.4,12.8,11.7,4.1,.069,-1.3,0.5,,3600000,"Harrison in Evansville, Indiana"
-cheanca01,1998-99,27,Washington Wizards,NBA,50,25.3,.414,.493,2.8,1.5,0.8,0.3,7.7,8.8,0.4,.016,-3.3,-0.4,,4000000,"Harrison in Evansville, Indiana"
-cheanca01,1999-00,28,Boston Celtics,NBA,67,19.5,.440,.429,2.1,1.2,0.7,0.2,4.0,6.7,0.8,.029,-3.1,-0.4,,2000000,"Harrison in Evansville, Indiana"
-cheanca01,2000-01,29,Denver Nuggets,NBA,9,17.0,.333,.500,2.2,1.0,0.4,0.2,2.3,4.1,-0.1,-0.035,-5.7,-0.1,,2200000,"Harrison in Evansville, Indiana"
-cheanca01,2001-02,30,Denver Nuggets,NBA,68,24.0,.481,.687,3.5,1.6,0.5,0.3,7.3,10.3,1.2,.037,-3.1,-0.4,,2400000,"Harrison in Evansville, Indiana"
-cheanca01,2002-03,31,Utah Jazz,NBA,81,29.0,.499,.580,3.5,2.0,0.8,0.2,8.6,9.8,2.8,.056,-1.2,0.5,,1000000,"Harrison in Evansville, Indiana"
-cheanca01,2003-04,32,Golden State Warriors,NBA,79,26.2,.481,.610,3.3,1.7,0.8,0.2,7.6,10.6,2.3,.054,-1.6,0.2,,1070000,"Harrison in Evansville, Indiana"
-cheanca01,2004-05,33,Golden State Warriors,NBA,55,17.3,.426,.649,2.3,1.2,0.3,0.3,4.5,7.8,0.3,.013,-5.3,-0.8,,1600000,"Harrison in Evansville, Indiana"
-cheanca01,2005-06,34,Golden State Warriors,NBA,42,10.7,.389,1.000,1.5,0.5,0.3,0.0,2.2,6.0,0.0,.000,-5.5,-0.4,,1760000,"Harrison in Evansville, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-2.96,-0.68,cheanca01,1993-94,WSB,14.0,1.2,.035,-2.8,-0.3,,NBA,2000000,22,65,24.7,.470,.770,2.9,1.9,1.0,0.2,12.0,WSB
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-1.54,1.38,cheanca01,1994-95,WSB,14.2,3.2,.058,-1.2,0.5,,NBA,2400000,23,78,34.0,.453,.812,4.1,2.3,1.0,0.3,16.6,WSB
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-0.91,2.17,cheanca01,1995-96,WSB,13.0,3.2,.065,-1.5,0.3,,NBA,2800000,24,70,33.2,.471,.706,3.4,2.2,1.0,0.3,15.1,WSB
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-1.43,1.42,cheanca01,1996-97,WSB,11.1,3.9,.077,-1.7,0.2,,NBA,3200000,25,79,30.5,.505,.693,3.4,1.4,1.0,0.2,10.6,WSB
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-0.88,2.65,cheanca01,1997-98,WAS,11.7,4.1,.069,-1.3,0.5,,NBA,3600000,26,82,34.6,.457,.647,4.0,2.1,1.2,0.4,12.8,WAS
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-2.51,-0.30,cheanca01,1998-99,WAS,8.8,0.4,.016,-3.3,-0.4,,NBA,4000000,27,50,25.3,.414,.493,2.8,1.5,0.8,0.3,7.7,WAS
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-2.86,-0.56,cheanca01,1999-00,BOS,6.7,0.8,.029,-3.1,-0.4,,NBA,2000000,28,67,19.5,.440,.429,2.1,1.2,0.7,0.2,4.0,BOS
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-0.78,0.15,cheanca01,2000-01,DEN,4.1,-0.1,-0.035,-5.7,-0.1,,NBA,2200000,29,9,17.0,.333,.500,2.2,1.0,0.4,0.2,2.3,DEN
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-3.78,-1.71,cheanca01,2001-02,DEN,10.3,1.2,.037,-3.1,-0.4,,NBA,2400000,30,68,24.0,.481,.687,3.5,1.6,0.5,0.3,7.3,DEN
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-0.63,2.71,cheanca01,2002-03,UTA,9.8,2.8,.056,-1.2,0.5,,NBA,1000000,31,81,29.0,.499,.580,3.5,2.0,0.8,0.2,8.6,UTA
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-0.94,1.81,cheanca01,2003-04,GSW,10.6,2.3,.054,-1.6,0.2,,NBA,1070000,32,79,26.2,.481,.610,3.3,1.7,0.8,0.2,7.6,GSW
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-2.68,-0.30,cheanca01,2004-05,GSW,7.8,0.3,.013,-5.3,-0.8,,NBA,1600000,33,55,17.3,.426,.649,2.3,1.2,0.3,0.3,4.5,GSW
+Calbert Cheaney,/players/c/cheanca01.html,1994,2006,Indiana University,false,"Harrison in Evansville, Indiana",-4.03,-0.55,cheanca01,2005-06,GSW,6.0,0.0,.000,-5.5,-0.4,,NBA,1760000,34,42,10.7,.389,1.000,1.5,0.5,0.3,0.0,2.2,GSW

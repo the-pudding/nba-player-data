@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-coughjo01,1979-80,28,GSW,NBA,24,6.7,.358,.571,0.8,0.5,0.3,0.0,2.8,6.0,-0.3,-0.086,-9.1,-0.3,,"Piedmont Hills in San Jose, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Coughran,/players/c/coughjo01.html,1980,1980,University of California,false,"Piedmont Hills in San Jose, California",-0.58,0.18,coughjo01,1979-80,GSW,6.0,-0.3,-0.086,-9.1,-0.3,,28,NBA,24,6.7,.358,.571,0.8,0.5,0.3,0.0,2.8,GSW

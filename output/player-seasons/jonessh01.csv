@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jonessh01,1988-89,22,"SAS,GSW,PHI",NBA,51,13.4,.445,.725,2.2,0.8,0.4,0.3,4.8,10.4,0.3,.022,-4.1,-0.4,,"Amityville Memorial in Amityville, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shelton Jones,/players/j/jonessh01.html,1989,1989,St. John's University,false,"Amityville Memorial in Amityville, New York",-2.75,-0.22,jonessh01,1988-89,TOT,10.4,0.3,.022,-4.1,-0.4,,22,NBA,51,13.4,.445,.725,2.2,0.8,0.4,0.3,4.8,"SAS,GSW,PHI"

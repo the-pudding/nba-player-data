@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-ellisbo02,1977-78,23,DEN,NBA,78,15.6,.416,.692,3.9,0.9,0.6,0.6,4.3,9.1,1.1,.044,-2.1,0.0,,"Parker in Chicago, Illinois"
-ellisbo02,1978-79,24,DEN,NBA,42,6.4,.457,.806,1.5,0.2,0.2,0.3,2.7,12.2,0.5,.090,-4.0,-0.1,,"Parker in Chicago, Illinois"
-ellisbo02,1979-80,25,DEN,NBA,48,10.5,.449,.755,2.4,0.6,0.2,0.5,3.4,12.1,0.9,.085,-2.2,0.0,,"Parker in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bo Ellis,/players/e/ellisbo02.html,1978,1980,Marquette University,false,"Parker in Chicago, Illinois",-1.64,0.49,ellisbo02,1977-78,DEN,9.1,1.1,.044,-2.1,0.0,,23,NBA,78,15.6,.416,.692,3.9,0.9,0.6,0.6,4.3,DEN
+Bo Ellis,/players/e/ellisbo02.html,1978,1980,Marquette University,false,"Parker in Chicago, Illinois",-0.15,0.42,ellisbo02,1978-79,DEN,12.2,0.5,.090,-4.0,-0.1,,24,NBA,42,6.4,.457,.806,1.5,0.2,0.2,0.3,2.7,DEN
+Bo Ellis,/players/e/ellisbo02.html,1978,1980,Marquette University,false,"Parker in Chicago, Illinois",-1.12,0.38,ellisbo02,1979-80,DEN,12.1,0.9,.085,-2.2,0.0,,25,NBA,48,10.5,.449,.755,2.4,0.6,0.2,0.5,3.4,DEN

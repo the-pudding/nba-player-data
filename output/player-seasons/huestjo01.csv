@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-huestjo01,2015-16,24,Oklahoma City Thunder,NBA,5,11.0,.417,.000,2.0,0.0,0.2,0.4,2.8,6.7,0.0,.010,-7.4,-0.1,,1140240,"C.M. Russell in Great Falls, Montana"
-huestjo01,2016-17,25,Oklahoma City Thunder,NBA,2,15.5,.545,.000,4.5,1.5,0.0,1.5,7.0,26.1,0.2,.265,5.7,0.1,,1191480,"C.M. Russell in Great Falls, Montana"
-huestjo01,2017-18,26,Oklahoma City Thunder,NBA,69,14.2,.330,.300,2.3,0.3,0.2,0.6,2.3,5.4,0.5,.024,-3.9,-0.5,,1471382,"C.M. Russell in Great Falls, Montana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Huestis,/players/h/huestjo01.html,2016,2018,Stanford University,true,"C.M. Russell in Great Falls, Montana",-1.12,0.05,huestjo01,2015-16,OKC,6.7,0.0,.010,-7.4,-0.1,,NBA,1140240,24,5,11.0,.417,.000,2.0,0.0,0.2,0.4,2.8,OKC
+Josh Huestis,/players/h/huestjo01.html,2016,2018,Stanford University,true,"C.M. Russell in Great Falls, Montana",-0.88,0.03,huestjo01,2016-17,OKC,26.1,0.2,.265,5.7,0.1,,NBA,1191480,25,2,15.5,.545,.000,4.5,1.5,0.0,1.5,7.0,OKC
+Josh Huestis,/players/h/huestjo01.html,2016,2018,Stanford University,true,"C.M. Russell in Great Falls, Montana",-1.13,0.79,huestjo01,2017-18,OKC,5.4,0.5,.024,-3.9,-0.5,,NBA,1471382,26,69,14.2,.330,.300,2.3,0.3,0.2,0.6,2.3,OKC

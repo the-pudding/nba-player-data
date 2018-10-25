@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-robinmi01,2018-19,20,NYK,NBA,3,7.7,.600,.500,1.7,0.0,0.0,0.3,2.3,15.8,0.1,.165,-2.6,0.0,,"Chalmette in Chalmette, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mitchell Robinson,/players/r/robinmi01.html,2019,2019,,true,"Chalmette in Chalmette, Louisiana",,,robinmi01,2018-19,NYK,15.8,0.1,.165,-2.6,0.0,,20,NBA,3,7.7,.600,.500,1.7,0.0,0.0,0.3,2.3,NYK

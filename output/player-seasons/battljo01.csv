@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-battljo01,1985-86,23,Atlanta Hawks,NBA,64,10.0,.455,.728,1.0,1.2,0.4,0.0,4.3,11.7,1.0,.074,-2.8,-0.1,,70000,"McKinley in Washington, District of Columbia"
-battljo01,1986-87,24,ATL,NBA,64,12.6,.457,.738,0.9,1.9,0.5,0.1,6.0,13.8,1.5,.092,-1.9,0.0,,,"McKinley in Washington, District of Columbia"
-battljo01,1987-88,25,Atlanta Hawks,NBA,67,18.3,.454,.750,1.7,2.4,0.5,0.1,10.6,16.3,2.3,.092,-1.7,0.1,,100000,"McKinley in Washington, District of Columbia"
-battljo01,1988-89,26,Atlanta Hawks,NBA,82,20.4,.457,.815,1.7,2.4,0.5,0.1,9.5,13.5,3.2,.092,-2.5,-0.2,,350000,"McKinley in Washington, District of Columbia"
-battljo01,1989-90,27,ATL,NBA,60,24.6,.506,.756,1.7,2.6,0.5,0.1,10.9,12.6,1.7,.055,-3.2,-0.5,,,"McKinley in Washington, District of Columbia"
-battljo01,1990-91,28,Atlanta Hawks,NBA,79,23.6,.461,.854,2.0,2.7,0.6,0.1,13.6,16.4,4.0,.102,-2.4,-0.2,,590000,"McKinley in Washington, District of Columbia"
-battljo01,1991-92,29,Cleveland Cavaliers,NBA,76,21.5,.480,.848,1.5,2.1,0.5,0.1,10.3,12.6,2.0,.059,-4.5,-1.0,,700000,"McKinley in Washington, District of Columbia"
-battljo01,1992-93,30,Cleveland Cavaliers,NBA,41,12.1,.415,.778,0.7,1.3,0.2,0.1,5.4,11.1,0.5,.047,-7.1,-0.6,,910000,"McKinley in Washington, District of Columbia"
-battljo01,1993-94,31,Cleveland Cavaliers,NBA,51,16.0,.476,.753,0.8,1.6,0.4,0.0,6.6,12.2,1.4,.084,-4.6,-0.5,,1120000,"McKinley in Washington, District of Columbia"
-battljo01,1994-95,32,Cleveland Cavaliers,NBA,28,10.0,.377,.731,0.4,1.3,0.3,0.0,4.1,10.8,0.2,.038,-6.1,-0.3,,1330000,"McKinley in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-1.56,0.32,battljo01,1985-86,ATL,11.7,1.0,.074,-2.8,-0.1,,NBA,70000,23,64,10.0,.455,.728,1.0,1.2,0.4,0.0,4.3,ATL
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-0.94,0.80,battljo01,1986-87,ATL,13.8,1.5,.092,-1.9,0.0,,NBA,,24,64,12.6,.457,.738,0.9,1.9,0.5,0.1,6.0,ATL
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-1.22,1.02,battljo01,1987-88,ATL,16.3,2.3,.092,-1.7,0.1,,NBA,100000,25,67,18.3,.454,.750,1.7,2.4,0.5,0.1,10.6,ATL
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-1.56,0.91,battljo01,1988-89,ATL,13.5,3.2,.092,-2.5,-0.2,,NBA,350000,26,82,20.4,.457,.815,1.7,2.4,0.5,0.1,9.5,ATL
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-2.18,0.21,battljo01,1989-90,ATL,12.6,1.7,.055,-3.2,-0.5,,NBA,,27,60,24.6,.506,.756,1.7,2.6,0.5,0.1,10.9,ATL
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-1.38,1.26,battljo01,1990-91,ATL,16.4,4.0,.102,-2.4,-0.2,,NBA,590000,28,79,23.6,.461,.854,2.0,2.7,0.6,0.1,13.6,ATL
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-2.75,-0.45,battljo01,1991-92,CLE,12.6,2.0,.059,-4.5,-1.0,,NBA,700000,29,76,21.5,.480,.848,1.5,2.1,0.5,0.1,10.3,CLE
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-2.51,-0.06,battljo01,1992-93,CLE,11.1,0.5,.047,-7.1,-0.6,,NBA,910000,30,41,12.1,.415,.778,0.7,1.3,0.2,0.1,5.4,CLE
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-1.87,0.23,battljo01,1993-94,CLE,12.2,1.4,.084,-4.6,-0.5,,NBA,1120000,31,51,16.0,.476,.753,0.8,1.6,0.4,0.0,6.6,CLE
+John Battle,/players/b/battljo01.html,1986,1995,Rutgers University,false,"McKinley in Washington, District of Columbia",-1.29,0.19,battljo01,1994-95,CLE,10.8,0.2,.038,-6.1,-0.3,,NBA,1330000,32,28,10.0,.377,.731,0.4,1.3,0.3,0.0,4.1,CLE

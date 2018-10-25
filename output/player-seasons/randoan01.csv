@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-randoan01,2008-09,19,Golden State Warriors,NBA,63,17.9,.462,.716,5.8,0.8,0.7,1.2,7.9,16.9,1.6,.069,-2.5,-0.1,,1709280,"Woodrow Wilson in Dallas, Texas"
-randoan01,2009-10,20,Golden State Warriors,NBA,33,22.7,.443,.801,6.5,1.3,0.8,1.5,11.6,18.7,1.5,.098,-1.4,0.1,,1837560,"Woodrow Wilson in Dallas, Texas"
-randoan01,2010-11,21,Minnesota Timberwolves,NBA,40,14.8,.466,.674,4.0,0.8,0.6,0.6,7.6,16.2,0.5,.038,-3.6,-0.2,,1965720,"Woodrow Wilson in Dallas, Texas"
-randoan01,2010-11,21,Minnesota Timberwolves,NBA,17,7.5,.311,.500,2.4,0.4,0.2,0.5,2.1,7.6,-0.2,-0.074,-7.8,-0.2,,1965720,"Woodrow Wilson in Dallas, Texas"
-randoan01,2010-11,21,Minnesota Timberwolves,NBA,23,20.1,.498,.703,5.2,1.1,0.8,0.7,11.7,18.5,0.7,.069,-2.5,-0.1,,1965720,"Woodrow Wilson in Dallas, Texas"
-randoan01,2011-12,22,Minnesota Timberwolves,NBA,34,15.2,.470,.762,3.6,0.6,0.4,1.0,7.4,17.6,1.1,.099,-1.5,0.1,,2911231,"Woodrow Wilson in Dallas, Texas"
-randoan01,2012-13,23,Denver Nuggets,NBA,39,8.4,.491,.689,2.4,0.3,0.5,0.5,3.7,15.6,0.5,.073,-1.5,0.0,,1674641,"Woodrow Wilson in Dallas, Texas"
-randoan01,2013-14,24,Denver Nuggets,NBA,43,12.3,.386,.754,2.8,0.7,0.6,0.4,4.8,12.2,0.6,.055,-1.8,0.0,,1750000,"Woodrow Wilson in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false,"Woodrow Wilson in Dallas, Texas",-1.26,0.82,randoan01,2008-09,GSW,16.9,1.6,.069,-2.5,-0.1,,NBA,1709280,19,63,17.9,.462,.716,5.8,0.8,0.7,1.2,7.9,GSW
+Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false,"Woodrow Wilson in Dallas, Texas",-0.32,1.00,randoan01,2009-10,GSW,18.7,1.5,.098,-1.4,0.1,,NBA,1837560,20,33,22.7,.443,.801,6.5,1.3,0.8,1.5,11.6,GSW
+Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false,"Woodrow Wilson in Dallas, Texas",-2.15,0.04,randoan01,2010-11,TOT,16.2,0.5,.038,-3.6,-0.2,,NBA,1965720,21,40,14.8,.466,.674,4.0,0.8,0.6,0.6,7.6,"NYK,MIN"
+Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false,"Woodrow Wilson in Dallas, Texas",-0.97,0.44,randoan01,2011-12,MIN,17.6,1.1,.099,-1.5,0.1,,NBA,2911231,22,34,15.2,.470,.762,3.6,0.6,0.4,1.0,7.4,MIN
+Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false,"Woodrow Wilson in Dallas, Texas",-0.59,0.41,randoan01,2012-13,DEN,15.6,0.5,.073,-1.5,0.0,,NBA,1674641,23,39,8.4,.491,.689,2.4,0.3,0.5,0.5,3.7,DEN
+Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false,"Woodrow Wilson in Dallas, Texas",-0.90,0.48,randoan01,2013-14,DEN,12.2,0.6,.055,-1.8,0.0,,NBA,1750000,24,43,12.3,.386,.754,2.8,0.7,0.6,0.4,4.8,DEN

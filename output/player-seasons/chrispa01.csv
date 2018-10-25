@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-chrispa01,2014-15,26,UTA,NBA,4,7.3,.250,,1.5,0.0,0.3,0.0,1.5,-2.6,-0.1,-0.150,-16.3,-0.1,,"Dominguez in Compton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Patrick Christopher,/players/c/chrispa01.html,2015,2015,University of California,false,"Dominguez in Compton, California",+0.06,0.05,chrispa01,2014-15,UTA,-2.6,-0.1,-0.150,-16.3,-0.1,,26,NBA,4,7.3,.250,,1.5,0.0,0.3,0.0,1.5,UTA

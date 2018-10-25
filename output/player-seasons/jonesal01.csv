@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesal01,2001-02,23,Philadelphia 76ers,NBA,23,5.5,.400,.500,1.6,0.1,0.1,0.4,1.1,6.2,0.1,.034,-4.5,-0.1,,332817,"Kathleen in Lakeland, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alvin Jones,/players/j/jonesal01.html,2002,2002,Georgia Institute of Technology,false,"Kathleen in Lakeland, Florida",-1.13,0.10,jonesal01,2001-02,PHI,6.2,0.1,.034,-4.5,-0.1,,NBA,332817,23,23,5.5,.400,.500,1.6,0.1,0.1,0.4,1.1,PHI

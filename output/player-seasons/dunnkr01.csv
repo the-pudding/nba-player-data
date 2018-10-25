@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dunnkr01,2016-17,22,Minnesota Timberwolves,NBA,78,17.1,.377,.610,2.1,2.4,1.0,0.5,3.8,8.1,0.1,.004,-2.2,-0.1,,3872520,"New London in New London, Connecticut"
-dunnkr01,2017-18,23,Chicago Bulls,NBA,52,29.3,.429,.737,4.3,6.0,2.0,0.5,13.4,14.5,0.8,.027,-0.1,0.7,,4046760,"New London in New London, Connecticut"
-dunnkr01,2018-19,24,CHI,NBA,1,30.0,.308,,4.0,7.0,0.0,0.0,9.0,-0.3,-0.1,-0.234,-12.9,-0.1,,,"New London in New London, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kris Dunn,/players/d/dunnkr01.html,2017,2019,Providence College,true,"New London in New London, Connecticut",-1.90,0.39,dunnkr01,2016-17,MIN,8.1,0.1,.004,-2.2,-0.1,,NBA,3872520,22,78,17.1,.377,.610,2.1,2.4,1.0,0.5,3.8,MIN
+Kris Dunn,/players/d/dunnkr01.html,2017,2019,Providence College,true,"New London in New London, Connecticut",-1.13,1.18,dunnkr01,2017-18,CHI,14.5,0.8,.027,-0.1,0.7,,NBA,4046760,23,52,29.3,.429,.737,4.3,6.0,2.0,0.5,13.4,CHI
+Kris Dunn,/players/d/dunnkr01.html,2017,2019,Providence College,true,"New London in New London, Connecticut",,,dunnkr01,2018-19,CHI,-0.3,-0.1,-0.234,-12.9,-0.1,,NBA,,24,1,30.0,.308,,4.0,7.0,0.0,0.0,9.0,CHI

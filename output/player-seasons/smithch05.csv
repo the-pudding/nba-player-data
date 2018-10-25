@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-smithch05,2013-14,26,NYK,NBA,2,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.020,-6.2,0.0,,"Saint Benedict's Preparatory School in Newark, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Smith,/players/s/smithch05.html,2014,2014,"Manhattan College, University of Louisville",false,"Saint Benedict's Preparatory School in Newark, New Jersey",-0.19,0.00,smithch05,2013-14,NYK,0.0,0.0,-0.020,-6.2,0.0,,26,NBA,2,1.0,,,0.0,0.0,0.0,0.0,0.0,NYK

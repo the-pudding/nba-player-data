@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-rowsobr01,1987-88,22,IND,NBA,4,4.0,.000,1.000,1.3,0.3,0.3,0.0,1.5,8.2,0.0,-0.008,-9.3,0.0,,"Columbia in Columbia, North Carolina",
-rowsobr01,1988-89,23,Charlotte Hornets,NBA,34,15.2,.494,.802,4.0,0.7,0.3,0.4,6.6,15.7,1.5,.135,-0.8,0.2,,"Columbia in Columbia, North Carolina",100000
-rowsobr01,1989-90,24,CHH,NBA,44,12.7,.436,.819,3.0,0.5,0.4,0.3,5.1,13.6,1.0,.085,-3.1,-0.1,,"Columbia in Columbia, North Carolina",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Brian Rowsom,/players/r/rowsobr01.html,1988,1990,University of North Carolina at Wilmington,false,"Columbia in Columbia, North Carolina",+0.42,0.03,rowsobr01,1987-88,IND,8.2,0.0,-0.008,-9.3,0.0,,22,NBA,4,4.0,.000,1.000,1.3,0.3,0.3,0.0,1.5,IND,
+Brian Rowsom,/players/r/rowsobr01.html,1988,1990,University of North Carolina at Wilmington,false,"Columbia in Columbia, North Carolina",-0.87,0.49,rowsobr01,1988-89,CHH,15.7,1.5,.135,-0.8,0.2,,23,NBA,34,15.2,.494,.802,4.0,0.7,0.3,0.4,6.6,CHH,100000
+Brian Rowsom,/players/r/rowsobr01.html,1988,1990,University of North Carolina at Wilmington,false,"Columbia in Columbia, North Carolina",-1.62,0.24,rowsobr01,1989-90,CHH,13.6,1.0,.085,-3.1,-0.1,,24,NBA,44,12.7,.436,.819,3.0,0.5,0.4,0.3,5.1,CHH,

@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcphepa01,2000-01,22,Phoenix Suns,NBA,55,10.8,.505,.724,1.4,0.7,0.5,0.1,4.8,13.6,0.9,.074,-2.8,-0.1,,316969,"South Shore in Chicago, Illinois"
-mcphepa01,2000-01,22,Phoenix Suns,NBA,33,9.3,.490,.750,1.5,0.5,0.4,0.1,3.4,10.8,0.5,.076,-2.9,-0.1,,316969,"South Shore in Chicago, Illinois"
-mcphepa01,2000-01,22,Phoenix Suns,NBA,22,13.0,.517,.706,1.4,1.0,0.6,0.0,6.8,16.7,0.4,.071,-2.7,0.0,,316969,"South Shore in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul McPherson,/players/m/mcphepa01.html,2001,2001,DePaul University,false,"South Shore in Chicago, Illinois",-2.18,0.02,mcphepa01,2000-01,TOT,13.6,0.9,.074,-2.8,-0.1,,NBA,316969,22,55,10.8,.505,.724,1.4,0.7,0.5,0.1,4.8,"PHO,GSW"

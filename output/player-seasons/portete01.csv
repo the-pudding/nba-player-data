@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-portete01,1985-86,22,Portland Trail Blazers,NBA,79,15.4,.474,.806,1.5,2.5,1.0,0.0,7.1,14.8,2.3,.093,-1.1,0.3,,151000,"South Division in Milwaukee, Wisconsin"
-portete01,1986-87,23,POR,NBA,80,33.9,.488,.838,4.2,8.9,2.0,0.1,13.1,16.2,6.8,.120,1.3,2.2,,,"South Division in Milwaukee, Wisconsin"
-portete01,1987-88,24,Portland Trail Blazers,NBA,82,36.5,.519,.846,4.6,10.1,1.8,0.2,14.9,18.1,9.8,.157,2.4,3.4,,251700,"South Division in Milwaukee, Wisconsin"
-portete01,1988-89,25,Portland Trail Blazers,NBA,81,38.3,.471,.840,4.5,9.5,1.8,0.1,17.7,17.7,9.2,.142,2.2,3.3,,272000,"South Division in Milwaukee, Wisconsin"
-portete01,1989-90,26,Portland Trail Blazers,NBA,80,34.8,.462,.892,3.4,9.1,1.9,0.1,17.6,20.0,11.7,.202,4.3,4.4,,2140000,"South Division in Milwaukee, Wisconsin"
-portete01,1990-91,27,Portland Trail Blazers,NBA,81,32.9,.515,.823,3.5,8.0,2.0,0.1,17.0,21.7,13.0,.235,6.1,5.5,,2000000,"South Division in Milwaukee, Wisconsin"
-portete01,1991-92,28,Portland Trail Blazers,NBA,82,34.0,.461,.856,3.1,5.8,1.5,0.1,18.1,18.1,10.6,.182,3.1,3.6,,1787000,"South Division in Milwaukee, Wisconsin"
-portete01,1992-93,29,Portland Trail Blazers,NBA,81,35.6,.454,.843,3.9,5.2,1.2,0.1,18.2,17.0,8.8,.147,2.4,3.2,,2200000,"South Division in Milwaukee, Wisconsin"
-portete01,1993-94,30,Portland Trail Blazers,NBA,77,26.9,.416,.872,2.8,5.2,1.0,0.2,13.1,16.4,5.4,.124,1.0,1.6,,2500000,"South Division in Milwaukee, Wisconsin"
-portete01,1994-95,31,Portland Trail Blazers,NBA,35,22.0,.393,.707,2.3,3.8,0.9,0.1,8.9,13.7,1.7,.106,-0.4,0.3,,2600000,"South Division in Milwaukee, Wisconsin"
-portete01,1995-96,32,Minnesota Timberwolves,NBA,82,25.3,.442,.785,2.6,5.5,1.1,0.2,9.4,15.4,3.7,.085,-0.8,0.6,,1525000,"South Division in Milwaukee, Wisconsin"
-portete01,1996-97,33,Minnesota Timberwolves,NBA,82,19.1,.416,.765,2.1,3.6,0.7,0.1,6.9,14.5,2.7,.082,-1.8,0.1,,1775000,"South Division in Milwaukee, Wisconsin"
-portete01,1997-98,34,Minnesota Timberwolves,NBA,82,21.8,.449,.856,2.0,3.3,0.8,0.2,9.5,17.3,5.2,.139,0.7,1.2,,2000000,"South Division in Milwaukee, Wisconsin"
-portete01,1998-99,35,Miami Heat,NBA,50,27.3,.465,.831,2.8,2.9,1.0,0.2,10.5,16.9,5.0,.178,2.8,1.7,,1000000,"South Division in Milwaukee, Wisconsin"
-portete01,1999-00,36,San Antonio Spurs,NBA,68,23.7,.447,.806,2.8,3.3,0.7,0.1,9.4,16.6,5.6,.168,2.7,1.9,,2000000,"South Division in Milwaukee, Wisconsin"
-portete01,2000-01,37,San Antonio Spurs,NBA,80,21.0,.448,.793,2.5,3.1,0.7,0.1,7.2,15.5,5.4,.154,2.2,1.8,,2200000,"South Division in Milwaukee, Wisconsin"
-portete01,2001-02,38,San Antonio Spurs,NBA,72,18.0,.424,.819,2.3,2.8,0.6,0.2,5.5,13.9,3.5,.131,0.8,0.9,,2400000,"South Division in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",-0.42,1.62,portete01,1985-86,POR,14.8,2.3,.093,-1.1,0.3,,NBA,151000,22,79,15.4,.474,.806,1.5,2.5,1.0,0.0,7.1,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+2.06,8.28,portete01,1986-87,POR,16.2,6.8,.120,1.3,2.2,,NBA,,23,80,33.9,.488,.838,4.2,8.9,2.0,0.1,13.1,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+3.40,11.77,portete01,1987-88,POR,18.1,9.8,.157,2.4,3.4,,NBA,251700,24,82,36.5,.519,.846,4.6,10.1,1.8,0.2,14.9,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+2.29,9.83,portete01,1988-89,POR,17.7,9.2,.142,2.2,3.3,,NBA,272000,25,81,38.3,.471,.840,4.5,9.5,1.8,0.1,17.7,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+4.44,15.95,portete01,1989-90,POR,20.0,11.7,.202,4.3,4.4,,NBA,2140000,26,80,34.8,.462,.892,3.4,9.1,1.9,0.1,17.6,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+5.35,16.17,portete01,1990-91,POR,21.7,13.0,.235,6.1,5.5,,NBA,2000000,27,81,32.9,.515,.823,3.5,8.0,2.0,0.1,17.0,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+3.54,14.13,portete01,1991-92,POR,18.1,10.6,.182,3.1,3.6,,NBA,1787000,28,82,34.0,.461,.856,3.1,5.8,1.5,0.1,18.1,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+1.71,8.16,portete01,1992-93,POR,17.0,8.8,.147,2.4,3.2,,NBA,2200000,29,81,35.6,.454,.843,3.9,5.2,1.2,0.1,18.2,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+0.57,4.15,portete01,1993-94,POR,16.4,5.4,.124,1.0,1.6,,NBA,2500000,30,77,26.9,.416,.872,2.8,5.2,1.0,0.2,13.1,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",-0.12,1.15,portete01,1994-95,POR,13.7,1.7,.106,-0.4,0.3,,NBA,2600000,31,35,22.0,.393,.707,2.3,3.8,0.9,0.1,8.9,POR
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",-0.35,2.71,portete01,1995-96,MIN,15.4,3.7,.085,-0.8,0.6,,NBA,1525000,32,82,25.3,.442,.785,2.6,5.5,1.1,0.2,9.4,MIN
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",-0.82,1.58,portete01,1996-97,MIN,14.5,2.7,.082,-1.8,0.1,,NBA,1775000,33,82,19.1,.416,.765,2.1,3.6,0.7,0.1,6.9,MIN
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+0.38,3.54,portete01,1997-98,MIN,17.3,5.2,.139,0.7,1.2,,NBA,2000000,34,82,21.8,.449,.856,2.0,3.3,0.8,0.2,9.5,MIN
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+1.36,3.77,portete01,1998-99,MIA,16.9,5.0,.178,2.8,1.7,,NBA,1000000,35,50,27.3,.465,.831,2.8,2.9,1.0,0.2,10.5,MIA
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+0.90,3.71,portete01,1999-00,SAS,16.6,5.6,.168,2.7,1.9,,NBA,2000000,36,68,23.7,.447,.806,2.8,3.3,0.7,0.1,9.4,SAS
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+1.34,5.03,portete01,2000-01,SAS,15.5,5.4,.154,2.2,1.8,,NBA,2200000,37,80,21.0,.448,.793,2.5,3.1,0.7,0.1,7.2,SAS
+Terry Porter,/players/p/portete01.html,1986,2002,University of Wisconsin-Stevens Point,false,"South Division in Milwaukee, Wisconsin",+1.58,3.77,portete01,2001-02,SAS,13.9,3.5,.131,0.8,0.9,,NBA,2400000,38,72,18.0,.424,.819,2.3,2.8,0.6,0.2,5.5,SAS

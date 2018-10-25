@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-creviro01,1985-86,27,"GSW,DET",NBA,3,1.3,.000,.000,0.3,0.0,0.0,0.0,0.0,-31.7,-0.1,-0.795,-37.4,0.0,,"Dawson in Montreal, Canada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ron Crevier,/players/c/creviro01.html,1986,1986,Boston College,false,"Dawson in Montreal, Canada",+0.04,0.01,creviro01,1985-86,TOT,-31.7,-0.1,-0.795,-37.4,0.0,,27,NBA,3,1.3,.000,.000,0.3,0.0,0.0,0.0,0.0,"GSW,DET"

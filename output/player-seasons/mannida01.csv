@@ -1,18 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mannida01,1988-89,22,Los Angeles Clippers,NBA,26,36.5,.494,.767,6.6,3.1,1.7,1.0,16.7,13.4,0.7,.034,-0.5,0.4,,1650000,"Lawrence in Lawrence, Kansas"
-mannida01,1989-90,23,Los Angeles Clippers,NBA,71,32.0,.533,.741,5.9,2.6,1.3,0.5,16.3,16.3,5.3,.112,1.4,1.9,,2100000,"Lawrence in Lawrence, Kansas"
-mannida01,1990-91,24,Los Angeles Clippers,NBA,73,30.1,.519,.716,5.8,2.7,1.6,0.8,15.9,16.9,5.2,.113,2.8,2.7,,2200000,"Lawrence in Lawrence, Kansas"
-mannida01,1991-92,25,Los Angeles Clippers,NBA,82,35.4,.542,.725,6.9,3.5,1.6,1.5,19.3,19.7,9.8,.162,5.5,5.5,,2300000,"Lawrence in Lawrence, Kansas"
-mannida01,1992-93,26,Los Angeles Clippers,NBA,79,34.9,.509,.802,6.6,2.6,1.4,1.3,22.8,19.6,7.9,.137,2.1,2.9,,2600000,"Lawrence in Lawrence, Kansas"
-mannida01,1993-94,27,Los Angeles Clippers,NBA,68,37.1,.488,.669,6.8,3.8,1.5,1.2,20.6,16.4,3.5,.066,0.6,1.7,,3250000,"Lawrence in Lawrence, Kansas"
-mannida01,1993-94,27,Los Angeles Clippers,NBA,42,38.0,.493,.674,7.0,4.2,1.3,1.4,23.7,17.9,2.2,.067,0.8,1.1,,3250000,"Lawrence in Lawrence, Kansas"
-mannida01,1993-94,27,Los Angeles Clippers,NBA,26,35.6,.476,.651,6.5,3.3,1.8,1.0,15.7,13.8,1.3,.066,0.2,0.5,,3250000,"Lawrence in Lawrence, Kansas"
-mannida01,1994-95,28,Phoenix Suns,NBA,46,32.8,.547,.673,6.0,3.3,0.9,1.2,17.9,18.1,3.4,.109,2.0,1.5,,1000000,"Lawrence in Lawrence, Kansas"
-mannida01,1995-96,29,Phoenix Suns,NBA,33,24.7,.459,.752,4.3,2.0,1.2,0.7,13.4,14.7,0.4,.026,-2.8,-0.2,,6833000,"Lawrence in Lawrence, Kansas"
-mannida01,1996-97,30,Phoenix Suns,NBA,77,27.7,.536,.721,6.1,2.2,1.1,1.0,13.5,17.9,5.2,.117,2.0,2.2,,6833000,"Lawrence in Lawrence, Kansas"
-mannida01,1997-98,31,Phoenix Suns,NBA,70,25.6,.516,.739,5.6,2.0,1.0,0.7,13.5,19.8,6.5,.174,2.3,1.9,,6833333,"Lawrence in Lawrence, Kansas"
-mannida01,1998-99,32,Phoenix Suns,NBA,50,23.7,.484,.696,4.4,2.3,0.7,0.8,9.1,15.4,2.6,.104,-0.1,0.6,,6833000,"Lawrence in Lawrence, Kansas"
-mannida01,1999-00,33,Milwaukee Bucks,NBA,72,16.9,.440,.654,2.9,1.0,0.9,0.4,4.6,10.1,1.0,.039,-2.0,0.0,,6833333,"Lawrence in Lawrence, Kansas"
-mannida01,2000-01,34,Milwaukee Bucks,NBA,82,15.9,.494,.729,2.6,1.1,0.6,0.4,7.4,14.3,2.6,.097,-0.5,0.5,,6830000,"Lawrence in Lawrence, Kansas"
-mannida01,2001-02,35,Dallas Mavericks,NBA,41,13.5,.477,.667,2.6,0.7,0.5,0.5,4.0,11.7,0.8,.070,-1.2,0.1,,1500000,"Lawrence in Lawrence, Kansas"
-mannida01,2002-03,36,Dallas Mavericks,NBA,13,6.8,.406,.833,1.4,0.5,0.7,0.2,2.6,17.9,0.2,.131,3.8,0.1,,900000,"Lawrence in Lawrence, Kansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-2.30,-0.04,mannida01,1988-89,LAC,13.4,0.7,.034,-0.5,0.4,,NBA,1650000,22,26,36.5,.494,.767,6.6,3.1,1.7,1.0,16.7,LAC
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-0.19,3.20,mannida01,1989-90,LAC,16.3,5.3,.112,1.4,1.9,,NBA,2100000,23,71,32.0,.533,.741,5.9,2.6,1.3,0.5,16.3,LAC
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+0.48,4.12,mannida01,1990-91,LAC,16.9,5.2,.113,2.8,2.7,,NBA,2200000,24,73,30.1,.519,.716,5.8,2.7,1.6,0.8,15.9,LAC
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+2.72,10.50,mannida01,1991-92,LAC,19.7,9.8,.162,5.5,5.5,,NBA,2300000,25,82,35.4,.542,.725,6.9,3.5,1.6,1.5,19.3,LAC
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+1.34,7.16,mannida01,1992-93,LAC,19.6,7.9,.137,2.1,2.9,,NBA,2600000,26,79,34.9,.509,.802,6.6,2.6,1.4,1.3,22.8,LAC
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-0.27,3.99,mannida01,1993-94,TOT,16.4,3.5,.066,0.6,1.7,,NBA,3250000,27,68,37.1,.488,.669,6.8,3.8,1.5,1.2,20.6,"LAC,ATL"
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+0.05,2.38,mannida01,1994-95,PHO,18.1,3.4,.109,2.0,1.5,,NBA,1000000,28,46,32.8,.547,.673,6.0,3.3,0.9,1.2,17.9,PHO
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-1.47,0.51,mannida01,1995-96,PHO,14.7,0.4,.026,-2.8,-0.2,,NBA,6833000,29,33,24.7,.459,.752,4.3,2.0,1.2,0.7,13.4,PHO
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+1.03,5.02,mannida01,1996-97,PHO,17.9,5.2,.117,2.0,2.2,,NBA,6833000,30,77,27.7,.536,.721,6.1,2.2,1.1,1.0,13.5,PHO
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+1.67,4.84,mannida01,1997-98,PHO,19.8,6.5,.174,2.3,1.9,,NBA,6833333,31,70,25.6,.516,.739,5.6,2.0,1.0,0.7,13.5,PHO
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-0.27,1.71,mannida01,1998-99,PHO,15.4,2.6,.104,-0.1,0.6,,NBA,6833000,32,50,23.7,.484,.696,4.4,2.3,0.7,0.8,9.1,PHO
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-1.75,0.42,mannida01,1999-00,MIL,10.1,1.0,.039,-2.0,0.0,,NBA,6833333,33,72,16.9,.440,.654,2.9,1.0,0.9,0.4,4.6,MIL
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-0.68,1.47,mannida01,2000-01,UTA,14.3,2.6,.097,-0.5,0.5,,NBA,6830000,34,82,15.9,.494,.729,2.6,1.1,0.6,0.4,7.4,UTA
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",-1.95,0.12,mannida01,2001-02,DAL,11.7,0.8,.070,-1.2,0.1,,NBA,1500000,35,41,13.5,.477,.667,2.6,0.7,0.5,0.5,4.0,DAL
+Danny Manning,/players/m/mannida01.html,1989,2003,University of Kansas,false,"Lawrence in Lawrence, Kansas",+0.49,0.19,mannida01,2002-03,DET,17.9,0.2,.131,3.8,0.1,,NBA,900000,36,13,6.8,.406,.833,1.4,0.5,0.7,0.2,2.6,DET

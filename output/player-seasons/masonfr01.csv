@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-masonfr01,2017-18,23,Sacramento Kings,NBA,52,18.9,.379,.817,2.5,2.8,0.7,0.2,7.9,13.0,0.5,.027,-3.4,-0.4,,1184385,"Petersburg in Petersburg, Virginia"
-masonfr01,2018-19,24,SAC,NBA,4,16.5,.571,.750,2.0,3.8,0.5,0.3,10.0,24.5,0.3,.189,3.5,0.1,,,"Petersburg in Petersburg, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Frank Mason,/players/m/masonfr01.html,2018,2019,University of Kansas,true,"Petersburg in Petersburg, Virginia",-0.39,1.26,masonfr01,2017-18,SAC,13.0,0.5,.027,-3.4,-0.4,,NBA,1184385,23,52,18.9,.379,.817,2.5,2.8,0.7,0.2,7.9,SAC
+Frank Mason,/players/m/masonfr01.html,2018,2019,University of Kansas,true,"Petersburg in Petersburg, Virginia",,,masonfr01,2018-19,SAC,24.5,0.3,.189,3.5,0.1,,NBA,,24,4,16.5,.571,.750,2.0,3.8,0.5,0.3,10.0,SAC

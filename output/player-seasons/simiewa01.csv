@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-simiewa01,2005-06,22,Miami Heat,NBA,43,9.6,.483,.882,2.0,0.2,0.3,0.0,3.4,11.5,0.8,.096,-4.5,-0.3,,867720,"Leavenworth in Leavenworth, Kansas"
-simiewa01,2006-07,23,Miami Heat,NBA,8,11.6,.391,.714,1.4,0.5,0.3,0.0,2.9,6.3,0.0,.025,-6.1,-0.1,,932760,"Leavenworth in Leavenworth, Kansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wayne Simien,/players/s/simiewa01.html,2006,2007,University of Kansas,false,"Leavenworth in Leavenworth, Kansas",-3.55,-0.42,simiewa01,2005-06,MIA,11.5,0.8,.096,-4.5,-0.3,,NBA,867720,22,43,9.6,.483,.882,2.0,0.2,0.3,0.0,3.4,MIA
+Wayne Simien,/players/s/simiewa01.html,2006,2007,University of Kansas,false,"Leavenworth in Leavenworth, Kansas",-0.38,0.12,simiewa01,2006-07,MIA,6.3,0.0,.025,-6.1,-0.1,,NBA,932760,23,8,11.6,.391,.714,1.4,0.5,0.3,0.0,2.9,MIA

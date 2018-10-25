@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-thomaji01,1983-84,23,IND,NBA,72,16.9,.464,.727,2.1,1.8,0.8,0.1,6.3,12.1,1.6,.065,-2.0,0.0,,"Nova in Fort Lauderdale, Florida",
-thomaji01,1984-85,24,Indiana Pacers,NBA,80,25.7,.478,.782,3.3,2.9,1.0,0.1,11.1,13.0,3.5,.081,-1.1,0.5,,"Nova in Fort Lauderdale, Florida",80000
-thomaji01,1985-86,25,Los Angeles Clippers,NBA,6,11.5,.400,.500,1.3,2.0,0.8,0.2,2.2,5.3,-0.1,-0.081,-5.6,-0.1,,"Nova in Fort Lauderdale, Florida",70000
-thomaji01,1986-87,26,Did Not Play,,,,,,,,,,,,,,,,,"Nova in Fort Lauderdale, Florida",
-thomaji01,1987-88,27,Did Not Play (other pro league—WBL),,,,,,,,,,,,,,,,,"Nova in Fort Lauderdale, Florida",
-thomaji01,1988-89,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Nova in Fort Lauderdale, Florida",
-thomaji01,1989-90,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Nova in Fort Lauderdale, Florida",
-thomaji01,1990-91,30,MIN,NBA,3,4.7,.250,,0.0,0.3,0.3,0.0,0.7,0.7,0.0,-0.167,-13.9,0.0,,"Nova in Fort Lauderdale, Florida",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",-2.02,0.16,thomaji01,1983-84,IND,12.1,1.6,.065,-2.0,0.0,,23,NBA,72,16.9,.464,.727,2.1,1.8,0.8,0.1,6.3,IND,
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",-1.33,1.30,thomaji01,1984-85,IND,13.0,3.5,.081,-1.1,0.5,,24,NBA,80,25.7,.478,.782,3.3,2.9,1.0,0.1,11.1,IND,80000
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",-0.53,0.08,thomaji01,1985-86,LAC,5.3,-0.1,-0.081,-5.6,-0.1,,25,NBA,6,11.5,.400,.500,1.3,2.0,0.8,0.2,2.2,LAC,70000
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",,,thomaji01,1986-87,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",,,thomaji01,1987-88,Did Not Play (other pro league—WBL),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—WBL),
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",,,thomaji01,1988-89,Did Not Play (other pro league—CBA),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",,,thomaji01,1989-90,Did Not Play (other pro league—CBA),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Jim Thomas,/players/t/thomaji01.html,1984,1991,Indiana University,false,"Nova in Fort Lauderdale, Florida",+0.05,0.02,thomaji01,1990-91,MIN,0.7,0.0,-0.167,-13.9,0.0,,30,NBA,3,4.7,.250,,0.0,0.3,0.3,0.0,0.7,MIN,

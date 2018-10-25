@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-moorean01,1987-88,23,"DEN,MIL",NBA,10,5.0,.333,.750,1.4,0.6,0.2,0.1,2.4,12.1,0.0,-0.013,-4.1,0.0,,"Carver in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Moore,/players/m/moorean01.html,1988,1988,Loyola University of Chicago,false,"Carver in Chicago, Illinois",-0.26,0.07,moorean01,1987-88,TOT,12.1,0.0,-0.013,-4.1,0.0,,23,NBA,10,5.0,.333,.750,1.4,0.6,0.2,0.1,2.4,"DEN,MIL"

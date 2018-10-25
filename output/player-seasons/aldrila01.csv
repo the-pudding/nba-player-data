@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-aldrila01,2006-07,21,Portland Trail Blazers,NBA,63,22.1,.503,.722,5.0,0.4,0.3,1.2,9.0,17.1,3.4,.118,-0.9,0.4,,4027320,"Seagoville in Seagoville, Texas"
-aldrila01,2007-08,22,Portland Trail Blazers,NBA,76,34.9,.484,.762,7.6,1.6,0.7,1.2,17.8,18.5,6.2,.113,0.8,1.8,,4329360,"Seagoville in Seagoville, Texas"
-aldrila01,2008-09,23,Portland Trail Blazers,NBA,81,37.1,.484,.781,7.5,1.9,1.0,1.0,18.1,19.1,9.5,.151,1.9,3.0,,4631400,"Seagoville in Seagoville, Texas"
-aldrila01,2009-10,24,Portland Trail Blazers,NBA,78,37.5,.495,.757,8.0,2.1,0.9,0.6,17.9,18.2,8.8,.145,1.6,2.6,,5844827,"Seagoville in Seagoville, Texas"
-aldrila01,2010-11,25,Portland Trail Blazers,NBA,81,39.6,.500,.791,8.8,2.1,1.0,1.2,21.8,21.5,11.1,.166,2.4,3.5,All-NBA (3rd),11244000,"Seagoville in Seagoville, Texas"
-aldrila01,2011-12,26,Portland Trail Blazers,NBA,55,36.3,.512,.814,8.0,2.4,0.9,0.8,21.7,22.7,7.0,.169,2.4,2.2,,12372000,"Seagoville in Seagoville, Texas"
-aldrila01,2012-13,27,Portland Trail Blazers,NBA,74,37.7,.484,.810,9.1,2.6,0.8,1.2,21.1,20.4,7.2,.124,0.8,2.0,,13500000,"Seagoville in Seagoville, Texas"
-aldrila01,2013-14,28,Portland Trail Blazers,NBA,69,36.2,.458,.822,11.1,2.6,0.9,1.0,23.2,21.8,7.5,.144,0.3,1.5,All-NBA (3rd),14128000,"Seagoville in Seagoville, Texas"
-aldrila01,2014-15,29,Portland Trail Blazers,NBA,71,35.4,.466,.845,10.2,1.7,0.7,1.0,23.4,22.8,8.6,.165,0.3,1.4,All-NBA (2nd),16006000,"Seagoville in Seagoville, Texas"
-aldrila01,2015-16,30,San Antonio Spurs,NBA,74,30.6,.513,.858,8.5,1.5,0.5,1.1,18.0,22.4,10.1,.215,1.8,2.2,All-NBA (3rd),19500000,"Seagoville in Seagoville, Texas"
-aldrila01,2016-17,31,San Antonio Spurs,NBA,72,32.4,.477,.812,7.3,1.9,0.6,1.2,17.3,18.6,7.2,.149,1.0,1.8,,20575005,"Seagoville in Seagoville, Texas"
-aldrila01,2017-18,32,San Antonio Spurs,NBA,75,33.5,.510,.837,8.5,2.0,0.6,1.2,23.1,25.0,10.9,.209,3.3,3.3,All-NBA (2nd),21461010,"Seagoville in Seagoville, Texas"
-aldrila01,2018-19,33,SAS,NBA,4,37.5,.408,.676,12.5,3.5,0.8,1.5,21.3,22.3,0.3,.093,-0.4,0.1,,,"Seagoville in Seagoville, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+0.61,2.73,aldrila01,2006-07,POR,17.1,3.4,.118,-0.9,0.4,,NBA,4027320,21,63,22.1,.503,.722,5.0,0.4,0.3,1.2,9.0,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+1.41,6.59,aldrila01,2007-08,POR,18.5,6.2,.113,0.8,1.8,,NBA,4329360,22,76,34.9,.484,.762,7.6,1.6,0.7,1.2,17.8,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+3.76,12.88,aldrila01,2008-09,POR,19.1,9.5,.151,1.9,3.0,,NBA,4631400,23,81,37.1,.484,.781,7.5,1.9,1.0,1.0,18.1,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+1.81,8.63,aldrila01,2009-10,POR,18.2,8.8,.145,1.6,2.6,,NBA,5844827,24,78,37.5,.495,.757,8.0,2.1,0.9,0.6,17.9,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+3.08,12.43,aldrila01,2010-11,POR,21.5,11.1,.166,2.4,3.5,All-NBA (3rd),NBA,11244000,25,81,39.6,.500,.791,8.8,2.1,1.0,1.2,21.8,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+2.83,6.95,aldrila01,2011-12,POR,22.7,7.0,.169,2.4,2.2,,NBA,12372000,26,55,36.3,.512,.814,8.0,2.4,0.9,0.8,21.7,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+2.18,8.42,aldrila01,2012-13,POR,20.4,7.2,.124,0.8,2.0,,NBA,13500000,27,74,37.7,.484,.810,9.1,2.6,0.8,1.2,21.1,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+3.07,10.49,aldrila01,2013-14,POR,21.8,7.5,.144,0.3,1.5,All-NBA (3rd),NBA,14128000,28,69,36.2,.458,.822,11.1,2.6,0.9,1.0,23.2,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+2.61,8.99,aldrila01,2014-15,POR,22.8,8.6,.165,0.3,1.4,All-NBA (2nd),NBA,16006000,29,71,35.4,.466,.845,10.2,1.7,0.7,1.0,23.4,POR
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+2.73,8.89,aldrila01,2015-16,SAS,22.4,10.1,.215,1.8,2.2,All-NBA (3rd),NBA,19500000,30,74,30.6,.513,.858,8.5,1.5,0.5,1.1,18.0,SAS
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",-0.10,4.24,aldrila01,2016-17,SAS,18.6,7.2,.149,1.0,1.8,,NBA,20575005,31,72,32.4,.477,.812,7.3,1.9,0.6,1.2,17.3,SAS
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",+3.54,10.48,aldrila01,2017-18,SAS,25.0,10.9,.209,3.3,3.3,All-NBA (2nd),NBA,21461010,32,75,33.5,.510,.837,8.5,2.0,0.6,1.2,23.1,SAS
+LaMarcus Aldridge,/players/a/aldrila01.html,2007,2019,University of Texas at Austin,true,"Seagoville in Seagoville, Texas",,,aldrila01,2018-19,SAS,22.3,0.3,.093,-0.4,0.1,,NBA,,33,4,37.5,.408,.676,12.5,3.5,0.8,1.5,21.3,SAS

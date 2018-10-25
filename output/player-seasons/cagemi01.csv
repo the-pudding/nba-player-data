@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-cagemi01,1984-85,23,LAC,NBA,75,21.5,.543,.737,5.2,0.7,0.5,0.4,7.1,12.5,3.2,.096,-1.1,0.4,,"West Memphis in West Memphis, Arkansas",
-cagemi01,1985-86,24,Los Angeles Clippers,NBA,78,20.1,.479,.649,5.3,1.0,0.8,0.4,6.7,12.3,1.7,.052,-1.3,0.3,,"West Memphis in West Memphis, Arkansas",250000
-cagemi01,1986-87,25,LAC,NBA,80,36.5,.521,.730,11.5,1.6,1.2,0.8,15.7,17.1,7.2,.119,1.1,2.3,,"West Memphis in West Memphis, Arkansas",
-cagemi01,1987-88,26,Los Angeles Clippers,NBA,72,36.9,.470,.688,13.0,1.5,1.3,0.8,14.5,16.4,6.7,.121,0.8,1.9,,"West Memphis in West Memphis, Arkansas",810000
-cagemi01,1988-89,27,Seattle SuperSonics,NBA,80,31.7,.498,.743,9.6,1.6,1.2,0.7,10.3,14.7,6.7,.126,1.6,2.3,,"West Memphis in West Memphis, Arkansas",810000
-cagemi01,1989-90,28,SEA,NBA,82,31.6,.504,.698,10.0,0.9,1.0,0.5,9.7,14.5,6.8,.125,1.0,2.0,,"West Memphis in West Memphis, Arkansas",
-cagemi01,1990-91,29,Seattle SuperSonics,NBA,82,26.1,.508,.625,6.8,1.1,1.0,0.7,6.4,12.0,4.3,.097,1.0,1.6,,"West Memphis in West Memphis, Arkansas",910000
-cagemi01,1991-92,30,Seattle SuperSonics,NBA,82,30.0,.566,.620,8.9,1.1,1.2,0.7,8.8,15.0,7.6,.148,2.6,2.9,,"West Memphis in West Memphis, Arkansas",1390000
-cagemi01,1992-93,31,Seattle SuperSonics,NBA,82,26.3,.526,.469,8.0,0.8,0.9,0.6,6.1,13.2,6.2,.137,1.7,2.0,,"West Memphis in West Memphis, Arkansas",1390000
-cagemi01,1993-94,32,Seattle SuperSonics,NBA,82,20.8,.545,.486,5.4,0.5,0.9,0.5,4.6,11.9,4.9,.137,0.7,1.2,,"West Memphis in West Memphis, Arkansas",1502000
-cagemi01,1994-95,33,Cleveland Cavaliers,NBA,82,24.9,.521,.602,6.9,0.7,0.7,0.8,5.0,13.5,5.8,.137,1.1,1.6,,"West Memphis in West Memphis, Arkansas",1635000
-cagemi01,1995-96,34,Cleveland Cavaliers,NBA,82,32.1,.556,.543,8.9,0.6,1.1,1.0,6.0,14.1,8.1,.148,1.5,2.3,,"West Memphis in West Memphis, Arkansas",2126000
-cagemi01,1996-97,35,Philadelphia 76ers,NBA,82,15.2,.468,.463,3.9,0.5,0.6,0.5,1.8,10.3,2.0,.078,-1.3,0.2,,"West Memphis in West Memphis, Arkansas",1473000
-cagemi01,1997-98,36,New Jersey Nets,NBA,79,15.2,.512,.556,3.9,0.4,0.6,0.6,1.3,10.1,2.5,.100,0.9,0.9,,"West Memphis in West Memphis, Arkansas",2055421
-cagemi01,1998-99,37,New Jersey Nets,NBA,,,,,,,,,,,,,,,,"West Memphis in West Memphis, Arkansas",2350000
-cagemi01,1999-00,38,New Jersey Nets,NBA,20,12.1,.500,1.000,4.1,0.5,0.4,0.4,1.4,12.6,0.7,.140,0.5,0.2,,"West Memphis in West Memphis, Arkansas",510000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-1.48,0.87,cagemi01,1984-85,LAC,12.5,3.2,.096,-1.1,0.4,,23,NBA,75,21.5,.543,.737,5.2,0.7,0.5,0.4,7.1,LAC,
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-2.45,-0.15,cagemi01,1985-86,LAC,12.3,1.7,.052,-1.3,0.3,,24,NBA,78,20.1,.479,.649,5.3,1.0,0.8,0.4,6.7,LAC,250000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-0.54,3.44,cagemi01,1986-87,LAC,17.1,7.2,.119,1.1,2.3,,25,NBA,80,36.5,.521,.730,11.5,1.6,1.2,0.8,15.7,LAC,
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-0.57,3.03,cagemi01,1987-88,LAC,16.4,6.7,.121,0.8,1.9,,26,NBA,72,36.9,.470,.688,13.0,1.5,1.3,0.8,14.5,LAC,810000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.40,4.90,cagemi01,1988-89,SEA,14.7,6.7,.126,1.6,2.3,,27,NBA,80,31.7,.498,.743,9.6,1.6,1.2,0.7,10.3,SEA,810000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.76,5.31,cagemi01,1989-90,SEA,14.5,6.8,.125,1.0,2.0,,28,NBA,82,31.6,.504,.698,10.0,0.9,1.0,0.5,9.7,SEA,
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.02,3.45,cagemi01,1990-91,SEA,12.0,4.3,.097,1.0,1.6,,29,NBA,82,26.1,.508,.625,6.8,1.1,1.0,0.7,6.4,SEA,910000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+1.07,5.98,cagemi01,1991-92,SEA,15.0,7.6,.148,2.6,2.9,,30,NBA,82,30.0,.566,.620,8.9,1.1,1.2,0.7,8.8,SEA,1390000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.57,4.87,cagemi01,1992-93,SEA,13.2,6.2,.137,1.7,2.0,,31,NBA,82,26.3,.526,.469,8.0,0.8,0.9,0.6,6.1,SEA,1390000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.22,3.05,cagemi01,1993-94,SEA,11.9,4.9,.137,0.7,1.2,,32,NBA,82,20.8,.545,.486,5.4,0.5,0.9,0.5,4.6,SEA,1502000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.07,3.37,cagemi01,1994-95,CLE,13.5,5.8,.137,1.1,1.6,,33,NBA,82,24.9,.521,.602,6.9,0.7,0.7,0.8,5.0,CLE,1635000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",+0.89,5.84,cagemi01,1995-96,CLE,14.1,8.1,.148,1.5,2.3,,34,NBA,82,32.1,.556,.543,8.9,0.6,1.1,1.0,6.0,CLE,2126000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-1.74,0.45,cagemi01,1996-97,PHI,10.3,2.0,.078,-1.3,0.2,,35,NBA,82,15.2,.468,.463,3.9,0.5,0.6,0.5,1.8,PHI,1473000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-0.76,1.22,cagemi01,1997-98,NJN,10.1,2.5,.100,0.9,0.9,,36,NBA,79,15.2,.512,.556,3.9,0.4,0.6,0.6,1.3,NJN,2055421
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",,,cagemi01,1998-99,Did Not Play (retired),,,,,,,37,NBA,,,,,,,,,,Did Not Play (retired),2350000
+Michael Cage,/players/c/cagemi01.html,1985,2000,San Diego State University,false,"West Memphis in West Memphis, Arkansas",-0.50,0.29,cagemi01,1999-00,NJN,12.6,0.7,.140,0.5,0.2,,38,NBA,20,12.1,.500,1.000,4.1,0.5,0.4,0.4,1.4,NJN,510000

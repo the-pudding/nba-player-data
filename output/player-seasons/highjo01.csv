@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-highjo01,1979-80,22,PHO,NBA,82,13.7,.446,.674,2.1,1.5,0.9,0.2,5.0,10.1,1.1,.047,-1.7,0.1,,"Jones Valley in Birmingham, Alabama"
-highjo01,1980-81,23,PHO,NBA,81,21.6,.427,.693,2.8,2.5,1.6,0.3,8.4,10.8,2.5,.069,-0.6,0.6,,"Jones Valley in Birmingham, Alabama"
-highjo01,1981-82,24,Did Not Play,,,,,,,,,,,,,,,,,"Jones Valley in Birmingham, Alabama"
-highjo01,1982-83,25,PHO,NBA,82,14.1,.461,.463,1.8,1.9,1.0,0.4,3.2,8.6,1.2,.051,-0.5,0.4,,"Jones Valley in Birmingham, Alabama"
-highjo01,1983-84,26,PHO,NBA,29,17.7,.346,.345,2.3,1.8,1.4,0.4,1.6,4.5,-0.1,-0.008,-1.0,0.1,,"Jones Valley in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Johnny High,/players/h/highjo01.html,1980,1984,"University of Nevada, Reno",false,"Jones Valley in Birmingham, Alabama",-1.04,1.00,highjo01,1979-80,PHO,10.1,1.1,.047,-1.7,0.1,,22,NBA,82,13.7,.446,.674,2.1,1.5,0.9,0.2,5.0,PHO
+Johnny High,/players/h/highjo01.html,1980,1984,"University of Nevada, Reno",false,"Jones Valley in Birmingham, Alabama",+0.06,2.97,highjo01,1980-81,PHO,10.8,2.5,.069,-0.6,0.6,,23,NBA,81,21.6,.427,.693,2.8,2.5,1.6,0.3,8.4,PHO
+Johnny High,/players/h/highjo01.html,1980,1984,"University of Nevada, Reno",false,"Jones Valley in Birmingham, Alabama",,,highjo01,1981-82,Did Not Play,,,,,,,24,,,,,,,,,,,Did Not Play
+Johnny High,/players/h/highjo01.html,1980,1984,"University of Nevada, Reno",false,"Jones Valley in Birmingham, Alabama",-0.33,1.57,highjo01,1982-83,PHO,8.6,1.2,.051,-0.5,0.4,,25,NBA,82,14.1,.461,.463,1.8,1.9,1.0,0.4,3.2,PHO
+Johnny High,/players/h/highjo01.html,1980,1984,"University of Nevada, Reno",false,"Jones Valley in Birmingham, Alabama",-1.49,0.26,highjo01,1983-84,PHO,4.5,-0.1,-0.008,-1.0,0.1,,26,NBA,29,17.7,.346,.345,2.3,1.8,1.4,0.4,1.6,PHO

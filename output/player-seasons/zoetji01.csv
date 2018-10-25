@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-zoetji01,1982-83,29,DET,NBA,7,4.3,.200,,1.1,0.1,0.1,0.4,0.3,-0.8,-0.1,-0.123,-7.3,0.0,,"Port Perry in Port Perry, Canada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Zoet,/players/z/zoetji01.html,1983,1983,Kent State University,false,"Port Perry in Port Perry, Canada",-0.15,0.04,zoetji01,1982-83,DET,-0.8,-0.1,-0.123,-7.3,0.0,,29,NBA,7,4.3,.200,,1.1,0.1,0.1,0.4,0.3,DET

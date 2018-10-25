@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-grayle01,1976-77,25,"SEA,WSB",NBA,83,19.7,.436,.747,3.5,1.5,0.7,0.4,7.6,11.4,1.8,.053,-2.0,0.0,,"Sumner in Kansas City, Kansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Leonard Gray,/players/g/grayle01.html,1975,1977,"California State University, Long Beach",false,"Sumner in Kansas City, Kansas",-1.94,0.17,grayle01,1976-77,TOT,11.4,1.8,.053,-2.0,0.0,,25,NBA,83,19.7,.436,.747,3.5,1.5,0.7,0.4,7.6,"SEA,WSB"

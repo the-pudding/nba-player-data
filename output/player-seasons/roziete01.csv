@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-roziete01,2015-16,21,Boston Celtics,NBA,39,8.0,.274,.800,1.6,0.9,0.2,0.0,1.8,5.0,-0.3,-0.047,-6.6,-0.4,,1824360,"Hargrave Military Academy in Chatham, Virginia"
-roziete01,2016-17,22,Boston Celtics,NBA,74,17.1,.367,.773,3.1,1.8,0.6,0.1,5.5,10.9,1.4,.054,-2.5,-0.2,,1906440,"Hargrave Military Academy in Chatham, Virginia"
-roziete01,2017-18,23,Boston Celtics,NBA,80,25.9,.395,.772,4.7,2.9,1.0,0.2,11.3,15.1,5.6,.130,1.8,2.0,,1988520,"Hargrave Military Academy in Chatham, Virginia"
-roziete01,2018-19,24,BOS,NBA,4,22.0,.382,1.000,4.0,1.8,0.3,0.3,8.5,10.5,0.2,.111,-1.7,0.0,,,"Hargrave Military Academy in Chatham, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Terry Rozier,/players/r/roziete01.html,2016,2019,University of Louisville,true,"Hargrave Military Academy in Chatham, Virginia",-3.78,-0.46,roziete01,2015-16,BOS,5.0,-0.3,-0.047,-6.6,-0.4,,NBA,1824360,21,39,8.0,.274,.800,1.6,0.9,0.2,0.0,1.8,BOS
+Terry Rozier,/players/r/roziete01.html,2016,2019,University of Louisville,true,"Hargrave Military Academy in Chatham, Virginia",-0.63,1.72,roziete01,2016-17,BOS,10.9,1.4,.054,-2.5,-0.2,,NBA,1906440,22,74,17.1,.367,.773,3.1,1.8,0.6,0.1,5.5,BOS
+Terry Rozier,/players/r/roziete01.html,2016,2019,University of Louisville,true,"Hargrave Military Academy in Chatham, Virginia",-0.31,3.68,roziete01,2017-18,BOS,15.1,5.6,.130,1.8,2.0,,NBA,1988520,23,80,25.9,.395,.772,4.7,2.9,1.0,0.2,11.3,BOS
+Terry Rozier,/players/r/roziete01.html,2016,2019,University of Louisville,true,"Hargrave Military Academy in Chatham, Virginia",,,roziete01,2018-19,BOS,10.5,0.2,.111,-1.7,0.0,,NBA,,24,4,22.0,.382,1.000,4.0,1.8,0.3,0.3,8.5,BOS

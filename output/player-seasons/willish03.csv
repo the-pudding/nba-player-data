@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willish03,2006-07,20,Indiana Pacers,NBA,46,12.1,.469,.550,1.8,0.5,0.1,0.2,3.9,9.7,0.7,.063,-3.1,-0.2,,1367760,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2007-08,21,Indiana Pacers,NBA,65,14.9,.427,.717,2.7,0.9,0.4,0.4,6.7,12.8,1.4,.069,-2.3,-0.1,,1470360,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2008-09,22,Dallas Mavericks,NBA,15,11.3,.286,.818,3.1,0.1,0.1,0.6,2.8,7.5,0.0,-0.012,-7.4,-0.2,,1572960,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2009-10,23,New Jersey Nets,NBA,,,,,,,,,,,,,,,,2416067,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2010-11,24,New York Knicks,NBA,64,20.7,.426,.837,3.7,0.7,0.6,0.8,7.1,12.2,2.5,.089,-0.5,0.5,,885210,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2011-12,25,New Jersey Nets,NBA,25,20.6,.286,.727,2.7,0.6,0.4,0.4,4.5,4.9,-0.4,-0.041,-5.5,-0.5,,3000000,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2012-13,26,Portland Trail Blazers,NBA,,,,,,,,,,,,,,,,2600000,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2013-14,27,LAL,NBA,36,20.9,.380,.700,4.6,0.8,0.5,0.8,5.6,9.5,0.7,.045,-1.2,0.2,,,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2014-15,28,Milwaukee Bucks,NBA,63,17.3,.403,.875,2.6,0.7,0.4,0.3,5.4,10.5,1.9,.084,-1.0,0.3,,1227985,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2014-15,28,Milwaukee Bucks,NBA,44,21.0,.425,.848,3.2,0.8,0.5,0.4,6.6,11.2,2.0,.102,-0.2,0.4,,1227985,"Laurinburg Institute in Laurinburg, North Carolina"
-willish03,2014-15,28,Milwaukee Bucks,NBA,19,8.6,.317,1.000,1.4,0.4,0.2,0.2,2.6,6.7,-0.1,-0.021,-5.5,-0.1,,1227985,"Laurinburg Institute in Laurinburg, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-3.82,-0.55,willish03,2006-07,IND,9.7,0.7,.063,-3.1,-0.2,,NBA,1367760,20,46,12.1,.469,.550,1.8,0.5,0.1,0.2,3.9,IND
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-0.94,0.88,willish03,2007-08,IND,12.8,1.4,.069,-2.3,-0.1,,NBA,1470360,21,65,14.9,.427,.717,2.7,0.9,0.4,0.4,6.7,IND
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-1.13,0.13,willish03,2008-09,DAL,7.5,0.0,-0.012,-7.4,-0.2,,NBA,1572960,22,15,11.3,.286,.818,3.1,0.1,0.1,0.6,2.8,DAL
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",,,willish03,2009-10,Did Not Play,,,,,,,NBA,2416067,23,,,,,,,,,,Did Not Play
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-0.42,1.80,willish03,2010-11,NYK,12.2,2.5,.089,-0.5,0.5,,NBA,885210,24,64,20.7,.426,.837,3.7,0.7,0.6,0.8,7.1,NYK
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-2.96,-0.24,willish03,2011-12,NJN,4.9,-0.4,-0.041,-5.5,-0.5,,NBA,3000000,25,25,20.6,.286,.727,2.7,0.6,0.4,0.4,4.5,NJN
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",,,willish03,2012-13,Did Not Play,,,,,,,NBA,2600000,26,,,,,,,,,,Did Not Play
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",+0.63,1.48,willish03,2013-14,LAL,9.5,0.7,.045,-1.2,0.2,,NBA,,27,36,20.9,.380,.700,4.6,0.8,0.5,0.8,5.6,LAL
+Shawne Williams,/players/w/willish03.html,2007,2015,University of Memphis,false,"Laurinburg Institute in Laurinburg, North Carolina",-1.82,0.33,willish03,2014-15,TOT,10.5,1.9,.084,-1.0,0.3,,NBA,1227985,28,63,17.3,.403,.875,2.6,0.7,0.4,0.3,5.4,"MIA,DET"

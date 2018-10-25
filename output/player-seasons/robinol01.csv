@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-robinol01,1982-83,22,SAS,NBA,35,4.2,.361,.667,0.5,0.6,0.1,0.1,2.9,14.1,0.1,.018,-6.5,-0.2,,"Woodlawn in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Oliver Robinson,/players/r/robinol01.html,1983,1983,University of Alabama at Birmingham,false,"Woodlawn in Birmingham, Alabama",-0.83,0.14,robinol01,1982-83,SAS,14.1,0.1,.018,-6.5,-0.2,,22,NBA,35,4.2,.361,.667,0.5,0.6,0.1,0.1,2.9,SAS

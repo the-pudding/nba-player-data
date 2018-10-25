@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-penbemi01,2000-01,26,Los Angeles Lakers,NBA,53,16.1,.414,.903,1.2,1.3,0.4,0.0,5.0,11.2,1.6,.088,-2.0,0.0,,316969,"Hoover in Fresno, California"
-penbemi01,2001-02,27,Los Angeles Lakers,NBA,3,4.0,.500,.750,0.7,0.7,0.7,0.0,1.7,31.3,0.1,.420,10.3,0.0,,28405,"Hoover in Fresno, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Penberthy,/players/p/penbemi01.html,2001,2002,Master's College,false,"Hoover in Fresno, California",-3.24,-0.57,penbemi01,2000-01,LAL,11.2,1.6,.088,-2.0,0.0,,NBA,316969,26,53,16.1,.414,.903,1.2,1.3,0.4,0.0,5.0,LAL
+Mike Penberthy,/players/p/penbemi01.html,2001,2002,Master's College,false,"Hoover in Fresno, California",+0.09,0.02,penbemi01,2001-02,LAL,31.3,0.1,.420,10.3,0.0,,NBA,28405,27,3,4.0,.500,.750,0.7,0.7,0.7,0.0,1.7,LAL

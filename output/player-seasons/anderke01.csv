@@ -1,23 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-anderke01,1991-92,21,New Jersey Nets,NBA,64,17.0,.390,.745,2.0,3.2,1.0,0.1,7.0,12.8,0.5,.022,-3.6,-0.5,,1828000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1992-93,22,New Jersey Nets,NBA,55,36.5,.435,.776,4.1,8.2,1.7,0.2,16.9,16.6,4.4,.106,1.4,1.7,,2376000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1993-94,23,New Jersey Nets,NBA,82,38.2,.417,.818,3.9,9.6,1.9,0.2,18.8,18.2,7.5,.114,2.1,3.2,,2925000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1994-95,24,New Jersey Nets,NBA,72,37.3,.399,.841,3.5,9.4,1.4,0.2,17.6,18.0,6.8,.122,1.7,2.5,,3463200,"Archbishop Molloy in Jamaica, New York"
-anderke01,1995-96,25,New Jersey Nets,NBA,69,34.0,.418,.769,2.9,8.3,1.6,0.2,15.2,19.5,7.7,.158,2.3,2.6,,3898000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1995-96,25,New Jersey Nets,NBA,31,33.6,.376,.803,3.3,8.0,1.7,0.3,15.3,19.8,3.7,.172,3.2,1.4,,3898000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1995-96,25,New Jersey Nets,NBA,38,34.3,.454,.727,2.7,8.6,1.6,0.2,15.2,19.2,4.0,.148,1.6,1.2,,3898000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1996-97,26,Portland Trail Blazers,NBA,82,37.6,.427,.768,4.4,7.1,2.0,0.2,17.5,19.5,12.4,.193,5.0,5.5,,4175000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1997-98,27,Portland Trail Blazers,NBA,61,30.5,.398,.789,2.8,5.7,1.4,0.0,12.2,14.8,3.7,.096,-0.6,0.7,,5010000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1997-98,27,Portland Trail Blazers,NBA,45,32.7,.387,.772,3.0,5.4,1.4,0.0,12.6,13.3,2.3,.076,-0.8,0.4,,5010000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1997-98,27,Portland Trail Blazers,NBA,16,24.1,.435,.837,2.4,6.3,1.6,0.0,11.2,20.4,1.4,.171,0.4,0.2,,5010000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1998-99,28,Boston Celtics,NBA,34,29.7,.451,.832,3.0,5.7,1.0,0.1,12.1,16.7,2.4,.116,-1.3,0.2,,5845000,"Archbishop Molloy in Jamaica, New York"
-anderke01,1999-00,29,Boston Celtics,NBA,82,31.6,.440,.775,2.7,5.1,1.7,0.1,14.0,17.4,7.3,.136,1.2,2.1,,6680000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2000-01,30,Boston Celtics,NBA,33,25.7,.388,.831,2.2,4.1,1.3,0.1,7.5,12.2,1.1,.063,-3.2,-0.3,,7520000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2001-02,31,Boston Celtics,NBA,76,32.0,.436,.742,3.6,5.3,1.9,0.1,9.6,13.6,5.2,.103,-0.3,1.0,,8350000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2002-03,32,Seattle SuperSonics,NBA,61,18.6,.427,.789,2.2,3.2,1.0,0.1,6.1,13.6,1.6,.069,-2.1,0.0,,9185000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2002-03,32,Seattle SuperSonics,NBA,38,18.1,.440,.829,2.3,3.2,1.1,0.0,6.1,15.9,1.5,.107,-0.5,0.3,,9185000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2002-03,32,Seattle SuperSonics,NBA,23,19.4,.407,.727,2.0,3.3,0.8,0.2,6.0,10.2,0.1,.009,-4.6,-0.3,,9185000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2003-04,33,Indiana Pacers,NBA,44,20.6,.441,.729,1.8,2.8,0.6,0.1,6.0,11.1,1.5,.079,-2.6,-0.1,,1070000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2004-05,34,Atlanta Hawks,NBA,43,17.3,.423,.730,2.0,2.4,0.8,0.0,4.7,10.1,0.2,.011,-4.4,-0.4,,1100000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2004-05,34,Atlanta Hawks,NBA,39,18.4,.426,.730,2.1,2.5,0.8,0.0,5.0,10.4,0.2,.016,-4.2,-0.4,,1100000,"Archbishop Molloy in Jamaica, New York"
-anderke01,2004-05,34,Atlanta Hawks,NBA,4,6.5,.364,,1.3,1.3,0.0,0.0,2.0,2.9,-0.1,-0.125,-9.4,0.0,,1100000,"Archbishop Molloy in Jamaica, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-1.78,0.38,anderke01,1991-92,NJN,12.8,0.5,.022,-3.6,-0.5,,NBA,1828000,21,64,17.0,.390,.745,2.0,3.2,1.0,0.1,7.0,NJN
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+1.09,4.60,anderke01,1992-93,NJN,16.6,4.4,.106,1.4,1.7,,NBA,2376000,22,55,36.5,.435,.776,4.1,8.2,1.7,0.2,16.9,NJN
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+2.19,10.02,anderke01,1993-94,NJN,18.2,7.5,.114,2.1,3.2,,NBA,2925000,23,82,38.2,.417,.818,3.9,9.6,1.9,0.2,18.8,NJN
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+1.30,6.49,anderke01,1994-95,NJN,18.0,6.8,.122,1.7,2.5,,NBA,3463200,24,72,37.3,.399,.841,3.5,9.4,1.4,0.2,17.6,NJN
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+1.88,6.56,anderke01,1995-96,TOT,19.5,7.7,.158,2.3,2.6,,NBA,3898000,25,69,34.0,.418,.769,2.9,8.3,1.6,0.2,15.2,"NJN,CHH"
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+4.33,14.36,anderke01,1996-97,POR,19.5,12.4,.193,5.0,5.5,,NBA,4175000,26,82,37.6,.427,.768,4.4,7.1,2.0,0.2,17.5,POR
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-0.03,2.82,anderke01,1997-98,TOT,14.8,3.7,.096,-0.6,0.7,,NBA,5010000,27,61,30.5,.398,.789,2.8,5.7,1.4,0.0,12.2,"POR,BOS"
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-0.20,1.41,anderke01,1998-99,BOS,16.7,2.4,.116,-1.3,0.2,,NBA,5845000,28,34,29.7,.451,.832,3.0,5.7,1.0,0.1,12.1,BOS
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+1.56,6.75,anderke01,1999-00,BOS,17.4,7.3,.136,1.2,2.1,,NBA,6680000,29,82,31.6,.440,.775,2.7,5.1,1.7,0.1,14.0,BOS
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-0.74,0.86,anderke01,2000-01,BOS,12.2,1.1,.063,-3.2,-0.3,,NBA,7520000,30,33,25.7,.388,.831,2.2,4.1,1.3,0.1,7.5,BOS
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",+1.29,7.35,anderke01,2001-02,BOS,13.6,5.2,.103,-0.3,1.0,,NBA,8350000,31,76,32.0,.436,.742,3.6,5.3,1.9,0.1,9.6,BOS
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-0.93,1.03,anderke01,2002-03,TOT,13.6,1.6,.069,-2.1,0.0,,NBA,9185000,32,61,18.6,.427,.789,2.2,3.2,1.0,0.1,6.1,"SEA,NOH"
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-1.86,0.17,anderke01,2003-04,IND,11.1,1.5,.079,-2.6,-0.1,,NBA,1070000,33,44,20.6,.441,.729,1.8,2.8,0.6,0.1,6.0,IND
+Kenny Anderson,/players/a/anderke01.html,1992,2005,Georgia Institute of Technology,false,"Archbishop Molloy in Jamaica, New York",-2.70,-0.24,anderke01,2004-05,TOT,10.1,0.2,.011,-4.4,-0.4,,NBA,1100000,34,43,17.3,.423,.730,2.0,2.4,0.8,0.0,4.7,"ATL,LAC"

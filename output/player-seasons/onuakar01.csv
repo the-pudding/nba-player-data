@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-onuakar01,2013-14,26,"NOP,CLE",NBA,5,6.0,.200,.500,1.6,0.6,0.0,0.0,0.6,3.8,0.0,-0.044,-8.4,0.0,,"Episcopal in Alexandria, Virginia",
-onuakar01,2014-15,27,Minnesota Timberwolves,NBA,6,11.3,.857,.375,3.5,0.7,0.2,0.5,4.5,22.8,0.3,.197,2.3,0.1,,"Episcopal in Alexandria, Virginia",43226
-onuakar01,2015-16,28,Did Not Play,,,,,,,,,,,,,,,,,"Episcopal in Alexandria, Virginia",
-onuakar01,2016-17,29,Orlando Magic,NBA,8,3.5,.500,,0.8,0.3,0.0,0.1,0.5,5.8,0.0,-0.005,-5.9,0.0,,"Episcopal in Alexandria, Virginia",440078
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Arinze Onuaku,/players/o/onuakar01.html,2014,2017,Syracuse University,true,"Episcopal in Alexandria, Virginia",-0.10,0.04,onuakar01,2013-14,TOT,3.8,0.0,-0.044,-8.4,0.0,,26,NBA,5,6.0,.200,.500,1.6,0.6,0.0,0.0,0.6,"NOP,CLE",
+Arinze Onuaku,/players/o/onuakar01.html,2014,2017,Syracuse University,true,"Episcopal in Alexandria, Virginia",-0.21,0.10,onuakar01,2014-15,MIN,22.8,0.3,.197,2.3,0.1,,27,NBA,6,11.3,.857,.375,3.5,0.7,0.2,0.5,4.5,MIN,43226
+Arinze Onuaku,/players/o/onuakar01.html,2014,2017,Syracuse University,true,"Episcopal in Alexandria, Virginia",,,onuakar01,2015-16,Did Not Play,,,,,,,28,,,,,,,,,,,Did Not Play,
+Arinze Onuaku,/players/o/onuakar01.html,2014,2017,Syracuse University,true,"Episcopal in Alexandria, Virginia",-0.94,0.03,onuakar01,2016-17,ORL,5.8,0.0,-0.005,-5.9,0.0,,29,NBA,8,3.5,.500,,0.8,0.3,0.0,0.1,0.5,ORL,440078

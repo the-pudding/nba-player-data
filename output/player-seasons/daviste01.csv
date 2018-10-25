@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-daviste01,1989-90,22,MIA,NBA,63,14.0,.466,.621,3.6,0.4,0.4,0.4,4.7,9.0,0.5,.029,-4.7,-0.6,,"Halifax County in South Boston, Virginia",
-daviste01,1990-91,23,Miami Heat,NBA,55,18.1,.487,.556,4.8,0.7,0.3,0.5,5.5,11.7,2.0,.095,-1.9,0.0,,"Halifax County in South Boston, Virginia",250000
-daviste01,1991-92,24,Dallas Mavericks,NBA,68,31.6,.482,.635,9.9,0.8,0.4,0.4,10.2,12.4,3.1,.069,-2.9,-0.5,,"Halifax County in South Boston, Virginia",382000
-daviste01,1992-93,25,Dallas Mavericks,NBA,75,32.8,.455,.594,9.3,0.9,0.5,0.4,12.7,11.7,-0.1,-0.002,-5.2,-2.0,,"Halifax County in South Boston, Virginia",1537000
-daviste01,1993-94,26,Dallas Mavericks,NBA,15,19.1,.407,.667,4.9,0.4,0.6,0.1,3.7,9.6,0.4,.059,-4.6,-0.2,,"Halifax County in South Boston, Virginia",1200000
-daviste01,1994-95,27,Dallas Mavericks,NBA,46,12.6,.434,.636,3.4,0.2,0.1,0.1,3.0,8.1,0.5,.039,-6.3,-0.6,,"Halifax County in South Boston, Virginia",1560000
-daviste01,1995-96,28,Dallas Mavericks,NBA,28,17.9,.509,.574,4.2,0.8,0.4,0.1,4.9,10.0,0.5,.052,-4.6,-0.3,,"Halifax County in South Boston, Virginia",1920000
-daviste01,1996-97,29,Dallas Mavericks,NBA,,,,,,,,,,,,,,,,"Halifax County in South Boston, Virginia",2300000
-daviste01,1997-98,30,Washington Wizards,NBA,74,23.0,.496,.580,6.5,0.4,0.6,0.3,4.4,10.5,3.6,.103,-1.7,0.1,,"Halifax County in South Boston, Virginia",272250
-daviste01,1998-99,31,Washington Wizards,NBA,37,15.6,.533,.737,3.8,0.3,0.3,0.1,3.4,10.6,1.4,.113,-2.5,-0.1,,"Halifax County in South Boston, Virginia",1750000
-daviste01,1999-00,32,Orlando Magic,NBA,,,,,,,,,,,,,,,,"Halifax County in South Boston, Virginia",1925000
-daviste01,2000-01,33,Denver Nuggets,NBA,19,12.0,.480,.409,2.8,0.4,0.1,0.1,1.7,6.7,0.2,.051,-4.1,-0.1,,"Halifax County in South Boston, Virginia",923500
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-2.95,-0.46,daviste01,1989-90,MIA,9.0,0.5,.029,-4.7,-0.6,,22,NBA,63,14.0,.466,.621,3.6,0.4,0.4,0.4,4.7,MIA,
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-1.54,0.47,daviste01,1990-91,MIA,11.7,2.0,.095,-1.9,0.0,,23,NBA,55,18.1,.487,.556,4.8,0.7,0.3,0.5,5.5,MIA,250000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-2.19,0.13,daviste01,1991-92,DAL,12.4,3.1,.069,-2.9,-0.5,,24,NBA,68,31.6,.482,.635,9.9,0.8,0.4,0.4,10.2,DAL,382000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-4.65,-3.74,daviste01,1992-93,DAL,11.7,-0.1,-0.002,-5.2,-2.0,,25,NBA,75,32.8,.455,.594,9.3,0.9,0.5,0.4,12.7,DAL,1537000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-2.03,0.04,daviste01,1993-94,DAL,9.6,0.4,.059,-4.6,-0.2,,26,NBA,15,19.1,.407,.667,4.9,0.4,0.6,0.1,3.7,DAL,1200000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-3.41,-0.42,daviste01,1994-95,DAL,8.1,0.5,.039,-6.3,-0.6,,27,NBA,46,12.6,.434,.636,3.4,0.2,0.1,0.1,3.0,DAL,1560000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-3.00,-0.23,daviste01,1995-96,DAL,10.0,0.5,.052,-4.6,-0.3,,28,NBA,28,17.9,.509,.574,4.2,0.8,0.4,0.1,4.9,DAL,1920000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",,,daviste01,1996-97,Did Not Play,,,,,,,29,NBA,,,,,,,,,,Did Not Play,2300000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-1.75,0.55,daviste01,1997-98,WAS,10.5,3.6,.103,-1.7,0.1,,30,NBA,74,23.0,.496,.580,6.5,0.4,0.6,0.3,4.4,WAS,272250
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-1.57,0.25,daviste01,1998-99,WAS,10.6,1.4,.113,-2.5,-0.1,,31,NBA,37,15.6,.533,.737,3.8,0.3,0.3,0.1,3.4,WAS,1750000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",,,daviste01,1999-00,Did Not Play,,,,,,,32,NBA,,,,,,,,,,Did Not Play,1925000
+Terry Davis,/players/d/daviste01.html,1990,2001,Virginia Union University,false,"Halifax County in South Boston, Virginia",-2.19,0.00,daviste01,2000-01,DEN,6.7,0.2,.051,-4.1,-0.1,,33,NBA,19,12.0,.480,.409,2.8,0.4,0.1,0.1,1.7,DEN,923500

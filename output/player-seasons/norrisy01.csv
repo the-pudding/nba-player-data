@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-norrisy01,1979-80,22,SAS,NBA,17,11.1,.419,.667,2.5,0.4,0.2,0.7,2.4,3.3,-0.2,-0.055,-6.6,-0.2,,"Jim Hill in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sylvester Norris,/players/n/norrisy01.html,1980,1980,Jackson State University,false,"Jim Hill in Jackson, Mississippi",-1.25,0.13,norrisy01,1979-80,SAS,3.3,-0.2,-0.055,-6.6,-0.2,,22,NBA,17,11.1,.419,.667,2.5,0.4,0.2,0.7,2.4,SAS

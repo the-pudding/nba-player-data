@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smartma01,2014-15,20,Boston Celtics,NBA,67,27.0,.367,.646,3.3,3.1,1.5,0.3,7.8,11.0,2.9,.077,1.1,1.4,,3283320,"Edward S. Marcus in Flower Mound, Texas"
-smartma01,2015-16,21,Boston Celtics,NBA,61,27.3,.348,.777,4.2,3.0,1.5,0.3,9.1,11.3,2.9,.083,0.7,1.1,,3431040,"Edward S. Marcus in Flower Mound, Texas"
-smartma01,2016-17,22,Boston Celtics,NBA,79,30.4,.359,.812,3.9,4.6,1.6,0.4,10.6,12.0,3.2,.064,-0.3,1.0,,3578880,"Edward S. Marcus in Flower Mound, Texas"
-smartma01,2017-18,23,Boston Celtics,NBA,54,29.9,.367,.729,3.5,4.8,1.3,0.4,10.2,10.8,1.9,.056,-0.5,0.6,,4538020,"Edward S. Marcus in Flower Mound, Texas"
-smartma01,2018-19,24,BOS,NBA,4,23.5,.391,.625,2.8,3.5,1.3,0.3,6.5,10.0,0.2,.097,-0.2,0.0,,,"Edward S. Marcus in Flower Mound, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State University,true,"Edward S. Marcus in Flower Mound, Texas",+1.04,4.29,smartma01,2014-15,BOS,11.0,2.9,.077,1.1,1.4,,NBA,3283320,20,67,27.0,.367,.646,3.3,3.1,1.5,0.3,7.8,BOS
+Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State University,true,"Edward S. Marcus in Flower Mound, Texas",-0.30,2.47,smartma01,2015-16,BOS,11.3,2.9,.083,0.7,1.1,,NBA,3431040,21,61,27.3,.348,.777,4.2,3.0,1.5,0.3,9.1,BOS
+Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State University,true,"Edward S. Marcus in Flower Mound, Texas",-0.45,3.65,smartma01,2016-17,BOS,12.0,3.2,.064,-0.3,1.0,,NBA,3578880,22,79,30.4,.359,.812,3.9,4.6,1.6,0.4,10.6,BOS
+Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State University,true,"Edward S. Marcus in Flower Mound, Texas",+0.52,3.92,smartma01,2017-18,BOS,10.8,1.9,.056,-0.5,0.6,,NBA,4538020,23,54,29.9,.367,.729,3.5,4.8,1.3,0.4,10.2,BOS
+Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State University,true,"Edward S. Marcus in Flower Mound, Texas",,,smartma01,2018-19,BOS,10.0,0.2,.097,-0.2,0.0,,NBA,,24,4,23.5,.391,.625,2.8,3.5,1.3,0.3,6.5,BOS

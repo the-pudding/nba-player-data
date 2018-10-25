@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bobbito01,2004-05,25,Los Angeles Lakers,NBA,2,6.0,.400,,1.5,0.0,0.0,0.0,2.5,11.7,0.0,.059,-13.9,0.0,,305403,"Mainland in Daytona Beach, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Bobbitt,/players/b/bobbito01.html,2005,2005,University of Cincinnati,false,"Mainland in Daytona Beach, Florida",+0.20,0.02,bobbito01,2004-05,LAL,11.7,0.0,.059,-13.9,0.0,,NBA,305403,25,2,6.0,.400,,1.5,0.0,0.0,0.0,2.5,LAL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-peckwi01,1979-80,22,SAS,NBA,52,12.1,.432,.618,3.5,0.6,0.3,0.4,3.5,8.9,0.3,.023,-3.5,-0.2,,"Robert E. Lee in Montgomery, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wiley Peck,/players/p/peckwi01.html,1980,1980,Mississippi State University,false,"Robert E. Lee in Montgomery, Alabama",-2.10,0.08,peckwi01,1979-80,SAS,8.9,0.3,.023,-3.5,-0.2,,22,NBA,52,12.1,.432,.618,3.5,0.6,0.3,0.4,3.5,SAS

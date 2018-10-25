@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-copella01,1989-90,24,PHI,NBA,23,4.8,.456,.786,0.4,0.4,0.0,0.0,3.2,10.0,-0.2,-0.109,-11.0,-0.3,,"Booker T. Washington in Atlanta, Georgia",
-copella01,1990-91,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Booker T. Washington in Atlanta, Georgia",
-copella01,1991-92,26,Los Angeles Clippers,NBA,10,4.8,.304,1.000,0.7,0.5,0.2,0.0,1.6,4.0,-0.1,-0.116,-9.9,-0.1,,"Booker T. Washington in Atlanta, Georgia",130000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Lanard Copeland,/players/c/copella01.html,1990,1992,Georgia State University,false,"Booker T. Washington in Atlanta, Georgia",-1.21,0.09,copella01,1989-90,PHI,10.0,-0.2,-0.109,-11.0,-0.3,,24,NBA,23,4.8,.456,.786,0.4,0.4,0.0,0.0,3.2,PHI,
+Lanard Copeland,/players/c/copella01.html,1990,1992,Georgia State University,false,"Booker T. Washington in Atlanta, Georgia",,,copella01,1990-91,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Lanard Copeland,/players/c/copella01.html,1990,1992,Georgia State University,false,"Booker T. Washington in Atlanta, Georgia",-0.04,0.07,copella01,1991-92,LAC,4.0,-0.1,-0.116,-9.9,-0.1,,26,NBA,10,4.8,.304,1.000,0.7,0.5,0.2,0.0,1.6,LAC,130000

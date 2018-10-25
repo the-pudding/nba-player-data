@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hammige01,1993-94,24,ORL,NBA,1,3.0,.333,,1.0,1.0,0.0,0.0,2.0,20.0,0.0,.101,17.0,0.0,,"Thorbecke in Arnhem, Netherlands",
-hammige01,1994-95,25,Orlando Magic,NBA,1,7.0,.333,1.000,2.0,1.0,0.0,0.0,4.0,20.1,0.0,.258,-4.1,0.0,,"Thorbecke in Arnhem, Netherlands",250000
-hammige01,1995-96,26,"ORL,GSW",NBA,6,2.8,.500,.571,0.7,0.0,0.0,0.0,1.3,10.5,0.0,.017,-14.7,-0.1,,"Thorbecke in Arnhem, Netherlands",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Geert Hammink,/players/h/hammige01.html,1994,1996,Louisiana State University,false,"Thorbecke in Arnhem, Netherlands",-0.14,0.00,hammige01,1993-94,ORL,20.0,0.0,.101,17.0,0.0,,24,NBA,1,3.0,.333,,1.0,1.0,0.0,0.0,2.0,ORL,
+Geert Hammink,/players/h/hammige01.html,1994,1996,Louisiana State University,false,"Thorbecke in Arnhem, Netherlands",-0.51,0.01,hammige01,1994-95,ORL,20.1,0.0,.258,-4.1,0.0,,25,NBA,1,7.0,.333,1.000,2.0,1.0,0.0,0.0,4.0,ORL,250000
+Geert Hammink,/players/h/hammige01.html,1994,1996,Louisiana State University,false,"Thorbecke in Arnhem, Netherlands",-0.20,0.02,hammige01,1995-96,TOT,10.5,0.0,.017,-14.7,-0.1,,26,NBA,6,2.8,.500,.571,0.7,0.0,0.0,0.0,1.3,"ORL,GSW",

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brackcr01,2010-11,23,Philadelphia 76ers,NBA,3,11.0,.250,,1.3,0.3,0.3,0.0,2.7,0.1,-0.1,-0.154,-11.5,-0.1,,1306920,"Brewster Academy in Wolfeboro, New Hampshire"
-brackcr01,2011-12,24,Philadelphia 76ers,NBA,14,6.3,.273,.500,1.1,0.6,0.0,0.1,1.6,4.3,-0.1,-0.065,-8.1,-0.1,,1404960,"Brewster Academy in Wolfeboro, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Craig Brackins,/players/b/brackcr01.html,2011,2012,Iowa State University,false,"Brewster Academy in Wolfeboro, New Hampshire",-0.42,0.04,brackcr01,2010-11,PHI,0.1,-0.1,-0.154,-11.5,-0.1,,NBA,1306920,23,3,11.0,.250,,1.3,0.3,0.3,0.0,2.7,PHI
+Craig Brackins,/players/b/brackcr01.html,2011,2012,Iowa State University,false,"Brewster Academy in Wolfeboro, New Hampshire",-0.30,0.12,brackcr01,2011-12,PHI,4.3,-0.1,-0.065,-8.1,-0.1,,NBA,1404960,24,14,6.3,.273,.500,1.1,0.6,0.0,0.1,1.6,PHI

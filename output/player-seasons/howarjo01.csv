@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-howarjo01,2003-04,23,Dallas Mavericks,NBA,67,23.7,.430,.703,5.5,1.4,1.0,0.8,8.6,15.7,3.5,.104,1.2,1.3,,773400,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2004-05,24,Dallas Mavericks,NBA,76,32.2,.475,.733,6.4,1.4,1.5,0.6,12.6,15.8,6.4,.126,2.5,2.8,,863640,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2005-06,25,Dallas Mavericks,NBA,59,32.5,.471,.734,6.3,1.9,1.2,0.4,15.6,19.3,6.7,.168,2.3,2.0,,923880,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2006-07,26,Dallas Mavericks,NBA,70,35.1,.459,.827,6.8,1.8,1.2,0.8,18.9,20.0,8.8,.173,2.8,3.0,,1667603,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2007-08,27,Dallas Mavericks,NBA,76,36.3,.455,.813,7.0,2.2,0.8,0.4,19.9,18.3,8.0,.140,0.8,1.9,,9000000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2008-09,28,Dallas Mavericks,NBA,52,32.0,.451,.782,5.1,1.6,1.1,0.6,18.0,17.0,3.2,.091,-0.9,0.5,,9945000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2009-10,29,Washington Wizards,NBA,35,26.2,.405,.784,3.6,1.4,0.7,0.3,12.7,12.7,1.0,.054,-3.3,-0.3,,10890000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2009-10,29,Washington Wizards,NBA,31,26.7,.401,.790,3.6,1.4,0.7,0.3,12.5,12.0,0.8,.045,-3.5,-0.3,,10890000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2009-10,29,Washington Wizards,NBA,4,22.8,.435,.750,3.3,1.0,0.8,0.5,14.5,19.2,0.3,.139,-1.9,0.0,,10890000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2010-11,30,Washington Wizards,NBA,18,22.7,.358,.617,4.1,1.3,0.7,0.3,8.4,9.2,-0.2,-0.027,-5.8,-0.4,,3000000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2011-12,31,Utah Jazz,NBA,43,23.0,.399,.773,3.7,1.2,0.7,0.2,8.7,10.5,0.5,.025,-3.4,-0.4,,2150000,"Hargrave Military Academy in Chatham, Virginia"
-howarjo01,2012-13,32,Minnesota Timberwolves,NBA,11,18.8,.403,.583,3.3,0.4,0.9,0.3,6.7,9.5,0.0,.009,-5.2,-0.2,,1229255,"Hargrave Military Academy in Chatham, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",+1.07,3.79,howarjo01,2003-04,DAL,15.7,3.5,.104,1.2,1.3,,NBA,773400,23,67,23.7,.430,.703,5.5,1.4,1.0,0.8,8.6,DAL
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",+2.31,8.85,howarjo01,2004-05,DAL,15.8,6.4,.126,2.5,2.8,,NBA,863640,24,76,32.2,.475,.733,6.4,1.4,1.5,0.6,12.6,DAL
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",+2.18,8.19,howarjo01,2005-06,DAL,19.3,6.7,.168,2.3,2.0,,NBA,923880,25,59,32.5,.471,.734,6.3,1.9,1.2,0.4,15.6,DAL
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",+2.82,9.23,howarjo01,2006-07,DAL,20.0,8.8,.173,2.8,3.0,,NBA,1667603,26,70,35.1,.459,.827,6.8,1.8,1.2,0.8,18.9,DAL
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",+3.56,11.39,howarjo01,2007-08,DAL,18.3,8.0,.140,0.8,1.9,,NBA,9000000,27,76,36.3,.455,.813,7.0,2.2,0.8,0.4,19.9,DAL
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",+1.32,4.73,howarjo01,2008-09,DAL,17.0,3.2,.091,-0.9,0.5,,NBA,9945000,28,52,32.0,.451,.782,5.1,1.6,1.1,0.6,18.0,DAL
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",-1.36,0.59,howarjo01,2009-10,TOT,12.7,1.0,.054,-3.3,-0.3,,NBA,10890000,29,35,26.2,.405,.784,3.6,1.4,0.7,0.3,12.7,"DAL,WAS"
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",-1.76,0.13,howarjo01,2010-11,WAS,9.2,-0.2,-0.027,-5.8,-0.4,,NBA,3000000,30,18,22.7,.358,.617,4.1,1.3,0.7,0.3,8.4,WAS
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",-1.95,0.19,howarjo01,2011-12,UTA,10.5,0.5,.025,-3.4,-0.4,,NBA,2150000,31,43,23.0,.399,.773,3.7,1.2,0.7,0.2,8.7,UTA
+Josh Howard,/players/h/howarjo01.html,2004,2013,Wake Forest University,false,"Hargrave Military Academy in Chatham, Virginia",-0.88,0.19,howarjo01,2012-13,MIN,9.5,0.0,.009,-5.2,-0.2,,NBA,1229255,32,11,18.8,.403,.583,3.3,0.4,0.9,0.3,6.7,MIN

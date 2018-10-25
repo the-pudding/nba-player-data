@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-chandty01,2001-02,19,Chicago Bulls,NBA,71,19.6,.497,.604,4.8,0.8,0.4,1.3,6.1,13.0,1.8,.062,-2.0,0.0,,3308160,"Dominguez in Compton, California"
-chandty01,2002-03,20,Chicago Bulls,NBA,75,24.4,.531,.608,6.9,1.0,0.5,1.4,9.2,15.8,3.9,.102,-0.3,0.8,,3556200,"Dominguez in Compton, California"
-chandty01,2003-04,21,Chicago Bulls,NBA,35,22.3,.424,.669,7.7,0.7,0.5,1.2,6.1,14.2,1.9,.116,-2.1,0.0,,3804360,"Dominguez in Compton, California"
-chandty01,2004-05,22,Chicago Bulls,NBA,80,27.4,.494,.673,9.7,0.8,0.9,1.8,8.0,16.4,8.3,.183,3.1,2.8,,4801102,"Dominguez in Compton, California"
-chandty01,2005-06,23,Chicago Bulls,NBA,79,26.8,.565,.503,9.0,1.0,0.5,1.3,5.3,12.2,5.4,.123,2.2,2.2,,9000000,"Dominguez in Compton, California"
-chandty01,2006-07,24,New Orleans/Oklahoma City Hornets,NBA,73,34.6,.624,.527,12.4,0.9,0.5,1.8,9.5,17.0,7.9,.150,2.5,2.9,,9150000,"Dominguez in Compton, California"
-chandty01,2007-08,25,New Orleans Hornets,NBA,79,35.2,.623,.593,11.7,1.0,0.6,1.1,11.8,17.5,10.0,.172,2.4,3.1,,10250000,"Dominguez in Compton, California"
-chandty01,2008-09,26,New Orleans Hornets,NBA,45,32.1,.565,.579,8.7,0.5,0.3,1.2,8.8,13.4,3.4,.114,-0.9,0.4,,11350000,"Dominguez in Compton, California"
-chandty01,2009-10,27,Charlotte Bobcats,NBA,51,22.8,.574,.732,6.3,0.3,0.3,1.1,6.5,12.5,2.9,.120,-1.6,0.1,,11850000,"Dominguez in Compton, California"
-chandty01,2010-11,28,Dallas Mavericks,NBA,74,27.8,.654,.732,9.4,0.4,0.5,1.1,10.1,18.4,9.4,.218,2.2,2.2,,12600000,"Dominguez in Compton, California"
-chandty01,2011-12,29,New York Knicks,NBA,62,33.2,.679,.689,9.9,0.9,0.9,1.4,11.3,18.7,9.5,.220,4.1,3.2,All-NBA (3rd),13107837,"Dominguez in Compton, California"
-chandty01,2012-13,30,New York Knicks,NBA,66,32.8,.638,.694,10.7,0.9,0.6,1.1,10.4,18.9,9.3,.207,3.5,3.0,,13604188,"Dominguez in Compton, California"
-chandty01,2013-14,31,New York Knicks,NBA,55,30.2,.593,.632,9.6,1.1,0.7,1.1,8.7,16.4,4.9,.143,1.3,1.4,,14100538,"Dominguez in Compton, California"
-chandty01,2014-15,32,Dallas Mavericks,NBA,75,30.5,.666,.720,11.5,1.1,0.6,1.2,10.3,20.1,10.3,.216,4.2,3.6,,14598888,"Dominguez in Compton, California"
-chandty01,2015-16,33,Phoenix Suns,NBA,66,24.5,.583,.620,8.7,1.0,0.5,0.7,7.2,14.7,3.8,.112,-0.5,0.6,,13000000,"Dominguez in Compton, California"
-chandty01,2016-17,34,Phoenix Suns,NBA,47,27.6,.671,.734,11.5,0.6,0.7,0.5,8.4,16.6,4.1,.151,-0.3,0.5,,12415000,"Dominguez in Compton, California"
-chandty01,2017-18,35,Phoenix Suns,NBA,46,25.0,.647,.624,9.1,1.2,0.3,0.6,6.5,14.2,2.7,.111,-0.3,0.5,,13000000,"Dominguez in Compton, California"
-chandty01,2018-19,36,PHO,NBA,4,14.5,.667,.545,7.5,0.5,0.5,0.0,4.5,13.9,0.1,.116,-3.8,0.0,,,"Dominguez in Compton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",-0.53,1.63,chandty01,2001-02,CHI,13.0,1.8,.062,-2.0,0.0,,NBA,3308160,19,71,19.6,.497,.604,4.8,0.8,0.4,1.3,6.1,CHI
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",-1.43,0.96,chandty01,2002-03,CHI,15.8,3.9,.102,-0.3,0.8,,NBA,3556200,20,75,24.4,.531,.608,6.9,1.0,0.5,1.4,9.2,CHI
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",-0.47,0.93,chandty01,2003-04,CHI,14.2,1.9,.116,-2.1,0.0,,NBA,3804360,21,35,22.3,.424,.669,7.7,0.7,0.5,1.2,6.1,CHI
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+2.39,7.59,chandty01,2004-05,CHI,16.4,8.3,.183,3.1,2.8,,NBA,4801102,22,80,27.4,.494,.673,9.7,0.8,0.9,1.8,8.0,CHI
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+1.76,6.15,chandty01,2005-06,CHI,12.2,5.4,.123,2.2,2.2,,NBA,9000000,23,79,26.8,.565,.503,9.0,1.0,0.5,1.3,5.3,CHI
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+1.67,6.77,chandty01,2006-07,NOK,17.0,7.9,.150,2.5,2.9,,NBA,9150000,24,73,34.6,.624,.527,12.4,0.9,0.5,1.8,9.5,NOK
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+2.82,10.85,chandty01,2007-08,NOH,17.5,10.0,.172,2.4,3.1,,NBA,10250000,25,79,35.2,.623,.593,11.7,1.0,0.6,1.1,11.8,NOH
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+0.50,2.88,chandty01,2008-09,NOH,13.4,3.4,.114,-0.9,0.4,,NBA,11350000,26,45,32.1,.565,.579,8.7,0.5,0.3,1.2,8.8,NOH
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",-1.54,0.56,chandty01,2009-10,CHA,12.5,2.9,.120,-1.6,0.1,,NBA,11850000,27,51,22.8,.574,.732,6.3,0.3,0.3,1.1,6.5,CHA
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+2.84,9.42,chandty01,2010-11,DAL,18.4,9.4,.218,2.2,2.2,,NBA,12600000,28,74,27.8,.654,.732,9.4,0.4,0.5,1.1,10.1,DAL
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+1.74,6.19,chandty01,2011-12,NYK,18.7,9.5,.220,4.1,3.2,All-NBA (3rd),NBA,13107837,29,62,33.2,.679,.689,9.9,0.9,0.9,1.4,11.3,NYK
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+2.97,8.90,chandty01,2012-13,NYK,18.9,9.3,.207,3.5,3.0,,NBA,13604188,30,66,32.8,.638,.694,10.7,0.9,0.6,1.1,10.4,NYK
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+1.11,3.80,chandty01,2013-14,NYK,16.4,4.9,.143,1.3,1.4,,NBA,14100538,31,55,30.2,.593,.632,9.6,1.1,0.7,1.1,8.7,NYK
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+2.46,7.85,chandty01,2014-15,DAL,20.1,10.3,.216,4.2,3.6,,NBA,14598888,32,75,30.5,.666,.720,11.5,1.1,0.6,1.2,10.3,DAL
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",-1.95,0.27,chandty01,2015-16,PHO,14.7,3.8,.112,-0.5,0.6,,NBA,13000000,33,66,24.5,.583,.620,8.7,1.0,0.5,0.7,7.2,PHO
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",+1.12,2.96,chandty01,2016-17,PHO,16.6,4.1,.151,-0.3,0.5,,NBA,12415000,34,47,27.6,.671,.734,11.5,0.6,0.7,0.5,8.4,PHO
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",-1.59,0.54,chandty01,2017-18,PHO,14.2,2.7,.111,-0.3,0.5,,NBA,13000000,35,46,25.0,.647,.624,9.1,1.2,0.3,0.6,6.5,PHO
+Tyson Chandler,/players/c/chandty01.html,2002,2019,,true,"Dominguez in Compton, California",,,chandty01,2018-19,PHO,13.9,0.1,.116,-3.8,0.0,,NBA,,36,4,14.5,.667,.545,7.5,0.5,0.5,0.0,4.5,PHO

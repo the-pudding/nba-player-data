@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-scottbr01,1996-97,25,Indiana Pacers,NBA,16,3.4,.471,.500,0.6,0.2,0.1,0.1,1.2,7.0,0.0,.019,-5.2,0.0,,247500,"Everett in Lansing, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brent Scott,/players/s/scottbr01.html,1997,1997,Rice University,false,"Everett in Lansing, Michigan",+0.39,0.10,scottbr01,1996-97,IND,7.0,0.0,.019,-5.2,0.0,,NBA,247500,25,16,3.4,.471,.500,0.6,0.2,0.1,0.1,1.2,IND

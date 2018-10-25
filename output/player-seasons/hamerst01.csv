@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hamerst01,1996-97,23,Boston Celtics,NBA,35,7.7,.526,.552,1.7,0.2,0.1,0.1,2.2,8.9,0.2,.031,-7.5,-0.4,,220000,"Middleton in Middleton, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Hamer,/players/h/hamerst01.html,1997,1997,University of Tennessee,false,"Middleton in Middleton, Tennessee",-2.56,-0.05,hamerst01,1996-97,BOS,8.9,0.2,.031,-7.5,-0.4,,NBA,220000,23,35,7.7,.526,.552,1.7,0.2,0.1,0.1,2.2,BOS

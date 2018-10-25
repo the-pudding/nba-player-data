@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-alarima01,1986-87,23,DEN,NBA,64,17.3,.490,.663,3.3,1.2,0.3,0.4,7.9,12.5,1.5,.064,-3.6,-0.4,,"Brophy College Preparatory in Phoenix, Arizona",
-alarima01,1987-88,24,Washington Bullets,NBA,63,12.2,.480,.714,2.5,0.6,0.2,0.2,5.2,11.6,0.9,.058,-3.0,-0.2,,"Brophy College Preparatory in Phoenix, Arizona",232500
-alarima01,1988-89,25,Washington Bullets,NBA,74,15.4,.478,.839,3.4,0.9,0.3,0.3,6.7,13.3,2.2,.093,-1.8,0.1,,"Brophy College Preparatory in Phoenix, Arizona",250000
-alarima01,1989-90,26,WSB,NBA,82,23.1,.473,.812,4.6,1.7,0.7,0.5,10.5,14.1,3.1,.079,-1.0,0.5,,"Brophy College Preparatory in Phoenix, Arizona",
-alarima01,1990-91,27,Washington Bullets,NBA,42,14.0,.440,.854,2.8,1.1,0.4,0.2,5.8,11.3,0.6,.050,-3.6,-0.2,,"Brophy College Preparatory in Phoenix, Arizona",500000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mark Alarie,/players/a/alarima01.html,1987,1991,Duke University,false,"Brophy College Preparatory in Phoenix, Arizona",-2.17,0.12,alarima01,1986-87,DEN,12.5,1.5,.064,-3.6,-0.4,,23,NBA,64,17.3,.490,.663,3.3,1.2,0.3,0.4,7.9,DEN,
+Mark Alarie,/players/a/alarima01.html,1987,1991,Duke University,false,"Brophy College Preparatory in Phoenix, Arizona",-2.57,-0.15,alarima01,1987-88,WSB,11.6,0.9,.058,-3.0,-0.2,,24,NBA,63,12.2,.480,.714,2.5,0.6,0.2,0.2,5.2,WSB,232500
+Mark Alarie,/players/a/alarima01.html,1987,1991,Duke University,false,"Brophy College Preparatory in Phoenix, Arizona",-1.62,0.51,alarima01,1988-89,WSB,13.3,2.2,.093,-1.8,0.1,,25,NBA,74,15.4,.478,.839,3.4,0.9,0.3,0.3,6.7,WSB,250000
+Mark Alarie,/players/a/alarima01.html,1987,1991,Duke University,false,"Brophy College Preparatory in Phoenix, Arizona",-1.31,1.26,alarima01,1989-90,WSB,14.1,3.1,.079,-1.0,0.5,,26,NBA,82,23.1,.473,.812,4.6,1.7,0.7,0.5,10.5,WSB,
+Mark Alarie,/players/a/alarima01.html,1987,1991,Duke University,false,"Brophy College Preparatory in Phoenix, Arizona",-2.28,-0.02,alarima01,1990-91,WSB,11.3,0.6,.050,-3.6,-0.2,,27,NBA,42,14.0,.440,.854,2.8,1.1,0.4,0.2,5.8,WSB,500000

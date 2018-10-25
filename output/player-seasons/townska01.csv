@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-townska01,2015-16,20,Minnesota Timberwolves,NBA,82,32.0,.542,.811,10.5,2.0,0.7,1.7,18.3,22.5,8.3,.151,2.8,3.2,,5703600,"St. Joseph in Metuchen, New Jersey"
-townska01,2016-17,21,Minnesota Timberwolves,NBA,82,37.0,.542,.832,12.3,2.7,0.7,1.3,25.1,25.9,12.7,.201,4.9,5.3,,5960160,"St. Joseph in Metuchen, New Jersey"
-townska01,2017-18,22,Minnesota Timberwolves,NBA,82,35.6,.545,.858,12.3,2.4,0.8,1.4,21.3,24.9,14.0,.230,5.5,5.5,All-NBA (3rd),6216840,"St. Joseph in Metuchen, New Jersey"
-townska01,2018-19,23,MIN,NBA,5,31.8,.426,.955,9.2,1.6,0.4,2.0,16.4,15.4,0.2,.074,-2.0,0.0,,,"St. Joseph in Metuchen, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Karl-Anthony Towns,/players/t/townska01.html,2016,2019,University of Kentucky,true,"St. Joseph in Metuchen, New Jersey",+0.56,5.04,townska01,2015-16,MIN,22.5,8.3,.151,2.8,3.2,,NBA,5703600,20,82,32.0,.542,.811,10.5,2.0,0.7,1.7,18.3,MIN
+Karl-Anthony Towns,/players/t/townska01.html,2016,2019,University of Kentucky,true,"St. Joseph in Metuchen, New Jersey",+1.40,7.42,townska01,2016-17,MIN,25.9,12.7,.201,4.9,5.3,,NBA,5960160,21,82,37.0,.542,.832,12.3,2.7,0.7,1.3,25.1,MIN
+Karl-Anthony Towns,/players/t/townska01.html,2016,2019,University of Kentucky,true,"St. Joseph in Metuchen, New Jersey",+4.81,14.08,townska01,2017-18,MIN,24.9,14.0,.230,5.5,5.5,All-NBA (3rd),NBA,6216840,22,82,35.6,.545,.858,12.3,2.4,0.8,1.4,21.3,MIN
+Karl-Anthony Towns,/players/t/townska01.html,2016,2019,University of Kentucky,true,"St. Joseph in Metuchen, New Jersey",,,townska01,2018-19,MIN,15.4,0.2,.074,-2.0,0.0,,NBA,,23,5,31.8,.426,.955,9.2,1.6,0.4,2.0,16.4,MIN

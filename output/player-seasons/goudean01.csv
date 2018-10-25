@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-goudean01,2011-12,23,Los Angeles Lakers,NBA,40,10.5,.391,.917,0.8,0.5,0.1,0.0,4.4,8.4,0.1,.011,-6.6,-0.5,,473604,"Stone Mountain in Stone Mountain, Georgia"
-goudean01,2012-13,24,LAL,NBA,1,6.0,.000,,1.0,0.0,0.0,0.0,0.0,-6.4,0.0,-0.264,-18.0,0.0,,,"Stone Mountain in Stone Mountain, Georgia"
-goudean01,2013-14,25,Did Not Play,,,,,,,,,,,,,,,,,,"Stone Mountain in Stone Mountain, Georgia"
-goudean01,2014-15,26,Did Not Play,,,,,,,,,,,,,,,,,,"Stone Mountain in Stone Mountain, Georgia"
-goudean01,2015-16,27,Houston Rockets,NBA,8,6.3,.450,.750,0.3,0.5,0.8,0.3,2.8,12.4,0.0,-0.033,-3.6,0.0,,200600,"Stone Mountain in Stone Mountain, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andrew Goudelock,/players/g/goudean01.html,2012,2016,College of Charleston,false,"Stone Mountain in Stone Mountain, Georgia",-3.22,-0.29,goudean01,2011-12,LAL,8.4,0.1,.011,-6.6,-0.5,,NBA,473604,23,40,10.5,.391,.917,0.8,0.5,0.1,0.0,4.4,LAL
+Andrew Goudelock,/players/g/goudean01.html,2012,2016,College of Charleston,false,"Stone Mountain in Stone Mountain, Georgia",-1.58,0.04,goudean01,2012-13,LAL,-6.4,0.0,-0.264,-18.0,0.0,,NBA,,24,1,6.0,.000,,1.0,0.0,0.0,0.0,0.0,LAL
+Andrew Goudelock,/players/g/goudean01.html,2012,2016,College of Charleston,false,"Stone Mountain in Stone Mountain, Georgia",,,goudean01,2013-14,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Andrew Goudelock,/players/g/goudean01.html,2012,2016,College of Charleston,false,"Stone Mountain in Stone Mountain, Georgia",,,goudean01,2014-15,Did Not Play,,,,,,,,,26,,,,,,,,,,Did Not Play
+Andrew Goudelock,/players/g/goudean01.html,2012,2016,College of Charleston,false,"Stone Mountain in Stone Mountain, Georgia",-0.89,0.06,goudean01,2015-16,HOU,12.4,0.0,-0.033,-3.6,0.0,,NBA,200600,27,8,6.3,.450,.750,0.3,0.5,0.8,0.3,2.8,HOU

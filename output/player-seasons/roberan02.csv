@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-roberan02,2005-06,22,Memphis Grizzlies,NBA,16,5.5,.452,1.000,0.4,0.3,0.1,0.0,2.2,11.7,0.2,.088,-5.5,-0.1,,398762,"Saginaw in Saginaw, Michigan"
-roberan02,2006-07,23,Golden State Warriors,NBA,20,11.4,.423,.667,1.1,0.5,0.6,0.0,5.6,11.4,0.1,.031,-4.1,-0.1,,267111,"Saginaw in Saginaw, Michigan"
-roberan02,2007-08,24,"Did Not Play (other pro league—Israel, Turkey)",,,,,,,,,,,,,,,,,,"Saginaw in Saginaw, Michigan"
-roberan02,2008-09,25,Chicago Bulls,NBA,29,9.5,.367,1.000,0.8,0.7,0.3,0.0,4.1,11.4,0.2,.041,-3.4,-0.1,,797581,"Saginaw in Saginaw, Michigan"
-roberan02,2008-09,25,Chicago Bulls,NBA,23,11.0,.379,1.000,0.7,0.8,0.4,0.0,4.7,11.8,0.3,.057,-2.5,0.0,,797581,"Saginaw in Saginaw, Michigan"
-roberan02,2008-09,25,Chicago Bulls,NBA,6,3.8,.294,,1.2,0.2,0.0,0.0,2.0,8.0,-0.1,-0.136,-12.4,-0.1,,797581,"Saginaw in Saginaw, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Roberson,/players/r/roberan02.html,2006,2009,University of Florida,false,"Saginaw in Saginaw, Michigan",-0.13,0.13,roberan02,2005-06,MEM,11.7,0.2,.088,-5.5,-0.1,,NBA,398762,22,16,5.5,.452,1.000,0.4,0.3,0.1,0.0,2.2,MEM
+Anthony Roberson,/players/r/roberan02.html,2006,2009,University of Florida,false,"Saginaw in Saginaw, Michigan",-2.20,0.02,roberan02,2006-07,GSW,11.4,0.1,.031,-4.1,-0.1,,NBA,267111,23,20,11.4,.423,.667,1.1,0.5,0.6,0.0,5.6,GSW
+Anthony Roberson,/players/r/roberan02.html,2006,2009,University of Florida,false,"Saginaw in Saginaw, Michigan",,,roberan02,2007-08,"Did Not Play (other pro league—Israel, Turkey)",,,,,,,,,24,,,,,,,,,,"Did Not Play (other pro league—Israel, Turkey)"
+Anthony Roberson,/players/r/roberan02.html,2006,2009,University of Florida,false,"Saginaw in Saginaw, Michigan",-1.03,0.24,roberan02,2008-09,TOT,11.4,0.2,.041,-3.4,-0.1,,NBA,797581,25,29,9.5,.367,1.000,0.8,0.7,0.3,0.0,4.1,"NYK,CHI"

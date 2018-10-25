@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-medvest01,2000-01,21,Los Angeles Lakers,NBA,7,5.6,.480,.583,1.3,0.3,0.1,0.1,4.6,21.8,0.1,.126,-6.3,0.0,,316969,
-medvest01,2001-02,22,Los Angeles Lakers,NBA,71,10.3,.477,.661,2.2,0.6,0.4,0.2,4.7,15.6,1.8,.118,-1.1,0.2,,465850,
-medvest01,2002-03,23,Los Angeles Lakers,NBA,58,10.7,.434,.721,2.4,0.3,0.2,0.1,4.4,10.3,0.4,.032,-7.6,-0.9,,1400000,
-medvest01,2003-04,24,Los Angeles Lakers,NBA,68,21.2,.441,.767,5.0,0.8,0.6,0.3,8.3,13.6,3.0,.101,-2.2,-0.1,,1540000,
-medvest01,2004-05,25,Los Angeles Lakers,NBA,43,9.8,.455,.821,1.8,0.3,0.2,0.0,3.8,11.9,0.5,.053,-6.2,-0.4,,3000000,
-medvest01,2005-06,26,Los Angeles Lakers,NBA,2,3.0,.500,,0.0,0.5,0.0,0.0,1.0,11.0,0.0,.114,-13.8,0.0,,3000000,
-medvest01,2006-07,27,Atlanta Hawks,NBA,14,5.8,.414,.850,1.0,0.1,0.0,0.1,3.0,13.7,0.2,.107,-8.1,-0.1,,625132,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-1.19,0.03,medvest01,2000-01,LAL,21.8,0.1,.126,-6.3,0.0,,NBA,316969,21,7,5.6,.480,.583,1.3,0.3,0.1,0.1,4.6,LAL
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-1.40,0.42,medvest01,2001-02,LAL,15.6,1.8,.118,-1.1,0.2,,NBA,465850,22,71,10.3,.477,.661,2.2,0.6,0.4,0.2,4.7,LAL
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-4.29,-0.98,medvest01,2002-03,LAL,10.3,0.4,.032,-7.6,-0.9,,NBA,1400000,23,58,10.7,.434,.721,2.4,0.3,0.2,0.1,4.4,LAL
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-3.10,-1.11,medvest01,2003-04,LAL,13.6,3.0,.101,-2.2,-0.1,,NBA,1540000,24,68,21.2,.441,.767,5.0,0.8,0.6,0.3,8.3,LAL
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-2.57,-0.06,medvest01,2004-05,LAL,11.9,0.5,.053,-6.2,-0.4,,NBA,3000000,25,43,9.8,.455,.821,1.8,0.3,0.2,0.0,3.8,LAL
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-0.22,0.01,medvest01,2005-06,LAL,11.0,0.0,.114,-13.8,0.0,,NBA,3000000,26,2,3.0,.500,,0.0,0.5,0.0,0.0,1.0,LAL
+Stanislav Medvedenko,/players/m/medvest01.html,2001,2007,,false,,-0.20,0.11,medvest01,2006-07,ATL,13.7,0.2,.107,-8.1,-0.1,,NBA,625132,27,14,5.8,.414,.850,1.0,0.1,0.0,0.1,3.0,ATL

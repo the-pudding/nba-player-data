@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-braggma01,1995-96,25,Minnesota Timberwolves,NBA,53,7.0,.450,.561,1.5,0.2,0.3,0.2,2.5,9.8,0.1,.012,-5.9,-0.4,,225000,"Clifford J. Scott in East Orange, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marques Bragg,/players/b/braggma01.html,1996,1996,Providence College,false,"Clifford J. Scott in East Orange, New Jersey",-2.67,-0.11,braggma01,1995-96,MIN,9.8,0.1,.012,-5.9,-0.4,,NBA,225000,25,53,7.0,.450,.561,1.5,0.2,0.3,0.2,2.5,MIN

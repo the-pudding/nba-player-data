@@ -1,13 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-davisjo02,2003-04,23,ATL,NBA,4,5.8,.400,1.000,1.3,0.0,0.0,0.0,1.3,2.1,0.0,-0.075,-15.0,-0.1,,"Salem Academy in Salem, Oregon",
-davisjo02,2004-05,24,Philadelphia 76ers,NBA,42,7.8,.378,.824,1.9,0.3,0.2,0.1,2.8,11.4,0.5,.079,-3.7,-0.1,,"Salem Academy in Salem, Oregon",620046
-davisjo02,2005-06,25,Milwaukee Bucks,NBA,6,2.8,.286,.667,0.7,0.2,0.3,0.0,1.0,13.6,0.0,.018,-2.2,0.0,,"Salem Academy in Salem, Oregon",131593
-davisjo02,2005-06,25,Milwaukee Bucks,NBA,4,3.0,.250,,0.8,0.3,0.3,0.0,0.5,5.2,0.0,-0.089,-3.0,0.0,,"Salem Academy in Salem, Oregon",131593
-davisjo02,2005-06,25,Milwaukee Bucks,NBA,1,0.0,,,0.0,0.0,0.0,0.0,0.0,,0.0,,-6.3,0.0,,"Salem Academy in Salem, Oregon",131593
-davisjo02,2005-06,25,Milwaukee Bucks,NBA,1,5.0,.333,.667,1.0,0.0,1.0,0.0,4.0,33.7,0.0,.275,-0.3,0.0,,"Salem Academy in Salem, Oregon",131593
-davisjo02,2006-07,26,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,,,,"Salem Academy in Salem, Oregon",
-davisjo02,2007-08,27,Did Not Play (other pro league—Ukraine),,,,,,,,,,,,,,,,,"Salem Academy in Salem, Oregon",
-davisjo02,2008-09,28,"Did Not Play (other pro league—D-League, Puerto Rico)",,,,,,,,,,,,,,,,,"Salem Academy in Salem, Oregon",
-davisjo02,2009-10,29,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Salem Academy in Salem, Oregon",
-davisjo02,2010-11,30,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Salem Academy in Salem, Oregon",
-davisjo02,2011-12,31,Memphis Grizzlies,NBA,15,8.7,.370,.500,1.8,0.4,0.5,0.1,1.9,11.3,0.3,.124,1.7,0.1,,"Salem Academy in Salem, Oregon",314041
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",-0.30,0.03,davisjo02,2003-04,ATL,2.1,0.0,-0.075,-15.0,-0.1,,23,NBA,4,5.8,.400,1.000,1.3,0.0,0.0,0.0,1.3,ATL,
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",-0.34,0.42,davisjo02,2004-05,PHI,11.4,0.5,.079,-3.7,-0.1,,24,NBA,42,7.8,.378,.824,1.9,0.3,0.2,0.1,2.8,PHI,620046
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",-0.65,0.02,davisjo02,2005-06,TOT,13.6,0.0,.018,-2.2,0.0,,25,NBA,6,2.8,.286,.667,0.7,0.2,0.3,0.0,1.0,"MIL,HOU,PHO",131593
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",,,davisjo02,2006-07,Did Not Play (other pro league—Russia),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Russia),
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",,,davisjo02,2007-08,Did Not Play (other pro league—Ukraine),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—Ukraine),
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",,,davisjo02,2008-09,"Did Not Play (other pro league—D-League, Puerto Rico)",,,,,,,28,,,,,,,,,,,"Did Not Play (other pro league—D-League, Puerto Rico)",
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",,,davisjo02,2009-10,Did Not Play (other pro league—Greece),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",,,davisjo02,2010-11,Did Not Play (other pro league—Italy),,,,,,,30,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Josh Davis,/players/d/davisjo02.html,2004,2012,University of Wyoming,false,"Salem Academy in Salem, Oregon",-1.33,0.08,davisjo02,2011-12,MEM,11.3,0.3,.124,1.7,0.1,,31,NBA,15,8.7,.370,.500,1.8,0.4,0.5,0.1,1.9,MEM,314041

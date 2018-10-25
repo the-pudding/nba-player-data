@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-riordmi01,1976-77,31,WSB,NBA,49,5.9,.362,.733,0.6,0.4,0.1,0.0,1.6,5.6,-0.1,-0.024,-8.4,-0.5,,"Holy Cross in Flushing, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Riordan,/players/r/riordmi01.html,1969,1977,Providence College,false,"Holy Cross in Flushing, New York",-3.84,-0.38,riordmi01,1976-77,WSB,5.6,-0.1,-0.024,-8.4,-0.5,,31,NBA,49,5.9,.362,.733,0.6,0.4,0.1,0.0,1.6,WSB

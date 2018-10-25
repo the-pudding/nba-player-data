@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cookno01,1976-77,21,BOS,NBA,25,5.5,.375,.529,1.1,0.2,0.4,0.1,2.5,10.3,-0.1,-0.023,-6.6,-0.2,,"Lincoln in Lincoln, Illinois"
-cookno01,1977-78,22,DEN,NBA,2,5.0,.333,,1.5,0.5,0.0,0.0,1.0,3.8,0.0,.064,-4.7,0.0,,"Lincoln in Lincoln, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Norm Cook,/players/c/cookno01.html,1977,1978,University of Kansas,false,"Lincoln in Lincoln, Illinois",-0.57,0.15,cookno01,1976-77,BOS,10.3,-0.1,-0.023,-6.6,-0.2,,21,NBA,25,5.5,.375,.529,1.1,0.2,0.4,0.1,2.5,BOS
+Norm Cook,/players/c/cookno01.html,1977,1978,University of Kansas,false,"Lincoln in Lincoln, Illinois",+0.54,0.02,cookno01,1977-78,DEN,3.8,0.0,.064,-4.7,0.0,,22,NBA,2,5.0,.333,,1.5,0.5,0.0,0.0,1.0,DEN

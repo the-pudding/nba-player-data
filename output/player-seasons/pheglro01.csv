@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pheglro01,1978-79,22,WSB,NBA,29,5.3,.359,.828,0.8,0.5,0.2,0.1,2.8,9.8,0.0,.001,-6.7,-0.2,,"East Peoria in East Peoria, Illinois"
-pheglro01,1979-80,23,"WSB,NJN",NBA,78,19.4,.477,.872,2.4,1.3,0.4,0.1,11.3,14.2,2.6,.083,-3.0,-0.4,,"East Peoria in East Peoria, Illinois"
-pheglro01,1980-81,24,CLE,NBA,82,27.7,.491,.839,3.0,2.2,0.8,0.2,14.4,14.3,3.7,.078,-1.5,0.3,,"East Peoria in East Peoria, Illinois"
-pheglro01,1981-82,25,"CLE,SAS",NBA,81,14.6,.460,.780,1.9,1.4,0.4,0.1,6.9,13.0,1.6,.063,-2.3,-0.1,,"East Peoria in East Peoria, Illinois"
-pheglro01,1982-83,26,SAS,NBA,62,9.7,.449,.768,1.4,1.0,0.5,0.1,4.6,13.0,0.8,.063,-2.3,0.0,,"East Peoria in East Peoria, Illinois"
-pheglro01,1983-84,27,"SAS,DAL",NBA,13,6.7,.314,1.000,0.8,0.8,0.1,0.0,2.2,4.9,-0.1,-0.066,-9.0,-0.2,,"East Peoria in East Peoria, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roger Phegley,/players/p/pheglro01.html,1979,1984,Bradley University,false,"East Peoria in East Peoria, Illinois",-0.14,0.22,pheglro01,1978-79,WSB,9.8,0.0,.001,-6.7,-0.2,,22,NBA,29,5.3,.359,.828,0.8,0.5,0.2,0.1,2.8,WSB
+Roger Phegley,/players/p/pheglro01.html,1979,1984,Bradley University,false,"East Peoria in East Peoria, Illinois",-2.31,-0.11,pheglro01,1979-80,TOT,14.2,2.6,.083,-3.0,-0.4,,23,NBA,78,19.4,.477,.872,2.4,1.3,0.4,0.1,11.3,"WSB,NJN"
+Roger Phegley,/players/p/pheglro01.html,1979,1984,Bradley University,false,"East Peoria in East Peoria, Illinois",-1.71,0.88,pheglro01,1980-81,CLE,14.3,3.7,.078,-1.5,0.3,,24,NBA,82,27.7,.491,.839,3.0,2.2,0.8,0.2,14.4,CLE
+Roger Phegley,/players/p/pheglro01.html,1979,1984,Bradley University,false,"East Peoria in East Peoria, Illinois",-2.44,-0.11,pheglro01,1981-82,TOT,13.0,1.6,.063,-2.3,-0.1,,25,NBA,81,14.6,.460,.780,1.9,1.4,0.4,0.1,6.9,"CLE,SAS"
+Roger Phegley,/players/p/pheglro01.html,1979,1984,Bradley University,false,"East Peoria in East Peoria, Illinois",-2.07,0.09,pheglro01,1982-83,SAS,13.0,0.8,.063,-2.3,0.0,,26,NBA,62,9.7,.449,.768,1.4,1.0,0.5,0.1,4.6,SAS
+Roger Phegley,/players/p/pheglro01.html,1979,1984,Bradley University,false,"East Peoria in East Peoria, Illinois",-0.20,0.13,pheglro01,1983-84,TOT,4.9,-0.1,-0.066,-9.0,-0.2,,27,NBA,13,6.7,.314,1.000,0.8,0.8,0.1,0.0,2.2,"SAS,DAL"

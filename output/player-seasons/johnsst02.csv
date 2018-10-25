@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnsst02,1986-87,24,LAC,NBA,29,8.1,.422,.526,1.5,0.2,0.3,0.1,2.6,4.7,-0.2,-0.037,-8.3,-0.4,,"Longview in Longview, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steffond Johnson,/players/j/johnsst02.html,1987,1987,"Louisiana State University, San Diego State University",false,"Longview in Longview, Texas",-2.42,-0.03,johnsst02,1986-87,LAC,4.7,-0.2,-0.037,-8.3,-0.4,,24,NBA,29,8.1,.422,.526,1.5,0.2,0.3,0.1,2.6,LAC

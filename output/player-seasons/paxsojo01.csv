@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-paxsojo01,1983-84,23,SAS,NBA,49,9.3,.445,.615,0.7,3.0,0.2,0.0,2.9,12.7,0.6,.058,-6.2,-0.5,,"Archbishop Alter in Kettering, Ohio",
-paxsojo01,1984-85,24,San Antonio Spurs,NBA,78,16.1,.509,.840,0.9,2.8,0.6,0.0,6.2,12.6,2.3,.088,-3.3,-0.4,,"Archbishop Alter in Kettering, Ohio",102000
-paxsojo01,1985-86,25,Chicago Bulls,NBA,75,20.9,.466,.804,1.3,3.7,0.7,0.0,5.3,10.5,2.2,.069,-2.9,-0.3,,"Archbishop Alter in Kettering, Ohio",175000
-paxsojo01,1986-87,26,CHI,NBA,82,32.8,.487,.809,1.7,5.7,0.8,0.1,11.3,12.8,6.0,.106,-2.2,-0.1,,"Archbishop Alter in Kettering, Ohio",
-paxsojo01,1987-88,27,Chicago Bulls,NBA,81,23.3,.493,.733,1.3,3.7,0.6,0.0,7.9,12.3,4.2,.106,-2.8,-0.4,,"Archbishop Alter in Kettering, Ohio",285000
-paxsojo01,1988-89,28,Chicago Bulls,NBA,78,22.3,.480,.861,1.2,3.9,0.7,0.1,7.3,12.0,3.3,.091,-3.4,-0.6,,"Archbishop Alter in Kettering, Ohio",325000
-paxsojo01,1989-90,29,CHI,NBA,82,28.8,.516,.824,1.5,4.1,1.0,0.1,10.0,12.7,4.8,.097,-2.6,-0.4,,"Archbishop Alter in Kettering, Ohio",
-paxsojo01,1990-91,30,Chicago Bulls,NBA,82,24.0,.548,.829,1.1,3.6,0.8,0.0,8.7,14.0,5.7,.140,-1.2,0.4,,"Archbishop Alter in Kettering, Ohio",385000
-paxsojo01,1991-92,31,Chicago Bulls,NBA,79,24.6,.528,.784,1.2,3.1,0.6,0.1,7.0,10.9,4.7,.117,-1.4,0.3,,"Archbishop Alter in Kettering, Ohio",1600000
-paxsojo01,1992-93,32,Chicago Bulls,NBA,59,17.5,.451,.850,0.8,2.3,0.6,0.0,4.2,9.3,1.9,.087,-3.8,-0.5,,"Archbishop Alter in Kettering, Ohio",1200000
-paxsojo01,1993-94,33,Chicago Bulls,NBA,27,12.7,.441,.500,0.7,1.2,0.3,0.1,2.6,8.3,0.6,.088,-3.8,-0.2,,"Archbishop Alter in Kettering, Ohio",800000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.57,0.24,paxsojo01,1983-84,SAS,12.7,0.6,.058,-6.2,-0.5,,23,NBA,49,9.3,.445,.615,0.7,3.0,0.2,0.0,2.9,SAS,
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.55,0.71,paxsojo01,1984-85,SAS,12.6,2.3,.088,-3.3,-0.4,,24,NBA,78,16.1,.509,.840,0.9,2.8,0.6,0.0,6.2,SAS,102000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.50,0.92,paxsojo01,1985-86,CHI,10.5,2.2,.069,-2.9,-0.3,,25,NBA,75,20.9,.466,.804,1.3,3.7,0.7,0.0,5.3,CHI,175000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-0.32,3.68,paxsojo01,1986-87,CHI,12.8,6.0,.106,-2.2,-0.1,,26,NBA,82,32.8,.487,.809,1.7,5.7,0.8,0.1,11.3,CHI,
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.19,1.52,paxsojo01,1987-88,CHI,12.3,4.2,.106,-2.8,-0.4,,27,NBA,81,23.3,.493,.733,1.3,3.7,0.6,0.0,7.9,CHI,285000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.48,1.12,paxsojo01,1988-89,CHI,12.0,3.3,.091,-3.4,-0.6,,28,NBA,78,22.3,.480,.861,1.2,3.9,0.7,0.1,7.3,CHI,325000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.03,2.40,paxsojo01,1989-90,CHI,12.7,4.8,.097,-2.6,-0.4,,29,NBA,82,28.8,.516,.824,1.5,4.1,1.0,0.1,10.0,CHI,
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",+0.33,4.33,paxsojo01,1990-91,CHI,14.0,5.7,.140,-1.2,0.4,,30,NBA,82,24.0,.548,.829,1.1,3.6,0.8,0.0,8.7,CHI,385000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-0.05,3.84,paxsojo01,1991-92,CHI,10.9,4.7,.117,-1.4,0.3,,31,NBA,79,24.6,.528,.784,1.2,3.1,0.6,0.1,7.0,CHI,1600000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.65,0.61,paxsojo01,1992-93,CHI,9.3,1.9,.087,-3.8,-0.5,,32,NBA,59,17.5,.451,.850,0.8,2.3,0.6,0.0,4.2,CHI,1200000
+John Paxson,/players/p/paxsojo01.html,1984,1994,University of Notre Dame,false,"Archbishop Alter in Kettering, Ohio",-1.98,0.06,paxsojo01,1993-94,CHI,8.3,0.6,.088,-3.8,-0.2,,33,NBA,27,12.7,.441,.500,0.7,1.2,0.3,0.1,2.6,CHI,800000

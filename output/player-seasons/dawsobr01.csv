@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dawsobr01,2015-16,22,Los Angeles Clippers,NBA,6,4.8,.400,1.000,0.7,0.0,0.0,0.2,0.8,7.1,0.0,.069,-6.6,0.0,,525093,"Lew Wallace in Gary, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Branden Dawson,/players/d/dawsobr01.html,2016,2016,Michigan State University,false,"Lew Wallace in Gary, Indiana",-1.10,0.02,dawsobr01,2015-16,LAC,7.1,0.0,.069,-6.6,0.0,,NBA,525093,22,6,4.8,.400,1.000,0.7,0.0,0.0,0.2,0.8,LAC

@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mccanbo01,1989-90,25,DAL,NBA,10,6.2,.333,.857,1.2,0.6,0.2,0.2,2.6,12.4,0.1,.041,-4.2,0.0,,"Morristown in Morristown, New Jersey",
-mccanbo01,1990-91,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Morristown in Morristown, New Jersey",
-mccanbo01,1991-92,27,Detroit Pistons,NBA,26,5.0,.394,.308,1.2,0.2,0.2,0.2,1.2,7.3,0.1,.022,-3.4,0.0,,"Morristown in Morristown, New Jersey",130000
-mccanbo01,1992-93,28,Minnesota Timberwolves,NBA,79,19.4,.488,.625,3.6,0.9,0.6,0.7,6.3,10.9,1.3,.041,-2.9,-0.4,,"Morristown in Morristown, New Jersey",225000
-mccanbo01,1993-94,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Morristown in Morristown, New Jersey",
-mccanbo01,1994-95,30,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Morristown in Morristown, New Jersey",
-mccanbo01,1995-96,31,Washington Bullets,NBA,62,10.5,.497,.473,2.3,0.4,0.3,0.2,3.0,9.1,0.6,.044,-3.8,-0.3,,"Morristown in Morristown, New Jersey",300000
-mccanbo01,1996-97,32,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"Morristown in Morristown, New Jersey",
-mccanbo01,1997-98,33,TOR,NBA,1,5.0,.000,,1.0,0.0,0.0,0.0,0.0,-7.3,0.0,-0.186,-20.6,0.0,,"Morristown in Morristown, New Jersey",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",+0.07,0.10,mccanbo01,1989-90,DAL,12.4,0.1,.041,-4.2,0.0,,25,NBA,10,6.2,.333,.857,1.2,0.6,0.2,0.2,2.6,DAL,
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",,,mccanbo01,1990-91,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",+0.03,0.22,mccanbo01,1991-92,DET,7.3,0.1,.022,-3.4,0.0,,27,NBA,26,5.0,.394,.308,1.2,0.2,0.2,0.2,1.2,DET,130000
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",-2.55,-0.28,mccanbo01,1992-93,MIN,10.9,1.3,.041,-2.9,-0.4,,28,NBA,79,19.4,.488,.625,3.6,0.9,0.6,0.7,6.3,MIN,225000
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",,,mccanbo01,1993-94,Did Not Play (other pro league—CBA),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",,,mccanbo01,1994-95,Did Not Play (other pro league—CBA),,,,,,,30,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",-2.05,0.09,mccanbo01,1995-96,WSB,9.1,0.6,.044,-3.8,-0.3,,31,NBA,62,10.5,.497,.473,2.3,0.4,0.3,0.2,3.0,WSB,300000
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",,,mccanbo01,1996-97,Did Not Play (other pro league—France),,,,,,,32,,,,,,,,,,,Did Not Play (other pro league—France),
+Bob McCann,/players/m/mccanbo01.html,1990,1998,"Upsala College, Morehead State University",false,"Morristown in Morristown, New Jersey",-0.55,0.01,mccanbo01,1997-98,TOR,-7.3,0.0,-0.186,-20.6,0.0,,33,NBA,1,5.0,.000,,1.0,0.0,0.0,0.0,0.0,TOR,

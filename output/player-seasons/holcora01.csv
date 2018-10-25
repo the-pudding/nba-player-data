@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-holcora01,2005-06,26,Chicago Bulls,NBA,4,2.8,1.000,,0.3,0.0,0.0,0.0,0.5,8.2,0.0,.150,-1.8,0.0,,52033,"Lincoln Park in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Randy Holcomb,/players/h/holcora01.html,2006,2006,"California State University, Fresno, San Diego State University",false,"Lincoln Park in Chicago, Illinois",+0.97,0.02,holcora01,2005-06,CHI,8.2,0.0,.150,-1.8,0.0,,NBA,52033,26,4,2.8,1.000,,0.3,0.0,0.0,0.0,0.5,CHI

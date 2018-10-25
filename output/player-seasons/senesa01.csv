@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-senesa01,2006-07,20,Seattle SuperSonics,NBA,28,6.0,.367,.586,1.6,0.0,0.1,0.4,1.9,8.5,0.0,-0.011,-11.9,-0.4,,1958640,
-senesa01,2007-08,21,Seattle SuperSonics,NBA,13,4.8,.458,.471,1.2,0.1,0.0,0.5,2.3,18.2,0.2,.121,-3.7,0.0,,2105520,
-senesa01,2008-09,22,Oklahoma City Thunder,NBA,6,4.8,.667,.800,2.3,0.0,0.2,0.5,3.3,32.9,0.2,.274,-6.7,0.0,,2252400,
-senesa01,2008-09,22,Oklahoma City Thunder,NBA,5,4.6,.714,.778,1.8,0.0,0.2,0.4,3.4,33.2,0.1,.292,-5.2,0.0,,2252400,
-senesa01,2008-09,22,Oklahoma City Thunder,NBA,1,6.0,.500,1.000,5.0,0.0,0.0,1.0,3.0,32.0,0.0,.207,-12.4,0.0,,2252400,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mouhamed Sene,/players/s/senesa01.html,2007,2009,,false,,-1.19,0.12,senesa01,2006-07,SEA,8.5,0.0,-0.011,-11.9,-0.4,,NBA,1958640,20,28,6.0,.367,.586,1.6,0.0,0.1,0.4,1.9,SEA
+Mouhamed Sene,/players/s/senesa01.html,2007,2009,,false,,+0.51,0.12,senesa01,2007-08,SEA,18.2,0.2,.121,-3.7,0.0,,NBA,2105520,21,13,4.8,.458,.471,1.2,0.1,0.0,0.5,2.3,SEA
+Mouhamed Sene,/players/s/senesa01.html,2007,2009,,false,,+0.58,0.05,senesa01,2008-09,TOT,32.9,0.2,.274,-6.7,0.0,,NBA,2252400,22,6,4.8,.667,.800,2.3,0.0,0.2,0.5,3.3,"OKC,NYK"

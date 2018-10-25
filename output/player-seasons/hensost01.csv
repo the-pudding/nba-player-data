@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hensost01,1990-91,22,Milwaukee Bucks,NBA,68,10.1,.418,.905,0.8,1.9,0.5,0.0,3.1,11.5,1.2,.085,-3.4,-0.2,,120000,"McPherson in McPherson, Kansas"
-hensost01,1991-92,23,Milwaukee Bucks,NBA,50,7.7,.361,.793,0.8,1.6,0.3,0.0,3.0,11.1,0.2,.028,-4.0,-0.2,,350000,"McPherson in McPherson, Kansas"
-hensost01,1992-93,24,ATL,NBA,53,13.6,.390,.850,1.0,2.9,0.6,0.0,4.0,11.3,1.1,.076,-3.7,-0.3,,,"McPherson in McPherson, Kansas"
-hensost01,1993-94,25,Atlanta Hawks,NBA,3,5.7,.500,,0.3,1.7,0.0,0.0,1.0,9.7,0.0,.106,-9.1,0.0,,250000,"McPherson in McPherson, Kansas"
-hensost01,1994-95,26,POR,NBA,37,10.3,.430,.880,0.7,2.3,0.2,0.0,3.2,12.1,1.0,.130,-3.9,-0.2,,,"McPherson in McPherson, Kansas"
-hensost01,1995-96,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"McPherson in McPherson, Kansas"
-hensost01,1996-97,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"McPherson in McPherson, Kansas"
-hensost01,1997-98,29,New Jersey Nets,NBA,23,2.8,.500,1.000,0.1,0.2,0.0,0.0,1.6,14.1,0.1,.098,-6.1,-0.1,,272250,"McPherson in McPherson, Kansas"
-hensost01,1998-99,30,DET,NBA,4,6.3,.500,1.000,0.0,0.8,0.3,0.0,1.0,5.6,0.0,-0.015,-11.7,-0.1,,,"McPherson in McPherson, Kansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",-1.29,0.49,hensost01,1990-91,MIL,11.5,1.2,.085,-3.4,-0.2,,NBA,120000,22,68,10.1,.418,.905,0.8,1.9,0.5,0.0,3.1,MIL
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",-2.11,0.05,hensost01,1991-92,MIL,11.1,0.2,.028,-4.0,-0.2,,NBA,350000,23,50,7.7,.361,.793,0.8,1.6,0.3,0.0,3.0,MIL
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",-1.44,0.45,hensost01,1992-93,ATL,11.3,1.1,.076,-3.7,-0.3,,NBA,,24,53,13.6,.390,.850,1.0,2.9,0.6,0.0,4.0,ATL
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",-0.22,0.02,hensost01,1993-94,CHH,9.7,0.0,.106,-9.1,0.0,,NBA,250000,25,3,5.7,.500,,0.3,1.7,0.0,0.0,1.0,CHH
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",-0.63,0.42,hensost01,1994-95,POR,12.1,1.0,.130,-3.9,-0.2,,NBA,,26,37,10.3,.430,.880,0.7,2.3,0.2,0.0,3.2,POR
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",,,hensost01,1995-96,Did Not Play (other pro league—Italy),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—Italy)
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",,,hensost01,1996-97,Did Not Play (other pro league—Italy),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Italy)
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",+0.27,0.11,hensost01,1997-98,DET,14.1,0.1,.098,-6.1,-0.1,,NBA,272250,29,23,2.8,.500,1.000,0.1,0.2,0.0,0.0,1.6,DET
+Steve Henson,/players/h/hensost01.html,1991,1999,Kansas State University,false,"McPherson in McPherson, Kansas",+0.68,0.05,hensost01,1998-99,DET,5.6,0.0,-0.015,-11.7,-0.1,,NBA,,30,4,6.3,.500,1.000,0.0,0.8,0.3,0.0,1.0,DET

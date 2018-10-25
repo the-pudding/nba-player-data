@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-danieer01,2004-05,22,Sacramento Kings,NBA,21,3.4,.333,,0.9,0.2,0.1,0.0,0.6,4.6,-0.1,-0.061,-7.9,-0.1,,385277,"Princeton in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Erik Daniels,/players/d/danieer01.html,2005,2005,University of Kentucky,false,"Princeton in Cincinnati, Ohio",-0.51,0.08,danieer01,2004-05,SAC,4.6,-0.1,-0.061,-7.9,-0.1,,NBA,385277,22,21,3.4,.333,,0.9,0.2,0.1,0.0,0.6,SAC

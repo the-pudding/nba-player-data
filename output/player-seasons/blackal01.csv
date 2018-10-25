@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-blackal01,1992-93,22,Los Angeles Lakers,NBA,27,4.0,.333,.750,0.9,0.3,0.1,0.1,1.3,8.2,0.0,-0.016,-6.3,-0.1,,140000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alex Blackwell,/players/b/blackal01.html,1993,1993,Monmouth University,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.66,0.12,blackal01,1992-93,LAL,8.2,0.0,-0.016,-6.3,-0.1,,NBA,140000,22,27,4.0,.333,.750,0.9,0.3,0.1,0.1,1.3,LAL

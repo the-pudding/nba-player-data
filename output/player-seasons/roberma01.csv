@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-roberma01,1976-77,27,LAL,NBA,28,7.5,.355,.667,0.9,0.7,0.1,0.1,2.1,6.0,-0.2,-0.051,-8.1,-0.3,,"Wingate in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marv Roberts,/players/r/roberma01.html,1972,1977,Utah State University,false,"Wingate in Brooklyn, New York",-2.55,-0.07,roberma01,1976-77,LAL,6.0,-0.2,-0.051,-8.1,-0.3,,27,NBA,28,7.5,.355,.667,0.9,0.7,0.1,0.1,2.1,LAL

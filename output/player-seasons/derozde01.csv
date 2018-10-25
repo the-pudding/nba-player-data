@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-derozde01,2009-10,20,Toronto Raptors,NBA,77,21.6,.498,.763,2.9,0.7,0.6,0.2,8.6,12.5,2.3,.066,-2.8,-0.3,,2282640,"Compton in Compton, California"
-derozde01,2010-11,21,Toronto Raptors,NBA,82,34.8,.467,.813,3.8,1.8,1.0,0.4,17.2,14.5,3.2,.055,-2.4,-0.3,,2453880,"Compton in Compton, California"
-derozde01,2011-12,22,Toronto Raptors,NBA,63,35.0,.422,.810,3.3,2.0,0.8,0.3,16.7,12.8,2.5,.054,-2.8,-0.5,,2625000,"Compton in Compton, California"
-derozde01,2012-13,23,Toronto Raptors,NBA,82,36.7,.445,.831,3.9,2.5,0.9,0.3,18.1,14.7,4.7,.075,-1.9,0.0,,3344250,"Compton in Compton, California"
-derozde01,2013-14,24,Toronto Raptors,NBA,79,38.2,.429,.824,4.3,4.0,1.1,0.4,22.7,18.4,8.8,.141,0.7,2.0,,9500000,"Compton in Compton, California"
-derozde01,2014-15,25,Toronto Raptors,NBA,60,35.0,.413,.832,4.6,3.5,1.2,0.2,20.1,17.4,4.0,.090,-1.6,0.2,,9500000,"Compton in Compton, California"
-derozde01,2015-16,26,Toronto Raptors,NBA,78,35.9,.446,.850,4.5,4.0,1.0,0.3,23.5,21.5,9.9,.169,1.4,2.4,,9500000,"Compton in Compton, California"
-derozde01,2016-17,27,Toronto Raptors,NBA,74,35.4,.467,.842,5.2,3.9,1.1,0.2,27.3,24.0,9.0,.166,0.9,1.9,All-NBA (3rd),26540100,"Compton in Compton, California"
-derozde01,2017-18,28,Toronto Raptors,NBA,80,33.9,.456,.825,3.9,5.2,1.1,0.3,23.0,21.0,9.6,.170,1.8,2.6,All-NBA (2nd),27739975,"Compton in Compton, California"
-derozde01,2018-19,29,SAS,NBA,4,37.8,.444,.793,4.5,7.8,0.8,0.0,26.5,20.7,0.3,.082,-1.2,0.0,,,"Compton in Compton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-2.83,-0.50,derozde01,2009-10,TOR,12.5,2.3,.066,-2.8,-0.3,,NBA,2282640,20,77,21.6,.498,.763,2.9,0.7,0.6,0.2,8.6,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-2.67,-0.63,derozde01,2010-11,TOR,14.5,3.2,.055,-2.4,-0.3,,NBA,2453880,21,82,34.8,.467,.813,3.8,1.8,1.0,0.4,17.2,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-0.96,1.91,derozde01,2011-12,TOR,12.8,2.5,.054,-2.8,-0.5,,NBA,2625000,22,63,35.0,.422,.810,3.3,2.0,0.8,0.3,16.7,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-1.28,1.99,derozde01,2012-13,TOR,14.7,4.7,.075,-1.9,0.0,,NBA,3344250,23,82,36.7,.445,.831,3.9,2.5,0.9,0.3,18.1,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-0.03,5.02,derozde01,2013-14,TOR,18.4,8.8,.141,0.7,2.0,,NBA,9500000,24,79,38.2,.429,.824,4.3,4.0,1.1,0.4,22.7,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-0.55,2.65,derozde01,2014-15,TOR,17.4,4.0,.090,-1.6,0.2,,NBA,9500000,25,60,35.0,.413,.832,4.6,3.5,1.2,0.2,20.1,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-0.45,4.38,derozde01,2015-16,TOR,21.5,9.9,.169,1.4,2.4,,NBA,9500000,26,78,35.9,.446,.850,4.5,4.0,1.0,0.3,23.5,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",-0.68,3.28,derozde01,2016-17,TOR,24.0,9.0,.166,0.9,1.9,All-NBA (3rd),NBA,26540100,27,74,35.4,.467,.842,5.2,3.9,1.1,0.2,27.3,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",+1.55,7.86,derozde01,2017-18,TOR,21.0,9.6,.170,1.8,2.6,All-NBA (2nd),NBA,27739975,28,80,33.9,.456,.825,3.9,5.2,1.1,0.3,23.0,TOR
+DeMar DeRozan,/players/d/derozde01.html,2010,2019,University of Southern California,true,"Compton in Compton, California",,,derozde01,2018-19,SAS,20.7,0.3,.082,-1.2,0.0,,NBA,,29,4,37.8,.444,.793,4.5,7.8,0.8,0.0,26.5,SAS

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leedo01,1991-92,27,New Jersey Nets,NBA,46,6.7,.431,.526,0.8,0.5,0.2,0.0,2.6,10.4,0.4,.067,-3.7,-0.1,,150000,"Washington in Washington, Illinois"
-leedo01,1992-93,28,New Jersey Nets,NBA,5,6.6,.286,,0.4,1.0,0.0,0.2,1.0,-0.2,0.0,-0.067,-9.7,-0.1,,125000,"Washington in Washington, Illinois"
-leedo01,1993-94,29,Did Not Play (other pro league—Croatia),,,,,,,,,,,,,,,,,,"Washington in Washington, Illinois"
-leedo01,1994-95,30,Sacramento Kings,NBA,22,3.4,.360,.857,0.2,0.2,0.3,0.1,2.0,18.1,0.4,.229,3.4,0.1,,150000,"Washington in Washington, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Doug Lee,/players/l/leedo01.html,1992,1995,"Texas A&M University, Purdue University",false,"Washington in Washington, Illinois",-2.02,0.06,leedo01,1991-92,NJN,10.4,0.4,.067,-3.7,-0.1,,NBA,150000,27,46,6.7,.431,.526,0.8,0.5,0.2,0.0,2.6,NJN
+Doug Lee,/players/l/leedo01.html,1992,1995,"Texas A&M University, Purdue University",false,"Washington in Washington, Illinois",+0.25,0.06,leedo01,1992-93,NJN,-0.2,0.0,-0.067,-9.7,-0.1,,NBA,125000,28,5,6.6,.286,,0.4,1.0,0.0,0.2,1.0,NJN
+Doug Lee,/players/l/leedo01.html,1992,1995,"Texas A&M University, Purdue University",false,"Washington in Washington, Illinois",,,leedo01,1993-94,Did Not Play (other pro league—Croatia),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Croatia)
+Doug Lee,/players/l/leedo01.html,1992,1995,"Texas A&M University, Purdue University",false,"Washington in Washington, Illinois",+0.56,0.14,leedo01,1994-95,SAC,18.1,0.4,.229,3.4,0.1,,NBA,150000,30,22,3.4,.360,.857,0.2,0.2,0.3,0.1,2.0,SAC

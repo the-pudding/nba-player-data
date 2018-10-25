@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rakocig01,2002-03,24,Minnesota Timberwolves,NBA,42,5.8,.379,.806,0.4,0.8,0.1,0.0,1.9,8.4,0.1,.022,-7.1,-0.3,,349458,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Igor Rakocevic,/players/r/rakocig01.html,2003,2003,,false,,-1.43,0.12,rakocig01,2002-03,MIN,8.4,0.1,.022,-7.1,-0.3,,NBA,349458,24,42,5.8,.379,.806,0.4,0.8,0.1,0.0,1.9,MIN

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-taylovi01,1982-83,22,NYK,NBA,31,10.4,.363,.656,1.2,1.3,0.6,0.1,3.1,7.6,0.1,.009,-2.5,0.0,,"Tates Creek in Lexington, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Vince Taylor,/players/t/taylovi01.html,1983,1983,Duke University,false,"Tates Creek in Lexington, Kentucky",-1.51,0.14,taylovi01,1982-83,NYK,7.6,0.1,.009,-2.5,0.0,,22,NBA,31,10.4,.363,.656,1.2,1.3,0.6,0.1,3.1,NYK

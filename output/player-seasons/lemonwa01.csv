@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lemonwa01,2017-18,25,New Orleans Pelicans,NBA,5,7.0,.438,.667,0.4,1.0,0.0,0.2,3.4,6.9,-0.1,-0.071,-11.7,-0.1,,92160,"Julian in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+"Walt Lemon, Jr.",/players/l/lemonwa01.html,2018,2018,Bradley University,true,"Julian in Chicago, Illinois",-1.90,0.01,lemonwa01,2017-18,NOP,6.9,-0.1,-0.071,-11.7,-0.1,,NBA,92160,25,5,7.0,.438,.667,0.4,1.0,0.0,0.2,3.4,NOP

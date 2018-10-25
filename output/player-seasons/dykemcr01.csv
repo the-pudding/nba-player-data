@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dykemcr01,1981-82,22,PHO,NBA,32,3.2,.459,.778,0.4,0.5,0.1,0.0,1.3,11.1,0.2,.095,-4.6,-0.1,,"Lakewood in Lakewood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Craig Dykema,/players/d/dykemcr01.html,1982,1982,"California State University, Long Beach",false,"Lakewood in Lakewood, California",+0.09,0.18,dykemcr01,1981-82,PHO,11.1,0.2,.095,-4.6,-0.1,,22,NBA,32,3.2,.459,.778,0.4,0.5,0.1,0.0,1.3,PHO

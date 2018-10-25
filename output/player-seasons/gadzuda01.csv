@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-gadzuda01,2002-03,24,Milwaukee Bucks,NBA,49,15.5,.483,.518,4.0,0.2,0.4,1.1,3.4,11.2,1.2,.075,-2.9,-0.2,,349458,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2003-04,25,Milwaukee Bucks,NBA,75,16.8,.524,.492,4.6,0.4,0.7,1.4,5.7,17.0,3.7,.141,1.8,1.2,,563679,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2004-05,26,Milwaukee Bucks,NBA,81,22.0,.539,.538,8.3,0.4,0.6,1.3,7.3,18.1,5.2,.140,-0.1,0.9,,695046,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2005-06,27,Milwaukee Bucks,NBA,74,12.0,.553,.461,3.1,0.3,0.3,0.6,5.2,17.2,2.5,.134,-1.0,0.2,,4750000,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2006-07,28,Milwaukee Bucks,NBA,54,15.6,.474,.467,4.6,0.5,0.4,0.6,4.8,11.9,0.8,.043,-3.8,-0.4,,5252065,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2007-08,29,Milwaukee Bucks,NBA,51,10.5,.416,.524,2.8,0.2,0.4,0.5,3.2,10.7,0.1,.006,-5.6,-0.5,,5751130,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2008-09,30,Milwaukee Bucks,NBA,67,14.0,.480,.544,3.8,0.6,0.5,0.6,4.0,12.2,1.8,.094,-0.6,0.3,,6250195,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2009-10,31,Milwaukee Bucks,NBA,32,9.8,.438,.400,2.9,0.4,0.3,0.4,2.8,10.5,0.5,.077,-2.4,0.0,,6749260,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2010-11,32,New Jersey Nets,NBA,42,11.0,.419,.370,3.2,0.3,0.3,0.7,2.8,9.9,0.1,.014,-4.0,-0.2,,7248325,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2010-11,32,New Jersey Nets,NBA,28,10.6,.420,.357,3.1,0.4,0.4,0.6,2.8,10.2,0.1,.013,-3.3,-0.1,,7248325,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2010-11,32,New Jersey Nets,NBA,14,11.9,.415,.385,3.5,0.2,0.2,0.8,2.8,9.1,0.1,.015,-5.2,-0.1,,7248325,"Governor Dummer Academy in Byfield, Massachusetts"
-gadzuda01,2011-12,33,NYK,NBA,2,6.5,.000,.000,2.5,0.0,0.5,0.5,0.0,-4.3,0.0,-0.169,-14.0,0.0,,,"Governor Dummer Academy in Byfield, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-0.44,0.94,gadzuda01,2002-03,MIL,11.2,1.2,.075,-2.9,-0.2,,NBA,349458,24,49,15.5,.483,.518,4.0,0.2,0.4,1.1,3.4,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",+1.79,3.52,gadzuda01,2003-04,MIL,17.0,3.7,.141,1.8,1.2,,NBA,563679,25,75,16.8,.524,.492,4.6,0.4,0.7,1.4,5.7,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",+1.55,4.60,gadzuda01,2004-05,MIL,18.1,5.2,.140,-0.1,0.9,,NBA,695046,26,81,22.0,.539,.538,8.3,0.4,0.6,1.3,7.3,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-0.57,1.04,gadzuda01,2005-06,MIL,17.2,2.5,.134,-1.0,0.2,,NBA,4750000,27,74,12.0,.553,.461,3.1,0.3,0.3,0.6,5.2,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-1.91,0.23,gadzuda01,2006-07,MIL,11.9,0.8,.043,-3.8,-0.4,,NBA,5252065,28,54,15.6,.474,.467,4.6,0.5,0.4,0.6,4.8,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-1.32,0.34,gadzuda01,2007-08,MIL,10.7,0.1,.006,-5.6,-0.5,,NBA,5751130,29,51,10.5,.416,.524,2.8,0.2,0.4,0.5,3.2,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-0.08,1.40,gadzuda01,2008-09,MIL,12.2,1.8,.094,-0.6,0.3,,NBA,6250195,30,67,14.0,.480,.544,3.8,0.6,0.5,0.6,4.0,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-0.64,0.42,gadzuda01,2009-10,MIL,10.5,0.5,.077,-2.4,0.0,,NBA,6749260,31,32,9.8,.438,.400,2.9,0.4,0.3,0.4,2.8,MIL
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",-1.80,0.14,gadzuda01,2010-11,TOT,9.9,0.1,.014,-4.0,-0.2,,NBA,7248325,32,42,11.0,.419,.370,3.2,0.3,0.3,0.7,2.8,"GSW,NJN"
+Dan Gadzuric,/players/g/gadzuda01.html,2003,2012,"University of California, Los Angeles",false,"Governor Dummer Academy in Byfield, Massachusetts",+0.63,0.03,gadzuda01,2011-12,NYK,-4.3,0.0,-0.169,-14.0,0.0,,NBA,,33,2,6.5,.000,.000,2.5,0.0,0.5,0.5,0.0,NYK

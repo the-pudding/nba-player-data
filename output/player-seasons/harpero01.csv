@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-harpero01,1986-87,23,CLE,NBA,82,37.4,.455,.684,4.8,4.8,2.5,1.0,22.9,17.2,4.2,.066,2.0,3.1,,"Kiser in Dayton, Ohio",
-harpero01,1987-88,24,Cleveland Cavaliers,NBA,57,32.1,.464,.705,3.9,4.9,2.1,0.9,15.4,16.6,3.5,.092,2.1,1.9,,"Kiser in Dayton, Ohio",555500
-harpero01,1988-89,25,Cleveland Cavaliers,NBA,82,34.8,.511,.751,5.0,5.3,2.3,0.9,18.6,19.8,10.2,.171,5.2,5.2,,"Kiser in Dayton, Ohio",605500
-harpero01,1989-90,26,"CLE,LAC",NBA,35,39.1,.473,.788,5.9,5.2,2.3,1.2,22.8,20.2,3.9,.138,4.3,2.2,,"Kiser in Dayton, Ohio",
-harpero01,1990-91,27,Los Angeles Clippers,NBA,39,35.5,.391,.668,4.8,5.4,1.7,0.9,19.6,14.5,0.9,.030,0.7,1.0,,"Kiser in Dayton, Ohio",1365000
-harpero01,1991-92,28,Los Angeles Clippers,NBA,82,38.3,.440,.736,5.5,5.1,1.9,0.9,18.2,15.4,5.6,.085,2.4,3.5,,"Kiser in Dayton, Ohio",1650000
-harpero01,1992-93,29,Los Angeles Clippers,NBA,80,37.1,.451,.769,5.3,4.5,2.2,0.9,18.0,16.1,6.0,.097,2.3,3.3,,"Kiser in Dayton, Ohio",2220000
-harpero01,1993-94,30,Los Angeles Clippers,NBA,75,38.1,.426,.715,6.1,4.6,1.9,0.7,20.1,15.7,2.9,.049,0.7,1.9,,"Kiser in Dayton, Ohio",4000000
-harpero01,1994-95,31,Chicago Bulls,NBA,77,19.9,.426,.618,2.3,2.0,1.3,0.4,6.9,12.2,2.4,.073,-0.7,0.5,,"Kiser in Dayton, Ohio",2400000
-harpero01,1995-96,32,Chicago Bulls,NBA,80,23.6,.467,.705,2.7,2.6,1.3,0.4,7.4,14.4,6.3,.161,2.6,2.2,,"Kiser in Dayton, Ohio",3120000
-harpero01,1996-97,33,Chicago Bulls,NBA,76,22.9,.436,.707,2.5,2.5,1.1,0.5,6.3,13.6,5.7,.157,2.7,2.1,,"Kiser in Dayton, Ohio",3840000
-harpero01,1997-98,34,Chicago Bulls,NBA,82,27.9,.441,.750,3.5,2.9,1.3,0.6,9.3,14.7,7.2,.151,2.3,2.5,,"Kiser in Dayton, Ohio",4560000
-harpero01,1998-99,35,Chicago Bulls,NBA,35,31.6,.377,.703,5.1,3.3,1.7,1.0,11.2,14.7,1.2,.053,1.0,0.9,,"Kiser in Dayton, Ohio",5280000
-harpero01,1999-00,36,Los Angeles Lakers,NBA,80,25.5,.399,.680,4.2,3.4,1.1,0.5,7.0,12.0,4.0,.093,0.7,1.4,,"Kiser in Dayton, Ohio",2000000
-harpero01,2000-01,37,Los Angeles Lakers,NBA,47,24.2,.469,.708,3.5,2.4,0.8,0.5,6.5,12.5,1.8,.077,-0.2,0.5,,"Kiser in Dayton, Ohio",2200000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+1.06,6.98,harpero01,1986-87,CLE,17.2,4.2,.066,2.0,3.1,,23,NBA,82,37.4,.455,.684,4.8,4.8,2.5,1.0,22.9,CLE,
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+1.47,5.00,harpero01,1987-88,CLE,16.6,3.5,.092,2.1,1.9,,24,NBA,57,32.1,.464,.705,3.9,4.9,2.1,0.9,15.4,CLE,555500
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+3.91,12.60,harpero01,1988-89,CLE,19.8,10.2,.171,5.2,5.2,,25,NBA,82,34.8,.511,.751,5.0,5.3,2.3,0.9,18.6,CLE,605500
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+1.60,3.60,harpero01,1989-90,TOT,20.2,3.9,.138,4.3,2.2,,26,NBA,35,39.1,.473,.788,5.9,5.2,2.3,1.2,22.8,"CLE,LAC",
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",-0.50,1.65,harpero01,1990-91,LAC,14.5,0.9,.030,0.7,1.0,,27,NBA,39,35.5,.391,.668,4.8,5.4,1.7,0.9,19.6,LAC,1365000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+1.01,7.50,harpero01,1991-92,LAC,15.4,5.6,.085,2.4,3.5,,28,NBA,82,38.3,.440,.736,5.5,5.1,1.9,0.9,18.2,LAC,1650000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+1.42,7.85,harpero01,1992-93,LAC,16.1,6.0,.097,2.3,3.3,,29,NBA,80,37.1,.451,.769,5.3,4.5,2.2,0.9,18.0,LAC,2220000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",-0.36,3.70,harpero01,1993-94,LAC,15.7,2.9,.049,0.7,1.9,,30,NBA,75,38.1,.426,.715,6.1,4.6,1.9,0.7,20.1,LAC,4000000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+0.09,2.53,harpero01,1994-95,CHI,12.2,2.4,.073,-0.7,0.5,,31,NBA,77,19.9,.426,.618,2.3,2.0,1.3,0.4,6.9,CHI,2400000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+2.65,7.87,harpero01,1995-96,CHI,14.4,6.3,.161,2.6,2.2,,32,NBA,80,23.6,.467,.705,2.7,2.6,1.3,0.4,7.4,CHI,3120000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+2.87,7.80,harpero01,1996-97,CHI,13.6,5.7,.157,2.7,2.1,,33,NBA,76,22.9,.436,.707,2.5,2.5,1.1,0.5,6.3,CHI,3840000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+2.20,8.76,harpero01,1997-98,CHI,14.7,7.2,.151,2.3,2.5,,34,NBA,82,27.9,.441,.750,3.5,2.9,1.3,0.6,9.3,CHI,4560000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",-0.43,1.35,harpero01,1998-99,CHI,14.7,1.2,.053,1.0,0.9,,35,NBA,35,31.6,.377,.703,5.1,3.3,1.7,1.0,11.2,CHI,5280000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",+0.79,5.64,harpero01,1999-00,LAL,12.0,4.0,.093,0.7,1.4,,36,NBA,80,25.5,.399,.680,4.2,3.4,1.1,0.5,7.0,LAL,2000000
+Ron Harper,/players/h/harpero01.html,1987,2001,Miami University,false,"Kiser in Dayton, Ohio",-1.12,0.91,harpero01,2000-01,LAL,12.5,1.8,.077,-0.2,0.5,,37,NBA,47,24.2,.469,.708,3.5,2.4,0.8,0.5,6.5,LAL,2200000

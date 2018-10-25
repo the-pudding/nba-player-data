@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-crossje01,1985-86,24,LAC,NBA,21,6.1,.250,.560,1.4,0.0,0.1,0.1,1.2,1.5,-0.1,-0.038,-10.1,-0.3,,"Worcester Academy in Worcester, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jeff Cross,/players/c/crossje01.html,1986,1986,University of Maine,false,"Worcester Academy in Worcester, Massachusetts",-1.06,0.10,crossje01,1985-86,LAC,1.5,-0.1,-0.038,-10.1,-0.3,,24,NBA,21,6.1,.250,.560,1.4,0.0,0.1,0.1,1.2,LAC

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-garlawi01,1987-88,23,Golden State Warriors,NBA,67,31.7,.439,.879,3.4,6.4,1.7,0.1,12.4,13.8,1.7,.039,-1.2,0.4,,75000,"Roosevelt in Gary, Indiana"
-garlawi01,1988-89,24,Golden State Warriors,NBA,79,33.7,.434,.809,4.2,6.4,2.2,0.2,14.5,14.7,4.5,.082,0.0,1.4,,100000,"Roosevelt in Gary, Indiana"
-garlawi01,1989-90,25,"GSW,LAC",NBA,79,22.3,.401,.836,2.7,3.8,1.0,0.1,7.3,9.8,-0.3,-0.008,-3.8,-0.8,,,"Roosevelt in Gary, Indiana"
-garlawi01,1990-91,26,Los Angeles Clippers,NBA,69,24.7,.426,.752,2.9,4.6,1.4,0.1,8.2,12.1,2.4,.069,-1.0,0.4,,450000,"Roosevelt in Gary, Indiana"
-garlawi01,1991-92,27,Denver Nuggets,NBA,78,28.3,.444,.859,2.4,5.3,1.3,0.3,10.8,13.3,2.9,.063,-2.0,0.0,,450000,"Roosevelt in Gary, Indiana"
-garlawi01,1992-93,28,Denver Nuggets,NBA,66,15.2,.443,.910,1.6,2.1,0.6,0.1,5.9,12.2,1.8,.084,-2.9,-0.2,,625000,"Roosevelt in Gary, Indiana"
-garlawi01,1993-94,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Roosevelt in Gary, Indiana"
-garlawi01,1994-95,30,Minnesota Timberwolves,NBA,73,26.5,.415,.795,2.3,4.4,1.0,0.2,6.1,10.1,1.2,.030,-3.5,-0.7,,143860,"Roosevelt in Gary, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",-1.07,1.75,garlawi01,1987-88,GSW,13.8,1.7,.039,-1.2,0.4,,NBA,75000,23,67,31.7,.439,.879,3.4,6.4,1.7,0.1,12.4,GSW
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",+0.50,5.51,garlawi01,1988-89,GSW,14.7,4.5,.082,0.0,1.4,,NBA,100000,24,79,33.7,.434,.809,4.2,6.4,2.2,0.2,14.5,GSW
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",-3.47,-1.36,garlawi01,1989-90,TOT,9.8,-0.3,-0.008,-3.8,-0.8,,NBA,,25,79,22.3,.401,.836,2.7,3.8,1.0,0.1,7.3,"GSW,LAC"
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",-0.76,1.72,garlawi01,1990-91,LAC,12.1,2.4,.069,-1.0,0.4,,NBA,450000,26,69,24.7,.426,.752,2.9,4.6,1.4,0.1,8.2,LAC
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",-1.07,1.77,garlawi01,1991-92,DEN,13.3,2.9,.063,-2.0,0.0,,NBA,450000,27,78,28.3,.444,.859,2.4,5.3,1.3,0.3,10.8,DEN
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",-1.91,0.31,garlawi01,1992-93,HOU,12.2,1.8,.084,-2.9,-0.2,,NBA,625000,28,66,15.2,.443,.910,1.6,2.1,0.6,0.1,5.9,HOU
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",,,garlawi01,1993-94,Did Not Play (other pro league—Italy),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Italy)
+Winston Garland,/players/g/garlawi01.html,1988,1995,Missouri State University,false,"Roosevelt in Gary, Indiana",-2.63,-0.42,garlawi01,1994-95,MIN,10.1,1.2,.030,-3.5,-0.7,,NBA,143860,30,73,26.5,.415,.795,2.3,4.4,1.0,0.2,6.1,MIN

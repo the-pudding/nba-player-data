@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-carrml01,1976-77,26,DET,NBA,82,32.2,.476,.735,7.7,2.2,2.0,0.7,13.3,15.2,5.9,.107,2.3,2.9,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1977-78,27,DET,NBA,79,32.4,.455,.738,7.1,2.3,1.9,0.3,12.4,13.6,4.5,.085,1.1,2.0,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1978-79,28,DET,NBA,80,40.1,.514,.743,7.4,3.3,2.5,0.6,18.7,16.3,7.9,.118,3.7,4.6,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1979-80,29,BOS,NBA,82,24.3,.474,.739,4.0,1.9,1.5,0.4,11.1,14.6,5.2,.125,1.3,1.7,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1980-81,30,BOS,NBA,41,16.0,.449,.791,2.0,1.4,0.7,0.4,6.0,11.6,1.1,.082,-1.3,0.1,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1981-82,31,BOS,NBA,56,23.1,.450,.707,2.7,2.3,1.2,0.4,8.1,11.9,2.8,.103,0.8,0.9,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1982-83,32,BOS,NBA,77,11.5,.429,.741,1.8,0.9,0.6,0.1,4.3,9.7,0.8,.046,-2.6,-0.1,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1983-84,33,BOS,NBA,60,9.8,.409,.875,1.3,0.8,0.3,0.1,3.1,7.8,0.4,.034,-4.1,-0.3,,"Wallace Rose Hill in Teachey, North Carolina",
-carrml01,1984-85,34,Boston Celtics,NBA,47,8.4,.416,1.000,0.9,0.5,0.4,0.1,3.2,9.9,0.4,.050,-3.1,-0.1,,"Wallace Rose Hill in Teachey, North Carolina",175000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",+0.42,5.08,carrml01,1976-77,DET,15.2,5.9,.107,2.3,2.9,,26,NBA,82,32.2,.476,.735,7.7,2.2,2.0,0.7,13.3,DET,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",-0.11,3.74,carrml01,1977-78,DET,13.6,4.5,.085,1.1,2.0,,27,NBA,79,32.4,.455,.738,7.1,2.3,1.9,0.3,12.4,DET,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",+0.54,6.16,carrml01,1978-79,DET,16.3,7.9,.118,3.7,4.6,,28,NBA,80,40.1,.514,.743,7.4,3.3,2.5,0.6,18.7,DET,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",+0.94,4.75,carrml01,1979-80,BOS,14.6,5.2,.125,1.3,1.7,,29,NBA,82,24.3,.474,.739,4.0,1.9,1.5,0.4,11.1,BOS,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",-1.35,0.56,carrml01,1980-81,BOS,11.6,1.1,.082,-1.3,0.1,,30,NBA,41,16.0,.449,.791,2.0,1.4,0.7,0.4,6.0,BOS,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",-0.69,1.71,carrml01,1981-82,BOS,11.9,2.8,.103,0.8,0.9,,31,NBA,56,23.1,.450,.707,2.7,2.3,1.2,0.4,8.1,BOS,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",-1.91,0.18,carrml01,1982-83,BOS,9.7,0.8,.046,-2.6,-0.1,,32,NBA,77,11.5,.429,.741,1.8,0.9,0.6,0.1,4.3,BOS,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",-2.61,-0.16,carrml01,1983-84,BOS,7.8,0.4,.034,-4.1,-0.3,,33,NBA,60,9.8,.409,.875,1.3,0.8,0.3,0.1,3.1,BOS,
+M.L. Carr,/players/c/carrml01.html,1976,1985,Guilford College,false,"Wallace Rose Hill in Teachey, North Carolina",-2.61,-0.09,carrml01,1984-85,BOS,9.9,0.4,.050,-3.1,-0.1,,34,NBA,47,8.4,.416,1.000,0.9,0.5,0.4,0.1,3.2,BOS,175000

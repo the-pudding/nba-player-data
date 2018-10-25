@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-woodch01,2015-16,20,Philadelphia 76ers,NBA,17,8.5,.415,.619,2.2,0.2,0.3,0.4,3.6,16.4,0.3,.097,-4.5,-0.1,,305789,"Findlay College Prep in Henderson, Nevada"
-woodch01,2016-17,21,Charlotte Hornets,NBA,13,8.2,.522,.733,2.2,0.2,0.2,0.5,2.7,15.1,0.3,.125,-2.0,0.0,,874636,"Findlay College Prep in Henderson, Nevada"
-woodch01,2017-18,22,Milwaukee Bucks,NBA,,,,,,,,,,,,,,,,1512601,"Findlay College Prep in Henderson, Nevada"
-woodch01,2018-19,23,MIL,NBA,2,5.5,.500,.500,1.0,0.0,0.0,0.0,2.0,5.9,0.0,.040,-8.6,0.0,,,"Findlay College Prep in Henderson, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Christian Wood,/players/w/woodch01.html,2016,2019,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",-0.64,0.16,woodch01,2015-16,PHI,16.4,0.3,.097,-4.5,-0.1,,NBA,305789,20,17,8.5,.415,.619,2.2,0.2,0.3,0.4,3.6,PHI
+Christian Wood,/players/w/woodch01.html,2016,2019,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",-1.02,0.09,woodch01,2016-17,CHO,15.1,0.3,.125,-2.0,0.0,,NBA,874636,21,13,8.2,.522,.733,2.2,0.2,0.2,0.5,2.7,CHO
+Christian Wood,/players/w/woodch01.html,2016,2019,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",,,woodch01,2017-18,Did Not Play,,,,,,,NBA,1512601,22,,,,,,,,,,Did Not Play
+Christian Wood,/players/w/woodch01.html,2016,2019,"University of Nevada, Las Vegas",true,"Findlay College Prep in Henderson, Nevada",,,woodch01,2018-19,MIL,5.9,0.0,.040,-8.6,0.0,,NBA,,23,2,5.5,.500,.500,1.0,0.0,0.0,0.0,2.0,MIL

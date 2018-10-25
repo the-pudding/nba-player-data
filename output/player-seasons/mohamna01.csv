@@ -1,29 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mohamna01,1998-99,21,Philadelphia 76ers,NBA,26,4.7,.357,.571,1.4,0.1,0.2,0.2,1.6,10.0,0.0,.013,-7.5,-0.2,,535000,"Kenwood in Chicago, Illinois"
-mohamna01,1999-00,22,Philadelphia 76ers,NBA,28,6.8,.389,.545,1.8,0.1,0.1,0.4,1.9,7.0,-0.1,-0.016,-8.1,-0.3,,690960,"Kenwood in Chicago, Illinois"
-mohamna01,2000-01,23,Philadelphia 76ers,NBA,58,15.7,.477,.706,5.3,0.3,0.5,0.6,7.6,19.2,2.5,.129,-2.4,-0.1,,739080,"Kenwood in Chicago, Illinois"
-mohamna01,2000-01,23,Philadelphia 76ers,NBA,30,6.5,.466,.500,1.8,0.1,0.2,0.2,3.2,15.3,0.5,.116,-6.3,-0.2,,739080,"Kenwood in Chicago, Illinois"
-mohamna01,2000-01,23,Philadelphia 76ers,NBA,28,25.6,.480,.765,9.0,0.6,0.8,1.0,12.3,20.3,2.0,.133,-1.4,0.1,,739080,"Kenwood in Chicago, Illinois"
-mohamna01,2001-02,24,Atlanta Hawks,NBA,82,26.4,.461,.617,7.9,0.4,0.8,0.7,9.7,14.0,3.3,.072,-4.1,-1.1,,4500000,"Kenwood in Chicago, Illinois"
-mohamna01,2002-03,25,Atlanta Hawks,NBA,35,12.7,.421,.634,3.7,0.2,0.5,0.6,4.6,12.4,0.4,.045,-6.6,-0.5,,4750000,"Kenwood in Chicago, Illinois"
-mohamna01,2003-04,26,Atlanta Hawks,NBA,80,20.1,.521,.592,5.9,0.5,0.7,0.7,7.4,16.1,3.7,.110,-1.9,0.1,,5000000,"Kenwood in Chicago, Illinois"
-mohamna01,2003-04,26,Atlanta Hawks,NBA,53,17.7,.493,.627,5.0,0.4,0.4,0.5,6.5,14.8,1.7,.087,-4.2,-0.5,,5000000,"Kenwood in Chicago, Illinois"
-mohamna01,2003-04,26,Atlanta Hawks,NBA,27,24.9,.563,.525,7.7,0.6,1.2,0.9,9.1,18.1,2.0,.144,1.4,0.6,,5000000,"Kenwood in Chicago, Illinois"
-mohamna01,2004-05,27,New York Knicks,NBA,77,25.1,.480,.674,7.6,0.4,0.8,1.1,9.5,16.4,4.6,.115,-1.4,0.3,,5250000,"Kenwood in Chicago, Illinois"
-mohamna01,2004-05,27,New York Knicks,NBA,54,28.1,.509,.708,8.1,0.5,1.0,1.0,10.9,17.0,3.8,.120,-1.0,0.4,,5250000,"Kenwood in Chicago, Illinois"
-mohamna01,2004-05,27,New York Knicks,NBA,23,18.0,.387,.571,6.4,0.3,0.2,1.4,6.2,14.2,0.8,.095,-2.8,-0.1,,5250000,"Kenwood in Chicago, Illinois"
-mohamna01,2005-06,28,San Antonio Spurs,NBA,80,17.4,.504,.785,5.2,0.5,0.3,0.6,6.2,15.0,4.5,.156,-1.0,0.4,,5500000,"Kenwood in Chicago, Illinois"
-mohamna01,2006-07,29,Detroit Pistons,NBA,51,15.2,.532,.610,4.5,0.2,0.5,0.8,5.6,16.5,2.3,.145,-1.8,0.0,,5215000,"Kenwood in Chicago, Illinois"
-mohamna01,2007-08,30,Charlotte Bobcats,NBA,82,20.1,.515,.583,6.0,0.9,0.5,0.7,7.8,15.8,3.4,.098,-0.9,0.5,,5632200,"Kenwood in Chicago, Illinois"
-mohamna01,2007-08,30,Charlotte Bobcats,NBA,21,10.9,.475,.433,3.5,0.3,0.3,0.4,3.3,13.1,0.5,.112,-2.1,0.0,,5632200,"Kenwood in Chicago, Illinois"
-mohamna01,2007-08,30,Charlotte Bobcats,NBA,61,23.3,.520,.617,6.9,1.1,0.6,0.9,9.3,16.2,2.8,.096,-0.7,0.5,,5632200,"Kenwood in Chicago, Illinois"
-mohamna01,2008-09,31,Charlotte Bobcats,NBA,39,8.7,.406,.550,2.0,0.2,0.1,0.4,2.7,7.7,0.0,.004,-6.5,-0.4,,6049400,"Kenwood in Chicago, Illinois"
-mohamna01,2009-10,32,Charlotte Bobcats,NBA,58,17.0,.553,.648,5.2,0.5,0.3,0.7,7.9,19.6,3.6,.174,-0.7,0.3,,6466600,"Kenwood in Chicago, Illinois"
-mohamna01,2010-11,33,Oklahoma City Thunder,NBA,75,17.1,.522,.598,4.9,0.3,0.4,0.7,7.1,15.9,2.7,.100,-3.3,-0.4,,6883800,"Kenwood in Chicago, Illinois"
-mohamna01,2010-11,33,Oklahoma City Thunder,NBA,51,16.7,.502,.591,4.9,0.3,0.3,0.9,7.3,15.9,1.4,.080,-4.1,-0.5,,6883800,"Kenwood in Chicago, Illinois"
-mohamna01,2010-11,33,Oklahoma City Thunder,NBA,24,17.9,.573,.625,4.8,0.3,0.7,0.4,6.9,16.0,1.2,.139,-1.7,0.0,,6883800,"Kenwood in Chicago, Illinois"
-mohamna01,2011-12,34,Oklahoma City Thunder,NBA,63,11.0,.467,.565,2.7,0.2,0.3,0.6,2.7,11.0,1.3,.090,-2.2,0.0,,3750000,"Kenwood in Chicago, Illinois"
-mohamna01,2012-13,35,Chicago Bulls,NBA,63,11.0,.367,.723,3.1,0.4,0.3,0.5,2.6,10.8,1.2,.082,-2.8,-0.1,,1352181,"Kenwood in Chicago, Illinois"
-mohamna01,2013-14,36,Chicago Bulls,NBA,80,7.0,.429,.533,2.2,0.3,0.2,0.4,1.6,10.1,0.8,.070,-3.3,-0.2,,1399507,"Kenwood in Chicago, Illinois"
-mohamna01,2014-15,37,Chicago Bulls,NBA,23,5.6,.433,.333,1.7,0.1,0.2,0.2,1.2,8.7,0.1,.040,-5.3,-0.1,,1448490,"Kenwood in Chicago, Illinois"
-mohamna01,2015-16,38,Oklahoma City Thunder,NBA,5,3.8,.600,1.000,0.8,0.0,0.0,0.0,1.6,6.0,0.0,-0.009,-13.2,-0.1,,352750,"Kenwood in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.17,0.17,mohamna01,1998-99,PHI,10.0,0.0,.013,-7.5,-0.2,,NBA,535000,21,26,4.7,.357,.571,1.4,0.1,0.2,0.2,1.6,PHI
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.66,0.20,mohamna01,1999-00,PHI,7.0,-0.1,-0.016,-8.1,-0.3,,NBA,690960,22,28,6.8,.389,.545,1.8,0.1,0.1,0.4,1.9,PHI
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.56,1.05,mohamna01,2000-01,TOT,19.2,2.5,.129,-2.4,-0.1,,NBA,739080,23,58,15.7,.477,.706,5.3,0.3,0.5,0.6,7.6,"PHI,ATL"
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-1.91,0.46,mohamna01,2001-02,ATL,14.0,3.3,.072,-4.1,-1.1,,NBA,4500000,24,82,26.4,.461,.617,7.9,0.4,0.8,0.7,9.7,ATL
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-2.43,-0.09,mohamna01,2002-03,ATL,12.4,0.4,.045,-6.6,-0.5,,NBA,4750000,25,35,12.7,.421,.634,3.7,0.2,0.5,0.6,4.6,ATL
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-1.74,0.48,mohamna01,2003-04,TOT,16.1,3.7,.110,-1.9,0.1,,NBA,5000000,26,80,20.1,.521,.592,5.9,0.5,0.7,0.7,7.4,"ATL,NYK"
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-2.64,-0.63,mohamna01,2004-05,TOT,16.4,4.6,.115,-1.4,0.3,,NBA,5250000,27,77,25.1,.480,.674,7.6,0.4,0.8,1.1,9.5,"NYK,SAS"
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.41,1.87,mohamna01,2005-06,SAS,15.0,4.5,.156,-1.0,0.4,,NBA,5500000,28,80,17.4,.504,.785,5.2,0.5,0.3,0.6,6.2,SAS
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-1.41,0.46,mohamna01,2006-07,DET,16.5,2.3,.145,-1.8,0.0,,NBA,5215000,29,51,15.2,.532,.610,4.5,0.2,0.5,0.8,5.6,DET
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-3.27,-1.06,mohamna01,2007-08,TOT,15.8,3.4,.098,-0.9,0.5,,NBA,5632200,30,82,20.1,.515,.583,6.0,0.9,0.5,0.7,7.8,"DET,CHA"
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-3.20,-0.20,mohamna01,2008-09,CHA,7.7,0.0,.004,-6.5,-0.4,,NBA,6049400,31,39,8.7,.406,.550,2.0,0.2,0.1,0.4,2.7,CHA
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.23,1.43,mohamna01,2009-10,CHA,19.6,3.6,.174,-0.7,0.3,,NBA,6466600,32,58,17.0,.553,.648,5.2,0.5,0.3,0.7,7.9,CHA
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.04,2.16,mohamna01,2010-11,TOT,15.9,2.7,.100,-3.3,-0.4,,NBA,6883800,33,75,17.1,.522,.598,4.9,0.3,0.4,0.7,7.1,"CHA,OKC"
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-1.85,0.22,mohamna01,2011-12,OKC,11.0,1.3,.090,-2.2,0.0,,NBA,3750000,34,63,11.0,.467,.565,2.7,0.2,0.3,0.6,2.7,OKC
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.21,1.12,mohamna01,2012-13,CHI,10.8,1.2,.082,-2.8,-0.1,,NBA,1352181,35,63,11.0,.367,.723,3.1,0.4,0.3,0.5,2.6,CHI
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-1.54,0.24,mohamna01,2013-14,CHI,10.1,0.8,.070,-3.3,-0.2,,NBA,1399507,36,80,7.0,.429,.533,2.2,0.3,0.2,0.4,1.6,CHI
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",+0.02,0.22,mohamna01,2014-15,CHI,8.7,0.1,.040,-5.3,-0.1,,NBA,1448490,37,23,5.6,.433,.333,1.7,0.1,0.2,0.2,1.2,CHI
+Nazr Mohammed,/players/m/mohamna01.html,1999,2016,University of Kentucky,false,"Kenwood in Chicago, Illinois",-0.99,0.02,mohamna01,2015-16,OKC,6.0,0.0,-0.009,-13.2,-0.1,,NBA,352750,38,5,3.8,.600,1.000,0.8,0.0,0.0,0.0,1.6,OKC

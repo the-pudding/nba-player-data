@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-huntest01,2001-02,20,Orlando Magic,NBA,53,9.7,.456,.585,1.8,0.1,0.1,0.8,3.6,12.9,1.0,.094,-4.9,-0.4,,1244880,"Proviso East in Maywood, Illinois"
-huntest01,2002-03,21,Orlando Magic,NBA,33,13.5,.544,.409,2.8,0.2,0.3,1.1,3.9,13.4,0.9,.099,-2.3,0.0,,1338240,"Proviso East in Maywood, Illinois"
-huntest01,2003-04,22,Orlando Magic,NBA,59,13.4,.529,.333,2.9,0.2,0.1,1.2,3.2,11.2,0.6,.034,-4.0,-0.4,,1431600,"Proviso East in Maywood, Illinois"
-huntest01,2004-05,23,Cleveland Cavaliers,NBA,76,13.8,.614,.479,3.0,0.2,0.1,1.3,4.6,14.7,2.6,.121,-0.5,0.4,,1000000,"Proviso East in Maywood, Illinois"
-huntest01,2005-06,24,Philadelphia 76ers,NBA,69,19.0,.601,.514,3.9,0.2,0.2,1.1,6.1,13.9,2.5,.090,-2.9,-0.3,,2800000,"Proviso East in Maywood, Illinois"
-huntest01,2006-07,25,Philadelphia 76ers,NBA,70,22.9,.577,.490,4.8,0.4,0.2,1.1,6.4,12.3,2.8,.085,-1.9,0.1,,3024000,"Proviso East in Maywood, Illinois"
-huntest01,2007-08,26,Denver Nuggets,NBA,19,6.3,.536,.450,1.5,0.0,0.0,0.3,2.1,8.6,0.1,.043,-10.4,-0.3,,3248000,"Proviso East in Maywood, Illinois"
-huntest01,2008-09,27,Denver Nuggets,NBA,,,,,,,,,,,,,,,,3862600,"Proviso East in Maywood, Illinois"
-huntest01,2009-10,28,Memphis Grizzlies,NBA,21,7.5,.395,.528,2.0,0.0,0.0,0.5,2.5,11.6,0.1,.018,-10.9,-0.4,,3696000,"Proviso East in Maywood, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-2.30,-0.03,huntest01,2001-02,ORL,12.9,1.0,.094,-4.9,-0.4,,NBA,1244880,20,53,9.7,.456,.585,1.8,0.1,0.1,0.8,3.6,ORL
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-0.77,0.49,huntest01,2002-03,ORL,13.4,0.9,.099,-2.3,0.0,,NBA,1338240,21,33,13.5,.544,.409,2.8,0.2,0.3,1.1,3.9,ORL
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-1.92,0.16,huntest01,2003-04,ORL,11.2,0.6,.034,-4.0,-0.4,,NBA,1431600,22,59,13.4,.529,.333,2.9,0.2,0.1,1.2,3.2,ORL
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-2.06,0.20,huntest01,2004-05,PHO,14.7,2.6,.121,-0.5,0.4,,NBA,1000000,23,76,13.8,.614,.479,3.0,0.2,0.1,1.3,4.6,PHO
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-1.58,0.60,huntest01,2005-06,PHI,13.9,2.5,.090,-2.9,-0.3,,NBA,2800000,24,69,19.0,.601,.514,3.9,0.2,0.2,1.1,6.1,PHI
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-3.27,-1.12,huntest01,2006-07,PHI,12.3,2.8,.085,-1.9,0.1,,NBA,3024000,25,70,22.9,.577,.490,4.8,0.4,0.2,1.1,6.4,PHI
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-1.38,0.07,huntest01,2007-08,DEN,8.6,0.1,.043,-10.4,-0.3,,NBA,3248000,26,19,6.3,.536,.450,1.5,0.0,0.0,0.3,2.1,DEN
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",,,huntest01,2008-09,Did Not Play,,,,,,,NBA,3862600,27,,,,,,,,,,Did Not Play
+Steven Hunter,/players/h/huntest01.html,2002,2010,DePaul University,false,"Proviso East in Maywood, Illinois",-1.60,0.07,huntest01,2009-10,MEM,11.6,0.1,.018,-10.9,-0.4,,NBA,3696000,28,21,7.5,.395,.528,2.0,0.0,0.0,0.5,2.5,MEM

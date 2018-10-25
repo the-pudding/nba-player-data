@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithch01,1988-89,23,Los Angeles Clippers,NBA,71,30.4,.495,.725,6.5,1.5,1.0,1.3,16.3,15.6,4.0,.089,-1.2,0.4,,1000000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1989-90,24,LAC,NBA,78,35.0,.520,.794,6.7,1.5,1.1,1.5,21.1,19.5,9.4,.165,1.6,2.5,,,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1990-91,25,Los Angeles Clippers,NBA,74,36.5,.469,.793,8.2,1.8,1.1,2.0,20.0,17.6,7.4,.131,1.3,2.3,,1000000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1991-92,26,Los Angeles Clippers,NBA,49,26.7,.466,.785,6.1,1.1,0.8,2.0,14.6,18.6,4.4,.162,1.0,1.0,,1050000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1992-93,27,New York Knicks,NBA,81,26.8,.469,.782,5.3,1.8,0.6,1.2,12.4,14.9,6.6,.146,1.9,2.1,,1250000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1993-94,28,New York Knicks,NBA,43,25.7,.443,.719,3.8,1.2,0.6,1.0,10.4,11.3,2.4,.104,-1.0,0.3,,2557000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1994-95,29,New York Knicks,NBA,76,28.3,.471,.792,4.3,1.6,0.6,1.3,12.7,13.9,4.8,.107,-0.2,1.0,,2857000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1995-96,30,New York Knicks,NBA,73,23.5,.422,.730,5.0,0.9,0.7,1.1,8.3,11.3,1.9,.053,-2.5,-0.2,,3357000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1995-96,30,New York Knicks,NBA,41,21.7,.388,.709,3.9,0.7,0.4,1.2,7.4,9.1,0.2,.013,-4.6,-0.6,,3357000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1995-96,30,New York Knicks,NBA,32,25.8,.458,.767,6.3,1.1,1.0,0.9,9.6,13.7,1.7,.096,-0.2,0.4,,3357000,"Warren Harding in Bridgeport, Connecticut"
-smithch01,1996-97,31,San Antonio Spurs,NBA,19,17.3,.405,.769,3.4,0.7,0.7,1.2,4.6,10.6,0.0,.003,-3.1,-0.1,,3557000,"Warren Harding in Bridgeport, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",-0.98,1.88,smithch01,1988-89,LAC,15.6,4.0,.089,-1.2,0.4,,NBA,1000000,23,71,30.4,.495,.725,6.5,1.5,1.0,1.3,16.3,LAC
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",,,smithch01,1989-90,LAC,19.5,9.4,.165,1.6,2.5,,NBA,,24,78,35.0,.520,.794,6.7,1.5,1.1,1.5,21.1,LAC
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",,,smithch01,1990-91,LAC,17.6,7.4,.131,1.3,2.3,,NBA,1000000,25,74,36.5,.469,.793,8.2,1.8,1.1,2.0,20.0,LAC
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",+1.46,3.72,smithch01,1991-92,LAC,18.6,4.4,.162,1.0,1.0,,NBA,1050000,26,49,26.7,.466,.785,6.1,1.1,0.8,2.0,14.6,LAC
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",+1.20,6.13,smithch01,1992-93,NYK,14.9,6.6,.146,1.9,2.1,,NBA,1250000,27,81,26.8,.469,.782,5.3,1.8,0.6,1.2,12.4,NYK
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",-0.23,2.36,smithch01,1993-94,NYK,11.3,2.4,.104,-1.0,0.3,,NBA,2557000,28,43,25.7,.443,.719,3.8,1.2,0.6,1.0,10.4,NYK
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",-0.02,3.74,smithch01,1994-95,NYK,13.9,4.8,.107,-0.2,1.0,,NBA,2857000,29,76,28.3,.471,.792,4.3,1.6,0.6,1.3,12.7,NYK
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",-2.26,-0.05,smithch01,1995-96,TOT,11.3,1.9,.053,-2.5,-0.2,,NBA,3357000,30,73,23.5,.422,.730,5.0,0.9,0.7,1.1,8.3,"NYK,SAS"
+Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false,"Warren Harding in Bridgeport, Connecticut",-1.58,0.15,smithch01,1996-97,SAS,10.6,0.0,.003,-3.1,-0.1,,NBA,3557000,31,19,17.3,.405,.769,3.4,0.7,0.7,1.2,4.6,SAS

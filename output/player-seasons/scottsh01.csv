@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-scottsh01,1996-97,24,Cleveland Cavaliers,NBA,16,3.1,.500,.364,1.0,0.0,0.0,0.2,1.3,18.7,0.2,.170,-9.7,-0.1,,300000,"All Hallows in Bronx, New York"
-scottsh01,1997-98,25,Cleveland Cavaliers,NBA,41,4.6,.444,.667,1.4,0.2,0.1,0.2,1.1,10.6,0.5,.132,-1.0,0.0,,500000,"All Hallows in Bronx, New York"
-scottsh01,1998-99,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"All Hallows in Bronx, New York"
-scottsh01,1999-00,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"All Hallows in Bronx, New York"
-scottsh01,2000-01,28,San Antonio Spurs,NBA,27,5.3,.415,.409,1.9,0.1,0.2,0.2,1.6,12.0,0.2,.071,-3.1,0.0,,548500,"All Hallows in Bronx, New York"
-scottsh01,2001-02,29,Denver Nuggets,NBA,21,12.0,.493,.400,4.9,0.4,0.1,0.3,3.9,14.5,0.4,.083,-3.3,-0.1,,590850,"All Hallows in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false,"All Hallows in Bronx, New York",+0.74,0.10,scottsh01,1996-97,CLE,18.7,0.2,.170,-9.7,-0.1,,NBA,300000,24,16,3.1,.500,.364,1.0,0.0,0.0,0.2,1.3,CLE
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false,"All Hallows in Bronx, New York",+0.09,0.31,scottsh01,1997-98,CLE,10.6,0.5,.132,-1.0,0.0,,NBA,500000,25,41,4.6,.444,.667,1.4,0.2,0.1,0.2,1.1,CLE
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false,"All Hallows in Bronx, New York",,,scottsh01,1998-99,Did Not Play (other pro league—CBA),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—CBA)
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false,"All Hallows in Bronx, New York",,,scottsh01,1999-00,Did Not Play (other pro league—CBA),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—CBA)
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false,"All Hallows in Bronx, New York",-2.55,-0.04,scottsh01,2000-01,SAS,12.0,0.2,.071,-3.1,0.0,,NBA,548500,28,27,5.3,.415,.409,1.9,0.1,0.2,0.2,1.6,SAS
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false,"All Hallows in Bronx, New York",-0.92,0.22,scottsh01,2001-02,DEN,14.5,0.4,.083,-3.3,-0.1,,NBA,590850,29,21,12.0,.493,.400,4.9,0.4,0.1,0.3,3.9,DEN

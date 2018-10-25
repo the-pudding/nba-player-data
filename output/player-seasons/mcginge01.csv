@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mcginge01,1976-77,26,PHI,NBA,79,35.1,.458,.681,11.5,3.8,2.1,0.5,21.4,20.8,8.6,.149,4.5,4.5,All-NBA (2nd),"George Washington in Indianapolis, Indiana"
-mcginge01,1977-78,27,PHI,NBA,78,32.5,.463,.716,10.4,3.8,1.8,0.3,20.3,20.3,7.9,.150,3.3,3.4,,"George Washington in Indianapolis, Indiana"
-mcginge01,1978-79,28,DEN,NBA,76,33.6,.474,.665,11.4,3.7,1.7,0.7,22.6,20.6,7.1,.134,2.9,3.2,,"George Washington in Indianapolis, Indiana"
-mcginge01,1979-80,29,"DEN,IND",NBA,73,30.2,.451,.553,9.6,4.6,1.4,0.3,14.7,15.2,1.9,.041,0.4,1.4,,"George Washington in Indianapolis, Indiana"
-mcginge01,1980-81,30,IND,NBA,69,26.7,.453,.538,7.7,3.0,1.4,0.4,13.1,14.9,1.7,.045,-0.1,0.9,,"George Washington in Indianapolis, Indiana"
-mcginge01,1981-82,31,IND,NBA,76,17.6,.373,.453,5.2,2.7,1.3,0.4,4.7,11.3,0.4,.015,-0.1,0.7,,"George Washington in Indianapolis, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+George McGinnis,/players/m/mcginge01.html,1972,1982,Indiana University,false,"George Washington in Indianapolis, Indiana",+2.29,10.81,mcginge01,1976-77,PHI,20.8,8.6,.149,4.5,4.5,All-NBA (2nd),26,NBA,79,35.1,.458,.681,11.5,3.8,2.1,0.5,21.4,PHI
+George McGinnis,/players/m/mcginge01.html,1972,1982,Indiana University,false,"George Washington in Indianapolis, Indiana",+1.74,7.77,mcginge01,1977-78,PHI,20.3,7.9,.150,3.3,3.4,,27,NBA,78,32.5,.463,.716,10.4,3.8,1.8,0.3,20.3,PHI
+George McGinnis,/players/m/mcginge01.html,1972,1982,Indiana University,false,"George Washington in Indianapolis, Indiana",+2.27,7.98,mcginge01,1978-79,DEN,20.6,7.1,.134,2.9,3.2,,28,NBA,76,33.6,.474,.665,11.4,3.7,1.7,0.7,22.6,DEN
+George McGinnis,/players/m/mcginge01.html,1972,1982,Indiana University,false,"George Washington in Indianapolis, Indiana",-1.09,1.73,mcginge01,1979-80,TOT,15.2,1.9,.041,0.4,1.4,,29,NBA,73,30.2,.451,.553,9.6,4.6,1.4,0.3,14.7,"DEN,IND"
+George McGinnis,/players/m/mcginge01.html,1972,1982,Indiana University,false,"George Washington in Indianapolis, Indiana",-0.42,2.35,mcginge01,1980-81,IND,14.9,1.7,.045,-0.1,0.9,,30,NBA,69,26.7,.453,.538,7.7,3.0,1.4,0.4,13.1,IND
+George McGinnis,/players/m/mcginge01.html,1972,1982,Indiana University,false,"George Washington in Indianapolis, Indiana",-0.37,1.71,mcginge01,1981-82,IND,11.3,0.4,.015,-0.1,0.7,,31,NBA,76,17.6,.373,.453,5.2,2.7,1.3,0.4,4.7,IND

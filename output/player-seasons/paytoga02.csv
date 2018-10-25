@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-paytoga02,2016-17,24,Houston Rockets,NBA,6,16.5,.364,.600,2.0,2.2,0.5,0.7,3.3,4.5,-0.2,-0.074,-6.7,-0.1,,543471,"Westwind Prep in Phoenix, Arizona"
-paytoga02,2017-18,25,Los Angeles Lakers,NBA,23,9.6,.405,.333,1.9,0.9,0.3,0.1,3.0,9.8,0.2,.041,-3.6,-0.1,,,"Westwind Prep in Phoenix, Arizona"
-paytoga02,2017-18,25,Los Angeles Lakers,NBA,12,8.8,.394,.667,1.4,0.8,0.3,0.1,2.5,7.6,0.0,.016,-5.5,-0.1,,,"Westwind Prep in Phoenix, Arizona"
-paytoga02,2017-18,25,Los Angeles Lakers,NBA,11,10.5,.415,.167,2.5,1.1,0.4,0.2,3.5,11.8,0.2,.063,-1.9,0.0,,,"Westwind Prep in Phoenix, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gary Payton,/players/p/paytoga02.html,2017,2018,Oregon State University,true,"Westwind Prep in Phoenix, Arizona",-1.33,0.06,paytoga02,2016-17,MIL,4.5,-0.2,-0.074,-6.7,-0.1,,NBA,543471,24,6,16.5,.364,.600,2.0,2.2,0.5,0.7,3.3,MIL
+Gary Payton,/players/p/paytoga02.html,2017,2018,Oregon State University,true,"Westwind Prep in Phoenix, Arizona",-0.99,0.20,paytoga02,2017-18,TOT,9.8,0.2,.041,-3.6,-0.1,,NBA,,25,23,9.6,.405,.333,1.9,0.9,0.3,0.1,3.0,"MIL,LAL"

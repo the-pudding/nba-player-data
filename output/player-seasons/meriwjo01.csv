@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-meriwjo01,1976-77,23,ATL,NBA,74,27.9,.526,.714,8.1,1.1,0.6,1.1,11.1,14.5,4.8,.112,0.6,1.4,,"Central in Phenix City, Alabama",
-meriwjo01,1977-78,24,NOJ,NBA,54,23.6,.472,.654,6.9,1.1,0.3,2.2,8.8,13.7,2.6,.096,-0.2,0.6,,"Central in Phenix City, Alabama",
-meriwjo01,1978-79,25,"NOJ,NYK",NBA,77,22.0,.484,.674,5.3,1.0,0.5,1.2,7.9,11.4,2.3,.064,-1.7,0.1,,"Central in Phenix City, Alabama",
-meriwjo01,1979-80,26,NYK,NBA,65,24.1,.528,.645,5.4,1.0,0.6,1.8,9.0,12.2,2.2,.068,-1.0,0.4,,"Central in Phenix City, Alabama",
-meriwjo01,1980-81,27,KCK,NBA,74,20.5,.496,.695,5.3,1.0,0.4,1.1,7.6,12.4,2.6,.083,-1.4,0.2,,"Central in Phenix City, Alabama",
-meriwjo01,1981-82,28,KCK,NBA,18,21.1,.516,.775,4.9,0.9,0.7,1.2,6.9,12.2,0.8,.097,-0.1,0.2,,"Central in Phenix City, Alabama",
-meriwjo01,1982-83,29,KCK,NBA,78,21.9,.570,.626,5.4,0.8,0.6,1.1,7.9,12.8,3.8,.108,0.3,1.0,,"Central in Phenix City, Alabama",
-meriwjo01,1983-84,30,KCK,NBA,73,20.6,.532,.764,4.8,0.7,0.5,0.8,6.6,10.9,2.9,.092,-1.0,0.4,,"Central in Phenix City, Alabama",
-meriwjo01,1984-85,31,Kansas City Kings,NBA,76,14.0,.498,.774,3.5,0.4,0.2,0.4,4.5,10.2,1.8,.083,-3.1,-0.3,,"Central in Phenix City, Alabama",225000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-0.20,2.88,meriwjo01,1976-77,ATL,14.5,4.8,.112,0.6,1.4,,23,NBA,74,27.9,.526,.714,8.1,1.1,0.6,1.1,11.1,ATL,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",+0.09,2.05,meriwjo01,1977-78,NOJ,13.7,2.6,.096,-0.2,0.6,,24,NBA,54,23.6,.472,.654,6.9,1.1,0.3,2.2,8.8,NOJ,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-1.47,0.84,meriwjo01,1978-79,TOT,11.4,2.3,.064,-1.7,0.1,,25,NBA,77,22.0,.484,.674,5.3,1.0,0.5,1.2,7.9,"NOJ,NYK",
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-0.93,1.42,meriwjo01,1979-80,NYK,12.2,2.2,.068,-1.0,0.4,,26,NBA,65,24.1,.528,.645,5.4,1.0,0.6,1.8,9.0,NYK,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-0.95,1.50,meriwjo01,1980-81,KCK,12.4,2.6,.083,-1.4,0.2,,27,NBA,74,20.5,.496,.695,5.3,1.0,0.4,1.1,7.6,KCK,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-0.16,0.54,meriwjo01,1981-82,KCK,12.2,0.8,.097,-0.1,0.2,,28,NBA,18,21.1,.516,.775,4.9,0.9,0.7,1.2,6.9,KCK,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",+0.40,3.10,meriwjo01,1982-83,KCK,12.8,3.8,.108,0.3,1.0,,29,NBA,78,21.9,.570,.626,5.4,0.8,0.6,1.1,7.9,KCK,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-0.88,1.41,meriwjo01,1983-84,KCK,10.9,2.9,.092,-1.0,0.4,,30,NBA,73,20.6,.532,.764,4.8,0.7,0.5,0.8,6.6,KCK,
+Joe Meriweather,/players/m/meriwjo01.html,1976,1985,Southern Illinois University,false,"Central in Phenix City, Alabama",-2.09,0.17,meriwjo01,1984-85,KCK,10.2,1.8,.083,-3.1,-0.3,,31,NBA,76,14.0,.498,.774,3.5,0.4,0.2,0.4,4.5,KCK,225000

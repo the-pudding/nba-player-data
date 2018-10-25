@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithja02,2007-08,21,Philadelphia 76ers,NBA,76,14.6,.455,.659,3.0,0.3,0.3,0.7,4.5,10.7,1.5,.067,-3.8,-0.5,,1233840,"Platte Valley in Kersey, Colorado"
-smithja02,2008-09,22,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,1326360,"Platte Valley in Kersey, Colorado"
-smithja02,2009-10,23,Philadelphia 76ers,NBA,56,11.8,.431,.690,2.4,0.6,0.4,0.5,3.4,10.6,0.7,.048,-2.3,0.0,,1418880,"Platte Valley in Kersey, Colorado"
-smithja02,2010-11,24,New Orleans Hornets,NBA,77,14.3,.443,.843,3.1,0.5,0.3,0.4,4.3,10.8,1.6,.070,-2.7,-0.2,,2187913,"Platte Valley in Kersey, Colorado"
-smithja02,2011-12,25,New Orleans Hornets,NBA,40,23.7,.520,.702,4.9,0.9,0.5,1.0,9.9,16.6,2.2,.110,-0.1,0.5,,2500000,"Platte Valley in Kersey, Colorado"
-smithja02,2012-13,26,New Orleans Hornets,NBA,51,17.2,.490,.843,3.6,0.7,0.3,0.9,8.2,16.8,1.7,.095,-2.1,0.0,,2500000,"Platte Valley in Kersey, Colorado"
-smithja02,2013-14,27,New Orleans Pelicans,NBA,31,26.8,.465,.780,5.8,0.9,0.4,0.9,9.7,12.4,0.9,.054,-3.5,-0.3,,2500000,"Platte Valley in Kersey, Colorado"
-smithja02,2014-15,28,New York Knicks,NBA,82,21.8,.434,.830,4.0,1.7,0.4,0.5,8.0,12.0,1.2,.032,-3.4,-0.6,,3278000,"Platte Valley in Kersey, Colorado"
-smithja02,2015-16,29,Orlando Magic,NBA,76,15.5,.485,.806,2.9,0.8,0.4,0.9,7.2,14.6,1.8,.072,-2.5,-0.1,,4300000,"Platte Valley in Kersey, Colorado"
-smithja02,2016-17,30,Washington Wizards,NBA,74,14.4,.529,.686,3.5,0.5,0.3,0.7,5.7,13.6,2.3,.103,-1.4,0.2,,5000000,"Platte Valley in Kersey, Colorado"
-smithja02,2017-18,31,Washington Wizards,NBA,33,8.6,.391,.905,1.6,0.4,0.1,0.4,3.4,8.8,0.0,.003,-6.0,-0.3,,5225000,"Platte Valley in Kersey, Colorado"
-smithja02,2018-19,32,WAS,NBA,4,13.8,.375,.833,5.0,0.8,0.3,0.5,4.3,11.2,0.0,.034,-2.3,0.0,,,"Platte Valley in Kersey, Colorado"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-0.56,1.38,smithja02,2007-08,PHI,10.7,1.5,.067,-3.8,-0.5,,NBA,1233840,21,76,14.6,.455,.659,3.0,0.3,0.3,0.7,4.5,PHI
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",,,smithja02,2008-09,Did Not Play (injury—knee),,,,,,,NBA,1326360,22,,,,,,,,,,Did Not Play (injury—knee)
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-1.74,0.26,smithja02,2009-10,PHI,10.6,0.7,.048,-2.3,0.0,,NBA,1418880,23,56,11.8,.431,.690,2.4,0.6,0.4,0.5,3.4,PHI
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-2.29,-0.04,smithja02,2010-11,NOH,10.8,1.6,.070,-2.7,-0.2,,NBA,2187913,24,77,14.3,.443,.843,3.1,0.5,0.3,0.4,4.3,NOH
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",+0.16,1.57,smithja02,2011-12,NOH,16.6,2.2,.110,-0.1,0.5,,NBA,2500000,25,40,23.7,.520,.702,4.9,0.9,0.5,1.0,9.9,NOH
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-1.07,0.71,smithja02,2012-13,NOH,16.8,1.7,.095,-2.1,0.0,,NBA,2500000,26,51,17.2,.490,.843,3.6,0.7,0.3,0.9,8.2,NOH
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-1.28,0.57,smithja02,2013-14,NOP,12.4,0.9,.054,-3.5,-0.3,,NBA,2500000,27,31,26.8,.465,.780,5.8,0.9,0.4,0.9,9.7,NOP
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-4.11,-2.18,smithja02,2014-15,NYK,12.0,1.2,.032,-3.4,-0.6,,NBA,3278000,28,82,21.8,.434,.830,4.0,1.7,0.4,0.5,8.0,NYK
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-0.97,1.03,smithja02,2015-16,ORL,14.6,1.8,.072,-2.5,-0.1,,NBA,4300000,29,76,15.5,.485,.806,2.9,0.8,0.4,0.9,7.2,ORL
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-3.23,-0.70,smithja02,2016-17,WAS,13.6,2.3,.103,-1.4,0.2,,NBA,5000000,30,74,14.4,.529,.686,3.5,0.5,0.3,0.7,5.7,WAS
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",-3.25,-0.19,smithja02,2017-18,WAS,8.8,0.0,.003,-6.0,-0.3,,NBA,5225000,31,33,8.6,.391,.905,1.6,0.4,0.1,0.4,3.4,WAS
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true,"Platte Valley in Kersey, Colorado",,,smithja02,2018-19,WAS,11.2,0.0,.034,-2.3,0.0,,NBA,,32,4,13.8,.375,.833,5.0,0.8,0.3,0.5,4.3,WAS

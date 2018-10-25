@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-crabbal01,2013-14,21,POR,NBA,15,6.7,.364,.750,0.6,0.4,0.1,0.1,2.2,7.7,0.1,.037,-4.7,-0.1,,"Price in Los Angeles, California",
-crabbal01,2014-15,22,Portland Trail Blazers,NBA,51,13.4,.412,.750,1.4,0.8,0.4,0.3,3.3,8.7,1.3,.088,-0.3,0.3,,"Price in Los Angeles, California",862000
-crabbal01,2015-16,23,Portland Trail Blazers,NBA,81,26.0,.459,.867,2.7,1.2,0.8,0.2,10.3,12.2,4.3,.098,-0.7,0.7,,"Price in Los Angeles, California",947276
-crabbal01,2016-17,24,Portland Trail Blazers,NBA,79,28.5,.468,.847,2.9,1.2,0.7,0.3,10.7,11.6,4.2,.089,-1.0,0.6,,"Price in Los Angeles, California",18500000
-crabbal01,2017-18,25,Brooklyn Nets,NBA,75,29.3,.407,.852,4.3,1.6,0.6,0.5,13.2,12.3,3.2,.070,-0.8,0.7,,"Price in Los Angeles, California",19332500
-crabbal01,2018-19,26,BRK,NBA,3,20.7,.200,.800,2.7,0.7,0.0,0.3,5.0,-3.5,-0.2,-0.170,-11.6,-0.2,,"Price in Los Angeles, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Allen Crabbe,/players/c/crabbal01.html,2014,2019,University of California,true,"Price in Los Angeles, California",-1.26,0.07,crabbal01,2013-14,POR,7.7,0.1,.037,-4.7,-0.1,,21,NBA,15,6.7,.364,.750,0.6,0.4,0.1,0.1,2.2,POR,
+Allen Crabbe,/players/c/crabbal01.html,2014,2019,University of California,true,"Price in Los Angeles, California",-1.79,0.21,crabbal01,2014-15,POR,8.7,1.3,.088,-0.3,0.3,,22,NBA,51,13.4,.412,.750,1.4,0.8,0.4,0.3,3.3,POR,862000
+Allen Crabbe,/players/c/crabbal01.html,2014,2019,University of California,true,"Price in Los Angeles, California",-1.57,1.18,crabbal01,2015-16,POR,12.2,4.3,.098,-0.7,0.7,,23,NBA,81,26.0,.459,.867,2.7,1.2,0.8,0.2,10.3,POR,947276
+Allen Crabbe,/players/c/crabbal01.html,2014,2019,University of California,true,"Price in Los Angeles, California",-2.32,0.04,crabbal01,2016-17,POR,11.6,4.2,.089,-1.0,0.6,,24,NBA,79,28.5,.468,.847,2.9,1.2,0.7,0.3,10.7,POR,18500000
+Allen Crabbe,/players/c/crabbal01.html,2014,2019,University of California,true,"Price in Los Angeles, California",-0.64,2.45,crabbal01,2017-18,BRK,12.3,3.2,.070,-0.8,0.7,,25,NBA,75,29.3,.407,.852,4.3,1.6,0.6,0.5,13.2,BRK,19332500
+Allen Crabbe,/players/c/crabbal01.html,2014,2019,University of California,true,"Price in Los Angeles, California",,,crabbal01,2018-19,BRK,-3.5,-0.2,-0.170,-11.6,-0.2,,26,NBA,3,20.7,.200,.800,2.7,0.7,0.0,0.3,5.0,BRK,

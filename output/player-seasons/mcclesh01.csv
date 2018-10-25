@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcclesh01,2016-17,24,Washington Wizards,NBA,30,9.6,.400,.852,1.1,0.5,0.3,0.1,3.0,10.1,0.5,.076,-3.6,-0.1,,543471,"Bellaire in Bellaire, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sheldon Mac,/players/m/mcclesh01.html,2017,2017,University of Miami,true,"Bellaire in Bellaire, Texas",-3.16,-0.19,mcclesh01,2016-17,WAS,10.1,0.5,.076,-3.6,-0.1,,NBA,543471,24,30,9.6,.400,.852,1.1,0.5,0.3,0.1,3.0,WAS

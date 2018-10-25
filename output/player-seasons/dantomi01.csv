@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dantomi01,1976-77,25,SAS,NBA,2,4.5,.333,.500,1.0,1.0,0.0,0.0,1.5,7.2,0.0,-0.185,-8.4,0.0,,"Mullens in Mullens, West Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike D'Antoni,/players/d/dantomi01.html,1974,1977,Marshall University,false,"Mullens in Mullens, West Virginia",-1.58,0.00,dantomi01,1976-77,SAS,7.2,0.0,-0.185,-8.4,0.0,,25,NBA,2,4.5,.333,.500,1.0,1.0,0.0,0.0,1.5,SAS

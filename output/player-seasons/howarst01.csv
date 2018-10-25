@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-howarst01,1992-93,22,Utah Jazz,NBA,49,5.3,.376,.642,1.2,0.2,0.3,0.2,2.1,9.8,0.1,.018,-4.3,-0.1,,140000,"Bishop Lynch in Dallas, Texas"
-howarst01,1993-94,23,UTA,NBA,9,5.9,.588,.688,1.8,0.1,0.1,0.3,3.4,19.4,0.2,.188,-0.6,0.0,,,"Bishop Lynch in Dallas, Texas"
-howarst01,1994-95,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Bishop Lynch in Dallas, Texas"
-howarst01,1995-96,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,"Bishop Lynch in Dallas, Texas"
-howarst01,1996-97,26,San Antonio Spurs,NBA,49,8.5,.574,.642,1.7,0.2,0.4,0.2,3.6,16.0,1.3,.149,-0.9,0.1,,181100,"Bishop Lynch in Dallas, Texas"
-howarst01,1996-97,26,San Antonio Spurs,NBA,7,9.9,.583,.857,1.3,0.1,1.1,0.3,3.7,19.5,0.2,.172,2.6,0.1,,181100,"Bishop Lynch in Dallas, Texas"
-howarst01,1996-97,26,San Antonio Spurs,NBA,42,8.3,.573,.597,1.8,0.2,0.3,0.2,3.6,15.4,1.1,.144,-1.6,0.0,,181100,"Bishop Lynch in Dallas, Texas"
-howarst01,1997-98,27,Seattle SuperSonics,NBA,13,4.1,.381,.500,0.9,0.2,0.2,0.1,1.9,9.8,0.0,-0.020,-7.5,-0.1,,272250,"Bishop Lynch in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Stephen Howard,/players/h/howarst01.html,1993,1998,DePaul University,false,"Bishop Lynch in Dallas, Texas",-1.08,0.21,howarst01,1992-93,UTA,9.8,0.1,.018,-4.3,-0.1,,NBA,140000,22,49,5.3,.376,.642,1.2,0.2,0.3,0.2,2.1,UTA
+Stephen Howard,/players/h/howarst01.html,1993,1998,DePaul University,false,"Bishop Lynch in Dallas, Texas",-0.08,0.12,howarst01,1993-94,UTA,19.4,0.2,.188,-0.6,0.0,,NBA,,23,9,5.9,.588,.688,1.8,0.1,0.1,0.3,3.4,UTA
+Stephen Howard,/players/h/howarst01.html,1993,1998,DePaul University,false,"Bishop Lynch in Dallas, Texas",,,howarst01,1994-95,Did Not Play (other pro league—Italy),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—Italy)
+Stephen Howard,/players/h/howarst01.html,1993,1998,DePaul University,false,"Bishop Lynch in Dallas, Texas",,,howarst01,1995-96,Did Not Play (other pro league—France),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—France)
+Stephen Howard,/players/h/howarst01.html,1993,1998,DePaul University,false,"Bishop Lynch in Dallas, Texas",-0.37,0.56,howarst01,1996-97,TOT,16.0,1.3,.149,-0.9,0.1,,NBA,181100,26,49,8.5,.574,.642,1.7,0.2,0.4,0.2,3.6,"SAS,UTA"
+Stephen Howard,/players/h/howarst01.html,1993,1998,DePaul University,false,"Bishop Lynch in Dallas, Texas",-0.35,0.07,howarst01,1997-98,SEA,9.8,0.0,-0.020,-7.5,-0.1,,NBA,272250,27,13,4.1,.381,.500,0.9,0.2,0.2,0.1,1.9,SEA

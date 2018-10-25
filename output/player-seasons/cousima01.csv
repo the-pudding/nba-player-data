@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cousima01,2010-11,24,UTA,NBA,4,4.5,.667,,0.8,0.0,0.0,0.3,1.0,7.8,0.0,.008,-9.9,0.0,,"Randallstown in Randallstown, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Cousin,/players/c/cousima01.html,2011,2011,"Seton Hall University, University of Houston",false,"Randallstown in Randallstown, Maryland",-0.32,0.02,cousima01,2010-11,UTA,7.8,0.0,.008,-9.9,0.0,,24,NBA,4,4.5,.667,,0.8,0.0,0.0,0.3,1.0,UTA

@@ -1,20 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-chrisdo01,1992-93,22,LAL,NBA,23,14.4,.425,.758,2.2,2.3,1.0,0.2,6.2,12.4,0.1,.012,-1.7,0.0,,"Rainier Beach in Seattle, Washington",
-chrisdo01,1993-94,23,Los Angeles Lakers,NBA,65,23.3,.434,.697,3.6,2.1,1.4,0.4,10.3,13.5,1.4,.044,-0.5,0.6,,"Rainier Beach in Seattle, Washington",1445000
-chrisdo01,1994-95,24,New York Knicks,NBA,12,6.6,.227,.800,1.1,0.7,0.2,0.1,1.3,-3.7,-0.3,-0.202,-11.4,-0.2,,"Rainier Beach in Seattle, Washington",1244000
-chrisdo01,1995-96,25,New York Knicks,NBA,55,18.8,.445,.742,2.8,2.1,1.3,0.3,7.5,14.0,1.4,.065,-0.1,0.5,,"Rainier Beach in Seattle, Washington",1466000
-chrisdo01,1995-96,25,New York Knicks,NBA,23,9.5,.479,.591,1.5,1.1,0.5,0.1,4.0,14.1,0.5,.108,-0.1,0.1,,"Rainier Beach in Seattle, Washington",1466000
-chrisdo01,1995-96,25,New York Knicks,NBA,32,25.6,.436,.789,3.8,2.9,1.8,0.5,10.1,13.9,0.9,.054,-0.1,0.4,,"Rainier Beach in Seattle, Washington",1466000
-chrisdo01,1996-97,26,Toronto Raptors,NBA,81,38.6,.417,.775,5.3,3.9,2.5,0.6,14.5,15.1,7.0,.107,2.6,3.7,,"Rainier Beach in Seattle, Washington",1355000
-chrisdo01,1997-98,27,Toronto Raptors,NBA,78,37.7,.428,.829,5.2,3.6,2.4,0.7,16.5,16.2,4.0,.066,0.8,2.1,,"Rainier Beach in Seattle, Washington",2012767
-chrisdo01,1998-99,28,Toronto Raptors,NBA,50,35.4,.388,.841,4.1,3.7,2.3,0.5,15.2,16.9,4.2,.113,1.9,1.8,,"Rainier Beach in Seattle, Washington",2353000
-chrisdo01,1999-00,29,Toronto Raptors,NBA,73,31.0,.407,.843,3.9,4.4,1.4,0.6,12.4,15.8,5.1,.108,1.4,1.9,,"Rainier Beach in Seattle, Washington",2742600
-chrisdo01,2000-01,30,Sacramento Kings,NBA,81,36.3,.395,.897,4.4,3.6,2.3,0.6,12.3,14.8,8.7,.141,3.6,4.1,,"Rainier Beach in Seattle, Washington",3140000
-chrisdo01,2001-02,31,Sacramento Kings,NBA,81,34.5,.460,.851,4.6,4.2,2.0,0.3,12.0,15.2,8.6,.148,3.9,4.2,,"Rainier Beach in Seattle, Washington",5200000
-chrisdo01,2002-03,32,Sacramento Kings,NBA,80,33.9,.479,.810,4.3,4.7,2.3,0.5,9.4,15.0,8.9,.157,4.2,4.2,,"Rainier Beach in Seattle, Washington",6250000
-chrisdo01,2003-04,33,Sacramento Kings,NBA,82,33.9,.461,.860,4.0,4.2,1.8,0.5,10.1,14.0,5.7,.099,1.5,2.5,,"Rainier Beach in Seattle, Washington",6900000
-chrisdo01,2004-05,34,Sacramento Kings,NBA,52,29.3,.392,.897,3.4,3.8,1.5,0.3,6.6,9.9,0.9,.030,-1.6,0.2,,"Rainier Beach in Seattle, Washington",7550000
-chrisdo01,2004-05,34,Sacramento Kings,NBA,31,32.1,.407,.893,4.0,4.9,1.4,0.4,7.3,11.0,1.0,.046,-1.3,0.2,,"Rainier Beach in Seattle, Washington",7550000
-chrisdo01,2004-05,34,Sacramento Kings,NBA,21,25.2,.367,.909,2.6,2.2,1.8,0.2,5.7,7.9,0.0,-0.001,-2.1,0.0,,"Rainier Beach in Seattle, Washington",7550000
-chrisdo01,2005-06,35,Orlando Magic,NBA,7,26.4,.346,.667,1.9,2.0,1.3,0.1,3.7,6.8,0.1,.035,-1.6,0.0,,"Rainier Beach in Seattle, Washington",8200000
-chrisdo01,2006-07,36,Los Angeles Clippers,NBA,7,11.7,.294,.667,1.6,1.1,0.4,0.1,1.9,4.1,-0.1,-0.031,-5.3,-0.1,,"Rainier Beach in Seattle, Washington",158071
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-2.00,0.07,chrisdo01,1992-93,LAL,12.4,0.1,.012,-1.7,0.0,,22,NBA,23,14.4,.425,.758,2.2,2.3,1.0,0.2,6.2,LAL,
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-1.43,0.85,chrisdo01,1993-94,LAL,13.5,1.4,.044,-0.5,0.6,,23,NBA,65,23.3,.434,.697,3.6,2.1,1.4,0.4,10.3,LAL,1445000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-0.32,0.11,chrisdo01,1994-95,NYK,-3.7,-0.3,-0.202,-11.4,-0.2,,24,NBA,12,6.6,.227,.800,1.1,0.7,0.2,0.1,1.3,NYK,1244000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-0.75,1.06,chrisdo01,1995-96,TOT,14.0,1.4,.065,-0.1,0.5,,25,NBA,55,18.8,.445,.742,2.8,2.1,1.3,0.3,7.5,"NYK,TOR",1466000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+1.08,7.11,chrisdo01,1996-97,TOR,15.1,7.0,.107,2.6,3.7,,26,NBA,81,38.6,.417,.775,5.3,3.9,2.5,0.6,14.5,TOR,1355000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-0.62,3.29,chrisdo01,1997-98,TOR,16.2,4.0,.066,0.8,2.1,,27,NBA,78,37.7,.428,.829,5.2,3.6,2.4,0.7,16.5,TOR,2012767
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+1.05,4.03,chrisdo01,1998-99,TOR,16.9,4.2,.113,1.9,1.8,,28,NBA,50,35.4,.388,.841,4.1,3.7,2.3,0.5,15.2,TOR,2353000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+0.69,4.69,chrisdo01,1999-00,TOR,15.8,5.1,.108,1.4,1.9,,29,NBA,73,31.0,.407,.843,3.9,4.4,1.4,0.6,12.4,TOR,2742600
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+1.54,8.55,chrisdo01,2000-01,SAC,14.8,8.7,.141,3.6,4.1,,30,NBA,81,36.3,.395,.897,4.4,3.6,2.3,0.6,12.3,SAC,3140000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+2.58,11.40,chrisdo01,2001-02,SAC,15.2,8.6,.148,3.9,4.2,,31,NBA,81,34.5,.460,.851,4.6,4.2,2.0,0.3,12.0,SAC,5200000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+3.85,12.99,chrisdo01,2002-03,SAC,15.0,8.9,.157,4.2,4.2,,32,NBA,80,33.9,.479,.810,4.3,4.7,2.3,0.5,9.4,SAC,6250000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",+0.84,6.88,chrisdo01,2003-04,SAC,14.0,5.7,.099,1.5,2.5,,33,NBA,82,33.9,.461,.860,4.0,4.2,1.8,0.5,10.1,SAC,6900000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-0.13,2.21,chrisdo01,2004-05,TOT,9.9,0.9,.030,-1.6,0.2,,34,NBA,52,29.3,.392,.897,3.4,3.8,1.5,0.3,6.6,"SAC,ORL",7550000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-0.57,0.21,chrisdo01,2005-06,DAL,6.8,0.1,.035,-1.6,0.0,,35,NBA,7,26.4,.346,.667,1.9,2.0,1.3,0.1,3.7,DAL,8200000
+Doug Christie,/players/c/chrisdo01.html,1993,2007,Pepperdine University,false,"Rainier Beach in Seattle, Washington",-0.32,0.11,chrisdo01,2006-07,LAC,4.1,-0.1,-0.031,-5.3,-0.1,,36,NBA,7,11.7,.294,.667,1.6,1.1,0.4,0.1,1.9,LAC,158071

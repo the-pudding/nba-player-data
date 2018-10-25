@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-telfase01,2004-05,19,Portland Trail Blazers,NBA,68,19.6,.393,.789,1.5,3.3,0.5,0.1,6.8,9.7,-0.4,-0.013,-6.7,-1.6,,1559280,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2005-06,20,Portland Trail Blazers,NBA,68,24.1,.394,.743,1.8,3.6,1.0,0.1,9.5,13.0,0.6,.017,-2.9,-0.4,,1676280,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2006-07,21,Boston Celtics,NBA,78,20.2,.371,.818,1.4,2.8,0.6,0.1,6.1,8.6,0.5,.015,-4.9,-1.2,,1793160,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2007-08,22,Minnesota Timberwolves,NBA,60,32.2,.401,.743,2.3,5.9,1.0,0.2,9.3,10.4,0.7,.018,-3.7,-0.8,,2562426,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2008-09,23,Minnesota Timberwolves,NBA,75,27.9,.383,.819,1.7,4.6,1.0,0.2,9.8,10.8,0.8,.019,-3.4,-0.7,,2300000,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2009-10,24,Cleveland Cavaliers,NBA,43,15.3,.413,.784,1.0,2.9,0.6,0.1,4.8,10.3,0.3,.020,-5.7,-0.6,,2500000,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2009-10,24,Cleveland Cavaliers,NBA,39,14.9,.404,.774,1.1,2.9,0.6,0.1,4.3,9.8,0.2,.015,-5.7,-0.5,,2500000,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2009-10,24,Cleveland Cavaliers,NBA,4,19.3,.457,.833,1.0,3.0,0.5,0.0,9.8,14.0,0.1,.065,-5.4,-0.1,,2500000,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2010-11,25,Minnesota Timberwolves,NBA,37,19.2,.402,.733,1.5,3.0,0.7,0.1,7.2,10.5,0.1,.008,-4.5,-0.4,,2700000,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2011-12,26,Phoenix Suns,NBA,60,14.9,.412,.791,1.5,2.3,0.7,0.2,6.1,13.2,1.1,.058,-0.5,0.3,,1500000,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2012-13,27,Toronto Raptors,NBA,59,16.6,.362,.783,1.4,2.6,0.6,0.2,5.6,10.9,0.8,.039,-3.0,-0.2,,1567500,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2012-13,27,Toronto Raptors,NBA,46,17.3,.381,.772,1.5,2.5,0.6,0.2,6.0,10.9,0.7,.042,-2.9,-0.2,,1567500,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2012-13,27,Toronto Raptors,NBA,13,14.2,.290,.833,1.2,3.0,0.7,0.1,4.3,10.7,0.1,.029,-3.3,-0.1,,1567500,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2013-14,28,Did Not Play,,,,,,,,,,,,,,,,,,"Abraham Lincoln in Brooklyn, New York"
-telfase01,2014-15,29,Oklahoma City Thunder,NBA,16,20.4,.368,.706,1.9,2.8,0.6,0.0,8.4,11.4,0.4,.063,-3.4,-0.1,,915243,"Abraham Lincoln in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-3.75,-1.30,telfase01,2004-05,POR,9.7,-0.4,-0.013,-6.7,-1.6,,NBA,1559280,19,68,19.6,.393,.789,1.5,3.3,0.5,0.1,6.8,POR
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-3.00,-0.82,telfase01,2005-06,POR,13.0,0.6,.017,-2.9,-0.4,,NBA,1676280,20,68,24.1,.394,.743,1.8,3.6,1.0,0.1,9.5,POR
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-1.60,0.71,telfase01,2006-07,BOS,8.6,0.5,.015,-4.9,-1.2,,NBA,1793160,21,78,20.2,.371,.818,1.4,2.8,0.6,0.1,6.1,BOS
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-3.21,-1.17,telfase01,2007-08,MIN,10.4,0.7,.018,-3.7,-0.8,,NBA,2562426,22,60,32.2,.401,.743,2.3,5.9,1.0,0.2,9.3,MIN
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-0.09,3.10,telfase01,2008-09,MIN,10.8,0.8,.019,-3.4,-0.7,,NBA,2300000,23,75,27.9,.383,.819,1.7,4.6,1.0,0.2,9.8,MIN
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-3.32,-0.46,telfase01,2009-10,TOT,10.3,0.3,.020,-5.7,-0.6,,NBA,2500000,24,43,15.3,.413,.784,1.0,2.9,0.6,0.1,4.8,"LAC,CLE"
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-2.32,-0.02,telfase01,2010-11,MIN,10.5,0.1,.008,-4.5,-0.4,,NBA,2700000,25,37,19.2,.402,.733,1.5,3.0,0.7,0.1,7.2,MIN
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-3.14,-0.54,telfase01,2011-12,PHO,13.2,1.1,.058,-0.5,0.3,,NBA,1500000,26,60,14.9,.412,.791,1.5,2.3,0.7,0.2,6.1,PHO
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-0.97,0.84,telfase01,2012-13,TOT,10.9,0.8,.039,-3.0,-0.2,,NBA,1567500,27,59,16.6,.362,.783,1.4,2.6,0.6,0.2,5.6,"PHO,TOR"
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",,,telfase01,2013-14,Did Not Play,,,,,,,,,28,,,,,,,,,,Did Not Play
+Sebastian Telfair,/players/t/telfase01.html,2005,2015,,false,"Abraham Lincoln in Brooklyn, New York",-2.70,-0.13,telfase01,2014-15,OKC,11.4,0.4,.063,-3.4,-0.1,,NBA,915243,29,16,20.4,.368,.706,1.9,2.8,0.6,0.0,8.4,OKC

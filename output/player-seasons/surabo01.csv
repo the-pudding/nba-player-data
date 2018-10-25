@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-surabo01,1995-96,22,Cleveland Cavaliers,NBA,79,14.6,.411,.702,1.7,2.9,0.7,0.3,5.3,15.0,1.6,.069,-1.8,0.1,,752000,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,1996-97,23,Cleveland Cavaliers,NBA,82,27.7,.431,.614,3.8,4.8,1.1,0.4,9.2,14.8,5.2,.111,1.1,1.8,,864000,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,1997-98,24,Cleveland Cavaliers,NBA,46,20.5,.377,.565,2.0,3.7,1.0,0.2,5.8,9.6,0.7,.036,-2.4,-0.1,,976920,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,1998-99,25,Cleveland Cavaliers,NBA,50,16.8,.333,.631,2.0,3.0,0.9,0.3,4.3,11.0,0.4,.023,-1.9,0.0,,3133000,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,1999-00,26,Cleveland Cavaliers,NBA,73,30.4,.437,.697,3.9,3.9,1.2,0.3,13.8,15.6,4.9,.107,2.1,2.3,,3760000,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2000-01,27,Golden State Warriors,NBA,53,31.8,.390,.714,4.3,4.6,1.0,0.2,11.1,11.2,0.1,.003,-2.8,-0.3,,4390000,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2001-02,28,Golden State Warriors,NBA,78,22.8,.424,.720,3.3,3.5,1.1,0.2,10.0,17.1,4.1,.111,1.0,1.4,,5213333,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2002-03,29,Golden State Warriors,NBA,55,20.5,.412,.696,3.0,3.2,0.8,0.0,7.3,14.2,1.8,.075,-0.6,0.4,,5639999,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2003-04,30,Detroit Pistons,NBA,80,20.8,.416,.757,4.1,2.9,0.8,0.2,7.5,16.2,4.6,.133,1.8,1.6,,6266666,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2003-04,30,Detroit Pistons,NBA,53,13.3,.410,.696,1.9,1.7,0.7,0.2,3.8,13.0,2.0,.137,1.0,0.5,,6266666,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2003-04,30,Detroit Pistons,NBA,27,35.4,.420,.783,8.3,5.3,0.9,0.2,14.7,18.5,2.6,.130,2.3,1.0,,6266666,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
-surabo01,2004-05,31,Houston Rockets,NBA,61,31.5,.427,.750,5.5,5.2,1.1,0.1,10.3,14.4,4.8,.119,2.5,2.2,,3200000,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-0.81,1.16,surabo01,1995-96,CLE,15.0,1.6,.069,-1.8,0.1,,NBA,752000,22,79,14.6,.411,.702,1.7,2.9,0.7,0.3,5.3,CLE
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",+0.60,4.46,surabo01,1996-97,CLE,14.8,5.2,.111,1.1,1.8,,NBA,864000,23,82,27.7,.431,.614,3.8,4.8,1.1,0.4,9.2,CLE
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-1.72,0.28,surabo01,1997-98,CLE,9.6,0.7,.036,-2.4,-0.1,,NBA,976920,24,46,20.5,.377,.565,2.0,3.7,1.0,0.2,5.8,CLE
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-0.92,0.73,surabo01,1998-99,CLE,11.0,0.4,.023,-1.9,0.0,,NBA,3133000,25,50,16.8,.333,.631,2.0,3.0,0.9,0.3,4.3,CLE
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",+0.37,3.99,surabo01,1999-00,CLE,15.6,4.9,.107,2.1,2.3,,NBA,3760000,26,73,30.4,.437,.697,3.9,3.9,1.2,0.3,13.8,CLE
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-3.18,-1.16,surabo01,2000-01,GSW,11.2,0.1,.003,-2.8,-0.3,,NBA,4390000,27,53,31.8,.390,.714,4.3,4.6,1.0,0.2,11.1,GSW
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-0.22,2.48,surabo01,2001-02,GSW,17.1,4.1,.111,1.0,1.4,,NBA,5213333,28,78,22.8,.424,.720,3.3,3.5,1.1,0.2,10.0,GSW
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-0.23,1.56,surabo01,2002-03,GSW,14.2,1.8,.075,-0.6,0.4,,NBA,5639999,29,55,20.5,.412,.696,3.0,3.2,0.8,0.0,7.3,GSW
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",-0.86,1.56,surabo01,2003-04,TOT,16.2,4.6,.133,1.8,1.6,,NBA,6266666,30,80,20.8,.416,.757,4.1,2.9,0.8,0.2,7.5,"DET,ATL"
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false,"G.A.R. Memorial in Wilkes-Barre, Pennsylvania",+0.69,4.25,surabo01,2004-05,HOU,14.4,4.8,.119,2.5,2.2,,NBA,3200000,31,61,31.5,.427,.750,5.5,5.2,1.1,0.1,10.3,HOU

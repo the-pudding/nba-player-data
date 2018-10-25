@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-baileca01,1981-82,23,POR,NBA,1,7.0,1.000,,0.0,0.0,0.0,0.0,2.0,-6.8,0.0,-0.268,-13.6,0.0,,"Jackson-Olin in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carl Bailey,/players/b/baileca01.html,1982,1982,Tuskegee University,false,"Jackson-Olin in Birmingham, Alabama",+0.09,0.01,baileca01,1981-82,POR,-6.8,0.0,-0.268,-13.6,0.0,,23,NBA,1,7.0,1.000,,0.0,0.0,0.0,0.0,2.0,POR

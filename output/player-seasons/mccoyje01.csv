@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mccoyje01,1998-99,21,Seattle SuperSonics,NBA,26,12.7,.737,.500,3.0,0.2,0.4,0.8,5.1,21.1,1.4,.201,0.6,0.2,,287500,"Saint Augustine in San Diego, California"
-mccoyje01,1999-00,22,Seattle SuperSonics,NBA,58,12.9,.576,.495,3.1,0.4,0.3,0.8,4.3,13.2,1.5,.099,-2.6,-0.1,,1000000,"Saint Augustine in San Diego, California"
-mccoyje01,2000-01,23,Seattle SuperSonics,NBA,70,16.3,.523,.441,3.6,0.8,0.3,0.7,4.5,11.1,1.1,.045,-2.2,-0.1,,1110000,"Saint Augustine in San Diego, California"
-mccoyje01,2001-02,24,Los Angeles Lakers,NBA,21,5.0,.571,.250,1.2,0.3,0.0,0.2,1.2,9.5,0.1,.050,-3.5,0.0,,565850,"Saint Augustine in San Diego, California"
-mccoyje01,2002-03,25,Toronto Raptors,NBA,67,20.4,.491,.548,5.3,0.6,0.4,0.9,6.8,12.4,1.0,.035,-4.5,-0.9,,637435,"Saint Augustine in San Diego, California"
-mccoyje01,2003-04,26,Cleveland Cavaliers,NBA,2,6.0,,,2.0,0.0,0.0,0.0,0.0,-3.8,0.0,-0.044,-13.3,0.0,,36643,"Saint Augustine in San Diego, California"
-mccoyje01,2004-05,27,Atlanta Hawks,NBA,10,8.8,.538,.200,2.1,0.0,0.3,0.8,1.5,6.2,0.0,-0.001,-7.7,-0.1,,167418,"Saint Augustine in San Diego, California"
-mccoyje01,2005-06,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Saint Augustine in San Diego, California"
-mccoyje01,2006-07,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Saint Augustine in San Diego, California"
-mccoyje01,2007-08,30,Denver Nuggets,NBA,6,5.5,1.000,.500,1.2,0.0,0.0,0.8,0.5,2.6,0.0,-0.036,-6.9,0.0,,151089,"Saint Augustine in San Diego, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",+1.16,0.77,mccoyje01,1998-99,SEA,21.1,1.4,.201,0.6,0.2,,NBA,287500,21,26,12.7,.737,.500,3.0,0.2,0.4,0.8,5.1,SEA
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",-0.90,0.70,mccoyje01,1999-00,SEA,13.2,1.5,.099,-2.6,-0.1,,NBA,1000000,22,58,12.9,.576,.495,3.1,0.4,0.3,0.8,4.3,SEA
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",-2.18,-0.03,mccoyje01,2000-01,SEA,11.1,1.1,.045,-2.2,-0.1,,NBA,1110000,23,70,16.3,.523,.441,3.6,0.8,0.3,0.7,4.5,SEA
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",-0.70,0.11,mccoyje01,2001-02,LAL,9.5,0.1,.050,-3.5,0.0,,NBA,565850,24,21,5.0,.571,.250,1.2,0.3,0.0,0.2,1.2,LAL
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",-3.86,-1.60,mccoyje01,2002-03,TOR,12.4,1.0,.035,-4.5,-0.9,,NBA,637435,25,67,20.4,.491,.548,5.3,0.6,0.4,0.9,6.8,TOR
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",+0.18,0.02,mccoyje01,2003-04,CLE,-3.8,0.0,-0.044,-13.3,0.0,,NBA,36643,26,2,6.0,,,2.0,0.0,0.0,0.0,0.0,CLE
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",+0.36,0.15,mccoyje01,2004-05,ATL,6.2,0.0,-0.001,-7.7,-0.1,,NBA,167418,27,10,8.8,.538,.200,2.1,0.0,0.3,0.8,1.5,ATL
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",,,mccoyje01,2005-06,Did Not Play (other pro league—Italy),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Italy)
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",,,mccoyje01,2006-07,Did Not Play (other pro league—Spain),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Spain)
+Jelani McCoy,/players/m/mccoyje01.html,1999,2008,"University of California, Los Angeles",false,"Saint Augustine in San Diego, California",-0.82,0.03,mccoyje01,2007-08,DEN,2.6,0.0,-0.036,-6.9,0.0,,NBA,151089,30,6,5.5,1.000,.500,1.2,0.0,0.0,0.8,0.5,DEN

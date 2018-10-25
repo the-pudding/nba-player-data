@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pinsoth01,2018-19,23,BRK,NBA,2,5.0,.000,1.000,0.5,1.5,0.0,0.0,1.0,7.7,0.0,-0.009,-8.5,0.0,,"Wesleyan Christian Academy in High Point, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Theo Pinson,/players/p/pinsoth01.html,2019,2019,University of North Carolina,true,"Wesleyan Christian Academy in High Point, North Carolina",,,pinsoth01,2018-19,BRK,7.7,0.0,-0.009,-8.5,0.0,,23,NBA,2,5.0,.000,1.000,0.5,1.5,0.0,0.0,1.0,BRK

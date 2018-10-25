@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-allenra01,1988-89,24,SAC,NBA,7,6.1,.421,.500,1.0,0.0,0.1,0.1,2.4,6.9,0.0,-0.035,-12.4,-0.1,,"Milton in Milton, Florida"
-allenra01,1989-90,25,SAC,NBA,63,11.8,.444,.535,2.2,0.4,0.3,0.3,3.7,8.4,0.2,.014,-5.9,-0.7,,"Milton in Milton, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Randy Allen,/players/a/allenra01.html,1989,1990,Florida State University,false,"Milton in Milton, Florida",-0.11,0.06,allenra01,1988-89,SAC,6.9,0.0,-0.035,-12.4,-0.1,,24,NBA,7,6.1,.421,.500,1.0,0.0,0.1,0.1,2.4,SAC
+Randy Allen,/players/a/allenra01.html,1989,1990,Florida State University,false,"Milton in Milton, Florida",-3.20,-0.46,allenra01,1989-90,SAC,8.4,0.2,.014,-5.9,-0.7,,25,NBA,63,11.8,.444,.535,2.2,0.4,0.3,0.3,3.7,SAC

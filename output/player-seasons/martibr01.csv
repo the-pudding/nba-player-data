@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-martibr01,1985-86,23,"SEA,POR",NBA,8,2.6,.429,.000,0.5,0.0,0.0,0.1,0.8,-1.6,-0.1,-0.132,-15.8,-0.1,,"Northwest in Wichita, Kansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brian Martin,/players/m/martibr01.html,1986,1986,University of Kansas,false,"Northwest in Wichita, Kansas",+0.25,0.04,martibr01,1985-86,TOT,-1.6,-0.1,-0.132,-15.8,-0.1,,23,NBA,8,2.6,.429,.000,0.5,0.0,0.0,0.1,0.8,"SEA,POR"

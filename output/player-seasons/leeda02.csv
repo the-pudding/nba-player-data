@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leeda02,2005-06,22,New York Knicks,NBA,67,16.9,.596,.577,4.5,0.6,0.4,0.3,5.1,15.4,2.7,.116,0.4,0.7,,861360,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2006-07,23,New York Knicks,NBA,58,29.8,.600,.815,10.4,1.8,0.8,0.4,10.7,20.2,6.9,.191,3.8,2.5,,926040,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2007-08,24,New York Knicks,NBA,81,29.1,.552,.819,8.9,1.2,0.7,0.4,10.8,18.0,7.4,.151,0.8,1.7,,990600,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2008-09,25,New York Knicks,NBA,81,34.9,.549,.755,11.7,2.1,1.0,0.3,16.0,19.0,9.0,.154,1.5,2.5,,1788033,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2009-10,26,New York Knicks,NBA,81,37.3,.545,.812,11.7,3.6,1.0,0.5,20.2,22.2,10.3,.163,2.9,3.7,,7000000,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2010-11,27,Golden State Warriors,NBA,73,36.1,.507,.787,9.8,3.2,1.0,0.4,16.5,17.8,6.0,.110,0.3,1.5,,10800000,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2011-12,28,Golden State Warriors,NBA,57,37.2,.503,.782,9.6,2.8,0.9,0.4,20.1,19.7,5.0,.113,0.4,1.3,,11610000,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2012-13,29,Golden State Warriors,NBA,79,36.8,.519,.797,11.2,3.5,0.8,0.3,18.5,19.2,9.1,.150,2.5,3.3,All-NBA (3rd),12744000,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2013-14,30,Golden State Warriors,NBA,69,33.2,.523,.780,9.3,2.1,0.7,0.4,18.2,19.1,7.6,.160,0.8,1.6,,13878000,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2014-15,31,Golden State Warriors,NBA,49,18.4,.511,.654,5.2,1.7,0.6,0.5,7.9,17.8,3.2,.168,1.4,0.8,,15012000,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2015-16,32,Boston Celtics,NBA,55,16.4,.531,.763,5.5,1.5,0.4,0.5,7.8,19.6,3.0,.161,1.4,0.8,,15493680,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2015-16,32,Boston Celtics,NBA,30,15.7,.453,.784,4.3,1.8,0.4,0.4,7.1,15.5,0.9,.092,-1.3,0.1,,15493680,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2015-16,32,Boston Celtics,NBA,25,17.3,.636,.738,7.0,1.2,0.4,0.6,8.5,24.0,2.1,.237,4.3,0.7,,15493680,"Chaminade College Preparatory School in St. Louis, Missouri"
-leeda02,2016-17,33,San Antonio Spurs,NBA,79,18.7,.590,.708,5.6,1.6,0.4,0.5,7.3,18.5,5.7,.186,3.2,1.9,,1551659,"Chaminade College Preparatory School in St. Louis, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-0.66,1.24,leeda02,2005-06,NYK,15.4,2.7,.116,0.4,0.7,,NBA,861360,22,67,16.9,.596,.577,4.5,0.6,0.4,0.3,5.1,NYK
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",+2.51,5.55,leeda02,2006-07,NYK,20.2,6.9,.191,3.8,2.5,,NBA,926040,23,58,29.8,.600,.815,10.4,1.8,0.8,0.4,10.7,NYK
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-0.13,3.42,leeda02,2007-08,NYK,18.0,7.4,.151,0.8,1.7,,NBA,990600,24,81,29.1,.552,.819,8.9,1.2,0.7,0.4,10.8,NYK
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",+0.03,4.42,leeda02,2008-09,NYK,19.0,9.0,.154,1.5,2.5,,NBA,1788033,25,81,34.9,.549,.755,11.7,2.1,1.0,0.3,16.0,NYK
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-0.41,3.83,leeda02,2009-10,NYK,22.2,10.3,.163,2.9,3.7,,NBA,7000000,26,81,37.3,.545,.812,11.7,3.6,1.0,0.5,20.2,NYK
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-1.19,2.01,leeda02,2010-11,GSW,17.8,6.0,.110,0.3,1.5,,NBA,10800000,27,73,36.1,.507,.787,9.8,3.2,1.0,0.4,16.5,GSW
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-1.30,1.41,leeda02,2011-12,GSW,19.7,5.0,.113,0.4,1.3,,NBA,11610000,28,57,37.2,.503,.782,9.6,2.8,0.9,0.4,20.1,GSW
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",+1.52,7.68,leeda02,2012-13,GSW,19.2,9.1,.150,2.5,3.3,All-NBA (3rd),NBA,12744000,29,79,36.8,.519,.797,11.2,3.5,0.8,0.3,18.5,GSW
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",+2.38,7.93,leeda02,2013-14,GSW,19.1,7.6,.160,0.8,1.6,,NBA,13878000,30,69,33.2,.523,.780,9.3,2.1,0.7,0.4,18.2,GSW
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-2.36,-0.06,leeda02,2014-15,GSW,17.8,3.2,.168,1.4,0.8,,NBA,15012000,31,49,18.4,.511,.654,5.2,1.7,0.6,0.5,7.9,GSW
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",-1.03,0.77,leeda02,2015-16,TOT,19.6,3.0,.161,1.4,0.8,,NBA,15493680,32,55,16.4,.531,.763,5.5,1.5,0.4,0.5,7.8,"BOS,DAL"
+David Lee,/players/l/leeda02.html,2006,2017,University of Florida,false,"Chaminade College Preparatory School in St. Louis, Missouri",+1.73,4.65,leeda02,2016-17,SAS,18.5,5.7,.186,3.2,1.9,,NBA,1551659,33,79,18.7,.590,.708,5.6,1.6,0.4,0.5,7.3,SAS

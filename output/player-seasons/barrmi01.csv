@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-barrmi01,1976-77,26,KCK,NBA,73,16.8,.437,.719,1.8,2.4,0.7,0.2,3.9,10.3,1.4,.054,-3.0,-0.3,,"Lehman in Canton, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Barr,/players/b/barrmi01.html,1973,1977,Duquesne University,false,"Lehman in Canton, Ohio",-1.46,0.58,barrmi01,1976-77,KCK,10.3,1.4,.054,-3.0,-0.3,,26,NBA,73,16.8,.437,.719,1.8,2.4,0.7,0.2,3.9,KCK

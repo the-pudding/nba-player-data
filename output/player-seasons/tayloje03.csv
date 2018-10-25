@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-tayloje03,2012-13,23,Charlotte Bobcats,NBA,77,19.6,.431,.728,1.9,0.8,0.6,0.2,6.1,10.3,1.2,.039,-3.3,-0.5,,575000,"Hobbs in Hobbs, New Mexico"
-tayloje03,2013-14,24,Charlotte Bobcats,NBA,26,24.2,.376,.553,2.3,0.8,0.5,0.2,8.0,5.9,-0.2,-0.019,-5.4,-0.5,,788872,"Hobbs in Hobbs, New Mexico"
-tayloje03,2014-15,25,Charlotte Hornets,NBA,29,14.8,.395,.634,1.8,0.8,0.4,0.0,4.4,8.2,0.3,.034,-4.0,-0.2,,915243,"Hobbs in Hobbs, New Mexico"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jeffery Taylor,/players/t/tayloje03.html,2013,2015,Vanderbilt University,false,"Hobbs in Hobbs, New Mexico",-2.74,-0.53,tayloje03,2012-13,CHA,10.3,1.2,.039,-3.3,-0.5,,NBA,575000,23,77,19.6,.431,.728,1.9,0.8,0.6,0.2,6.1,CHA
+Jeffery Taylor,/players/t/tayloje03.html,2013,2015,Vanderbilt University,false,"Hobbs in Hobbs, New Mexico",-3.20,-0.46,tayloje03,2013-14,CHA,5.9,-0.2,-0.019,-5.4,-0.5,,NBA,788872,24,26,24.2,.376,.553,2.3,0.8,0.5,0.2,8.0,CHA
+Jeffery Taylor,/players/t/tayloje03.html,2013,2015,Vanderbilt University,false,"Hobbs in Hobbs, New Mexico",-3.29,-0.35,tayloje03,2014-15,CHO,8.2,0.3,.034,-4.0,-0.2,,NBA,915243,25,29,14.8,.395,.634,1.8,0.8,0.4,0.0,4.4,CHO

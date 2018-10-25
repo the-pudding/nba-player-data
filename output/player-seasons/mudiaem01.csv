@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mudiaem01,2015-16,19,Denver Nuggets,NBA,68,30.4,.364,.670,3.4,5.5,1.0,0.5,12.8,9.9,-2.1,-0.049,-4.3,-1.2,,3102240,"Prime Prep Academy in Dallas, Texas"
-mudiaem01,2016-17,20,Denver Nuggets,NBA,55,25.6,.377,.784,3.2,3.9,0.7,0.2,11.0,10.9,0.2,.006,-3.7,-0.6,,3241800,"Prime Prep Academy in Dallas, Texas"
-mudiaem01,2017-18,21,New York Knicks,NBA,64,19.5,.388,.760,2.4,3.2,0.6,0.2,8.6,11.5,0.0,-0.002,-4.7,-0.9,,3381480,"Prime Prep Academy in Dallas, Texas"
-mudiaem01,2017-18,21,New York Knicks,NBA,42,17.9,.401,.808,2.2,2.9,0.5,0.1,8.5,12.3,0.3,.019,-5.0,-0.6,,3381480,"Prime Prep Academy in Dallas, Texas"
-mudiaem01,2017-18,21,New York Knicks,NBA,22,22.4,.368,.686,2.6,3.9,0.9,0.3,8.8,10.2,-0.3,-0.034,-4.3,-0.3,,3381480,"Prime Prep Academy in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Emmanuel Mudiay,/players/m/mudiaem01.html,2016,2018,,true,"Prime Prep Academy in Dallas, Texas",-0.99,1.78,mudiaem01,2015-16,DEN,9.9,-2.1,-0.049,-4.3,-1.2,,NBA,3102240,19,68,30.4,.364,.670,3.4,5.5,1.0,0.5,12.8,DEN
+Emmanuel Mudiay,/players/m/mudiaem01.html,2016,2018,,true,"Prime Prep Academy in Dallas, Texas",-2.80,-0.38,mudiaem01,2016-17,DEN,10.9,0.2,.006,-3.7,-0.6,,NBA,3241800,20,55,25.6,.377,.784,3.2,3.9,0.7,0.2,11.0,DEN
+Emmanuel Mudiay,/players/m/mudiaem01.html,2016,2018,,true,"Prime Prep Academy in Dallas, Texas",-4.46,-1.69,mudiaem01,2017-18,TOT,11.5,0.0,-0.002,-4.7,-0.9,,NBA,3381480,21,64,19.5,.388,.760,2.4,3.2,0.6,0.2,8.6,"DEN,NYK"

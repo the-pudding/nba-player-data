@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-ballce01,1990-91,22,LAC,NBA,7,3.7,.375,1.000,1.6,0.0,0.0,0.3,1.1,10.8,0.0,.054,-11.7,-0.1,,"South in Worcester, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cedric Ball,/players/b/ballce01.html,1991,1991,University of North Carolina at Charlotte,false,"South in Worcester, Massachusetts",+0.05,0.04,ballce01,1990-91,LAC,10.8,0.0,.054,-11.7,-0.1,,22,NBA,7,3.7,.375,1.000,1.6,0.0,0.0,0.3,1.1,LAC

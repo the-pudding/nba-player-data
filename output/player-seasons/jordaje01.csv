@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jordaje01,2011-12,25,New York Knicks,NBA,21,5.1,.515,.800,1.3,0.2,0.0,0.3,2.0,18.3,0.5,.211,0.6,0.1,,473604,"Florida Air Academy in Melbourne, Florida"
-jordaje01,2012-13,26,Did Not Play,,,,,,,,,,,,,,,,,,"Florida Air Academy in Melbourne, Florida"
-jordaje01,2013-14,27,Did Not Play,,,,,,,,,,,,,,,,,,"Florida Air Academy in Melbourne, Florida"
-jordaje01,2014-15,28,Brooklyn Nets,NBA,44,8.7,.532,.864,2.4,0.3,0.2,0.3,3.1,16.8,1.2,.156,-0.2,0.2,,915243,"Florida Air Academy in Melbourne, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerome Jordan,/players/j/jordaje01.html,2012,2015,University of Tulsa,false,"Florida Air Academy in Melbourne, Florida",+0.75,0.23,jordaje01,2011-12,NYK,18.3,0.5,.211,0.6,0.1,,NBA,473604,25,21,5.1,.515,.800,1.3,0.2,0.0,0.3,2.0,NYK
+Jerome Jordan,/players/j/jordaje01.html,2012,2015,University of Tulsa,false,"Florida Air Academy in Melbourne, Florida",,,jordaje01,2012-13,Did Not Play,,,,,,,,,26,,,,,,,,,,Did Not Play
+Jerome Jordan,/players/j/jordaje01.html,2012,2015,University of Tulsa,false,"Florida Air Academy in Melbourne, Florida",,,jordaje01,2013-14,Did Not Play,,,,,,,,,27,,,,,,,,,,Did Not Play
+Jerome Jordan,/players/j/jordaje01.html,2012,2015,University of Tulsa,false,"Florida Air Academy in Melbourne, Florida",-2.45,-0.06,jordaje01,2014-15,BRK,16.8,1.2,.156,-0.2,0.2,,NBA,915243,28,44,8.7,.532,.864,2.4,0.3,0.2,0.3,3.1,BRK

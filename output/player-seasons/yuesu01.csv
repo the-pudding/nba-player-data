@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-yuesu01,2008-09,23,Los Angeles Lakers,NBA,10,2.8,.273,,0.0,0.2,0.1,0.1,0.6,-8.6,-0.1,-0.226,-15.2,-0.1,,442114,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sun Yue,/players/y/yuesu01.html,2009,2009,,false,,-1.31,0.02,yuesu01,2008-09,LAL,-8.6,-0.1,-0.226,-15.2,-0.1,,NBA,442114,23,10,2.8,.273,,0.0,0.2,0.1,0.1,0.6,LAL

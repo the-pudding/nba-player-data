@@ -1,17 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rooksse01,1992-93,23,Dallas Mavericks,NBA,72,29.0,.493,.602,7.4,1.3,0.5,1.1,13.5,14.7,1.5,.034,-2.5,-0.3,,375000,"Fontana in Fontana, California"
-rooksse01,1993-94,24,Dallas Mavericks,NBA,47,26.7,.491,.714,5.5,1.0,0.4,0.9,11.4,14.6,2.2,.083,-2.8,-0.3,,488000,"Fontana in Fontana, California"
-rooksse01,1994-95,25,Minnesota Timberwolves,NBA,80,30.1,.470,.761,6.1,1.2,0.4,0.9,10.9,12.6,3.0,.060,-2.7,-0.4,,600000,"Fontana in Fontana, California"
-rooksse01,1995-96,26,Minnesota Timberwolves,NBA,65,17.2,.505,.668,3.9,0.7,0.4,0.6,6.5,13.4,1.8,.078,-2.9,-0.3,,1200000,"Fontana in Fontana, California"
-rooksse01,1995-96,26,Minnesota Timberwolves,NBA,49,18.4,.493,.667,4.2,0.8,0.4,0.6,6.8,13.3,1.7,.088,-2.7,-0.2,,1200000,"Fontana in Fontana, California"
-rooksse01,1995-96,26,Minnesota Timberwolves,NBA,16,13.4,.552,.674,3.2,0.6,0.3,0.9,5.8,13.7,0.2,.036,-3.8,-0.1,,1200000,"Fontana in Fontana, California"
-rooksse01,1996-97,27,Los Angeles Lakers,NBA,69,10.7,.470,.700,2.4,0.6,0.2,0.6,3.8,13.4,1.8,.115,-1.7,0.0,,1200000,"Fontana in Fontana, California"
-rooksse01,1997-98,28,Los Angeles Lakers,NBA,41,10.4,.455,.595,2.9,0.6,0.0,0.6,3.4,13.4,1.1,.130,-1.7,0.0,,1440000,"Fontana in Fontana, California"
-rooksse01,1998-99,29,Los Angeles Lakers,NBA,36,8.8,.405,.708,2.0,0.3,0.1,0.3,2.7,9.1,0.3,.052,-5.1,-0.2,,1680000,"Fontana in Fontana, California"
-rooksse01,1999-00,30,Dallas Mavericks,NBA,71,14.1,.431,.730,3.5,1.0,0.4,0.7,4.4,11.8,1.1,.051,-2.0,0.0,,1920000,"Fontana in Fontana, California"
-rooksse01,2000-01,31,Los Angeles Clippers,NBA,82,18.9,.428,.748,3.7,0.9,0.4,0.8,5.4,11.5,2.3,.070,-1.3,0.3,,2160000,"Fontana in Fontana, California"
-rooksse01,2001-02,32,Los Angeles Clippers,NBA,61,11.9,.418,.724,2.0,0.4,0.2,0.3,3.0,7.5,0.6,.038,-4.7,-0.5,,2400000,"Fontana in Fontana, California"
-rooksse01,2002-03,33,Los Angeles Clippers,NBA,70,19.2,.421,.810,3.1,1.0,0.5,0.6,4.2,7.7,0.4,.015,-3.4,-0.5,,2640000,"Fontana in Fontana, California"
-rooksse01,2003-04,34,New Orleans Hornets,NBA,55,10.8,.358,.892,1.8,0.5,0.3,0.2,2.6,6.8,0.2,.014,-6.3,-0.6,,1070000,"Fontana in Fontana, California"
-rooksse01,2003-04,34,New Orleans Hornets,NBA,35,9.3,.362,.800,1.4,0.3,0.3,0.1,2.3,5.0,-0.1,-0.011,-7.9,-0.5,,1070000,"Fontana in Fontana, California"
-rooksse01,2003-04,34,New Orleans Hornets,NBA,20,13.5,.351,.955,2.4,0.9,0.3,0.3,3.1,9.0,0.2,.044,-4.3,-0.2,,1070000,"Fontana in Fontana, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-2.49,-0.27,rooksse01,1992-93,DAL,14.7,1.5,.034,-2.5,-0.3,,NBA,375000,23,72,29.0,.493,.602,7.4,1.3,0.5,1.1,13.5,DAL
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-1.66,0.50,rooksse01,1993-94,DAL,14.6,2.2,.083,-2.8,-0.3,,NBA,488000,24,47,26.7,.491,.714,5.5,1.0,0.4,0.9,11.4,DAL
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-2.63,-0.53,rooksse01,1994-95,MIN,12.6,3.0,.060,-2.7,-0.4,,NBA,600000,25,80,30.1,.470,.761,6.1,1.2,0.4,0.9,10.9,MIN
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-1.68,0.51,rooksse01,1995-96,TOT,13.4,1.8,.078,-2.9,-0.3,,NBA,1200000,26,65,17.2,.505,.668,3.9,0.7,0.4,0.6,6.5,"MIN,ATL"
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-0.65,0.86,rooksse01,1996-97,LAL,13.4,1.8,.115,-1.7,0.0,,NBA,1200000,27,69,10.7,.470,.700,2.4,0.6,0.2,0.6,3.8,LAL
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-0.87,0.41,rooksse01,1997-98,LAL,13.4,1.1,.130,-1.7,0.0,,NBA,1440000,28,41,10.4,.455,.595,2.9,0.6,0.0,0.6,3.4,LAL
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-2.98,-0.18,rooksse01,1998-99,LAL,9.1,0.3,.052,-5.1,-0.2,,NBA,1680000,29,36,8.8,.405,.708,2.0,0.3,0.1,0.3,2.7,LAL
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-1.62,0.42,rooksse01,1999-00,DAL,11.8,1.1,.051,-2.0,0.0,,NBA,1920000,30,71,14.1,.431,.730,3.5,1.0,0.4,0.7,4.4,DAL
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",+0.03,2.43,rooksse01,2000-01,LAC,11.5,2.3,.070,-1.3,0.3,,NBA,2160000,31,82,18.9,.428,.748,3.7,0.9,0.4,0.8,5.4,LAC
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-1.81,0.21,rooksse01,2001-02,LAC,7.5,0.6,.038,-4.7,-0.5,,NBA,2400000,32,61,11.9,.418,.724,2.0,0.4,0.2,0.3,3.0,LAC
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-3.45,-1.15,rooksse01,2002-03,LAC,7.7,0.4,.015,-3.4,-0.5,,NBA,2640000,33,70,19.2,.421,.810,3.1,1.0,0.5,0.6,4.2,LAC
+Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false,"Fontana in Fontana, California",-2.38,-0.07,rooksse01,2003-04,TOT,6.8,0.2,.014,-6.3,-0.6,,NBA,1070000,34,55,10.8,.358,.892,1.8,0.5,0.3,0.2,2.6,"NOH,ORL"

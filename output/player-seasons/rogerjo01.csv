@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-rogerjo01,1986-87,23,SAC,NBA,45,10.4,.486,.600,1.7,0.6,0.2,0.2,4.2,10.5,0.4,.041,-4.2,-0.3,,"LaQuinta in Westminster, California",
-rogerjo01,1987-88,24,Cleveland Cavaliers,NBA,24,7.0,.426,.769,1.1,0.1,0.2,0.1,2.6,7.5,0.0,.008,-8.1,-0.3,,"LaQuinta in Westminster, California",75000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Johnny Rogers,/players/r/rogerjo01.html,1987,1988,"Stanford University, University of California, Irvine",false,"LaQuinta in Westminster, California",-2.72,-0.12,rogerjo01,1986-87,SAC,10.5,0.4,.041,-4.2,-0.3,,23,NBA,45,10.4,.486,.600,1.7,0.6,0.2,0.2,4.2,SAC,
+Johnny Rogers,/players/r/rogerjo01.html,1987,1988,"Stanford University, University of California, Irvine",false,"LaQuinta in Westminster, California",-0.91,0.15,rogerjo01,1987-88,CLE,7.5,0.0,.008,-8.1,-0.3,,24,NBA,24,7.0,.426,.769,1.1,0.1,0.2,0.1,2.6,CLE,75000

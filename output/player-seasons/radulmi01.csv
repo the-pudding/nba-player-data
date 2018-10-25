@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-radulmi01,2013-14,26,MIL,NBA,48,9.7,.540,.818,2.3,0.5,0.1,0.3,3.8,15.3,1.1,.112,-2.3,0.0,,,
-radulmi01,2014-15,27,Los Angeles Clippers,NBA,5,4.6,.375,1.000,1.0,0.0,0.2,0.0,1.6,3.3,0.0,-0.057,-14.4,-0.1,,,300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Miroslav Raduljica,/players/r/radulmi01.html,2014,2015,,false,,-1.67,0.19,radulmi01,2013-14,MIL,15.3,1.1,.112,-2.3,0.0,,26,NBA,48,9.7,.540,.818,2.3,0.5,0.1,0.3,3.8,MIL,
+Miroslav Raduljica,/players/r/radulmi01.html,2014,2015,,false,,-0.19,0.03,radulmi01,2014-15,MIN,3.3,0.0,-0.057,-14.4,-0.1,,27,NBA,5,4.6,.375,1.000,1.0,0.0,0.2,0.0,1.6,MIN,300000

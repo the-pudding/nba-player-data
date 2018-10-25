@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sheppje01,1998-99,24,Atlanta Hawks,NBA,18,10.3,.385,.615,1.2,0.9,0.2,0.0,2.2,8.7,0.3,.073,-2.9,0.0,,287500,"McIntosh in Peachtree City, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jeffrey Sheppard,/players/s/sheppje01.html,1999,1999,University of Kentucky,false,"McIntosh in Peachtree City, Georgia",-0.12,0.29,sheppje01,1998-99,ATL,8.7,0.3,.073,-2.9,0.0,,NBA,287500,24,18,10.3,.385,.615,1.2,0.9,0.2,0.0,2.2,ATL

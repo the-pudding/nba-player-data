@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-volkoal01,1989-90,25,ATL,NBA,72,13.0,.482,.583,1.7,1.2,0.5,0.3,5.0,11.9,1.4,.074,-0.7,0.3,,,
-volkoal01,1990-91,26,Atlanta Hawks,NBA,,,,,,,,,,,,,,,,,650000
-volkoal01,1991-92,27,Atlanta Hawks,NBA,77,19.7,.441,.631,3.4,3.2,0.9,0.4,8.6,15.5,3.0,.096,1.2,1.2,,,675000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Alexander Volkov,/players/v/volkoal01.html,1990,1992,,false,,-1.06,0.80,volkoal01,1989-90,ATL,11.9,1.4,.074,-0.7,0.3,,25,NBA,72,13.0,.482,.583,1.7,1.2,0.5,0.3,5.0,ATL,
+Alexander Volkov,/players/v/volkoal01.html,1990,1992,,false,,,,volkoal01,1990-91,Did Not Play (injury),,,,,,,26,NBA,,,,,,,,,,Did Not Play (injury),650000
+Alexander Volkov,/players/v/volkoal01.html,1990,1992,,false,,+0.07,2.41,volkoal01,1991-92,ATL,15.5,3.0,.096,1.2,1.2,,27,NBA,77,19.7,.441,.631,3.4,3.2,0.9,0.4,8.6,ATL,675000

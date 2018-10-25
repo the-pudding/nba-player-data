@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mckinca01,1989-90,25,LAC,NBA,7,14.9,.250,.500,1.7,1.0,0.9,0.1,2.6,0.6,-0.3,-0.121,-8.1,-0.2,,"Nixon in Nixon, Texas"
-mckinca01,1990-91,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Nixon in Nixon, Texas"
-mckinca01,1991-92,27,NYK,NBA,2,4.5,.222,,0.5,0.0,0.0,0.0,2.0,-9.0,-0.1,-0.402,-33.7,-0.1,,"Nixon in Nixon, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carlton McKinney,/players/m/mckinca01.html,1990,1992,"University of Tulsa, Southern Methodist University",false,"Nixon in Nixon, Texas",-0.51,0.12,mckinca01,1989-90,LAC,0.6,-0.3,-0.121,-8.1,-0.2,,25,NBA,7,14.9,.250,.500,1.7,1.0,0.9,0.1,2.6,LAC
+Carlton McKinney,/players/m/mckinca01.html,1990,1992,"University of Tulsa, Southern Methodist University",false,"Nixon in Nixon, Texas",,,mckinca01,1990-91,Did Not Play (other pro league—Italy),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Italy)
+Carlton McKinney,/players/m/mckinca01.html,1990,1992,"University of Tulsa, Southern Methodist University",false,"Nixon in Nixon, Texas",+0.50,0.02,mckinca01,1991-92,NYK,-9.0,-0.1,-0.402,-33.7,-0.1,,27,NBA,2,4.5,.222,,0.5,0.0,0.0,0.0,2.0,NYK

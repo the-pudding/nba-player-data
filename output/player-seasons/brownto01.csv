@@ -1,15 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-brownto01,1984-85,24,IND,NBA,82,19.3,.460,.678,3.5,1.9,0.7,0.1,6.6,10.8,1.8,.054,-1.1,0.3,,"Farragut Career Academy in Chicago, Illinois",
-brownto01,1985-86,25,CHI,NBA,10,13.2,.439,.692,1.6,1.4,0.5,0.1,4.5,11.5,0.2,.067,-2.6,0.0,,"Farragut Career Academy in Chicago, Illinois",
-brownto01,1986-87,26,NJN,NBA,77,30.4,.442,.738,2.8,3.4,1.2,0.2,11.3,9.7,1.3,.026,-1.8,0.1,,"Farragut Career Academy in Chicago, Illinois",
-brownto01,1987-88,27,New Jersey Nets,NBA,,,,,,,,,,,,,,,,"Farragut Career Academy in Chicago, Illinois",135000
-brownto01,1988-89,28,Houston Rockets,NBA,43,8.5,.424,.774,1.0,0.6,0.3,0.1,3.0,10.3,0.5,.071,-2.5,0.0,,"Farragut Career Academy in Chicago, Illinois",325000
-brownto01,1988-89,28,Houston Rockets,NBA,14,6.5,.311,.750,1.1,0.4,0.2,0.0,2.6,4.7,-0.1,-0.064,-8.5,-0.1,,"Farragut Career Academy in Chicago, Illinois",325000
-brownto01,1988-89,28,Houston Rockets,NBA,29,9.4,.493,.783,1.0,0.7,0.4,0.1,3.2,12.2,0.7,.116,-0.5,0.1,,"Farragut Career Academy in Chicago, Illinois",325000
-brownto01,1989-90,29,MIL,NBA,61,10.4,.427,.679,1.2,0.7,0.5,0.1,3.6,8.2,0.0,.000,-4.7,-0.4,,"Farragut Career Academy in Chicago, Illinois",
-brownto01,1990-91,30,Utah Jazz,NBA,30,9.8,.375,.870,1.4,0.5,0.1,0.0,2.8,5.9,0.2,.026,-4.2,-0.2,,"Farragut Career Academy in Chicago, Illinois",50000
-brownto01,1990-91,30,Utah Jazz,NBA,7,3.9,.667,,0.6,0.4,0.0,0.0,0.7,-0.4,0.0,-0.043,-7.0,0.0,,"Farragut Career Academy in Chicago, Illinois",50000
-brownto01,1990-91,30,Utah Jazz,NBA,23,11.6,.364,.870,1.7,0.6,0.2,0.0,3.4,6.5,0.2,.033,-3.9,-0.1,,"Farragut Career Academy in Chicago, Illinois",50000
-brownto01,1991-92,31,Los Angeles Clippers,NBA,57,11.5,.410,.727,1.5,0.8,0.5,0.1,4.8,11.4,0.9,.069,-2.3,0.0,,"Farragut Career Academy in Chicago, Illinois",130000
-brownto01,1991-92,31,Los Angeles Clippers,NBA,22,11.5,.438,.621,1.3,0.7,0.5,0.0,4.7,10.5,0.3,.064,-2.8,-0.1,,"Farragut Career Academy in Chicago, Illinois",130000
-brownto01,1991-92,31,Los Angeles Clippers,NBA,35,11.5,.394,.811,1.6,0.9,0.5,0.1,4.8,11.9,0.6,.073,-1.9,0.0,,"Farragut Career Academy in Chicago, Illinois",130000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-2.45,-0.23,brownto01,1984-85,IND,10.8,1.8,.054,-1.1,0.3,,24,NBA,82,19.3,.460,.678,3.5,1.9,0.7,0.1,6.6,IND,
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-0.15,0.19,brownto01,1985-86,CHI,11.5,0.2,.067,-2.6,0.0,,25,NBA,10,13.2,.439,.692,1.6,1.4,0.5,0.1,4.5,CHI,
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-2.45,-0.22,brownto01,1986-87,NJN,9.7,1.3,.026,-1.8,0.1,,26,NBA,77,30.4,.442,.738,2.8,3.4,1.2,0.2,11.3,NJN,
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",,,brownto01,1987-88,Did Not Play (injury—foot),,,,,,,27,NBA,,,,,,,,,,Did Not Play (injury—foot),135000
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-1.98,0.08,brownto01,1988-89,TOT,10.3,0.5,.071,-2.5,0.0,,28,NBA,43,8.5,.424,.774,1.0,0.6,0.3,0.1,3.0,"HOU,MIL",325000
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-3.16,-0.39,brownto01,1989-90,MIL,8.2,0.0,.000,-4.7,-0.4,,29,NBA,61,10.4,.427,.679,1.2,0.7,0.5,0.1,3.6,MIL,
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-3.84,-0.33,brownto01,1990-91,TOT,5.9,0.2,.026,-4.2,-0.2,,30,NBA,30,9.8,.375,.870,1.4,0.5,0.1,0.0,2.8,"LAL,UTA",50000
+Tony Brown,/players/b/brownto01.html,1985,1992,University of Arkansas,false,"Farragut Career Academy in Chicago, Illinois",-1.63,0.29,brownto01,1991-92,TOT,11.4,0.9,.069,-2.3,0.0,,31,NBA,57,11.5,.410,.727,1.5,0.8,0.5,0.1,4.8,"LAC,SEA",130000

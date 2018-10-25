@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-moneyer01,1976-77,21,DET,NBA,73,21.7,.521,.789,1.7,3.3,1.2,0.2,10.2,15.8,3.3,.099,0.5,1.0,,"Kettering in Detroit, Michigan"
-moneyer01,1977-78,22,DET,NBA,76,33.6,.500,.718,2.8,4.7,1.6,0.2,18.6,15.4,3.6,.067,-1.1,0.6,,"Kettering in Detroit, Michigan"
-moneyer01,1978-79,23,"NJN,PHI",NBA,70,28.3,.497,.717,2.3,4.7,1.2,0.2,15.1,14.4,2.7,.065,-1.7,0.1,,"Kettering in Detroit, Michigan"
-moneyer01,1979-80,24,"PHI,DET",NBA,61,25.4,.500,.783,1.7,4.2,0.9,0.2,10.3,11.4,0.6,.020,-4.7,-1.0,,"Kettering in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Money,/players/m/moneyer01.html,1975,1980,University of Arizona,false,"Kettering in Detroit, Michigan",-0.03,2.56,moneyer01,1976-77,DET,15.8,3.3,.099,0.5,1.0,,21,NBA,73,21.7,.521,.789,1.7,3.3,1.2,0.2,10.2,DET
+Eric Money,/players/m/moneyer01.html,1975,1980,University of Arizona,false,"Kettering in Detroit, Michigan",-0.97,2.18,moneyer01,1977-78,DET,15.4,3.6,.067,-1.1,0.6,,22,NBA,76,33.6,.500,.718,2.8,4.7,1.6,0.2,18.6,DET
+Eric Money,/players/m/moneyer01.html,1975,1980,University of Arizona,false,"Kettering in Detroit, Michigan",-1.97,0.26,moneyer01,1978-79,TOT,14.4,2.7,.065,-1.7,0.1,,23,NBA,70,28.3,.497,.717,2.3,4.7,1.2,0.2,15.1,"NJN,PHI"
+Eric Money,/players/m/moneyer01.html,1975,1980,University of Arizona,false,"Kettering in Detroit, Michigan",-2.97,-0.79,moneyer01,1979-80,TOT,11.4,0.6,.020,-4.7,-1.0,,24,NBA,61,25.4,.500,.783,1.7,4.2,0.9,0.2,10.3,"PHI,DET"

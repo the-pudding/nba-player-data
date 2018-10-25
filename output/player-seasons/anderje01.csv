@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-anderje01,1976-77,23,IND,NBA,27,6.1,.441,.700,0.4,0.4,0.2,0.1,2.4,10.1,0.1,.027,-5.9,-0.2,,"Mullens in Mullens, West Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerome Anderson,/players/a/anderje01.html,1976,1977,West Virginia University,false,"Mullens in Mullens, West Virginia",-1.89,0.03,anderje01,1976-77,IND,10.1,0.1,.027,-5.9,-0.2,,23,NBA,27,6.1,.441,.700,0.4,0.4,0.2,0.1,2.4,IND

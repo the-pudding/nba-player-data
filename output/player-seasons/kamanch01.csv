@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kamanch01,2003-04,21,Los Angeles Clippers,NBA,82,22.5,.460,.697,5.6,1.0,0.3,0.9,6.1,9.6,0.0,.001,-3.8,-0.9,,2394600,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2004-05,22,Los Angeles Clippers,NBA,63,25.9,.497,.661,6.7,1.2,0.4,1.1,9.1,13.1,2.1,.061,-1.5,0.2,,2574240,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2005-06,23,Los Angeles Clippers,NBA,78,32.8,.523,.770,9.6,1.0,0.6,1.4,11.9,15.0,6.1,.114,-0.4,1.0,,2753760,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2006-07,24,Los Angeles Clippers,NBA,75,29.0,.451,.741,7.8,1.1,0.5,1.5,10.1,12.9,2.9,.063,-2.5,-0.3,,3491768,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2007-08,25,Los Angeles Clippers,NBA,56,37.2,.483,.762,12.7,1.9,0.6,2.8,15.7,17.5,3.6,.083,0.4,1.2,,8600000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2008-09,26,Los Angeles Clippers,NBA,31,29.7,.528,.680,8.0,1.5,0.5,1.5,12.0,14.4,0.6,.030,-2.5,-0.1,,9500000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2009-10,27,Los Angeles Clippers,NBA,76,34.3,.490,.749,9.3,1.6,0.5,1.2,18.5,16.5,2.4,.044,-3.2,-0.8,,10400000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2010-11,28,Los Angeles Clippers,NBA,32,26.2,.471,.754,7.0,1.4,0.5,1.5,12.4,15.7,0.8,.047,-2.5,-0.1,,11800000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2011-12,29,New Orleans Hornets,NBA,47,29.2,.446,.785,7.7,2.1,0.5,1.6,13.1,15.3,0.7,.024,-1.4,0.2,,14030000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2012-13,30,Dallas Mavericks,NBA,66,20.7,.507,.788,5.6,0.8,0.4,0.8,10.5,16.3,1.6,.058,-3.7,-0.6,,8000000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2013-14,31,Los Angeles Lakers,NBA,39,18.9,.509,.765,5.9,1.5,0.3,1.0,10.4,17.0,0.5,.036,-2.4,-0.1,,3183000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2014-15,32,Portland Trail Blazers,NBA,74,18.9,.515,.706,6.5,0.9,0.2,0.7,8.6,17.3,3.3,.112,-1.4,0.2,,4800000,"Tri-Unity Christian in Wyoming, Michigan"
-kamanch01,2015-16,33,Portland Trail Blazers,NBA,16,7.0,.465,1.000,1.5,0.7,0.1,0.1,2.8,11.1,0.1,.037,-5.1,-0.1,,5000000,"Tri-Unity Christian in Wyoming, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-3.10,-1.11,kamanch01,2003-04,LAC,9.6,0.0,.001,-3.8,-0.9,,NBA,2394600,21,82,22.5,.460,.697,5.6,1.0,0.3,0.9,6.1,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-2.67,-0.44,kamanch01,2004-05,LAC,13.1,2.1,.061,-1.5,0.2,,NBA,2574240,22,63,25.9,.497,.661,6.7,1.2,0.4,1.1,9.1,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",+0.63,5.71,kamanch01,2005-06,LAC,15.0,6.1,.114,-0.4,1.0,,NBA,2753760,23,78,32.8,.523,.770,9.6,1.0,0.6,1.4,11.9,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-2.45,-0.32,kamanch01,2006-07,LAC,12.9,2.9,.063,-2.5,-0.3,,NBA,3491768,24,75,29.0,.451,.741,7.8,1.1,0.5,1.5,10.1,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",+1.26,5.02,kamanch01,2007-08,LAC,17.5,3.6,.083,0.4,1.2,,NBA,8600000,25,56,37.2,.483,.762,12.7,1.9,0.6,2.8,15.7,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-2.28,0.00,kamanch01,2008-09,LAC,14.4,0.6,.030,-2.5,-0.1,,NBA,9500000,26,31,29.7,.528,.680,8.0,1.5,0.5,1.5,12.0,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-1.73,0.94,kamanch01,2009-10,LAC,16.5,2.4,.044,-3.2,-0.8,,NBA,10400000,27,76,34.3,.490,.749,9.3,1.6,0.5,1.2,18.5,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-1.02,0.70,kamanch01,2010-11,LAC,15.7,0.8,.047,-2.5,-0.1,,NBA,11800000,28,32,26.2,.471,.754,7.0,1.4,0.5,1.5,12.4,LAC
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-0.91,1.23,kamanch01,2011-12,NOH,15.3,0.7,.024,-1.4,0.2,,NBA,14030000,29,47,29.2,.446,.785,7.7,2.1,0.5,1.6,13.1,NOH
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-2.06,0.15,kamanch01,2012-13,DAL,16.3,1.6,.058,-3.7,-0.6,,NBA,8000000,30,66,20.7,.507,.788,5.6,0.8,0.4,0.8,10.5,DAL
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-1.01,0.62,kamanch01,2013-14,LAL,17.0,0.5,.036,-2.4,-0.1,,NBA,3183000,31,39,18.9,.509,.765,5.9,1.5,0.3,1.0,10.4,LAL
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-1.45,0.77,kamanch01,2014-15,POR,17.3,3.3,.112,-1.4,0.2,,NBA,4800000,32,74,18.9,.515,.706,6.5,0.9,0.2,0.7,8.6,POR
+Chris Kaman,/players/k/kamanch01.html,2004,2016,Central Michigan University,false,"Tri-Unity Christian in Wyoming, Michigan",-1.61,0.06,kamanch01,2015-16,POR,11.1,0.1,.037,-5.1,-0.1,,NBA,5000000,33,16,7.0,.465,1.000,1.5,0.7,0.1,0.1,2.8,POR

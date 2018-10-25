@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-johnsma01,1977-78,21,MIL,NBA,80,34.6,.522,.736,10.6,2.4,1.2,1.3,19.5,21.3,10.6,.185,3.4,3.7,,"Crenshaw in Los Angeles, California",
-johnsma01,1978-79,22,MIL,NBA,77,36.1,.550,.760,7.6,3.0,1.5,1.2,25.6,23.9,12.2,.211,5.3,5.1,All-NBA (1st),"Crenshaw in Los Angeles, California",
-johnsma01,1979-80,23,MIL,NBA,77,34.9,.544,.791,7.4,3.5,1.3,0.9,21.7,22.0,11.5,.206,5.1,4.8,All-NBA (2nd),"Crenshaw in Los Angeles, California",
-johnsma01,1980-81,24,MIL,NBA,76,33.4,.552,.706,6.8,4.6,1.5,0.5,20.3,22.0,11.2,.211,5.9,5.1,All-NBA (2nd),"Crenshaw in Los Angeles, California",
-johnsma01,1981-82,25,MIL,NBA,60,31.7,.532,.700,6.1,3.6,1.0,0.6,16.5,18.0,6.2,.158,2.9,2.4,,"Crenshaw in Los Angeles, California",
-johnsma01,1982-83,26,MIL,NBA,80,35.7,.509,.735,7.0,4.5,1.3,0.7,21.4,21.1,10.7,.180,4.8,4.9,,"Crenshaw in Los Angeles, California",
-johnsma01,1983-84,27,MIL,NBA,74,36.7,.502,.709,6.5,4.3,1.6,0.6,20.7,19.4,8.6,.152,3.8,4.0,,"Crenshaw in Los Angeles, California",
-johnsma01,1984-85,28,Los Angeles Clippers,NBA,72,34.0,.452,.731,5.9,3.4,1.0,0.4,16.4,14.3,2.7,.053,-0.2,1.1,,"Crenshaw in Los Angeles, California",900000
-johnsma01,1985-86,29,Los Angeles Clippers,NBA,75,34.7,.510,.760,5.5,3.8,1.4,0.7,20.3,18.9,5.9,.108,2.1,2.7,,"Crenshaw in Los Angeles, California",1100000
-johnsma01,1986-87,30,LAC,NBA,10,30.2,.439,.714,3.3,2.8,1.2,0.5,16.6,14.0,0.1,.022,-3.6,-0.1,,"Crenshaw in Los Angeles, California",
-johnsma01,1987-88,31,Did Not Play (injury—neck),,,,,,,,,,,,,,,,,"Crenshaw in Los Angeles, California",
-johnsma01,1988-89,32,Did Not Play (injury—neck),,,,,,,,,,,,,,,,,"Crenshaw in Los Angeles, California",
-johnsma01,1989-90,33,GSW,NBA,10,9.9,.375,.824,1.7,0.9,0.0,0.1,4.0,8.5,0.0,-0.016,-6.7,-0.1,,"Crenshaw in Los Angeles, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+2.78,10.76,johnsma01,1977-78,MIL,21.3,10.6,.185,3.4,3.7,,21,NBA,80,34.6,.522,.736,10.6,2.4,1.2,1.3,19.5,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+3.63,11.07,johnsma01,1978-79,MIL,23.9,12.2,.211,5.3,5.1,All-NBA (1st),22,NBA,77,36.1,.550,.760,7.6,3.0,1.5,1.2,25.6,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+3.13,10.93,johnsma01,1979-80,MIL,22.0,11.5,.206,5.1,4.8,All-NBA (2nd),23,NBA,77,34.9,.544,.791,7.4,3.5,1.3,0.9,21.7,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+3.68,11.25,johnsma01,1980-81,MIL,22.0,11.2,.211,5.9,5.1,All-NBA (2nd),24,NBA,76,33.4,.552,.706,6.8,4.6,1.5,0.5,20.3,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+1.23,5.10,johnsma01,1981-82,MIL,18.0,6.2,.158,2.9,2.4,,25,NBA,60,31.7,.532,.700,6.1,3.6,1.0,0.6,16.5,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+3.18,12.03,johnsma01,1982-83,MIL,21.1,10.7,.180,4.8,4.9,,26,NBA,80,35.7,.509,.735,7.0,4.5,1.3,0.7,21.4,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+2.34,10.38,johnsma01,1983-84,MIL,19.4,8.6,.152,3.8,4.0,,27,NBA,74,36.7,.502,.709,6.5,4.3,1.6,0.6,20.7,MIL,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",-1.55,1.23,johnsma01,1984-85,LAC,14.3,2.7,.053,-0.2,1.1,,28,NBA,72,34.0,.452,.731,5.9,3.4,1.0,0.4,16.4,LAC,900000
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",+0.16,4.29,johnsma01,1985-86,LAC,18.9,5.9,.108,2.1,2.7,,29,NBA,75,34.7,.510,.760,5.5,3.8,1.4,0.7,20.3,LAC,1100000
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",-1.40,0.18,johnsma01,1986-87,LAC,14.0,0.1,.022,-3.6,-0.1,,30,NBA,10,30.2,.439,.714,3.3,2.8,1.2,0.5,16.6,LAC,
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",,,johnsma01,1987-88,Did Not Play (injury—neck),,,,,,,31,,,,,,,,,,,Did Not Play (injury—neck),
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",,,johnsma01,1988-89,Did Not Play (injury—neck),,,,,,,32,,,,,,,,,,,Did Not Play (injury—neck),
+Marques Johnson,/players/j/johnsma01.html,1978,1990,"University of California, Los Angeles",false,"Crenshaw in Los Angeles, California",-1.11,0.08,johnsma01,1989-90,GSW,8.5,0.0,-0.016,-6.7,-0.1,,33,NBA,10,9.9,.375,.824,1.7,0.9,0.0,0.1,4.0,GSW,

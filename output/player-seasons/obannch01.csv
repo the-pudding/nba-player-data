@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-obannch01,1997-98,22,Detroit Pistons,NBA,30,7.8,.377,.800,1.1,0.6,0.3,0.0,2.1,10.5,0.2,.048,-3.6,-0.1,,320000,"Artesia in Lakewood, California"
-obannch01,1998-99,23,Detroit Pistons,NBA,18,9.2,.429,1.000,1.9,0.7,0.1,0.2,3.1,13.3,0.3,.100,-1.6,0.0,,320000,"Artesia in Lakewood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charles O'Bannon,/players/o/obannch01.html,1998,1999,"University of California, Los Angeles",false,"Artesia in Lakewood, California",-1.03,0.19,obannch01,1997-98,DET,10.5,0.2,.048,-3.6,-0.1,,NBA,320000,22,30,7.8,.377,.800,1.1,0.6,0.3,0.0,2.1,DET
+Charles O'Bannon,/players/o/obannch01.html,1998,1999,"University of California, Los Angeles",false,"Artesia in Lakewood, California",-0.33,0.23,obannch01,1998-99,DET,13.3,0.3,.100,-1.6,0.0,,NBA,320000,23,18,9.2,.429,1.000,1.9,0.7,0.1,0.2,3.1,DET

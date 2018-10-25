@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-berryri01,1988-89,24,Sacramento Kings,NBA,64,22.0,.450,.789,3.1,1.3,0.6,0.3,11.0,13.1,2.4,.083,-1.7,0.1,,300000,"Live Oak in Morgan Hill, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ricky Berry,/players/b/berryri01.html,1989,1989,"Oregon State University, San Jose State University",false,"Live Oak in Morgan Hill, California",-1.64,0.61,berryri01,1988-89,SAC,13.1,2.4,.083,-1.7,0.1,,NBA,300000,24,64,22.0,.450,.789,3.1,1.3,0.6,0.3,11.0,SAC

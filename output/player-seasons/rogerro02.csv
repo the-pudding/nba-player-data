@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rogerro02,1996-97,23,Vancouver Grizzlies,NBA,82,22.5,.505,.574,4.7,0.6,0.3,2.0,6.6,12.6,1.4,.037,-3.0,-0.5,,664000,"Linden in Linden, Alabama"
-rogerro02,1997-98,24,Boston Celtics,NBA,15,7.1,.360,.333,1.1,0.1,0.2,0.5,1.3,5.4,-0.1,-0.047,-7.1,-0.1,,763080,"Linden in Linden, Alabama"
-rogerro02,1997-98,24,Boston Celtics,NBA,9,4.1,.375,.500,0.6,0.1,0.2,0.4,0.8,8.2,0.0,.036,-3.3,0.0,,763080,"Linden in Linden, Alabama"
-rogerro02,1997-98,24,Boston Celtics,NBA,6,11.5,.353,.250,2.0,0.2,0.2,0.7,2.2,3.9,-0.1,-0.091,-9.0,-0.1,,763080,"Linden in Linden, Alabama"
-rogerro02,1998-99,25,Chicago Bulls,NBA,,,,,,,,,,,,,,,,862560,"Linden in Linden, Alabama"
-rogerro02,1999-00,26,Denver Nuggets,NBA,40,8.9,.398,.463,2.0,0.2,0.1,1.0,2.2,11.4,0.4,.048,-3.3,-0.1,,485000,"Linden in Linden, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roy Rogers,/players/r/rogerro02.html,1997,2000,University of Alabama,false,"Linden in Linden, Alabama",-2.38,-0.16,rogerro02,1996-97,VAN,12.6,1.4,.037,-3.0,-0.5,,NBA,664000,23,82,22.5,.505,.574,4.7,0.6,0.3,2.0,6.6,VAN
+Roy Rogers,/players/r/rogerro02.html,1997,2000,University of Alabama,false,"Linden in Linden, Alabama",-0.76,0.11,rogerro02,1997-98,TOT,5.4,-0.1,-0.047,-7.1,-0.1,,NBA,763080,24,15,7.1,.360,.333,1.1,0.1,0.2,0.5,1.3,"BOS,TOR"
+Roy Rogers,/players/r/rogerro02.html,1997,2000,University of Alabama,false,"Linden in Linden, Alabama",,,rogerro02,1998-99,Did Not Play (other pro league—Italy),,,,,,,NBA,862560,25,,,,,,,,,,Did Not Play (other pro league—Italy)
+Roy Rogers,/players/r/rogerro02.html,1997,2000,University of Alabama,false,"Linden in Linden, Alabama",-1.09,0.27,rogerro02,1999-00,DEN,11.4,0.4,.048,-3.3,-0.1,,NBA,485000,26,40,8.9,.398,.463,2.0,0.2,0.1,1.0,2.2,DEN

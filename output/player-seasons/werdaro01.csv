@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-werdaro01,1992-93,22,Denver Nuggets,NBA,28,5.3,.305,.548,1.9,0.3,0.2,0.1,1.9,7.7,-0.1,-0.020,-7.0,-0.2,,145000,"Archbishop Molloy in Jamaica, New York"
-werdaro01,1993-94,23,Denver Nuggets,NBA,,,,,,,,,,,,,,,,250000,"Archbishop Molloy in Jamaica, New York"
-werdaro01,1994-95,24,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,,,,,,,,,,"Archbishop Molloy in Jamaica, New York"
-werdaro01,1995-96,25,New Jersey Nets,NBA,13,7.2,.500,.538,1.8,0.2,0.4,0.2,3.0,13.6,0.2,.084,-4.3,-0.1,,225000,"Archbishop Molloy in Jamaica, New York"
-werdaro01,1996-97,26,New Jersey Nets,NBA,6,5.2,.429,1.000,1.0,0.0,0.3,0.2,1.5,8.7,0.0,.077,-6.2,0.0,,166000,"Archbishop Molloy in Jamaica, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Robert Werdann,/players/w/werdaro01.html,1993,1997,St. John's University,false,"Archbishop Molloy in Jamaica, New York",-0.56,0.17,werdaro01,1992-93,DEN,7.7,-0.1,-0.020,-7.0,-0.2,,NBA,145000,22,28,5.3,.305,.548,1.9,0.3,0.2,0.1,1.9,DEN
+Robert Werdann,/players/w/werdaro01.html,1993,1997,St. John's University,false,"Archbishop Molloy in Jamaica, New York",,,werdaro01,1993-94,"Did Not Play (other pro league—CBA, USBL)",,,,,,,NBA,250000,23,,,,,,,,,,"Did Not Play (other pro league—CBA, USBL)"
+Robert Werdann,/players/w/werdaro01.html,1993,1997,St. John's University,false,"Archbishop Molloy in Jamaica, New York",,,werdaro01,1994-95,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,24,,,,,,,,,,"Did Not Play (other pro league—CBA, USBL)"
+Robert Werdann,/players/w/werdaro01.html,1993,1997,St. John's University,false,"Archbishop Molloy in Jamaica, New York",+0.15,0.15,werdaro01,1995-96,NJN,13.6,0.2,.084,-4.3,-0.1,,NBA,225000,25,13,7.2,.500,.538,1.8,0.2,0.4,0.2,3.0,NJN
+Robert Werdann,/players/w/werdaro01.html,1993,1997,St. John's University,false,"Archbishop Molloy in Jamaica, New York",-0.12,0.05,werdaro01,1996-97,NJN,8.7,0.0,.077,-6.2,0.0,,NBA,166000,26,6,5.2,.429,1.000,1.0,0.0,0.3,0.2,1.5,NJN

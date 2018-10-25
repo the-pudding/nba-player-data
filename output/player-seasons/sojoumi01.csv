@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-sojoumi01,1976-77,23,ATL,NBA,51,10.8,.468,.719,2.9,0.4,0.3,0.2,4.5,13.5,0.9,.079,-4.0,-0.3,,"Germantown in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Sojourner,/players/s/sojoumi01.html,1975,1977,University of Utah,false,"Germantown in Philadelphia, Pennsylvania",-1.63,0.19,sojoumi01,1976-77,ATL,13.5,0.9,.079,-4.0,-0.3,,23,NBA,51,10.8,.468,.719,2.9,0.4,0.3,0.2,4.5,ATL

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-forbebr01,2016-17,23,San Antonio Spurs,NBA,36,7.9,.364,.833,0.6,0.6,0.0,0.0,2.6,5.9,0.1,.014,-6.0,-0.3,,543471,"Sexton in Lansing, Michigan"
-forbebr01,2017-18,24,San Antonio Spurs,NBA,80,19.0,.421,.667,1.4,1.0,0.4,0.0,6.9,9.1,2.1,.067,-3.1,-0.4,,1312611,"Sexton in Lansing, Michigan"
-forbebr01,2018-19,25,SAS,NBA,4,31.3,.447,1.000,2.5,2.5,0.8,0.0,14.8,13.9,0.2,.063,-1.2,0.0,,,"Sexton in Lansing, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bryn Forbes,/players/f/forbebr01.html,2017,2019,Michigan State University,true,"Sexton in Lansing, Michigan",-3.89,-0.39,forbebr01,2016-17,SAS,5.9,0.1,.014,-6.0,-0.3,,NBA,543471,23,36,7.9,.364,.833,0.6,0.6,0.0,0.0,2.6,SAS
+Bryn Forbes,/players/f/forbebr01.html,2017,2019,Michigan State University,true,"Sexton in Lansing, Michigan",-1.50,0.83,forbebr01,2017-18,SAS,9.1,2.1,.067,-3.1,-0.4,,NBA,1312611,24,80,19.0,.421,.667,1.4,1.0,0.4,0.0,6.9,SAS
+Bryn Forbes,/players/f/forbebr01.html,2017,2019,Michigan State University,true,"Sexton in Lansing, Michigan",,,forbebr01,2018-19,SAS,13.9,0.2,.063,-1.2,0.0,,NBA,,25,4,31.3,.447,1.000,2.5,2.5,0.8,0.0,14.8,SAS

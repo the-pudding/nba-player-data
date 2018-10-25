@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ndongbo01,2005-06,28,Los Angeles Clippers,NBA,23,6.6,.415,.667,1.6,0.3,0.1,0.2,2.2,11.0,0.2,.058,-4.3,-0.1,,398762,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Boniface N'Dong,/players/n/ndongbo01.html,2006,2006,,false,,-0.96,0.14,ndongbo01,2005-06,LAC,11.0,0.2,.058,-4.3,-0.1,,NBA,398762,28,23,6.6,.415,.667,1.6,0.3,0.1,0.2,2.2,LAC

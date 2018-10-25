@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sowpa01,2004-05,23,Toronto Raptors,NBA,27,9.4,.397,.593,2.1,0.1,0.4,0.1,2.3,7.8,0.2,.029,-6.3,-0.3,,385277,"Jean Di La Fontaine in Dakar, Senegal"
-sowpa01,2005-06,24,Toronto Raptors,NBA,42,14.0,.431,.719,3.5,0.2,0.5,0.5,3.5,9.5,0.6,.045,-4.3,-0.3,,641748,"Jean Di La Fontaine in Dakar, Senegal"
-sowpa01,2006-07,25,Toronto Raptors,NBA,7,4.9,.333,.667,1.6,0.3,0.1,0.1,1.4,16.4,0.1,.128,-0.5,0.0,,744551,"Jean Di La Fontaine in Dakar, Senegal"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pape Sow,/players/s/sowpa01.html,2005,2007,"California State University, Fullerton",false,"Jean Di La Fontaine in Dakar, Senegal",-1.02,0.22,sowpa01,2004-05,TOR,7.8,0.2,.029,-6.3,-0.3,,NBA,385277,23,27,9.4,.397,.593,2.1,0.1,0.4,0.1,2.3,TOR
+Pape Sow,/players/s/sowpa01.html,2005,2007,"California State University, Fullerton",false,"Jean Di La Fontaine in Dakar, Senegal",-2.16,0.06,sowpa01,2005-06,TOR,9.5,0.6,.045,-4.3,-0.3,,NBA,641748,24,42,14.0,.431,.719,3.5,0.2,0.5,0.5,3.5,TOR
+Pape Sow,/players/s/sowpa01.html,2005,2007,"California State University, Fullerton",false,"Jean Di La Fontaine in Dakar, Senegal",-0.39,0.04,sowpa01,2006-07,TOR,16.4,0.1,.128,-0.5,0.0,,NBA,744551,25,7,4.9,.333,.667,1.6,0.3,0.1,0.1,1.4,TOR

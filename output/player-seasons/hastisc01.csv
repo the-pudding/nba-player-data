@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hastisc01,1982-83,22,"NYK,ATL",NBA,31,4.5,.342,.550,1.3,0.1,0.2,0.0,1.2,6.4,0.1,.031,-6.3,-0.2,,"Independence in Independence, Kansas",
-hastisc01,1983-84,23,ATL,NBA,68,16.7,.468,.788,4.0,0.7,0.6,0.5,4.5,10.3,2.1,.090,-0.4,0.5,,"Independence in Independence, Kansas",
-hastisc01,1984-85,24,Atlanta Hawks,NBA,64,12.9,.473,.778,2.5,0.7,0.4,0.4,3.8,9.7,1.3,.075,-1.3,0.1,,"Independence in Independence, Kansas",160000
-hastisc01,1985-86,25,Atlanta Hawks,NBA,62,10.5,.409,.857,2.0,0.4,0.2,0.1,3.1,7.5,0.8,.063,-2.9,-0.1,,"Independence in Independence, Kansas",180000
-hastisc01,1986-87,26,ATL,NBA,40,6.4,.338,.793,1.8,0.3,0.3,0.2,1.8,9.8,0.4,.081,-1.8,0.0,,"Independence in Independence, Kansas",
-hastisc01,1987-88,27,Atlanta Hawks,NBA,55,7.3,.488,.926,1.8,0.3,0.1,0.2,2.0,10.8,1.0,.125,-0.8,0.1,,"Independence in Independence, Kansas",210000
-hastisc01,1988-89,28,Miami Heat,NBA,75,16.1,.436,.850,3.1,0.8,0.4,0.6,5.1,9.4,1.5,.061,-3.2,-0.3,,"Independence in Independence, Kansas",220000
-hastisc01,1989-90,29,DET,NBA,40,4.2,.303,.864,0.8,0.2,0.1,0.1,1.1,7.0,0.3,.101,-2.8,0.0,,"Independence in Independence, Kansas",
-hastisc01,1990-91,30,Detroit Pistons,NBA,27,4.2,.571,1.000,1.0,0.3,0.0,0.0,1.8,15.8,0.5,.216,1.3,0.1,,"Independence in Independence, Kansas",450000
-hastisc01,1991-92,31,Denver Nuggets,NBA,40,10.5,.340,.857,2.5,0.7,0.3,0.4,1.5,7.1,0.3,.040,-3.2,-0.1,,"Independence in Independence, Kansas",500000
-hastisc01,1992-93,32,Denver Nuggets,NBA,76,8.8,.509,.727,1.8,0.4,0.2,0.1,2.1,8.3,1.3,.091,-2.8,-0.1,,"Independence in Independence, Kansas",600000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",+0.23,0.24,hastisc01,1982-83,TOT,6.4,0.1,.031,-6.3,-0.2,,22,NBA,31,4.5,.342,.550,1.3,0.1,0.2,0.0,1.2,"NYK,ATL",
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-1.48,0.60,hastisc01,1983-84,ATL,10.3,2.1,.090,-0.4,0.5,,23,NBA,68,16.7,.468,.788,4.0,0.7,0.6,0.5,4.5,ATL,
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-1.99,0.15,hastisc01,1984-85,ATL,9.7,1.3,.075,-1.3,0.1,,24,NBA,64,12.9,.473,.778,2.5,0.7,0.4,0.4,3.8,ATL,160000
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-2.48,-0.10,hastisc01,1985-86,ATL,7.5,0.8,.063,-2.9,-0.1,,25,NBA,62,10.5,.409,.857,2.0,0.4,0.2,0.1,3.1,ATL,180000
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-0.35,0.36,hastisc01,1986-87,ATL,9.8,0.4,.081,-1.8,0.0,,26,NBA,40,6.4,.338,.793,1.8,0.3,0.3,0.2,1.8,ATL,
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-1.26,0.35,hastisc01,1987-88,ATL,10.8,1.0,.125,-0.8,0.1,,27,NBA,55,7.3,.488,.926,1.8,0.3,0.1,0.2,2.0,ATL,210000
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-2.39,-0.17,hastisc01,1988-89,MIA,9.4,1.5,.061,-3.2,-0.3,,28,NBA,75,16.1,.436,.850,3.1,0.8,0.4,0.6,5.1,MIA,220000
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-0.14,0.26,hastisc01,1989-90,DET,7.0,0.3,.101,-2.8,0.0,,29,NBA,40,4.2,.303,.864,0.8,0.2,0.1,0.1,1.1,DET,
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",+0.25,0.25,hastisc01,1990-91,DET,15.8,0.5,.216,1.3,0.1,,30,NBA,27,4.2,.571,1.000,1.0,0.3,0.0,0.0,1.8,DET,450000
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-2.13,0.02,hastisc01,1991-92,DEN,7.1,0.3,.040,-3.2,-0.1,,31,NBA,40,10.5,.340,.857,2.5,0.7,0.3,0.4,1.5,DEN,500000
+Scott Hastings,/players/h/hastisc01.html,1983,1993,University of Arkansas,false,"Independence in Independence, Kansas",-2.42,-0.09,hastisc01,1992-93,DEN,8.3,1.3,.091,-2.8,-0.1,,32,NBA,76,8.8,.509,.727,1.8,0.4,0.2,0.1,2.1,DEN,600000

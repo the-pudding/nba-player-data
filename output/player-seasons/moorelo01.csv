@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-moorelo01,1980-81,23,NJN,NBA,71,19.8,.444,.750,2.4,3.2,0.9,0.2,7.0,11.1,1.1,.037,-2.6,-0.2,,"Mount Vernon in Mount Vernon, New York"
-moorelo01,1981-82,24,CLE,NBA,4,17.5,.500,.750,1.0,3.8,1.5,0.3,11.3,21.5,0.2,.152,2.0,0.1,,"Mount Vernon in Mount Vernon, New York"
-moorelo01,1982-83,25,SDC,NBA,37,17.4,.426,.750,1.5,2.0,0.6,0.0,5.7,8.8,0.2,.017,-5.0,-0.5,,"Mount Vernon in Mount Vernon, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lowes Moore,/players/m/moorelo01.html,1981,1983,West Virginia University,false,"Mount Vernon in Mount Vernon, New York",-1.74,0.45,moorelo01,1980-81,NJN,11.1,1.1,.037,-2.6,-0.2,,23,NBA,71,19.8,.444,.750,2.4,3.2,0.9,0.2,7.0,NJN
+Lowes Moore,/players/m/moorelo01.html,1981,1983,West Virginia University,false,"Mount Vernon in Mount Vernon, New York",-0.13,0.10,moorelo01,1981-82,CLE,21.5,0.2,.152,2.0,0.1,,24,NBA,4,17.5,.500,.750,1.0,3.8,1.5,0.3,11.3,CLE
+Lowes Moore,/players/m/moorelo01.html,1981,1983,West Virginia University,false,"Mount Vernon in Mount Vernon, New York",-3.06,-0.34,moorelo01,1982-83,SDC,8.8,0.2,.017,-5.0,-0.5,,25,NBA,37,17.4,.426,.750,1.5,2.0,0.6,0.0,5.7,SDC

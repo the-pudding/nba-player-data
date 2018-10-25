@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-brokaga01,1976-77,23,"MIL,CLE",NBA,80,18.6,.429,.744,1.5,2.9,0.5,0.5,8.1,13.5,1.6,.052,-2.6,-0.2,,"New Brunswick in New Brunswick, New Jersey"
-brokaga01,1977-78,24,BUF,NBA,13,10.0,.419,.750,0.9,1.5,0.2,0.4,4.2,13.3,0.1,.053,-4.6,-0.1,,"New Brunswick in New Brunswick, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gary Brokaw,/players/b/brokaga01.html,1975,1978,University of Notre Dame,false,"New Brunswick in New Brunswick, New Jersey",-0.93,1.32,brokaga01,1976-77,TOT,13.5,1.6,.052,-2.6,-0.2,,23,NBA,80,18.6,.429,.744,1.5,2.9,0.5,0.5,8.1,"MIL,CLE"
+Gary Brokaw,/players/b/brokaga01.html,1975,1978,University of Notre Dame,false,"New Brunswick in New Brunswick, New Jersey",+0.33,0.23,brokaga01,1977-78,BUF,13.3,0.1,.053,-4.6,-0.1,,24,NBA,13,10.0,.419,.750,0.9,1.5,0.2,0.4,4.2,BUF

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-upshake01,1988-89,26,"MIA,BOS",NBA,32,19.3,.467,.692,1.5,3.7,0.8,0.1,6.8,10.3,0.3,.021,-4.4,-0.4,,"Marshall in Chicago, Illinois",
-upshake01,1989-90,27,"BOS,DAL,GSW",NBA,40,9.7,.438,.757,1.0,1.4,0.7,0.0,4.0,11.9,0.3,.036,-3.4,-0.1,,"Marshall in Chicago, Illinois",
-upshake01,1990-91,28,Dallas Mavericks,NBA,48,10.7,.450,.859,1.1,1.8,0.6,0.1,5.6,17.2,1.0,.094,-0.6,0.2,,"Marshall in Chicago, Illinois",30000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Kelvin Upshaw,/players/u/upshake01.html,1989,1991,University of Utah,false,"Marshall in Chicago, Illinois",-2.62,-0.16,upshake01,1988-89,TOT,10.3,0.3,.021,-4.4,-0.4,,26,NBA,32,19.3,.467,.692,1.5,3.7,0.8,0.1,6.8,"MIA,BOS",
+Kelvin Upshaw,/players/u/upshake01.html,1989,1991,University of Utah,false,"Marshall in Chicago, Illinois",-1.37,0.24,upshake01,1989-90,TOT,11.9,0.3,.036,-3.4,-0.1,,27,NBA,40,9.7,.438,.757,1.0,1.4,0.7,0.0,4.0,"BOS,DAL,GSW",
+Kelvin Upshaw,/players/u/upshake01.html,1989,1991,University of Utah,false,"Marshall in Chicago, Illinois",-0.28,0.70,upshake01,1990-91,DAL,17.2,1.0,.094,-0.6,0.2,,28,NBA,48,10.7,.450,.859,1.1,1.8,0.6,0.1,5.6,DAL,30000

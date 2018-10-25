@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-burroju01,1995-96,23,Boston Celtics,NBA,61,8.1,.376,.656,1.8,0.2,0.2,0.2,3.1,9.0,-0.2,-0.018,-7.9,-0.7,,300000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Junior Burrough,/players/b/burroju01.html,1996,1996,University of Virginia,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-3.26,-0.33,burroju01,1995-96,BOS,9.0,-0.2,-0.018,-7.9,-0.7,,NBA,300000,23,61,8.1,.376,.656,1.8,0.2,0.2,0.2,3.1,BOS

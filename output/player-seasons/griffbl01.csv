@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-griffbl01,2010-11,21,Los Angeles Clippers,NBA,82,38.0,.506,.642,12.1,3.8,0.8,0.5,22.5,21.9,9.8,.152,3.2,4.0,,5357280,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2011-12,22,Los Angeles Clippers,NBA,66,36.2,.549,.521,10.9,3.2,0.8,0.7,20.7,23.4,9.2,.185,4.1,3.7,All-NBA (2nd),5731080,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2012-13,23,Los Angeles Clippers,NBA,80,32.5,.538,.660,8.3,3.7,1.2,0.6,18.0,22.4,10.6,.196,4.8,4.5,All-NBA (2nd),7226892,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2013-14,24,Los Angeles Clippers,NBA,80,35.8,.528,.715,9.5,3.9,1.2,0.6,24.1,23.9,12.2,.205,4.6,4.8,All-NBA (2nd),16441500,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2014-15,25,Los Angeles Clippers,NBA,67,35.2,.502,.728,7.6,5.3,0.9,0.5,21.9,22.8,9.0,.183,4.1,3.6,All-NBA (3rd),17674612,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2015-16,26,Los Angeles Clippers,NBA,35,33.4,.499,.727,8.4,4.9,0.8,0.5,21.4,22.1,3.8,.156,3.3,1.6,,18907725,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2016-17,27,Los Angeles Clippers,NBA,61,34.0,.493,.760,8.1,4.9,0.9,0.4,21.6,22.6,7.7,.179,4.4,3.4,,20140838,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2017-18,28,Detroit Pistons,NBA,58,34.0,.438,.785,7.4,5.8,0.7,0.3,21.4,19.6,4.9,.120,2.8,2.4,,29727900,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2017-18,28,Detroit Pistons,NBA,33,34.5,.441,.785,7.9,5.4,0.9,0.3,22.6,20.4,3.0,.126,3.1,1.5,,29727900,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2017-18,28,Detroit Pistons,NBA,25,33.2,.433,.784,6.6,6.2,0.4,0.4,19.8,18.5,1.9,.113,2.3,0.9,,29727900,"Oklahoma Christian School in Edmond, Oklahoma"
-griffbl01,2018-19,29,DET,NBA,3,37.7,.533,.643,11.3,5.7,0.0,0.7,36.3,36.0,0.9,.363,11.4,0.4,,,"Oklahoma Christian School in Edmond, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+0.84,6.56,griffbl01,2010-11,LAC,21.9,9.8,.152,3.2,4.0,,NBA,5357280,21,82,38.0,.506,.642,12.1,3.8,0.8,0.5,22.5,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+4.27,12.21,griffbl01,2011-12,LAC,23.4,9.2,.185,4.1,3.7,All-NBA (2nd),NBA,5731080,22,66,36.2,.549,.521,10.9,3.2,0.8,0.7,20.7,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+2.60,9.02,griffbl01,2012-13,LAC,22.4,10.6,.196,4.8,4.5,All-NBA (2nd),NBA,7226892,23,80,32.5,.538,.660,8.3,3.7,1.2,0.6,18.0,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+4.38,14.66,griffbl01,2013-14,LAC,23.9,12.2,.205,4.6,4.8,All-NBA (2nd),NBA,16441500,24,80,35.8,.528,.715,9.5,3.9,1.2,0.6,24.1,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+2.76,9.78,griffbl01,2014-15,LAC,22.8,9.0,.183,4.1,3.6,All-NBA (3rd),NBA,17674612,25,67,35.2,.502,.728,7.6,5.3,0.9,0.5,21.9,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+0.97,2.86,griffbl01,2015-16,LAC,22.1,3.8,.156,3.3,1.6,,NBA,18907725,26,35,33.4,.499,.727,8.4,4.9,0.8,0.5,21.4,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+4.72,9.88,griffbl01,2016-17,LAC,22.6,7.7,.179,4.4,3.4,,NBA,20140838,27,61,34.0,.493,.760,8.1,4.9,0.9,0.4,21.6,LAC
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",+1.20,4.62,griffbl01,2017-18,TOT,19.6,4.9,.120,2.8,2.4,,NBA,29727900,28,58,34.0,.438,.785,7.4,5.8,0.7,0.3,21.4,"LAC,DET"
+Blake Griffin,/players/g/griffbl01.html,2011,2019,University of Oklahoma,true,"Oklahoma Christian School in Edmond, Oklahoma",,,griffbl01,2018-19,DET,36.0,0.9,.363,11.4,0.4,,NBA,,29,3,37.7,.533,.643,11.3,5.7,0.0,0.7,36.3,DET

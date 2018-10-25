@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hubbaph01,1979-80,23,DET,NBA,64,18.6,.466,.750,5.0,1.1,0.8,0.2,9.1,13.7,1.6,.064,-3.3,-0.4,,"McKinley in Canton, Ohio",
-hubbaph01,1980-81,24,DET,NBA,80,28.6,.492,.690,7.3,1.9,1.0,0.3,14.5,15.4,4.5,.094,-0.2,1.0,,"McKinley in Canton, Ohio",
-hubbaph01,1981-82,25,"DET,CLE",NBA,83,22.2,.490,.682,5.7,1.1,0.8,0.2,10.2,13.4,2.6,.069,-2.0,0.0,,"McKinley in Canton, Ohio",
-hubbaph01,1982-83,26,CLE,NBA,82,23.8,.482,.689,5.7,1.1,1.1,0.1,9.5,13.9,3.4,.084,-0.1,0.9,,"McKinley in Canton, Ohio",
-hubbaph01,1983-84,27,CLE,NBA,80,22.5,.511,.739,4.8,1.1,0.9,0.1,10.8,15.9,4.6,.124,0.4,1.1,,"McKinley in Canton, Ohio",
-hubbaph01,1984-85,28,Cleveland Cavaliers,NBA,76,29.6,.505,.751,6.3,1.5,1.1,0.1,15.8,16.0,5.7,.121,1.3,1.9,,"McKinley in Canton, Ohio",200000
-hubbaph01,1985-86,29,Cleveland Cavaliers,NBA,23,27.8,.470,.679,5.2,1.3,0.9,0.1,11.4,9.7,0.2,.015,-2.6,-0.1,,"McKinley in Canton, Ohio",225000
-hubbaph01,1986-87,30,CLE,NBA,68,30.6,.531,.596,5.7,2.0,1.0,0.1,11.8,11.8,3.3,.075,-0.2,0.9,,"McKinley in Canton, Ohio",
-hubbaph01,1987-88,31,Cleveland Cavaliers,NBA,78,20.9,.489,.749,3.6,1.0,0.6,0.1,8.4,11.8,2.7,.081,-2.0,0.0,,"McKinley in Canton, Ohio",450060
-hubbaph01,1988-89,32,Cleveland Cavaliers,NBA,31,6.2,.444,.680,1.3,0.4,0.2,0.0,2.4,11.7,0.4,.096,-4.0,-0.1,,"McKinley in Canton, Ohio",450000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-2.03,0.17,hubbaph01,1979-80,DET,13.7,1.6,.064,-3.3,-0.4,,23,NBA,64,18.6,.466,.750,5.0,1.1,0.8,0.2,9.1,DET,
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-1.21,1.56,hubbaph01,1980-81,DET,15.4,4.5,.094,-0.2,1.0,,24,NBA,80,28.6,.492,.690,7.3,1.9,1.0,0.3,14.5,DET,
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-2.32,-0.07,hubbaph01,1981-82,TOT,13.4,2.6,.069,-2.0,0.0,,25,NBA,83,22.2,.490,.682,5.7,1.1,0.8,0.2,10.2,"DET,CLE",
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-1.51,0.93,hubbaph01,1982-83,CLE,13.9,3.4,.084,-0.1,0.9,,26,NBA,82,23.8,.482,.689,5.7,1.1,1.1,0.1,9.5,CLE,
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-0.77,1.83,hubbaph01,1983-84,CLE,15.9,4.6,.124,0.4,1.1,,27,NBA,80,22.5,.511,.739,4.8,1.1,0.9,0.1,10.8,CLE,
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-0.53,2.78,hubbaph01,1984-85,CLE,16.0,5.7,.121,1.3,1.9,,28,NBA,76,29.6,.505,.751,6.3,1.5,1.1,0.1,15.8,CLE,200000
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-2.90,-0.28,hubbaph01,1985-86,CLE,9.7,0.2,.015,-2.6,-0.1,,29,NBA,23,27.8,.470,.679,5.2,1.3,0.9,0.1,11.4,CLE,225000
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-1.93,0.43,hubbaph01,1986-87,CLE,11.8,3.3,.075,-0.2,0.9,,30,NBA,68,30.6,.531,.596,5.7,2.0,1.0,0.1,11.8,CLE,
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-2.01,0.28,hubbaph01,1987-88,CLE,11.8,2.7,.081,-2.0,0.0,,31,NBA,78,20.9,.489,.749,3.6,1.0,0.6,0.1,8.4,CLE,450060
+Phil Hubbard,/players/h/hubbaph01.html,1980,1989,University of Michigan,false,"McKinley in Canton, Ohio",-0.95,0.17,hubbaph01,1988-89,CLE,11.7,0.4,.096,-4.0,-0.1,,32,NBA,31,6.2,.444,.680,1.3,0.4,0.2,0.0,2.4,CLE,450000

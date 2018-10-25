@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-obryapa01,2006-07,20,Golden State Warriors,NBA,16,7.4,.313,.647,1.3,0.6,0.4,0.5,1.9,7.3,0.0,-0.003,-4.1,-0.1,,2061720,"Blaine in Blaine, Minnesota"
-obryapa01,2007-08,21,Golden State Warriors,NBA,24,4.1,.552,.600,1.2,0.2,0.2,0.4,1.5,14.0,0.2,.105,-1.0,0.0,,2216400,"Blaine in Blaine, Minnesota"
-obryapa01,2008-09,22,Toronto Raptors,NBA,39,6.5,.536,.550,1.7,0.3,0.2,0.5,2.6,11.8,0.3,.056,-3.1,-0.1,,1500000,"Blaine in Blaine, Minnesota"
-obryapa01,2008-09,22,Toronto Raptors,NBA,26,4.2,.516,.667,1.3,0.3,0.1,0.3,1.5,9.5,0.1,.025,-3.0,0.0,,1500000,"Blaine in Blaine, Minnesota"
-obryapa01,2008-09,22,Toronto Raptors,NBA,13,11.3,.547,.375,2.5,0.2,0.2,0.8,4.7,13.5,0.2,.079,-3.2,0.0,,1500000,"Blaine in Blaine, Minnesota"
-obryapa01,2009-10,23,Toronto Raptors,NBA,11,4.6,.533,.500,1.0,0.1,0.2,0.4,1.7,9.9,0.0,-0.009,-5.2,0.0,,1620000,"Blaine in Blaine, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Patrick O'Bryant,/players/o/obryapa01.html,2007,2010,Bradley University,false,"Blaine in Blaine, Minnesota",-0.58,0.14,obryapa01,2006-07,GSW,7.3,0.0,-0.003,-4.1,-0.1,,NBA,2061720,20,16,7.4,.313,.647,1.3,0.6,0.4,0.5,1.9,GSW
+Patrick O'Bryant,/players/o/obryapa01.html,2007,2010,Bradley University,false,"Blaine in Blaine, Minnesota",-1.51,0.06,obryapa01,2007-08,GSW,14.0,0.2,.105,-1.0,0.0,,NBA,2216400,21,24,4.1,.552,.600,1.2,0.2,0.2,0.4,1.5,GSW
+Patrick O'Bryant,/players/o/obryapa01.html,2007,2010,Bradley University,false,"Blaine in Blaine, Minnesota",-1.01,0.21,obryapa01,2008-09,TOT,11.8,0.3,.056,-3.1,-0.1,,NBA,1500000,22,39,6.5,.536,.550,1.7,0.3,0.2,0.5,2.6,"BOS,TOR"
+Patrick O'Bryant,/players/o/obryapa01.html,2007,2010,Bradley University,false,"Blaine in Blaine, Minnesota",-0.20,0.07,obryapa01,2009-10,TOR,9.9,0.0,-0.009,-5.2,0.0,,NBA,1620000,23,11,4.6,.533,.500,1.0,0.1,0.2,0.4,1.7,TOR

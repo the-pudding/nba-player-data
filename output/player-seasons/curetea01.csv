@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-curetea01,1980-81,23,PHI,NBA,52,10.2,.454,.516,3.0,0.5,0.4,0.4,4.2,13.8,1.2,.109,-2.0,0.0,,"Finney in Detroit, Michigan",
-curetea01,1981-82,24,PHI,NBA,66,14.5,.487,.543,4.1,0.5,0.5,0.4,5.3,12.8,2.1,.103,-2.4,-0.1,,"Finney in Detroit, Michigan",
-curetea01,1982-83,25,PHI,NBA,73,13.5,.419,.493,3.7,0.6,0.5,0.3,3.4,8.1,0.8,.041,-2.4,-0.1,,"Finney in Detroit, Michigan",
-curetea01,1983-84,26,DET,NBA,73,12.4,.458,.525,3.9,0.5,0.3,0.4,2.6,8.6,1.0,.051,-2.9,-0.2,,"Finney in Detroit, Michigan",
-curetea01,1984-85,27,Detroit Pistons,NBA,81,20.3,.484,.569,5.2,1.0,0.7,0.5,6.1,10.2,2.0,.060,-0.6,0.6,,"Finney in Detroit, Michigan",200000
-curetea01,1985-86,28,Detroit Pistons,NBA,80,25.2,.505,.555,6.3,1.7,0.7,0.7,8.6,11.7,2.6,.061,0.2,1.1,,"Finney in Detroit, Michigan",210000
-curetea01,1986-87,29,"CHI,LAC",NBA,78,25.3,.476,.539,5.8,1.6,0.4,0.7,7.3,11.3,2.7,.065,-1.1,0.4,,"Finney in Detroit, Michigan",
-curetea01,1987-88,30,Los Angeles Clippers,NBA,69,16.3,.429,.524,3.9,0.9,0.5,0.5,4.3,9.2,0.7,.029,-3.3,-0.4,,"Finney in Detroit, Michigan",265000
-curetea01,1988-89,31,Charlotte Hornets,NBA,82,25.0,.501,.537,6.0,1.6,0.6,0.7,6.5,10.1,1.5,.035,-0.5,0.8,,"Finney in Detroit, Michigan",180000
-curetea01,1989-90,32,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Finney in Detroit, Michigan",
-curetea01,1990-91,33,CHH,NBA,9,17.7,.333,.333,4.0,0.3,0.0,0.3,1.9,2.4,-0.1,-0.041,-8.1,-0.2,,"Finney in Detroit, Michigan",
-curetea01,1991-92,34,Did Not Play,,,,,,,,,,,,,,,,,"Finney in Detroit, Michigan",
-curetea01,1992-93,35,Did Not Play,,,,,,,,,,,,,,,,,"Finney in Detroit, Michigan",
-curetea01,1993-94,36,HOU,NBA,2,15.0,.250,.000,6.0,0.0,0.0,0.0,2.0,2.2,0.0,-0.060,-17.3,-0.1,,"Finney in Detroit, Michigan",
-curetea01,1994-95,37,Did Not Play,,,,,,,,,,,,,,,,,"Finney in Detroit, Michigan",
-curetea01,1995-96,38,Did Not Play (other pro league—Argentina),,,,,,,,,,,,,,,,,"Finney in Detroit, Michigan",
-curetea01,1996-97,39,Toronto Raptors,NBA,9,5.1,.375,.333,1.0,0.4,0.0,0.0,0.8,4.9,0.0,.026,-6.4,-0.1,,"Finney in Detroit, Michigan",205200
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",+0.10,0.91,curetea01,1980-81,PHI,13.8,1.2,.109,-2.0,0.0,,23,NBA,52,10.2,.454,.516,3.0,0.5,0.4,0.4,4.2,PHI,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-1.17,0.76,curetea01,1981-82,PHI,12.8,2.1,.103,-2.4,-0.1,,24,NBA,66,14.5,.487,.543,4.1,0.5,0.5,0.4,5.3,PHI,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-2.26,-0.05,curetea01,1982-83,PHI,8.1,0.8,.041,-2.4,-0.1,,25,NBA,73,13.5,.419,.493,3.7,0.6,0.5,0.3,3.4,PHI,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-1.86,0.29,curetea01,1983-84,DET,8.6,1.0,.051,-2.9,-0.2,,26,NBA,73,12.4,.458,.525,3.9,0.5,0.3,0.4,2.6,DET,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-1.66,0.74,curetea01,1984-85,DET,10.2,2.0,.060,-0.6,0.6,,27,NBA,81,20.3,.484,.569,5.2,1.0,0.7,0.5,6.1,DET,200000
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-1.48,1.16,curetea01,1985-86,DET,11.7,2.6,.061,0.2,1.1,,28,NBA,80,25.2,.505,.555,6.3,1.7,0.7,0.7,8.6,DET,210000
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-2.86,-0.76,curetea01,1986-87,TOT,11.3,2.7,.065,-1.1,0.4,,29,NBA,78,25.3,.476,.539,5.8,1.6,0.4,0.7,7.3,"CHI,LAC",
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-3.15,-0.77,curetea01,1987-88,LAC,9.2,0.7,.029,-3.3,-0.4,,30,NBA,69,16.3,.429,.524,3.9,0.9,0.5,0.5,4.3,LAC,265000
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-2.78,-0.66,curetea01,1988-89,CHH,10.1,1.5,.035,-0.5,0.8,,31,NBA,82,25.0,.501,.537,6.0,1.6,0.6,0.7,6.5,CHH,180000
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",,,curetea01,1989-90,Did Not Play (other pro league—Italy),,,,,,,32,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-1.26,0.11,curetea01,1990-91,CHH,2.4,-0.1,-0.041,-8.1,-0.2,,33,NBA,9,17.7,.333,.333,4.0,0.3,0.0,0.3,1.9,CHH,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",,,curetea01,1991-92,Did Not Play,,,,,,,34,,,,,,,,,,,Did Not Play,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",,,curetea01,1992-93,Did Not Play,,,,,,,35,,,,,,,,,,,Did Not Play,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-0.54,0.15,curetea01,1993-94,HOU,2.2,0.0,-0.060,-17.3,-0.1,,36,NBA,2,15.0,.250,.000,6.0,0.0,0.0,0.0,2.0,HOU,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",,,curetea01,1994-95,Did Not Play,,,,,,,37,,,,,,,,,,,Did Not Play,
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",,,curetea01,1995-96,Did Not Play (other pro league—Argentina),,,,,,,38,,,,,,,,,,,Did Not Play (other pro league—Argentina),
+Earl Cureton,/players/c/curetea01.html,1981,1997,"Robert Morris University (PA), University of Detroit Mercy",false,"Finney in Detroit, Michigan",-0.24,0.06,curetea01,1996-97,TOR,4.9,0.0,.026,-6.4,-0.1,,39,NBA,9,5.1,.375,.333,1.0,0.4,0.0,0.0,0.8,TOR,205200

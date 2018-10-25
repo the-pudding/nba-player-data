@@ -1,19 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-butleca01,2002-03,22,Miami Heat,NBA,78,36.6,.416,.824,5.1,2.7,1.8,0.4,15.4,15.1,5.1,.086,1.7,2.7,,1678800,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2003-04,23,Miami Heat,NBA,68,29.9,.380,.756,4.8,1.9,1.1,0.2,9.2,10.7,2.1,.050,-2.1,-0.1,,1804680,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2004-05,24,Los Angeles Lakers,NBA,77,35.7,.445,.862,5.8,1.9,1.4,0.3,15.5,15.8,5.3,.093,-0.2,1.2,,1930680,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2005-06,25,Washington Wizards,NBA,75,36.1,.455,.870,6.2,2.5,1.7,0.2,17.6,17.0,6.3,.112,0.8,1.9,,2461617,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2006-07,26,Washington Wizards,NBA,63,39.3,.463,.863,7.4,3.7,2.1,0.3,19.1,18.3,5.3,.103,1.9,2.5,,7438000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2007-08,27,Washington Wizards,NBA,58,39.9,.466,.901,6.7,4.9,2.2,0.3,20.3,20.7,7.2,.150,4.7,3.9,,8218990,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2008-09,28,Washington Wizards,NBA,67,38.6,.453,.858,6.2,4.3,1.6,0.3,20.8,18.8,4.5,.083,1.8,2.5,,9249980,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2009-10,29,Dallas Mavericks,NBA,74,37.6,.428,.838,6.2,2.1,1.6,0.3,16.3,13.7,3.5,.061,-0.6,1.0,,9780970,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2009-10,29,Dallas Mavericks,NBA,47,39.4,.422,.877,6.7,2.3,1.4,0.3,16.9,13.5,2.1,.054,-0.8,0.6,,9780970,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2009-10,29,Dallas Mavericks,NBA,27,34.4,.440,.760,5.4,1.8,1.8,0.3,15.2,14.2,1.4,.075,-0.3,0.4,,9780970,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2010-11,30,Dallas Mavericks,NBA,29,29.9,.450,.773,4.1,1.6,1.0,0.3,15.0,14.2,1.2,.067,-1.4,0.1,,10561960,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2011-12,31,Los Angeles Clippers,NBA,63,29.7,.407,.813,3.7,1.2,0.8,0.1,12.0,11.7,2.3,.059,-2.2,-0.1,,8000000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2012-13,32,Los Angeles Clippers,NBA,78,24.1,.424,.833,2.9,1.0,0.7,0.1,10.4,12.4,3.6,.091,-1.6,0.2,,8000000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2013-14,33,Phoenix Suns,NBA,56,25.3,.394,.840,4.1,1.5,0.8,0.3,10.5,12.2,1.8,.062,-2.1,0.0,,8000000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2013-14,33,Phoenix Suns,NBA,34,24.1,.387,.839,4.6,1.6,0.7,0.3,11.0,12.4,0.2,.014,-3.9,-0.4,,8000000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2013-14,33,Phoenix Suns,NBA,22,27.2,.409,.842,3.2,1.2,1.1,0.3,9.7,11.9,1.6,.127,0.2,0.3,,8000000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2014-15,34,Milwaukee Bucks,NBA,78,20.8,.407,.902,2.5,1.0,0.6,0.1,5.9,9.3,2.4,.070,-1.5,0.2,,4500000,"Maine Central Institute in Pittsfield, Maine"
-butleca01,2015-16,35,Sacramento Kings,NBA,17,10.4,.424,.833,1.3,0.6,0.5,0.1,3.7,11.3,0.3,.071,-2.6,0.0,,1499187,"Maine Central Institute in Pittsfield, Maine"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-1.89,0.51,butleca01,2002-03,MIA,15.1,5.1,.086,1.7,2.7,,NBA,1678800,22,78,36.6,.416,.824,5.1,2.7,1.8,0.4,15.4,MIA
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",+1.03,5.81,butleca01,2003-04,MIA,10.7,2.1,.050,-2.1,-0.1,,NBA,1804680,23,68,29.9,.380,.756,4.8,1.9,1.1,0.2,9.2,MIA
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-1.35,1.77,butleca01,2004-05,LAL,15.8,5.3,.093,-0.2,1.2,,NBA,1930680,24,77,35.7,.445,.862,5.8,1.9,1.4,0.3,15.5,LAL
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-0.68,3.22,butleca01,2005-06,WAS,17.0,6.3,.112,0.8,1.9,,NBA,2461617,25,75,36.1,.455,.870,6.2,2.5,1.7,0.2,17.6,WAS
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",+0.70,4.96,butleca01,2006-07,WAS,18.3,5.3,.103,1.9,2.5,,NBA,7438000,26,63,39.3,.463,.863,7.4,3.7,2.1,0.3,19.1,WAS
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",+2.85,8.74,butleca01,2007-08,WAS,20.7,7.2,.150,4.7,3.9,,NBA,8218990,27,58,39.9,.466,.901,6.7,4.9,2.2,0.3,20.3,WAS
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-1.25,1.87,butleca01,2008-09,WAS,18.8,4.5,.083,1.8,2.5,,NBA,9249980,28,67,38.6,.453,.858,6.2,4.3,1.6,0.3,20.8,WAS
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-0.65,3.29,butleca01,2009-10,TOT,13.7,3.5,.061,-0.6,1.0,,NBA,9780970,29,74,37.6,.428,.838,6.2,2.1,1.6,0.3,16.3,"WAS,DAL"
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",+0.42,1.59,butleca01,2010-11,DAL,14.2,1.2,.067,-1.4,0.1,,NBA,10561960,30,29,29.9,.450,.773,4.1,1.6,1.0,0.3,15.0,DAL
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-0.13,3.11,butleca01,2011-12,LAC,11.7,2.3,.059,-2.2,-0.1,,NBA,8000000,31,63,29.7,.407,.813,3.7,1.2,0.8,0.1,12.0,LAC
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",+0.27,3.47,butleca01,2012-13,LAC,12.4,3.6,.091,-1.6,0.2,,NBA,8000000,32,78,24.1,.424,.833,2.9,1.0,0.7,0.1,10.4,LAC
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-2.54,-0.31,butleca01,2013-14,TOT,12.2,1.8,.062,-2.1,0.0,,NBA,8000000,33,56,25.3,.394,.840,4.1,1.5,0.8,0.3,10.5,"MIL,OKC"
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-1.02,1.35,butleca01,2014-15,DET,9.3,2.4,.070,-1.5,0.2,,NBA,4500000,34,78,20.8,.407,.902,2.5,1.0,0.6,0.1,5.9,DET
+Caron Butler,/players/b/butleca01.html,2003,2016,University of Connecticut,false,"Maine Central Institute in Pittsfield, Maine",-1.15,0.13,butleca01,2015-16,SAC,11.3,0.3,.071,-2.6,0.0,,NBA,1499187,35,17,10.4,.424,.833,1.3,0.6,0.5,0.1,3.7,SAC

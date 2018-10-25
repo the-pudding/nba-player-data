@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willima04,2007-08,21,San Antonio Spurs,NBA,11,3.3,.250,,1.1,0.3,0.1,0.1,0.9,6.8,-0.1,-0.134,-8.9,-0.1,,12890,"Roosevelt in Seattle, Washington"
-willima04,2007-08,21,San Antonio Spurs,NBA,1,2.0,.000,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-0.364,-7.8,0.0,,12890,"Roosevelt in Seattle, Washington"
-willima04,2007-08,21,San Antonio Spurs,NBA,10,3.4,.263,,1.2,0.3,0.1,0.0,1.0,7.2,-0.1,-0.121,-9.0,-0.1,,12890,"Roosevelt in Seattle, Washington"
-willima04,2008-09,22,SAS,NBA,2,1.5,1.000,,0.0,0.0,0.0,0.0,2.0,53.0,0.0,.517,9.1,0.0,,,"Roosevelt in Seattle, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Williams,/players/w/willima04.html,2008,2009,University of Arizona,false,"Roosevelt in Seattle, Washington",-3.59,-0.71,willima04,2007-08,TOT,6.8,-0.1,-0.134,-8.9,-0.1,,NBA,12890,21,11,3.3,.250,,1.1,0.3,0.1,0.1,0.9,"SAS,LAC"
+Marcus Williams,/players/w/willima04.html,2008,2009,University of Arizona,false,"Roosevelt in Seattle, Washington",,,willima04,2008-09,SAS,53.0,0.0,.517,9.1,0.0,,NBA,,22,2,1.5,1.000,,0.0,0.0,0.0,0.0,2.0,SAS

@@ -1,11 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-clarkea01,2009-10,22,Phoenix Suns,NBA,51,7.5,.371,.722,1.2,0.4,0.1,0.3,2.7,8.5,-0.3,-0.033,-6.9,-0.5,,1766280,"Rahway in Rahway, New Jersey"
-clarkea01,2010-11,23,Orlando Magic,NBA,42,11.0,.430,.574,2.4,0.2,0.2,0.4,3.9,10.1,0.3,.030,-6.0,-0.5,,1898760,"Rahway in Rahway, New Jersey"
-clarkea01,2010-11,23,Orlando Magic,NBA,9,8.0,.387,.500,1.9,0.4,0.1,0.3,3.2,11.3,0.0,-0.010,-6.9,-0.1,,1898760,"Rahway in Rahway, New Jersey"
-clarkea01,2010-11,23,Orlando Magic,NBA,33,11.9,.441,.595,2.5,0.2,0.2,0.5,4.1,9.9,0.3,.038,-5.8,-0.4,,1898760,"Rahway in Rahway, New Jersey"
-clarkea01,2011-12,24,Orlando Magic,NBA,45,12.4,.367,.724,2.8,0.4,0.3,0.7,2.7,8.1,0.3,.027,-3.8,-0.3,,1160000,"Rahway in Rahway, New Jersey"
-clarkea01,2012-13,25,Los Angeles Lakers,NBA,59,23.1,.440,.697,5.5,1.1,0.6,0.7,7.3,12.4,2.3,.080,-0.9,0.4,,1240000,"Rahway in Rahway, New Jersey"
-clarkea01,2013-14,26,Cleveland Cavaliers,NBA,54,14.2,.372,.647,2.6,0.3,0.3,0.5,4.8,9.1,0.3,.020,-4.8,-0.5,,4250000,"Rahway in Rahway, New Jersey"
-clarkea01,2013-14,26,Cleveland Cavaliers,NBA,45,15.5,.375,.583,2.8,0.4,0.4,0.4,5.2,8.6,0.2,.014,-4.9,-0.5,,4250000,"Rahway in Rahway, New Jersey"
-clarkea01,2013-14,26,Cleveland Cavaliers,NBA,9,7.8,.333,.800,1.8,0.2,0.1,0.7,2.6,13.5,0.1,.080,-3.9,0.0,,4250000,"Rahway in Rahway, New Jersey"
-clarkea01,2014-15,27,Brooklyn Nets,NBA,10,9.3,.367,.250,2.3,0.3,0.3,0.4,2.7,6.7,-0.1,-0.037,-6.1,-0.1,,62552,"Rahway in Rahway, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Earl Clark,/players/c/clarkea01.html,2010,2015,University of Louisville,false,"Rahway in Rahway, New Jersey",-3.69,-0.35,clarkea01,2009-10,PHO,8.5,-0.3,-0.033,-6.9,-0.5,,NBA,1766280,22,51,7.5,.371,.722,1.2,0.4,0.1,0.3,2.7,PHO
+Earl Clark,/players/c/clarkea01.html,2010,2015,University of Louisville,false,"Rahway in Rahway, New Jersey",-2.47,-0.08,clarkea01,2010-11,TOT,10.1,0.3,.030,-6.0,-0.5,,NBA,1898760,23,42,11.0,.430,.574,2.4,0.2,0.2,0.4,3.9,"PHO,ORL"
+Earl Clark,/players/c/clarkea01.html,2010,2015,University of Louisville,false,"Rahway in Rahway, New Jersey",-4.21,-0.93,clarkea01,2011-12,ORL,8.1,0.3,.027,-3.8,-0.3,,NBA,1160000,24,45,12.4,.367,.724,2.8,0.4,0.3,0.7,2.7,ORL
+Earl Clark,/players/c/clarkea01.html,2010,2015,University of Louisville,false,"Rahway in Rahway, New Jersey",-2.91,-0.63,clarkea01,2012-13,LAL,12.4,2.3,.080,-0.9,0.4,,NBA,1240000,25,59,23.1,.440,.697,5.5,1.1,0.6,0.7,7.3,LAL
+Earl Clark,/players/c/clarkea01.html,2010,2015,University of Louisville,false,"Rahway in Rahway, New Jersey",-1.93,0.14,clarkea01,2013-14,TOT,9.1,0.3,.020,-4.8,-0.5,,NBA,4250000,26,54,14.2,.372,.647,2.6,0.3,0.3,0.5,4.8,"CLE,NYK"
+Earl Clark,/players/c/clarkea01.html,2010,2015,University of Louisville,false,"Rahway in Rahway, New Jersey",-0.37,0.13,clarkea01,2014-15,BRK,6.7,-0.1,-0.037,-6.1,-0.1,,NBA,62552,27,10,9.3,.367,.250,2.3,0.3,0.3,0.4,2.7,BRK

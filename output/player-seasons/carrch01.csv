@@ -1,11 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-carrch01,1995-96,21,Phoenix Suns,NBA,60,9.8,.415,.817,1.7,0.7,0.2,0.1,4.0,10.5,0.3,.021,-5.6,-0.5,,200000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1996-97,22,Minnesota Timberwolves,NBA,55,15.1,.461,.767,2.1,0.9,0.4,0.2,6.1,13.3,1.7,.096,-2.2,0.0,,750000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1997-98,23,Minnesota Timberwolves,NBA,51,22.8,.420,.848,3.0,1.7,0.3,0.2,9.9,11.6,1.1,.046,-3.2,-0.3,,900000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1998-99,24,New Jersey Nets,NBA,39,11.4,.371,.675,1.8,0.6,0.2,0.1,5.3,11.8,0.2,.026,-5.4,-0.4,,1000000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1998-99,24,New Jersey Nets,NBA,11,7.4,.346,.500,1.1,0.6,0.1,0.1,2.1,6.5,0.0,-0.001,-6.9,-0.1,,1000000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1998-99,24,New Jersey Nets,NBA,28,13.0,.374,.694,2.1,0.6,0.3,0.0,6.6,13.0,0.2,.032,-5.0,-0.3,,1000000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1999-00,25,Golden State Warriors,NBA,57,20.5,.395,.856,3.0,1.5,0.5,0.3,9.3,10.8,-0.3,-0.012,-5.2,-0.9,,60000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1999-00,25,Golden State Warriors,NBA,7,10.6,.333,.842,1.9,0.4,0.0,0.1,5.6,11.1,0.0,.029,-8.6,-0.1,,60000,"Arcadia Valley in Ironton, Missouri"
-carrch01,1999-00,25,Golden State Warriors,NBA,50,21.8,.400,.858,3.2,1.6,0.6,0.3,9.8,10.8,-0.3,-0.015,-5.0,-0.8,,60000,"Arcadia Valley in Ironton, Missouri"
-carrch01,2000-01,26,Boston Celtics,NBA,35,8.8,.473,.767,1.3,0.3,0.1,0.1,4.8,16.3,0.9,.142,-4.2,-0.2,,1200000,"Arcadia Valley in Ironton, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Carr,/players/c/carrch01.html,1996,2001,Southern Illinois University,false,"Arcadia Valley in Ironton, Missouri",-2.65,-0.13,carrch01,1995-96,PHO,10.5,0.3,.021,-5.6,-0.5,,NBA,200000,21,60,9.8,.415,.817,1.7,0.7,0.2,0.1,4.0,PHO
+Chris Carr,/players/c/carrch01.html,1996,2001,Southern Illinois University,false,"Arcadia Valley in Ironton, Missouri",-1.56,0.40,carrch01,1996-97,MIN,13.3,1.7,.096,-2.2,0.0,,NBA,750000,22,55,15.1,.461,.767,2.1,0.9,0.4,0.2,6.1,MIN
+Chris Carr,/players/c/carrch01.html,1996,2001,Southern Illinois University,false,"Arcadia Valley in Ironton, Missouri",-2.40,-0.09,carrch01,1997-98,MIN,11.6,1.1,.046,-3.2,-0.3,,NBA,900000,23,51,22.8,.420,.848,3.0,1.7,0.3,0.2,9.9,MIN
+Chris Carr,/players/c/carrch01.html,1996,2001,Southern Illinois University,false,"Arcadia Valley in Ironton, Missouri",-2.95,-0.24,carrch01,1998-99,TOT,11.8,0.2,.026,-5.4,-0.4,,NBA,1000000,24,39,11.4,.371,.675,1.8,0.6,0.2,0.1,5.3,"MIN,NJN"
+Chris Carr,/players/c/carrch01.html,1996,2001,Southern Illinois University,false,"Arcadia Valley in Ironton, Missouri",-3.80,-1.31,carrch01,1999-00,TOT,10.8,-0.3,-0.012,-5.2,-0.9,,NBA,60000,25,57,20.5,.395,.856,3.0,1.5,0.5,0.3,9.3,"GSW,CHI"
+Chris Carr,/players/c/carrch01.html,1996,2001,Southern Illinois University,false,"Arcadia Valley in Ironton, Missouri",-2.27,-0.03,carrch01,2000-01,BOS,16.3,0.9,.142,-4.2,-0.2,,NBA,1200000,26,35,8.8,.473,.767,1.3,0.3,0.1,0.1,4.8,BOS

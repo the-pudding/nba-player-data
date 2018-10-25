@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-greense01,1991-92,21,Indiana Pacers,NBA,35,7.3,.392,.536,1.2,0.6,0.4,0.2,4.0,9.9,-0.5,-0.087,-7.9,-0.4,,130000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-greense01,1992-93,22,Indiana Pacers,NBA,13,6.2,.509,.750,0.7,0.5,0.2,0.1,4.8,17.5,0.0,.021,-3.9,0.0,,355000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-greense01,1993-94,23,Philadelphia 76ers,NBA,36,9.3,.344,.722,0.9,0.4,0.5,0.2,4.1,7.6,-0.9,-0.130,-9.7,-0.7,,400000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-greense01,1993-94,23,Philadelphia 76ers,NBA,35,9.5,.346,.722,1.0,0.5,0.5,0.2,4.3,7.8,-0.9,-0.128,-9.6,-0.6,,400000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-greense01,1993-94,23,Philadelphia 76ers,NBA,1,2.0,.000,,0.0,0.0,0.0,0.0,0.0,-17.0,0.0,-0.486,-25.9,0.0,,400000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sean Green,/players/g/greense01.html,1992,1994,"North Carolina State University, Iona College",false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.58,-0.05,greense01,1991-92,IND,9.9,-0.5,-0.087,-7.9,-0.4,,NBA,130000,21,35,7.3,.392,.536,1.2,0.6,0.4,0.2,4.0,IND
+Sean Green,/players/g/greense01.html,1992,1994,"North Carolina State University, Iona College",false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.36,0.11,greense01,1992-93,IND,17.5,0.0,.021,-3.9,0.0,,NBA,355000,22,13,6.2,.509,.750,0.7,0.5,0.2,0.1,4.8,IND
+Sean Green,/players/g/greense01.html,1992,1994,"North Carolina State University, Iona College",false,"Oak Hill Academy in Mouth of Wilson, Virginia",-3.69,-0.33,greense01,1993-94,TOT,7.6,-0.9,-0.130,-9.7,-0.7,,NBA,400000,23,36,9.3,.344,.722,0.9,0.4,0.5,0.2,4.1,"PHI,UTA"

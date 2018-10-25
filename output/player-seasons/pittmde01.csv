@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-pittmde01,2010-11,22,Miami Heat,NBA,2,5.5,.333,,1.5,0.0,0.0,0.0,1.0,-6.4,-0.1,-0.246,-21.2,-0.1,,473604,"B.F. Terry in Rosenberg, Texas"
-pittmde01,2011-12,23,Miami Heat,NBA,35,8.6,.468,.643,2.0,0.3,0.2,0.2,3.0,10.4,0.6,.101,-4.0,-0.2,,762195,"B.F. Terry in Rosenberg, Texas"
-pittmde01,2012-13,24,Memphis Grizzlies,NBA,11,2.9,.364,.000,1.1,0.0,0.0,0.0,0.7,1.6,-0.1,-0.107,-17.9,-0.1,,854389,"B.F. Terry in Rosenberg, Texas"
-pittmde01,2012-13,24,Memphis Grizzlies,NBA,4,3.0,.600,,1.8,0.0,0.0,0.0,1.5,17.0,0.0,.114,-15.5,0.0,,854389,"B.F. Terry in Rosenberg, Texas"
-pittmde01,2012-13,24,Memphis Grizzlies,NBA,7,2.9,.167,.000,0.7,0.0,0.0,0.0,0.3,-7.7,-0.1,-0.239,-19.4,-0.1,,854389,"B.F. Terry in Rosenberg, Texas"
-pittmde01,2013-14,25,ATL,NBA,2,1.5,.000,.000,1.5,0.0,0.0,0.0,0.0,13.1,0.0,-0.180,-22.7,0.0,,,"B.F. Terry in Rosenberg, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dexter Pittman,/players/p/pittmde01.html,2011,2014,University of Texas at Austin,false,"B.F. Terry in Rosenberg, Texas",-0.79,0.01,pittmde01,2010-11,MIA,-6.4,-0.1,-0.246,-21.2,-0.1,,NBA,473604,22,2,5.5,.333,,1.5,0.0,0.0,0.0,1.0,MIA
+Dexter Pittman,/players/p/pittmde01.html,2011,2014,University of Texas at Austin,false,"B.F. Terry in Rosenberg, Texas",-2.06,0.01,pittmde01,2011-12,MIA,10.4,0.6,.101,-4.0,-0.2,,NBA,762195,23,35,8.6,.468,.643,2.0,0.3,0.2,0.2,3.0,MIA
+Dexter Pittman,/players/p/pittmde01.html,2011,2014,University of Texas at Austin,false,"B.F. Terry in Rosenberg, Texas",-0.97,0.03,pittmde01,2012-13,TOT,1.6,-0.1,-0.107,-17.9,-0.1,,NBA,854389,24,11,2.9,.364,.000,1.1,0.0,0.0,0.0,0.7,"MIA,MEM"
+Dexter Pittman,/players/p/pittmde01.html,2011,2014,University of Texas at Austin,false,"B.F. Terry in Rosenberg, Texas",-0.69,0.00,pittmde01,2013-14,ATL,13.1,0.0,-0.180,-22.7,0.0,,NBA,,25,2,1.5,.000,.000,1.5,0.0,0.0,0.0,0.0,ATL

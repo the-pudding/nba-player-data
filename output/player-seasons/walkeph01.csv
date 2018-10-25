@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-walkeph01,1977-78,21,WSB,NBA,40,9.6,.354,.667,1.3,1.4,0.4,0.1,4.5,9.0,-0.4,-0.045,-6.0,-0.4,,"Central in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Phil Walker,/players/w/walkeph01.html,1978,1978,Millersville University of Pennsylvania,false,"Central in Philadelphia, Pennsylvania",-3.19,-0.31,walkeph01,1977-78,WSB,9.0,-0.4,-0.045,-6.0,-0.4,,21,NBA,40,9.6,.354,.667,1.3,1.4,0.4,0.1,4.5,WSB

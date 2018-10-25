@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bateeme01,2001-02,26,DEN,NBA,27,15.1,.402,.784,3.6,0.8,0.4,0.2,5.1,8.0,0.1,.007,-5.2,-0.3,,,
-bateeme01,2002-03,27,San Antonio Spurs,NBA,12,3.8,.235,.000,0.8,0.3,0.0,0.0,0.8,-8.4,-0.2,-0.248,-14.4,-0.1,,,512453
-bateeme01,2003-04,28,Toronto Raptors,NBA,7,5.7,.571,,1.1,0.1,0.1,0.0,1.1,7.2,0.1,.090,-3.2,0.0,,,636679
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mengke Bateer,/players/b/bateeme01.html,2002,2004,,false,,-2.42,-0.09,bateeme01,2001-02,DEN,8.0,0.1,.007,-5.2,-0.3,,26,NBA,27,15.1,.402,.784,3.6,0.8,0.4,0.2,5.1,DEN,
+Mengke Bateer,/players/b/bateeme01.html,2002,2004,,false,,-0.74,0.05,bateeme01,2002-03,SAS,-8.4,-0.2,-0.248,-14.4,-0.1,,27,NBA,12,3.8,.235,.000,0.8,0.3,0.0,0.0,0.8,SAS,512453
+Mengke Bateer,/players/b/bateeme01.html,2002,2004,,false,,+0.04,0.06,bateeme01,2003-04,TOR,7.2,0.1,.090,-3.2,0.0,,28,NBA,7,5.7,.571,,1.1,0.1,0.1,0.0,1.1,TOR,636679

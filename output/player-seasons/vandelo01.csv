@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vandelo01,1995-96,24,Los Angeles Clippers,NBA,15,2.1,.214,.750,0.4,0.1,0.0,0.0,0.6,1.8,-0.1,-0.124,-14.7,-0.1,,200000,"Valders in Valders, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Logan Vander Velden,/players/v/vandelo01.html,1996,1996,University of Wisconsin-Green Bay,false,"Valders in Valders, Wisconsin",-0.10,0.05,vandelo01,1995-96,LAC,1.8,-0.1,-0.124,-14.7,-0.1,,NBA,200000,24,15,2.1,.214,.750,0.4,0.1,0.0,0.0,0.6,LAC

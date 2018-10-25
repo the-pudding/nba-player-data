@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thomptr02,2011-12,21,Los Angeles Clippers,NBA,24,5.0,.393,.714,1.0,0.1,0.1,0.1,2.4,12.0,0.0,.004,-8.9,-0.2,,473604,"Wesleyan School in Norcross, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Trey Thompkins,/players/t/thomptr02.html,2012,2012,University of Georgia,false,"Wesleyan School in Norcross, Georgia",-1.75,0.04,thomptr02,2011-12,LAC,12.0,0.0,.004,-8.9,-0.2,,NBA,473604,21,24,5.0,.393,.714,1.0,0.1,0.1,0.1,2.4,LAC

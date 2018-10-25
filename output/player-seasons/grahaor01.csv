@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-grahaor01,1988-89,23,GSW,NBA,7,3.1,.300,.500,1.6,0.0,0.0,0.0,1.1,6.7,0.0,-0.047,-16.4,-0.1,,"Sidney Lanier in Montgomery, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Orlando Graham,/players/g/grahaor01.html,1989,1989,"West Texas A&M University, Auburn University at Montgomery",false,"Sidney Lanier in Montgomery, Alabama",-0.37,0.04,grahaor01,1988-89,GSW,6.7,0.0,-0.047,-16.4,-0.1,,23,NBA,7,3.1,.300,.500,1.6,0.0,0.0,0.0,1.1,GSW

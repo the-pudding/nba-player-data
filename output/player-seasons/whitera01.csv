@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-whitera01,1989-90,22,DAL,NBA,55,12.9,.369,.562,3.1,0.4,0.4,0.1,4.3,7.4,-0.2,-0.012,-6.3,-0.8,,"Huntington in Shreveport, Louisiana",
-whitera01,1990-91,23,Dallas Mavericks,NBA,79,24.1,.398,.707,6.4,0.8,1.0,0.6,8.8,10.8,0.7,.018,-4.1,-1.0,,"Huntington in Shreveport, Louisiana",730000
-whitera01,1991-92,24,Dallas Mavericks,NBA,65,15.7,.380,.765,3.6,0.5,0.5,0.3,6.4,10.9,0.4,.019,-5.4,-0.9,,"Huntington in Shreveport, Louisiana",855000
-whitera01,1992-93,25,Dallas Mavericks,NBA,64,22.4,.435,.750,5.8,0.8,1.0,0.7,9.7,13.2,0.8,.026,-3.0,-0.4,,"Huntington in Shreveport, Louisiana",930000
-whitera01,1993-94,26,Dallas Mavericks,NBA,18,17.8,.402,.576,4.6,0.6,0.6,0.6,6.4,11.4,0.2,.032,-4.7,-0.2,,"Huntington in Shreveport, Louisiana",922000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Randy White,/players/w/whitera01.html,1990,1994,Louisiana Tech University,false,"Huntington in Shreveport, Louisiana",-3.51,-0.60,whitera01,1989-90,DAL,7.4,-0.2,-0.012,-6.3,-0.8,,22,NBA,55,12.9,.369,.562,3.1,0.4,0.4,0.1,4.3,DAL,
+Randy White,/players/w/whitera01.html,1990,1994,Louisiana Tech University,false,"Huntington in Shreveport, Louisiana",-2.35,-0.11,whitera01,1990-91,DAL,10.8,0.7,.018,-4.1,-1.0,,23,NBA,79,24.1,.398,.707,6.4,0.8,1.0,0.6,8.8,DAL,730000
+Randy White,/players/w/whitera01.html,1990,1994,Louisiana Tech University,false,"Huntington in Shreveport, Louisiana",-2.73,-0.32,whitera01,1991-92,DAL,10.9,0.4,.019,-5.4,-0.9,,24,NBA,65,15.7,.380,.765,3.6,0.5,0.5,0.3,6.4,DAL,855000
+Randy White,/players/w/whitera01.html,1990,1994,Louisiana Tech University,false,"Huntington in Shreveport, Louisiana",-2.80,-0.50,whitera01,1992-93,DAL,13.2,0.8,.026,-3.0,-0.4,,25,NBA,64,22.4,.435,.750,5.8,0.8,1.0,0.7,9.7,DAL,930000
+Randy White,/players/w/whitera01.html,1990,1994,Louisiana Tech University,false,"Huntington in Shreveport, Louisiana",-1.68,0.12,whitera01,1993-94,DAL,11.4,0.2,.032,-4.7,-0.2,,26,NBA,18,17.8,.402,.576,4.6,0.6,0.6,0.6,6.4,DAL,922000

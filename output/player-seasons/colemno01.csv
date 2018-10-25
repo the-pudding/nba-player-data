@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-colemno01,1987-88,26,LAC,NBA,29,14.9,.346,.556,2.8,0.4,0.4,0.2,5.3,6.6,-0.4,-0.046,-8.3,-0.7,,"Paxon in Jacksonville, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Norris Coleman,/players/c/colemno01.html,1988,1988,Kansas State University,false,"Paxon in Jacksonville, Florida",-4.01,-0.55,colemno01,1987-88,LAC,6.6,-0.4,-0.046,-8.3,-0.7,,26,NBA,29,14.9,.346,.556,2.8,0.4,0.4,0.2,5.3,LAC

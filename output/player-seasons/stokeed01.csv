@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stokeed01,1997-98,26,Toronto Raptors,NBA,4,4.3,.333,.500,1.0,0.3,0.3,0.5,0.8,6.4,0.0,-0.077,-5.4,0.0,,272500,"Saint Bernard in Playa del Rey, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ed Stokes,/players/s/stokeed01.html,1998,1998,University of Arizona,false,"Saint Bernard in Playa del Rey, California",-0.57,0.02,stokeed01,1997-98,TOR,6.4,0.0,-0.077,-5.4,0.0,,NBA,272500,26,4,4.3,.333,.500,1.0,0.3,0.3,0.5,0.8,TOR

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-farmeji01,1987-88,23,Dallas Mavericks,NBA,30,5.2,.377,.900,0.6,0.5,0.1,0.0,2.0,4.4,-0.4,-0.111,-9.5,-0.3,,175000,"Houston Academy in Dothan, Alabama"
-farmeji01,1988-89,24,UTA,NBA,37,11.1,.401,.707,1.5,0.8,0.2,0.0,4.1,8.4,0.4,.045,-3.9,-0.2,,,"Houston Academy in Dothan, Alabama"
-farmeji01,1989-90,25,SEA,NBA,38,10.5,.438,.713,1.1,0.7,0.4,0.0,6.4,15.5,0.7,.087,-3.3,-0.1,,,"Houston Academy in Dothan, Alabama"
-farmeji01,1990-91,26,"PHI,DEN",NBA,27,16.9,.453,.738,2.5,1.4,0.5,0.1,9.4,12.2,0.1,.010,-5.4,-0.4,,,"Houston Academy in Dothan, Alabama"
-farmeji01,1991-92,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Houston Academy in Dothan, Alabama"
-farmeji01,1992-93,28,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,,,,,,,,,,"Houston Academy in Dothan, Alabama"
-farmeji01,1993-94,29,DEN,NBA,4,7.3,.333,,0.5,1.0,0.0,0.0,1.0,-3.7,-0.1,-0.210,-14.3,-0.1,,,"Houston Academy in Dothan, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",-1.95,0.04,farmeji01,1987-88,DAL,4.4,-0.4,-0.111,-9.5,-0.3,,NBA,175000,23,30,5.2,.377,.900,0.6,0.5,0.1,0.0,2.0,DAL
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",-3.24,-0.30,farmeji01,1988-89,UTA,8.4,0.4,.045,-3.9,-0.2,,NBA,,24,37,11.1,.401,.707,1.5,0.8,0.2,0.0,4.1,UTA
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",-1.13,0.32,farmeji01,1989-90,SEA,15.5,0.7,.087,-3.3,-0.1,,NBA,,25,38,10.5,.438,.713,1.1,0.7,0.4,0.0,6.4,SEA
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",-3.66,-0.40,farmeji01,1990-91,TOT,12.2,0.1,.010,-5.4,-0.4,,NBA,,26,27,16.9,.453,.738,2.5,1.4,0.5,0.1,9.4,"PHI,DEN"
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",,,farmeji01,1991-92,Did Not Play (other pro league—CBA),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—CBA)
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",,,farmeji01,1992-93,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,28,,,,,,,,,,"Did Not Play (other pro league—CBA, Italy)"
+Jim Farmer,/players/f/farmeji01.html,1988,1994,University of Alabama,false,"Houston Academy in Dothan, Alabama",+0.05,0.05,farmeji01,1993-94,DEN,-3.7,-0.1,-0.210,-14.3,-0.1,,NBA,,29,4,7.3,.333,,0.5,1.0,0.0,0.0,1.0,DEN

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-englijo01,1992-93,22,CHI,NBA,6,5.2,.300,.000,1.0,0.2,0.5,0.3,1.0,1.9,-0.1,-0.163,-7.1,0.0,,"Lower Richland in Columbia, South Carolina",
-englijo01,1993-94,23,CHI,NBA,36,11.6,.434,.476,1.3,1.1,0.2,0.3,3.6,6.3,0.0,-0.005,-6.2,-0.4,,"Lower Richland in Columbia, South Carolina",
-englijo01,1994-95,24,Chicago Bulls,NBA,8,15.9,.385,.769,0.4,0.9,0.9,0.1,5.4,7.7,0.1,.053,-4.9,-0.1,,"Lower Richland in Columbia, South Carolina",50000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jo Jo English,/players/e/englijo01.html,1993,1995,University of South Carolina,false,"Lower Richland in Columbia, South Carolina",-0.23,0.04,englijo01,1992-93,CHI,1.9,-0.1,-0.163,-7.1,0.0,,22,NBA,6,5.2,.300,.000,1.0,0.2,0.5,0.3,1.0,CHI,
+Jo Jo English,/players/e/englijo01.html,1993,1995,University of South Carolina,false,"Lower Richland in Columbia, South Carolina",-3.08,-0.29,englijo01,1993-94,CHI,6.3,0.0,-0.005,-6.2,-0.4,,23,NBA,36,11.6,.434,.476,1.3,1.1,0.2,0.3,3.6,CHI,
+Jo Jo English,/players/e/englijo01.html,1993,1995,University of South Carolina,false,"Lower Richland in Columbia, South Carolina",-0.12,0.19,englijo01,1994-95,CHI,7.7,0.1,.053,-4.9,-0.1,,24,NBA,8,15.9,.385,.769,0.4,0.9,0.9,0.1,5.4,CHI,50000

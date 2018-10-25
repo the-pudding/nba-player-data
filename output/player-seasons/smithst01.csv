@@ -1,19 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithst01,1991-92,22,Miami Heat,NBA,61,29.6,.454,.748,3.1,4.6,1.0,0.3,12.0,12.5,1.5,.040,-1.4,0.3,,2250000,"Pershing in Detroit, Michigan"
-smithst01,1992-93,23,Miami Heat,NBA,48,33.5,.451,.787,4.1,5.6,1.0,0.3,16.0,16.1,3.5,.104,1.6,1.4,,2252000,"Pershing in Detroit, Michigan"
-smithst01,1993-94,24,Miami Heat,NBA,78,35.6,.456,.835,4.5,5.1,1.1,0.4,17.3,17.2,8.1,.141,2.8,3.4,,2252000,"Pershing in Detroit, Michigan"
-smithst01,1994-95,25,Atlanta Hawks,NBA,80,33.3,.426,.841,3.5,3.4,0.8,0.4,16.3,16.1,7.8,.140,1.3,2.2,,1935900,"Pershing in Detroit, Michigan"
-smithst01,1994-95,25,Atlanta Hawks,NBA,2,31.0,.379,.773,3.0,3.5,1.0,0.5,20.5,19.5,0.2,.153,0.2,0.0,,1935900,"Pershing in Detroit, Michigan"
-smithst01,1994-95,25,Atlanta Hawks,NBA,78,33.4,.427,.845,3.5,3.4,0.8,0.4,16.2,16.1,7.6,.139,1.3,2.2,,1935900,"Pershing in Detroit, Michigan"
-smithst01,1995-96,26,Atlanta Hawks,NBA,80,35.7,.432,.826,4.1,2.8,0.9,0.2,18.1,16.6,7.9,.133,0.8,2.0,,2568000,"Pershing in Detroit, Michigan"
-smithst01,1996-97,27,Atlanta Hawks,NBA,72,39.1,.429,.847,3.3,4.2,0.9,0.3,20.1,17.4,9.1,.154,1.3,2.3,,4500000,"Pershing in Detroit, Michigan"
-smithst01,1997-98,28,Atlanta Hawks,NBA,73,39.1,.444,.855,4.2,4.0,1.0,0.4,20.1,18.8,10.2,.171,3.1,3.7,,5400000,"Pershing in Detroit, Michigan"
-smithst01,1998-99,29,Atlanta Hawks,NBA,36,36.5,.402,.849,4.2,3.3,1.0,0.3,18.7,17.9,4.4,.162,3.2,1.7,,6300000,"Pershing in Detroit, Michigan"
-smithst01,1999-00,30,Portland Trail Blazers,NBA,82,32.8,.467,.850,3.8,2.5,0.9,0.4,14.9,17.3,10.4,.186,3.2,3.6,,7200000,"Pershing in Detroit, Michigan"
-smithst01,2000-01,31,Portland Trail Blazers,NBA,81,31.4,.456,.890,3.4,2.6,0.6,0.3,13.6,15.9,8.2,.155,1.1,2.0,,8100000,"Pershing in Detroit, Michigan"
-smithst01,2001-02,32,San Antonio Spurs,NBA,77,28.7,.455,.878,2.5,2.0,0.7,0.2,11.6,13.9,6.4,.139,1.3,1.8,,9000000,"Pershing in Detroit, Michigan"
-smithst01,2002-03,33,San Antonio Spurs,NBA,53,19.5,.388,.833,1.9,1.3,0.5,0.2,6.8,12.0,2.5,.117,-1.0,0.3,,9900000,"Pershing in Detroit, Michigan"
-smithst01,2003-04,34,New Orleans Hornets,NBA,71,13.1,.406,.928,1.1,0.8,0.2,0.1,5.0,11.8,1.9,.099,-3.6,-0.4,,1070000,"Pershing in Detroit, Michigan"
-smithst01,2004-05,35,Charlotte Bobcats,NBA,50,15.0,.411,.863,1.3,1.4,0.3,0.1,6.3,13.6,1.8,.113,-1.4,0.1,,1100000,"Pershing in Detroit, Michigan"
-smithst01,2004-05,35,Charlotte Bobcats,NBA,37,17.2,.427,.870,1.3,1.5,0.3,0.2,7.9,14.8,1.7,.128,-0.8,0.2,,1100000,"Pershing in Detroit, Michigan"
-smithst01,2004-05,35,Charlotte Bobcats,NBA,13,8.8,.300,.667,1.2,1.1,0.2,0.0,1.8,7.0,0.1,.028,-4.6,-0.1,,1100000,"Pershing in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",-1.72,0.76,smithst01,1991-92,MIA,12.5,1.5,.040,-1.4,0.3,,NBA,2250000,22,61,29.6,.454,.748,3.1,4.6,1.0,0.3,12.0,MIA
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+0.16,2.65,smithst01,1992-93,MIA,16.1,3.5,.104,1.6,1.4,,NBA,2252000,23,48,33.5,.451,.787,4.1,5.6,1.0,0.3,16.0,MIA
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+1.50,7.54,smithst01,1993-94,MIA,17.2,8.1,.141,2.8,3.4,,NBA,2252000,24,78,35.6,.456,.835,4.5,5.1,1.1,0.4,17.3,MIA
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+0.10,4.47,smithst01,1994-95,TOT,16.1,7.8,.140,1.3,2.2,,NBA,1935900,25,80,33.3,.426,.841,3.5,3.4,0.8,0.4,16.3,"MIA,ATL"
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+0.96,7.14,smithst01,1995-96,ATL,16.6,7.9,.133,0.8,2.0,,NBA,2568000,26,80,35.7,.432,.826,4.1,2.8,0.9,0.2,18.1,ATL
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+1.05,7.31,smithst01,1996-97,ATL,17.4,9.1,.154,1.3,2.3,,NBA,4500000,27,72,39.1,.429,.847,3.3,4.2,0.9,0.3,20.1,ATL
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+1.76,8.24,smithst01,1997-98,ATL,18.8,10.2,.171,3.1,3.7,,NBA,5400000,28,73,39.1,.444,.855,4.2,4.0,1.0,0.4,20.1,ATL
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+1.26,4.11,smithst01,1998-99,ATL,17.9,4.4,.162,3.2,1.7,,NBA,6300000,29,36,36.5,.402,.849,4.2,3.3,1.0,0.3,18.7,ATL
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+2.41,10.52,smithst01,1999-00,POR,17.3,10.4,.186,3.2,3.6,,NBA,7200000,30,82,32.8,.467,.850,3.8,2.5,0.9,0.4,14.9,POR
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",+0.24,4.55,smithst01,2000-01,POR,15.9,8.2,.155,1.1,2.0,,NBA,8100000,31,81,31.4,.456,.890,3.4,2.6,0.6,0.3,13.6,POR
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",-0.02,3.84,smithst01,2001-02,SAS,13.9,6.4,.139,1.3,1.8,,NBA,9000000,32,77,28.7,.455,.878,2.5,2.0,0.7,0.2,11.6,SAS
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",-2.11,0.03,smithst01,2002-03,SAS,12.0,2.5,.117,-1.0,0.3,,NBA,9900000,33,53,19.5,.388,.833,1.9,1.3,0.5,0.2,6.8,SAS
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",-2.51,-0.20,smithst01,2003-04,NOH,11.8,1.9,.099,-3.6,-0.4,,NBA,1070000,34,71,13.1,.406,.928,1.1,0.8,0.2,0.1,5.0,NOH
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false,"Pershing in Detroit, Michigan",-2.03,0.14,smithst01,2004-05,TOT,13.6,1.8,.113,-1.4,0.1,,NBA,1100000,35,50,15.0,.411,.863,1.3,1.4,0.3,0.1,6.3,"CHA,MIA"

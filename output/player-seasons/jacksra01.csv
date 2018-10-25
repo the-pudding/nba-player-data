@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jacksra01,1984-85,22,IND,NBA,1,12.0,.333,,1.0,4.0,2.0,0.0,2.0,15.6,0.0,.069,-0.9,0.0,,"Inglewood in Inglewood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ralph Jackson,/players/j/jacksra01.html,1985,1985,"University of California, Los Angeles",false,"Inglewood in Inglewood, California",+0.49,0.02,jacksra01,1984-85,IND,15.6,0.0,.069,-0.9,0.0,,22,NBA,1,12.0,.333,,1.0,4.0,2.0,0.0,2.0,IND

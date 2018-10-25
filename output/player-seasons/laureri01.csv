@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-laureri01,1977-78,23,MIL,NBA,10,5.7,.323,1.000,1.0,0.3,0.3,0.1,2.4,7.5,0.0,-0.034,-7.2,-0.1,,"Overbrook in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rich Laurel,/players/l/laureri01.html,1978,1978,Hofstra University,false,"Overbrook in Philadelphia, Pennsylvania",+0.25,0.10,laureri01,1977-78,MIL,7.5,0.0,-0.034,-7.2,-0.1,,23,NBA,10,5.7,.323,1.000,1.0,0.3,0.3,0.1,2.4,MIL

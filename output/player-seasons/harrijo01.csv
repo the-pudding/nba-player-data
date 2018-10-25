@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harrijo01,2014-15,23,Cleveland Cavaliers,NBA,51,9.7,.400,.600,0.8,0.5,0.1,0.0,2.7,5.6,0.2,.018,-4.5,-0.3,,884879,"Chelan in Chelan, Washington"
-harrijo01,2015-16,24,Orlando Magic,NBA,5,3.0,.250,,0.6,0.4,0.0,0.0,0.6,3.4,0.0,-0.032,-6.6,0.0,,845059,"Chelan in Chelan, Washington"
-harrijo01,2016-17,25,Brooklyn Nets,NBA,52,21.9,.425,.714,2.8,1.0,0.6,0.2,8.2,9.0,0.8,.032,-3.0,-0.3,,980431,"Chelan in Chelan, Washington"
-harrijo01,2017-18,26,Brooklyn Nets,NBA,78,25.3,.491,.827,3.3,1.6,0.4,0.3,10.8,13.3,4.0,.097,0.1,1.1,,1524305,"Chelan in Chelan, Washington"
-harrijo01,2018-19,27,BRK,NBA,4,29.5,.550,.667,4.5,2.8,0.5,0.3,14.8,15.6,0.3,.123,1.8,0.1,,,"Chelan in Chelan, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Joe Harris,/players/h/harrijo01.html,2015,2019,University of Virginia,true,"Chelan in Chelan, Washington",-5.38,-1.01,harrijo01,2014-15,CLE,5.6,0.2,.018,-4.5,-0.3,,NBA,884879,23,51,9.7,.400,.600,0.8,0.5,0.1,0.0,2.7,CLE
+Joe Harris,/players/h/harrijo01.html,2015,2019,University of Virginia,true,"Chelan in Chelan, Washington",-0.75,0.02,harrijo01,2015-16,CLE,3.4,0.0,-0.032,-6.6,0.0,,NBA,845059,24,5,3.0,.250,,0.6,0.4,0.0,0.0,0.6,CLE
+Joe Harris,/players/h/harrijo01.html,2015,2019,University of Virginia,true,"Chelan in Chelan, Washington",-3.45,-0.89,harrijo01,2016-17,BRK,9.0,0.8,.032,-3.0,-0.3,,NBA,980431,25,52,21.9,.425,.714,2.8,1.0,0.6,0.2,8.2,BRK
+Joe Harris,/players/h/harrijo01.html,2015,2019,University of Virginia,true,"Chelan in Chelan, Washington",-1.20,1.47,harrijo01,2017-18,BRK,13.3,4.0,.097,0.1,1.1,,NBA,1524305,26,78,25.3,.491,.827,3.3,1.6,0.4,0.3,10.8,BRK
+Joe Harris,/players/h/harrijo01.html,2015,2019,University of Virginia,true,"Chelan in Chelan, Washington",,,harrijo01,2018-19,BRK,15.6,0.3,.123,1.8,0.1,,NBA,,27,4,29.5,.550,.667,4.5,2.8,0.5,0.3,14.8,BRK

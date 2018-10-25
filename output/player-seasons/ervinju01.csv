@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-ervinju01,1976-77,26,PHI,NBA,82,35.9,.499,.777,8.5,3.7,1.9,1.4,21.6,20.9,11.5,.188,4.9,5.1,All-NBA (2nd),"Roosevelt in Roosevelt, New York",
-ervinju01,1977-78,27,PHI,NBA,74,32.8,.502,.845,6.5,3.8,1.8,1.3,20.6,21.7,9.1,.179,4.6,4.0,All-NBA (1st),"Roosevelt in Roosevelt, New York",
-ervinju01,1978-79,28,PHI,NBA,78,35.9,.491,.745,7.2,4.6,1.7,1.3,23.1,20.1,7.9,.136,3.6,4.0,,"Roosevelt in Roosevelt, New York",
-ervinju01,1979-80,29,PHI,NBA,78,36.1,.519,.787,7.4,4.6,2.2,1.8,26.9,25.4,12.5,.213,7.2,6.5,All-NBA (1st),"Roosevelt in Roosevelt, New York",
-ervinju01,1980-81,30,PHI,NBA,82,35.0,.521,.787,8.0,4.4,2.1,1.8,24.6,25.1,13.8,.231,8.0,7.2,All-NBA (1st),"Roosevelt in Roosevelt, New York",
-ervinju01,1981-82,31,PHI,NBA,81,34.4,.546,.763,6.9,3.9,2.0,1.7,24.4,25.9,13.3,.229,7.8,6.9,All-NBA (1st),"Roosevelt in Roosevelt, New York",
-ervinju01,1982-83,32,PHI,NBA,72,33.6,.517,.759,6.8,3.7,1.6,1.8,21.4,23.1,10.9,.217,6.3,5.1,All-NBA (1st),"Roosevelt in Roosevelt, New York",
-ervinju01,1983-84,33,PHI,NBA,77,34.8,.512,.754,6.9,4.0,1.8,1.8,22.4,22.9,10.1,.180,5.9,5.3,All-NBA (2nd),"Roosevelt in Roosevelt, New York",
-ervinju01,1984-85,34,Philadelphia 76ers,NBA,78,32.5,.494,.765,5.3,3.0,1.7,1.4,20.0,20.0,7.6,.144,3.2,3.3,,"Roosevelt in Roosevelt, New York",1054000
-ervinju01,1985-86,35,Philadelphia 76ers,NBA,74,33.4,.480,.785,5.0,3.4,1.5,1.1,18.1,17.4,5.9,.114,2.4,2.8,,"Roosevelt in Roosevelt, New York",1485000
-ervinju01,1986-87,36,PHI,NBA,60,32.0,.471,.813,4.4,3.2,1.3,1.6,16.8,17.0,3.5,.088,0.9,1.4,,"Roosevelt in Roosevelt, New York",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+3.90,15.95,ervinju01,1976-77,PHI,20.9,11.5,.188,4.9,5.1,All-NBA (2nd),26,NBA,82,35.9,.499,.777,8.5,3.7,1.9,1.4,21.6,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+2.96,10.04,ervinju01,1977-78,PHI,21.7,9.1,.179,4.6,4.0,All-NBA (1st),27,NBA,74,32.8,.502,.845,6.5,3.8,1.8,1.3,20.6,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+2.13,9.69,ervinju01,1978-79,PHI,20.1,7.9,.136,3.6,4.0,,28,NBA,78,35.9,.491,.745,7.2,4.6,1.7,1.3,23.1,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+4.87,16.95,ervinju01,1979-80,PHI,25.4,12.5,.213,7.2,6.5,All-NBA (1st),29,NBA,78,36.1,.519,.787,7.4,4.6,2.2,1.8,26.9,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+5.40,17.89,ervinju01,1980-81,PHI,25.1,13.8,.231,8.0,7.2,All-NBA (1st),30,NBA,82,35.0,.521,.787,8.0,4.4,2.1,1.8,24.6,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+5.45,18.12,ervinju01,1981-82,PHI,25.9,13.3,.229,7.8,6.9,All-NBA (1st),31,NBA,81,34.4,.546,.763,6.9,3.9,2.0,1.7,24.4,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+4.00,12.38,ervinju01,1982-83,PHI,23.1,10.9,.217,6.3,5.1,All-NBA (1st),32,NBA,72,33.6,.517,.759,6.8,3.7,1.6,1.8,21.4,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+3.62,11.42,ervinju01,1983-84,PHI,22.9,10.1,.180,5.9,5.3,All-NBA (2nd),33,NBA,77,34.8,.512,.754,6.9,4.0,1.8,1.8,22.4,PHI,
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+2.33,9.14,ervinju01,1984-85,PHI,20.0,7.6,.144,3.2,3.3,,34,NBA,78,32.5,.494,.765,5.3,3.0,1.7,1.4,20.0,PHI,1054000
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+0.54,5.54,ervinju01,1985-86,PHI,17.4,5.9,.114,2.4,2.8,,35,NBA,74,33.4,.480,.785,5.0,3.4,1.5,1.1,18.1,PHI,1485000
+Julius Erving,/players/e/ervinju01.html,1972,1987,University of Massachusetts Amherst,false,"Roosevelt in Roosevelt, New York",+0.03,3.28,ervinju01,1986-87,PHI,17.0,3.5,.088,0.9,1.4,,36,NBA,60,32.0,.471,.813,4.4,3.2,1.3,1.6,16.8,PHI,

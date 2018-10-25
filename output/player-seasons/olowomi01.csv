@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-olowomi01,1998-99,23,Los Angeles Clippers,NBA,45,28.4,.431,.483,7.9,0.6,0.6,1.2,8.9,11.8,-0.3,-0.010,-5.1,-1.0,,2700000,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,1999-00,24,Los Angeles Clippers,NBA,80,31.2,.437,.651,8.2,0.5,0.4,1.8,9.8,10.4,-0.8,-0.016,-6.2,-2.6,,3456240,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2000-01,25,Los Angeles Clippers,NBA,82,25.9,.435,.545,6.4,0.6,0.4,1.3,8.5,10.0,-0.4,-0.008,-4.9,-1.6,,3697440,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2001-02,26,Los Angeles Clippers,NBA,80,32.1,.433,.622,8.9,1.1,0.7,1.8,11.1,12.4,1.6,.029,-3.1,-0.7,,4662472,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2002-03,27,Los Angeles Clippers,NBA,36,38.0,.427,.657,9.1,1.3,0.5,2.2,12.3,10.5,-0.2,-0.006,-3.9,-0.7,,6061213,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2003-04,28,Minnesota Timberwolves,NBA,43,21.5,.425,.590,5.7,0.6,0.4,1.6,6.5,11.2,1.2,.061,-3.1,-0.3,,4917000,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2004-05,29,Minnesota Timberwolves,NBA,62,19.6,.456,.667,5.2,0.5,0.2,0.9,5.9,10.4,1.2,.048,-4.0,-0.6,,5408700,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2005-06,30,Minnesota Timberwolves,NBA,48,19.1,.446,.511,4.6,0.5,0.5,0.7,5.0,8.3,0.3,.014,-5.2,-0.7,,5900400,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2005-06,30,Minnesota Timberwolves,NBA,32,23.5,.446,.487,5.6,0.5,0.6,0.8,6.0,8.6,0.4,.023,-4.6,-0.5,,5900400,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2005-06,30,Minnesota Timberwolves,NBA,16,10.4,.444,.625,2.6,0.4,0.2,0.4,2.8,6.8,-0.1,-0.028,-8.1,-0.3,,5900400,"Newlands Manorium in East Sussex, United Kingdom"
-olowomi01,2006-07,31,Boston Celtics,NBA,24,9.8,.413,.667,2.0,0.2,0.3,0.5,1.7,4.5,-0.1,-0.017,-4.8,-0.2,,1103225,"Newlands Manorium in East Sussex, United Kingdom"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-2.92,-0.61,olowomi01,1998-99,LAC,11.8,-0.3,-0.010,-5.1,-1.0,,NBA,2700000,23,45,28.4,.431,.483,7.9,0.6,0.6,1.2,8.9,LAC
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-3.86,-2.80,olowomi01,1999-00,LAC,10.4,-0.8,-0.016,-6.2,-2.6,,NBA,3456240,24,80,31.2,.437,.651,8.2,0.5,0.4,1.8,9.8,LAC
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-3.08,-1.36,olowomi01,2000-01,LAC,10.0,-0.4,-0.008,-4.9,-1.6,,NBA,3697440,25,82,25.9,.435,.545,6.4,0.6,0.4,1.3,8.5,LAC
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-0.80,2.53,olowomi01,2001-02,LAC,12.4,1.6,.029,-3.1,-0.7,,NBA,4662472,26,80,32.1,.433,.622,8.9,1.1,0.7,1.8,11.1,LAC
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-1.09,1.02,olowomi01,2002-03,LAC,10.5,-0.2,-0.006,-3.9,-0.7,,NBA,6061213,27,36,38.0,.427,.657,9.1,1.3,0.5,2.2,12.3,LAC
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-1.42,0.59,olowomi01,2003-04,MIN,11.2,1.2,.061,-3.1,-0.3,,NBA,4917000,28,43,21.5,.425,.590,5.7,0.6,0.4,1.6,6.5,MIN
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-0.86,1.15,olowomi01,2004-05,MIN,10.4,1.2,.048,-4.0,-0.6,,NBA,5408700,29,62,19.6,.456,.667,5.2,0.5,0.2,0.9,5.9,MIN
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-2.15,-0.01,olowomi01,2005-06,TOT,8.3,0.3,.014,-5.2,-0.7,,NBA,5900400,30,48,19.1,.446,.511,4.6,0.5,0.5,0.7,5.0,"MIN,BOS"
+Michael Olowokandi,/players/o/olowomi01.html,1999,2007,University of the Pacific,false,"Newlands Manorium in East Sussex, United Kingdom",-0.77,0.22,olowomi01,2006-07,BOS,4.5,-0.1,-0.017,-4.8,-0.2,,NBA,1103225,31,24,9.8,.413,.667,2.0,0.2,0.3,0.5,1.7,BOS

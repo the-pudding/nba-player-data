@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-natersw01,1976-77,27,MIL,NBA,72,27.2,.528,.754,12.0,1.5,0.8,0.7,13.0,19.1,6.9,.168,1.4,1.7,,"Wilson in Long Beach, California"
-natersw01,1977-78,28,BUF,NBA,78,35.6,.504,.765,13.2,2.8,0.5,0.6,15.5,16.9,6.8,.117,1.2,2.3,,"Wilson in Long Beach, California"
-natersw01,1978-79,29,SDC,NBA,79,25.4,.569,.800,8.9,1.8,0.5,0.4,10.7,16.9,5.5,.133,0.7,1.4,,"Wilson in Long Beach, California"
-natersw01,1979-80,30,SDC,NBA,81,35.3,.554,.718,15.0,2.9,0.6,0.5,13.4,17.2,6.8,.115,1.0,2.2,,"Wilson in Long Beach, California"
-natersw01,1980-81,31,SDC,NBA,82,34.3,.553,.795,12.4,2.4,0.6,0.6,15.6,18.2,8.6,.147,1.9,2.8,,"Wilson in Long Beach, California"
-natersw01,1981-82,32,SDC,NBA,21,27.4,.577,.747,9.1,1.4,0.3,0.4,12.5,16.4,1.2,.098,-2.2,0.0,,"Wilson in Long Beach, California"
-natersw01,1982-83,33,SDC,NBA,7,7.3,.300,1.000,1.9,0.1,0.1,0.0,2.3,6.6,-0.1,-0.053,-13.3,-0.1,,"Wilson in Long Beach, California"
-natersw01,1983-84,34,LAL,NBA,69,12.0,.490,.692,3.8,0.4,0.4,0.1,4.5,10.8,1.2,.071,-4.5,-0.5,,"Wilson in Long Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",+1.33,4.89,natersw01,1976-77,MIL,19.1,6.9,.168,1.4,1.7,,27,NBA,72,27.2,.528,.754,12.0,1.5,0.8,0.7,13.0,MIL
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",+0.04,4.36,natersw01,1977-78,BUF,16.9,6.8,.117,1.2,2.3,,28,NBA,78,35.6,.504,.765,13.2,2.8,0.5,0.6,15.5,BUF
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",-0.27,2.73,natersw01,1978-79,SDC,16.9,5.5,.133,0.7,1.4,,29,NBA,79,25.4,.569,.800,8.9,1.8,0.5,0.4,10.7,SDC
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",+0.09,4.58,natersw01,1979-80,SDC,17.2,6.8,.115,1.0,2.2,,30,NBA,81,35.3,.554,.718,15.0,2.9,0.6,0.5,13.4,SDC
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",+0.85,5.94,natersw01,1980-81,SDC,18.2,8.6,.147,1.9,2.8,,31,NBA,82,34.3,.553,.795,12.4,2.4,0.6,0.6,15.6,SDC
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",-1.29,0.40,natersw01,1981-82,SDC,16.4,1.2,.098,-2.2,0.0,,32,NBA,21,27.4,.577,.747,9.1,1.4,0.3,0.4,12.5,SDC
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",-0.07,0.08,natersw01,1982-83,SDC,6.6,-0.1,-0.053,-13.3,-0.1,,33,NBA,7,7.3,.300,1.000,1.9,0.1,0.1,0.0,2.3,SDC
+Swen Nater,/players/n/natersw01.html,1974,1984,"University of California, Los Angeles",false,"Wilson in Long Beach, California",-2.26,0.02,natersw01,1983-84,LAL,10.8,1.2,.071,-4.5,-0.5,,34,NBA,69,12.0,.490,.692,3.8,0.4,0.4,0.1,4.5,LAL

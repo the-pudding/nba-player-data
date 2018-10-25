@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lockhia01,1990-91,23,Phoenix Suns,NBA,1,2.0,1.000,1.000,0.0,0.0,0.0,0.0,4.0,76.3,0.0,1.084,16.4,0.0,,130000,"Christian Academy in Nassau, Bahamas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ian Lockhart,/players/l/lockhia01.html,1991,1991,University of Tennessee,false,"Christian Academy in Nassau, Bahamas",-0.09,0.00,lockhia01,1990-91,PHO,76.3,0.0,1.084,16.4,0.0,,NBA,130000,23,1,2.0,1.000,1.000,0.0,0.0,0.0,0.0,4.0,PHO

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-greende01,2005-06,23,Los Angeles Lakers,NBA,27,5.0,.214,.619,0.9,0.3,0.1,0.0,0.9,4.7,-0.1,-0.018,-7.7,-0.2,,398762,"Beechcroft in Columbus, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Devin Green,/players/g/greende01.html,2006,2006,Hampton University,false,"Beechcroft in Columbus, Ohio",-1.46,0.08,greende01,2005-06,LAL,4.7,-0.1,-0.018,-7.7,-0.2,,NBA,398762,23,27,5.0,.214,.619,0.9,0.3,0.1,0.0,0.9,LAL

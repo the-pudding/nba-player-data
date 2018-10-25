@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mcdonmi01,1997-98,28,CHH,NBA,1,4.0,,,1.0,0.0,0.0,0.0,0.0,-22.1,-0.1,-0.638,-23.4,0.0,,"Longview in Longview, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael McDonald,/players/m/mcdonmi01.html,1998,1998,"Utah Valley State College, University of New Orleans",false,"Longview in Longview, Texas",+0.30,0.01,mcdonmi01,1997-98,CHH,-22.1,-0.1,-0.638,-23.4,0.0,,28,NBA,1,4.0,,,1.0,0.0,0.0,0.0,0.0,CHH

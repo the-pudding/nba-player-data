@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-sapplwa01,1984-85,24,NJN,NBA,33,9.0,.471,.412,2.3,0.2,0.2,0.1,2.9,7.7,0.1,.012,-6.8,-0.4,,"Ardenne in Kingston, Jamaica"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wayne Sappleton,/players/s/sapplwa01.html,1985,1985,Loyola University of Chicago,false,"Ardenne in Kingston, Jamaica",-2.76,-0.10,sapplwa01,1984-85,NJN,7.7,0.1,.012,-6.8,-0.4,,24,NBA,33,9.0,.471,.412,2.3,0.2,0.2,0.1,2.9,NJN

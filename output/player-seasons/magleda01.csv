@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-magleda01,1982-83,23,CLE,NBA,14,4.0,.250,.500,0.7,0.1,0.1,0.0,0.9,3.9,-0.1,-0.066,-8.9,-0.1,,"LaSalle in South Bend, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dave Magley,/players/m/magleda01.html,1983,1983,University of Kansas,false,"LaSalle in South Bend, Indiana",+0.44,0.10,magleda01,1982-83,CLE,3.9,-0.1,-0.066,-8.9,-0.1,,23,NBA,14,4.0,.250,.500,0.7,0.1,0.1,0.0,0.9,CLE

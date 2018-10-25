@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-shakumu01,2010-11,26,Washington Wizards,NBA,22,7.2,.356,.533,1.0,1.1,0.2,0.1,2.3,6.8,-0.4,-0.112,-7.6,-0.2,,89670,"Friends' Central School in Wynnewood, Pennsylvania"
-shakumu01,2011-12,27,Did Not Play,,,,,,,,,,,,,,,,,,"Friends' Central School in Wynnewood, Pennsylvania"
-shakumu01,2012-13,28,Did Not Play,,,,,,,,,,,,,,,,,,"Friends' Central School in Wynnewood, Pennsylvania"
-shakumu01,2013-14,29,OKC,NBA,3,3.7,.000,.500,0.0,1.3,0.0,0.0,0.3,-8.8,-0.1,-0.347,-29.9,-0.1,,,"Friends' Central School in Wynnewood, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mustafa Shakur,/players/s/shakumu01.html,2011,2014,University of Arizona,false,"Friends' Central School in Wynnewood, Pennsylvania",-0.36,0.21,shakumu01,2010-11,WAS,6.8,-0.4,-0.112,-7.6,-0.2,,NBA,89670,26,22,7.2,.356,.533,1.0,1.1,0.2,0.1,2.3,WAS
+Mustafa Shakur,/players/s/shakumu01.html,2011,2014,University of Arizona,false,"Friends' Central School in Wynnewood, Pennsylvania",,,shakumu01,2011-12,Did Not Play,,,,,,,,,27,,,,,,,,,,Did Not Play
+Mustafa Shakur,/players/s/shakumu01.html,2011,2014,University of Arizona,false,"Friends' Central School in Wynnewood, Pennsylvania",,,shakumu01,2012-13,Did Not Play,,,,,,,,,28,,,,,,,,,,Did Not Play
+Mustafa Shakur,/players/s/shakumu01.html,2011,2014,University of Arizona,false,"Friends' Central School in Wynnewood, Pennsylvania",-0.42,0.01,shakumu01,2013-14,OKC,-8.8,-0.1,-0.347,-29.9,-0.1,,NBA,,29,3,3.7,.000,.500,0.0,1.3,0.0,0.0,0.3,OKC

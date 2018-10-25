@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bennema01,1995-96,22,Phoenix Suns,NBA,19,12.1,.453,.643,2.6,0.3,0.6,0.6,4.5,13.3,0.5,.098,-2.0,0.0,,480000,"Denton in Denton, Texas"
-bennema01,1996-97,23,Phoenix Suns,NBA,,,,,,,,,,,,,,,,555000,"Denton in Denton, Texas"
-bennema01,1997-98,24,Phoenix Suns,NBA,45,7.9,.593,.364,2.8,0.4,0.4,0.2,3.9,22.2,1.5,.201,2.9,0.4,,630000,"Denton in Denton, Texas"
-bennema01,1998-99,25,CHI,NBA,3,6.3,.333,.750,1.7,0.0,0.3,0.0,2.3,10.9,0.0,.065,-12.7,-0.1,,,"Denton in Denton, Texas"
-bennema01,1999-00,26,LAC,NBA,1,3.0,.000,,2.0,0.0,0.0,0.0,0.0,-25.5,-0.1,-0.859,-49.5,0.0,,,"Denton in Denton, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mario Bennett,/players/b/bennema01.html,1996,2000,Arizona State University,false,"Denton in Denton, Texas",-0.33,0.31,bennema01,1995-96,PHO,13.3,0.5,.098,-2.0,0.0,,NBA,480000,22,19,12.1,.453,.643,2.6,0.3,0.6,0.6,4.5,PHO
+Mario Bennett,/players/b/bennema01.html,1996,2000,Arizona State University,false,"Denton in Denton, Texas",,,bennema01,1996-97,Did Not Play (other pro league—CBA),,,,,,,NBA,555000,23,,,,,,,,,,Did Not Play (other pro league—CBA)
+Mario Bennett,/players/b/bennema01.html,1996,2000,Arizona State University,false,"Denton in Denton, Texas",+0.93,0.79,bennema01,1997-98,LAL,22.2,1.5,.201,2.9,0.4,,NBA,630000,24,45,7.9,.593,.364,2.8,0.4,0.4,0.2,3.9,LAL
+Mario Bennett,/players/b/bennema01.html,1996,2000,Arizona State University,false,"Denton in Denton, Texas",+0.19,0.03,bennema01,1998-99,CHI,10.9,0.0,.065,-12.7,-0.1,,NBA,,25,3,6.3,.333,.750,1.7,0.0,0.3,0.0,2.3,CHI
+Mario Bennett,/players/b/bennema01.html,1996,2000,Arizona State University,false,"Denton in Denton, Texas",-0.04,0.00,bennema01,1999-00,LAC,-25.5,-0.1,-0.859,-49.5,0.0,,NBA,,26,1,3.0,.000,,2.0,0.0,0.0,0.0,0.0,LAC

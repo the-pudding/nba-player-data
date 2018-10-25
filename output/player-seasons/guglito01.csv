@@ -1,21 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-guglito01,1992-93,23,Washington Bullets,NBA,81,34.5,.426,.644,9.6,3.8,1.7,0.4,14.7,14.6,1.6,.028,0.2,1.5,,1250000,"Walt Whitman in Huntington Station, New York"
-guglito01,1993-94,24,Washington Bullets,NBA,78,35.8,.466,.685,9.3,3.5,2.2,0.7,17.1,17.9,3.8,.066,2.1,2.9,,1625000,"Walt Whitman in Huntington Station, New York"
-guglito01,1994-95,25,Golden State Warriors,NBA,77,33.4,.443,.690,7.4,3.6,1.7,0.8,12.7,15.2,3.5,.065,2.0,2.6,,1625000,"Walt Whitman in Huntington Station, New York"
-guglito01,1994-95,25,Golden State Warriors,NBA,6,37.7,.398,.788,8.8,3.0,3.5,1.8,16.0,18.6,0.5,.104,2.9,0.3,,1625000,"Walt Whitman in Huntington Station, New York"
-guglito01,1994-95,25,Golden State Warriors,NBA,40,33.1,.443,.567,7.4,3.1,1.3,0.6,10.9,12.2,0.9,.034,0.3,0.8,,1625000,"Walt Whitman in Huntington Station, New York"
-guglito01,1994-95,25,Golden State Warriors,NBA,31,32.8,.454,.762,7.2,4.5,2.0,0.9,14.4,18.4,2.1,.097,4.0,1.5,,1625000,"Walt Whitman in Huntington Station, New York"
-guglito01,1995-96,26,Minnesota Timberwolves,NBA,78,36.3,.471,.773,8.8,3.1,1.8,1.2,16.2,16.9,5.3,.089,2.2,3.0,,4500000,"Walt Whitman in Huntington Station, New York"
-guglito01,1996-97,27,Minnesota Timberwolves,NBA,81,38.7,.442,.820,8.7,4.1,1.6,1.1,20.6,19.0,6.7,.103,2.0,3.2,,5000000,"Walt Whitman in Huntington Station, New York"
-guglito01,1997-98,28,Minnesota Timberwolves,NBA,41,38.6,.502,.821,8.7,4.1,1.5,0.5,20.1,20.5,5.0,.151,3.6,2.2,,5500000,"Walt Whitman in Huntington Station, New York"
-guglito01,1998-99,29,Phoenix Suns,NBA,43,36.3,.483,.794,8.9,2.8,1.4,0.5,17.0,20.0,5.4,.165,2.5,1.8,,7800000,"Walt Whitman in Huntington Station, New York"
-guglito01,1999-00,30,Phoenix Suns,NBA,54,32.7,.481,.775,7.9,2.3,1.5,0.6,13.7,16.4,5.2,.140,1.9,1.8,,8558535,"Walt Whitman in Huntington Station, New York"
-guglito01,2000-01,31,Phoenix Suns,NBA,57,20.3,.392,.792,4.5,1.0,0.8,0.4,6.4,11.1,1.8,.073,-2.3,-0.1,,9360000,"Walt Whitman in Huntington Station, New York"
-guglito01,2001-02,32,Phoenix Suns,NBA,44,25.7,.422,.757,5.0,1.8,0.9,0.7,6.5,9.7,0.9,.040,-1.5,0.1,,10114000,"Walt Whitman in Huntington Station, New York"
-guglito01,2002-03,33,Phoenix Suns,NBA,27,16.6,.455,1.000,3.7,1.1,0.5,0.2,4.8,10.9,0.4,.043,-3.1,-0.1,,10892000,"Walt Whitman in Huntington Station, New York"
-guglito01,2003-04,34,Phoenix Suns,NBA,55,14.9,.345,.714,3.4,1.1,0.6,0.2,2.9,9.1,0.3,.019,-2.5,-0.1,,11670000,"Walt Whitman in Huntington Station, New York"
-guglito01,2003-04,34,Phoenix Suns,NBA,30,10.1,.313,.750,1.9,0.7,0.5,0.1,2.3,5.2,-0.5,-0.082,-7.2,-0.4,,11670000,"Walt Whitman in Huntington Station, New York"
-guglito01,2003-04,34,Phoenix Suns,NBA,25,20.6,.375,.700,5.2,1.7,0.7,0.3,3.7,11.4,0.8,.079,0.3,0.3,,11670000,"Walt Whitman in Huntington Station, New York"
-guglito01,2004-05,35,Boston Celtics,NBA,47,20.6,.411,.767,4.1,1.4,0.9,0.4,5.1,9.9,0.4,.018,-2.4,-0.1,,2700000,"Walt Whitman in Huntington Station, New York"
-guglito01,2004-05,35,Boston Celtics,NBA,20,10.9,.297,.667,2.2,0.6,0.5,0.2,1.3,5.7,0.0,.002,-3.3,-0.1,,2700000,"Walt Whitman in Huntington Station, New York"
-guglito01,2004-05,35,Boston Celtics,NBA,27,27.7,.431,.784,5.5,2.1,1.2,0.5,7.9,11.1,0.3,.022,-2.1,0.0,,2700000,"Walt Whitman in Huntington Station, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-0.98,2.45,guglito01,1992-93,WSB,14.6,1.6,.028,0.2,1.5,,NBA,1250000,23,81,34.5,.426,.644,9.6,3.8,1.7,0.4,14.7,WSB
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",+0.57,5.38,guglito01,1993-94,WSB,17.9,3.8,.066,2.1,2.9,,NBA,1625000,24,78,35.8,.466,.685,9.3,3.5,2.2,0.7,17.1,WSB
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-0.77,2.63,guglito01,1994-95,TOT,15.2,3.5,.065,2.0,2.6,,NBA,1625000,25,77,33.4,.443,.690,7.4,3.6,1.7,0.8,12.7,"WSB,GSW,MIN"
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",+0.78,5.88,guglito01,1995-96,MIN,16.9,5.3,.089,2.2,3.0,,NBA,4500000,26,78,36.3,.471,.773,8.8,3.1,1.8,1.2,16.2,MIN
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",+1.26,7.81,guglito01,1996-97,MIN,19.0,6.7,.103,2.0,3.2,,NBA,5000000,27,81,38.7,.442,.820,8.7,4.1,1.6,1.1,20.6,MIN
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",+0.97,3.48,guglito01,1997-98,MIN,20.5,5.0,.151,3.6,2.2,,NBA,5500000,28,41,38.6,.502,.821,8.7,4.1,1.5,0.5,20.1,MIN
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",+1.18,3.97,guglito01,1998-99,PHO,20.0,5.4,.165,2.5,1.8,,NBA,7800000,29,43,36.3,.483,.794,8.9,2.8,1.4,0.5,17.0,PHO
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",+1.13,4.15,guglito01,1999-00,PHO,16.4,5.2,.140,1.9,1.8,,NBA,8558535,30,54,32.7,.481,.775,7.9,2.3,1.5,0.6,13.7,PHO
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-0.97,1.03,guglito01,2000-01,PHO,11.1,1.8,.073,-2.3,-0.1,,NBA,9360000,31,57,20.3,.392,.792,4.5,1.0,0.8,0.4,6.4,PHO
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-0.53,1.32,guglito01,2001-02,PHO,9.7,0.9,.040,-1.5,0.1,,NBA,10114000,32,44,25.7,.422,.757,5.0,1.8,0.9,0.7,6.5,PHO
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-2.49,-0.10,guglito01,2002-03,PHO,10.9,0.4,.043,-3.1,-0.1,,NBA,10892000,33,27,16.6,.455,1.000,3.7,1.1,0.5,0.2,4.8,PHO
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-2.00,0.08,guglito01,2003-04,TOT,9.1,0.3,.019,-2.5,-0.1,,NBA,11670000,34,55,14.9,.345,.714,3.4,1.1,0.6,0.2,2.9,"PHO,UTA"
+Tom Gugliotta,/players/g/guglito01.html,1993,2005,North Carolina State University,false,"Walt Whitman in Huntington Station, New York",-2.52,-0.18,guglito01,2004-05,TOT,9.9,0.4,.018,-2.4,-0.1,,NBA,2700000,35,47,20.6,.411,.767,4.1,1.4,0.9,0.4,5.1,"BOS,ATL"

@@ -1,11 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bradlmi01,2001-02,22,Toronto Raptors,NBA,26,4.5,.520,.500,0.9,0.1,0.0,0.2,1.2,9.9,0.1,.053,-5.5,-0.1,,1123560,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2002-03,23,Toronto Raptors,NBA,67,19.6,.481,.522,6.1,1.0,0.2,0.5,5.0,12.8,1.5,.056,-2.6,-0.2,,1207800,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2003-04,24,Toronto Raptors,NBA,16,6.1,.467,.500,1.4,0.1,0.2,0.0,0.9,4.1,0.0,-0.015,-9.8,-0.2,,1292040,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2003-04,24,Toronto Raptors,NBA,5,7.6,.333,.500,2.2,0.2,0.2,0.0,0.6,1.3,0.0,-0.020,-9.2,-0.1,,1292040,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2003-04,24,Toronto Raptors,NBA,11,5.5,.500,,1.1,0.0,0.2,0.0,1.1,5.8,0.0,-0.012,-10.2,-0.1,,1292040,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2004-05,25,Orlando Magic,NBA,18,6.6,.625,.375,1.6,0.3,0.1,0.1,1.8,11.7,0.2,.082,-3.9,-0.1,,720046,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2004-05,25,Orlando Magic,NBA,8,6.9,.429,,1.8,0.3,0.1,0.3,0.8,8.3,0.1,.061,-3.4,0.0,,720046,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2004-05,25,Orlando Magic,NBA,8,6.0,.667,.333,1.4,0.3,0.0,0.0,2.3,12.1,0.1,.076,-5.1,0.0,,720046,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2004-05,25,Orlando Magic,NBA,2,8.0,.800,.500,1.5,0.5,0.0,0.0,4.5,22.0,0.1,.174,-2.3,0.0,,720046,"Burncoat in Worcester, Massachusetts"
-bradlmi01,2005-06,26,Philadelphia 76ers,NBA,46,8.0,.405,.667,2.3,0.4,0.1,0.2,1.5,8.4,0.1,.019,-5.4,-0.3,,819550,"Burncoat in Worcester, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Bradley,/players/b/bradlmi01.html,2002,2006,"University of Kentucky, Villanova University",false,"Burncoat in Worcester, Massachusetts",-0.82,0.12,bradlmi01,2001-02,TOR,9.9,0.1,.053,-5.5,-0.1,,NBA,1123560,22,26,4.5,.520,.500,0.9,0.1,0.0,0.2,1.2,TOR
+Michael Bradley,/players/b/bradlmi01.html,2002,2006,"University of Kentucky, Villanova University",false,"Burncoat in Worcester, Massachusetts",-3.39,-1.02,bradlmi01,2002-03,TOR,12.8,1.5,.056,-2.6,-0.2,,NBA,1207800,23,67,19.6,.481,.522,6.1,1.0,0.2,0.5,5.0,TOR
+Michael Bradley,/players/b/bradlmi01.html,2002,2006,"University of Kentucky, Villanova University",false,"Burncoat in Worcester, Massachusetts",-0.69,0.10,bradlmi01,2003-04,TOT,4.1,0.0,-0.015,-9.8,-0.2,,NBA,1292040,24,16,6.1,.467,.500,1.4,0.1,0.2,0.0,0.9,"TOR,ATL"
+Michael Bradley,/players/b/bradlmi01.html,2002,2006,"University of Kentucky, Villanova University",false,"Burncoat in Worcester, Massachusetts",-0.14,0.17,bradlmi01,2004-05,TOT,11.7,0.2,.082,-3.9,-0.1,,NBA,720046,25,18,6.6,.625,.375,1.6,0.3,0.1,0.1,1.8,"ORL,SAC,PHI"
+Michael Bradley,/players/b/bradlmi01.html,2002,2006,"University of Kentucky, Villanova University",false,"Burncoat in Worcester, Massachusetts",-3.27,-0.27,bradlmi01,2005-06,PHI,8.4,0.1,.019,-5.4,-0.3,,NBA,819550,26,46,8.0,.405,.667,2.3,0.4,0.1,0.2,1.5,PHI

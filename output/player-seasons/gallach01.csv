@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-gallach01,1993-94,24,UTA,NBA,2,1.5,1.000,,0.0,0.0,0.0,0.0,3.0,66.8,0.1,1.442,16.3,0.0,,"Boylan Central Catholic in Rockford, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chad Gallagher,/players/g/gallach01.html,1994,1994,Creighton University,false,"Boylan Central Catholic in Rockford, Illinois",+0.10,0.00,gallach01,1993-94,UTA,66.8,0.1,1.442,16.3,0.0,,24,NBA,2,1.5,1.000,,0.0,0.0,0.0,0.0,3.0,UTA

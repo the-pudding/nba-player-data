@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-clavegi01,2017-18,24,Dallas Mavericks,NBA,7,9.1,.333,1.000,1.0,0.4,0.3,0.0,2.9,7.4,0.1,.042,-3.6,0.0,,,"Hialeah Gardens in Hialeah Gardens, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gian Clavell,/players/c/clavegi01.html,2018,2018,Colorado State University,true,"Hialeah Gardens in Hialeah Gardens, Florida",+0.32,0.11,clavegi01,2017-18,DAL,7.4,0.1,.042,-3.6,0.0,,NBA,,24,7,9.1,.333,1.000,1.0,0.4,0.3,0.0,2.9,DAL

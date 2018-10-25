@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-boydde01,1978-79,24,DET,NBA,5,8.0,.250,,0.4,1.4,0.0,0.0,1.2,-4.0,-0.2,-0.230,-15.7,-0.1,,"Roosevelt in New York, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dennis Boyd,/players/b/boydde01.html,1979,1979,University of Detroit Mercy,false,"Roosevelt in New York, New York",+0.22,0.07,boydde01,1978-79,DET,-4.0,-0.2,-0.230,-15.7,-0.1,,24,NBA,5,8.0,.250,,0.4,1.4,0.0,0.0,1.2,DET

@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-grunfer01,1977-78,22,MIL,NBA,73,17.3,.443,.657,2.7,2.0,0.7,0.3,6.9,12.0,1.4,.055,-2.1,0.0,,"Forest Hills in Forest Hills, New York",
-grunfer01,1978-79,23,MIL,NBA,82,21.7,.493,.761,4.4,2.6,0.7,0.2,10.3,15.2,4.3,.117,0.5,1.1,,"Forest Hills in Forest Hills, New York",
-grunfer01,1979-80,24,KCK,NBA,80,17.5,.443,.771,2.9,1.4,0.7,0.1,5.9,10.9,2.5,.087,-0.9,0.4,,"Forest Hills in Forest Hills, New York",
-grunfer01,1980-81,25,KCK,NBA,79,20.1,.535,.743,2.6,2.6,0.8,0.2,7.5,13.7,3.5,.106,-0.5,0.6,,"Forest Hills in Forest Hills, New York",
-grunfer01,1981-82,26,KCK,NBA,81,23.4,.511,.821,2.2,3.4,0.9,0.5,12.7,17.2,4.3,.110,0.4,1.1,,"Forest Hills in Forest Hills, New York",
-grunfer01,1982-83,27,NYK,NBA,77,18.5,.443,.827,2.1,1.8,0.5,0.1,5.4,8.9,2.2,.073,-1.8,0.1,,"Forest Hills in Forest Hills, New York",
-grunfer01,1983-84,28,NYK,NBA,76,14.7,.459,.771,1.6,1.4,0.6,0.1,5.2,9.6,1.6,.069,-2.5,-0.1,,"Forest Hills in Forest Hills, New York",
-grunfer01,1984-85,29,New York Knicks,NBA,69,15.4,.490,.740,2.2,1.5,0.7,0.1,6.6,14.7,2.4,.111,-0.3,0.5,,"Forest Hills in Forest Hills, New York",250000
-grunfer01,1985-86,30,New York Knicks,NBA,76,18.4,.417,.833,2.7,1.6,0.5,0.2,5.4,9.8,2.7,.091,-1.1,0.3,,"Forest Hills in Forest Hills, New York",275000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-1.58,0.55,grunfer01,1977-78,MIL,12.0,1.4,.055,-2.1,0.0,,22,NBA,73,17.3,.443,.657,2.7,2.0,0.7,0.3,6.9,MIL,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-0.32,2.35,grunfer01,1978-79,MIL,15.2,4.3,.117,0.5,1.1,,23,NBA,82,21.7,.493,.761,4.4,2.6,0.7,0.2,10.3,MIL,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-1.28,0.90,grunfer01,1979-80,KCK,10.9,2.5,.087,-0.9,0.4,,24,NBA,80,17.5,.443,.771,2.9,1.4,0.7,0.1,5.9,KCK,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-0.16,3.17,grunfer01,1980-81,KCK,13.7,3.5,.106,-0.5,0.6,,25,NBA,79,20.1,.535,.743,2.6,2.6,0.8,0.2,7.5,KCK,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-0.03,2.88,grunfer01,1981-82,KCK,17.2,4.3,.110,0.4,1.1,,26,NBA,81,23.4,.511,.821,2.2,3.4,0.9,0.5,12.7,KCK,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-1.53,0.68,grunfer01,1982-83,NYK,8.9,2.2,.073,-1.8,0.1,,27,NBA,77,18.5,.443,.827,2.1,1.8,0.5,0.1,5.4,NYK,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-1.60,0.52,grunfer01,1983-84,NYK,9.6,1.6,.069,-2.5,-0.1,,28,NBA,76,14.7,.459,.771,1.6,1.4,0.6,0.1,5.2,NYK,
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-0.39,1.35,grunfer01,1984-85,NYK,14.7,2.4,.111,-0.3,0.5,,29,NBA,69,15.4,.490,.740,2.2,1.5,0.7,0.1,6.6,NYK,250000
+Ernie Grunfeld,/players/g/grunfer01.html,1978,1986,University of Tennessee,false,"Forest Hills in Forest Hills, New York",-1.51,0.66,grunfer01,1985-86,NYK,9.8,2.7,.091,-1.1,0.3,,30,NBA,76,18.4,.417,.833,2.7,1.6,0.5,0.2,5.4,NYK,275000

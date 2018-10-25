@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-holtomi01,1984-85,23,PHO,NBA,74,23.8,.446,.814,1.8,2.7,0.8,0.1,8.4,8.9,0.8,.023,-3.9,-0.9,,"Pasadena in Pasadena, California",
-holtomi01,1985-86,24,"PHO,CHI",NBA,28,18.3,.440,.636,1.2,2.0,0.9,0.0,6.5,10.1,0.2,.019,-4.0,-0.3,,"Pasadena in Pasadena, California",
-holtomi01,1986-87,25,POR,NBA,58,8.3,.409,.800,0.7,1.3,0.3,0.0,3.3,9.5,0.3,.026,-6.1,-0.5,,"Pasadena in Pasadena, California",
-holtomi01,1987-88,26,Portland Trail Blazers,NBA,82,15.6,.462,.829,1.8,2.6,0.5,0.1,5.3,11.4,2.3,.087,-2.2,0.0,,"Pasadena in Pasadena, California",120000
-holtomi01,1988-89,27,Charlotte Hornets,NBA,67,25.3,.427,.839,1.6,6.3,1.0,0.2,8.3,12.3,1.3,.038,-4.1,-0.9,,"Pasadena in Pasadena, California",150000
-holtomi01,1989-90,28,CHH,NBA,16,6.8,.538,.500,0.1,1.0,0.1,0.0,1.8,2.9,-0.2,-0.081,-12.1,-0.3,,"Pasadena in Pasadena, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mike Holton,/players/h/holtomi01.html,1985,1990,"University of California, Los Angeles",false,"Pasadena in Pasadena, California",-2.71,-0.55,holtomi01,1984-85,PHO,8.9,0.8,.023,-3.9,-0.9,,23,NBA,74,23.8,.446,.814,1.8,2.7,0.8,0.1,8.4,PHO,
+Mike Holton,/players/h/holtomi01.html,1985,1990,"University of California, Los Angeles",false,"Pasadena in Pasadena, California",-2.26,0.01,holtomi01,1985-86,TOT,10.1,0.2,.019,-4.0,-0.3,,24,NBA,28,18.3,.440,.636,1.2,2.0,0.9,0.0,6.5,"PHO,CHI",
+Mike Holton,/players/h/holtomi01.html,1985,1990,"University of California, Los Angeles",false,"Pasadena in Pasadena, California",-2.86,-0.17,holtomi01,1986-87,POR,9.5,0.3,.026,-6.1,-0.5,,25,NBA,58,8.3,.409,.800,0.7,1.3,0.3,0.0,3.3,POR,
+Mike Holton,/players/h/holtomi01.html,1985,1990,"University of California, Los Angeles",false,"Pasadena in Pasadena, California",-1.57,0.65,holtomi01,1987-88,POR,11.4,2.3,.087,-2.2,0.0,,26,NBA,82,15.6,.462,.829,1.8,2.6,0.5,0.1,5.3,POR,120000
+Mike Holton,/players/h/holtomi01.html,1985,1990,"University of California, Los Angeles",false,"Pasadena in Pasadena, California",-1.52,0.88,holtomi01,1988-89,CHH,12.3,1.3,.038,-4.1,-0.9,,27,NBA,67,25.3,.427,.839,1.6,6.3,1.0,0.2,8.3,CHH,150000
+Mike Holton,/players/h/holtomi01.html,1985,1990,"University of California, Los Angeles",false,"Pasadena in Pasadena, California",-1.09,0.09,holtomi01,1989-90,CHH,2.9,-0.2,-0.081,-12.1,-0.3,,28,NBA,16,6.8,.538,.500,0.1,1.0,0.1,0.0,1.8,CHH,

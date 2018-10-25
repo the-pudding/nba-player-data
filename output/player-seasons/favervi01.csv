@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-favervi01,2013-14,25,BOS,NBA,37,13.2,.435,.649,3.5,0.4,0.4,0.7,4.4,11.0,0.3,.031,-3.1,-0.1,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Vitor Faverani,/players/f/favervi01.html,2014,2014,,false,,-1.73,0.15,favervi01,2013-14,BOS,11.0,0.3,.031,-3.1,-0.1,,25,NBA,37,13.2,.435,.649,3.5,0.4,0.4,0.7,4.4,BOS

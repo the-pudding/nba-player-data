@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davisan02,2012-13,19,New Orleans Hornets,NBA,64,28.8,.516,.751,8.2,1.0,1.2,1.8,13.5,21.7,6.1,.159,2.3,2.0,,5144280,"Perspectives Charter School in Chicago, Illinois"
-davisan02,2013-14,20,New Orleans Pelicans,NBA,67,35.2,.519,.791,10.0,1.6,1.3,2.8,20.8,26.5,10.4,.212,4.5,3.9,,5375760,"Perspectives Charter School in Chicago, Illinois"
-davisan02,2014-15,21,New Orleans Pelicans,NBA,68,36.1,.535,.805,10.2,2.2,1.5,2.9,24.4,30.8,14.0,.274,7.1,5.7,All-NBA (1st),5607240,"Perspectives Charter School in Chicago, Illinois"
-davisan02,2015-16,22,New Orleans Pelicans,NBA,61,35.5,.493,.758,10.3,1.9,1.3,2.0,24.3,25.0,7.2,.160,2.2,2.3,,7070730,"Perspectives Charter School in Chicago, Illinois"
-davisan02,2016-17,23,New Orleans Pelicans,NBA,75,36.1,.505,.802,11.8,2.1,1.3,2.2,28.0,27.5,11.0,.195,3.7,3.9,All-NBA (1st),22116750,"Perspectives Charter School in Chicago, Illinois"
-davisan02,2017-18,24,New Orleans Pelicans,NBA,75,36.4,.534,.828,11.1,2.3,1.5,2.6,28.1,28.9,13.7,.241,5.2,4.9,All-NBA (1st),23775506,"Perspectives Charter School in Chicago, Illinois"
-davisan02,2018-19,25,NOP,NBA,3,35.3,.593,.706,13.0,5.3,2.0,3.3,30.3,37.4,0.9,.392,16.3,0.5,,,"Perspectives Charter School in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",+0.98,4.08,davisan02,2012-13,NOH,21.7,6.1,.159,2.3,2.0,,NBA,5144280,19,64,28.8,.516,.751,8.2,1.0,1.2,1.8,13.5,NOH
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",+2.45,7.50,davisan02,2013-14,NOP,26.5,10.4,.212,4.5,3.9,,NBA,5375760,20,67,35.2,.519,.791,10.0,1.6,1.3,2.8,20.8,NOP
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",+6.04,14.30,davisan02,2014-15,NOP,30.8,14.0,.274,7.1,5.7,All-NBA (1st),NBA,5607240,21,68,36.1,.535,.805,10.2,2.2,1.5,2.9,24.4,NOP
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",+1.76,5.96,davisan02,2015-16,NOP,25.0,7.2,.160,2.2,2.3,,NBA,7070730,22,61,35.5,.493,.758,10.3,1.9,1.3,2.0,24.3,NOP
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",+3.96,11.32,davisan02,2016-17,NOP,27.5,11.0,.195,3.7,3.9,All-NBA (1st),NBA,22116750,23,75,36.1,.505,.802,11.8,2.1,1.3,2.2,28.0,NOP
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",+4.80,14.39,davisan02,2017-18,NOP,28.9,13.7,.241,5.2,4.9,All-NBA (1st),NBA,23775506,24,75,36.4,.534,.828,11.1,2.3,1.5,2.6,28.1,NOP
+Anthony Davis,/players/d/davisan02.html,2013,2019,University of Kentucky,true,"Perspectives Charter School in Chicago, Illinois",,,davisan02,2018-19,NOP,37.4,0.9,.392,16.3,0.5,,NBA,,25,3,35.3,.593,.706,13.0,5.3,2.0,3.3,30.3,NOP

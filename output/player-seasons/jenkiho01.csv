@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jenkiho01,2004-05,30,Detroit Pistons,NBA,15,6.9,.333,.923,0.6,0.6,0.3,0.1,2.8,10.2,0.0,.006,-6.1,-0.1,,385277,"Elizabeth in Elizabeth, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Horace Jenkins,/players/j/jenkiho01.html,2005,2005,William Paterson University,false,"Elizabeth in Elizabeth, New Jersey",-1.76,0.02,jenkiho01,2004-05,DET,10.2,0.0,.006,-6.1,-0.1,,NBA,385277,30,15,6.9,.333,.923,0.6,0.6,0.3,0.1,2.8,DET

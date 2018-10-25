@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-diawaya01,2006-07,24,Denver Nuggets,NBA,64,18.4,.342,.660,1.7,0.9,0.5,0.1,4.4,5.3,0.5,.021,-3.1,-0.3,,412718,"Tremblay En France in Paris, France"
-diawaya01,2007-08,25,Denver Nuggets,NBA,54,10.0,.410,.710,1.1,0.7,0.1,0.1,2.8,8.1,0.7,.065,-3.4,-0.2,,687456,"Tremblay En France in Paris, France"
-diawaya01,2008-09,26,Miami Heat,NBA,63,13.5,.350,.526,1.3,0.4,0.2,0.1,3.4,6.4,0.5,.029,-4.2,-0.5,,875000,"Tremblay En France in Paris, France"
-diawaya01,2009-10,27,Miami Heat,NBA,6,7.3,.200,,0.7,0.5,0.2,0.0,0.8,-3.7,-0.1,-0.124,-8.9,-0.1,,945000,"Tremblay En France in Paris, France"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Yakhouba Diawara,/players/d/diawaya01.html,2007,2010,Pepperdine University,false,"Tremblay En France in Paris, France",-1.47,0.62,diawaya01,2006-07,DEN,5.3,0.5,.021,-3.1,-0.3,,NBA,412718,24,64,18.4,.342,.660,1.7,0.9,0.5,0.1,4.4,DEN
+Yakhouba Diawara,/players/d/diawaya01.html,2007,2010,Pepperdine University,false,"Tremblay En France in Paris, France",-2.61,-0.13,diawaya01,2007-08,DEN,8.1,0.7,.065,-3.4,-0.2,,NBA,687456,25,54,10.0,.410,.710,1.1,0.7,0.1,0.1,2.8,DEN
+Yakhouba Diawara,/players/d/diawaya01.html,2007,2010,Pepperdine University,false,"Tremblay En France in Paris, France",-2.88,-0.35,diawaya01,2008-09,MIA,6.4,0.5,.029,-4.2,-0.5,,NBA,875000,26,63,13.5,.350,.526,1.3,0.4,0.2,0.1,3.4,MIA
+Yakhouba Diawara,/players/d/diawaya01.html,2007,2010,Pepperdine University,false,"Tremblay En France in Paris, France",-0.10,0.07,diawaya01,2009-10,MIA,-3.7,-0.1,-0.124,-8.9,-0.1,,NBA,945000,27,6,7.3,.200,,0.7,0.5,0.2,0.0,0.8,MIA

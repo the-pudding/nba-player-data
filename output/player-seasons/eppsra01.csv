@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-eppsra01,1978-79,22,GSW,NBA,13,5.5,.435,.750,0.4,0.2,0.1,0.0,2.0,7.9,0.1,.057,-6.9,-0.1,,"George Wythe in Richmond, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ray Epps,/players/e/eppsra01.html,1979,1979,Norfolk State University,false,"George Wythe in Richmond, Virginia",+0.57,0.14,eppsra01,1978-79,GSW,7.9,0.1,.057,-6.9,-0.1,,22,NBA,13,5.5,.435,.750,0.4,0.2,0.1,0.0,2.0,GSW

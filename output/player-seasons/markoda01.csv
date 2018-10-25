@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-markoda01,2006-07,21,Milwaukee Bucks,NBA,30,5.7,.365,.636,1.0,0.2,0.1,0.0,1.7,5.0,-0.2,-0.070,-9.0,-0.3,,412718,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damir Markota,/players/m/markoda01.html,2007,2007,,false,,-2.41,0.00,markoda01,2006-07,MIL,5.0,-0.2,-0.070,-9.0,-0.3,,NBA,412718,21,30,5.7,.365,.636,1.0,0.2,0.1,0.0,1.7,MIL

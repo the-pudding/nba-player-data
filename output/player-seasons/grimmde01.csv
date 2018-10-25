@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grimmde01,1997-98,23,Sacramento Kings,NBA,9,3.8,.286,1.000,0.4,0.0,0.3,0.1,1.6,7.9,0.0,-0.012,-6.9,0.0,,242000,"Morton in Morton, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derek Grimm,/players/g/grimmde01.html,1998,1998,University of Missouri,false,"Morton in Morton, Illinois",+0.21,0.06,grimmde01,1997-98,SAC,7.9,0.0,-0.012,-6.9,0.0,,NBA,242000,23,9,3.8,.286,1.000,0.4,0.0,0.3,0.1,1.6,SAC

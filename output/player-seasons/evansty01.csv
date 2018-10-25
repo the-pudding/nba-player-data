@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-evansty01,2009-10,20,Sacramento Kings,NBA,72,37.2,.458,.748,5.3,5.8,1.5,0.4,20.1,18.2,5.4,.097,1.6,2.5,,3610080,"American Christian School in Aston, Pennsylvania"
-evansty01,2010-11,21,Sacramento Kings,NBA,57,37.0,.409,.771,4.8,5.6,1.5,0.5,17.8,14.4,1.6,.036,-0.5,0.8,,3880920,"American Christian School in Aston, Pennsylvania"
-evansty01,2011-12,22,Sacramento Kings,NBA,63,34.3,.453,.779,4.6,4.5,1.3,0.5,16.5,16.4,2.7,.059,-0.3,0.9,,4151640,"American Christian School in Aston, Pennsylvania"
-evansty01,2012-13,23,Sacramento Kings,NBA,65,31.0,.478,.775,4.4,3.5,1.4,0.4,15.2,18.1,4.4,.105,1.3,1.7,,5251825,"American Christian School in Aston, Pennsylvania"
-evansty01,2013-14,24,New Orleans Pelicans,NBA,72,28.2,.436,.771,4.7,5.0,1.2,0.3,14.5,18.4,3.1,.073,0.8,1.4,,10300000,"American Christian School in Aston, Pennsylvania"
-evansty01,2014-15,25,New Orleans Pelicans,NBA,79,34.1,.447,.694,5.3,6.6,1.3,0.5,16.6,17.7,4.6,.082,1.9,2.6,,10763500,"American Christian School in Aston, Pennsylvania"
-evansty01,2015-16,26,New Orleans Pelicans,NBA,25,30.6,.433,.796,5.2,6.6,1.3,0.3,15.2,17.9,1.4,.087,1.7,0.7,,11227000,"American Christian School in Aston, Pennsylvania"
-evansty01,2016-17,27,Sacramento Kings,NBA,40,19.7,.405,.750,3.4,3.1,0.9,0.2,10.3,15.5,0.7,.045,-0.9,0.2,,10661286,"American Christian School in Aston, Pennsylvania"
-evansty01,2016-17,27,Sacramento Kings,NBA,26,18.2,.401,.776,3.3,3.5,0.9,0.2,9.5,15.8,0.5,.053,0.0,0.2,,10661286,"American Christian School in Aston, Pennsylvania"
-evansty01,2016-17,27,Sacramento Kings,NBA,14,22.4,.413,.706,3.6,2.4,0.9,0.4,11.6,14.9,0.2,.034,-2.2,0.0,,10661286,"American Christian School in Aston, Pennsylvania"
-evansty01,2017-18,28,Memphis Grizzlies,NBA,52,30.9,.452,.785,5.1,5.2,1.1,0.3,19.4,21.1,4.2,.126,3.6,2.3,,3290000,"American Christian School in Aston, Pennsylvania"
-evansty01,2018-19,29,IND,NBA,5,21.2,.453,.500,3.0,3.6,1.4,0.6,12.0,19.8,0.4,.170,4.7,0.2,,,"American Christian School in Aston, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",-1.42,1.56,evansty01,2009-10,SAC,18.2,5.4,.097,1.6,2.5,,NBA,3610080,20,72,37.2,.458,.748,5.3,5.8,1.5,0.4,20.1,SAC
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",-0.67,2.28,evansty01,2010-11,SAC,14.4,1.6,.036,-0.5,0.8,,NBA,3880920,21,57,37.0,.409,.771,4.8,5.6,1.5,0.5,17.8,SAC
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",-1.65,0.90,evansty01,2011-12,SAC,16.4,2.7,.059,-0.3,0.9,,NBA,4151640,22,63,34.3,.453,.779,4.6,4.5,1.3,0.5,16.5,SAC
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",-0.15,2.91,evansty01,2012-13,SAC,18.1,4.4,.105,1.3,1.7,,NBA,5251825,23,65,31.0,.478,.775,4.4,3.5,1.4,0.4,15.2,SAC
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",-1.37,1.26,evansty01,2013-14,NOP,18.4,3.1,.073,0.8,1.4,,NBA,10300000,24,72,28.2,.436,.771,4.7,5.0,1.2,0.3,14.5,NOP
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",+1.24,6.69,evansty01,2014-15,NOP,17.7,4.6,.082,1.9,2.6,,NBA,10763500,25,79,34.1,.447,.694,5.3,6.6,1.3,0.5,16.6,NOP
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",+0.85,1.63,evansty01,2015-16,NOP,17.9,1.4,.087,1.7,0.7,,NBA,11227000,26,25,30.6,.433,.796,5.2,6.6,1.3,0.3,15.2,NOP
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",-1.16,0.58,evansty01,2016-17,TOT,15.5,0.7,.045,-0.9,0.2,,NBA,10661286,27,40,19.7,.405,.750,3.4,3.1,0.9,0.2,10.3,"NOP,SAC"
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",+1.89,4.49,evansty01,2017-18,MEM,21.1,4.2,.126,3.6,2.3,,NBA,3290000,28,52,30.9,.452,.785,5.1,5.2,1.1,0.3,19.4,MEM
+Tyreke Evans,/players/e/evansty01.html,2010,2019,University of Memphis,true,"American Christian School in Aston, Pennsylvania",,,evansty01,2018-19,IND,19.8,0.4,.170,4.7,0.2,,NBA,,29,5,21.2,.453,.500,3.0,3.6,1.4,0.6,12.0,IND

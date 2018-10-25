@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-gervige01,1976-77,24,SAS,NBA,82,33.0,.544,.833,5.5,2.9,1.3,1.3,23.1,21.4,10.5,.187,3.8,4.0,All-NBA (2nd),"Martin Luther King in Detroit, Michigan",
-gervige01,1977-78,25,SAS,NBA,82,34.8,.536,.830,5.1,3.7,1.7,1.3,27.2,24.7,12.0,.201,4.1,4.4,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
-gervige01,1978-79,26,SAS,NBA,80,36.1,.541,.826,5.0,2.7,1.7,1.1,29.6,23.2,11.4,.189,3.0,3.7,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
-gervige01,1979-80,27,SAS,NBA,78,37.6,.528,.852,5.2,2.6,1.4,1.0,33.1,24.0,10.6,.173,2.2,3.1,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
-gervige01,1980-81,28,SAS,NBA,82,33.7,.492,.826,5.1,3.2,1.1,0.7,27.1,22.9,10.5,.182,1.6,2.5,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
-gervige01,1981-82,29,SAS,NBA,79,35.7,.500,.864,5.0,2.4,1.0,0.6,32.3,24.2,10.7,.182,1.7,2.6,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
-gervige01,1982-83,30,SAS,NBA,78,36.3,.487,.853,4.6,3.4,1.1,0.9,26.2,20.5,9.4,.159,1.1,2.2,All-NBA (2nd),"Martin Luther King in Detroit, Michigan",
-gervige01,1983-84,31,SAS,NBA,76,34.0,.490,.842,4.1,2.9,1.0,0.6,25.9,19.3,5.5,.102,-0.4,1.1,,"Martin Luther King in Detroit, Michigan",
-gervige01,1984-85,32,San Antonio Spurs,NBA,72,29.0,.508,.844,3.3,2.5,0.9,0.7,21.2,18.5,4.6,.106,-1.3,0.4,,"Martin Luther King in Detroit, Michigan",831000
-gervige01,1985-86,33,Chicago Bulls,NBA,82,25.2,.472,.879,2.6,1.8,0.6,0.3,16.2,16.0,3.0,.069,-3.3,-0.7,,"Martin Luther King in Detroit, Michigan",806000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+2.21,8.54,gervige01,1976-77,SAS,21.4,10.5,.187,3.8,4.0,All-NBA (2nd),24,NBA,82,33.0,.544,.833,5.5,2.9,1.3,1.3,23.1,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+3.62,12.41,gervige01,1977-78,SAS,24.7,12.0,.201,4.1,4.4,All-NBA (1st),25,NBA,82,34.8,.536,.830,5.1,3.7,1.7,1.3,27.2,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+3.31,12.87,gervige01,1978-79,SAS,23.2,11.4,.189,3.0,3.7,All-NBA (1st),26,NBA,80,36.1,.541,.826,5.0,2.7,1.7,1.1,29.6,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+2.45,9.61,gervige01,1979-80,SAS,24.0,10.6,.173,2.2,3.1,All-NBA (1st),27,NBA,78,37.6,.528,.852,5.2,2.6,1.4,1.0,33.1,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+2.18,9.10,gervige01,1980-81,SAS,22.9,10.5,.182,1.6,2.5,All-NBA (1st),28,NBA,82,33.7,.492,.826,5.1,3.2,1.1,0.7,27.1,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+2.56,10.25,gervige01,1981-82,SAS,24.2,10.7,.182,1.7,2.6,All-NBA (1st),29,NBA,79,35.7,.500,.864,5.0,2.4,1.0,0.6,32.3,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",+1.20,7.65,gervige01,1982-83,SAS,20.5,9.4,.159,1.1,2.2,All-NBA (2nd),30,NBA,78,36.3,.487,.853,4.6,3.4,1.1,0.9,26.2,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",-0.05,3.89,gervige01,1983-84,SAS,19.3,5.5,.102,-0.4,1.1,,31,NBA,76,34.0,.490,.842,4.1,2.9,1.0,0.6,25.9,SAS,
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",-0.22,3.18,gervige01,1984-85,SAS,18.5,4.6,.106,-1.3,0.4,,32,NBA,72,29.0,.508,.844,3.3,2.5,0.9,0.7,21.2,SAS,831000
+George Gervin,/players/g/gervige01.html,1973,1986,Eastern Michigan University,false,"Martin Luther King in Detroit, Michigan",-1.66,0.94,gervige01,1985-86,CHI,16.0,3.0,.069,-3.3,-0.7,,33,NBA,82,25.2,.472,.879,2.6,1.8,0.6,0.3,16.2,CHI,806000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-valenro01,1980-81,23,DEN,NBA,24,5.1,.378,.474,1.3,0.3,0.3,0.2,3.5,10.3,-0.3,-0.128,-10.4,-0.3,,"Norfolk Catholic in Norfolk, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ronnie Valentine,/players/v/valenro01.html,1981,1981,Old Dominion University,false,"Norfolk Catholic in Norfolk, Virginia",-0.46,0.15,valenro01,1980-81,DEN,10.3,-0.3,-0.128,-10.4,-0.3,,23,NBA,24,5.1,.378,.474,1.3,0.3,0.3,0.2,3.5,DEN

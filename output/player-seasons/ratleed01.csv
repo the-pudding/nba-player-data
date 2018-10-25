@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-ratleed01,1976-77,26,HOU,NBA,37,14.4,.435,.619,2.1,1.2,0.5,0.2,4.5,10.8,0.5,.044,-3.0,-0.1,,"East in Columbus, Ohio"
-ratleed01,1977-78,27,HOU,NBA,68,17.1,.419,.830,2.4,2.3,0.9,0.3,4.4,11.5,1.0,.042,-0.6,0.4,,"East in Columbus, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ed Ratleff,/players/r/ratleed01.html,1974,1978,"California State University, Long Beach",false,"East in Columbus, Ohio",-1.96,0.08,ratleed01,1976-77,HOU,10.8,0.5,.044,-3.0,-0.1,,26,NBA,37,14.4,.435,.619,2.1,1.2,0.5,0.2,4.5,HOU
+Ed Ratleff,/players/r/ratleed01.html,1974,1978,"California State University, Long Beach",false,"East in Columbus, Ohio",-1.19,0.82,ratleed01,1977-78,HOU,11.5,1.0,.042,-0.6,0.4,,27,NBA,68,17.1,.419,.830,2.4,2.3,0.9,0.3,4.4,HOU

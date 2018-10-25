@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-barnhno01,1976-77,23,SEA,NBA,4,2.5,.333,,0.8,0.3,0.0,0.0,1.0,4.7,0.0,-0.198,-7.2,0.0,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Norton Barnhill,/players/b/barnhno01.html,1977,1977,Washington State University,false,,-0.83,0.01,barnhno01,1976-77,SEA,4.7,0.0,-0.198,-7.2,0.0,,23,NBA,4,2.5,.333,,0.8,0.3,0.0,0.0,1.0,SEA

@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-roundda01,1976-77,23,IND,NBA,61,27.0,.466,.686,8.5,1.1,1.0,2.1,13.9,17.6,3.9,.115,-0.2,0.8,,"Chadsey in Detroit, Michigan",
-roundda01,1977-78,24,IND,NBA,79,30.7,.489,.727,10.2,2.5,1.0,1.9,13.4,18.0,6.9,.138,2.9,3.0,,"Chadsey in Detroit, Michigan",
-roundda01,1978-79,25,ATL,NBA,80,31.7,.504,.714,10.8,1.6,1.1,2.2,15.3,19.4,8.7,.164,3.7,3.6,,"Chadsey in Detroit, Michigan",
-roundda01,1979-80,26,ATL,NBA,81,32.0,.499,.710,10.3,2.3,1.2,1.7,16.5,19.7,9.1,.169,4.6,4.3,All-NBA (2nd),"Chadsey in Detroit, Michigan",
-roundda01,1980-81,27,ATL,NBA,63,33.8,.527,.721,10.1,2.6,1.2,1.9,17.6,20.7,7.0,.159,4.6,3.5,,"Chadsey in Detroit, Michigan",
-roundda01,1981-82,28,ATL,NBA,61,36.3,.466,.760,11.8,2.7,1.0,1.5,18.6,19.5,6.5,.141,3.3,2.9,,"Chadsey in Detroit, Michigan",
-roundda01,1982-83,29,ATL,NBA,77,36.5,.470,.749,11.4,2.9,0.8,1.5,19.0,18.8,7.4,.127,2.4,3.1,,"Chadsey in Detroit, Michigan",
-roundda01,1983-84,30,ATL,NBA,73,35.8,.485,.770,9.9,2.5,0.8,1.0,18.9,18.9,7.1,.131,2.1,2.7,,"Chadsey in Detroit, Michigan",
-roundda01,1984-85,31,Detroit Pistons,NBA,56,26.6,.467,.781,8.1,1.8,0.5,1.0,10.9,13.9,2.7,.087,0.1,0.8,,"Chadsey in Detroit, Michigan",674000
-roundda01,1985-86,32,Washington Bullets,NBA,79,29.4,.488,.754,8.1,2.1,0.5,0.6,11.6,14.7,5.1,.106,0.2,1.3,,"Chadsey in Detroit, Michigan",759250
-roundda01,1986-87,33,WSB,NBA,36,18.6,.409,.792,4.7,1.1,0.3,0.4,6.6,10.6,0.6,.042,-3.1,-0.2,,"Chadsey in Detroit, Michigan",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+1.09,3.85,roundda01,1976-77,IND,17.6,3.9,.115,-0.2,0.8,,23,NBA,61,27.0,.466,.686,8.5,1.1,1.0,2.1,13.9,IND,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+1.64,6.60,roundda01,1977-78,IND,18.0,6.9,.138,2.9,3.0,,24,NBA,79,30.7,.489,.727,10.2,2.5,1.0,1.9,13.4,IND,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+2.62,9.64,roundda01,1978-79,ATL,19.4,8.7,.164,3.7,3.6,,25,NBA,80,31.7,.504,.714,10.8,1.6,1.1,2.2,15.3,ATL,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+2.82,9.66,roundda01,1979-80,ATL,19.7,9.1,.169,4.6,4.3,All-NBA (2nd),26,NBA,81,32.0,.499,.710,10.3,2.3,1.2,1.7,16.5,ATL,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+2.00,6.18,roundda01,1980-81,ATL,20.7,7.0,.159,4.6,3.5,,27,NBA,63,33.8,.527,.721,10.1,2.6,1.2,1.9,17.6,ATL,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+2.18,7.00,roundda01,1981-82,ATL,19.5,6.5,.141,3.3,2.9,,28,NBA,61,36.3,.466,.760,11.8,2.7,1.0,1.5,18.6,ATL,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+1.48,7.57,roundda01,1982-83,ATL,18.8,7.4,.127,2.4,3.1,,29,NBA,77,36.5,.470,.749,11.4,2.9,0.8,1.5,19.0,ATL,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",+0.85,5.94,roundda01,1983-84,ATL,18.9,7.1,.131,2.1,2.7,,30,NBA,73,35.8,.485,.770,9.9,2.5,0.8,1.0,18.9,ATL,
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",-0.97,1.51,roundda01,1984-85,DET,13.9,2.7,.087,0.1,0.8,,31,NBA,56,26.6,.467,.781,8.1,1.8,0.5,1.0,10.9,DET,674000
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",-1.26,1.65,roundda01,1985-86,WSB,14.7,5.1,.106,0.2,1.3,,32,NBA,79,29.4,.488,.754,8.1,2.1,0.5,0.6,11.6,WSB,759250
+Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false,"Chadsey in Detroit, Michigan",-2.83,-0.26,roundda01,1986-87,WSB,10.6,0.6,.042,-3.1,-0.2,,33,NBA,36,18.6,.409,.792,4.7,1.1,0.3,0.4,6.6,WSB,

@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-simmobo01,2001-02,21,Washington Wizards,NBA,30,11.4,.453,.733,1.7,0.6,0.4,0.2,3.7,13.2,0.7,.092,-0.9,0.1,,332817,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2002-03,22,Detroit Pistons,NBA,36,10.5,.393,.914,2.1,0.6,0.3,0.1,3.3,13.0,0.9,.111,-2.6,-0.1,,512435,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2003-04,23,Los Angeles Clippers,NBA,56,24.6,.394,.834,4.7,1.7,0.9,0.3,7.8,12.6,2.0,.070,-0.8,0.4,,638679,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2004-05,24,Los Angeles Clippers,NBA,75,37.3,.466,.846,5.9,2.7,1.4,0.2,16.4,16.1,6.8,.117,1.7,2.6,,825000,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2005-06,25,Milwaukee Bucks,NBA,75,33.8,.453,.825,4.4,2.3,1.1,0.3,13.4,13.8,5.3,.101,1.4,2.1,,8000000,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2006-07,26,Milwaukee Bucks,NBA,,,,,,,,,,,,,,,,8640000,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2007-08,27,Milwaukee Bucks,NBA,70,21.7,.421,.757,3.2,1.1,0.7,0.1,7.6,10.3,0.7,.022,-3.4,-0.5,,9280000,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2008-09,28,New Jersey Nets,NBA,71,24.4,.449,.741,3.9,1.3,0.7,0.1,7.8,12.0,3.4,.095,0.5,1.1,,10602667,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2009-10,29,New Jersey Nets,NBA,23,17.2,.359,.900,2.7,0.7,0.7,0.1,5.3,8.0,0.1,.014,-4.2,-0.2,,10560000,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2010-11,30,San Antonio Spurs,NBA,2,8.0,.000,,0.0,1.0,0.0,0.0,0.0,-5.5,0.0,-0.138,-14.3,0.0,,71951,"Simeon Career Academy in Chicago, Illinois"
-simmobo01,2011-12,31,Los Angeles Clippers,NBA,28,14.9,.311,.571,2.0,0.4,0.5,0.1,2.9,6.0,0.3,.029,-2.5,-0.1,,594836,"Simeon Career Academy in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-0.41,0.43,simmobo01,2001-02,WAS,13.2,0.7,.092,-0.9,0.1,,NBA,332817,21,30,11.4,.453,.733,1.7,0.6,0.4,0.2,3.7,WAS
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-0.73,0.39,simmobo01,2002-03,WAS,13.0,0.9,.111,-2.6,-0.1,,NBA,512435,22,36,10.5,.393,.914,2.1,0.6,0.3,0.1,3.3,WAS
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-0.69,1.45,simmobo01,2003-04,LAC,12.6,2.0,.070,-0.8,0.4,,NBA,638679,23,56,24.6,.394,.834,4.7,1.7,0.9,0.3,7.8,LAC
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",+1.83,7.85,simmobo01,2004-05,LAC,16.1,6.8,.117,1.7,2.6,,NBA,825000,24,75,37.3,.466,.846,5.9,2.7,1.4,0.2,16.4,LAC
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",+0.74,5.53,simmobo01,2005-06,MIL,13.8,5.3,.101,1.4,2.1,,NBA,8000000,25,75,33.8,.453,.825,4.4,2.3,1.1,0.3,13.4,MIL
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",,,simmobo01,2006-07,Did Not Play (injury—ankle),,,,,,,NBA,8640000,26,,,,,,,,,,Did Not Play (injury—ankle)
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-1.68,0.62,simmobo01,2007-08,MIL,10.3,0.7,.022,-3.4,-0.5,,NBA,9280000,27,70,21.7,.421,.757,3.2,1.1,0.7,0.1,7.6,MIL
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",+0.02,2.69,simmobo01,2008-09,NJN,12.0,3.4,.095,0.5,1.1,,NBA,10602667,28,71,24.4,.449,.741,3.9,1.3,0.7,0.1,7.8,NJN
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-1.66,0.15,simmobo01,2009-10,NJN,8.0,0.1,.014,-4.2,-0.2,,NBA,10560000,29,23,17.2,.359,.900,2.7,0.7,0.7,0.1,5.3,NJN
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-0.28,0.02,simmobo01,2010-11,SAS,-5.5,0.0,-0.138,-14.3,0.0,,NBA,71951,30,2,8.0,.000,,0.0,1.0,0.0,0.0,0.0,SAS
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false,"Simeon Career Academy in Chicago, Illinois",-2.55,-0.10,simmobo01,2011-12,LAC,6.0,0.3,.029,-2.5,-0.1,,NBA,594836,31,28,14.9,.311,.571,2.0,0.4,0.5,0.1,2.9,LAC

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-thurmna01,1976-77,35,CLE,NBA,49,20.3,.407,.642,7.6,1.7,0.3,1.7,5.5,14.3,2.3,.113,1.5,0.9,,"Central in Akron, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nate Thurmond,/players/t/thurmna01.html,1964,1977,Bowling Green State University,false,"Central in Akron, Ohio",+1.66,2.76,thurmna01,1976-77,CLE,14.3,2.3,.113,1.5,0.9,,35,NBA,49,20.3,.407,.642,7.6,1.7,0.3,1.7,5.5,CLE

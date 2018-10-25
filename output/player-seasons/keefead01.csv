@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-keefead01,1992-93,22,Atlanta Hawks,NBA,82,18.9,.500,.700,5.3,1.0,0.7,0.2,6.6,13.6,3.3,.102,-1.0,0.4,,1000000,"Woodbridge in Irvine, California"
-keefead01,1993-94,23,Atlanta Hawks,NBA,63,12.1,.451,.730,3.2,0.5,0.3,0.1,4.3,12.0,1.4,.091,-3.8,-0.3,,1200000,"Woodbridge in Irvine, California"
-keefead01,1994-95,24,Utah Jazz,NBA,75,16.9,.577,.676,4.4,0.4,0.5,0.3,6.1,15.1,4.1,.154,0.8,0.9,,1500000,"Woodbridge in Irvine, California"
-keefead01,1995-96,25,Utah Jazz,NBA,82,20.8,.520,.692,5.5,0.8,0.6,0.5,6.1,13.8,4.6,.130,1.5,1.5,,1650000,"Woodbridge in Irvine, California"
-keefead01,1996-97,26,Utah Jazz,NBA,62,14.8,.513,.689,3.5,0.5,0.5,0.2,3.8,11.7,2.3,.118,-0.2,0.4,,1950000,"Woodbridge in Irvine, California"
-keefead01,1997-98,27,Utah Jazz,NBA,80,25.6,.540,.810,5.5,1.1,0.7,0.3,7.8,14.5,6.5,.153,2.3,2.2,,2300000,"Woodbridge in Irvine, California"
-keefead01,1998-99,28,Utah Jazz,NBA,44,14.6,.452,.697,3.2,0.6,0.4,0.3,4.0,12.2,1.7,.126,-0.4,0.2,,2650000,"Woodbridge in Irvine, California"
-keefead01,1999-00,29,Utah Jazz,NBA,62,9.7,.408,.806,2.2,0.5,0.3,0.2,2.2,7.6,0.4,.030,-2.8,-0.1,,3000000,"Woodbridge in Irvine, California"
-keefead01,2000-01,30,Golden State Warriors,NBA,67,12.5,.403,.619,3.1,0.5,0.4,0.3,2.5,9.7,0.6,.032,-3.7,-0.3,,3390000,"Woodbridge in Irvine, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-1.38,1.00,keefead01,1992-93,ATL,13.6,3.3,.102,-1.0,0.4,,NBA,1000000,22,82,18.9,.500,.700,5.3,1.0,0.7,0.2,6.6,ATL
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-2.10,0.06,keefead01,1993-94,ATL,12.0,1.4,.091,-3.8,-0.3,,NBA,1200000,23,63,12.1,.451,.730,3.2,0.5,0.3,0.1,4.3,ATL
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-0.23,1.86,keefead01,1994-95,UTA,15.1,4.1,.154,0.8,0.9,,NBA,1500000,24,75,16.9,.577,.676,4.4,0.4,0.5,0.3,6.1,UTA
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-0.45,2.34,keefead01,1995-96,UTA,13.8,4.6,.130,1.5,1.5,,NBA,1650000,25,82,20.8,.520,.692,5.5,0.8,0.6,0.5,6.1,UTA
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-1.34,0.62,keefead01,1996-97,UTA,11.7,2.3,.118,-0.2,0.4,,NBA,1950000,26,62,14.8,.513,.689,3.5,0.5,0.5,0.2,3.8,UTA
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",+0.41,3.99,keefead01,1997-98,UTA,14.5,6.5,.153,2.3,2.2,,NBA,2300000,27,80,25.6,.540,.810,5.5,1.1,0.7,0.3,7.8,UTA
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-0.59,0.83,keefead01,1998-99,UTA,12.2,1.7,.126,-0.4,0.2,,NBA,2650000,28,44,14.6,.452,.697,3.2,0.6,0.4,0.3,4.0,UTA
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-2.79,-0.25,keefead01,1999-00,UTA,7.6,0.4,.030,-2.8,-0.1,,NBA,3000000,29,62,9.7,.408,.806,2.2,0.5,0.3,0.2,2.2,UTA
+Adam Keefe,/players/k/keefead01.html,1993,2001,Stanford University,false,"Woodbridge in Irvine, California",-2.01,0.09,keefead01,2000-01,GSW,9.7,0.6,.032,-3.7,-0.3,,NBA,3390000,30,67,12.5,.403,.619,3.1,0.5,0.4,0.3,2.5,GSW

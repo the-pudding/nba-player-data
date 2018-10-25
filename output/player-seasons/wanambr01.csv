@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wanambr01,2018-19,29,BOS,NBA,1,1.0,1.000,,1.0,0.0,0.0,0.0,2.0,90.9,0.0,1.458,0.6,0.0,,"Roman Catholic HS in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brad Wanamaker,/players/w/wanambr01.html,2019,2019,University of Pittsburgh,true,"Roman Catholic HS in Philadelphia, Pennsylvania",,,wanambr01,2018-19,BOS,90.9,0.0,1.458,0.6,0.0,,29,NBA,1,1.0,1.000,,1.0,0.0,0.0,0.0,2.0,BOS

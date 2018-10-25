@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-butlegr01,1988-89,22,New York Knicks,NBA,33,4.2,.417,.800,0.8,0.1,0.0,0.1,1.7,4.7,-0.1,-0.034,-11.1,-0.3,,100000,"Rolling Hills in Rolling Hills Estates, California"
-butlegr01,1989-90,23,NYK,NBA,13,2.5,.250,.000,0.7,0.1,0.0,0.0,0.5,-4.9,-0.1,-0.206,-16.1,-0.1,,,"Rolling Hills in Rolling Hills Estates, California"
-butlegr01,1990-91,24,LAC,NBA,9,4.1,.263,.667,1.8,0.1,0.0,0.0,1.6,3.2,-0.1,-0.131,-14.9,-0.1,,,"Rolling Hills in Rolling Hills Estates, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Butler,/players/b/butlegr01.html,1989,1991,Stanford University,false,"Rolling Hills in Rolling Hills Estates, California",-1.20,0.10,butlegr01,1988-89,NYK,4.7,-0.1,-0.034,-11.1,-0.3,,NBA,100000,22,33,4.2,.417,.800,0.8,0.1,0.0,0.1,1.7,NYK
+Greg Butler,/players/b/butlegr01.html,1989,1991,Stanford University,false,"Rolling Hills in Rolling Hills Estates, California",-0.18,0.05,butlegr01,1989-90,NYK,-4.9,-0.1,-0.206,-16.1,-0.1,,NBA,,23,13,2.5,.250,.000,0.7,0.1,0.0,0.0,0.5,NYK
+Greg Butler,/players/b/butlegr01.html,1989,1991,Stanford University,false,"Rolling Hills in Rolling Hills Estates, California",-0.06,0.06,butlegr01,1990-91,LAC,3.2,-0.1,-0.131,-14.9,-0.1,,NBA,,24,9,4.1,.263,.667,1.8,0.1,0.0,0.0,1.6,LAC

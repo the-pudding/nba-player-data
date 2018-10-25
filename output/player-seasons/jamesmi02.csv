@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jamesmi02,2017-18,27,Phoenix Suns,NBA,36,19.1,.383,.762,2.5,3.5,0.8,0.2,9.3,13.9,0.2,.017,-2.6,-0.1,,87552,"Grant in Portland, Oregon"
-jamesmi02,2017-18,27,Phoenix Suns,NBA,32,20.9,.388,.762,2.8,3.8,0.8,0.2,10.4,14.2,0.3,.021,-2.4,-0.1,,87552,"Grant in Portland, Oregon"
-jamesmi02,2017-18,27,Phoenix Suns,NBA,4,4.5,.222,,0.3,1.5,0.3,0.0,1.0,3.5,-0.1,-0.146,-12.4,0.0,,87552,"Grant in Portland, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike James,/players/j/jamesmi02.html,2018,2018,Lamar University,true,"Grant in Portland, Oregon",-0.65,0.76,jamesmi02,2017-18,TOT,13.9,0.2,.017,-2.6,-0.1,,NBA,87552,27,36,19.1,.383,.762,2.5,3.5,0.8,0.2,9.3,"PHO,NOP"

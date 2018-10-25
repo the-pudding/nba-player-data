@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sweetmi01,2003-04,21,New York Knicks,NBA,42,11.8,.493,.724,3.7,0.3,0.4,0.3,4.3,17.2,1.4,.138,-1.0,0.1,,1840800,"Oxon Hill in Oxon Hill, Maryland"
-sweetmi01,2004-05,22,New York Knicks,NBA,77,19.6,.531,.749,5.4,0.6,0.4,0.4,8.4,16.4,3.8,.122,-2.1,0.0,,1978920,"Oxon Hill in Oxon Hill, Maryland"
-sweetmi01,2005-06,23,Chicago Bulls,NBA,66,18.5,.450,.652,5.3,0.9,0.3,0.8,8.1,13.9,2.1,.084,-2.1,0.0,,2116920,"Oxon Hill in Oxon Hill, Maryland"
-sweetmi01,2006-07,24,Chicago Bulls,NBA,48,8.0,.433,.561,2.5,0.6,0.2,0.2,3.2,10.9,0.4,.049,-3.5,-0.2,,2696956,"Oxon Hill in Oxon Hill, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Sweetney,/players/s/sweetmi01.html,2004,2007,Georgetown University,false,"Oxon Hill in Oxon Hill, Maryland",-0.01,0.85,sweetmi01,2003-04,NYK,17.2,1.4,.138,-1.0,0.1,,NBA,1840800,21,42,11.8,.493,.724,3.7,0.3,0.4,0.3,4.3,NYK
+Mike Sweetney,/players/s/sweetmi01.html,2004,2007,Georgetown University,false,"Oxon Hill in Oxon Hill, Maryland",-1.37,0.94,sweetmi01,2004-05,NYK,16.4,3.8,.122,-2.1,0.0,,NBA,1978920,22,77,19.6,.531,.749,5.4,0.6,0.4,0.4,8.4,NYK
+Mike Sweetney,/players/s/sweetmi01.html,2004,2007,Georgetown University,false,"Oxon Hill in Oxon Hill, Maryland",-0.38,1.70,sweetmi01,2005-06,CHI,13.9,2.1,.084,-2.1,0.0,,NBA,2116920,23,66,18.5,.450,.652,5.3,0.9,0.3,0.8,8.1,CHI
+Mike Sweetney,/players/s/sweetmi01.html,2004,2007,Georgetown University,false,"Oxon Hill in Oxon Hill, Maryland",-0.97,0.33,sweetmi01,2006-07,CHI,10.9,0.4,.049,-3.5,-0.2,,NBA,2696956,24,48,8.0,.433,.561,2.5,0.6,0.2,0.2,3.2,CHI

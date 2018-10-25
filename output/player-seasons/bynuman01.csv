@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bynuman01,2005-06,18,Los Angeles Lakers,NBA,46,7.3,.402,.296,1.7,0.2,0.1,0.5,1.6,7.4,0.1,.007,-5.8,-0.3,,1888680,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2006-07,19,Los Angeles Lakers,NBA,82,21.9,.558,.668,5.9,1.1,0.1,1.6,7.8,15.4,4.2,.112,-0.5,0.7,,2030280,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2007-08,20,Los Angeles Lakers,NBA,35,28.8,.636,.695,10.2,1.7,0.3,2.1,13.1,22.6,4.8,.230,4.5,1.6,,2172000,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2008-09,21,Los Angeles Lakers,NBA,50,28.9,.560,.707,8.0,1.4,0.4,1.8,14.3,20.0,5.5,.184,1.9,1.4,,2769300,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2009-10,22,Los Angeles Lakers,NBA,65,30.4,.570,.739,8.3,1.0,0.5,1.4,15.0,20.2,7.8,.188,1.4,1.7,,12526998,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2010-11,23,Los Angeles Lakers,NBA,54,27.8,.574,.660,9.4,1.4,0.4,2.0,11.3,21.1,6.6,.210,3.3,2.0,,13700000,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2011-12,24,Los Angeles Lakers,NBA,60,35.2,.558,.692,11.8,1.4,0.5,1.9,18.7,22.9,8.0,.183,1.8,2.0,All-NBA (2nd),14900000,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2012-13,25,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,16889000,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2013-14,26,Chicago Bulls,NBA,26,19.8,.418,.755,5.6,1.1,0.2,1.1,8.7,15.2,0.4,.038,-3.4,-0.2,,6000000,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2013-14,26,Chicago Bulls,NBA,24,20.0,.419,.762,5.3,1.1,0.3,1.2,8.4,14.8,0.4,.036,-3.1,-0.1,,6000000,"St. Joseph in Metuchen, New Jersey"
-bynuman01,2013-14,26,Chicago Bulls,NBA,2,18.0,.409,.714,9.5,1.0,0.0,0.5,11.5,19.9,0.0,.063,-7.4,0.0,,6000000,"St. Joseph in Metuchen, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",-2.89,-0.16,bynuman01,2005-06,LAL,7.4,0.1,.007,-5.8,-0.3,,NBA,1888680,18,46,7.3,.402,.296,1.7,0.2,0.1,0.5,1.6,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",-1.18,1.37,bynuman01,2006-07,LAL,15.4,4.2,.112,-0.5,0.7,,NBA,2030280,19,82,21.9,.558,.668,5.9,1.1,0.1,1.6,7.8,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",+2.37,3.13,bynuman01,2007-08,LAL,22.6,4.8,.230,4.5,1.6,,NBA,2172000,20,35,28.8,.636,.695,10.2,1.7,0.3,2.1,13.1,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",-0.28,2.50,bynuman01,2008-09,LAL,20.0,5.5,.184,1.9,1.4,,NBA,2769300,21,50,28.9,.560,.707,8.0,1.4,0.4,1.8,14.3,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",+0.91,5.47,bynuman01,2009-10,LAL,20.2,7.8,.188,1.4,1.7,,NBA,12526998,22,65,30.4,.570,.739,8.3,1.0,0.5,1.4,15.0,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",+1.34,4.47,bynuman01,2010-11,LAL,21.1,6.6,.210,3.3,2.0,,NBA,13700000,23,54,27.8,.574,.660,9.4,1.4,0.4,2.0,11.3,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",+2.14,7.76,bynuman01,2011-12,LAL,22.9,8.0,.183,1.8,2.0,All-NBA (2nd),NBA,14900000,24,60,35.2,.558,.692,11.8,1.4,0.5,1.9,18.7,LAL
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",,,bynuman01,2012-13,Did Not Play (injury—knee),,,,,,,NBA,16889000,25,,,,,,,,,,Did Not Play (injury—knee)
+Andrew Bynum,/players/b/bynuman01.html,2006,2014,,false,"St. Joseph in Metuchen, New Jersey",-2.30,-0.04,bynuman01,2013-14,TOT,15.2,0.4,.038,-3.4,-0.2,,NBA,6000000,26,26,19.8,.418,.755,5.6,1.1,0.2,1.1,8.7,"CLE,IND"

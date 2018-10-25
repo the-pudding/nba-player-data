@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hallmi01,2006-07,22,Washington Wizards,NBA,2,6.5,.250,,1.0,0.5,0.0,0.0,1.0,3.1,0.0,-0.073,-9.4,0.0,,135895,"Alan B. Shephard in Palos Heights, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Hall,/players/h/hallmi01.html,2007,2007,George Washington University,false,"Alan B. Shephard in Palos Heights, Illinois",-0.56,0.02,hallmi01,2006-07,WAS,3.1,0.0,-0.073,-9.4,0.0,,NBA,135895,22,2,6.5,.250,,1.0,0.5,0.0,0.0,1.0,WAS

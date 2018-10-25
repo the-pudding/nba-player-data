@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksju01,2017-18,22,Sacramento Kings,NBA,68,22.1,.442,.722,2.8,1.1,0.4,0.2,6.7,9.2,1.0,.031,-3.5,-0.6,,2365560,"Homeschool Christian Youth Association in Houston, Texas"
-jacksju01,2018-19,23,SAC,NBA,5,28.6,.429,.667,5.0,1.6,0.8,0.2,9.0,10.6,0.1,.037,-0.4,0.1,,,"Homeschool Christian Youth Association in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Justin Jackson,/players/j/jacksju01.html,2018,2019,University of North Carolina,true,"Homeschool Christian Youth Association in Houston, Texas",-2.40,-0.12,jacksju01,2017-18,SAC,9.2,1.0,.031,-3.5,-0.6,,NBA,2365560,22,68,22.1,.442,.722,2.8,1.1,0.4,0.2,6.7,SAC
+Justin Jackson,/players/j/jacksju01.html,2018,2019,University of North Carolina,true,"Homeschool Christian Youth Association in Houston, Texas",,,jacksju01,2018-19,SAC,10.6,0.1,.037,-0.4,0.1,,NBA,,23,5,28.6,.429,.667,5.0,1.6,0.8,0.2,9.0,SAC

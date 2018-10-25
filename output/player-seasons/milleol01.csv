@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-milleol01,1992-93,22,Phoenix Suns,NBA,56,19.1,.475,.710,4.9,2.1,0.7,1.8,5.6,12.7,1.6,.070,1.3,0.9,,517000,"Southwest in Fort Worth, Texas"
-milleol01,1993-94,23,Phoenix Suns,NBA,69,25.9,.609,.584,6.9,3.5,1.2,2.3,9.2,18.2,5.3,.142,5.6,3.4,,672000,"Southwest in Fort Worth, Texas"
-milleol01,1994-95,24,Detroit Pistons,NBA,64,24.3,.555,.629,7.4,1.5,0.9,1.8,8.5,16.9,3.1,.095,1.6,1.4,,1540000,"Southwest in Fort Worth, Texas"
-milleol01,1995-96,25,Toronto Raptors,NBA,76,33.1,.526,.661,7.4,2.9,1.4,1.9,12.9,16.2,3.8,.072,1.4,2.1,,2372000,"Southwest in Fort Worth, Texas"
-milleol01,1996-97,26,Dallas Mavericks,NBA,61,18.9,.517,.608,5.0,1.4,0.8,1.0,4.8,13.1,1.8,.073,0.7,0.8,,247500,"Southwest in Fort Worth, Texas"
-milleol01,1996-97,26,Dallas Mavericks,NBA,42,19.9,.494,.528,5.5,1.4,0.8,1.2,4.3,11.6,0.8,.047,0.6,0.5,,247500,"Southwest in Fort Worth, Texas"
-milleol01,1996-97,26,Dallas Mavericks,NBA,19,16.6,.560,.769,3.8,1.5,0.7,0.7,6.0,17.0,0.9,.144,1.1,0.2,,247500,"Southwest in Fort Worth, Texas"
-milleol01,1997-98,27,TOR,NBA,64,25.4,.461,.604,6.3,3.1,0.9,1.1,6.3,12.8,0.9,.026,-1.2,0.3,,,"Southwest in Fort Worth, Texas"
-milleol01,1998-99,28,Sacramento Kings,NBA,4,8.8,.455,,2.0,0.0,0.0,0.5,2.5,8.3,0.0,-0.052,-10.2,-0.1,,600000,"Southwest in Fort Worth, Texas"
-milleol01,1999-00,29,Phoenix Suns,NBA,51,21.3,.588,.671,5.1,1.3,0.8,1.6,6.3,15.5,3.4,.152,3.4,1.5,,510000,"Southwest in Fort Worth, Texas"
-milleol01,2000-01,30,Did Not Play (other pro league—Poland),,,,,,,,,,,,,,,,,,"Southwest in Fort Worth, Texas"
-milleol01,2001-02,31,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Southwest in Fort Worth, Texas"
-milleol01,2002-03,32,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Southwest in Fort Worth, Texas"
-milleol01,2003-04,33,Minnesota Timberwolves,NBA,48,10.5,.530,.652,2.7,0.8,0.4,0.5,2.5,12.9,1.4,.130,1.5,0.4,,686838,"Southwest in Fort Worth, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",+1.00,3.50,milleol01,1992-93,PHO,12.7,1.6,.070,1.3,0.9,,NBA,517000,22,56,19.1,.475,.710,4.9,2.1,0.7,1.8,5.6,PHO
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",+2.54,6.26,milleol01,1993-94,PHO,18.2,5.3,.142,5.6,3.4,,NBA,672000,23,69,25.9,.609,.584,6.9,3.5,1.2,2.3,9.2,PHO
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",-0.14,2.25,milleol01,1994-95,DET,16.9,3.1,.095,1.6,1.4,,NBA,1540000,24,64,24.3,.555,.629,7.4,1.5,0.9,1.8,8.5,DET
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",-0.25,3.45,milleol01,1995-96,TOR,16.2,3.8,.072,1.4,2.1,,NBA,2372000,25,76,33.1,.526,.661,7.4,2.9,1.4,1.9,12.9,TOR
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",-1.12,0.88,milleol01,1996-97,TOT,13.1,1.8,.073,0.7,0.8,,NBA,247500,26,61,18.9,.517,.608,5.0,1.4,0.8,1.0,4.8,"DAL,TOR"
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",-2.55,-0.33,milleol01,1997-98,TOR,12.8,0.9,.026,-1.2,0.3,,NBA,,27,64,25.4,.461,.604,6.3,3.1,0.9,1.1,6.3,TOR
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",-0.02,0.05,milleol01,1998-99,SAC,8.3,0.0,-0.052,-10.2,-0.1,,NBA,600000,28,4,8.8,.455,,2.0,0.0,0.0,0.5,2.5,SAC
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",+1.10,2.62,milleol01,1999-00,PHO,15.5,3.4,.152,3.4,1.5,,NBA,510000,29,51,21.3,.588,.671,5.1,1.3,0.8,1.6,6.3,PHO
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",,,milleol01,2000-01,Did Not Play (other pro league—Poland),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Poland)
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",,,milleol01,2001-02,Did Not Play (other pro league—CBA),,,,,,,,,31,,,,,,,,,,Did Not Play (other pro league—CBA)
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",,,milleol01,2002-03,Did Not Play (other pro league—CBA),,,,,,,,,32,,,,,,,,,,Did Not Play (other pro league—CBA)
+Oliver Miller,/players/m/milleol01.html,1993,2004,University of Arkansas,false,"Southwest in Fort Worth, Texas",-2.44,-0.11,milleol01,2003-04,MIN,12.9,1.4,.130,1.5,0.4,,NBA,686838,33,48,10.5,.530,.652,2.7,0.8,0.4,0.5,2.5,MIN

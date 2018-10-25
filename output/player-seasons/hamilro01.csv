@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hamilro01,1979-80,22,DET,NBA,72,15.5,.401,.687,1.5,2.7,0.7,0.1,4.6,9.1,-0.4,-0.016,-5.7,-1.1,,"Verbum Dei in Los Angeles, California"
-hamilro01,1980-81,23,POR,NBA,1,5.0,.333,.500,3.0,0.0,0.0,0.0,3.0,10.4,0.0,-0.127,-22.8,0.0,,"Verbum Dei in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roy Hamilton,/players/h/hamilro01.html,1980,1981,"University of California, Los Angeles",false,"Verbum Dei in Los Angeles, California",-3.27,-0.78,hamilro01,1979-80,DET,9.1,-0.4,-0.016,-5.7,-1.1,,22,NBA,72,15.5,.401,.687,1.5,2.7,0.7,0.1,4.6,DET
+Roy Hamilton,/players/h/hamilro01.html,1980,1981,"University of California, Los Angeles",false,"Verbum Dei in Los Angeles, California",+0.55,0.01,hamilro01,1980-81,POR,10.4,0.0,-0.127,-22.8,0.0,,23,NBA,1,5.0,.333,.500,3.0,0.0,0.0,0.0,3.0,POR

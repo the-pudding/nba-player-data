@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fordal02,2001-02,20,Phoenix Suns,NBA,53,8.5,.517,.737,2.0,0.1,0.1,0.1,3.1,10.0,0.8,.083,-6.4,-0.5,,332817,"Milby in Houston, Texas"
-fordal02,2002-03,21,Phoenix Suns,NBA,11,2.8,.333,.333,0.5,0.1,0.0,0.0,0.6,-2.2,-0.1,-0.113,-13.6,-0.1,,512435,"Milby in Houston, Texas"
-fordal02,2003-04,22,Houston Rockets,NBA,9,4.6,.545,.500,1.2,0.3,0.0,0.1,1.7,12.4,0.1,.117,-3.2,0.0,,586082,"Milby in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alton Ford,/players/f/fordal02.html,2002,2004,University of Houston,false,"Milby in Houston, Texas",-2.47,-0.07,fordal02,2001-02,PHO,10.0,0.8,.083,-6.4,-0.5,,NBA,332817,20,53,8.5,.517,.737,2.0,0.1,0.1,0.1,3.1,PHO
+Alton Ford,/players/f/fordal02.html,2002,2004,University of Houston,false,"Milby in Houston, Texas",+0.65,0.06,fordal02,2002-03,PHO,-2.2,-0.1,-0.113,-13.6,-0.1,,NBA,512435,21,11,2.8,.333,.333,0.5,0.1,0.0,0.0,0.6,PHO
+Alton Ford,/players/f/fordal02.html,2002,2004,University of Houston,false,"Milby in Houston, Texas",+0.32,0.07,fordal02,2003-04,HOU,12.4,0.1,.117,-3.2,0.0,,NBA,586082,22,9,4.6,.545,.500,1.2,0.3,0.0,0.1,1.7,HOU

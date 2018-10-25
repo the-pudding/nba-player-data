@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harrima01,2010-11,21,Cleveland Cavaliers,NBA,54,17.3,.374,.763,2.6,1.6,0.6,0.1,5.9,10.4,0.0,.002,-3.6,-0.4,,473604,"Redford in Redford, Michigan"
-harrima01,2011-12,22,Cleveland Cavaliers,NBA,26,17.5,.400,.695,2.7,1.2,0.5,0.2,6.7,11.7,0.3,.030,-4.3,-0.3,,122942,"Redford in Redford, Michigan"
-harrima01,2012-13,23,Did Not Play,,,,,,,,,,,,,,,,,,"Redford in Redford, Michigan"
-harrima01,2013-14,24,LAL,NBA,9,20.0,.400,.833,3.8,1.2,0.4,0.1,8.1,10.9,0.0,.002,-4.9,-0.1,,,"Redford in Redford, Michigan"
-harrima01,2014-15,25,Did Not Play,,,,,,,,,,,,,,,,,,"Redford in Redford, Michigan"
-harrima01,2015-16,26,Did Not Play,,,,,,,,,,,,,,,,,,"Redford in Redford, Michigan"
-harrima01,2016-17,27,Dallas Mavericks,NBA,4,6.3,.200,.500,2.3,0.5,0.0,0.0,2.0,-2.2,-0.2,-0.364,-18.8,-0.1,,119494,"Redford in Redford, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",-2.97,-0.44,harrima01,2010-11,CLE,10.4,0.0,.002,-3.6,-0.4,,NBA,473604,21,54,17.3,.374,.763,2.6,1.6,0.6,0.1,5.9,CLE
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",-1.57,0.19,harrima01,2011-12,CLE,11.7,0.3,.030,-4.3,-0.3,,NBA,122942,22,26,17.5,.400,.695,2.7,1.2,0.5,0.2,6.7,CLE
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",,,harrima01,2012-13,Did Not Play,,,,,,,,,23,,,,,,,,,,Did Not Play
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",-1.35,0.11,harrima01,2013-14,LAL,10.9,0.0,.002,-4.9,-0.1,,NBA,,24,9,20.0,.400,.833,3.8,1.2,0.4,0.1,8.1,LAL
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",,,harrima01,2014-15,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",,,harrima01,2015-16,Did Not Play,,,,,,,,,26,,,,,,,,,,Did Not Play
+Manny Harris,/players/h/harrima01.html,2011,2017,University of Michigan,true,"Redford in Redford, Michigan",-0.20,0.03,harrima01,2016-17,DAL,-2.2,-0.2,-0.364,-18.8,-0.1,,NBA,119494,27,4,6.3,.200,.500,2.3,0.5,0.0,0.0,2.0,DAL

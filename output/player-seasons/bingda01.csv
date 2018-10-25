@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bingda01,1976-77,33,WSB,NBA,64,23.7,.454,.773,2.2,4.3,1.0,0.1,10.6,15.3,2.9,.092,0.1,0.8,,"Spingarn in Washington, District of Columbia"
-bingda01,1977-78,34,BOS,NBA,80,28.2,.449,.824,2.7,3.8,1.0,0.2,13.6,13.4,3.6,.076,-1.7,0.2,,"Spingarn in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dave Bing,/players/b/bingda01.html,1967,1978,Syracuse University,false,"Spingarn in Washington, District of Columbia",-0.32,2.05,bingda01,1976-77,WSB,15.3,2.9,.092,0.1,0.8,,33,NBA,64,23.7,.454,.773,2.2,4.3,1.0,0.1,10.6,WSB
+Dave Bing,/players/b/bingda01.html,1967,1978,Syracuse University,false,"Spingarn in Washington, District of Columbia",-1.04,1.78,bingda01,1977-78,BOS,13.4,3.6,.076,-1.7,0.2,,34,NBA,80,28.2,.449,.824,2.7,3.8,1.0,0.2,13.6,BOS

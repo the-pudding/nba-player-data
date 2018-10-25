@@ -1,18 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-novakst01,2006-07,23,Houston Rockets,NBA,35,5.5,.360,1.000,0.7,0.2,0.1,0.0,1.5,7.7,0.4,.091,-2.9,0.0,,600000,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2007-08,24,Houston Rockets,NBA,35,7.5,.480,.750,1.0,0.2,0.1,0.1,3.9,17.3,1.1,.196,-0.2,0.1,,687456,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2008-09,25,Los Angeles Clippers,NBA,71,16.4,.444,.913,1.8,0.6,0.3,0.1,6.9,13.5,2.2,.092,-1.9,0.0,,797581,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2009-10,26,Los Angeles Clippers,NBA,54,6.7,.389,.778,0.6,0.1,0.1,0.0,2.1,8.3,0.3,.043,-5.4,-0.3,,855189,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2010-11,27,Dallas Mavericks,NBA,30,7.2,.522,1.000,0.9,0.1,0.0,0.2,3.5,17.8,0.9,.196,0.4,0.1,,384766,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2010-11,27,Dallas Mavericks,NBA,7,2.6,.500,,0.7,0.0,0.0,0.0,1.6,19.6,0.1,.205,-6.9,0.0,,384766,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2010-11,27,Dallas Mavericks,NBA,23,8.6,.525,1.000,1.0,0.1,0.0,0.2,4.0,17.7,0.8,.195,1.0,0.2,,384766,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2011-12,28,New York Knicks,NBA,54,18.9,.478,.846,1.9,0.2,0.3,0.2,8.8,15.9,3.9,.181,1.1,0.8,,992680,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2012-13,29,New York Knicks,NBA,81,20.3,.414,.909,1.9,0.4,0.3,0.1,6.6,11.3,4.0,.116,0.0,0.8,,4054055,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2013-14,30,Toronto Raptors,NBA,54,10.0,.411,1.000,1.1,0.2,0.2,0.1,3.3,11.1,1.4,.127,-0.5,0.2,,3750000,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2014-15,31,Oklahoma City Thunder,NBA,35,5.6,.393,.000,0.6,0.3,0.0,0.1,1.8,8.6,0.3,.075,-3.4,-0.1,,3445946,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2014-15,31,Oklahoma City Thunder,NBA,22,5.0,.457,.000,0.7,0.3,0.0,0.0,2.2,14.5,0.4,.162,-0.2,0.0,,3445946,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2014-15,31,Oklahoma City Thunder,NBA,13,6.8,.286,,0.5,0.4,0.0,0.1,1.2,1.3,-0.1,-0.032,-7.3,-0.1,,3445946,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2015-16,32,Denver Nuggets,NBA,10,4.4,.444,1.000,0.5,0.0,0.0,0.0,2.4,14.4,0.1,.121,-6.6,-0.1,,3750000,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2015-16,32,Denver Nuggets,NBA,7,3.4,.500,,0.6,0.0,0.0,0.0,2.4,20.8,0.1,.181,-5.7,0.0,,3750000,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2015-16,32,Denver Nuggets,NBA,3,6.7,.333,1.000,0.3,0.0,0.0,0.0,2.3,6.7,0.0,.050,-7.8,0.0,,3750000,"Brown Deer in Brown Deer, Wisconsin"
-novakst01,2016-17,33,Milwaukee Bucks,NBA,8,2.8,.286,,0.4,0.0,0.0,0.0,0.6,1.3,0.0,-0.075,-13.6,-0.1,,1551659,"Brown Deer in Brown Deer, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-1.17,0.14,novakst01,2006-07,HOU,7.7,0.4,.091,-2.9,0.0,,NBA,600000,23,35,5.5,.360,1.000,0.7,0.2,0.1,0.0,1.5,HOU
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-0.47,0.35,novakst01,2007-08,HOU,17.3,1.1,.196,-0.2,0.1,,NBA,687456,24,35,7.5,.480,.750,1.0,0.2,0.1,0.1,3.9,HOU
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-2.30,0.03,novakst01,2008-09,LAC,13.5,2.2,.092,-1.9,0.0,,NBA,797581,25,71,16.4,.444,.913,1.8,0.6,0.3,0.1,6.9,LAC
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-3.20,-0.21,novakst01,2009-10,LAC,8.3,0.3,.043,-5.4,-0.3,,NBA,855189,26,54,6.7,.389,.778,0.6,0.1,0.1,0.0,2.1,LAC
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-1.56,0.12,novakst01,2010-11,TOT,17.8,0.9,.196,0.4,0.1,,NBA,384766,27,30,7.2,.522,1.000,0.9,0.1,0.0,0.2,3.5,"DAL,SAS"
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",+0.82,2.35,novakst01,2011-12,NYK,15.9,3.9,.181,1.1,0.8,,NBA,992680,28,54,18.9,.478,.846,1.9,0.2,0.3,0.2,8.8,NYK
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",+0.63,3.33,novakst01,2012-13,NYK,11.3,4.0,.116,0.0,0.8,,NBA,4054055,29,81,20.3,.414,.909,1.9,0.4,0.3,0.1,6.6,NYK
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-0.27,0.76,novakst01,2013-14,TOR,11.1,1.4,.127,-0.5,0.2,,NBA,3750000,30,54,10.0,.411,1.000,1.1,0.2,0.2,0.1,3.3,TOR
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-1.98,0.05,novakst01,2014-15,TOT,8.6,0.3,.075,-3.4,-0.1,,NBA,3445946,31,35,5.6,.393,.000,0.6,0.3,0.0,0.1,1.8,"UTA,OKC"
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-0.94,0.04,novakst01,2015-16,TOT,14.4,0.1,.121,-6.6,-0.1,,NBA,3750000,32,10,4.4,.444,1.000,0.5,0.0,0.0,0.0,2.4,"OKC,MIL"
+Steve Novak,/players/n/novakst01.html,2007,2017,Marquette University,false,"Brown Deer in Brown Deer, Wisconsin",-0.61,0.03,novakst01,2016-17,MIL,1.3,0.0,-0.075,-13.6,-0.1,,NBA,1551659,33,8,2.8,.286,,0.4,0.0,0.0,0.0,0.6,MIL

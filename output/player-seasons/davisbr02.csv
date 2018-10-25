@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davisbr02,1993-94,23,Minnesota Timberwolves,NBA,68,5.5,.317,.735,0.8,0.3,0.2,0.1,1.9,9.2,0.0,.000,-6.5,-0.4,,150000,"Bladensburg in Bladensburg, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brian Davis,/players/d/davisbr02.html,1994,1994,Duke University,false,"Bladensburg in Bladensburg, Maryland",-2.30,-0.02,davisbr02,1993-94,MIN,9.2,0.0,.000,-6.5,-0.4,,NBA,150000,23,68,5.5,.317,.735,0.8,0.3,0.2,0.1,1.9,MIN

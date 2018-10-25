@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-woolror01,1981-82,22,CHI,NBA,75,15.8,.513,.699,3.0,1.1,0.3,0.3,7.3,13.4,1.8,.073,-2.7,-0.2,,"Mansfield in Mansfield, Louisiana",
-woolror01,1982-83,23,CHI,NBA,57,28.5,.580,.638,5.2,1.7,0.7,0.8,16.5,17.0,3.6,.107,0.0,0.8,,"Mansfield in Mansfield, Louisiana",
-woolror01,1983-84,24,CHI,NBA,75,33.9,.525,.715,4.9,1.8,0.9,0.8,19.3,15.9,5.3,.100,0.1,1.4,,"Mansfield in Mansfield, Louisiana",
-woolror01,1984-85,25,Chicago Bulls,NBA,77,36.6,.554,.785,5.6,1.8,0.8,0.5,22.9,19.5,9.0,.153,1.4,2.4,,"Mansfield in Mansfield, Louisiana",300000
-woolror01,1985-86,26,Chicago Bulls,NBA,70,32.1,.495,.788,5.0,3.0,0.7,0.7,20.7,19.6,5.6,.120,1.1,1.8,,"Mansfield in Mansfield, Louisiana",300000
-woolror01,1986-87,27,NJN,NBA,75,35.2,.521,.777,4.9,3.5,0.7,1.1,20.7,17.6,6.8,.124,2.0,2.6,,"Mansfield in Mansfield, Louisiana",
-woolror01,1987-88,28,New Jersey Nets,NBA,19,32.7,.445,.708,4.8,3.7,0.7,1.1,16.4,14.5,0.8,.061,-1.2,0.1,,"Mansfield in Mansfield, Louisiana",1200000
-woolror01,1988-89,29,Los Angeles Lakers,NBA,74,20.1,.468,.738,3.6,0.8,0.4,0.9,9.7,14.0,3.3,.105,-2.8,-0.3,,"Mansfield in Mansfield, Louisiana",500000
-woolror01,1989-90,30,LAL,NBA,62,22.9,.556,.733,3.0,1.5,0.6,0.7,12.7,17.6,4.8,.161,0.6,0.9,,"Mansfield in Mansfield, Louisiana",
-woolror01,1990-91,31,Denver Nuggets,NBA,53,34.4,.498,.797,6.8,2.2,1.3,0.4,25.1,19.5,3.9,.102,-0.5,0.7,,"Mansfield in Mansfield, Louisiana",805000
-woolror01,1991-92,32,Detroit Pistons,NBA,82,25.8,.498,.683,3.2,1.1,0.5,0.4,14.0,14.9,4.4,.099,-2.2,-0.1,,"Mansfield in Mansfield, Louisiana",957000
-woolror01,1992-93,33,Detroit Pistons,NBA,58,26.8,.482,.678,3.2,2.0,0.5,0.5,12.0,13.4,2.3,.072,-1.3,0.3,,"Mansfield in Mansfield, Louisiana",1108000
-woolror01,1992-93,33,Detroit Pistons,NBA,50,29.5,.479,.673,3.5,2.2,0.5,0.5,13.1,13.4,2.2,.073,-1.0,0.4,,"Mansfield in Mansfield, Louisiana",1108000
-woolror01,1992-93,33,Detroit Pistons,NBA,8,9.8,.545,.778,1.1,0.4,0.1,0.3,5.4,14.1,0.1,.047,-6.7,-0.1,,"Mansfield in Mansfield, Louisiana",1108000
-woolror01,1993-94,34,Milwaukee Bucks,NBA,74,26.4,.471,.689,4.0,1.9,0.6,0.8,12.7,13.9,1.5,.036,-3.2,-0.6,,"Mansfield in Mansfield, Louisiana",1542000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-2.16,0.10,woolror01,1981-82,CHI,13.4,1.8,.073,-2.7,-0.2,,22,NBA,75,15.8,.513,.699,3.0,1.1,0.3,0.3,7.3,CHI,
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-0.70,1.72,woolror01,1982-83,CHI,17.0,3.6,.107,0.0,0.8,,23,NBA,57,28.5,.580,.638,5.2,1.7,0.7,0.8,16.5,CHI,
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-0.42,3.19,woolror01,1983-84,CHI,15.9,5.3,.100,0.1,1.4,,24,NBA,75,33.9,.525,.715,4.9,1.8,0.9,0.8,19.3,CHI,
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",+0.68,5.94,woolror01,1984-85,CHI,19.5,9.0,.153,1.4,2.4,,25,NBA,77,36.6,.554,.785,5.6,1.8,0.8,0.5,22.9,CHI,300000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-0.02,3.65,woolror01,1985-86,CHI,19.6,5.6,.120,1.1,1.8,,26,NBA,70,32.1,.495,.788,5.0,3.0,0.7,0.7,20.7,CHI,300000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",+0.29,4.57,woolror01,1986-87,NJN,17.6,6.8,.124,2.0,2.6,,27,NBA,75,35.2,.521,.777,4.9,3.5,0.7,1.1,20.7,NJN,
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-1.29,0.41,woolror01,1987-88,NJN,14.5,0.8,.061,-1.2,0.1,,28,NBA,19,32.7,.445,.708,4.8,3.7,0.7,1.1,16.4,NJN,1200000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-0.63,1.99,woolror01,1988-89,LAL,14.0,3.3,.105,-2.8,-0.3,,29,NBA,74,20.1,.468,.738,3.6,0.8,0.4,0.9,9.7,LAL,500000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",+0.56,3.10,woolror01,1989-90,LAL,17.6,4.8,.161,0.6,0.9,,30,NBA,62,22.9,.556,.733,3.0,1.5,0.6,0.7,12.7,LAL,
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-1.20,1.38,woolror01,1990-91,DEN,19.5,3.9,.102,-0.5,0.7,,31,NBA,53,34.4,.498,.797,6.8,2.2,1.3,0.4,25.1,DEN,805000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-0.92,2.05,woolror01,1991-92,DET,14.9,4.4,.099,-2.2,-0.1,,32,NBA,82,25.8,.498,.683,3.2,1.1,0.5,0.4,14.0,DET,957000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-2.01,0.29,woolror01,1992-93,TOT,13.4,2.3,.072,-1.3,0.3,,33,NBA,58,26.8,.482,.678,3.2,2.0,0.5,0.5,12.0,"DET,MIL",1108000
+Orlando Woolridge,/players/w/woolror01.html,1982,1994,University of Notre Dame,false,"Mansfield in Mansfield, Louisiana",-3.06,-1.04,woolror01,1993-94,PHI,13.9,1.5,.036,-3.2,-0.6,,34,NBA,74,26.4,.471,.689,4.0,1.9,0.6,0.8,12.7,PHI,1542000

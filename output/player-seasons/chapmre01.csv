@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-chapmre01,1988-89,21,Charlotte Hornets,NBA,75,29.6,.414,.795,2.5,2.3,0.9,0.3,16.9,12.6,-0.2,-0.005,-3.2,-0.7,,675000,"Apollo in Owensboro, Kentucky"
-chapmre01,1989-90,22,CHH,NBA,54,32.6,.408,.750,3.3,2.4,0.9,0.1,17.5,11.9,-0.7,-0.018,-3.5,-0.7,,,"Apollo in Owensboro, Kentucky"
-chapmre01,1990-91,23,Charlotte Hornets,NBA,70,30.0,.445,.830,2.7,3.6,1.0,0.2,15.7,15.1,3.0,.069,-0.5,0.8,,675000,"Apollo in Owensboro, Kentucky"
-chapmre01,1991-92,24,Charlotte Hornets,NBA,22,25.8,.448,.679,2.6,4.0,0.7,0.4,12.3,12.1,0.1,.010,-4.2,-0.3,,940000,"Apollo in Owensboro, Kentucky"
-chapmre01,1991-92,24,Charlotte Hornets,NBA,21,26.0,.450,.679,2.6,4.1,0.7,0.4,12.4,12.3,0.2,.016,-4.0,-0.3,,940000,"Apollo in Owensboro, Kentucky"
-chapmre01,1991-92,24,Charlotte Hornets,NBA,1,22.0,.417,,4.0,3.0,1.0,0.0,10.0,7.2,-0.1,-0.123,-7.4,0.0,,940000,"Apollo in Owensboro, Kentucky"
-chapmre01,1992-93,25,Washington Bullets,NBA,60,21.7,.477,.810,1.5,1.9,0.6,0.2,12.5,15.1,1.9,.070,-3.2,-0.4,,2004000,"Apollo in Owensboro, Kentucky"
-chapmre01,1993-94,26,Washington Bullets,NBA,60,33.8,.498,.816,2.4,3.1,1.0,0.1,18.2,16.9,3.9,.092,-0.5,0.7,,2004000,"Apollo in Owensboro, Kentucky"
-chapmre01,1994-95,27,Washington Bullets,NBA,45,32.6,.397,.862,2.5,2.8,1.5,0.3,16.2,15.3,2.5,.081,-0.3,0.6,,2004500,"Apollo in Owensboro, Kentucky"
-chapmre01,1995-96,28,Miami Heat,NBA,56,33.3,.426,.735,2.6,3.0,0.8,0.2,14.0,13.0,4.2,.108,0.6,1.2,,2004000,"Apollo in Owensboro, Kentucky"
-chapmre01,1996-97,29,Phoenix Suns,NBA,65,28.2,.443,.832,2.8,2.8,0.8,0.1,13.8,15.2,3.3,.086,-0.2,0.8,,247500,"Apollo in Owensboro, Kentucky"
-chapmre01,1997-98,30,Phoenix Suns,NBA,68,33.3,.427,.781,2.5,3.0,1.0,0.2,15.9,14.4,4.5,.095,-0.5,0.8,,326700,"Apollo in Owensboro, Kentucky"
-chapmre01,1998-99,31,Phoenix Suns,NBA,38,31.1,.359,.835,2.7,2.9,0.9,0.2,12.1,11.8,0.9,.035,-3.3,-0.4,,2800000,"Apollo in Owensboro, Kentucky"
-chapmre01,1999-00,32,Phoenix Suns,NBA,53,18.1,.388,.756,1.5,1.2,0.4,0.0,6.6,9.4,1.4,.072,-3.6,-0.4,,3150000,"Apollo in Owensboro, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-3.06,-1.09,chapmre01,1988-89,CHH,12.6,-0.2,-0.005,-3.2,-0.7,,NBA,675000,21,75,29.6,.414,.795,2.5,2.3,0.9,0.3,16.9,CHH
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-3.37,-1.29,chapmre01,1989-90,CHH,11.9,-0.7,-0.018,-3.5,-0.7,,NBA,,22,54,32.6,.408,.750,3.3,2.4,0.9,0.1,17.5,CHH
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-0.82,2.08,chapmre01,1990-91,CHH,15.1,3.0,.069,-0.5,0.8,,NBA,675000,23,70,30.0,.445,.830,2.7,3.6,1.0,0.2,15.7,CHH
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-2.62,-0.13,chapmre01,1991-92,TOT,12.1,0.1,.010,-4.2,-0.3,,NBA,940000,24,22,25.8,.448,.679,2.6,4.0,0.7,0.4,12.3,"CHH,WSB"
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-1.91,0.33,chapmre01,1992-93,WSB,15.1,1.9,.070,-3.2,-0.4,,NBA,2004000,25,60,21.7,.477,.810,1.5,1.9,0.6,0.2,12.5,WSB
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-1.33,1.33,chapmre01,1993-94,WSB,16.9,3.9,.092,-0.5,0.7,,NBA,2004000,26,60,33.8,.498,.816,2.4,3.1,1.0,0.1,18.2,WSB
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-0.42,1.85,chapmre01,1994-95,WSB,15.3,2.5,.081,-0.3,0.6,,NBA,2004500,27,45,32.6,.397,.862,2.5,2.8,1.5,0.3,16.2,WSB
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",+0.46,3.63,chapmre01,1995-96,MIA,13.0,4.2,.108,0.6,1.2,,NBA,2004000,28,56,33.3,.426,.735,2.6,3.0,0.8,0.2,14.0,MIA
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-0.45,2.51,chapmre01,1996-97,PHO,15.2,3.3,.086,-0.2,0.8,,NBA,247500,29,65,28.2,.443,.832,2.8,2.8,0.8,0.1,13.8,PHO
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",+0.25,3.97,chapmre01,1997-98,PHO,14.4,4.5,.095,-0.5,0.8,,NBA,326700,30,68,33.3,.427,.781,2.5,3.0,1.0,0.2,15.9,PHO
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-1.55,0.57,chapmre01,1998-99,PHO,11.8,0.9,.035,-3.3,-0.4,,NBA,2800000,31,38,31.1,.359,.835,2.7,2.9,0.9,0.2,12.1,PHO
+Rex Chapman,/players/c/chapmre01.html,1989,2000,University of Kentucky,false,"Apollo in Owensboro, Kentucky",-1.73,0.29,chapmre01,1999-00,PHO,9.4,1.4,.072,-3.6,-0.4,,NBA,3150000,32,53,18.1,.388,.756,1.5,1.2,0.4,0.0,6.6,PHO

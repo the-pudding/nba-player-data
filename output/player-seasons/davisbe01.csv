@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davisbe01,1996-97,24,Phoenix Suns,NBA,20,4.9,.385,.450,1.4,0.0,0.2,0.1,1.5,9.4,0.1,.037,-10.8,-0.2,,220000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-davisbe01,1997-98,25,Miami Heat,NBA,7,1.9,.200,,0.9,0.0,0.1,0.0,0.6,7.7,0.0,-0.127,-16.4,0.0,,25000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-davisbe01,1998-99,26,New York Knicks,NBA,8,2.6,.412,.500,1.4,0.4,0.0,0.0,2.1,34.4,0.1,.238,21.0,0.1,,425000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-davisbe01,1999-00,27,Phoenix Suns,NBA,5,4.4,.333,,1.8,0.4,0.2,0.2,0.8,8.5,0.0,-0.033,-4.1,0.0,,45847,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ben Davis,/players/d/davisbe01.html,1997,2000,"University of Kansas, University of Arizona",false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.29,0.13,davisbe01,1996-97,PHO,9.4,0.1,.037,-10.8,-0.2,,NBA,220000,24,20,4.9,.385,.450,1.4,0.0,0.2,0.1,1.5,PHO
+Ben Davis,/players/d/davisbe01.html,1997,2000,"University of Kansas, University of Arizona",false,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.94,0.03,davisbe01,1997-98,NYK,7.7,0.0,-0.127,-16.4,0.0,,NBA,25000,25,7,1.9,.200,,0.9,0.0,0.1,0.0,0.6,NYK
+Ben Davis,/players/d/davisbe01.html,1997,2000,"University of Kansas, University of Arizona",false,"Oak Hill Academy in Mouth of Wilson, Virginia",+1.01,0.05,davisbe01,1998-99,NYK,34.4,0.1,.238,21.0,0.1,,NBA,425000,26,8,2.6,.412,.500,1.4,0.4,0.0,0.0,2.1,NYK
+Ben Davis,/players/d/davisbe01.html,1997,2000,"University of Kansas, University of Arizona",false,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.48,0.04,davisbe01,1999-00,PHO,8.5,0.0,-0.033,-4.1,0.0,,NBA,45847,27,5,4.4,.333,,1.8,0.4,0.2,0.2,0.8,PHO

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-crissch01,1977-78,29,ATL,NBA,77,25.1,.425,.797,1.6,3.8,1.4,0.1,11.4,14.8,3.7,.092,-1.8,0.1,,"Gorton in Yonkers, New York"
-crissch01,1978-79,30,ATL,NBA,54,16.3,.377,.779,1.1,2.6,0.8,0.1,5.3,9.1,0.1,.008,-4.7,-0.6,,"Gorton in Yonkers, New York"
-crissch01,1979-80,31,ATL,NBA,81,22.1,.431,.811,1.4,3.0,0.9,0.0,8.3,11.5,2.8,.075,-2.4,-0.2,,"Gorton in Yonkers, New York"
-crissch01,1980-81,32,ATL,NBA,66,25.9,.454,.864,1.5,4.3,0.9,0.0,9.5,13.0,2.5,.070,-2.9,-0.4,,"Gorton in Yonkers, New York"
-crissch01,1981-82,33,"ATL,SDC",NBA,55,25.3,.446,.887,1.5,3.4,0.8,0.1,10.8,13.3,2.1,.072,-3.0,-0.4,,"Gorton in Yonkers, New York"
-crissch01,1982-83,34,MIL,NBA,66,14.0,.451,.895,1.2,1.9,0.4,0.0,6.2,14.5,2.2,.113,-2.7,-0.2,,"Gorton in Yonkers, New York"
-crissch01,1983-84,35,"MIL,ATL",NBA,15,14.3,.385,.750,1.3,2.5,0.5,0.0,3.5,10.8,0.3,.068,-3.6,-0.1,,"Gorton in Yonkers, New York"
-crissch01,1984-85,36,ATL,NBA,4,28.8,.412,.667,3.5,5.5,0.8,0.0,4.5,6.9,0.0,-0.012,-5.0,-0.1,,"Gorton in Yonkers, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-0.12,2.91,crissch01,1977-78,ATL,14.8,3.7,.092,-1.8,0.1,,29,NBA,77,25.1,.425,.797,1.6,3.8,1.4,0.1,11.4,ATL
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-2.22,0.00,crissch01,1978-79,ATL,9.1,0.1,.008,-4.7,-0.6,,30,NBA,54,16.3,.377,.779,1.1,2.6,0.8,0.1,5.3,ATL
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-1.01,1.63,crissch01,1979-80,ATL,11.5,2.8,.075,-2.4,-0.2,,31,NBA,81,22.1,.431,.811,1.4,3.0,0.9,0.0,8.3,ATL
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-1.43,0.96,crissch01,1980-81,ATL,13.0,2.5,.070,-2.9,-0.4,,32,NBA,66,25.9,.454,.864,1.5,4.3,0.9,0.0,9.5,ATL
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-1.72,0.53,crissch01,1981-82,TOT,13.3,2.1,.072,-3.0,-0.4,,33,NBA,55,25.3,.446,.887,1.5,3.4,0.8,0.1,10.8,"ATL,SDC"
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-0.31,1.38,crissch01,1982-83,MIL,14.5,2.2,.113,-2.7,-0.2,,34,NBA,66,14.0,.451,.895,1.2,1.9,0.4,0.0,6.2,MIL
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-0.35,0.28,crissch01,1983-84,TOT,10.8,0.3,.068,-3.6,-0.1,,35,NBA,15,14.3,.385,.750,1.3,2.5,0.5,0.0,3.5,"MIL,ATL"
+Charlie Criss,/players/c/crissch01.html,1978,1985,New Mexico State University,false,"Gorton in Yonkers, New York",-0.29,0.15,crissch01,1984-85,ATL,6.9,0.0,-0.012,-5.0,-0.1,,36,NBA,4,28.8,.412,.667,3.5,5.5,0.8,0.0,4.5,ATL

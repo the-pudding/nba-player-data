@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-doylemi01,2017-18,24,Brooklyn Nets,NBA,10,12.5,.277,.500,1.8,1.0,0.6,0.2,3.4,5.2,-0.1,-0.052,-5.8,-0.1,,,"Marshall in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Milton Doyle,/players/d/doylemi01.html,2018,2018,Loyola University of Chicago,true,"Marshall in Chicago, Illinois",-0.67,0.13,doylemi01,2017-18,BRK,5.2,-0.1,-0.052,-5.8,-0.1,,NBA,,24,10,12.5,.277,.500,1.8,1.0,0.6,0.2,3.4,BRK

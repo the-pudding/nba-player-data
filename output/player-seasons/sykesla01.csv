@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-sykesla01,1995-96,22,BOS,NBA,1,2.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.397,-28.3,0.0,,"Saint Francis de Sales in Toledo, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Larry Sykes,/players/s/sykesla01.html,1996,1996,Xavier University,false,"Saint Francis de Sales in Toledo, Ohio",+0.01,0.00,sykesla01,1995-96,BOS,0.0,0.0,-0.397,-28.3,0.0,,22,NBA,1,2.0,,,2.0,0.0,0.0,0.0,0.0,BOS

@@ -1,19 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-baileth01,1983-84,22,UTA,NBA,81,24.8,.512,.752,5.7,1.6,0.5,1.5,8.5,12.9,3.6,.086,-0.3,0.9,,"Bladensburg in Bladensburg, Maryland",
-baileth01,1984-85,23,Utah Jazz,NBA,80,31.0,.490,.842,6.6,1.7,0.6,1.3,15.2,14.7,5.4,.104,0.0,1.2,,"Bladensburg in Bladensburg, Maryland",225000
-baileth01,1985-86,24,Utah Jazz,NBA,82,28.8,.448,.830,6.0,1.9,0.5,1.4,14.6,15.0,4.0,.081,-1.4,0.3,,"Bladensburg in Bladensburg, Maryland",260000
-baileth01,1986-87,25,UTA,NBA,81,26.6,.447,.805,5.3,1.3,0.5,1.1,13.8,13.9,3.1,.070,-2.1,0.0,,"Bladensburg in Bladensburg, Maryland",
-baileth01,1987-88,26,Utah Jazz,NBA,82,34.2,.492,.826,6.5,1.9,0.6,1.5,19.6,16.3,6.8,.116,0.4,1.7,,"Bladensburg in Bladensburg, Maryland",549000
-baileth01,1988-89,27,Utah Jazz,NBA,82,33.9,.483,.825,5.5,1.7,0.6,1.1,19.5,15.6,6.5,.113,-0.8,0.8,,"Bladensburg in Bladensburg, Maryland",600000
-baileth01,1989-90,28,Utah Jazz,NBA,82,31.5,.481,.779,5.0,1.7,0.4,1.2,14.2,13.4,4.6,.085,-0.7,0.8,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1990-91,29,Utah Jazz,NBA,82,30.3,.458,.808,5.0,1.5,0.6,1.1,12.4,12.5,3.7,.072,-1.2,0.5,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1991-92,30,Minnesota Timberwolves,NBA,84,25.0,.440,.796,5.8,0.9,0.4,1.4,11.3,14.5,2.6,.059,-3.8,-1.0,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1991-92,30,Minnesota Timberwolves,NBA,13,25.2,.386,.800,6.0,1.5,0.4,1.2,9.4,12.0,0.5,.079,-2.0,0.0,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1991-92,30,Minnesota Timberwolves,NBA,71,25.0,.448,.795,5.7,0.8,0.4,1.4,11.7,14.9,2.0,.055,-4.2,-1.0,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1992-93,31,Minnesota Timberwolves,NBA,70,18.2,.455,.838,3.1,0.9,0.3,0.7,7.5,12.9,1.2,.046,-4.9,-0.9,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1993-94,32,Minnesota Timberwolves,NBA,79,16.4,.510,.799,2.7,0.7,0.3,0.7,7.4,15.2,2.6,.097,-2.5,-0.2,,"Bladensburg in Bladensburg, Maryland",1000000
-baileth01,1994-95,33,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Bladensburg in Bladensburg, Maryland",
-baileth01,1995-96,34,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Bladensburg in Bladensburg, Maryland",
-baileth01,1996-97,35,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Bladensburg in Bladensburg, Maryland",
-baileth01,1997-98,36,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Bladensburg in Bladensburg, Maryland",
-baileth01,1998-99,37,Utah Jazz,NBA,43,12.6,.446,.735,2.2,0.6,0.2,0.7,4.2,11.5,0.9,.083,-1.8,0.0,,"Bladensburg in Bladensburg, Maryland",850000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-0.88,2.23,baileth01,1983-84,UTA,12.9,3.6,.086,-0.3,0.9,,22,NBA,81,24.8,.512,.752,5.7,1.6,0.5,1.5,8.5,UTA,
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-0.30,3.80,baileth01,1984-85,UTA,14.7,5.4,.104,0.0,1.2,,23,NBA,80,31.0,.490,.842,6.6,1.7,0.6,1.3,15.2,UTA,225000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-1.20,1.77,baileth01,1985-86,UTA,15.0,4.0,.081,-1.4,0.3,,24,NBA,82,28.8,.448,.830,6.0,1.9,0.5,1.4,14.6,UTA,260000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-1.64,0.92,baileth01,1986-87,UTA,13.9,3.1,.070,-2.1,0.0,,25,NBA,81,26.6,.447,.805,5.3,1.3,0.5,1.1,13.8,UTA,
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",+0.07,5.16,baileth01,1987-88,UTA,16.3,6.8,.116,0.4,1.7,,26,NBA,82,34.2,.492,.826,6.5,1.9,0.6,1.5,19.6,UTA,549000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-0.59,3.29,baileth01,1988-89,UTA,15.6,6.5,.113,-0.8,0.8,,27,NBA,82,33.9,.483,.825,5.5,1.7,0.6,1.1,19.5,UTA,600000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-0.80,2.77,baileth01,1989-90,UTA,13.4,4.6,.085,-0.7,0.8,,28,NBA,82,31.5,.481,.779,5.0,1.7,0.4,1.2,14.2,UTA,1000000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-1.56,1.29,baileth01,1990-91,UTA,12.5,3.7,.072,-1.2,0.5,,29,NBA,82,30.3,.458,.808,5.0,1.5,0.6,1.1,12.4,UTA,1000000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-1.54,1.07,baileth01,1991-92,TOT,14.5,2.6,.059,-3.8,-1.0,,30,NBA,84,25.0,.440,.796,5.8,0.9,0.4,1.4,11.3,"UTA,MIN",1000000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-2.74,-0.38,baileth01,1992-93,MIN,12.9,1.2,.046,-4.9,-0.9,,31,NBA,70,18.2,.455,.838,3.1,0.9,0.3,0.7,7.5,MIN,1000000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-1.30,0.84,baileth01,1993-94,MIN,15.2,2.6,.097,-2.5,-0.2,,32,NBA,79,16.4,.510,.799,2.7,0.7,0.3,0.7,7.4,MIN,1000000
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",,,baileth01,1994-95,Did Not Play (other pro league—Greece),,,,,,,33,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",,,baileth01,1995-96,Did Not Play (other pro league—Italy),,,,,,,34,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",,,baileth01,1996-97,Did Not Play (other pro league—Italy),,,,,,,35,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",,,baileth01,1997-98,Did Not Play (other pro league—Italy),,,,,,,36,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Thurl Bailey,/players/b/baileth01.html,1984,1999,North Carolina State University,false,"Bladensburg in Bladensburg, Maryland",-1.21,0.44,baileth01,1998-99,UTA,11.5,0.9,.083,-1.8,0.0,,37,NBA,43,12.6,.446,.735,2.2,0.6,0.2,0.7,4.2,UTA,850000

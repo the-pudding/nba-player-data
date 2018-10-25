@@ -1,7 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-nichode01,2007-08,23,Chicago Bulls,NBA,14,3.1,.261,,0.4,0.1,0.0,0.2,1.1,-1.9,-0.2,-0.234,-14.7,-0.1,,427163,"St. Andrew's School in Barrington, Rhode Island"
-nichode01,2007-08,23,Chicago Bulls,NBA,3,4.7,.125,,0.3,0.0,0.0,0.0,0.7,-20.8,-0.2,-0.615,-31.6,-0.1,,427163,"St. Andrew's School in Barrington, Rhode Island"
-nichode01,2007-08,23,Chicago Bulls,NBA,11,2.7,.333,,0.4,0.1,0.0,0.3,1.2,7.0,0.0,-0.056,-6.8,0.0,,427163,"St. Andrew's School in Barrington, Rhode Island"
-nichode01,2008-09,24,Chicago Bulls,NBA,4,3.5,.333,.500,0.5,0.3,0.0,0.3,1.8,8.8,0.0,-0.108,-17.3,-0.1,,87893,"St. Andrew's School in Barrington, Rhode Island"
-nichode01,2008-09,24,Chicago Bulls,NBA,2,2.5,.250,,0.0,0.5,0.0,0.0,1.0,-3.5,0.0,-0.283,-21.7,0.0,,87893,"St. Andrew's School in Barrington, Rhode Island"
-nichode01,2008-09,24,Chicago Bulls,NBA,2,4.5,.400,.500,1.0,0.0,0.0,0.5,2.5,15.7,0.0,-0.010,-14.9,0.0,,87893,"St. Andrew's School in Barrington, Rhode Island"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Demetris Nichols,/players/n/nichode01.html,2008,2009,Syracuse University,false,"St. Andrew's School in Barrington, Rhode Island",-0.21,0.06,nichode01,2007-08,TOT,-1.9,-0.2,-0.234,-14.7,-0.1,,NBA,427163,23,14,3.1,.261,,0.4,0.1,0.0,0.2,1.1,"CLE,CHI"
+Demetris Nichols,/players/n/nichode01.html,2008,2009,Syracuse University,false,"St. Andrew's School in Barrington, Rhode Island",+0.27,0.03,nichode01,2008-09,TOT,8.8,0.0,-0.108,-17.3,-0.1,,NBA,87893,24,4,3.5,.333,.500,0.5,0.3,0.0,0.3,1.8,"CHI,NYK"

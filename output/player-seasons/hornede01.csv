@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hornede01,2011-12,23,New Jersey Nets,NBA,8,2.8,.250,.750,0.6,0.0,0.0,0.0,0.6,6.6,0.0,-0.012,-13.6,-0.1,,91642,"Holy Spirit in Absecon, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dennis Horner,/players/h/hornede01.html,2012,2012,North Carolina State University,false,"Holy Spirit in Absecon, New Jersey",-0.51,0.03,hornede01,2011-12,NJN,6.6,0.0,-0.012,-13.6,-0.1,,NBA,91642,23,8,2.8,.250,.750,0.6,0.0,0.0,0.0,0.6,NJN

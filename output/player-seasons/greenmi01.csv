@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-greenmi01,1976-77,25,SEA,NBA,76,25.4,.441,.706,6.6,1.6,0.6,1.7,9.8,14.5,3.9,.097,0.1,1.0,,"Higgins in McComb, Mississippi"
-greenmi01,1977-78,26,"SEA,SAS",NBA,72,19.2,.463,.754,5.0,1.1,0.4,1.4,8.1,14.3,2.8,.097,-1.0,0.4,,"Higgins in McComb, Mississippi"
-greenmi01,1978-79,27,SAS,NBA,76,21.6,.493,.701,4.7,1.5,0.5,1.6,7.5,12.9,3.8,.112,1.1,1.3,,"Higgins in McComb, Mississippi"
-greenmi01,1979-80,28,KCK,NBA,21,21.9,.434,.571,5.4,1.3,0.6,1.0,7.7,10.6,0.4,.044,-2.0,0.0,,"Higgins in McComb, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Green,/players/g/greenmi01.html,1974,1980,Louisiana Tech University,false,"Higgins in McComb, Mississippi",+0.08,3.09,greenmi01,1976-77,SEA,14.5,3.9,.097,0.1,1.0,,25,NBA,76,25.4,.441,.706,6.6,1.6,0.6,1.7,9.8,SEA
+Mike Green,/players/g/greenmi01.html,1974,1980,Louisiana Tech University,false,"Higgins in McComb, Mississippi",-0.34,2.02,greenmi01,1977-78,TOT,14.3,2.8,.097,-1.0,0.4,,26,NBA,72,19.2,.463,.754,5.0,1.1,0.4,1.4,8.1,"SEA,SAS"
+Mike Green,/players/g/greenmi01.html,1974,1980,Louisiana Tech University,false,"Higgins in McComb, Mississippi",+0.55,3.83,greenmi01,1978-79,SAS,12.9,3.8,.112,1.1,1.3,,27,NBA,76,21.6,.493,.701,4.7,1.5,0.5,1.6,7.5,SAS
+Mike Green,/players/g/greenmi01.html,1974,1980,Louisiana Tech University,false,"Higgins in McComb, Mississippi",-1.06,0.36,greenmi01,1979-80,KCK,10.6,0.4,.044,-2.0,0.0,,28,NBA,21,21.9,.434,.571,5.4,1.3,0.6,1.0,7.7,KCK

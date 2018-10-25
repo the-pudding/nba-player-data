@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-sandefr01,1978-79,22,"SAS,BOS",NBA,46,10.4,.427,.794,2.4,1.1,0.5,0.1,5.7,13.9,0.4,.039,-3.6,-0.2,,"Stivers in Dayton, Ohio"
-sandefr01,1979-80,23,Did Not Play,,,,,,,,,,,,,,,,,"Stivers in Dayton, Ohio"
-sandefr01,1980-81,24,KCK,NBA,23,8.1,.442,.909,0.9,0.7,0.7,0.0,3.8,13.0,0.1,.035,-3.1,-0.1,,"Stivers in Dayton, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Frankie Sanders,/players/s/sandefr01.html,1979,1981,Southern University and A&M College,false,"Stivers in Dayton, Ohio",-1.64,0.19,sandefr01,1978-79,TOT,13.9,0.4,.039,-3.6,-0.2,,22,NBA,46,10.4,.427,.794,2.4,1.1,0.5,0.1,5.7,"SAS,BOS"
+Frankie Sanders,/players/s/sandefr01.html,1979,1981,Southern University and A&M College,false,"Stivers in Dayton, Ohio",,,sandefr01,1979-80,Did Not Play,,,,,,,23,,,,,,,,,,,Did Not Play
+Frankie Sanders,/players/s/sandefr01.html,1979,1981,Southern University and A&M College,false,"Stivers in Dayton, Ohio",-0.73,0.24,sandefr01,1980-81,KCK,13.0,0.1,.035,-3.1,-0.1,,24,NBA,23,8.1,.442,.909,0.9,0.7,0.7,0.0,3.8,KCK

@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stewami01,1997-98,22,Sacramento Kings,NBA,81,21.7,.480,.458,6.6,0.8,0.4,2.4,4.6,12.9,3.0,.081,0.2,1.0,,242000,"John F. Kennedy in Sacramento, California"
-stewami01,1998-99,23,Toronto Raptors,NBA,42,9.4,.415,.680,2.4,0.1,0.1,0.7,1.5,8.8,0.7,.079,-3.4,-0.1,,1000000,"John F. Kennedy in Sacramento, California"
-stewami01,1999-00,24,Toronto Raptors,NBA,42,9.3,.377,.563,2.2,0.1,0.1,0.5,1.4,5.4,0.2,.030,-5.8,-0.4,,3200000,"John F. Kennedy in Sacramento, California"
-stewami01,2000-01,25,Toronto Raptors,NBA,26,4.7,.324,.611,1.1,0.1,0.2,0.1,1.3,8.7,0.1,.036,-6.0,-0.1,,3520000,"John F. Kennedy in Sacramento, California"
-stewami01,2001-02,26,Toronto Raptors,NBA,11,8.5,.348,.545,2.3,0.3,0.4,0.3,2.0,8.6,0.1,.058,-3.6,0.0,,3840000,"John F. Kennedy in Sacramento, California"
-stewami01,2002-03,27,Cleveland Cavaliers,NBA,47,5.3,.378,.667,1.2,0.1,0.0,0.3,0.8,5.9,0.1,.014,-6.2,-0.3,,4160000,"John F. Kennedy in Sacramento, California"
-stewami01,2003-04,28,Boston Celtics,NBA,25,5.9,.417,.750,1.2,0.0,0.1,0.4,0.5,4.2,0.2,.057,-6.4,-0.2,,4480000,"John F. Kennedy in Sacramento, California"
-stewami01,2003-04,28,Boston Celtics,NBA,8,9.5,.429,1.000,2.3,0.0,0.1,1.0,1.0,6.8,0.2,.102,-4.8,-0.1,,4480000,"John F. Kennedy in Sacramento, California"
-stewami01,2003-04,28,Boston Celtics,NBA,17,4.2,.400,.500,0.6,0.0,0.1,0.1,0.3,1.5,0.0,.009,-8.2,-0.1,,4480000,"John F. Kennedy in Sacramento, California"
-stewami01,2004-05,29,Boston Celtics,NBA,12,12.1,.524,.429,3.3,0.4,0.5,0.4,2.1,10.6,0.2,.077,-0.8,0.0,,4800000,"John F. Kennedy in Sacramento, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",+0.10,2.84,stewami01,1997-98,SAC,12.9,3.0,.081,0.2,1.0,,NBA,242000,22,81,21.7,.480,.458,6.6,0.8,0.4,2.4,4.6,SAC
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",-1.75,0.12,stewami01,1998-99,TOR,8.8,0.7,.079,-3.4,-0.1,,NBA,1000000,23,42,9.4,.415,.680,2.4,0.1,0.1,0.7,1.5,TOR
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",-2.85,-0.18,stewami01,1999-00,TOR,5.4,0.2,.030,-5.8,-0.4,,NBA,3200000,24,42,9.3,.377,.563,2.2,0.1,0.1,0.5,1.4,TOR
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",-1.80,0.03,stewami01,2000-01,TOR,8.7,0.1,.036,-6.0,-0.1,,NBA,3520000,25,26,4.7,.324,.611,1.1,0.1,0.2,0.1,1.3,TOR
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",-0.04,0.15,stewami01,2001-02,TOR,8.6,0.1,.058,-3.6,0.0,,NBA,3840000,26,11,8.5,.348,.545,2.3,0.3,0.4,0.3,2.0,TOR
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",-1.24,0.14,stewami01,2002-03,CLE,5.9,0.1,.014,-6.2,-0.3,,NBA,4160000,27,47,5.3,.378,.667,1.2,0.1,0.0,0.3,0.8,CLE
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",-0.69,0.15,stewami01,2003-04,TOT,4.2,0.2,.057,-6.4,-0.2,,NBA,4480000,28,25,5.9,.417,.750,1.2,0.0,0.1,0.4,0.5,"CLE,BOS"
+Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false,"John F. Kennedy in Sacramento, California",+0.05,0.22,stewami01,2004-05,ATL,10.6,0.2,.077,-0.8,0.0,,NBA,4800000,29,12,12.1,.524,.429,3.3,0.4,0.5,0.4,2.1,ATL

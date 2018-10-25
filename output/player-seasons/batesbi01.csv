@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-batesbi01,1979-80,23,POR,NBA,16,14.7,.493,.718,1.8,1.9,0.9,0.1,11.3,24.1,0.9,.188,3.3,0.3,,"McAdams in Camden, Mississippi"
-batesbi01,1980-81,24,POR,NBA,77,20.3,.487,.854,2.0,2.5,1.1,0.1,13.8,19.3,3.6,.111,-0.7,0.5,,"McAdams in Camden, Mississippi"
-batesbi01,1981-82,25,POR,NBA,75,16.4,.473,.787,1.4,1.5,0.5,0.1,11.1,17.8,2.4,.094,-3.2,-0.4,,"McAdams in Camden, Mississippi"
-batesbi01,1982-83,26,"WSB,LAL",NBA,19,16.0,.379,.500,1.0,0.7,0.7,0.2,6.5,8.4,0.0,-0.005,-5.8,-0.3,,"McAdams in Camden, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Billy Ray Bates,/players/b/batesbi01.html,1980,1983,Kentucky State University,false,"McAdams in Camden, Mississippi",+0.94,0.74,batesbi01,1979-80,POR,24.1,0.9,.188,3.3,0.3,,23,NBA,16,14.7,.493,.718,1.8,1.9,0.9,0.1,11.3,POR
+Billy Ray Bates,/players/b/batesbi01.html,1980,1983,Kentucky State University,false,"McAdams in Camden, Mississippi",-0.09,2.48,batesbi01,1980-81,POR,19.3,3.6,.111,-0.7,0.5,,24,NBA,77,20.3,.487,.854,2.0,2.5,1.1,0.1,13.8,POR
+Billy Ray Bates,/players/b/batesbi01.html,1980,1983,Kentucky State University,false,"McAdams in Camden, Mississippi",-1.53,0.64,batesbi01,1981-82,POR,17.8,2.4,.094,-3.2,-0.4,,25,NBA,75,16.4,.473,.787,1.4,1.5,0.5,0.1,11.1,POR
+Billy Ray Bates,/players/b/batesbi01.html,1980,1983,Kentucky State University,false,"McAdams in Camden, Mississippi",-2.18,0.00,batesbi01,1982-83,TOT,8.4,0.0,-0.005,-5.8,-0.3,,26,NBA,19,16.0,.379,.500,1.0,0.7,0.7,0.2,6.5,"WSB,LAL"

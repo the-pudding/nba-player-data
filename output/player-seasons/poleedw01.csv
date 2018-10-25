@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-poleedw01,1986-87,23,LAC,NBA,1,6.0,.250,,0.0,0.0,1.0,0.0,2.0,-11.4,0.0,-0.397,-14.0,0.0,,"Manual Arts in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dwayne Polee,/players/p/poleedw01.html,1987,1987,"University of Nevada, Las Vegas, Pepperdine University",false,"Manual Arts in Los Angeles, California",-0.24,0.01,poleedw01,1986-87,LAC,-11.4,0.0,-0.397,-14.0,0.0,,23,NBA,1,6.0,.250,,0.0,0.0,1.0,0.0,2.0,LAC

@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mirotni01,2014-15,23,Chicago Bulls,NBA,82,20.2,.405,.803,4.9,1.2,0.7,0.7,10.2,17.9,5.7,.165,1.2,1.3,,5305000,
-mirotni01,2015-16,24,Chicago Bulls,NBA,66,24.9,.407,.807,5.5,1.5,0.9,0.7,11.8,15.6,3.9,.115,1.2,1.3,,5543725,
-mirotni01,2016-17,25,Chicago Bulls,NBA,70,24.0,.413,.773,5.5,1.1,0.8,0.8,10.6,14.5,3.8,.107,0.4,1.0,,5782450,
-mirotni01,2017-18,26,New Orleans Pelicans,NBA,55,27.2,.447,.818,7.4,1.5,0.8,0.7,15.6,18.7,4.0,.128,0.6,1.0,,12500000,
-mirotni01,2017-18,26,New Orleans Pelicans,NBA,25,24.9,.474,.823,6.4,1.6,0.6,0.5,16.8,22.0,2.0,.158,1.9,0.6,,12500000,
-mirotni01,2017-18,26,New Orleans Pelicans,NBA,30,29.1,.427,.810,8.2,1.4,1.0,0.9,14.6,16.3,1.9,.106,-0.2,0.4,,12500000,
-mirotni01,2018-19,27,NOP,NBA,3,30.3,.542,.643,10.3,1.7,0.0,0.3,28.0,30.1,0.5,.284,6.3,0.2,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nikola Mirotic,/players/m/mirotni01.html,2015,2019,,true,,+2.42,5.83,mirotni01,2014-15,CHI,17.9,5.7,.165,1.2,1.3,,NBA,5305000,23,82,20.2,.405,.803,4.9,1.2,0.7,0.7,10.2,CHI
+Nikola Mirotic,/players/m/mirotni01.html,2015,2019,,true,,+1.06,3.73,mirotni01,2015-16,CHI,15.6,3.9,.115,1.2,1.3,,NBA,5543725,24,66,24.9,.407,.807,5.5,1.5,0.9,0.7,11.8,CHI
+Nikola Mirotic,/players/m/mirotni01.html,2015,2019,,true,,+1.31,4.44,mirotni01,2016-17,CHI,14.5,3.8,.107,0.4,1.0,,NBA,5782450,25,70,24.0,.413,.773,5.5,1.1,0.8,0.8,10.6,CHI
+Nikola Mirotic,/players/m/mirotni01.html,2015,2019,,true,,+1.99,5.18,mirotni01,2017-18,TOT,18.7,4.0,.128,0.6,1.0,,NBA,12500000,26,55,27.2,.447,.818,7.4,1.5,0.8,0.7,15.6,"CHI,NOP"
+Nikola Mirotic,/players/m/mirotni01.html,2015,2019,,true,,,,mirotni01,2018-19,NOP,30.1,0.5,.284,6.3,0.2,,NBA,,27,3,30.3,.542,.643,10.3,1.7,0.0,0.3,28.0,NOP

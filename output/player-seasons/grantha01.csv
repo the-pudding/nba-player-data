@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grantha01,1988-89,23,Washington Bullets,NBA,71,16.8,.464,.596,2.3,1.1,0.5,0.4,5.6,10.6,1.7,.070,-1.7,0.1,,425000,"Hancock Central in Sparta, Georgia"
-grantha01,1989-90,24,WSB,NBA,81,22.8,.473,.701,4.2,1.6,0.6,0.5,8.2,12.0,2.6,.067,-1.4,0.3,,,"Hancock Central in Sparta, Georgia"
-grantha01,1990-91,25,Washington Bullets,NBA,77,36.9,.498,.743,7.2,2.6,1.2,0.8,18.2,16.5,6.7,.112,1.1,2.2,,475000,"Hancock Central in Sparta, Georgia"
-grantha01,1991-92,26,Washington Bullets,NBA,64,37.3,.478,.800,6.8,2.7,1.2,0.4,18.0,15.3,4.3,.087,-0.2,1.1,,450000,"Hancock Central in Sparta, Georgia"
-grantha01,1992-93,27,Washington Bullets,NBA,72,37.0,.487,.727,5.7,2.8,1.0,0.6,18.6,16.1,5.0,.090,-0.3,1.1,,1625000,"Hancock Central in Sparta, Georgia"
-grantha01,1993-94,28,Portland Trail Blazers,NBA,77,27.4,.460,.641,4.6,1.4,0.9,0.6,10.4,12.3,3.9,.089,-1.1,0.5,,2429000,"Hancock Central in Sparta, Georgia"
-grantha01,1994-95,29,Portland Trail Blazers,NBA,75,23.6,.461,.705,3.8,1.1,0.7,0.7,9.1,13.2,4.0,.108,-0.7,0.6,,2990000,"Hancock Central in Sparta, Georgia"
-grantha01,1995-96,30,Portland Trail Blazers,NBA,76,31.5,.462,.545,4.8,1.5,0.8,0.6,9.3,10.4,4.0,.081,-0.3,1.0,,3551000,"Hancock Central in Sparta, Georgia"
-grantha01,1996-97,31,Washington Bullets,NBA,78,20.6,.411,.769,3.3,0.9,0.6,0.6,4.1,8.8,2.7,.081,-0.9,0.4,,4111000,"Hancock Central in Sparta, Georgia"
-grantha01,1997-98,32,Washington Wizards,NBA,65,13.8,.383,.633,2.6,0.6,0.4,0.2,2.6,7.5,0.7,.037,-3.9,-0.4,,4671875,"Hancock Central in Sparta, Georgia"
-grantha01,1998-99,33,Philadelphia 76ers,NBA,47,17.0,.369,.724,2.3,0.5,0.4,0.3,3.1,6.6,0.8,.047,-3.6,-0.3,,1000000,"Hancock Central in Sparta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-1.81,0.38,grantha01,1988-89,WSB,10.6,1.7,.070,-1.7,0.1,,NBA,425000,23,71,16.8,.464,.596,2.3,1.1,0.5,0.4,5.6,WSB
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-1.75,0.68,grantha01,1989-90,WSB,12.0,2.6,.067,-1.4,0.3,,NBA,,24,81,22.8,.473,.701,4.2,1.6,0.6,0.5,8.2,WSB
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",+0.42,5.20,grantha01,1990-91,WSB,16.5,6.7,.112,1.1,2.2,,NBA,475000,25,77,36.9,.498,.743,7.2,2.6,1.2,0.8,18.2,WSB
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-1.07,1.94,grantha01,1991-92,WSB,15.3,4.3,.087,-0.2,1.1,,NBA,450000,26,64,37.3,.478,.800,6.8,2.7,1.2,0.4,18.0,WSB
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-0.80,2.68,grantha01,1992-93,WSB,16.1,5.0,.090,-0.3,1.1,,NBA,1625000,27,72,37.0,.487,.727,5.7,2.8,1.0,0.6,18.6,WSB
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-0.65,2.41,grantha01,1993-94,POR,12.3,3.9,.089,-1.1,0.5,,NBA,2429000,28,77,27.4,.460,.641,4.6,1.4,0.9,0.6,10.4,POR
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-0.24,2.60,grantha01,1994-95,POR,13.2,4.0,.108,-0.7,0.6,,NBA,2990000,29,75,23.6,.461,.705,3.8,1.1,0.7,0.7,9.1,POR
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-0.95,2.25,grantha01,1995-96,POR,10.4,4.0,.081,-0.3,1.0,,NBA,3551000,30,76,31.5,.462,.545,4.8,1.5,0.8,0.6,9.3,POR
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-1.64,0.67,grantha01,1996-97,WSB,8.8,2.7,.081,-0.9,0.4,,NBA,4111000,31,78,20.6,.411,.769,3.3,0.9,0.6,0.6,4.1,WSB
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-3.05,-0.51,grantha01,1997-98,WAS,7.5,0.7,.037,-3.9,-0.4,,NBA,4671875,32,65,13.8,.383,.633,2.6,0.6,0.4,0.2,2.6,WAS
+Harvey Grant,/players/g/grantha01.html,1989,1999,"Clemson University, University of Oklahoma",false,"Hancock Central in Sparta, Georgia",-2.81,-0.44,grantha01,1998-99,PHI,6.6,0.8,.047,-3.6,-0.3,,NBA,1000000,33,47,17.0,.369,.724,2.3,0.5,0.4,0.3,3.1,PHI

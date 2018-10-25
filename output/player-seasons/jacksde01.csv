@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksde01,2016-17,22,Boston Celtics,NBA,5,3.4,.750,.500,0.8,0.6,0.0,0.0,2.0,30.8,0.1,.386,6.3,0.0,,1450000,"Marian in Mishawaka, Indiana"
-jacksde01,2017-18,23,Boston Celtics,NBA,15,5.3,.389,.500,0.8,0.6,0.3,0.1,1.1,5.4,-0.1,-0.047,-5.5,-0.1,,92858,"Marian in Mishawaka, Indiana"
-jacksde01,2017-18,23,Boston Celtics,NBA,12,5.3,.286,,0.9,0.4,0.3,0.1,0.7,0.2,-0.2,-0.140,-7.2,-0.1,,92858,"Marian in Mishawaka, Indiana"
-jacksde01,2017-18,23,Boston Celtics,NBA,3,5.7,.750,.500,0.3,1.3,0.3,0.0,2.7,24.5,0.1,.298,1.0,0.0,,92858,"Marian in Mishawaka, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Demetrius Jackson,/players/j/jacksde01.html,2017,2018,University of Notre Dame,true,"Marian in Mishawaka, Indiana",-0.86,0.02,jacksde01,2016-17,BOS,30.8,0.1,.386,6.3,0.0,,NBA,1450000,22,5,3.4,.750,.500,0.8,0.6,0.0,0.0,2.0,BOS
+Demetrius Jackson,/players/j/jacksde01.html,2017,2018,University of Notre Dame,true,"Marian in Mishawaka, Indiana",-1.22,0.05,jacksde01,2017-18,TOT,5.4,-0.1,-0.047,-5.5,-0.1,,NBA,92858,23,15,5.3,.389,.500,0.8,0.6,0.3,0.1,1.1,"HOU,PHI"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thomair01,1990-91,25,Los Angeles Lakers,NBA,26,4.2,.340,.571,1.2,0.4,0.2,0.0,1.8,7.3,-0.1,-0.057,-6.3,-0.1,,120000,"Miami Carol City in Miami, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Irving Thomas,/players/t/thomair01.html,1991,1991,"University of Kentucky, Florida State University",false,"Miami Carol City in Miami, Florida",-0.58,0.13,thomair01,1990-91,LAL,7.3,-0.1,-0.057,-6.3,-0.1,,NBA,120000,25,26,4.2,.340,.571,1.2,0.4,0.2,0.0,1.8,LAL

@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-johnsst03,1981-82,24,KCK,NBA,78,22.3,.613,.642,5.9,1.2,0.5,1.1,12.8,17.6,4.4,.121,0.9,1.3,,"San Gorgonio in San Bernardino, California",
-johnsst03,1982-83,25,KCK,NBA,79,19.5,.624,.574,5.0,1.2,0.5,1.1,11.7,18.1,4.4,.137,1.3,1.3,,"San Gorgonio in San Bernardino, California",
-johnsst03,1983-84,26,"KCK,CHI",NBA,81,18.4,.559,.575,5.2,1.0,0.5,0.9,9.5,14.8,2.4,.079,-1.1,0.3,,"San Gorgonio in San Bernardino, California",
-johnsst03,1984-85,27,Chicago Bulls,NBA,74,22.4,.545,.718,5.9,0.9,0.5,0.8,10.0,14.1,3.1,.090,-1.1,0.4,,"San Gorgonio in San Bernardino, California",369000
-johnsst03,1985-86,28,San Antonio Spurs,NBA,71,25.7,.632,.694,6.5,1.3,0.6,0.9,13.8,16.8,4.9,.128,0.7,1.2,,"San Gorgonio in San Bernardino, California",600000
-johnsst03,1986-87,29,POR,NBA,79,29.7,.556,.698,7.2,2.0,0.6,1.0,16.8,15.1,4.4,.091,-0.5,0.9,,"San Gorgonio in San Bernardino, California",
-johnsst03,1987-88,30,Portland Trail Blazers,NBA,43,24.4,.529,.586,5.6,1.3,0.4,0.7,15.4,14.9,1.3,.058,-3.3,-0.3,,"San Gorgonio in San Bernardino, California",650000
-johnsst03,1988-89,31,Portland Trail Blazers,NBA,72,20.5,.524,.527,5.0,1.5,0.3,0.6,10.0,12.4,1.7,.056,-2.8,-0.3,,"San Gorgonio in San Bernardino, California",750000
-johnsst03,1989-90,32,"MIN,SEA",NBA,25,10.4,.522,.600,2.1,0.7,0.1,0.2,4.7,9.6,0.0,.006,-4.7,-0.2,,"San Gorgonio in San Bernardino, California",
-johnsst03,1990-91,33,GSW,NBA,24,9.5,.540,.595,2.4,0.7,0.2,0.2,3.8,9.6,0.2,.034,-4.4,-0.1,,"San Gorgonio in San Bernardino, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",+0.51,3.29,johnsst03,1981-82,KCK,17.6,4.4,.121,0.9,1.3,,24,NBA,78,22.3,.613,.642,5.9,1.2,0.5,1.1,12.8,KCK,
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",+0.97,3.42,johnsst03,1982-83,KCK,18.1,4.4,.137,1.3,1.3,,25,NBA,79,19.5,.624,.574,5.0,1.2,0.5,1.1,11.7,KCK,
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-0.89,1.38,johnsst03,1983-84,TOT,14.8,2.4,.079,-1.1,0.3,,26,NBA,81,18.4,.559,.575,5.2,1.0,0.5,0.9,9.5,"KCK,CHI",
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-0.97,1.50,johnsst03,1984-85,CHI,14.1,3.1,.090,-1.1,0.4,,27,NBA,74,22.4,.545,.718,5.9,0.9,0.5,0.8,10.0,CHI,369000
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-0.07,2.81,johnsst03,1985-86,SAS,16.8,4.9,.128,0.7,1.2,,28,NBA,71,25.7,.632,.694,6.5,1.3,0.6,0.9,13.8,SAS,600000
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-0.38,3.21,johnsst03,1986-87,POR,15.1,4.4,.091,-0.5,0.9,,29,NBA,79,29.7,.556,.698,7.2,2.0,0.6,1.0,16.8,POR,
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-1.55,0.53,johnsst03,1987-88,POR,14.9,1.3,.058,-3.3,-0.3,,30,NBA,43,24.4,.529,.586,5.6,1.3,0.4,0.7,15.4,POR,650000
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-2.33,-0.03,johnsst03,1988-89,POR,12.4,1.7,.056,-2.8,-0.3,,31,NBA,72,20.5,.524,.527,5.0,1.5,0.3,0.6,10.0,POR,750000
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-2.23,0.01,johnsst03,1989-90,TOT,9.6,0.0,.006,-4.7,-0.2,,32,NBA,25,10.4,.522,.600,2.1,0.7,0.1,0.2,4.7,"MIN,SEA",
+Steve Johnson,/players/j/johnsst03.html,1982,1991,Oregon State University,false,"San Gorgonio in San Bernardino, California",-2.01,0.05,johnsst03,1990-91,GSW,9.6,0.2,.034,-4.4,-0.1,,33,NBA,24,9.5,.540,.595,2.4,0.7,0.2,0.2,3.8,GSW,

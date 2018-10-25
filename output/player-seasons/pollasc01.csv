@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-pollasc01,1997-98,22,Detroit Pistons,NBA,33,9.6,.500,.826,2.2,0.3,0.2,0.3,2.7,13.3,0.9,.141,-0.8,0.1,,818160,"Torrey Pines in San Diego, California"
-pollasc01,1998-99,23,Detroit Pistons,NBA,16,16.2,.541,.696,5.1,0.3,0.5,1.1,5.1,18.0,1.1,.200,0.6,0.2,,940920,"Torrey Pines in San Diego, California"
-pollasc01,1999-00,24,Atlanta Hawks,NBA,76,17.6,.527,.717,5.3,0.6,0.7,0.8,5.4,15.8,5.1,.183,2.0,1.4,,1063680,"Torrey Pines in San Diego, California"
-pollasc01,2000-01,25,Sacramento Kings,NBA,77,21.5,.468,.749,6.0,0.6,0.6,1.3,6.5,15.0,5.4,.157,0.6,1.1,,3920000,"Torrey Pines in San Diego, California"
-pollasc01,2001-02,26,Sacramento Kings,NBA,80,23.5,.550,.693,7.1,0.7,0.9,1.0,6.4,15.0,6.8,.175,2.0,1.9,,4344187,"Torrey Pines in San Diego, California"
-pollasc01,2002-03,27,Sacramento Kings,NBA,23,14.1,.460,.605,4.6,0.3,0.6,0.7,4.5,14.6,1.0,.150,-1.4,0.0,,4826874,"Torrey Pines in San Diego, California"
-pollasc01,2003-04,28,Indiana Pacers,NBA,61,11.1,.412,.571,2.7,0.2,0.4,0.4,1.7,8.3,1.4,.098,-1.6,0.1,,5309563,"Torrey Pines in San Diego, California"
-pollasc01,2004-05,29,Indiana Pacers,NBA,49,17.7,.473,.673,4.2,0.4,0.6,0.5,3.9,11.2,1.9,.104,-0.8,0.3,,5792250,"Torrey Pines in San Diego, California"
-pollasc01,2005-06,30,Indiana Pacers,NBA,45,17.1,.455,.763,4.8,0.5,0.8,0.4,3.8,12.3,2.1,.134,0.8,0.5,,6274937,"Torrey Pines in San Diego, California"
-pollasc01,2006-07,31,Cleveland Cavaliers,NBA,24,4.5,.423,.500,1.3,0.1,0.2,0.0,1.0,8.5,0.2,.100,-3.0,0.0,,2200000,"Torrey Pines in San Diego, California"
-pollasc01,2007-08,32,Boston Celtics,NBA,22,7.9,.522,.682,1.7,0.1,0.1,0.3,1.8,8.7,0.6,.171,-1.0,0.0,,1219590,"Torrey Pines in San Diego, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",-0.90,0.29,pollasc01,1997-98,DET,13.3,0.9,.141,-0.8,0.1,,NBA,818160,22,33,9.6,.500,.826,2.2,0.3,0.2,0.3,2.7,DET
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",+0.81,0.71,pollasc01,1998-99,SAC,18.0,1.1,.200,0.6,0.2,,NBA,940920,23,16,16.2,.541,.696,5.1,0.3,0.5,1.1,5.1,SAC
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",+0.87,3.04,pollasc01,1999-00,SAC,15.8,5.1,.183,2.0,1.4,,NBA,1063680,24,76,17.6,.527,.717,5.3,0.6,0.7,0.8,5.4,SAC
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",+1.64,4.93,pollasc01,2000-01,SAC,15.0,5.4,.157,0.6,1.1,,NBA,3920000,25,77,21.5,.468,.749,6.0,0.6,0.6,1.3,6.5,SAC
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",+0.79,4.34,pollasc01,2001-02,SAC,15.0,6.8,.175,2.0,1.9,,NBA,4344187,26,80,23.5,.550,.693,7.1,0.7,0.9,1.0,6.4,SAC
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",+0.11,0.67,pollasc01,2002-03,SAC,14.6,1.0,.150,-1.4,0.0,,NBA,4826874,27,23,14.1,.460,.605,4.6,0.3,0.6,0.7,4.5,SAC
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",-3.21,-0.57,pollasc01,2003-04,IND,8.3,1.4,.098,-1.6,0.1,,NBA,5309563,28,61,11.1,.412,.571,2.7,0.2,0.4,0.4,1.7,IND
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",-0.46,1.14,pollasc01,2004-05,IND,11.2,1.9,.104,-0.8,0.3,,NBA,5792250,29,49,17.7,.473,.673,4.2,0.4,0.6,0.5,3.9,IND
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",+1.51,2.02,pollasc01,2005-06,IND,12.3,2.1,.134,0.8,0.5,,NBA,6274937,30,45,17.1,.455,.763,4.8,0.5,0.8,0.4,3.8,IND
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",-0.25,0.15,pollasc01,2006-07,CLE,8.5,0.2,.100,-3.0,0.0,,NBA,2200000,31,24,4.5,.423,.500,1.3,0.1,0.2,0.0,1.0,CLE
+Scot Pollard,/players/p/pollasc01.html,1998,2008,University of Kansas,false,"Torrey Pines in San Diego, California",-1.23,0.12,pollasc01,2007-08,BOS,8.7,0.6,.171,-1.0,0.0,,NBA,1219590,32,22,7.9,.522,.682,1.7,0.1,0.1,0.3,1.8,BOS

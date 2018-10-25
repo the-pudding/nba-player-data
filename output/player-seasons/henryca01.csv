@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-henryca01,1985-86,25,Sacramento Kings,NBA,28,5.3,.463,.706,0.7,0.1,0.2,0.0,2.8,12.5,0.2,.049,-5.8,-0.1,,85000,"U.S. Grant in Oklahoma City, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carl Henry,/players/h/henryca01.html,1986,1986,"Oklahoma City University, University of Kansas",false,"U.S. Grant in Oklahoma City, Oklahoma",-0.27,0.20,henryca01,1985-86,SAC,12.5,0.2,.049,-5.8,-0.1,,NBA,85000,25,28,5.3,.463,.706,0.7,0.1,0.2,0.0,2.8,SAC

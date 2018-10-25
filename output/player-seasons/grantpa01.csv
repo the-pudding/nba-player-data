@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grantpa01,1998-99,25,Milwaukee Bucks,NBA,6,2.2,.333,,0.2,0.0,0.2,0.0,0.7,-4.6,-0.1,-0.253,-15.2,0.0,,903240,"Brother Rice in Birmingham, Michigan"
-grantpa01,1998-99,25,Milwaukee Bucks,NBA,4,2.0,.250,,0.3,0.0,0.0,0.0,0.5,-14.3,-0.1,-0.319,-21.8,0.0,,903240,"Brother Rice in Birmingham, Michigan"
-grantpa01,1998-99,25,Milwaukee Bucks,NBA,2,2.5,.500,,0.0,0.0,0.5,0.0,1.0,10.9,0.0,-0.148,-4.6,0.0,,903240,"Brother Rice in Birmingham, Michigan"
-grantpa01,1999-00,26,Milwaukee Bucks,NBA,,,,,,,,,,,,,,,,1021080,"Brother Rice in Birmingham, Michigan"
-grantpa01,2000-01,27,Did Not Play (other pro league—ABA),,,,,,,,,,,,,,,,,,"Brother Rice in Birmingham, Michigan"
-grantpa01,2001-02,28,Did Not Play,,,,,,,,,,,,,,,,,,"Brother Rice in Birmingham, Michigan"
-grantpa01,2002-03,29,Did Not Play (other pro league—Yugoslavia),,,,,,,,,,,,,,,,,,"Brother Rice in Birmingham, Michigan"
-grantpa01,2003-04,30,Utah Jazz,NBA,10,9.8,.478,.375,1.7,0.3,0.1,0.1,2.5,5.1,0.0,-0.015,-6.8,-0.1,,350581,"Brother Rice in Birmingham, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul Grant,/players/g/grantpa01.html,1999,2004,"Boston College, University of Wisconsin",false,"Brother Rice in Birmingham, Michigan",+0.56,0.03,grantpa01,1998-99,TOT,-4.6,-0.1,-0.253,-15.2,0.0,,NBA,903240,25,6,2.2,.333,,0.2,0.0,0.2,0.0,0.7,"MIN,MIL"
+Paul Grant,/players/g/grantpa01.html,1999,2004,"Boston College, University of Wisconsin",false,"Brother Rice in Birmingham, Michigan",,,grantpa01,1999-00,Did Not Play (other pro league—CBA),,,,,,,NBA,1021080,26,,,,,,,,,,Did Not Play (other pro league—CBA)
+Paul Grant,/players/g/grantpa01.html,1999,2004,"Boston College, University of Wisconsin",false,"Brother Rice in Birmingham, Michigan",,,grantpa01,2000-01,Did Not Play (other pro league—ABA),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—ABA)
+Paul Grant,/players/g/grantpa01.html,1999,2004,"Boston College, University of Wisconsin",false,"Brother Rice in Birmingham, Michigan",,,grantpa01,2001-02,Did Not Play,,,,,,,,,28,,,,,,,,,,Did Not Play
+Paul Grant,/players/g/grantpa01.html,1999,2004,"Boston College, University of Wisconsin",false,"Brother Rice in Birmingham, Michigan",,,grantpa01,2002-03,Did Not Play (other pro league—Yugoslavia),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Yugoslavia)
+Paul Grant,/players/g/grantpa01.html,1999,2004,"Boston College, University of Wisconsin",false,"Brother Rice in Birmingham, Michigan",-0.15,0.14,grantpa01,2003-04,UTA,5.1,0.0,-0.015,-6.8,-0.1,,NBA,350581,30,10,9.8,.478,.375,1.7,0.3,0.1,0.1,2.5,UTA

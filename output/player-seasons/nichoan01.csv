@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-nichoan01,2012-13,23,Orlando Magic,NBA,75,16.7,.527,.798,3.4,0.6,0.3,0.4,7.8,15.1,1.7,.065,-4.4,-0.8,,1418160,"Father Michael Goetz Secondary in West Mississauga, Canada"
-nichoan01,2013-14,24,Orlando Magic,NBA,76,15.4,.429,.825,3.4,0.3,0.2,0.3,5.7,9.9,0.6,.025,-6.7,-1.4,,1482000,"Father Michael Goetz Secondary in West Mississauga, Canada"
-nichoan01,2014-15,25,Orlando Magic,NBA,40,12.3,.437,.600,2.1,0.6,0.2,0.3,4.9,10.3,0.1,.007,-6.2,-0.5,,1545840,"Father Michael Goetz Secondary in West Mississauga, Canada"
-nichoan01,2015-16,26,Orlando Magic,NBA,56,14.7,.471,.785,3.6,0.4,0.2,0.4,6.9,14.8,1.6,.092,-3.7,-0.4,,2380594,"Father Michael Goetz Secondary in West Mississauga, Canada"
-nichoan01,2016-17,27,Brooklyn Nets,NBA,38,9.0,.387,.643,1.6,0.3,0.4,0.2,2.6,5.9,-0.1,-0.019,-6.4,-0.4,,6088993,"Father Michael Goetz Secondary in West Mississauga, Canada"
-nichoan01,2016-17,27,Brooklyn Nets,NBA,28,8.3,.390,.583,1.2,0.3,0.4,0.2,2.5,6.3,-0.1,-0.014,-5.7,-0.2,,6088993,"Father Michael Goetz Secondary in West Mississauga, Canada"
-nichoan01,2016-17,27,Brooklyn Nets,NBA,10,11.1,.382,1.000,2.7,0.3,0.5,0.0,3.0,5.0,-0.1,-0.030,-7.8,-0.2,,6088993,"Father Michael Goetz Secondary in West Mississauga, Canada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andrew Nicholson,/players/n/nichoan01.html,2013,2017,St. Bonaventure University,true,"Father Michael Goetz Secondary in West Mississauga, Canada",-1.84,0.30,nichoan01,2012-13,ORL,15.1,1.7,.065,-4.4,-0.8,,NBA,1418160,23,75,16.7,.527,.798,3.4,0.6,0.3,0.4,7.8,ORL
+Andrew Nicholson,/players/n/nichoan01.html,2013,2017,St. Bonaventure University,true,"Father Michael Goetz Secondary in West Mississauga, Canada",-2.13,0.04,nichoan01,2013-14,ORL,9.9,0.6,.025,-6.7,-1.4,,NBA,1482000,24,76,15.4,.429,.825,3.4,0.3,0.2,0.3,5.7,ORL
+Andrew Nicholson,/players/n/nichoan01.html,2013,2017,St. Bonaventure University,true,"Father Michael Goetz Secondary in West Mississauga, Canada",-2.33,-0.05,nichoan01,2014-15,ORL,10.3,0.1,.007,-6.2,-0.5,,NBA,1545840,25,40,12.3,.437,.600,2.1,0.6,0.2,0.3,4.9,ORL
+Andrew Nicholson,/players/n/nichoan01.html,2013,2017,St. Bonaventure University,true,"Father Michael Goetz Secondary in West Mississauga, Canada",-0.28,1.10,nichoan01,2015-16,ORL,14.8,1.6,.092,-3.7,-0.4,,NBA,2380594,26,56,14.7,.471,.785,3.6,0.4,0.2,0.4,6.9,ORL
+Andrew Nicholson,/players/n/nichoan01.html,2013,2017,St. Bonaventure University,true,"Father Michael Goetz Secondary in West Mississauga, Canada",-4.87,-0.55,nichoan01,2016-17,TOT,5.9,-0.1,-0.019,-6.4,-0.4,,NBA,6088993,27,38,9.0,.387,.643,1.6,0.3,0.4,0.2,2.6,"WAS,BRK"

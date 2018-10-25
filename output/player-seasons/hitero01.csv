@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hitero01,2006-07,23,Miami Heat,NBA,12,11.3,.317,.667,1.3,0.7,0.3,0.2,4.3,7.4,-0.2,-0.055,-7.9,-0.2,,412718,"Winton Woods in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Robert Hite,/players/h/hitero01.html,2007,2007,University of Miami,false,"Winton Woods in Cincinnati, Ohio",-0.28,0.18,hitero01,2006-07,MIA,7.4,-0.2,-0.055,-7.9,-0.2,,NBA,412718,23,12,11.3,.317,.667,1.3,0.7,0.3,0.2,4.3,MIA

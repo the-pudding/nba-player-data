@@ -1,17 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-douglsh01,1989-90,23,MIA,NBA,81,30.5,.494,.687,2.5,7.6,1.8,0.1,14.3,17.0,4.4,.086,-0.2,1.2,,"Spingarn in Washington, District of Columbia",
-douglsh01,1990-91,24,Miami Heat,NBA,73,35.1,.504,.686,2.9,8.5,1.7,0.1,18.5,18.0,5.4,.100,0.6,1.7,,"Spingarn in Washington, District of Columbia",325000
-douglsh01,1991-92,25,Miami Heat,NBA,42,17.9,.462,.682,1.5,4.1,0.6,0.2,7.3,13.8,1.0,.067,-3.1,-0.2,,"Spingarn in Washington, District of Columbia",1250000
-douglsh01,1991-92,25,Miami Heat,NBA,5,19.6,.516,.714,1.2,3.8,0.8,0.0,7.4,12.6,0.1,.058,-5.5,-0.1,,"Spingarn in Washington, District of Columbia",1250000
-douglsh01,1991-92,25,Miami Heat,NBA,37,17.7,.455,.680,1.5,4.1,0.6,0.2,7.3,14.0,0.9,.068,-2.7,-0.1,,"Spingarn in Washington, District of Columbia",1250000
-douglsh01,1992-93,26,Boston Celtics,NBA,79,24.5,.498,.560,2.1,6.4,0.6,0.1,7.8,13.5,2.6,.064,-2.4,-0.2,,"Spingarn in Washington, District of Columbia",1869000
-douglsh01,1993-94,27,Boston Celtics,NBA,78,35.8,.462,.641,2.5,8.8,1.1,0.1,13.3,14.3,2.7,.046,-2.4,-0.3,,"Spingarn in Washington, District of Columbia",2300000
-douglsh01,1994-95,28,Boston Celtics,NBA,65,31.5,.475,.689,2.6,6.9,1.2,0.0,14.7,17.0,4.2,.099,0.0,1.0,,"Spingarn in Washington, District of Columbia",2731000
-douglsh01,1995-96,29,Milwaukee Bucks,NBA,79,29.6,.504,.731,2.3,5.5,0.8,0.1,11.3,14.6,3.3,.068,-2.2,-0.1,,"Spingarn in Washington, District of Columbia",3163000
-douglsh01,1995-96,29,Milwaukee Bucks,NBA,10,23.4,.429,.625,2.3,3.9,0.2,0.0,9.8,9.3,-0.3,-0.053,-7.8,-0.3,,"Spingarn in Washington, District of Columbia",3163000
-douglsh01,1995-96,29,Milwaukee Bucks,NBA,69,30.4,.514,.754,2.3,5.8,0.9,0.1,11.5,15.2,3.5,.081,-1.6,0.2,,"Spingarn in Washington, District of Columbia",3163000
-douglsh01,1996-97,30,Milwaukee Bucks,NBA,79,29.3,.502,.667,2.4,5.4,1.0,0.1,9.7,14.6,4.6,.095,-0.7,0.8,,"Spingarn in Washington, District of Columbia",3594000
-douglsh01,1997-98,31,Denver Nuggets,NBA,80,21.2,.495,.669,1.7,4.0,0.7,0.1,8.0,15.6,4.0,.112,-1.4,0.3,,"Spingarn in Washington, District of Columbia",4025000
-douglsh01,1998-99,32,Los Angeles Clippers,NBA,30,28.1,.438,.632,1.9,4.1,0.9,0.1,8.2,11.5,-0.1,-0.004,-4.4,-0.5,,"Spingarn in Washington, District of Columbia",2200000
-douglsh01,1999-00,33,New Jersey Nets,NBA,20,15.5,.500,.893,1.5,1.7,0.9,0.0,6.0,15.4,0.6,.100,-1.1,0.1,,"Spingarn in Washington, District of Columbia",1000000
-douglsh01,2000-01,34,New Jersey Nets,NBA,59,18.5,.403,.748,1.3,2.4,0.6,0.1,5.7,9.9,0.2,.007,-5.7,-1.0,,"Spingarn in Washington, District of Columbia",1100000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",+0.23,4.19,douglsh01,1989-90,MIA,17.0,4.4,.086,-0.2,1.2,,23,NBA,81,30.5,.494,.687,2.5,7.6,1.8,0.1,14.3,MIA,
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",+0.64,5.07,douglsh01,1990-91,MIA,18.0,5.4,.100,0.6,1.7,,24,NBA,73,35.1,.504,.686,2.9,8.5,1.7,0.1,18.5,MIA,325000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-1.64,0.36,douglsh01,1991-92,TOT,13.8,1.0,.067,-3.1,-0.2,,25,NBA,42,17.9,.462,.682,1.5,4.1,0.6,0.2,7.3,"MIA,BOS",1250000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-1.04,1.77,douglsh01,1992-93,BOS,13.5,2.6,.064,-2.4,-0.2,,26,NBA,79,24.5,.498,.560,2.1,6.4,0.6,0.1,7.8,BOS,1869000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-1.08,2.26,douglsh01,1993-94,BOS,14.3,2.7,.046,-2.4,-0.3,,27,NBA,78,35.8,.462,.641,2.5,8.8,1.1,0.1,13.3,BOS,2300000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",+0.19,3.70,douglsh01,1994-95,BOS,17.0,4.2,.099,0.0,1.0,,28,NBA,65,31.5,.475,.689,2.6,6.9,1.2,0.0,14.7,BOS,2731000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-1.86,0.70,douglsh01,1995-96,TOT,14.6,3.3,.068,-2.2,-0.1,,29,NBA,79,29.6,.504,.731,2.3,5.5,0.8,0.1,11.3,"BOS,MIL",3163000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-0.13,3.36,douglsh01,1996-97,MIL,14.6,4.6,.095,-0.7,0.8,,30,NBA,79,29.3,.502,.667,2.4,5.4,1.0,0.1,9.7,MIL,3594000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-0.37,2.35,douglsh01,1997-98,NJN,15.6,4.0,.112,-1.4,0.3,,31,NBA,80,21.2,.495,.669,1.7,4.0,0.7,0.1,8.0,NJN,4025000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-2.82,-0.33,douglsh01,1998-99,LAC,11.5,-0.1,-0.004,-4.4,-0.5,,32,NBA,30,28.1,.438,.632,1.9,4.1,0.9,0.1,8.2,LAC,2200000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-1.29,0.20,douglsh01,1999-00,NJN,15.4,0.6,.100,-1.1,0.1,,33,NBA,20,15.5,.500,.893,1.5,1.7,0.9,0.0,6.0,NJN,1000000
+Sherman Douglas,/players/d/douglsh01.html,1990,2001,Syracuse University,false,"Spingarn in Washington, District of Columbia",-2.16,-0.03,douglsh01,2000-01,NJN,9.9,0.2,.007,-5.7,-1.0,,34,NBA,59,18.5,.403,.748,1.3,2.4,0.6,0.1,5.7,NJN,1100000

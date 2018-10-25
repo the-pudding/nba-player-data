@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-laudepr01,1996-97,23,Atlanta Hawks,NBA,35,5.1,.551,.565,1.2,0.3,0.0,0.3,3.2,13.6,-0.2,-0.048,-6.8,-0.2,,548000,"Carver in Chicago, Illinois"
-laudepr01,1997-98,24,Denver Nuggets,NBA,39,8.8,.417,.551,2.6,0.5,0.2,0.4,3.7,10.0,-0.6,-0.087,-8.7,-0.6,,630000,"Carver in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Priest Lauderdale,/players/l/laudepr01.html,1997,1998,Central State University,false,"Carver in Chicago, Illinois",-1.71,0.06,laudepr01,1996-97,ATL,13.6,-0.2,-0.048,-6.8,-0.2,,NBA,548000,23,35,5.1,.551,.565,1.2,0.3,0.0,0.3,3.2,ATL
+Priest Lauderdale,/players/l/laudepr01.html,1997,1998,Central State University,false,"Carver in Chicago, Illinois",-3.25,-0.25,laudepr01,1997-98,DEN,10.0,-0.6,-0.087,-8.7,-0.6,,NBA,630000,24,39,8.8,.417,.551,2.6,0.5,0.2,0.4,3.7,DEN

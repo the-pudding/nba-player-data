@@ -1,19 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-skinnbr01,1998-99,22,Los Angeles Clippers,NBA,21,12.3,.465,.606,2.5,0.0,0.5,0.6,4.1,13.2,0.1,.012,-6.3,-0.3,,653500,"Temple in Temple, Texas"
-skinnbr01,1999-00,23,Los Angeles Clippers,NBA,33,23.5,.507,.662,6.1,0.3,0.5,1.3,5.4,11.9,0.9,.057,-3.5,-0.3,,843000,"Temple in Temple, Texas"
-skinnbr01,2000-01,24,Los Angeles Clippers,NBA,39,15.0,.398,.542,4.3,0.5,0.4,0.3,4.1,10.4,0.3,.028,-4.8,-0.4,,901800,"Temple in Temple, Texas"
-skinnbr01,2001-02,25,Cleveland Cavaliers,NBA,65,17.0,.543,.608,4.3,0.3,0.4,0.9,3.4,11.3,1.9,.084,-1.9,0.0,,1483461,"Temple in Temple, Texas"
-skinnbr01,2002-03,26,Philadelphia 76ers,NBA,77,17.9,.550,.602,4.8,0.2,0.6,0.7,6.0,15.4,4.1,.144,-1.3,0.3,,637435,"Temple in Temple, Texas"
-skinnbr01,2003-04,27,Milwaukee Bucks,NBA,56,28.2,.497,.572,7.3,0.9,0.5,1.1,10.5,14.4,2.7,.083,-1.1,0.4,,1500000,"Temple in Temple, Texas"
-skinnbr01,2004-05,28,Philadelphia 76ers,NBA,49,19.2,.507,.357,5.7,0.9,0.6,1.0,4.8,13.7,1.9,.096,0.0,0.5,,4500000,"Temple in Temple, Texas"
-skinnbr01,2004-05,28,Philadelphia 76ers,NBA,24,10.3,.386,.294,2.6,0.2,0.2,0.3,2.0,5.9,-0.1,-0.013,-7.6,-0.3,,4500000,"Temple in Temple, Texas"
-skinnbr01,2004-05,28,Philadelphia 76ers,NBA,25,27.8,.554,.377,8.7,1.5,1.0,1.7,7.4,16.5,1.9,.134,2.7,0.8,,4500000,"Temple in Temple, Texas"
-skinnbr01,2005-06,29,Sacramento Kings,NBA,65,14.5,.513,.482,3.5,0.5,0.4,0.7,2.9,10.5,1.1,.057,-2.1,0.0,,4950000,"Temple in Temple, Texas"
-skinnbr01,2005-06,29,Sacramento Kings,NBA,38,11.3,.551,.444,2.7,0.4,0.3,0.5,2.3,10.8,0.8,.094,-1.6,0.0,,4950000,"Temple in Temple, Texas"
-skinnbr01,2005-06,29,Sacramento Kings,NBA,27,19.1,.484,.517,4.7,0.5,0.5,0.9,3.8,10.3,0.3,.026,-2.6,-0.1,,4950000,"Temple in Temple, Texas"
-skinnbr01,2006-07,30,Milwaukee Bucks,NBA,67,22.7,.490,.582,5.7,0.9,0.3,1.0,4.4,8.9,1.1,.035,-2.8,-0.3,,5400000,"Temple in Temple, Texas"
-skinnbr01,2007-08,31,Phoenix Suns,NBA,66,12.8,.465,.524,3.6,0.2,0.3,1.2,3.3,11.4,1.2,.069,-2.6,-0.1,,1108718,"Temple in Temple, Texas"
-skinnbr01,2008-09,32,Los Angeles Clippers,NBA,51,16.5,.449,.638,4.0,0.5,0.3,1.0,4.2,10.6,0.4,.024,-3.8,-0.4,,1262275,"Temple in Temple, Texas"
-skinnbr01,2009-10,33,Los Angeles Clippers,NBA,16,7.7,.400,.750,1.7,0.0,0.2,0.3,1.6,5.5,0.0,-0.006,-10.4,-0.3,,1306455,"Temple in Temple, Texas"
-skinnbr01,2010-11,34,Milwaukee Bucks,NBA,2,3.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,.023,-6.0,0.0,,270436,"Temple in Temple, Texas"
-skinnbr01,2011-12,35,Memphis Grizzlies,NBA,1,4.0,.000,,0.0,0.0,0.0,0.0,0.0,-14.6,0.0,-0.248,-16.1,0.0,,65446,"Temple in Temple, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-1.55,0.12,skinnbr01,1998-99,LAC,13.2,0.1,.012,-6.3,-0.3,,NBA,653500,22,21,12.3,.465,.606,2.5,0.0,0.5,0.6,4.1,LAC
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-2.20,0.00,skinnbr01,1999-00,LAC,11.9,0.9,.057,-3.5,-0.3,,NBA,843000,23,33,23.5,.507,.662,6.1,0.3,0.5,1.3,5.4,LAC
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-1.97,0.05,skinnbr01,2000-01,LAC,10.4,0.3,.028,-4.8,-0.4,,NBA,901800,24,39,15.0,.398,.542,4.3,0.5,0.4,0.3,4.1,LAC
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-0.54,1.28,skinnbr01,2001-02,CLE,11.3,1.9,.084,-1.9,0.0,,NBA,1483461,25,65,17.0,.543,.608,4.3,0.3,0.4,0.9,3.4,CLE
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-1.35,0.84,skinnbr01,2002-03,PHI,15.4,4.1,.144,-1.3,0.3,,NBA,637435,26,77,17.9,.550,.602,4.8,0.2,0.6,0.7,6.0,PHI
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-0.78,1.67,skinnbr01,2003-04,MIL,14.4,2.7,.083,-1.1,0.4,,NBA,1500000,27,56,28.2,.497,.572,7.3,0.9,0.5,1.1,10.5,MIL
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-1.10,0.79,skinnbr01,2004-05,TOT,13.7,1.9,.096,0.0,0.5,,NBA,4500000,28,49,19.2,.507,.357,5.7,0.9,0.6,1.0,4.8,"PHI,SAC"
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-3.42,-0.77,skinnbr01,2005-06,TOT,10.5,1.1,.057,-2.1,0.0,,NBA,4950000,29,65,14.5,.513,.482,3.5,0.5,0.4,0.7,2.9,"SAC,POR"
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-2.06,0.25,skinnbr01,2006-07,MIL,8.9,1.1,.035,-2.8,-0.3,,NBA,5400000,30,67,22.7,.490,.582,5.7,0.9,0.3,1.0,4.4,MIL
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-2.71,-0.22,skinnbr01,2007-08,PHO,11.4,1.2,.069,-2.6,-0.1,,NBA,1108718,31,66,12.8,.465,.524,3.6,0.2,0.3,1.2,3.3,PHO
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-3.47,-0.66,skinnbr01,2008-09,LAC,10.6,0.4,.024,-3.8,-0.4,,NBA,1262275,32,51,16.5,.449,.638,4.0,0.5,0.3,1.0,4.2,LAC
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-0.96,0.11,skinnbr01,2009-10,LAC,5.5,0.0,-0.006,-10.4,-0.3,,NBA,1306455,33,16,7.7,.400,.750,1.7,0.0,0.2,0.3,1.6,LAC
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",+0.48,0.01,skinnbr01,2010-11,MIL,0.0,0.0,.023,-6.0,0.0,,NBA,270436,34,2,3.0,,,0.0,0.0,0.0,0.0,0.0,MIL
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false,"Temple in Temple, Texas",-0.43,0.01,skinnbr01,2011-12,MEM,-14.6,0.0,-0.248,-16.1,0.0,,NBA,65446,35,1,4.0,.000,,0.0,0.0,0.0,0.0,0.0,MEM

@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-haleyja01,1988-89,25,Chicago Bulls,NBA,51,5.7,.474,.783,1.4,0.2,0.2,0.0,2.2,9.9,0.4,.064,-6.0,-0.3,,150000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1989-90,26,"CHI,NJN",NBA,67,16.2,.398,.680,4.5,0.4,0.3,0.2,5.4,8.5,0.3,.013,-6.9,-1.3,,,"Huntington Beach in Huntington Beach, California"
-haleyja01,1990-91,27,New Jersey Nets,NBA,78,15.1,.469,.619,4.6,0.4,0.3,0.3,5.6,11.8,2.2,.090,-4.7,-0.8,,360000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1991-92,28,Los Angeles Lakers,NBA,49,8.0,.369,.483,1.9,0.1,0.1,0.2,1.6,3.6,-0.3,-0.034,-8.7,-0.7,,300000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1992-93,29,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,390000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1993-94,30,Los Angeles Lakers,NBA,28,3.4,.438,.810,0.9,0.0,0.0,0.0,2.1,12.8,0.1,.054,-13.7,-0.3,,390000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1994-95,31,San Antonio Spurs,NBA,31,3.8,.426,.656,0.9,0.1,0.1,0.2,2.4,11.9,0.0,.010,-10.9,-0.3,,150000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1995-96,32,Chicago Bulls,NBA,1,7.0,.333,.500,2.0,0.0,0.0,0.0,5.0,1.8,0.0,-0.228,-31.1,-0.1,,225000,"Huntington Beach in Huntington Beach, California"
-haleyja01,1996-97,33,NJN,NBA,20,3.7,.351,.737,1.6,0.3,0.1,0.1,2.0,19.6,0.2,.149,-4.3,0.0,,,"Huntington Beach in Huntington Beach, California"
-haleyja01,1997-98,34,New Jersey Nets,NBA,16,3.2,.278,.571,0.9,0.0,0.0,0.1,1.4,7.2,0.0,-0.034,-18.1,-0.2,,272250,"Huntington Beach in Huntington Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-2.10,0.04,haleyja01,1988-89,CHI,9.9,0.4,.064,-6.0,-0.3,,NBA,150000,25,51,5.7,.474,.783,1.4,0.2,0.2,0.0,2.2,CHI
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-3.97,-1.20,haleyja01,1989-90,TOT,8.5,0.3,.013,-6.9,-1.3,,NBA,,26,67,16.2,.398,.680,4.5,0.4,0.3,0.2,5.4,"CHI,NJN"
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-2.36,-0.10,haleyja01,1990-91,NJN,11.8,2.2,.090,-4.7,-0.8,,NBA,360000,27,78,15.1,.469,.619,4.6,0.4,0.3,0.3,5.6,NJN
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-4.09,-0.49,haleyja01,1991-92,LAL,3.6,-0.3,-0.034,-8.7,-0.7,,NBA,300000,28,49,8.0,.369,.483,1.9,0.1,0.1,0.2,1.6,LAL
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",,,haleyja01,1992-93,Did Not Play (injury),,,,,,,NBA,390000,29,,,,,,,,,,Did Not Play (injury)
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-0.16,0.15,haleyja01,1993-94,SAS,12.8,0.1,.054,-13.7,-0.3,,NBA,390000,30,28,3.4,.438,.810,0.9,0.0,0.0,0.0,2.1,SAS
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-0.78,0.13,haleyja01,1994-95,SAS,11.9,0.0,.010,-10.9,-0.3,,NBA,150000,31,31,3.8,.426,.656,0.9,0.1,0.1,0.2,2.4,SAS
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",+0.23,0.01,haleyja01,1995-96,CHI,1.8,0.0,-0.228,-31.1,-0.1,,NBA,225000,32,1,7.0,.333,.500,2.0,0.0,0.0,0.0,5.0,CHI
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-0.18,0.11,haleyja01,1996-97,NJN,19.6,0.2,.149,-4.3,0.0,,NBA,,33,20,3.7,.351,.737,1.6,0.3,0.1,0.1,2.0,NJN
+Jack Haley,/players/h/haleyja01.html,1989,1998,"University of California, Los Angeles",false,"Huntington Beach in Huntington Beach, California",-0.07,0.08,haleyja01,1997-98,NJN,7.2,0.0,-0.034,-18.1,-0.2,,NBA,272250,34,16,3.2,.278,.571,0.9,0.0,0.0,0.1,1.4,NJN

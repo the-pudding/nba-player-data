@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-pritcke01,1990-91,23,Golden State Warriors,NBA,62,12.5,.384,.805,1.0,1.3,0.5,0.1,3.9,6.9,-0.2,-0.012,-5.7,-0.7,,185000,"Thomas Edison in Tulsa, Oklahoma"
-pritcke01,1991-92,24,San Antonio Spurs,NBA,11,12.4,.471,.778,1.0,2.7,0.3,0.4,4.2,12.6,0.2,.087,-3.6,-0.1,,158000,"Thomas Edison in Tulsa, Oklahoma"
-pritcke01,1992-93,25,San Antonio Spurs,NBA,,,,,,,,,,,,,,,,158000,"Thomas Edison in Tulsa, Oklahoma"
-pritcke01,1993-94,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Thomas Edison in Tulsa, Oklahoma"
-pritcke01,1994-95,27,"PHI,MIA",NBA,19,10.2,.406,.762,0.6,1.8,0.1,0.1,2.3,8.1,0.2,.038,-7.7,-0.3,,,"Thomas Edison in Tulsa, Oklahoma"
-pritcke01,1995-96,28,WSB,NBA,2,11.0,.667,.667,1.0,3.5,1.0,0.0,3.5,25.6,0.2,.384,3.6,0.0,,,"Thomas Edison in Tulsa, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Pritchard,/players/p/pritcke01.html,1991,1996,University of Kansas,false,"Thomas Edison in Tulsa, Oklahoma",-3.70,-0.67,pritcke01,1990-91,GSW,6.9,-0.2,-0.012,-5.7,-0.7,,NBA,185000,23,62,12.5,.384,.805,1.0,1.3,0.5,0.1,3.9,GSW
+Kevin Pritchard,/players/p/pritcke01.html,1991,1996,University of Kansas,false,"Thomas Edison in Tulsa, Oklahoma",-0.13,0.20,pritcke01,1991-92,BOS,12.6,0.2,.087,-3.6,-0.1,,NBA,158000,24,11,12.4,.471,.778,1.0,2.7,0.3,0.4,4.2,BOS
+Kevin Pritchard,/players/p/pritcke01.html,1991,1996,University of Kansas,false,"Thomas Edison in Tulsa, Oklahoma",,,pritcke01,1992-93,Did Not Play (other pro league—Spain),,,,,,,NBA,158000,25,,,,,,,,,,Did Not Play (other pro league—Spain)
+Kevin Pritchard,/players/p/pritcke01.html,1991,1996,University of Kansas,false,"Thomas Edison in Tulsa, Oklahoma",,,pritcke01,1993-94,Did Not Play (other pro league—Italy),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Italy)
+Kevin Pritchard,/players/p/pritcke01.html,1991,1996,University of Kansas,false,"Thomas Edison in Tulsa, Oklahoma",-0.94,0.18,pritcke01,1994-95,TOT,8.1,0.2,.038,-7.7,-0.3,,NBA,,27,19,10.2,.406,.762,0.6,1.8,0.1,0.1,2.3,"PHI,MIA"
+Kevin Pritchard,/players/p/pritcke01.html,1991,1996,University of Kansas,false,"Thomas Edison in Tulsa, Oklahoma",+0.26,0.04,pritcke01,1995-96,WSB,25.6,0.2,.384,3.6,0.0,,NBA,,28,2,11.0,.667,.667,1.0,3.5,1.0,0.0,3.5,WSB

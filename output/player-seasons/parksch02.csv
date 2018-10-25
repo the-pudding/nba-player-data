@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-parksch02,1995-96,23,Dallas Mavericks,NBA,64,13.6,.409,.661,3.4,0.5,0.4,0.5,3.9,10.9,0.9,.050,-5.1,-0.7,,971000,"Marina in Huntington Beach, California"
-parksch02,1996-97,24,Minnesota Timberwolves,NBA,76,12.6,.510,.605,2.6,0.4,0.5,0.6,3.3,12.7,2.2,.112,0.0,0.5,,1117000,"Marina in Huntington Beach, California"
-parksch02,1997-98,25,Minnesota Timberwolves,NBA,79,21.6,.499,.651,5.5,0.7,0.5,1.1,7.1,13.6,3.8,.108,-1.3,0.3,,1262640,"Marina in Huntington Beach, California"
-parksch02,1998-99,26,Vancouver Grizzlies,NBA,48,23.3,.429,.545,5.1,0.8,0.6,0.6,5.5,9.5,0.2,.010,-4.1,-0.6,,2000000,"Marina in Huntington Beach, California"
-parksch02,1999-00,27,Vancouver Grizzlies,NBA,56,14.4,.497,.649,3.3,0.6,0.5,0.8,3.0,11.9,1.4,.086,-0.5,0.3,,1925000,"Marina in Huntington Beach, California"
-parksch02,2000-01,28,Los Angeles Clippers,NBA,65,16.2,.489,.705,3.5,0.7,0.4,0.6,4.6,12.6,1.9,.086,-1.1,0.2,,2100000,"Marina in Huntington Beach, California"
-parksch02,2000-01,28,Los Angeles Clippers,NBA,13,13.7,.474,.706,3.1,0.5,0.5,0.8,3.7,13.0,0.3,.070,-1.4,0.0,,2100000,"Marina in Huntington Beach, California"
-parksch02,2000-01,28,Los Angeles Clippers,NBA,52,16.8,.492,.704,3.6,0.8,0.4,0.5,4.8,12.5,1.6,.089,-1.1,0.2,,2100000,"Marina in Huntington Beach, California"
-parksch02,2001-02,29,San Antonio Spurs,NBA,42,5.6,.361,.375,1.4,0.2,0.2,0.2,1.5,7.6,0.0,-0.005,-5.3,-0.2,,715850,"Marina in Huntington Beach, California"
-parksch02,2002-03,30,Los Angeles Clippers,NBA,30,21.6,.503,.605,4.4,0.7,0.5,0.7,6.3,13.3,1.2,.090,-1.3,0.1,,824935,"Marina in Huntington Beach, California"
-parksch02,2003-04,31,Golden State Warriors,NBA,12,5.3,.400,.667,0.8,0.1,0.0,0.3,1.0,7.0,0.1,.043,-5.2,-0.1,,228946,"Marina in Huntington Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-2.01,0.16,parksch02,1995-96,DAL,10.9,0.9,.050,-5.1,-0.7,,NBA,971000,23,64,13.6,.409,.661,3.4,0.5,0.4,0.5,3.9,DAL
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-0.63,1.07,parksch02,1996-97,MIN,12.7,2.2,.112,0.0,0.5,,NBA,1117000,24,76,12.6,.510,.605,2.6,0.4,0.5,0.6,3.3,MIN
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-0.32,2.25,parksch02,1997-98,MIN,13.6,3.8,.108,-1.3,0.3,,NBA,1262640,25,79,21.6,.499,.651,5.5,0.7,0.5,1.1,7.1,MIN
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-3.25,-0.82,parksch02,1998-99,VAN,9.5,0.2,.010,-4.1,-0.6,,NBA,2000000,26,48,23.3,.429,.545,5.1,0.8,0.6,0.6,5.5,VAN
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-0.89,0.74,parksch02,1999-00,VAN,11.9,1.4,.086,-0.5,0.3,,NBA,1925000,27,56,14.4,.497,.649,3.3,0.6,0.5,0.8,3.0,VAN
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-1.20,0.73,parksch02,2000-01,TOT,12.6,1.9,.086,-1.1,0.2,,NBA,2100000,28,65,16.2,.489,.705,3.5,0.7,0.4,0.6,4.6,"WAS,LAC"
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-3.81,-0.30,parksch02,2001-02,SAS,7.6,0.0,-0.005,-5.3,-0.2,,NBA,715850,29,42,5.6,.361,.375,1.4,0.2,0.2,0.2,1.5,SAS
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",-2.29,-0.01,parksch02,2002-03,LAC,13.3,1.2,.090,-1.3,0.1,,NBA,824935,30,30,21.6,.503,.605,4.4,0.7,0.5,0.7,6.3,LAC
+Cherokee Parks,/players/p/parksch02.html,1996,2004,Duke University,false,"Marina in Huntington Beach, California",+0.10,0.09,parksch02,2003-04,GSW,7.0,0.1,.043,-5.2,-0.1,,NBA,228946,31,12,5.3,.400,.667,0.8,0.1,0.0,0.3,1.0,GSW

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harriaa01,2015-16,21,Charlotte Hornets,NBA,21,4.4,.263,.417,0.7,0.1,0.3,0.0,0.9,4.3,0.0,-0.014,-5.5,-0.1,,525093,"Travis in Pecan Grove, Texas"
-harriaa01,2016-17,22,Charlotte Hornets,NBA,5,3.4,.000,.500,0.6,0.6,0.0,0.0,0.2,-2.2,-0.1,-0.146,-11.6,0.0,,375579,"Travis in Pecan Grove, Texas"
-harriaa01,2017-18,23,Dallas Mavericks,NBA,9,25.9,.275,.765,2.7,1.2,1.0,0.2,6.7,5.1,-0.1,-0.014,-4.1,-0.1,,174571,"Travis in Pecan Grove, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Aaron Harrison,/players/h/harriaa01.html,2016,2018,University of Kentucky,true,"Travis in Pecan Grove, Texas",-0.37,0.13,harriaa01,2015-16,CHO,4.3,0.0,-0.014,-5.5,-0.1,,NBA,525093,21,21,4.4,.263,.417,0.7,0.1,0.3,0.0,0.9,CHO
+Aaron Harrison,/players/h/harriaa01.html,2016,2018,University of Kentucky,true,"Travis in Pecan Grove, Texas",-0.95,0.01,harriaa01,2016-17,CHO,-2.2,-0.1,-0.146,-11.6,0.0,,NBA,375579,22,5,3.4,.000,.500,0.6,0.6,0.0,0.0,0.2,CHO
+Aaron Harrison,/players/h/harriaa01.html,2016,2018,University of Kentucky,true,"Travis in Pecan Grove, Texas",-1.30,0.16,harriaa01,2017-18,DAL,5.1,-0.1,-0.014,-4.1,-0.1,,NBA,174571,23,9,25.9,.275,.765,2.7,1.2,1.0,0.2,6.7,DAL

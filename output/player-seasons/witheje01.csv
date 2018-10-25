@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-witheje01,2013-14,23,NOP,NBA,58,11.8,.535,.712,2.6,0.4,0.3,0.9,3.3,15.2,1.8,.128,0.3,0.4,,"Horizon in San Diego, California",
-witheje01,2014-15,24,New Orleans Pelicans,NBA,37,7.0,.500,.680,1.7,0.3,0.1,0.5,2.6,17.6,0.8,.149,-1.0,0.1,,"Horizon in San Diego, California",816482
-witheje01,2015-16,25,Utah Jazz,NBA,51,12.9,.537,.729,3.4,0.4,0.4,1.0,4.3,17.7,2.3,.171,1.7,0.6,,"Horizon in San Diego, California",947276
-witheje01,2016-17,26,Utah Jazz,NBA,51,8.5,.534,.750,2.4,0.1,0.3,0.6,2.9,18.8,1.8,.205,1.6,0.4,,"Horizon in San Diego, California",1015696
-witheje01,2017-18,27,Dallas Mavericks,NBA,9,4.3,.375,.500,1.1,0.0,0.0,0.3,1.7,8.3,0.0,-0.054,-12.8,-0.1,,"Horizon in San Diego, California",1577320
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jeff Withey,/players/w/witheje01.html,2014,2018,University of Kansas,true,"Horizon in San Diego, California",+1.00,1.52,witheje01,2013-14,NOP,15.2,1.8,.128,0.3,0.4,,23,NBA,58,11.8,.535,.712,2.6,0.4,0.3,0.9,3.3,NOP,
+Jeff Withey,/players/w/witheje01.html,2014,2018,University of Kansas,true,"Horizon in San Diego, California",-1.00,0.22,witheje01,2014-15,NOP,17.6,0.8,.149,-1.0,0.1,,24,NBA,37,7.0,.500,.680,1.7,0.3,0.1,0.5,2.6,NOP,816482
+Jeff Withey,/players/w/witheje01.html,2014,2018,University of Kansas,true,"Horizon in San Diego, California",+1.56,1.74,witheje01,2015-16,UTA,17.7,2.3,.171,1.7,0.6,,25,NBA,51,12.9,.537,.729,3.4,0.4,0.4,1.0,4.3,UTA,947276
+Jeff Withey,/players/w/witheje01.html,2014,2018,University of Kansas,true,"Horizon in San Diego, California",+0.02,0.71,witheje01,2016-17,UTA,18.8,1.8,.205,1.6,0.4,,26,NBA,51,8.5,.534,.750,2.4,0.1,0.3,0.6,2.9,UTA,1015696
+Jeff Withey,/players/w/witheje01.html,2014,2018,University of Kansas,true,"Horizon in San Diego, California",+0.36,0.07,witheje01,2017-18,DAL,8.3,0.0,-0.054,-12.8,-0.1,,27,NBA,9,4.3,.375,.500,1.1,0.0,0.0,0.3,1.7,DAL,1577320

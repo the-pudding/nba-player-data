@@ -1,14 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leckner01,1988-89,22,Utah Jazz,NBA,75,10.4,.545,.699,2.7,0.2,0.1,0.3,4.3,9.7,1.5,.093,-4.7,-0.5,,325000,"Mira Costa in Manhattan Beach, California"
-leckner01,1989-90,23,UTA,NBA,77,9.9,.563,.743,2.5,0.2,0.2,0.3,4.3,12.1,1.7,.107,-3.1,-0.2,,,"Mira Costa in Manhattan Beach, California"
-leckner01,1990-91,24,Charlotte Hornets,NBA,72,15.6,.446,.559,4.1,0.5,0.2,0.3,4.5,7.5,0.2,.007,-6.2,-1.2,,485000,"Mira Costa in Manhattan Beach, California"
-leckner01,1990-91,24,Charlotte Hornets,NBA,32,11.8,.406,.593,2.7,0.6,0.1,0.3,2.9,5.6,-0.1,-0.018,-7.0,-0.5,,485000,"Mira Costa in Manhattan Beach, California"
-leckner01,1990-91,24,Charlotte Hornets,NBA,40,18.6,.465,.548,5.2,0.5,0.3,0.3,5.8,8.4,0.3,.020,-5.8,-0.7,,485000,"Mira Costa in Manhattan Beach, California"
-leckner01,1991-92,25,Charlotte Hornets,NBA,59,12.1,.513,.745,3.5,0.5,0.2,0.3,3.3,9.4,0.9,.060,-4.6,-0.5,,618000,"Mira Costa in Manhattan Beach, California"
-leckner01,1992-93,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Mira Costa in Manhattan Beach, California"
-leckner01,1993-94,27,Philadelphia 76ers,NBA,71,16.4,.486,.646,4.0,1.2,0.3,0.5,5.1,10.4,0.9,.036,-3.8,-0.5,,300000,"Mira Costa in Manhattan Beach, California"
-leckner01,1994-95,28,Detroit Pistons,NBA,57,10.9,.527,.708,3.1,0.2,0.3,0.3,3.9,12.2,0.9,.069,-6.2,-0.7,,350000,"Mira Costa in Manhattan Beach, California"
-leckner01,1995-96,29,Detroit Pistons,NBA,18,8.6,.621,.615,1.9,0.1,0.1,0.2,2.4,8.8,0.2,.075,-6.2,-0.2,,300000,"Mira Costa in Manhattan Beach, California"
-leckner01,1996-97,30,New York Knicks,NBA,20,6.3,.424,.500,1.8,0.3,0.2,0.1,1.7,4.9,-0.1,-0.045,-10.8,-0.3,,247500,"Mira Costa in Manhattan Beach, California"
-leckner01,1996-97,30,New York Knicks,NBA,1,11.0,.000,,1.0,1.0,0.0,0.0,0.0,-10.1,-0.1,-0.241,-16.0,0.0,,247500,"Mira Costa in Manhattan Beach, California"
-leckner01,1996-97,30,New York Knicks,NBA,19,6.1,.467,.500,1.8,0.2,0.2,0.1,1.8,6.3,-0.1,-0.026,-10.3,-0.2,,247500,"Mira Costa in Manhattan Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-2.47,-0.15,leckner01,1988-89,UTA,9.7,1.5,.093,-4.7,-0.5,,NBA,325000,22,75,10.4,.545,.699,2.7,0.2,0.1,0.3,4.3,UTA
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-1.45,0.44,leckner01,1989-90,UTA,12.1,1.7,.107,-3.1,-0.2,,NBA,,23,77,9.9,.563,.743,2.5,0.2,0.2,0.3,4.3,UTA
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-3.85,-1.20,leckner01,1990-91,TOT,7.5,0.2,.007,-6.2,-1.2,,NBA,485000,24,72,15.6,.446,.559,4.1,0.5,0.2,0.3,4.5,"SAC,CHH"
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-2.63,-0.16,leckner01,1991-92,CHH,9.4,0.9,.060,-4.6,-0.5,,NBA,618000,25,59,12.1,.513,.745,3.5,0.5,0.2,0.3,3.3,CHH
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",,,leckner01,1992-93,Did Not Play (other pro league—Italy),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Italy)
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-3.03,-0.62,leckner01,1993-94,PHI,10.4,0.9,.036,-3.8,-0.5,,NBA,300000,27,71,16.4,.486,.646,4.0,1.2,0.3,0.5,5.1,PHI
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-2.31,0.00,leckner01,1994-95,DET,12.2,0.9,.069,-6.2,-0.7,,NBA,350000,28,57,10.9,.527,.708,3.1,0.2,0.3,0.3,3.9,DET
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-0.18,0.22,leckner01,1995-96,DET,8.8,0.2,.075,-6.2,-0.2,,NBA,300000,29,18,8.6,.621,.615,1.9,0.1,0.1,0.2,2.4,DET
+Eric Leckner,/players/l/leckner01.html,1989,1997,University of Wyoming,false,"Mira Costa in Manhattan Beach, California",-0.80,0.12,leckner01,1996-97,TOT,4.9,-0.1,-0.045,-10.8,-0.3,,NBA,247500,30,20,6.3,.424,.500,1.8,0.3,0.2,0.1,1.7,"CHH,VAN"

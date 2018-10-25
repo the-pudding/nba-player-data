@@ -1,26 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-millean02,1999-00,23,Cleveland Cavaliers,NBA,82,25.5,.449,.774,3.4,5.8,1.0,0.2,11.1,17.9,5.3,.122,1.0,1.6,,1682280,"Verbum Dei in Los Angeles, California"
-millean02,2000-01,24,Cleveland Cavaliers,NBA,82,34.7,.452,.833,4.4,8.0,1.5,0.3,15.8,20.1,8.0,.136,2.9,3.5,,1808400,"Verbum Dei in Los Angeles, California"
-millean02,2001-02,25,Cleveland Cavaliers,NBA,81,37.3,.454,.817,4.7,10.9,1.6,0.4,16.5,21.8,10.3,.163,3.4,4.1,,1934520,"Verbum Dei in Los Angeles, California"
-millean02,2002-03,26,Los Angeles Clippers,NBA,80,36.4,.406,.795,4.0,6.7,1.2,0.1,13.6,15.2,4.6,.076,-0.5,1.1,,2460709,"Verbum Dei in Los Angeles, California"
-millean02,2003-04,27,Denver Nuggets,NBA,82,34.6,.457,.832,4.5,6.1,1.7,0.3,14.8,18.8,8.8,.148,2.8,3.4,,8000000,"Verbum Dei in Los Angeles, California"
-millean02,2004-05,28,Denver Nuggets,NBA,82,34.8,.477,.838,4.1,6.9,1.5,0.1,13.6,16.5,7.0,.119,1.0,2.2,,7366667,"Verbum Dei in Los Angeles, California"
-millean02,2005-06,29,Denver Nuggets,NBA,82,35.8,.463,.738,4.3,8.2,1.3,0.2,13.7,16.4,6.2,.101,0.5,1.8,,8100000,"Verbum Dei in Los Angeles, California"
-millean02,2006-07,30,Philadelphia 76ers,NBA,80,37.1,.466,.784,4.4,7.8,1.4,0.1,13.4,16.1,5.9,.095,0.5,1.9,,8733333,"Verbum Dei in Los Angeles, California"
-millean02,2006-07,30,Philadelphia 76ers,NBA,23,35.7,.472,.729,4.5,9.1,1.6,0.2,13.0,16.6,1.9,.113,0.4,0.5,,8733333,"Verbum Dei in Los Angeles, California"
-millean02,2006-07,30,Philadelphia 76ers,NBA,57,37.6,.464,.808,4.4,7.3,1.3,0.1,13.6,15.9,3.9,.088,0.6,1.4,,8733333,"Verbum Dei in Los Angeles, California"
-millean02,2007-08,31,Philadelphia 76ers,NBA,82,36.8,.492,.772,4.0,6.9,1.3,0.1,17.0,18.4,8.3,.131,1.7,2.9,,9366666,"Verbum Dei in Los Angeles, California"
-millean02,2008-09,32,Philadelphia 76ers,NBA,82,36.3,.473,.826,4.5,6.5,1.3,0.2,16.3,18.6,8.8,.141,2.8,3.6,,10333334,"Verbum Dei in Los Angeles, California"
-millean02,2009-10,33,Portland Trail Blazers,NBA,82,30.5,.445,.821,3.2,5.4,1.1,0.1,14.0,18.1,7.0,.134,1.6,2.3,,6730800,"Verbum Dei in Los Angeles, California"
-millean02,2010-11,34,Portland Trail Blazers,NBA,81,32.7,.460,.853,3.7,7.0,1.4,0.1,12.7,17.8,7.0,.127,1.1,2.1,,7269264,"Verbum Dei in Los Angeles, California"
-millean02,2011-12,35,Denver Nuggets,NBA,66,27.4,.438,.811,3.3,6.7,1.0,0.1,9.7,14.8,2.9,.078,-0.8,0.6,,7807728,"Verbum Dei in Los Angeles, California"
-millean02,2012-13,36,Denver Nuggets,NBA,82,26.2,.479,.840,2.9,5.9,0.9,0.1,9.6,15.7,5.4,.120,-0.1,1.0,,5000000,"Verbum Dei in Los Angeles, California"
-millean02,2013-14,37,Denver Nuggets,NBA,58,16.9,.459,.779,2.2,3.4,0.6,0.2,4.9,13.9,2.2,.108,-1.8,0.1,,5000000,"Verbum Dei in Los Angeles, California"
-millean02,2013-14,37,Denver Nuggets,NBA,30,19.0,.458,.745,2.4,3.3,0.5,0.2,5.9,13.4,1.1,.091,-1.7,0.1,,5000000,"Verbum Dei in Los Angeles, California"
-millean02,2013-14,37,Denver Nuggets,NBA,28,14.7,.460,.833,2.0,3.5,0.7,0.1,3.8,14.6,1.1,.132,-2.0,0.0,,5000000,"Verbum Dei in Los Angeles, California"
-millean02,2014-15,38,Sacramento Kings,NBA,81,15.5,.500,.753,1.9,3.5,0.4,0.1,4.4,13.3,2.2,.084,-3.0,-0.3,,4625000,"Verbum Dei in Los Angeles, California"
-millean02,2014-15,38,Sacramento Kings,NBA,51,12.4,.542,.718,1.5,2.8,0.3,0.0,3.6,14.3,1.6,.124,-2.6,-0.1,,4625000,"Verbum Dei in Los Angeles, California"
-millean02,2014-15,38,Sacramento Kings,NBA,30,20.7,.459,.789,2.5,4.7,0.6,0.1,5.7,12.3,0.6,.043,-3.4,-0.2,,4625000,"Verbum Dei in Los Angeles, California"
-millean02,2015-16,39,Minnesota Timberwolves,NBA,39,11.8,.557,.750,1.3,2.2,0.4,0.0,3.7,13.4,1.0,.100,-2.9,-0.1,,1499187,"Verbum Dei in Los Angeles, California"
-millean02,2015-16,39,Minnesota Timberwolves,NBA,26,10.8,.621,.789,0.9,2.2,0.3,0.0,3.4,13.7,0.5,.088,-4.4,-0.2,,1499187,"Verbum Dei in Los Angeles, California"
-millean02,2015-16,39,Minnesota Timberwolves,NBA,13,13.9,.479,.692,2.1,2.2,0.5,0.0,4.3,12.9,0.4,.118,-0.5,0.1,,1499187,"Verbum Dei in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+0.34,3.73,millean02,1999-00,CLE,17.9,5.3,.122,1.0,1.6,,NBA,1682280,23,82,25.5,.449,.774,3.4,5.8,1.0,0.2,11.1,CLE
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+3.06,10.52,millean02,2000-01,CLE,20.1,8.0,.136,2.9,3.5,,NBA,1808400,24,82,34.7,.452,.833,4.4,8.0,1.5,0.3,15.8,CLE
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+2.41,9.58,millean02,2001-02,CLE,21.8,10.3,.163,3.4,4.1,,NBA,1934520,25,81,37.3,.454,.817,4.7,10.9,1.6,0.4,16.5,CLE
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-1.21,2.01,millean02,2002-03,LAC,15.2,4.6,.076,-0.5,1.1,,NBA,2460709,26,80,36.4,.406,.795,4.0,6.7,1.2,0.1,13.6,LAC
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+1.45,7.75,millean02,2003-04,DEN,18.8,8.8,.148,2.8,3.4,,NBA,8000000,27,82,34.6,.457,.832,4.5,6.1,1.7,0.3,14.8,DEN
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+1.12,7.01,millean02,2004-05,DEN,16.5,7.0,.119,1.0,2.2,,NBA,7366667,28,82,34.8,.477,.838,4.1,6.9,1.5,0.1,13.6,DEN
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+1.57,8.16,millean02,2005-06,DEN,16.4,6.2,.101,0.5,1.8,,NBA,8100000,29,82,35.8,.463,.738,4.3,8.2,1.3,0.2,13.7,DEN
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-0.09,4.39,millean02,2006-07,TOT,16.1,5.9,.095,0.5,1.9,,NBA,8733333,30,80,37.1,.466,.784,4.4,7.8,1.4,0.1,13.4,"DEN,PHI"
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-1.84,0.98,millean02,2007-08,PHI,18.4,8.3,.131,1.7,2.9,,NBA,9366666,31,82,36.8,.492,.772,4.0,6.9,1.3,0.1,17.0,PHI
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+1.95,9.21,millean02,2008-09,PHI,18.6,8.8,.141,2.8,3.6,,NBA,10333334,32,82,36.3,.473,.826,4.5,6.5,1.3,0.2,16.3,PHI
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+2.53,8.69,millean02,2009-10,POR,18.1,7.0,.134,1.6,2.3,,NBA,6730800,33,82,30.5,.445,.821,3.2,5.4,1.1,0.1,14.0,POR
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+2.12,8.40,millean02,2010-11,POR,17.8,7.0,.127,1.1,2.1,,NBA,7269264,34,81,32.7,.460,.853,3.7,7.0,1.4,0.1,12.7,POR
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",+0.62,3.94,millean02,2011-12,DEN,14.8,2.9,.078,-0.8,0.6,,NBA,7807728,35,66,27.4,.438,.811,3.3,6.7,1.0,0.1,9.7,DEN
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-0.58,2.64,millean02,2012-13,DEN,15.7,5.4,.120,-0.1,1.0,,NBA,5000000,36,82,26.2,.479,.840,2.9,5.9,0.9,0.1,9.6,DEN
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-0.27,1.48,millean02,2013-14,TOT,13.9,2.2,.108,-1.8,0.1,,NBA,5000000,37,58,16.9,.459,.779,2.2,3.4,0.6,0.2,4.9,"DEN,WAS"
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-2.02,0.21,millean02,2014-15,TOT,13.3,2.2,.084,-3.0,-0.3,,NBA,4625000,38,81,15.5,.500,.753,1.9,3.5,0.4,0.1,4.4,"WAS,SAC"
+Andre Miller,/players/m/millean02.html,2000,2016,University of Utah,false,"Verbum Dei in Los Angeles, California",-1.39,0.31,millean02,2015-16,TOT,13.4,1.0,.100,-2.9,-0.1,,NBA,1499187,39,39,11.8,.557,.750,1.3,2.2,0.4,0.0,3.7,"MIN,SAS"

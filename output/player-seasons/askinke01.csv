@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-askinke01,1990-91,23,Miami Heat,NBA,39,6.8,.420,.480,1.7,0.5,0.4,0.3,2.2,13.5,0.6,.103,1.4,0.2,,150000,"Athens in Athens, Alabama"
-askinke01,1991-92,24,Miami Heat,NBA,59,14.3,.410,.703,2.4,0.6,0.7,0.3,3.7,8.7,0.7,.040,-1.5,0.1,,202000,"Athens in Athens, Alabama"
-askinke01,1992-93,25,Miami Heat,NBA,69,13.6,.413,.725,2.9,0.4,0.4,0.4,3.3,9.3,1.4,.072,-1.3,0.2,,250000,"Athens in Athens, Alabama"
-askinke01,1993-94,26,Miami Heat,NBA,37,8.6,.409,.900,2.2,0.4,0.3,0.0,2.3,8.2,0.3,.044,-3.7,-0.1,,313000,"Athens in Athens, Alabama"
-askinke01,1994-95,27,Miami Heat,NBA,50,17.1,.391,.807,4.0,0.8,0.7,0.3,4.6,12.3,1.9,.107,0.6,0.6,,406000,"Athens in Athens, Alabama"
-askinke01,1995-96,28,Miami Heat,NBA,75,25.3,.402,.789,4.3,1.6,0.6,0.8,6.1,10.0,4.4,.111,2.5,2.2,,550000,"Athens in Athens, Alabama"
-askinke01,1996-97,29,Miami Heat,NBA,78,22.7,.433,.672,3.5,1.0,0.7,0.2,4.9,9.1,4.3,.116,1.1,1.4,,650000,"Athens in Athens, Alabama"
-askinke01,1997-98,30,Miami Heat,NBA,46,14.8,.320,.632,2.2,0.6,0.6,0.3,2.4,5.5,0.7,.050,-1.1,0.2,,750000,"Athens in Athens, Alabama"
-askinke01,1998-99,31,Miami Heat,NBA,33,12.6,.323,.625,1.3,0.3,0.5,0.1,1.6,3.5,0.2,.029,-2.2,0.0,,725000,"Athens in Athens, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",+0.57,0.52,askinke01,1990-91,MIA,13.5,0.6,.103,1.4,0.2,,NBA,150000,23,39,6.8,.420,.480,1.7,0.5,0.4,0.3,2.2,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-2.48,-0.11,askinke01,1991-92,MIA,8.7,0.7,.040,-1.5,0.1,,NBA,202000,24,59,14.3,.410,.703,2.4,0.6,0.7,0.3,3.7,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-1.50,0.49,askinke01,1992-93,MIA,9.3,1.4,.072,-1.3,0.2,,NBA,250000,25,69,13.6,.413,.725,2.9,0.4,0.4,0.4,3.3,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-2.62,-0.08,askinke01,1993-94,MIA,8.2,0.3,.044,-3.7,-0.1,,NBA,313000,26,37,8.6,.409,.900,2.2,0.4,0.3,0.0,2.3,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-0.75,0.88,askinke01,1994-95,MIA,12.3,1.9,.107,0.6,0.6,,NBA,406000,27,50,17.1,.391,.807,4.0,0.8,0.7,0.3,4.6,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-0.09,2.87,askinke01,1995-96,MIA,10.0,4.4,.111,2.5,2.2,,NBA,550000,28,75,25.3,.402,.789,4.3,1.6,0.6,0.8,6.1,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-0.66,2.06,askinke01,1996-97,MIA,9.1,4.3,.116,1.1,1.4,,NBA,650000,29,78,22.7,.433,.672,3.5,1.0,0.7,0.2,4.9,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-1.76,0.22,askinke01,1997-98,MIA,5.5,0.7,.050,-1.1,0.2,,NBA,750000,30,46,14.8,.320,.632,2.2,0.6,0.6,0.3,2.4,MIA
+Keith Askins,/players/a/askinke01.html,1991,1999,University of Alabama,false,"Athens in Athens, Alabama",-2.11,0.00,askinke01,1998-99,MIA,3.5,0.2,.029,-2.2,0.0,,NBA,725000,31,33,12.6,.323,.625,1.3,0.3,0.5,0.1,1.6,MIA

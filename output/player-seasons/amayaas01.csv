@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-amayaas01,1995-96,24,Vancouver Grizzlies,NBA,54,20.4,.480,.651,5.6,0.6,0.4,0.2,6.3,11.8,1.8,.078,-3.9,-0.5,,225000,"Walther Lutheran in Melrose Park, Illinois"
-amayaas01,1996-97,25,Washington Bullets,NBA,31,4.6,.300,.536,1.7,0.1,0.2,0.1,1.3,8.8,0.1,.019,-8.1,-0.2,,247500,"Walther Lutheran in Melrose Park, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ashraf Amaya,/players/a/amayaas01.html,1996,1997,Southern Illinois University,false,"Walther Lutheran in Melrose Park, Illinois",-2.64,-0.34,amayaas01,1995-96,VAN,11.8,1.8,.078,-3.9,-0.5,,NBA,225000,24,54,20.4,.480,.651,5.6,0.6,0.4,0.2,6.3,VAN
+Ashraf Amaya,/players/a/amayaas01.html,1996,1997,Southern Illinois University,false,"Walther Lutheran in Melrose Park, Illinois",-0.45,0.18,amayaas01,1996-97,WSB,8.8,0.1,.019,-8.1,-0.2,,NBA,247500,25,31,4.6,.300,.536,1.7,0.1,0.2,0.1,1.3,WSB

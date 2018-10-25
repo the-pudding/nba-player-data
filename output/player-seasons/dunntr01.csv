@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-dunntr01,1977-78,22,POR,NBA,63,12.2,.417,.661,2.3,0.7,0.7,0.1,3.8,11.7,1.6,.099,-0.1,0.4,,"West End in Birmingham, Alabama",
-dunntr01,1978-79,23,POR,NBA,80,22.9,.448,.772,4.3,1.3,1.1,0.3,7.7,12.3,3.7,.097,-0.4,0.8,,"West End in Birmingham, Alabama",
-dunntr01,1979-80,24,POR,NBA,82,22.5,.436,.757,4.0,1.8,1.2,0.4,6.9,12.5,3.3,.086,0.4,1.1,,"West End in Birmingham, Alabama",
-dunntr01,1980-81,25,DEN,NBA,82,17.4,.412,.653,3.7,1.0,0.8,0.4,4.5,10.2,1.6,.052,-0.8,0.4,,"West End in Birmingham, Alabama",
-dunntr01,1981-82,26,DEN,NBA,82,30.7,.512,.712,6.8,2.3,1.6,0.4,8.2,12.1,4.0,.076,2.3,2.7,,"West End in Birmingham, Alabama",
-dunntr01,1982-83,27,DEN,NBA,82,32.2,.482,.730,7.5,2.3,1.8,0.3,7.6,11.4,4.4,.079,2.1,2.8,,"West End in Birmingham, Alabama",
-dunntr01,1983-84,28,DEN,NBA,80,33.8,.470,.731,7.2,2.9,2.2,0.4,5.7,10.2,4.1,.073,2.6,3.1,,"West End in Birmingham, Alabama",
-dunntr01,1984-85,29,DEN,NBA,81,28.3,.489,.724,4.8,1.9,1.7,0.2,5.4,9.8,4.4,.092,1.8,2.2,,"West End in Birmingham, Alabama",
-dunntr01,1985-86,30,Denver Nuggets,NBA,82,29.3,.454,.773,4.6,2.1,1.9,0.2,5.0,9.4,4.9,.098,2.0,2.4,,"West End in Birmingham, Alabama",225000
-dunntr01,1986-87,31,DEN,NBA,81,23.9,.428,.655,3.3,1.8,1.2,0.3,3.4,7.8,2.4,.060,-0.8,0.6,,"West End in Birmingham, Alabama",
-dunntr01,1987-88,32,Denver Nuggets,NBA,82,18.7,.449,.769,2.9,1.1,1.2,0.1,2.2,8.3,3.2,.102,1.5,1.4,,"West End in Birmingham, Alabama",350000
-dunntr01,1988-89,33,PHO,NBA,34,9.4,.343,.750,1.8,0.7,0.4,0.0,1.0,7.0,0.6,.088,0.9,0.2,,"West End in Birmingham, Alabama",
-dunntr01,1989-90,34,DEN,NBA,65,10.1,.454,.667,2.1,0.7,0.6,0.1,1.8,9.8,1.4,.101,0.2,0.4,,"West End in Birmingham, Alabama",
-dunntr01,1990-91,35,DEN,NBA,17,12.8,.447,.900,2.5,1.4,0.7,0.1,3.1,10.7,0.3,.066,-1.5,0.0,,"West End in Birmingham, Alabama",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.11,1.17,dunntr01,1977-78,POR,11.7,1.6,.099,-0.1,0.4,,22,NBA,63,12.2,.417,.661,2.3,0.7,0.7,0.1,3.8,POR,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.67,2.01,dunntr01,1978-79,POR,12.3,3.7,.097,-0.4,0.8,,23,NBA,80,22.9,.448,.772,4.3,1.3,1.1,0.3,7.7,POR,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.36,2.41,dunntr01,1979-80,POR,12.5,3.3,.086,0.4,1.1,,24,NBA,82,22.5,.436,.757,4.0,1.8,1.2,0.4,6.9,POR,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-1.35,0.91,dunntr01,1980-81,DEN,10.2,1.6,.052,-0.8,0.4,,25,NBA,82,17.4,.412,.653,3.7,1.0,0.8,0.4,4.5,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",+0.08,4.14,dunntr01,1981-82,DEN,12.1,4.0,.076,2.3,2.7,,26,NBA,82,30.7,.512,.712,6.8,2.3,1.6,0.4,8.2,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.30,3.94,dunntr01,1982-83,DEN,11.4,4.4,.079,2.1,2.8,,27,NBA,82,32.2,.482,.730,7.5,2.3,1.8,0.3,7.6,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.18,4.11,dunntr01,1983-84,DEN,10.2,4.1,.073,2.6,3.1,,28,NBA,80,33.8,.470,.731,7.2,2.9,2.2,0.4,5.7,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.48,3.24,dunntr01,1984-85,DEN,9.8,4.4,.092,1.8,2.2,,29,NBA,81,28.3,.489,.724,4.8,1.9,1.7,0.2,5.4,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.03,4.08,dunntr01,1985-86,DEN,9.4,4.9,.098,2.0,2.4,,30,NBA,82,29.3,.454,.773,4.6,2.1,1.9,0.2,5.0,DEN,225000
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-1.84,0.62,dunntr01,1986-87,DEN,7.8,2.4,.060,-0.8,0.6,,31,NBA,81,23.9,.428,.655,3.3,1.8,1.2,0.3,3.4,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-1.39,1.03,dunntr01,1987-88,DEN,8.3,3.2,.102,1.5,1.4,,32,NBA,82,18.7,.449,.769,2.9,1.1,1.2,0.1,2.2,DEN,350000
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-2.16,0.04,dunntr01,1988-89,PHO,7.0,0.6,.088,0.9,0.2,,33,NBA,34,9.4,.343,.750,1.8,0.7,0.4,0.0,1.0,PHO,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-0.86,0.65,dunntr01,1989-90,DEN,9.8,1.4,.101,0.2,0.4,,34,NBA,65,10.1,.454,.667,2.1,0.7,0.6,0.1,1.8,DEN,
+T.R. Dunn,/players/d/dunntr01.html,1978,1991,University of Alabama,false,"West End in Birmingham, Alabama",-1.68,0.09,dunntr01,1990-91,DEN,10.7,0.3,.066,-1.5,0.0,,35,NBA,17,12.8,.447,.900,2.5,1.4,0.7,0.1,3.1,DEN,

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hustoge01,1979-80,22,NYK,NBA,71,13.0,.390,.737,0.8,2.2,0.5,0.1,3.1,7.0,-0.3,-0.017,-6.9,-1.1,,"Canarsie in Brooklyn, New York",
-hustoge01,1980-81,23,"DAL,CLE",NBA,81,30.0,.489,.708,1.7,4.9,0.7,0.1,13.2,13.4,1.7,.034,-3.6,-1.0,,"Canarsie in Brooklyn, New York",
-hustoge01,1981-82,24,CLE,NBA,78,30.9,.484,.765,1.9,7.6,0.9,0.1,10.3,14.0,3.0,.060,-3.1,-0.7,,"Canarsie in Brooklyn, New York",
-hustoge01,1982-83,25,CLE,NBA,80,34.0,.482,.686,2.0,6.1,0.9,0.1,12.2,12.6,3.4,.060,-2.7,-0.5,,"Canarsie in Brooklyn, New York",
-hustoge01,1983-84,26,CLE,NBA,77,26.5,.498,.714,1.2,5.4,0.5,0.0,10.5,13.3,2.6,.061,-4.1,-1.1,,"Canarsie in Brooklyn, New York",
-hustoge01,1984-85,27,CLE,NBA,8,11.6,.480,.667,0.1,2.9,0.0,0.0,3.3,7.8,0.0,-0.002,-12.6,-0.2,,"Canarsie in Brooklyn, New York",
-hustoge01,1985-86,28,Golden State Warriors,NBA,82,14.7,.513,.685,0.8,4.2,0.5,0.0,4.2,13.7,1.8,.072,-6.1,-1.3,,"Canarsie in Brooklyn, New York",90000
-hustoge01,1986-87,29,LAC,NBA,19,22.5,.455,.529,0.9,5.3,0.7,0.0,6.8,9.0,-0.4,-0.040,-9.5,-0.8,,"Canarsie in Brooklyn, New York",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-3.31,-0.64,hustoge01,1979-80,NYK,7.0,-0.3,-0.017,-6.9,-1.1,,22,NBA,71,13.0,.390,.737,0.8,2.2,0.5,0.1,3.1,NYK,
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-2.83,-0.87,hustoge01,1980-81,TOT,13.4,1.7,.034,-3.6,-1.0,,23,NBA,81,30.0,.489,.708,1.7,4.9,0.7,0.1,13.2,"DAL,CLE",
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-1.62,1.11,hustoge01,1981-82,CLE,14.0,3.0,.060,-3.1,-0.7,,24,NBA,78,30.9,.484,.765,1.9,7.6,0.9,0.1,10.3,CLE,
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-1.24,1.85,hustoge01,1982-83,CLE,12.6,3.4,.060,-2.7,-0.5,,25,NBA,80,34.0,.482,.686,2.0,6.1,0.9,0.1,12.2,CLE,
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-1.87,0.57,hustoge01,1983-84,CLE,13.3,2.6,.061,-4.1,-1.1,,26,NBA,77,26.5,.498,.714,1.2,5.4,0.5,0.0,10.5,CLE,
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-0.27,0.13,hustoge01,1984-85,CLE,7.8,0.0,-0.002,-12.6,-0.2,,27,NBA,8,11.6,.480,.667,0.1,2.9,0.0,0.0,3.3,CLE,
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-1.22,0.90,hustoge01,1985-86,GSW,13.7,1.8,.072,-6.1,-1.3,,28,NBA,82,14.7,.513,.685,0.8,4.2,0.5,0.0,4.2,GSW,90000
+Geoff Huston,/players/h/hustoge01.html,1980,1987,Texas Tech University,false,"Canarsie in Brooklyn, New York",-3.68,-0.40,hustoge01,1986-87,LAC,9.0,-0.4,-0.040,-9.5,-0.8,,29,NBA,19,22.5,.455,.529,0.9,5.3,0.7,0.0,6.8,LAC,

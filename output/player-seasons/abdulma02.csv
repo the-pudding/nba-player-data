@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-abdulma02,1990-91,21,Denver Nuggets,NBA,67,22.5,.413,.857,1.8,3.1,0.8,0.1,14.1,12.2,-1.0,-0.031,-6.1,-1.6,,1660000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1991-92,22,Denver Nuggets,NBA,81,19.0,.421,.870,1.4,2.4,0.5,0.0,10.3,12.6,0.6,.018,-5.2,-1.3,,2008000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1992-93,23,Denver Nuggets,NBA,81,33.5,.450,.935,2.8,4.2,1.0,0.1,19.2,15.6,5.1,.091,-1.0,0.7,,2358000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1993-94,24,Denver Nuggets,NBA,80,32.7,.460,.956,2.1,4.5,1.0,0.1,18.0,16.7,6.8,.125,-0.6,0.9,,1825000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1994-95,25,Denver Nuggets,NBA,73,28.5,.470,.885,1.9,3.6,1.1,0.1,16.0,17.8,5.0,.115,-0.6,0.7,,2200000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1995-96,26,Denver Nuggets,NBA,57,35.6,.434,.930,2.4,6.8,1.1,0.1,19.2,18.6,5.5,.131,1.1,1.6,,2600000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1996-97,27,Sacramento Kings,NBA,75,28.4,.445,.846,1.6,2.5,0.7,0.1,13.7,13.2,2.7,.060,-3.5,-0.8,,3100000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1997-98,28,Sacramento Kings,NBA,31,17.1,.377,1.000,1.2,1.9,0.5,0.0,7.3,10.5,-0.3,-0.025,-7.1,-0.7,,3300000,"Gulfport in Gulfport, Mississippi"
-abdulma02,1998-99,29,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,"Gulfport in Gulfport, Mississippi"
-abdulma02,1999-00,30,Did Not Play (retired),,,,,,,,,,,,,,,,,,"Gulfport in Gulfport, Mississippi"
-abdulma02,2000-01,31,Vancouver Grizzlies,NBA,41,11.9,.488,.759,0.6,1.9,0.2,0.0,6.5,16.7,0.7,.070,-4.5,-0.3,,798500,"Gulfport in Gulfport, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-4.44,-1.98,abdulma02,1990-91,DEN,12.2,-1.0,-0.031,-6.1,-1.6,,NBA,1660000,21,67,22.5,.413,.857,1.8,3.1,0.8,0.1,14.1,DEN
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-3.26,-1.04,abdulma02,1991-92,DEN,12.6,0.6,.018,-5.2,-1.3,,NBA,2008000,22,81,19.0,.421,.870,1.4,2.4,0.5,0.0,10.3,DEN
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-0.49,3.27,abdulma02,1992-93,DEN,15.6,5.1,.091,-1.0,0.7,,NBA,2358000,23,81,33.5,.450,.935,2.8,4.2,1.0,0.1,19.2,DEN
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",+0.09,4.73,abdulma02,1993-94,DEN,16.7,6.8,.125,-0.6,0.9,,NBA,1825000,24,80,32.7,.460,.956,2.1,4.5,1.0,0.1,18.0,DEN
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-0.04,3.27,abdulma02,1994-95,DEN,17.8,5.0,.115,-0.6,0.7,,NBA,2200000,25,73,28.5,.470,.885,1.9,3.6,1.1,0.1,16.0,DEN
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",+0.62,3.98,abdulma02,1995-96,DEN,18.6,5.5,.131,1.1,1.6,,NBA,2600000,26,57,35.6,.434,.930,2.4,6.8,1.1,0.1,19.2,DEN
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-1.86,0.61,abdulma02,1996-97,SAC,13.2,2.7,.060,-3.5,-0.8,,NBA,3100000,27,75,28.4,.445,.846,1.6,2.5,0.7,0.1,13.7,SAC
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-3.05,-0.31,abdulma02,1997-98,SAC,10.5,-0.3,-0.025,-7.1,-0.7,,NBA,3300000,28,31,17.1,.377,1.000,1.2,1.9,0.5,0.0,7.3,SAC
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",,,abdulma02,1998-99,Did Not Play (other pro league—Turkey),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Turkey)
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",,,abdulma02,1999-00,Did Not Play (retired),,,,,,,,,30,,,,,,,,,,Did Not Play (retired)
+Mahmoud Abdul-Rauf,/players/a/abdulma02.html,1991,2001,Louisiana State University,false,"Gulfport in Gulfport, Mississippi",-1.08,0.38,abdulma02,2000-01,VAN,16.7,0.7,.070,-4.5,-0.3,,NBA,798500,31,41,11.9,.488,.759,0.6,1.9,0.2,0.0,6.5,VAN

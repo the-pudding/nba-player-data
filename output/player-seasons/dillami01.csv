@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dillami01,1981-82,23,CLE,NBA,33,6.7,.367,.652,0.5,1.0,0.2,0.1,2.2,7.0,-0.2,-0.051,-7.4,-0.3,,"Nova in Fort Lauderdale, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mickey Dillard,/players/d/dillami01.html,1982,1982,Florida State University,false,"Nova in Fort Lauderdale, Florida",-1.96,0.05,dillami01,1981-82,CLE,7.0,-0.2,-0.051,-7.4,-0.3,,23,NBA,33,6.7,.367,.652,0.5,1.0,0.2,0.1,2.2,CLE

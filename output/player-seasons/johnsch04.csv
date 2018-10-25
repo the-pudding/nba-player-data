@@ -1,8 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsch04,2012-13,22,Memphis Grizzlies,NBA,8,12.8,.440,.500,1.4,0.3,0.5,0.0,3.6,10.7,0.2,.112,-0.3,0.0,,61290,"Brookhaven in Columbus, Ohio"
-johnsch04,2013-14,23,BOS,NBA,40,19.7,.397,.860,2.4,0.8,0.7,0.1,6.3,10.8,1.4,.085,-0.8,0.2,,,"Brookhaven in Columbus, Ohio"
-johnsch04,2014-15,24,Utah Jazz,NBA,29,18.1,.403,.875,1.9,0.5,0.9,0.2,5.7,10.2,0.8,.074,-2.2,0.0,,166897,"Brookhaven in Columbus, Ohio"
-johnsch04,2014-15,24,Utah Jazz,NBA,9,20.8,.317,.750,2.9,0.3,1.0,0.6,6.0,6.0,-0.1,-0.017,-6.2,-0.2,,166897,"Brookhaven in Columbus, Ohio"
-johnsch04,2014-15,24,Utah Jazz,NBA,12,17.6,.484,1.000,1.5,0.6,1.0,0.0,6.8,14.2,0.6,.139,0.7,0.1,,166897,"Brookhaven in Columbus, Ohio"
-johnsch04,2014-15,24,Utah Jazz,NBA,8,16.0,.400,1.000,1.4,0.6,0.6,0.3,3.9,9.7,0.3,.102,-1.3,0.0,,166897,"Brookhaven in Columbus, Ohio"
-johnsch04,2015-16,25,Utah Jazz,NBA,70,12.2,.371,.810,1.9,0.6,0.5,0.3,2.9,8.2,1.1,.059,-1.4,0.1,,981348,"Brookhaven in Columbus, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Johnson,/players/j/johnsch04.html,2013,2016,University of Dayton,false,"Brookhaven in Columbus, Ohio",,,johnsch04,2012-13,MEM,10.7,0.2,.112,-0.3,0.0,,NBA,61290,22,8,12.8,.440,.500,1.4,0.3,0.5,0.0,3.6,MEM
+Chris Johnson,/players/j/johnsch04.html,2013,2016,University of Dayton,false,"Brookhaven in Columbus, Ohio",+0.15,1.30,johnsch04,2013-14,BOS,10.8,1.4,.085,-0.8,0.2,,NBA,,23,40,19.7,.397,.860,2.4,0.8,0.7,0.1,6.3,BOS
+Chris Johnson,/players/j/johnsch04.html,2013,2016,University of Dayton,false,"Brookhaven in Columbus, Ohio",-0.84,0.50,johnsch04,2014-15,TOT,10.2,0.8,.074,-2.2,0.0,,NBA,166897,24,29,18.1,.403,.875,1.9,0.5,0.9,0.2,5.7,"PHI,UTA,MIL"
+Chris Johnson,/players/j/johnsch04.html,2013,2016,University of Dayton,false,"Brookhaven in Columbus, Ohio",-0.02,1.31,johnsch04,2015-16,UTA,8.2,1.1,.059,-1.4,0.1,,NBA,981348,25,70,12.2,.371,.810,1.9,0.6,0.5,0.3,2.9,UTA

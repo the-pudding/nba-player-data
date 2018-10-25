@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-drollra01,1980-81,26,DAL,NBA,6,11.2,.500,.250,3.2,2.3,0.2,0.3,2.5,5.3,-0.2,-0.117,-6.4,-0.1,,"Grossmont in La Mesa, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ralph Drollinger,/players/d/drollra01.html,1981,1981,"University of California, Los Angeles",false,"Grossmont in La Mesa, California",+0.21,0.11,drollra01,1980-81,DAL,5.3,-0.2,-0.117,-6.4,-0.1,,26,NBA,6,11.2,.500,.250,3.2,2.3,0.2,0.3,2.5,DAL

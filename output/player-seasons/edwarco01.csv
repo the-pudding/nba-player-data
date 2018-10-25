@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-edwarco01,2004-05,25,New Orleans Hornets,NBA,10,11.0,.323,.583,2.5,0.3,0.3,0.4,2.7,8.6,0.1,.026,-5.2,-0.1,,319498,"Lake Clifton in Lake Clifton, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Corsley Edwards,/players/e/edwarco01.html,2005,2005,Central Connecticut State University,false,"Lake Clifton in Lake Clifton, Maryland",-0.03,0.17,edwarco01,2004-05,NOH,8.6,0.1,.026,-5.2,-0.1,,NBA,319498,25,10,11.0,.323,.583,2.5,0.3,0.3,0.4,2.7,NOH

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kiffiir01,1979-80,28,SAS,NBA,26,8.2,.333,.720,1.5,0.7,0.4,0.1,3.2,3.7,-0.6,-0.128,-9.4,-0.4,,"Springfield Gardens in Springfield Gardens, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Irv Kiffin,/players/k/kiffiir01.html,1980,1980,Oklahoma Baptist University,false,"Springfield Gardens in Springfield Gardens, New York",-2.14,0.02,kiffiir01,1979-80,SAS,3.7,-0.6,-0.128,-9.4,-0.4,,28,NBA,26,8.2,.333,.720,1.5,0.7,0.4,0.1,3.2,SAS

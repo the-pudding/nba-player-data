@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-okafoem01,2004-05,22,Charlotte Bobcats,NBA,73,35.6,.447,.609,10.9,0.9,0.8,1.7,15.1,16.3,4.0,.074,-1.9,0.1,,3739680,"Bellaire in Houston, Texas"
-okafoem01,2005-06,23,Charlotte Bobcats,NBA,26,33.6,.415,.656,10.0,1.2,0.8,1.9,13.2,14.9,1.0,.054,-1.9,0.0,,4020120,"Bellaire in Houston, Texas"
-okafoem01,2006-07,24,Charlotte Bobcats,NBA,67,34.8,.532,.593,11.3,1.2,0.9,2.6,14.4,20.1,7.1,.147,2.4,2.6,,4300560,"Bellaire in Houston, Texas"
-okafoem01,2007-08,25,Charlotte Bobcats,NBA,82,33.1,.535,.570,10.7,0.9,0.8,1.7,13.8,17.4,5.8,.103,-1.3,0.4,,5427307,"Bellaire in Houston, Texas"
-okafoem01,2008-09,26,Charlotte Bobcats,NBA,82,32.8,.561,.593,10.1,0.6,0.6,1.7,13.2,18.0,8.2,.147,0.0,1.4,,9537500,"Bellaire in Houston, Texas"
-okafoem01,2009-10,27,New Orleans Hornets,NBA,82,28.9,.530,.562,9.0,0.7,0.7,1.5,10.4,16.5,5.5,.111,-0.9,0.7,,10538937,"Bellaire in Houston, Texas"
-okafoem01,2010-11,28,New Orleans Hornets,NBA,72,31.8,.573,.562,9.5,0.6,0.6,1.8,10.3,16.0,6.5,.136,0.8,1.6,,11495000,"Bellaire in Houston, Texas"
-okafoem01,2011-12,29,New Orleans Hornets,NBA,27,28.9,.533,.514,7.9,0.9,0.6,1.0,9.9,15.1,1.7,.103,-0.6,0.3,,12541812,"Bellaire in Houston, Texas"
-okafoem01,2012-13,30,Washington Wizards,NBA,79,26.0,.477,.571,8.8,1.2,0.6,1.0,9.7,15.8,4.5,.104,-1.1,0.5,,13490000,"Bellaire in Houston, Texas"
-okafoem01,2013-14,31,Phoenix Suns,NBA,,,,,,,,,,,,,,,,14487500,"Bellaire in Houston, Texas"
-okafoem01,2014-15,32,Did Not Play,,,,,,,,,,,,,,,,,,"Bellaire in Houston, Texas"
-okafoem01,2015-16,33,Did Not Play,,,,,,,,,,,,,,,,,,"Bellaire in Houston, Texas"
-okafoem01,2016-17,34,Did Not Play,,,,,,,,,,,,,,,,,,"Bellaire in Houston, Texas"
-okafoem01,2017-18,35,New Orleans Pelicans,NBA,26,13.6,.505,.818,4.6,0.3,0.3,1.0,4.4,16.4,1.0,.140,-1.3,0.1,,774914,"Bellaire in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",-1.06,2.11,okafoem01,2004-05,CHA,16.3,4.0,.074,-1.9,0.1,,NBA,3739680,22,73,35.6,.447,.609,10.9,0.9,0.8,1.7,15.1,CHA
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",+0.02,1.36,okafoem01,2005-06,CHA,14.9,1.0,.054,-1.9,0.0,,NBA,4020120,23,26,33.6,.415,.656,10.0,1.2,0.8,1.9,13.2,CHA
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",+1.64,6.22,okafoem01,2006-07,CHA,20.1,7.1,.147,2.4,2.6,,NBA,4300560,24,67,34.8,.532,.593,11.3,1.2,0.9,2.6,14.4,CHA
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",-0.88,2.57,okafoem01,2007-08,CHA,17.4,5.8,.103,-1.3,0.4,,NBA,5427307,25,82,33.1,.535,.570,10.7,0.9,0.8,1.7,13.8,CHA
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",+0.93,5.86,okafoem01,2008-09,CHA,18.0,8.2,.147,0.0,1.4,,NBA,9537500,26,82,32.8,.561,.593,10.1,0.6,0.6,1.7,13.2,CHA
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",+0.48,4.41,okafoem01,2009-10,NOH,16.5,5.5,.111,-0.9,0.7,,NBA,10538937,27,82,28.9,.530,.562,9.0,0.7,0.7,1.5,10.4,NOH
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",+1.19,5.84,okafoem01,2010-11,NOH,16.0,6.5,.136,0.8,1.6,,NBA,11495000,28,72,31.8,.573,.562,9.5,0.6,0.6,1.8,10.3,NOH
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",-0.88,0.71,okafoem01,2011-12,NOH,15.1,1.7,.103,-0.6,0.3,,NBA,12541812,29,27,28.9,.533,.514,7.9,0.9,0.6,1.0,9.9,NOH
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",+0.72,4.22,okafoem01,2012-13,WAS,15.8,4.5,.104,-1.1,0.5,,NBA,13490000,30,79,26.0,.477,.571,8.8,1.2,0.6,1.0,9.7,WAS
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",,,okafoem01,2013-14,Did Not Play,,,,,,,NBA,14487500,31,,,,,,,,,,Did Not Play
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",,,okafoem01,2014-15,Did Not Play,,,,,,,,,32,,,,,,,,,,Did Not Play
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",,,okafoem01,2015-16,Did Not Play,,,,,,,,,33,,,,,,,,,,Did Not Play
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",,,okafoem01,2016-17,Did Not Play,,,,,,,,,34,,,,,,,,,,Did Not Play
+Emeka Okafor,/players/o/okafoem01.html,2005,2018,University of Connecticut,true,"Bellaire in Houston, Texas",-1.23,0.25,okafoem01,2017-18,NOP,16.4,1.0,.140,-1.3,0.1,,NBA,774914,35,26,13.6,.505,.818,4.6,0.3,0.3,1.0,4.4,NOP

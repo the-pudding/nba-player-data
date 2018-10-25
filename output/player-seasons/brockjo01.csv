@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brockjo01,2009-10,22,Sacramento Kings,NBA,52,12.6,.534,.597,4.1,0.4,0.3,0.1,2.8,12.4,1.7,.125,-0.8,0.2,,457588,"Snohomish in Snohomish, Washington"
-brockjo01,2010-11,23,Milwaukee Bucks,NBA,63,10.7,.511,.678,2.9,0.3,0.2,0.0,2.2,9.6,1.9,.132,-2.2,0.0,,1000000,"Snohomish in Snohomish, Washington"
-brockjo01,2011-12,24,Milwaukee Bucks,NBA,35,6.8,.333,.467,2.1,0.3,0.1,0.0,1.1,6.6,0.1,.023,-5.3,-0.2,,1000000,"Snohomish in Snohomish, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jon Brockman,/players/b/brockjo01.html,2010,2012,University of Washington,false,"Snohomish in Snohomish, Washington",-0.59,0.76,brockjo01,2009-10,SAC,12.4,1.7,.125,-0.8,0.2,,NBA,457588,22,52,12.6,.534,.597,4.1,0.4,0.3,0.1,2.8,SAC
+Jon Brockman,/players/b/brockjo01.html,2010,2012,University of Washington,false,"Snohomish in Snohomish, Washington",-1.12,0.52,brockjo01,2010-11,MIL,9.6,1.9,.132,-2.2,0.0,,NBA,1000000,23,63,10.7,.511,.678,2.9,0.3,0.2,0.0,2.2,MIL
+Jon Brockman,/players/b/brockjo01.html,2010,2012,University of Washington,false,"Snohomish in Snohomish, Washington",-0.62,0.26,brockjo01,2011-12,MIL,6.6,0.1,.023,-5.3,-0.2,,NBA,1000000,24,35,6.8,.333,.467,2.1,0.3,0.1,0.0,1.1,MIL

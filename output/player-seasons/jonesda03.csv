@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesda03,2016-17,21,Golden State Warriors,NBA,10,8.5,.500,.300,2.3,0.0,0.1,0.4,1.9,5.3,0.0,.018,-9.6,-0.2,,1171560,"Scotlandville Magnet in Baton Rouge, Louisiana"
-jonesda03,2017-18,22,Golden State Warriors,NBA,15,5.9,.500,.600,0.9,0.1,0.1,0.2,1.7,6.8,0.1,.031,-6.6,-0.1,,1312611,"Scotlandville Magnet in Baton Rouge, Louisiana"
-jonesda03,2018-19,23,GSW,NBA,5,19.2,.857,.545,3.2,1.4,0.4,1.4,8.4,21.3,0.5,.253,9.1,0.3,,,"Scotlandville Magnet in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damian Jones,/players/j/jonesda03.html,2017,2019,Vanderbilt University,true,"Scotlandville Magnet in Baton Rouge, Louisiana",-2.64,-0.03,jonesda03,2016-17,GSW,5.3,0.0,.018,-9.6,-0.2,,NBA,1171560,21,10,8.5,.500,.300,2.3,0.0,0.1,0.4,1.9,GSW
+Damian Jones,/players/j/jonesda03.html,2017,2019,Vanderbilt University,true,"Scotlandville Magnet in Baton Rouge, Louisiana",-1.65,0.04,jonesda03,2017-18,GSW,6.8,0.1,.031,-6.6,-0.1,,NBA,1312611,22,15,5.9,.500,.600,0.9,0.1,0.1,0.2,1.7,GSW
+Damian Jones,/players/j/jonesda03.html,2017,2019,Vanderbilt University,true,"Scotlandville Magnet in Baton Rouge, Louisiana",,,jonesda03,2018-19,GSW,21.3,0.5,.253,9.1,0.3,,NBA,,23,5,19.2,.857,.545,3.2,1.4,0.4,1.4,8.4,GSW

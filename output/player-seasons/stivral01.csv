@@ -1,13 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-stivral01,1985-86,23,SEA,NBA,3,4.7,.250,.250,1.0,0.3,0.0,0.0,1.0,-5.9,-0.1,-0.347,-13.4,0.0,,"East in Lincoln, Nebraska",
-stivral01,1986-87,24,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"East in Lincoln, Nebraska",
-stivral01,1987-88,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"East in Lincoln, Nebraska",
-stivral01,1988-89,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"East in Lincoln, Nebraska",
-stivral01,1989-90,27,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"East in Lincoln, Nebraska",
-stivral01,1990-91,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"East in Lincoln, Nebraska",
-stivral01,1991-92,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"East in Lincoln, Nebraska",
-stivral01,1992-93,30,Phoenix Suns,NBA,19,4.0,.487,.750,1.0,0.2,0.1,0.1,2.2,13.5,0.0,.013,-8.1,-0.1,,"East in Lincoln, Nebraska",140000
-stivral01,1992-93,30,Phoenix Suns,NBA,10,3.5,.611,,0.8,0.1,0.1,0.1,2.2,14.5,0.0,.022,-6.2,0.0,,"East in Lincoln, Nebraska",140000
-stivral01,1992-93,30,Phoenix Suns,NBA,1,1.0,.000,,0.0,0.0,0.0,0.0,0.0,-32.3,0.0,-0.903,-44.9,0.0,,"East in Lincoln, Nebraska",140000
-stivral01,1992-93,30,Phoenix Suns,NBA,3,8.3,.364,.750,2.0,0.7,0.3,0.0,3.7,10.9,0.0,-0.004,-6.3,0.0,,"East in Lincoln, Nebraska",140000
-stivral01,1992-93,30,Phoenix Suns,NBA,5,3.0,.444,,1.0,0.0,0.0,0.2,1.6,18.8,0.0,.082,-13.0,0.0,,"East in Lincoln, Nebraska",140000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",+0.62,0.03,stivral01,1985-86,SEA,-5.9,-0.1,-0.347,-13.4,0.0,,23,NBA,3,4.7,.250,.250,1.0,0.3,0.0,0.0,1.0,SEA,
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",,,stivral01,1986-87,Did Not Play (other pro league—France),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—France),
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",,,stivral01,1987-88,Did Not Play (other pro league—France),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—France),
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",,,stivral01,1988-89,Did Not Play (other pro league—France),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—France),
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",,,stivral01,1989-90,Did Not Play (other pro league—France),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—France),
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",,,stivral01,1990-91,Did Not Play (other pro league—CBA),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",,,stivral01,1991-92,Did Not Play (other pro league—Italy),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false,"East in Lincoln, Nebraska",-0.45,0.09,stivral01,1992-93,TOT,13.5,0.0,.013,-8.1,-0.1,,30,NBA,19,4.0,.487,.750,1.0,0.2,0.1,0.1,2.2,"PHO,LAC,MIL,ATL",140000

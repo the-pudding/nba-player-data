@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-anderde01,1997-98,23,Cleveland Cavaliers,NBA,66,27.9,.408,.873,2.8,3.4,1.3,0.2,11.7,15.3,5.3,.139,1.0,1.4,,1107240,"Doss in Louisville, Kentucky"
-anderde01,1998-99,24,Cleveland Cavaliers,NBA,38,25.7,.398,.836,2.9,3.8,1.3,0.1,10.8,16.5,2.1,.105,0.8,0.7,,1273000,"Doss in Louisville, Kentucky"
-anderde01,1999-00,25,Los Angeles Clippers,NBA,64,34.4,.438,.877,4.0,3.4,1.4,0.2,16.9,16.9,3.3,.073,-0.2,1.0,,1439400,"Doss in Louisville, Kentucky"
-anderde01,2000-01,26,San Antonio Spurs,NBA,82,34.9,.416,.851,4.4,3.7,1.5,0.2,15.5,17.1,9.9,.166,3.6,4.0,,2250000,"Doss in Louisville, Kentucky"
-anderde01,2001-02,27,Portland Trail Blazers,NBA,70,26.6,.404,.856,2.7,3.1,1.0,0.1,10.8,15.5,5.3,.137,0.9,1.3,,6495000,"Doss in Louisville, Kentucky"
-anderde01,2002-03,28,Portland Trail Blazers,NBA,76,33.6,.427,.859,3.5,4.3,1.2,0.2,13.9,16.9,8.1,.153,2.5,2.9,,7144500,"Doss in Louisville, Kentucky"
-anderde01,2003-04,29,Portland Trail Blazers,NBA,51,35.5,.376,.824,3.6,4.5,1.3,0.1,13.6,15.1,3.6,.097,0.3,1.1,,7794000,"Doss in Louisville, Kentucky"
-anderde01,2004-05,30,Portland Trail Blazers,NBA,47,26.4,.389,.805,2.7,3.0,0.8,0.1,9.2,11.7,1.3,.052,-2.1,0.0,,8443500,"Doss in Louisville, Kentucky"
-anderde01,2005-06,31,Portland Trail Blazers,NBA,43,24.3,.356,.838,3.3,2.3,0.5,0.1,8.1,10.8,1.6,.074,-1.5,0.1,,9093000,"Doss in Louisville, Kentucky"
-anderde01,2005-06,31,Portland Trail Blazers,NBA,20,29.1,.393,.836,4.2,2.7,0.8,0.2,10.8,12.5,1.0,.084,-0.8,0.2,,9093000,"Doss in Louisville, Kentucky"
-anderde01,2005-06,31,Portland Trail Blazers,NBA,23,20.2,.308,.842,2.6,2.1,0.3,0.1,5.8,8.7,0.6,.061,-2.5,-0.1,,9093000,"Doss in Louisville, Kentucky"
-anderde01,2006-07,32,Portland Trail Blazers,NBA,50,23.8,.429,.877,2.3,2.7,1.0,0.1,8.0,13.7,2.9,.117,1.0,0.9,,9742500,"Doss in Louisville, Kentucky"
-anderde01,2007-08,33,Charlotte Bobcats,NBA,28,14.1,.376,.737,1.9,1.6,0.4,0.0,5.0,10.0,0.3,.032,-3.7,-0.2,,1219590,"Doss in Louisville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",+0.07,3.09,anderde01,1997-98,CLE,15.3,5.3,.139,1.0,1.4,,NBA,1107240,23,66,27.9,.408,.873,2.8,3.4,1.3,0.2,11.7,CLE
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",-0.17,1.39,anderde01,1998-99,CLE,16.5,2.1,.105,0.8,0.7,,NBA,1273000,24,38,25.7,.398,.836,2.9,3.8,1.3,0.1,10.8,CLE
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",-1.53,1.06,anderde01,1999-00,LAC,16.9,3.3,.073,-0.2,1.0,,NBA,1439400,25,64,34.4,.438,.877,4.0,3.4,1.4,0.2,16.9,LAC
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",+4.11,13.49,anderde01,2000-01,SAS,17.1,9.9,.166,3.6,4.0,,NBA,2250000,26,82,34.9,.416,.851,4.4,3.7,1.5,0.2,15.5,SAS
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",+0.67,3.88,anderde01,2001-02,POR,15.5,5.3,.137,0.9,1.3,,NBA,6495000,27,70,26.6,.404,.856,2.7,3.1,1.0,0.1,10.8,POR
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",+2.14,7.85,anderde01,2002-03,POR,16.9,8.1,.153,2.5,2.9,,NBA,7144500,28,76,33.6,.427,.859,3.5,4.3,1.2,0.2,13.9,POR
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",+1.30,4.47,anderde01,2003-04,POR,15.1,3.6,.097,0.3,1.1,,NBA,7794000,29,51,35.5,.376,.824,3.6,4.5,1.3,0.1,13.6,POR
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",-1.54,0.60,anderde01,2004-05,POR,11.7,1.3,.052,-2.1,0.0,,NBA,8443500,30,47,26.4,.389,.805,2.7,3.0,0.8,0.1,9.2,POR
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",-1.49,0.57,anderde01,2005-06,TOT,10.8,1.6,.074,-1.5,0.1,,NBA,9093000,31,43,24.3,.356,.838,3.3,2.3,0.5,0.1,8.1,"HOU,MIA"
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",+0.41,2.16,anderde01,2006-07,CHA,13.7,2.9,.117,1.0,0.9,,NBA,9742500,32,50,23.8,.429,.877,2.3,2.7,1.0,0.1,8.0,CHA
+Derek Anderson,/players/a/anderde01.html,1998,2008,"Ohio State University, University of Kentucky",false,"Doss in Louisville, Kentucky",-2.79,-0.15,anderde01,2007-08,CHA,10.0,0.3,.032,-3.7,-0.2,,NBA,1219590,33,28,14.1,.376,.737,1.9,1.6,0.4,0.0,5.0,CHA

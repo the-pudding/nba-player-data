@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-carruji01,1996-97,27,MIL,NBA,4,5.3,.667,1.000,1.0,0.0,0.0,0.5,1.3,9.7,0.0,.090,-6.9,0.0,,"Stephen F. Austin in Port Arthur, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jimmy Carruth,/players/c/carruji01.html,1997,1997,Virginia Polytechnic Institute and State University,false,"Stephen F. Austin in Port Arthur, Texas",+0.30,0.04,carruji01,1996-97,MIL,9.7,0.0,.090,-6.9,0.0,,27,NBA,4,5.3,.667,1.000,1.0,0.0,0.0,0.5,1.3,MIL

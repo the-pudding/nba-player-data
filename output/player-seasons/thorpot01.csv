@@ -1,22 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thorpot01,1984-85,22,Kansas City Kings,NBA,82,23.4,.600,.620,6.8,1.4,0.4,0.5,12.8,16.6,4.0,.100,-0.4,0.8,,225000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1985-86,23,Sacramento Kings,NBA,75,22.3,.587,.661,5.6,1.1,0.5,0.5,9.9,14.4,3.8,.109,-0.4,0.7,,297500,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1986-87,24,SAC,NBA,82,36.0,.540,.761,10.0,2.5,0.6,0.7,18.9,18.0,9.0,.146,1.9,2.9,,,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1987-88,25,Sacramento Kings,NBA,82,37.5,.507,.755,10.2,3.2,0.8,0.7,20.8,18.7,8.1,.126,2.0,3.1,,337500,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1988-89,26,Houston Rockets,NBA,82,38.2,.542,.729,9.6,2.5,1.0,0.5,16.7,15.4,8.7,.133,2.2,3.3,,1100000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1989-90,27,Houston Rockets,NBA,82,35.9,.548,.688,9.0,3.2,0.8,0.3,17.1,16.1,8.5,.138,2.3,3.2,,1100000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1990-91,28,Houston Rockets,NBA,82,37.1,.556,.696,10.3,2.4,0.9,0.2,17.5,17.2,10.4,.164,2.6,3.5,,1760000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1991-92,29,Houston Rockets,NBA,82,37.3,.592,.657,10.5,3.0,0.6,0.5,17.3,17.2,8.9,.140,2.5,3.5,,1786000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1992-93,30,Houston Rockets,NBA,72,32.7,.558,.598,8.2,2.5,0.6,0.3,12.8,14.6,6.0,.122,1.2,1.9,,2102000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1993-94,31,Houston Rockets,NBA,82,35.5,.561,.657,10.6,2.3,0.8,0.3,14.0,16.1,9.8,.162,2.0,2.9,,2418000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1994-95,32,Houston Rockets,NBA,70,29.9,.565,.594,8.0,1.6,0.6,0.4,13.4,16.4,5.6,.129,0.0,1.1,,2578400,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1994-95,32,Houston Rockets,NBA,36,33.0,.563,.528,8.9,1.6,0.6,0.4,13.3,14.7,2.3,.094,-1.2,0.2,,2578400,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1994-95,32,Houston Rockets,NBA,34,26.7,.568,.649,6.9,1.6,0.6,0.4,13.5,18.6,3.3,.174,1.6,0.8,,2578400,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1995-96,33,Detroit Pistons,NBA,82,34.6,.530,.710,8.4,1.9,0.6,0.5,14.2,15.7,7.6,.128,0.7,1.9,,2607000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1996-97,34,Detroit Pistons,NBA,79,33.7,.532,.653,7.9,1.7,0.7,0.2,13.1,16.1,7.9,.142,0.9,1.9,,7000000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1997-98,35,Vancouver Grizzlies,NBA,74,29.7,.471,.683,7.3,3.0,0.6,0.4,10.2,13.4,2.5,.055,-1.0,0.6,,5700000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1997-98,35,Vancouver Grizzlies,NBA,47,33.5,.477,.694,7.9,3.4,0.6,0.5,11.2,13.0,1.4,.041,-1.1,0.4,,5700000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1997-98,35,Vancouver Grizzlies,NBA,27,23.1,.459,.657,6.1,2.3,0.7,0.3,8.3,14.4,1.1,.088,-0.9,0.2,,5700000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1998-99,36,Washington Wizards,NBA,49,31.4,.545,.698,6.8,2.1,0.9,0.4,11.3,15.0,3.7,.116,1.4,1.3,,4400000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,1999-00,37,Miami Heat,NBA,51,15.2,.514,.604,3.3,0.6,0.5,0.2,5.5,11.1,1.1,.069,-2.9,-0.2,,2000000,"Lake Worth Community in Lake Worth, Florida"
-thorpot01,2000-01,38,Charlotte Hornets,NBA,49,13.2,.450,.833,3.0,0.6,0.2,0.1,2.8,7.6,1.0,.071,-3.9,-0.3,,2200000,"Lake Worth Community in Lake Worth, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-0.88,1.85,thorpot01,1984-85,KCK,16.6,4.0,.100,-0.4,0.8,,NBA,225000,22,82,23.4,.600,.620,6.8,1.4,0.4,0.5,12.8,KCK
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-0.90,1.59,thorpot01,1985-86,SAC,14.4,3.8,.109,-0.4,0.7,,NBA,297500,23,75,22.3,.587,.661,5.6,1.1,0.5,0.5,9.9,SAC
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+1.09,6.66,thorpot01,1986-87,SAC,18.0,9.0,.146,1.9,2.9,,NBA,,24,82,36.0,.540,.761,10.0,2.5,0.6,0.7,18.9,SAC
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.44,5.63,thorpot01,1987-88,SAC,18.7,8.1,.126,2.0,3.1,,NBA,337500,25,82,37.5,.507,.755,10.2,3.2,0.8,0.7,20.8,SAC
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.32,5.80,thorpot01,1988-89,HOU,15.4,8.7,.133,2.2,3.3,,NBA,1100000,26,82,38.2,.542,.729,9.6,2.5,1.0,0.5,16.7,HOU
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.32,5.48,thorpot01,1989-90,HOU,16.1,8.5,.138,2.3,3.2,,NBA,1100000,27,82,35.9,.548,.688,9.0,3.2,0.8,0.3,17.1,HOU
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+1.33,7.72,thorpot01,1990-91,HOU,17.2,10.4,.164,2.6,3.5,,NBA,1760000,28,82,37.1,.556,.696,10.3,2.4,0.9,0.2,17.5,HOU
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.27,5.26,thorpot01,1991-92,HOU,17.2,8.9,.140,2.5,3.5,,NBA,1786000,29,82,37.3,.592,.657,10.5,3.0,0.6,0.5,17.3,HOU
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-0.20,3.91,thorpot01,1992-93,HOU,14.6,6.0,.122,1.2,1.9,,NBA,2102000,30,72,32.7,.558,.598,8.2,2.5,0.6,0.3,12.8,HOU
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.91,8.19,thorpot01,1993-94,HOU,16.1,9.8,.162,2.0,2.9,,NBA,2418000,31,82,35.5,.561,.657,10.6,2.3,0.8,0.3,14.0,HOU
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-1.15,1.65,thorpot01,1994-95,TOT,16.4,5.6,.129,0.0,1.1,,NBA,2578400,32,70,29.9,.565,.594,8.0,1.6,0.6,0.4,13.4,"HOU,POR"
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.59,5.72,thorpot01,1995-96,DET,15.7,7.6,.128,0.7,1.9,,NBA,2607000,33,82,34.6,.530,.710,8.4,1.9,0.6,0.5,14.2,DET
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",+0.62,5.52,thorpot01,1996-97,DET,16.1,7.9,.142,0.9,1.9,,NBA,7000000,34,79,33.7,.532,.653,7.9,1.7,0.7,0.2,13.1,DET
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-2.24,0.01,thorpot01,1997-98,TOT,13.4,2.5,.055,-1.0,0.6,,NBA,5700000,35,74,29.7,.471,.683,7.3,3.0,0.6,0.4,10.2,"VAN,SAC"
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-0.52,1.80,thorpot01,1998-99,WAS,15.0,3.7,.116,1.4,1.3,,NBA,4400000,36,49,31.4,.545,.698,6.8,2.1,0.9,0.4,11.3,WAS
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-2.50,-0.22,thorpot01,1999-00,MIA,11.1,1.1,.069,-2.9,-0.2,,NBA,2000000,37,51,15.2,.514,.604,3.3,0.6,0.5,0.2,5.5,MIA
+Otis Thorpe,/players/t/thorpot01.html,1985,2001,Providence College,false,"Lake Worth Community in Lake Worth, Florida",-3.59,-0.72,thorpot01,2000-01,CHH,7.6,1.0,.071,-3.9,-0.3,,NBA,2200000,38,49,13.2,.450,.833,3.0,0.6,0.2,0.1,2.8,CHH

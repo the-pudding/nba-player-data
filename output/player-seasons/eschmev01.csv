@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-eschmev01,1999-00,24,New Jersey Nets,NBA,31,12.0,.528,.500,3.5,0.7,0.3,0.7,2.9,11.8,0.7,.095,-0.8,0.1,,301875,"New Knoxville in New Knoxville, Ohio"
-eschmev01,2000-01,25,New Jersey Nets,NBA,74,18.0,.460,.657,4.9,0.5,0.6,0.8,3.4,10.8,2.5,.091,-1.2,0.3,,423500,"New Knoxville in New Knoxville, Ohio"
-eschmev01,2001-02,26,Dallas Mavericks,NBA,31,9.6,.420,.606,3.2,0.3,0.3,0.3,2.0,9.9,0.5,.083,-2.4,0.0,,3038000,"New Knoxville in New Knoxville, Ohio"
-eschmev01,2002-03,27,Dallas Mavericks,NBA,17,7.9,.368,.750,1.7,0.4,0.6,0.4,1.0,7.4,0.2,.088,1.5,0.1,,3103800,"New Knoxville in New Knoxville, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Evan Eschmeyer,/players/e/eschmev01.html,2000,2003,Northwestern University,false,"New Knoxville in New Knoxville, Ohio",-1.04,0.30,eschmev01,1999-00,NJN,11.8,0.7,.095,-0.8,0.1,,NBA,301875,24,31,12.0,.528,.500,3.5,0.7,0.3,0.7,2.9,NJN
+Evan Eschmeyer,/players/e/eschmev01.html,2000,2003,Northwestern University,false,"New Knoxville in New Knoxville, Ohio",+1.42,3.43,eschmev01,2000-01,NJN,10.8,2.5,.091,-1.2,0.3,,NBA,423500,25,74,18.0,.460,.657,4.9,0.5,0.6,0.8,3.4,NJN
+Evan Eschmeyer,/players/e/eschmev01.html,2000,2003,Northwestern University,false,"New Knoxville in New Knoxville, Ohio",-1.17,0.22,eschmev01,2001-02,DAL,9.9,0.5,.083,-2.4,0.0,,NBA,3038000,26,31,9.6,.420,.606,3.2,0.3,0.3,0.3,2.0,DAL
+Evan Eschmeyer,/players/e/eschmev01.html,2000,2003,Northwestern University,false,"New Knoxville in New Knoxville, Ohio",-1.31,0.09,eschmev01,2002-03,DAL,7.4,0.2,.088,1.5,0.1,,NBA,3103800,27,17,7.9,.368,.750,1.7,0.4,0.6,0.4,1.0,DAL

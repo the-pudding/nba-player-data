@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willija03,2002-03,21,Chicago Bulls,NBA,75,26.1,.399,.640,2.6,4.7,1.1,0.2,9.5,12.2,0.8,.020,-2.2,-0.1,,3451920,"St. Joseph in Metuchen, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jay Williams,/players/w/willija03.html,2003,2003,Duke University,false,"St. Joseph in Metuchen, New Jersey",-3.03,-1.16,willija03,2002-03,CHI,12.2,0.8,.020,-2.2,-0.1,,NBA,3451920,21,75,26.1,.399,.640,2.6,4.7,1.1,0.2,9.5,CHI

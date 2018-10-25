@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-fontais01,2001-02,26,MEM,NBA,6,12.5,.214,.667,0.8,0.7,0.0,0.0,1.8,-0.9,-0.2,-0.112,-11.2,-0.2,,"Jesuit Carmichael in Sacramento, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Isaac Fontaine,/players/f/fontais01.html,2002,2002,Washington State University,false,"Jesuit Carmichael in Sacramento, California",-1.46,0.04,fontais01,2001-02,MEM,-0.9,-0.2,-0.112,-11.2,-0.2,,26,NBA,6,12.5,.214,.667,0.8,0.7,0.0,0.0,1.8,MEM

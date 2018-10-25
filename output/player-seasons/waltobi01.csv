@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-waltobi01,1976-77,24,POR,NBA,65,34.8,.528,.697,14.4,3.8,1.0,3.2,18.6,22.9,10.2,.215,7.0,5.1,All-NBA (2nd),"Helix in La Mesa, California",
-waltobi01,1977-78,25,POR,NBA,58,33.3,.522,.720,13.2,5.0,1.0,2.5,18.9,24.8,8.4,.209,7.0,4.4,All-NBA (1st),"Helix in La Mesa, California",
-waltobi01,1978-79,26,Did Not Play (injury—foot),,,,,,,,,,,,,,,,,"Helix in La Mesa, California",
-waltobi01,1979-80,27,SDC,NBA,14,24.1,.503,.593,9.0,2.4,0.6,2.7,13.9,22.2,0.8,.108,1.1,0.3,,"Helix in La Mesa, California",
-waltobi01,1980-81,28,Did Not Play (injury—foot),,,,,,,,,,,,,,,,,"Helix in La Mesa, California",
-waltobi01,1981-82,29,Did Not Play (injury—foot),,,,,,,,,,,,,,,,,"Helix in La Mesa, California",
-waltobi01,1982-83,30,SDC,NBA,33,33.3,.528,.556,9.8,3.6,1.0,3.6,14.1,18.0,2.0,.086,2.5,1.2,,"Helix in La Mesa, California",
-waltobi01,1983-84,31,SDC,NBA,55,26.8,.556,.597,8.7,3.3,0.8,1.6,12.1,17.9,2.3,.074,3.1,1.9,,"Helix in La Mesa, California",
-waltobi01,1984-85,32,Los Angeles Clippers,NBA,67,24.6,.521,.680,9.0,2.3,0.7,2.1,10.1,17.8,3.3,.097,2.6,1.9,,"Helix in La Mesa, California",1350000
-waltobi01,1985-86,33,Boston Celtics,NBA,80,19.3,.562,.713,6.8,2.1,0.5,1.3,7.6,17.0,5.0,.157,3.1,2.0,,"Helix in La Mesa, California",425000
-waltobi01,1986-87,34,BOS,NBA,10,11.2,.385,.533,3.1,0.9,0.1,1.0,2.8,5.6,-0.1,-0.047,-5.0,-0.1,,"Helix in La Mesa, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+5.55,16.22,waltobi01,1976-77,POR,22.9,10.2,.215,7.0,5.1,All-NBA (2nd),24,NBA,65,34.8,.528,.697,14.4,3.8,1.0,3.2,18.6,POR,
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+5.53,10.65,waltobi01,1977-78,POR,24.8,8.4,.209,7.0,4.4,All-NBA (1st),25,NBA,58,33.3,.522,.720,13.2,5.0,1.0,2.5,18.9,POR,
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",,,waltobi01,1978-79,Did Not Play (injury—foot),,,,,,,26,,,,,,,,,,,Did Not Play (injury—foot),
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+2.55,1.11,waltobi01,1979-80,SDC,22.2,0.8,.108,1.1,0.3,,27,NBA,14,24.1,.503,.593,9.0,2.4,0.6,2.7,13.9,SDC,
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",,,waltobi01,1980-81,Did Not Play (injury—foot),,,,,,,28,,,,,,,,,,,Did Not Play (injury—foot),
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",,,waltobi01,1981-82,Did Not Play (injury—foot),,,,,,,29,,,,,,,,,,,Did Not Play (injury—foot),
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+2.08,3.26,waltobi01,1982-83,SDC,18.0,2.0,.086,2.5,1.2,,30,NBA,33,33.3,.528,.556,9.8,3.6,1.0,3.6,14.1,SDC,
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+0.75,3.01,waltobi01,1983-84,SDC,17.9,2.3,.074,3.1,1.9,,31,NBA,55,26.8,.556,.597,8.7,3.3,0.8,1.6,12.1,SDC,
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+1.30,3.99,waltobi01,1984-85,LAC,17.8,3.3,.097,2.6,1.9,,32,NBA,67,24.6,.521,.680,9.0,2.3,0.7,2.1,10.1,LAC,1350000
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",+1.58,4.81,waltobi01,1985-86,BOS,17.0,5.0,.157,3.1,2.0,,33,NBA,80,19.3,.562,.713,6.8,2.1,0.5,1.3,7.6,BOS,425000
+Bill Walton,/players/w/waltobi01.html,1975,1987,"University of California, Los Angeles",false,"Helix in La Mesa, California",-1.54,0.11,waltobi01,1986-87,BOS,5.6,-0.1,-0.047,-5.0,-0.1,,34,NBA,10,11.2,.385,.533,3.1,0.9,0.1,1.0,2.8,BOS,

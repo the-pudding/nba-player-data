@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-walkne01,1976-77,28,NYK,NBA,11,12.3,.491,.857,2.5,0.5,0.4,0.3,5.6,12.6,0.2,.070,-4.4,-0.1,,"Miami Beach in Miami Beach, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Neal Walk,/players/w/walkne01.html,1970,1977,University of Florida,false,"Miami Beach in Miami Beach, Florida",-0.99,0.11,walkne01,1976-77,NYK,12.6,0.2,.070,-4.4,-0.1,,28,NBA,11,12.3,.491,.857,2.5,0.5,0.4,0.3,5.6,NYK

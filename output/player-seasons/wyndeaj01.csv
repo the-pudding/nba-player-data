@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wyndeaj01,1990-91,26,Boston Celtics,NBA,6,6.5,.250,.750,0.5,1.3,0.2,0.0,2.0,7.6,0.0,-0.051,-9.4,-0.1,,30000,"Saint Agnes in Rockville Centre, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+A.J. Wynder,/players/w/wyndeaj01.html,1991,1991,"University of Massachusetts Amherst, Fairfield University",false,"Saint Agnes in Rockville Centre, New York",-0.21,0.05,wyndeaj01,1990-91,BOS,7.6,0.0,-0.051,-9.4,-0.1,,NBA,30000,26,6,6.5,.250,.750,0.5,1.3,0.2,0.0,2.0,BOS

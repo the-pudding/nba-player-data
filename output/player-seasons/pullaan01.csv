@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-pullaan01,1992-93,26,Milwaukee Bucks,NBA,8,4.6,.444,.333,1.0,0.3,0.3,0.3,2.1,9.2,-0.1,-0.114,-8.9,-0.1,,140000,"DeQuincy in DeQuincy, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Pullard,/players/p/pullaan01.html,1993,1993,McNeese State University,false,"DeQuincy in DeQuincy, Louisiana",-0.22,0.05,pullaan01,1992-93,MIL,9.2,-0.1,-0.114,-8.9,-0.1,,NBA,140000,26,8,4.6,.444,.333,1.0,0.3,0.3,0.3,2.1,MIL

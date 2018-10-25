@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnser02,1993-94,26,Seattle SuperSonics,NBA,45,6.2,.415,.630,2.6,0.2,0.2,0.5,2.6,16.1,0.7,.114,-4.4,-0.2,,617000,"Block in Jonesville, Louisiana"
-johnser02,1994-95,27,Seattle SuperSonics,NBA,64,14.2,.443,.630,4.5,0.3,0.3,1.0,3.1,9.6,1.3,.067,-3.1,-0.3,,716600,"Block in Jonesville, Louisiana"
-johnser02,1995-96,28,Seattle SuperSonics,NBA,81,18.8,.511,.669,5.3,0.6,0.5,1.6,5.5,13.1,3.9,.123,0.1,0.8,,767000,"Block in Jonesville, Louisiana"
-johnser02,1996-97,29,Denver Nuggets,NBA,82,31.7,.520,.615,11.1,0.9,0.8,2.8,7.1,14.3,5.2,.096,0.8,1.8,,1636000,"Block in Jonesville, Louisiana"
-johnser02,1997-98,30,Milwaukee Bucks,NBA,81,27.9,.537,.601,8.5,0.7,1.0,2.0,8.0,15.6,6.4,.136,1.9,2.2,,2281128,"Block in Jonesville, Louisiana"
-johnser02,1998-99,31,Milwaukee Bucks,NBA,50,20.5,.508,.610,6.4,0.4,0.6,1.1,5.1,14.5,3.0,.140,0.7,0.7,,2594000,"Block in Jonesville, Louisiana"
-johnser02,1999-00,32,Milwaukee Bucks,NBA,80,26.6,.516,.605,8.1,0.6,1.0,1.6,4.8,12.7,4.9,.111,1.7,2.0,,2951029,"Block in Jonesville, Louisiana"
-johnser02,2000-01,33,Milwaukee Bucks,NBA,82,24.2,.545,.538,7.5,0.5,0.5,1.2,3.2,11.2,5.1,.123,0.6,1.3,,2700000,"Block in Jonesville, Louisiana"
-johnser02,2001-02,34,Milwaukee Bucks,NBA,81,20.5,.461,.455,5.8,0.3,0.5,1.0,2.6,8.6,2.3,.067,-2.5,-0.2,,3670929,"Block in Jonesville, Louisiana"
-johnser02,2002-03,35,Milwaukee Bucks,NBA,69,17.0,.452,.682,4.3,0.3,0.5,0.9,2.2,9.4,1.9,.079,-0.8,0.4,,3998679,"Block in Jonesville, Louisiana"
-johnser02,2003-04,36,Minnesota Timberwolves,NBA,66,14.6,.534,.607,3.5,0.4,0.4,0.7,1.9,8.5,2.3,.115,-0.2,0.4,,4418156,"Block in Jonesville, Louisiana"
-johnser02,2004-05,37,Minnesota Timberwolves,NBA,46,8.9,.519,.640,2.5,0.1,0.2,0.3,1.6,8.3,0.8,.091,-3.0,-0.1,,4837633,"Block in Jonesville, Louisiana"
-johnser02,2005-06,38,Milwaukee Bucks,NBA,18,4.5,.412,.500,1.3,0.1,0.1,0.1,0.8,3.1,0.0,-0.010,-8.3,-0.1,,1138500,"Block in Jonesville, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-0.05,0.43,johnser02,1993-94,SEA,16.1,0.7,.114,-4.4,-0.2,,NBA,617000,26,45,6.2,.415,.630,2.6,0.2,0.2,0.5,2.6,SEA
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-1.31,0.64,johnser02,1994-95,SEA,9.6,1.3,.067,-3.1,-0.3,,NBA,716600,27,64,14.2,.443,.630,4.5,0.3,0.3,1.0,3.1,SEA
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",+0.83,3.75,johnser02,1995-96,SEA,13.1,3.9,.123,0.1,0.8,,NBA,767000,28,81,18.8,.511,.669,5.3,0.6,0.5,1.6,5.5,SEA
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",+0.72,5.28,johnser02,1996-97,DEN,14.3,5.2,.096,0.8,1.8,,NBA,1636000,29,82,31.7,.520,.615,11.1,0.9,0.8,2.8,7.1,DEN
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",+1.82,6.36,johnser02,1997-98,MIL,15.6,6.4,.136,1.9,2.2,,NBA,2281128,30,81,27.9,.537,.601,8.5,0.7,1.0,2.0,8.0,MIL
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",+0.81,2.36,johnser02,1998-99,MIL,14.5,3.0,.140,0.7,0.7,,NBA,2594000,31,50,20.5,.508,.610,6.4,0.4,0.6,1.1,5.1,MIL
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",+0.92,4.94,johnser02,1999-00,MIL,12.7,4.9,.111,1.7,2.0,,NBA,2951029,32,80,26.6,.516,.605,8.1,0.6,1.0,1.6,4.8,MIL
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",+1.63,6.87,johnser02,2000-01,MIL,11.2,5.1,.123,0.6,1.3,,NBA,2700000,33,82,24.2,.545,.538,7.5,0.5,0.5,1.2,3.2,MIL
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-0.50,1.98,johnser02,2001-02,MIL,8.6,2.3,.067,-2.5,-0.2,,NBA,3670929,34,81,20.5,.461,.455,5.8,0.3,0.5,1.0,2.6,MIL
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-0.76,1.27,johnser02,2002-03,MIL,9.4,1.9,.079,-0.8,0.4,,NBA,3998679,35,69,17.0,.452,.682,4.3,0.3,0.5,0.9,2.2,MIL
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-1.37,0.74,johnser02,2003-04,MIN,8.5,2.3,.115,-0.2,0.4,,NBA,4418156,36,66,14.6,.534,.607,3.5,0.4,0.4,0.7,1.9,MIN
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-2.06,0.05,johnser02,2004-05,MIN,8.3,0.8,.091,-3.0,-0.1,,NBA,4837633,37,46,8.9,.519,.640,2.5,0.1,0.2,0.3,1.6,MIN
+Ervin Johnson,/players/j/johnser02.html,1994,2006,University of New Orleans,false,"Block in Jonesville, Louisiana",-0.96,0.09,johnser02,2005-06,MIL,3.1,0.0,-0.010,-8.3,-0.1,,NBA,1138500,38,18,4.5,.412,.500,1.3,0.1,0.1,0.1,0.8,MIL

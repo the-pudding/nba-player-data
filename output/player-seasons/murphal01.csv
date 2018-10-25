@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-murphal01,1976-77,24,LAL,NBA,2,9.0,.200,.429,2.0,0.0,0.0,0.0,2.5,1.8,-0.1,-0.229,-16.9,-0.1,,"A.H. Parker in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Allen Murphy,/players/m/murphal01.html,1976,1977,University of Louisville,false,"A.H. Parker in Birmingham, Alabama",-1.07,0.01,murphal01,1976-77,LAL,1.8,-0.1,-0.229,-16.9,-0.1,,24,NBA,2,9.0,.200,.429,2.0,0.0,0.0,0.0,2.5,LAL

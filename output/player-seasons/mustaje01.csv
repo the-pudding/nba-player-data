@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mustaje01,1990-91,21,New York Knicks,NBA,62,13.3,.465,.644,2.7,0.6,0.2,0.2,4.3,8.3,0.4,.022,-5.1,-0.6,,565000,"DeMatha Catholic in Hyattsville, Maryland"
-mustaje01,1991-92,22,Phoenix Suns,NBA,52,10.5,.477,.690,2.8,0.9,0.4,0.3,4.5,13.8,0.8,.075,-1.7,0.0,,735000,"DeMatha Catholic in Hyattsville, Maryland"
-mustaje01,1992-93,23,Phoenix Suns,NBA,32,10.5,.438,.623,2.6,0.3,0.4,0.3,4.6,12.7,0.5,.065,-4.8,-0.2,,904000,"DeMatha Catholic in Hyattsville, Maryland"
-mustaje01,1993-94,24,Phoenix Suns,NBA,33,5.9,.357,.591,1.7,0.2,0.1,0.2,2.2,8.9,0.0,.004,-8.5,-0.3,,1073000,"DeMatha Catholic in Hyattsville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerrod Mustaf,/players/m/mustaje01.html,1991,1994,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-3.05,-0.45,mustaje01,1990-91,NYK,8.3,0.4,.022,-5.1,-0.6,,NBA,565000,21,62,13.3,.465,.644,2.7,0.6,0.2,0.2,4.3,NYK
+Jerrod Mustaf,/players/m/mustaje01.html,1991,1994,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-1.36,0.34,mustaje01,1991-92,PHO,13.8,0.8,.075,-1.7,0.0,,NBA,735000,22,52,10.5,.477,.690,2.8,0.9,0.4,0.3,4.5,PHO
+Jerrod Mustaf,/players/m/mustaje01.html,1991,1994,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-1.29,0.23,mustaje01,1992-93,PHO,12.7,0.5,.065,-4.8,-0.2,,NBA,904000,23,32,10.5,.438,.623,2.6,0.3,0.4,0.3,4.6,PHO
+Jerrod Mustaf,/players/m/mustaje01.html,1991,1994,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-1.52,0.10,mustaje01,1993-94,PHO,8.9,0.0,.004,-8.5,-0.3,,NBA,1073000,24,33,5.9,.357,.591,1.7,0.2,0.1,0.2,2.2,PHO

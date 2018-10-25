@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-osullda01,1990-91,22,UTA,NBA,21,4.0,.438,.636,0.8,0.2,0.0,0.0,1.0,6.0,0.1,.062,-4.4,-0.1,,"Bayonne in Bayonne, New Jersey",
-osullda01,1991-92,23,"Did Not Play (other pro league—GBA, USBL)",,,,,,,,,,,,,,,,,"Bayonne in Bayonne, New Jersey",
-osullda01,1992-93,24,New Jersey Nets,NBA,6,2.8,.600,.750,1.0,0.2,0.2,0.0,1.5,24.4,0.1,.341,0.5,0.0,,"Bayonne in Bayonne, New Jersey",140000
-osullda01,1992-93,24,New Jersey Nets,NBA,3,3.3,.667,,1.3,0.0,0.0,0.0,1.3,20.4,0.1,.242,-5.9,0.0,,"Bayonne in Bayonne, New Jersey",140000
-osullda01,1992-93,24,New Jersey Nets,NBA,3,2.3,.500,.750,0.7,0.3,0.3,0.0,1.7,30.3,0.1,.483,9.7,0.0,,"Bayonne in Bayonne, New Jersey",140000
-osullda01,1993-94,25,DET,NBA,13,4.3,.333,.750,0.8,0.2,0.0,0.0,1.3,6.6,0.0,.017,-8.5,-0.1,,"Bayonne in Bayonne, New Jersey",
-osullda01,1994-95,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Bayonne in Bayonne, New Jersey",
-osullda01,1995-96,27,TOR,NBA,5,27.8,.371,.875,6.4,0.4,0.4,0.8,6.6,8.4,0.0,.008,-7.5,-0.2,,"Bayonne in Bayonne, New Jersey",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dan O'Sullivan,/players/o/osullda01.html,1991,1996,Fordham University,false,"Bayonne in Bayonne, New Jersey",-0.43,0.11,osullda01,1990-91,UTA,6.0,0.1,.062,-4.4,-0.1,,22,NBA,21,4.0,.438,.636,0.8,0.2,0.0,0.0,1.0,UTA,
+Dan O'Sullivan,/players/o/osullda01.html,1991,1996,Fordham University,false,"Bayonne in Bayonne, New Jersey",,,osullda01,1991-92,"Did Not Play (other pro league—GBA, USBL)",,,,,,,23,,,,,,,,,,,"Did Not Play (other pro league—GBA, USBL)",
+Dan O'Sullivan,/players/o/osullda01.html,1991,1996,Fordham University,false,"Bayonne in Bayonne, New Jersey",+0.17,0.03,osullda01,1992-93,TOT,24.4,0.1,.341,0.5,0.0,,24,NBA,6,2.8,.600,.750,1.0,0.2,0.2,0.0,1.5,"NJN,MIL",140000
+Dan O'Sullivan,/players/o/osullda01.html,1991,1996,Fordham University,false,"Bayonne in Bayonne, New Jersey",-0.06,0.08,osullda01,1993-94,DET,6.6,0.0,.017,-8.5,-0.1,,25,NBA,13,4.3,.333,.750,0.8,0.2,0.0,0.0,1.3,DET,
+Dan O'Sullivan,/players/o/osullda01.html,1991,1996,Fordham University,false,"Bayonne in Bayonne, New Jersey",,,osullda01,1994-95,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Dan O'Sullivan,/players/o/osullda01.html,1991,1996,Fordham University,false,"Bayonne in Bayonne, New Jersey",-1.08,0.11,osullda01,1995-96,TOR,8.4,0.0,.008,-7.5,-0.2,,27,NBA,5,27.8,.371,.875,6.4,0.4,0.4,0.8,6.6,TOR,

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-browner01,2001-02,22,Miami Heat,NBA,3,7.0,.167,.250,2.0,0.0,0.0,0.3,1.0,-9.7,-0.2,-0.349,-24.7,-0.1,,332817,"St. Raymond in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ernest Brown,/players/b/browner01.html,2002,2002,Indian Hills Community College,false,"St. Raymond in Bronx, New York",+0.04,0.03,browner01,2001-02,MIA,-9.7,-0.2,-0.349,-24.7,-0.1,,NBA,332817,22,3,7.0,.167,.250,2.0,0.0,0.0,0.3,1.0,MIA

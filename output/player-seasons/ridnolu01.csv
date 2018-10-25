@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ridnolu01,2003-04,22,Seattle SuperSonics,NBA,69,16.1,.414,.823,1.6,2.4,0.8,0.1,5.5,13.1,1.2,.051,-2.3,-0.1,,1424400,"Blaine in Blaine, Washington"
-ridnolu01,2004-05,23,Seattle SuperSonics,NBA,82,31.4,.405,.883,2.5,5.9,1.1,0.3,10.0,14.6,5.4,.100,0.4,1.5,,1531200,"Blaine in Blaine, Washington"
-ridnolu01,2005-06,24,Seattle SuperSonics,NBA,79,33.2,.418,.877,3.0,7.0,1.6,0.3,11.5,16.0,4.4,.081,-0.5,1.0,,1638000,"Blaine in Blaine, Washington"
-ridnolu01,2006-07,25,Seattle SuperSonics,NBA,71,29.5,.433,.805,2.3,5.2,1.2,0.3,11.0,13.7,2.3,.052,-1.8,0.1,,2425878,"Blaine in Blaine, Washington"
-ridnolu01,2007-08,26,Seattle SuperSonics,NBA,61,20.0,.399,.857,1.5,4.0,0.6,0.2,6.4,11.3,0.9,.035,-4.0,-0.6,,6500000,"Blaine in Blaine, Washington"
-ridnolu01,2008-09,27,Milwaukee Bucks,NBA,72,28.2,.403,.869,3.0,5.1,1.3,0.2,9.6,12.9,3.4,.081,-0.3,0.9,,6500000,"Blaine in Blaine, Washington"
-ridnolu01,2009-10,28,Milwaukee Bucks,NBA,82,21.5,.478,.907,1.7,4.0,0.7,0.1,10.4,17.7,6.2,.168,0.9,1.3,,6500000,"Blaine in Blaine, Washington"
-ridnolu01,2010-11,29,Minnesota Timberwolves,NBA,71,30.4,.468,.883,2.8,5.4,1.3,0.1,11.8,15.0,4.0,.089,-0.3,0.9,,4000000,"Blaine in Blaine, Washington"
-ridnolu01,2011-12,30,Minnesota Timberwolves,NBA,53,33.0,.440,.891,2.7,4.8,1.1,0.3,12.1,13.6,3.3,.090,0.3,1.0,,3680000,"Blaine in Blaine, Washington"
-ridnolu01,2012-13,31,Minnesota Timberwolves,NBA,82,30.2,.453,.848,2.5,3.8,1.0,0.2,11.5,13.0,4.3,.084,-0.4,1.0,,4000000,"Blaine in Blaine, Washington"
-ridnolu01,2013-14,32,Milwaukee Bucks,NBA,61,18.7,.385,.654,1.6,2.9,0.5,0.1,5.0,9.0,0.1,.005,-5.1,-0.9,,4320000,"Blaine in Blaine, Washington"
-ridnolu01,2013-14,32,Milwaukee Bucks,NBA,36,21.2,.384,.684,1.7,3.4,0.6,0.1,5.7,9.1,-0.1,-0.008,-5.7,-0.7,,4320000,"Blaine in Blaine, Washington"
-ridnolu01,2013-14,32,Milwaukee Bucks,NBA,25,15.1,.389,.571,1.4,2.2,0.4,0.2,4.0,8.6,0.2,.030,-3.8,-0.2,,4320000,"Blaine in Blaine, Washington"
-ridnolu01,2014-15,33,Orlando Magic,NBA,47,14.5,.426,.857,1.4,2.0,0.4,0.1,4.0,10.0,0.6,.042,-4.0,-0.3,,2750000,"Blaine in Blaine, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-2.48,-0.24,ridnolu01,2003-04,SEA,13.1,1.2,.051,-2.3,-0.1,,NBA,1424400,22,69,16.1,.414,.823,1.6,2.4,0.8,0.1,5.5,SEA
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-1.88,0.90,ridnolu01,2004-05,SEA,14.6,5.4,.100,0.4,1.5,,NBA,1531200,23,82,31.4,.405,.883,2.5,5.9,1.1,0.3,10.0,SEA
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-1.10,2.18,ridnolu01,2005-06,SEA,16.0,4.4,.081,-0.5,1.0,,NBA,1638000,24,79,33.2,.418,.877,3.0,7.0,1.6,0.3,11.5,SEA
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-1.52,1.09,ridnolu01,2006-07,SEA,13.7,2.3,.052,-1.8,0.1,,NBA,2425878,25,71,29.5,.433,.805,2.3,5.2,1.2,0.3,11.0,SEA
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-0.85,1.17,ridnolu01,2007-08,SEA,11.3,0.9,.035,-4.0,-0.6,,NBA,6500000,26,61,20.0,.399,.857,1.5,4.0,0.6,0.2,6.4,SEA
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",+0.49,3.82,ridnolu01,2008-09,MIL,12.9,3.4,.081,-0.3,0.9,,NBA,6500000,27,72,28.2,.403,.869,3.0,5.1,1.3,0.2,9.6,MIL
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-1.28,1.26,ridnolu01,2009-10,MIL,17.7,6.2,.168,0.9,1.3,,NBA,6500000,28,82,21.5,.478,.907,1.7,4.0,0.7,0.1,10.4,MIL
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-0.33,2.85,ridnolu01,2010-11,MIN,15.0,4.0,.089,-0.3,0.9,,NBA,4000000,29,71,30.4,.468,.883,2.8,5.4,1.3,0.1,11.8,MIN
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-0.23,2.42,ridnolu01,2011-12,MIN,13.6,3.3,.090,0.3,1.0,,NBA,3680000,30,53,33.0,.440,.891,2.7,4.8,1.1,0.3,12.1,MIN
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-1.33,1.52,ridnolu01,2012-13,MIN,13.0,4.3,.084,-0.4,1.0,,NBA,4000000,31,82,30.2,.453,.848,2.5,3.8,1.0,0.2,11.5,MIN
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-3.12,-0.68,ridnolu01,2013-14,TOT,9.0,0.1,.005,-5.1,-0.9,,NBA,4320000,32,61,18.7,.385,.654,1.6,2.9,0.5,0.1,5.0,"MIL,CHA"
+Luke Ridnour,/players/r/ridnolu01.html,2004,2015,University of Oregon,false,"Blaine in Blaine, Washington",-2.71,-0.24,ridnolu01,2014-15,ORL,10.0,0.6,.042,-4.0,-0.3,,NBA,2750000,33,47,14.5,.426,.857,1.4,2.0,0.4,0.1,4.0,ORL

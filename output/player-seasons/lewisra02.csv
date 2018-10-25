@@ -1,19 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lewisra02,1998-99,19,Seattle SuperSonics,NBA,20,7.3,.365,.571,1.3,0.2,0.4,0.1,2.4,4.5,-0.4,-0.136,-9.9,-0.3,,287500,"Alief Elsik in Houston, Texas"
-lewisra02,1999-00,20,Seattle SuperSonics,NBA,82,19.2,.486,.683,4.1,0.9,0.8,0.4,8.2,16.5,4.1,.125,-0.4,0.6,,385000,"Alief Elsik in Houston, Texas"
-lewisra02,2000-01,21,Seattle SuperSonics,NBA,78,34.9,.480,.826,6.9,1.6,1.2,0.6,14.8,17.3,8.0,.142,2.5,3.1,,3920000,"Alief Elsik in Houston, Texas"
-lewisra02,2001-02,22,Seattle SuperSonics,NBA,71,36.4,.468,.810,7.0,1.7,1.5,0.6,16.8,18.5,8.6,.160,2.9,3.2,,4413375,"Alief Elsik in Houston, Texas"
-lewisra02,2002-03,23,Seattle SuperSonics,NBA,77,39.5,.452,.820,6.5,1.7,1.3,0.5,18.1,16.7,7.8,.122,0.9,2.3,,6233766,"Alief Elsik in Houston, Texas"
-lewisra02,2003-04,24,Seattle SuperSonics,NBA,80,36.6,.435,.763,6.5,2.2,1.2,0.7,17.8,17.5,6.5,.107,1.4,2.5,,7012987,"Alief Elsik in Houston, Texas"
-lewisra02,2004-05,25,Seattle SuperSonics,NBA,71,38.0,.462,.777,5.5,1.3,1.1,0.9,20.5,19.4,8.4,.150,2.8,3.3,,7792208,"Alief Elsik in Houston, Texas"
-lewisra02,2005-06,26,Seattle SuperSonics,NBA,78,36.9,.467,.818,5.0,2.3,1.3,0.6,20.1,20.0,8.3,.138,2.5,3.3,,8571429,"Alief Elsik in Houston, Texas"
-lewisra02,2006-07,27,Seattle SuperSonics,NBA,60,39.1,.461,.841,6.6,2.4,1.1,0.7,22.4,20.7,7.6,.155,3.3,3.1,,9350649,"Alief Elsik in Houston, Texas"
-lewisra02,2007-08,28,Orlando Magic,NBA,81,38.0,.455,.838,5.4,2.4,1.2,0.5,18.2,16.7,9.8,.153,4.0,4.6,,14880000,"Alief Elsik in Houston, Texas"
-lewisra02,2008-09,29,Orlando Magic,NBA,79,36.2,.439,.836,5.7,2.6,1.0,0.6,17.7,16.8,9.5,.160,4.2,4.5,,16447871,"Alief Elsik in Houston, Texas"
-lewisra02,2009-10,30,Orlando Magic,NBA,72,32.9,.435,.806,4.4,1.5,1.1,0.4,14.1,14.0,6.5,.132,2.7,2.8,,18876000,"Alief Elsik in Houston, Texas"
-lewisra02,2010-11,31,Washington Wizards,NBA,57,32.0,.433,.802,5.1,1.6,0.9,0.5,11.7,12.0,3.0,.079,0.2,1.0,,19573711,"Alief Elsik in Houston, Texas"
-lewisra02,2010-11,31,Washington Wizards,NBA,25,32.4,.419,.756,4.2,1.2,0.9,0.4,12.2,11.0,1.5,.091,0.2,0.4,,19573711,"Alief Elsik in Houston, Texas"
-lewisra02,2010-11,31,Washington Wizards,NBA,32,31.7,.446,.843,5.8,2.0,0.9,0.6,11.4,12.8,1.5,.070,0.1,0.5,,19573711,"Alief Elsik in Houston, Texas"
-lewisra02,2011-12,32,Washington Wizards,NBA,28,26.0,.385,.838,3.9,1.0,0.8,0.4,7.8,9.3,0.3,.018,-3.0,-0.2,,21136631,"Alief Elsik in Houston, Texas"
-lewisra02,2012-13,33,New Orleans Hornets,NBA,55,14.4,.414,.622,2.2,0.5,0.4,0.3,5.2,11.1,1.2,.071,-3.2,-0.2,,13700000,"Alief Elsik in Houston, Texas"
-lewisra02,2013-14,34,Miami Heat,NBA,60,16.2,.415,.788,1.8,1.0,0.9,0.1,4.5,10.7,1.7,.083,0.1,0.5,,1399507,"Alief Elsik in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",-1.38,0.08,lewisra02,1998-99,SEA,4.5,-0.4,-0.136,-9.9,-0.3,,NBA,287500,19,20,7.3,.365,.571,1.3,0.2,0.4,0.1,2.4,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",-0.36,2.23,lewisra02,1999-00,SEA,16.5,4.1,.125,-0.4,0.6,,NBA,385000,20,82,19.2,.486,.683,4.1,0.9,0.8,0.4,8.2,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+2.14,8.23,lewisra02,2000-01,SEA,17.3,8.0,.142,2.5,3.1,,NBA,3920000,21,78,34.9,.480,.826,6.9,1.6,1.2,0.6,14.8,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+2.29,8.21,lewisra02,2001-02,SEA,18.5,8.6,.160,2.9,3.2,,NBA,4413375,22,71,36.4,.468,.810,7.0,1.7,1.5,0.6,16.8,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",-1.40,1.73,lewisra02,2002-03,SEA,16.7,7.8,.122,0.9,2.3,,NBA,6233766,23,77,39.5,.452,.820,6.5,1.7,1.3,0.5,18.1,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+0.92,6.38,lewisra02,2003-04,SEA,17.5,6.5,.107,1.4,2.5,,NBA,7012987,24,80,36.6,.435,.763,6.5,2.2,1.2,0.7,17.8,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+3.58,11.62,lewisra02,2004-05,SEA,19.4,8.4,.150,2.8,3.3,,NBA,7792208,25,71,38.0,.462,.777,5.5,1.3,1.1,0.9,20.5,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+0.37,5.12,lewisra02,2005-06,SEA,20.0,8.3,.138,2.5,3.3,,NBA,8571429,26,78,36.9,.467,.818,5.0,2.3,1.3,0.6,20.1,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+1.72,6.30,lewisra02,2006-07,SEA,20.7,7.6,.155,3.3,3.1,,NBA,9350649,27,60,39.1,.461,.841,6.6,2.4,1.1,0.7,22.4,SEA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+2.96,12.19,lewisra02,2007-08,ORL,16.7,9.8,.153,4.0,4.6,,NBA,14880000,28,81,38.0,.455,.838,5.4,2.4,1.2,0.5,18.2,ORL
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+4.50,17.27,lewisra02,2008-09,ORL,16.8,9.5,.160,4.2,4.5,,NBA,16447871,29,79,36.2,.439,.836,5.7,2.6,1.0,0.6,17.7,ORL
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+2.38,9.05,lewisra02,2009-10,ORL,14.0,6.5,.132,2.7,2.8,,NBA,18876000,30,72,32.9,.435,.806,4.4,1.5,1.1,0.4,14.1,ORL
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",-0.71,1.92,lewisra02,2010-11,TOT,12.0,3.0,.079,0.2,1.0,,NBA,19573711,31,57,32.0,.433,.802,5.1,1.6,0.9,0.5,11.7,"ORL,WAS"
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",-2.69,-0.24,lewisra02,2011-12,WAS,9.3,0.3,.018,-3.0,-0.2,,NBA,21136631,32,28,26.0,.385,.838,3.9,1.0,0.8,0.4,7.8,WAS
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",-2.93,-0.39,lewisra02,2012-13,MIA,11.1,1.2,.071,-3.2,-0.2,,NBA,13700000,33,55,14.4,.414,.622,2.2,0.5,0.4,0.3,5.2,MIA
+Rashard Lewis,/players/l/lewisra02.html,1999,2014,,false,"Alief Elsik in Houston, Texas",+0.07,2.05,lewisra02,2013-14,MIA,10.7,1.7,.083,0.1,0.5,,NBA,1399507,34,60,16.2,.415,.788,1.8,1.0,0.9,0.1,4.5,MIA

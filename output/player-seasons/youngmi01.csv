@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-youngmi01,1984-85,24,PHO,NBA,2,5.5,.333,,1.0,0.0,0.0,0.0,2.0,5.8,0.0,-0.072,-15.6,0.0,,"Jack Yates in Houston, Texas"
-youngmi01,1985-86,25,PHI,NBA,2,1.0,.000,,0.0,0.0,0.0,0.0,0.0,-32.2,0.0,-0.818,-43.2,0.0,,"Jack Yates in Houston, Texas"
-youngmi01,1986-87,26,Did Not Play (other pro league—Philippines),,,,,,,,,,,,,,,,,"Jack Yates in Houston, Texas"
-youngmi01,1987-88,27,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"Jack Yates in Houston, Texas"
-youngmi01,1988-89,28,"Did Not Play (other pro league—Spain, Italy)",,,,,,,,,,,,,,,,,"Jack Yates in Houston, Texas"
-youngmi01,1989-90,29,LAC,NBA,45,10.2,.474,.711,1.9,0.5,0.6,0.1,4.9,16.0,1.1,.119,-0.9,0.1,,"Jack Yates in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false,"Jack Yates in Houston, Texas",+0.37,0.02,youngmi01,1984-85,PHO,5.8,0.0,-0.072,-15.6,0.0,,24,NBA,2,5.5,.333,,1.0,0.0,0.0,0.0,2.0,PHO
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false,"Jack Yates in Houston, Texas",-0.08,0.01,youngmi01,1985-86,PHI,-32.2,0.0,-0.818,-43.2,0.0,,25,NBA,2,1.0,.000,,0.0,0.0,0.0,0.0,0.0,PHI
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false,"Jack Yates in Houston, Texas",,,youngmi01,1986-87,Did Not Play (other pro league—Philippines),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Philippines)
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false,"Jack Yates in Houston, Texas",,,youngmi01,1987-88,Did Not Play (other pro league—Spain),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—Spain)
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false,"Jack Yates in Houston, Texas",,,youngmi01,1988-89,"Did Not Play (other pro league—Spain, Italy)",,,,,,,28,,,,,,,,,,,"Did Not Play (other pro league—Spain, Italy)"
+Michael Young,/players/y/youngmi01.html,1985,1990,University of Houston,false,"Jack Yates in Houston, Texas",-0.44,0.57,youngmi01,1989-90,LAC,16.0,1.1,.119,-0.9,0.1,,29,NBA,45,10.2,.474,.711,1.9,0.5,0.6,0.1,4.9,LAC

@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rondora01,2006-07,20,Boston Celtics,NBA,78,23.5,.418,.647,3.7,3.8,1.6,0.1,6.4,13.1,2.4,.064,0.4,1.1,,1143600,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2007-08,21,Boston Celtics,NBA,77,29.9,.492,.611,4.2,5.1,1.7,0.2,10.6,15.6,7.2,.150,2.6,2.7,,1229280,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2008-09,22,Boston Celtics,NBA,80,33.0,.505,.642,5.2,8.2,1.9,0.1,11.9,18.8,9.9,.179,4.5,4.3,,1315080,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2009-10,23,Boston Celtics,NBA,81,36.6,.508,.621,4.4,9.8,2.3,0.1,13.7,19.1,9.6,.156,3.5,4.1,,2094922,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2010-11,24,Boston Celtics,NBA,68,37.2,.475,.568,4.4,11.2,2.3,0.2,10.6,17.1,6.6,.126,2.0,2.5,,9090911,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2011-12,25,Boston Celtics,NBA,53,36.9,.448,.597,4.8,11.7,1.8,0.1,11.9,17.5,4.9,.121,1.3,1.6,All-NBA (3rd),10045455,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2012-13,26,Boston Celtics,NBA,38,37.4,.484,.645,5.6,11.1,1.8,0.2,13.7,18.1,3.2,.108,1.8,1.3,,11000000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2013-14,27,Boston Celtics,NBA,30,33.3,.403,.627,5.5,9.8,1.3,0.1,11.7,15.3,1.1,.054,0.0,0.5,,11954545,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2014-15,28,Dallas Mavericks,NBA,68,29.7,.426,.397,5.5,7.9,1.3,0.1,8.9,13.5,1.6,.037,-0.5,0.8,,12909091,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2014-15,28,Dallas Mavericks,NBA,22,31.8,.405,.333,7.5,10.8,1.7,0.1,8.3,15.4,0.9,.064,0.4,0.4,,12909091,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2014-15,28,Dallas Mavericks,NBA,46,28.7,.436,.452,4.5,6.5,1.2,0.1,9.3,12.4,0.6,.023,-1.0,0.3,,12909091,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2015-16,29,Sacramento Kings,NBA,72,35.2,.454,.580,6.0,11.7,2.0,0.1,11.9,16.9,4.6,.087,1.0,1.9,,9500000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2016-17,30,Chicago Bulls,NBA,69,26.7,.408,.600,5.1,6.7,1.4,0.2,7.8,13.6,2.3,.060,0.3,1.1,,14000000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2017-18,31,New Orleans Pelicans,NBA,65,26.2,.468,.543,4.0,8.2,1.1,0.2,8.3,15.3,3.6,.101,-1.1,0.4,,3300000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-rondora01,2018-19,32,LAL,NBA,2,30.5,.571,,5.5,10.5,1.5,0.0,13.0,19.8,0.2,.142,0.0,0.0,,,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+1.43,4.65,rondora01,2006-07,BOS,13.1,2.4,.064,0.4,1.1,,NBA,1143600,20,78,23.5,.418,.647,3.7,3.8,1.6,0.1,6.4,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+3.03,11.25,rondora01,2007-08,BOS,15.6,7.2,.150,2.6,2.7,,NBA,1229280,21,77,29.9,.492,.611,4.2,5.1,1.7,0.2,10.6,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+4.42,14.33,rondora01,2008-09,BOS,18.8,9.9,.179,4.5,4.3,,NBA,1315080,22,80,33.0,.505,.642,5.2,8.2,1.9,0.1,11.9,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+2.31,12.24,rondora01,2009-10,BOS,19.1,9.6,.156,3.5,4.1,,NBA,2094922,23,81,36.6,.508,.621,4.4,9.8,2.3,0.1,13.7,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+3.03,10.35,rondora01,2010-11,BOS,17.1,6.6,.126,2.0,2.5,,NBA,9090911,24,68,37.2,.475,.568,4.4,11.2,2.3,0.2,10.6,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+1.70,7.62,rondora01,2011-12,BOS,17.5,4.9,.121,1.3,1.6,All-NBA (3rd),NBA,10045455,25,53,36.9,.448,.597,4.8,11.7,1.8,0.1,11.9,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.41,2.61,rondora01,2012-13,BOS,18.1,3.2,.108,1.8,1.3,,NBA,11000000,26,38,37.4,.484,.645,5.6,11.1,1.8,0.2,13.7,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.33,1.31,rondora01,2013-14,BOS,15.3,1.1,.054,0.0,0.5,,NBA,11954545,27,30,33.3,.403,.627,5.5,9.8,1.3,0.1,11.7,BOS
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.61,2.29,rondora01,2014-15,TOT,13.5,1.6,.037,-0.5,0.8,,NBA,12909091,28,68,29.7,.426,.397,5.5,7.9,1.3,0.1,8.9,"BOS,DAL"
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",+0.04,3.98,rondora01,2015-16,SAC,16.9,4.6,.087,1.0,1.9,,NBA,9500000,29,72,35.2,.454,.580,6.0,11.7,2.0,0.1,11.9,SAC
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.77,1.96,rondora01,2016-17,CHI,13.6,2.3,.060,0.3,1.1,,NBA,14000000,30,69,26.7,.408,.600,5.1,6.7,1.4,0.2,7.8,CHI
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.10,1.62,rondora01,2017-18,NOP,15.3,3.6,.101,-1.1,0.4,,NBA,3300000,31,65,26.2,.468,.543,4.0,8.2,1.1,0.2,8.3,NOP
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true,"Oak Hill Academy in Mouth of Wilson, Virginia",,,rondora01,2018-19,LAL,19.8,0.2,.142,0.0,0.0,,NBA,,32,2,30.5,.571,,5.5,10.5,1.5,0.0,13.0,LAL

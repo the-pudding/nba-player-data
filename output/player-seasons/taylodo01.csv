@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-taylodo01,2005-06,23,Washington Wizards,NBA,51,9.1,.390,.698,1.0,0.9,0.6,0.1,2.7,10.1,0.2,.017,-3.2,-0.1,,398762,"Sidney Lanier in Montgomery, Alabama"
-taylodo01,2006-07,24,Washington Wizards,NBA,47,7.9,.400,.524,1.1,1.0,0.4,0.1,2.7,10.3,-0.2,-0.022,-5.2,-0.3,,664209,"Sidney Lanier in Montgomery, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Donell Taylor,/players/t/taylodo01.html,2006,2007,"Okaloosa-Walton Community College, University of Alabama at Birmingham",false,"Sidney Lanier in Montgomery, Alabama",-1.95,0.11,taylodo01,2005-06,WAS,10.1,0.2,.017,-3.2,-0.1,,NBA,398762,23,51,9.1,.390,.698,1.0,0.9,0.6,0.1,2.7,WAS
+Donell Taylor,/players/t/taylodo01.html,2006,2007,"Okaloosa-Walton Community College, University of Alabama at Birmingham",false,"Sidney Lanier in Montgomery, Alabama",-3.26,-0.29,taylodo01,2006-07,WAS,10.3,-0.2,-0.022,-5.2,-0.3,,NBA,664209,24,47,7.9,.400,.524,1.1,1.0,0.4,0.1,2.7,WAS

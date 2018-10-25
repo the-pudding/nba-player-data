@@ -1,13 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willish02,2006-07,23,Atlanta Hawks,NBA,81,18.7,.455,.764,5.4,0.5,0.6,0.5,5.5,12.3,2.2,.070,-3.6,-0.6,,2952840,"Midwest City in Midwest City, Oklahoma"
-willish02,2007-08,24,Sacramento Kings,NBA,64,12.1,.434,.676,3.2,0.3,0.3,0.3,4.0,11.9,1.2,.072,-5.0,-0.6,,3174240,"Midwest City in Midwest City, Oklahoma"
-willish02,2007-08,24,Sacramento Kings,NBA,36,11.5,.370,.686,3.0,0.3,0.4,0.3,3.0,9.8,0.5,.060,-5.1,-0.3,,3174240,"Midwest City in Midwest City, Oklahoma"
-willish02,2007-08,24,Sacramento Kings,NBA,28,12.9,.491,.667,3.5,0.3,0.3,0.4,5.2,14.2,0.7,.087,-4.9,-0.3,,3174240,"Midwest City in Midwest City, Oklahoma"
-willish02,2008-09,25,Minnesota Timberwolves,NBA,45,11.4,.446,.730,3.4,0.3,0.5,0.4,4.1,13.7,0.5,.048,-5.4,-0.4,,3395760,"Midwest City in Midwest City, Oklahoma"
-willish02,2008-09,25,Minnesota Timberwolves,NBA,30,10.2,.449,.762,2.6,0.3,0.4,0.3,3.7,12.2,0.1,.014,-6.5,-0.3,,3395760,"Midwest City in Midwest City, Oklahoma"
-willish02,2008-09,25,Minnesota Timberwolves,NBA,15,13.8,.441,.667,5.0,0.3,0.7,0.5,4.9,16.0,0.4,.098,-3.7,-0.1,,3395760,"Midwest City in Midwest City, Oklahoma"
-willish02,2009-10,26,Boston Celtics,NBA,54,11.1,.521,.765,2.7,0.4,0.2,0.4,3.7,14.1,2.0,.162,-1.1,0.1,,825497,"Midwest City in Midwest City, Oklahoma"
-willish02,2010-11,27,New York Knicks,NBA,59,15.4,.468,.773,4.6,0.5,0.4,0.4,4.5,12.3,1.9,.102,-1.9,0.0,,915852,"Midwest City in Midwest City, Oklahoma"
-willish02,2010-11,27,New York Knicks,NBA,42,17.0,.453,.739,5.3,0.5,0.4,0.5,4.7,11.3,1.2,.078,-2.5,-0.1,,915852,"Midwest City in Midwest City, Oklahoma"
-willish02,2010-11,27,New York Knicks,NBA,17,11.6,.538,.828,2.9,0.8,0.3,0.2,3.9,15.9,0.8,.188,0.3,0.1,,915852,"Midwest City in Midwest City, Oklahoma"
-willish02,2011-12,28,New Jersey Nets,NBA,58,22.0,.478,.731,6.0,0.6,0.8,0.7,4.6,11.9,2.1,.078,-1.1,0.3,,992680,"Midwest City in Midwest City, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shelden Williams,/players/w/willish02.html,2007,2012,Duke University,false,"Midwest City in Midwest City, Oklahoma",-2.55,-0.30,willish02,2006-07,ATL,12.3,2.2,.070,-3.6,-0.6,,NBA,2952840,23,81,18.7,.455,.764,5.4,0.5,0.6,0.5,5.5,ATL
+Shelden Williams,/players/w/willish02.html,2007,2012,Duke University,false,"Midwest City in Midwest City, Oklahoma",-1.46,0.43,willish02,2007-08,TOT,11.9,1.2,.072,-5.0,-0.6,,NBA,3174240,24,64,12.1,.434,.676,3.2,0.3,0.3,0.3,4.0,"ATL,SAC"
+Shelden Williams,/players/w/willish02.html,2007,2012,Duke University,false,"Midwest City in Midwest City, Oklahoma",-0.65,0.57,willish02,2008-09,TOT,13.7,0.5,.048,-5.4,-0.4,,NBA,3395760,25,45,11.4,.446,.730,3.4,0.3,0.5,0.4,4.1,"SAC,MIN"
+Shelden Williams,/players/w/willish02.html,2007,2012,Duke University,false,"Midwest City in Midwest City, Oklahoma",-1.11,0.51,willish02,2009-10,BOS,14.1,2.0,.162,-1.1,0.1,,NBA,825497,26,54,11.1,.521,.765,2.7,0.4,0.2,0.4,3.7,BOS
+Shelden Williams,/players/w/willish02.html,2007,2012,Duke University,false,"Midwest City in Midwest City, Oklahoma",-1.33,0.59,willish02,2010-11,TOT,12.3,1.9,.102,-1.9,0.0,,NBA,915852,27,59,15.4,.468,.773,4.6,0.5,0.4,0.4,4.5,"DEN,NYK"
+Shelden Williams,/players/w/willish02.html,2007,2012,Duke University,false,"Midwest City in Midwest City, Oklahoma",-2.71,-0.39,willish02,2011-12,NJN,11.9,2.1,.078,-1.1,0.3,,NBA,992680,28,58,22.0,.478,.731,6.0,0.6,0.8,0.7,4.6,NJN

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-palmewa01,1990-91,22,Utah Jazz,NBA,28,3.0,.333,.667,0.8,0.2,0.1,0.1,1.4,8.5,-0.1,-0.041,-7.3,-0.1,,225000,"Washington & Lee in Arlington, Virginia"
-palmewa01,1991-92,23,Utah Jazz,NBA,,,,,,,,,,,,,,,,275000,"Washington & Lee in Arlington, Virginia"
-palmewa01,1992-93,24,Dallas Mavericks,NBA,20,6.2,.474,.667,2.2,0.3,0.1,0.3,3.0,12.8,0.0,.006,-7.8,-0.2,,140000,"Washington & Lee in Arlington, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Walter Palmer,/players/p/palmewa01.html,1991,1993,Dartmouth College,false,"Washington & Lee in Arlington, Virginia",-0.45,0.11,palmewa01,1990-91,UTA,8.5,-0.1,-0.041,-7.3,-0.1,,NBA,225000,22,28,3.0,.333,.667,0.8,0.2,0.1,0.1,1.4,UTA
+Walter Palmer,/players/p/palmewa01.html,1991,1993,Dartmouth College,false,"Washington & Lee in Arlington, Virginia",,,palmewa01,1991-92,Did Not Play (other pro league—Germany),,,,,,,NBA,275000,23,,,,,,,,,,Did Not Play (other pro league—Germany)
+Walter Palmer,/players/p/palmewa01.html,1991,1993,Dartmouth College,false,"Washington & Lee in Arlington, Virginia",-0.78,0.12,palmewa01,1992-93,DAL,12.8,0.0,.006,-7.8,-0.2,,NBA,140000,24,20,6.2,.474,.667,2.2,0.3,0.1,0.3,3.0,DAL

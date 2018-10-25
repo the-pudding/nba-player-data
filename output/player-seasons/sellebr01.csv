@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-sellebr01,1986-87,24,CHI,NBA,80,21.9,.455,.728,4.7,1.3,0.6,0.9,8.5,13.4,3.3,.091,-1.2,0.3,,"Warrensville Heights in Warrensville Heights, Ohio",
-sellebr01,1987-88,25,Chicago Bulls,NBA,82,27.0,.457,.790,3.0,1.7,0.4,0.8,9.5,10.7,3.3,.071,-2.2,-0.1,,"Warrensville Heights in Warrensville Heights, Ohio",381830
-sellebr01,1988-89,26,Chicago Bulls,NBA,80,21.7,.485,.851,2.8,1.2,0.4,0.9,6.9,10.6,2.6,.073,-2.1,0.0,,"Warrensville Heights in Warrensville Heights, Ohio",480000
-sellebr01,1989-90,27,"SEA,MIN",NBA,59,11.9,.406,.795,1.5,0.6,0.3,0.4,4.5,9.2,0.2,.011,-5.1,-0.5,,"Warrensville Heights in Warrensville Heights, Ohio",
-sellebr01,1990-91,28,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Warrensville Heights in Warrensville Heights, Ohio",
-sellebr01,1991-92,29,Detroit Pistons,NBA,43,5.3,.466,.769,1.0,0.3,0.0,0.2,2.4,13.7,0.4,.084,-4.0,-0.1,,"Warrensville Heights in Warrensville Heights, Ohio",600000
-sellebr01,1992-93,30,Minnesota Timberwolves,NBA,54,9.9,.377,.949,1.5,0.9,0.1,0.2,2.5,8.4,0.0,.004,-6.0,-0.5,,"Warrensville Heights in Warrensville Heights, Ohio",700000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",-1.19,1.35,sellebr01,1986-87,CHI,13.4,3.3,.091,-1.2,0.3,,24,NBA,80,21.9,.455,.728,4.7,1.3,0.6,0.9,8.5,CHI,
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",-1.68,0.95,sellebr01,1987-88,CHI,10.7,3.3,.071,-2.2,-0.1,,25,NBA,82,27.0,.457,.790,3.0,1.7,0.4,0.8,9.5,CHI,381830
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",-2.11,0.24,sellebr01,1988-89,CHI,10.6,2.6,.073,-2.1,0.0,,26,NBA,80,21.7,.485,.851,2.8,1.2,0.4,0.9,6.9,CHI,480000
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",-3.09,-0.38,sellebr01,1989-90,TOT,9.2,0.2,.011,-5.1,-0.5,,27,NBA,59,11.9,.406,.795,1.5,0.6,0.3,0.4,4.5,"SEA,MIN",
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",,,sellebr01,1990-91,Did Not Play (other pro league—Greece),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",-0.46,0.29,sellebr01,1991-92,DET,13.7,0.4,.084,-4.0,-0.1,,29,NBA,43,5.3,.466,.769,1.0,0.3,0.0,0.2,2.4,DET,600000
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false,"Warrensville Heights in Warrensville Heights, Ohio",-3.72,-0.51,sellebr01,1992-93,MIN,8.4,0.0,.004,-6.0,-0.5,,30,NBA,54,9.9,.377,.949,1.5,0.9,0.1,0.2,2.5,MIN,700000

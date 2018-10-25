@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sandela01,2010-11,22,Milwaukee Bucks,NBA,60,14.5,.433,.560,3.0,0.3,0.4,1.2,4.3,11.0,1.0,.057,-3.2,-0.3,,1731960,"Port St. Lucie in Port St. Lucie, Florida"
-sandela01,2011-12,23,Milwaukee Bucks,NBA,52,12.4,.457,.474,3.1,0.6,0.6,1.5,3.6,13.3,1.0,.072,1.5,0.6,,1861920,"Port St. Lucie in Port St. Lucie, Florida"
-sandela01,2012-13,24,Milwaukee Bucks,NBA,71,27.3,.506,.618,9.5,1.2,0.7,2.8,9.8,18.7,6.0,.149,2.5,2.2,,1991760,"Port St. Lucie in Port St. Lucie, Florida"
-sandela01,2013-14,25,Milwaukee Bucks,NBA,23,25.4,.469,.473,7.2,0.8,0.8,1.7,7.7,14.0,0.7,.057,-1.8,0.0,,3053368,"Port St. Lucie in Port St. Lucie, Florida"
-sandela01,2014-15,26,Milwaukee Bucks,NBA,27,21.7,.500,.500,6.1,0.9,1.0,1.4,7.3,15.2,1.6,.132,1.4,0.5,,11000000,"Port St. Lucie in Port St. Lucie, Florida"
-sandela01,2015-16,27,Milwaukee Bucks,NBA,,,,,,,,,,,,,,,,1865547,"Port St. Lucie in Port St. Lucie, Florida"
-sandela01,2016-17,28,Milwaukee Bucks,NBA,5,2.6,.250,1.000,0.8,0.0,0.2,0.2,0.8,6.5,0.0,-0.029,-9.6,0.0,,1865547,"Port St. Lucie in Port St. Lucie, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",-2.03,0.08,sandela01,2010-11,MIL,11.0,1.0,.057,-3.2,-0.3,,NBA,1731960,22,60,14.5,.433,.560,3.0,0.3,0.4,1.2,4.3,MIL
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",+2.53,2.15,sandela01,2011-12,MIL,13.3,1.0,.072,1.5,0.6,,NBA,1861920,23,52,12.4,.457,.474,3.1,0.6,0.6,1.5,3.6,MIL
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",+2.74,7.09,sandela01,2012-13,MIL,18.7,6.0,.149,2.5,2.2,,NBA,1991760,24,71,27.3,.506,.618,9.5,1.2,0.7,2.8,9.8,MIL
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",-0.47,0.71,sandela01,2013-14,MIL,14.0,0.7,.057,-1.8,0.0,,NBA,3053368,25,23,25.4,.469,.473,7.2,0.8,0.8,1.7,7.7,MIL
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",-0.47,0.71,sandela01,2014-15,MIL,15.2,1.6,.132,1.4,0.5,,NBA,11000000,26,27,21.7,.500,.500,6.1,0.9,1.0,1.4,7.3,MIL
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",,,sandela01,2015-16,Did Not Play,,,,,,,NBA,1865547,27,,,,,,,,,,Did Not Play
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false,"Port St. Lucie in Port St. Lucie, Florida",-1.24,0.01,sandela01,2016-17,CLE,6.5,0.0,-0.029,-9.6,0.0,,NBA,1865547,28,5,2.6,.250,1.000,0.8,0.0,0.2,0.2,0.8,CLE

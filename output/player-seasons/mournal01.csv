@@ -1,19 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mournal01,1992-93,22,Charlotte Hornets,NBA,78,33.9,.511,.781,10.3,1.0,0.3,3.5,21.0,20.8,8.2,.148,0.2,1.4,,2400000,"Indian River in Chesapeake, Virginia"
-mournal01,1993-94,23,Charlotte Hornets,NBA,60,33.6,.505,.762,10.2,1.4,0.5,3.1,21.5,21.7,6.3,.151,0.5,1.3,,3120000,"Indian River in Chesapeake, Virginia"
-mournal01,1994-95,24,Charlotte Hornets,NBA,77,38.2,.519,.761,9.9,1.4,0.6,2.9,21.3,20.1,9.4,.153,1.3,2.5,,3840000,"Indian River in Chesapeake, Virginia"
-mournal01,1995-96,25,Miami Heat,NBA,70,38.2,.523,.685,10.4,2.3,1.0,2.7,23.2,22.7,9.9,.178,4.4,4.3,,4560000,"Indian River in Chesapeake, Virginia"
-mournal01,1996-97,26,Miami Heat,NBA,66,35.2,.534,.642,9.9,1.6,0.8,2.9,19.8,21.6,8.4,.174,2.7,2.7,,9380000,"Indian River in Chesapeake, Virginia"
-mournal01,1997-98,27,Miami Heat,NBA,58,33.4,.551,.665,9.6,0.9,0.7,2.2,19.2,22.4,7.5,.185,1.2,1.6,,11254800,"Indian River in Chesapeake, Virginia"
-mournal01,1998-99,28,Miami Heat,NBA,46,38.1,.511,.652,11.0,1.6,0.7,3.9,20.1,24.6,7.9,.216,4.8,3.0,All-NBA (1st),13130000,"Indian River in Chesapeake, Virginia"
-mournal01,1999-00,29,Miami Heat,NBA,79,34.8,.551,.711,9.5,1.6,0.5,3.7,21.7,25.8,12.9,.226,4.6,4.6,All-NBA (2nd),15004800,"Indian River in Chesapeake, Virginia"
-mournal01,2000-01,30,Miami Heat,NBA,13,23.5,.518,.564,7.8,0.9,0.3,2.4,13.6,24.6,0.9,.148,0.5,0.2,,16880000,"Indian River in Chesapeake, Virginia"
-mournal01,2001-02,31,Miami Heat,NBA,75,32.7,.516,.657,8.4,1.2,0.4,2.5,15.7,18.9,7.4,.145,1.1,1.9,,18754800,"Indian River in Chesapeake, Virginia"
-mournal01,2002-03,32,Miami Heat,NBA,,,,,,,,,,,,,,,,20629800,"Indian River in Chesapeake, Virginia"
-mournal01,2003-04,33,New Jersey Nets,NBA,12,17.9,.465,.882,2.3,0.7,0.2,0.5,8.0,13.3,0.6,.140,-4.4,-0.1,,4917000,"Indian River in Chesapeake, Virginia"
-mournal01,2004-05,34,Toronto Raptors,NBA,37,19.0,.472,.582,5.4,0.5,0.2,2.0,7.6,15.4,1.2,.080,-3.4,-0.2,,5408700,"Indian River in Chesapeake, Virginia"
-mournal01,2004-05,34,Toronto Raptors,NBA,18,25.4,.453,.593,7.1,0.8,0.3,2.3,10.4,13.5,0.3,.030,-4.8,-0.3,,5408700,"Indian River in Chesapeake, Virginia"
-mournal01,2004-05,34,Toronto Raptors,NBA,19,12.9,.516,.564,3.7,0.2,0.2,1.7,5.0,18.9,0.9,.173,-0.8,0.1,,5408700,"Indian River in Chesapeake, Virginia"
-mournal01,2005-06,35,Toronto Raptors,NBA,65,20.0,.597,.594,5.5,0.2,0.2,2.7,7.8,19.4,4.8,.176,0.7,0.9,,4000000,"Indian River in Chesapeake, Virginia"
-mournal01,2006-07,36,Toronto Raptors,NBA,77,20.4,.560,.601,4.5,0.2,0.2,2.3,8.6,16.7,3.5,.107,-2.0,0.0,,4225433,"Indian River in Chesapeake, Virginia"
-mournal01,2007-08,37,Miami Heat,NBA,25,15.6,.547,.592,3.7,0.3,0.2,1.7,6.0,16.2,0.8,.098,-2.5,0.0,,2762500,"Indian River in Chesapeake, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+2.48,9.57,mournal01,1992-93,CHH,20.8,8.2,.148,0.2,1.4,,NBA,2400000,22,78,33.9,.511,.781,10.3,1.0,0.3,3.5,21.0,CHH
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+2.62,6.64,mournal01,1993-94,CHH,21.7,6.3,.151,0.5,1.3,,NBA,3120000,23,60,33.6,.505,.762,10.2,1.4,0.5,3.1,21.5,CHH
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+3.25,11.54,mournal01,1994-95,CHH,20.1,9.4,.153,1.3,2.5,,NBA,3840000,24,77,38.2,.519,.761,9.9,1.4,0.6,2.9,21.3,CHH
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+4.47,12.56,mournal01,1995-96,MIA,22.7,9.9,.178,4.4,4.3,,NBA,4560000,25,70,38.2,.523,.685,10.4,2.3,1.0,2.7,23.2,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+3.87,12.41,mournal01,1996-97,MIA,21.6,8.4,.174,2.7,2.7,,NBA,9380000,26,66,35.2,.534,.642,9.9,1.6,0.8,2.9,19.8,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+3.04,7.53,mournal01,1997-98,MIA,22.4,7.5,.185,1.2,1.6,,NBA,11254800,27,58,33.4,.551,.665,9.6,0.9,0.7,2.2,19.2,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+4.91,9.58,mournal01,1998-99,MIA,24.6,7.9,.216,4.8,3.0,All-NBA (1st),NBA,13130000,28,46,38.1,.511,.652,11.0,1.6,0.7,3.9,20.1,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+5.19,15.77,mournal01,1999-00,MIA,25.8,12.9,.226,4.6,4.6,All-NBA (2nd),NBA,15004800,29,79,34.8,.551,.711,9.5,1.6,0.5,3.7,21.7,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+0.71,0.82,mournal01,2000-01,MIA,24.6,0.9,.148,0.5,0.2,,NBA,16880000,30,13,23.5,.518,.564,7.8,0.9,0.3,2.4,13.6,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+1.77,6.91,mournal01,2001-02,MIA,18.9,7.4,.145,1.1,1.9,,NBA,18754800,31,75,32.7,.516,.657,8.4,1.2,0.4,2.5,15.7,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",,,mournal01,2002-03,Did Not Play (illness—kidney disease),,,,,,,NBA,20629800,32,,,,,,,,,,Did Not Play (illness—kidney disease)
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",-2.04,0.01,mournal01,2003-04,NJN,13.3,0.6,.140,-4.4,-0.1,,NBA,4917000,33,12,17.9,.465,.882,2.3,0.7,0.2,0.5,8.0,NJN
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",-0.63,1.05,mournal01,2004-05,TOT,15.4,1.2,.080,-3.4,-0.2,,NBA,5408700,34,37,19.0,.472,.582,5.4,0.5,0.2,2.0,7.6,"NJN,MIA"
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+2.98,5.43,mournal01,2005-06,MIA,19.4,4.8,.176,0.7,0.9,,NBA,4000000,35,65,20.0,.597,.594,5.5,0.2,0.2,2.7,7.8,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",-0.14,2.36,mournal01,2006-07,MIA,16.7,3.5,.107,-2.0,0.0,,NBA,4225433,36,77,20.4,.560,.601,4.5,0.2,0.2,2.3,8.6,MIA
+Alonzo Mourning,/players/m/mournal01.html,1993,2008,Georgetown University,false,"Indian River in Chesapeake, Virginia",+0.68,0.79,mournal01,2007-08,MIA,16.2,0.8,.098,-2.5,0.0,,NBA,2762500,37,25,15.6,.547,.592,3.7,0.3,0.2,1.7,6.0,MIA

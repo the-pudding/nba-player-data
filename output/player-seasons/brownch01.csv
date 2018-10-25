@@ -1,20 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-brownch01,1989-90,21,CLE,NBA,75,17.9,.470,.762,3.1,0.7,0.4,0.3,7.3,11.9,2.2,.078,-3.8,-0.6,,"North Brunswick in Leland, North Carolina",
-brownch01,1990-91,22,Cleveland Cavaliers,NBA,74,20.1,.524,.701,2.9,1.1,0.4,0.3,8.5,12.0,1.6,.052,-3.4,-0.5,,"North Brunswick in Leland, North Carolina",630000
-brownch01,1991-92,23,Cleveland Cavaliers,NBA,42,10.3,.469,.612,2.0,0.6,0.3,0.2,3.6,10.8,0.3,.036,-4.2,-0.2,,"North Brunswick in Leland, North Carolina",640000
-brownch01,1991-92,23,Cleveland Cavaliers,NBA,6,8.3,.500,.625,1.0,0.5,0.5,0.0,2.5,10.4,0.1,.096,-1.9,0.0,,"North Brunswick in Leland, North Carolina",640000
-brownch01,1991-92,23,Cleveland Cavaliers,NBA,36,10.6,.466,.610,2.1,0.6,0.3,0.2,3.8,10.8,0.2,.029,-4.5,-0.2,,"North Brunswick in Leland, North Carolina",640000
-brownch01,1992-93,24,New Jersey Nets,NBA,77,15.4,.483,.724,3.0,0.7,0.3,0.3,5.1,11.2,2.2,.088,-2.4,-0.1,,"North Brunswick in Leland, North Carolina",140000
-brownch01,1993-94,25,DAL,NBA,1,10.0,1.000,1.000,1.0,0.0,0.0,0.0,3.0,10.8,0.0,.183,-6.1,0.0,,"North Brunswick in Leland, North Carolina",
-brownch01,1994-95,26,HOU,NBA,41,19.9,.603,.613,4.6,0.7,0.3,0.3,6.1,12.4,2.1,.123,-1.4,0.1,,"North Brunswick in Leland, North Carolina",
-brownch01,1995-96,27,Houston Rockets,NBA,82,24.6,.541,.693,5.4,1.1,0.6,0.5,8.6,13.7,4.2,.101,-1.7,0.2,,"North Brunswick in Leland, North Carolina",425000
-brownch01,1996-97,28,Milwaukee Bucks,NBA,70,10.8,.506,.671,2.1,0.4,0.1,0.3,2.9,11.3,1.6,.101,-2.7,-0.1,,"North Brunswick in Leland, North Carolina",500000
-brownch01,1996-97,28,Milwaukee Bucks,NBA,10,8.3,.500,.727,1.6,0.4,0.0,0.2,3.4,11.6,0.1,.075,-5.8,-0.1,,"North Brunswick in Leland, North Carolina",500000
-brownch01,1996-97,28,Milwaukee Bucks,NBA,60,11.2,.508,.661,2.2,0.4,0.2,0.3,2.8,11.3,1.5,.104,-2.3,0.0,,"North Brunswick in Leland, North Carolina",500000
-brownch01,1997-98,29,Atlanta Hawks,NBA,77,15.6,.433,.724,2.4,0.7,0.3,0.2,5.0,10.5,1.4,.056,-4.4,-0.7,,"North Brunswick in Leland, North Carolina",272250
-brownch01,1998-99,30,Charlotte Hornets,NBA,48,24.8,.472,.678,3.6,1.2,0.3,0.4,8.5,11.6,1.6,.066,-2.6,-0.2,,"North Brunswick in Leland, North Carolina",850000
-brownch01,1999-00,31,Charlotte Hornets,NBA,63,17.4,.451,.692,2.7,1.0,0.3,0.3,5.3,9.5,1.3,.059,-3.4,-0.4,,"North Brunswick in Leland, North Carolina",510000
-brownch01,1999-00,31,Charlotte Hornets,NBA,30,20.1,.466,.806,2.6,1.4,0.3,0.3,6.3,10.0,0.9,.073,-2.5,-0.1,,"North Brunswick in Leland, North Carolina",510000
-brownch01,1999-00,31,Charlotte Hornets,NBA,33,15.0,.434,.524,2.7,0.8,0.4,0.2,4.4,8.9,0.4,.041,-4.4,-0.3,,"North Brunswick in Leland, North Carolina",510000
-brownch01,2000-01,32,"GSW,CLE",NBA,26,13.0,.421,.647,2.1,0.4,0.3,0.3,3.9,9.7,0.4,.050,-5.2,-0.3,,"North Brunswick in Leland, North Carolina",
-brownch01,2001-02,33,SAC,NBA,18,5.1,.370,.500,1.8,0.3,0.1,0.2,1.2,10.1,0.1,.052,-3.8,0.0,,"North Brunswick in Leland, North Carolina",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.16,0.10,brownch01,1989-90,CLE,11.9,2.2,.078,-3.8,-0.6,,21,NBA,75,17.9,.470,.762,3.1,0.7,0.4,0.3,7.3,CLE,
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.75,-0.45,brownch01,1990-91,CLE,12.0,1.6,.052,-3.4,-0.5,,22,NBA,74,20.1,.524,.701,2.9,1.1,0.4,0.3,8.5,CLE,630000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.44,-0.04,brownch01,1991-92,TOT,10.8,0.3,.036,-4.2,-0.2,,23,NBA,42,10.3,.469,.612,2.0,0.6,0.3,0.2,3.6,"CLE,LAL",640000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.04,0.17,brownch01,1992-93,NJN,11.2,2.2,.088,-2.4,-0.1,,24,NBA,77,15.4,.483,.724,3.0,0.7,0.3,0.3,5.1,NJN,140000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",+0.17,0.02,brownch01,1993-94,DAL,10.8,0.0,.183,-6.1,0.0,,25,NBA,1,10.0,1.000,1.000,1.0,0.0,0.0,0.0,3.0,DAL,
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.34,-0.03,brownch01,1994-95,HOU,12.4,2.1,.123,-1.4,0.1,,26,NBA,41,19.9,.603,.613,4.6,0.7,0.3,0.3,6.1,HOU,
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-0.80,2.20,brownch01,1995-96,HOU,13.7,4.2,.101,-1.7,0.2,,27,NBA,82,24.6,.541,.693,5.4,1.1,0.6,0.5,8.6,HOU,425000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-1.64,0.33,brownch01,1996-97,TOT,11.3,1.6,.101,-2.7,-0.1,,28,NBA,70,10.8,.506,.671,2.1,0.4,0.1,0.3,2.9,"PHO,MIL",500000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.83,-0.49,brownch01,1997-98,ATL,10.5,1.4,.056,-4.4,-0.7,,29,NBA,77,15.6,.433,.724,2.4,0.7,0.3,0.2,5.0,ATL,272250
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-1.77,0.34,brownch01,1998-99,CHH,11.6,1.6,.066,-2.6,-0.2,,30,NBA,48,24.8,.472,.678,3.6,1.2,0.3,0.4,8.5,CHH,850000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-2.53,-0.28,brownch01,1999-00,TOT,9.5,1.3,.059,-3.4,-0.4,,31,NBA,63,17.4,.451,.692,2.7,1.0,0.3,0.3,5.3,"SAS,CHH",510000
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-1.13,0.25,brownch01,2000-01,TOT,9.7,0.4,.050,-5.2,-0.3,,32,NBA,26,13.0,.421,.647,2.1,0.4,0.3,0.3,3.9,"GSW,CLE",
+Chucky Brown,/players/b/brownch01.html,1990,2002,North Carolina State University,false,"North Brunswick in Leland, North Carolina",-0.83,0.09,brownch01,2001-02,SAC,10.1,0.1,.052,-3.8,0.0,,33,NBA,18,5.1,.370,.500,1.8,0.3,0.1,0.2,1.2,SAC,

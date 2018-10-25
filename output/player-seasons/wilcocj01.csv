@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wilcocj01,2014-15,24,Los Angeles Clippers,NBA,21,4.8,.421,1.000,0.3,0.4,0.1,0.0,2.0,8.5,0.0,-0.024,-6.0,-0.1,,1109760,"Pleasant Grove in Pleasant Grove, Utah"
-wilcocj01,2015-16,25,Los Angeles Clippers,NBA,23,7.3,.394,.750,0.5,0.4,0.4,0.1,3.0,12.9,0.3,.089,-2.4,0.0,,1159680,"Pleasant Grove in Pleasant Grove, Utah"
-wilcocj01,2016-17,26,Orlando Magic,NBA,22,4.9,.258,1.000,0.5,0.5,0.1,0.0,1.0,2.9,-0.2,-0.090,-8.6,-0.2,,1209680,"Pleasant Grove in Pleasant Grove, Utah"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+C.J. Wilcox,/players/w/wilcocj01.html,2015,2017,University of Washington,true,"Pleasant Grove in Pleasant Grove, Utah",-3.32,-0.08,wilcocj01,2014-15,LAC,8.5,0.0,-0.024,-6.0,-0.1,,NBA,1109760,24,21,4.8,.421,1.000,0.3,0.4,0.1,0.0,2.0,LAC
+C.J. Wilcox,/players/w/wilcocj01.html,2015,2017,University of Washington,true,"Pleasant Grove in Pleasant Grove, Utah",-0.81,0.17,wilcocj01,2015-16,LAC,12.9,0.3,.089,-2.4,0.0,,NBA,1159680,25,23,7.3,.394,.750,0.5,0.4,0.4,0.1,3.0,LAC
+C.J. Wilcox,/players/w/wilcocj01.html,2015,2017,University of Washington,true,"Pleasant Grove in Pleasant Grove, Utah",-1.47,0.06,wilcocj01,2016-17,ORL,2.9,-0.2,-0.090,-8.6,-0.2,,NBA,1209680,26,22,4.9,.258,1.000,0.5,0.5,0.1,0.0,1.0,ORL

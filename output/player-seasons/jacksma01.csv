@@ -1,22 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksma01,1987-88,22,New York Knicks,NBA,82,39.6,.432,.774,4.8,10.6,2.5,0.1,13.6,15.7,7.6,.113,2.8,3.9,,115100,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1988-89,23,New York Knicks,NBA,72,34.4,.467,.698,4.7,8.6,1.9,0.1,16.9,18.3,7.2,.140,3.3,3.3,,275000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1989-90,24,New York Knicks,NBA,82,29.6,.437,.727,3.9,7.4,1.3,0.0,9.9,14.3,3.7,.074,-0.3,1.0,,1100000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1990-91,25,New York Knicks,NBA,72,22.2,.492,.731,2.7,6.3,0.8,0.1,8.8,18.2,4.2,.126,0.4,1.0,,1785000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1991-92,26,New York Knicks,NBA,81,30.4,.491,.770,3.8,8.6,1.4,0.2,11.3,17.8,7.6,.149,2.2,2.6,,1250000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1992-93,27,Los Angeles Clippers,NBA,82,38.0,.486,.803,4.7,8.8,1.7,0.1,14.4,16.6,7.9,.122,1.7,2.9,,1790000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1993-94,28,Los Angeles Clippers,NBA,79,34.3,.452,.791,4.4,8.6,1.5,0.1,10.9,14.8,4.1,.072,-0.7,0.9,,2000000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1994-95,29,Indiana Pacers,NBA,82,29.3,.422,.778,3.7,7.5,1.3,0.2,7.6,14.0,4.5,.090,0.0,1.2,,2300000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1995-96,30,Indiana Pacers,NBA,81,32.6,.473,.785,3.8,7.8,1.2,0.1,10.0,15.9,7.2,.130,1.9,2.6,,2600000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1996-97,31,Denver Nuggets,NBA,82,37.2,.426,.789,4.8,11.4,1.2,0.1,9.9,15.7,6.1,.097,-0.9,0.9,,2900000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1996-97,31,Denver Nuggets,NBA,52,38.5,.425,.801,5.2,12.3,1.0,0.2,10.4,16.2,4.0,.097,-1.3,0.4,,2900000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1996-97,31,Denver Nuggets,NBA,30,35.1,.427,.766,4.1,9.8,1.5,0.1,9.0,14.8,2.1,.096,-0.1,0.5,,2900000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1997-98,32,Indiana Pacers,NBA,82,29.4,.416,.761,3.9,8.7,1.0,0.0,8.3,17.2,7.5,.150,1.7,2.3,,3200000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1998-99,33,Indiana Pacers,NBA,49,28.2,.419,.823,3.8,7.9,0.9,0.1,7.6,17.9,3.8,.134,1.5,1.2,,3600000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,1999-00,34,Indiana Pacers,NBA,81,27.0,.432,.806,3.7,8.0,0.9,0.1,8.1,17.7,6.7,.146,1.5,1.9,,4000000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,2000-01,35,Toronto Raptors,NBA,83,31.2,.419,.785,3.7,8.0,1.0,0.1,7.6,14.9,5.9,.110,-0.5,1.0,,3570000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,2000-01,35,Toronto Raptors,NBA,54,33.4,.422,.842,3.4,9.2,1.2,0.1,8.5,16.3,4.7,.125,-0.4,0.7,,3570000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,2000-01,35,Toronto Raptors,NBA,29,27.1,.411,.529,4.1,5.6,0.7,0.0,5.9,11.8,1.2,.074,-0.6,0.3,,3570000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,2001-02,36,New York Knicks,NBA,82,28.9,.439,.791,3.8,7.4,0.9,0.0,8.4,16.3,6.0,.123,0.4,1.4,,3860000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,2002-03,37,Denver Nuggets,NBA,82,17.9,.398,.763,2.1,4.6,0.6,0.0,4.7,12.2,1.1,.037,-3.7,-0.6,,3500000,"Bishop Loughlin Memorial in Brooklyn, New York"
-jacksma01,2003-04,38,Denver Nuggets,NBA,42,13.7,.340,.718,1.7,2.8,0.4,0.0,2.5,8.9,0.4,.034,-4.9,-0.4,,1500000,"Bishop Loughlin Memorial in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+1.97,9.83,jacksma01,1987-88,NYK,15.7,7.6,.113,2.8,3.9,,NBA,115100,22,82,39.6,.432,.774,4.8,10.6,2.5,0.1,13.6,NYK
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+2.32,8.62,jacksma01,1988-89,NYK,18.3,7.2,.140,3.3,3.3,,NBA,275000,23,72,34.4,.467,.698,4.7,8.6,1.9,0.1,16.9,NYK
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",-0.35,3.28,jacksma01,1989-90,NYK,14.3,3.7,.074,-0.3,1.0,,NBA,1100000,24,82,29.6,.437,.727,3.9,7.4,1.3,0.0,9.9,NYK
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+0.40,2.96,jacksma01,1990-91,NYK,18.2,4.2,.126,0.4,1.0,,NBA,1785000,25,72,22.2,.492,.731,2.7,6.3,0.8,0.1,8.8,NYK
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+2.09,8.37,jacksma01,1991-92,NYK,17.8,7.6,.149,2.2,2.6,,NBA,1250000,26,81,30.4,.491,.770,3.8,8.6,1.4,0.2,11.3,NYK
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+1.13,7.60,jacksma01,1992-93,LAC,16.6,7.9,.122,1.7,2.9,,NBA,1790000,27,82,38.0,.486,.803,4.7,8.8,1.7,0.1,14.4,LAC
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",-0.60,3.08,jacksma01,1993-94,LAC,14.8,4.1,.072,-0.7,0.9,,NBA,2000000,28,79,34.3,.452,.791,4.4,8.6,1.5,0.1,10.9,LAC
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+1.05,6.65,jacksma01,1994-95,IND,14.0,4.5,.090,0.0,1.2,,NBA,2300000,29,82,29.3,.422,.778,3.7,7.5,1.3,0.2,7.6,IND
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+2.01,8.11,jacksma01,1995-96,IND,15.9,7.2,.130,1.9,2.6,,NBA,2600000,30,81,32.6,.473,.785,3.8,7.8,1.2,0.1,10.0,IND
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+0.12,4.95,jacksma01,1996-97,TOT,15.7,6.1,.097,-0.9,0.9,,NBA,2900000,31,82,37.2,.426,.789,4.8,11.4,1.2,0.1,9.9,"DEN,IND"
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+2.74,9.92,jacksma01,1997-98,IND,17.2,7.5,.150,1.7,2.3,,NBA,3200000,32,82,29.4,.416,.761,3.9,8.7,1.0,0.0,8.3,IND
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+2.50,5.91,jacksma01,1998-99,IND,17.9,3.8,.134,1.5,1.2,,NBA,3600000,33,49,28.2,.419,.823,3.8,7.9,0.9,0.1,7.6,IND
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",+2.24,8.65,jacksma01,1999-00,IND,17.7,6.7,.146,1.5,1.9,,NBA,4000000,34,81,27.0,.432,.806,3.7,8.0,0.9,0.1,8.1,IND
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",-0.12,3.99,jacksma01,2000-01,TOT,14.9,5.9,.110,-0.5,1.0,,NBA,3570000,35,83,31.2,.419,.785,3.7,8.0,1.0,0.1,7.6,"TOR,NYK"
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",-0.74,2.44,jacksma01,2001-02,NYK,16.3,6.0,.123,0.4,1.4,,NBA,3860000,36,82,28.9,.439,.791,3.8,7.4,0.9,0.0,8.4,NYK
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",-1.82,0.37,jacksma01,2002-03,UTA,12.2,1.1,.037,-3.7,-0.6,,NBA,3500000,37,82,17.9,.398,.763,2.1,4.6,0.6,0.0,4.7,UTA
+Mark Jackson,/players/j/jacksma01.html,1988,2004,St. John's University,false,"Bishop Loughlin Memorial in Brooklyn, New York",-1.46,0.29,jacksma01,2003-04,HOU,8.9,0.4,.034,-4.9,-0.4,,NBA,1500000,38,42,13.7,.340,.718,1.7,2.8,0.4,0.0,2.5,HOU

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fulleto02,1996-97,22,Golden State Warriors,NBA,75,12.7,.429,.691,3.3,0.3,0.1,0.3,4.1,10.4,0.7,.034,-6.2,-1.0,,1125000,"Charlotte Christian in Charlotte, North Carolina"
-fulleto02,1997-98,23,Golden State Warriors,NBA,57,10.8,.420,.688,3.4,0.2,0.1,0.3,4.0,11.8,0.7,.053,-8.0,-0.9,,1293240,"Charlotte Christian in Charlotte, North Carolina"
-fulleto02,1998-99,24,Utah Jazz,NBA,42,11.0,.452,.600,2.4,0.1,0.1,0.3,3.4,9.1,0.6,.059,-6.2,-0.5,,1461000,"Charlotte Christian in Charlotte, North Carolina"
-fulleto02,1999-00,25,Charlotte Hornets,NBA,41,9.7,.418,.604,2.7,0.1,0.2,0.2,3.3,9.6,0.2,.029,-8.6,-0.7,,485000,"Charlotte Christian in Charlotte, North Carolina"
-fulleto02,2000-01,26,Miami Heat,NBA,10,7.7,.286,1.000,1.8,0.1,0.3,0.2,2.8,9.3,0.0,-0.002,-10.3,-0.2,,611000,"Charlotte Christian in Charlotte, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Todd Fuller,/players/f/fulleto02.html,1997,2001,North Carolina State University,false,"Charlotte Christian in Charlotte, North Carolina",-3.56,-0.76,fulleto02,1996-97,GSW,10.4,0.7,.034,-6.2,-1.0,,NBA,1125000,22,75,12.7,.429,.691,3.3,0.3,0.1,0.3,4.1,GSW
+Todd Fuller,/players/f/fulleto02.html,1997,2001,North Carolina State University,false,"Charlotte Christian in Charlotte, North Carolina",-2.70,-0.24,fulleto02,1997-98,GSW,11.8,0.7,.053,-8.0,-0.9,,NBA,1293240,23,57,10.8,.420,.688,3.4,0.2,0.1,0.3,4.0,GSW
+Todd Fuller,/players/f/fulleto02.html,1997,2001,North Carolina State University,false,"Charlotte Christian in Charlotte, North Carolina",-2.08,0.03,fulleto02,1998-99,UTA,9.1,0.6,.059,-6.2,-0.5,,NBA,1461000,24,42,11.0,.452,.600,2.4,0.1,0.1,0.3,3.4,UTA
+Todd Fuller,/players/f/fulleto02.html,1997,2001,North Carolina State University,false,"Charlotte Christian in Charlotte, North Carolina",-2.83,-0.19,fulleto02,1999-00,CHH,9.6,0.2,.029,-8.6,-0.7,,NBA,485000,25,41,9.7,.418,.604,2.7,0.1,0.2,0.2,3.3,CHH
+Todd Fuller,/players/f/fulleto02.html,1997,2001,North Carolina State University,false,"Charlotte Christian in Charlotte, North Carolina",+0.34,0.14,fulleto02,2000-01,MIA,9.3,0.0,-0.002,-10.3,-0.2,,NBA,611000,26,10,7.7,.286,1.000,1.8,0.1,0.3,0.2,2.8,MIA

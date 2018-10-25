@@ -1,19 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hilarne01,2002-03,20,Denver Nuggets,NBA,80,28.2,.519,.578,6.1,1.9,1.6,0.8,10.5,15.4,5.0,.107,2.5,2.6,,1945520,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2003-04,21,Denver Nuggets,NBA,77,32.5,.530,.682,6.5,2.2,1.5,0.5,11.8,14.8,6.1,.117,1.7,2.4,,2102840,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2004-05,22,Denver Nuggets,NBA,55,23.9,.503,.660,5.9,1.5,0.9,0.9,9.6,15.6,3.2,.118,0.6,0.9,,2260280,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2005-06,23,Denver Nuggets,NBA,1,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-54.4,-0.1,-1.312,-47.7,0.0,,3039889,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2006-07,24,Denver Nuggets,NBA,64,26.8,.570,.689,7.0,1.2,1.0,0.9,12.2,17.8,5.3,.148,1.5,1.5,,8000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2007-08,25,Denver Nuggets,NBA,16,16.6,.408,.551,5.4,0.9,0.6,0.9,5.3,11.1,0.3,.052,-3.0,-0.1,,8840000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2008-09,26,Denver Nuggets,NBA,77,32.6,.604,.723,7.8,1.4,1.2,1.3,14.6,18.8,9.3,.177,3.4,3.4,,9680000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2009-10,27,Denver Nuggets,NBA,82,33.6,.587,.704,7.6,2.5,1.4,1.0,13.8,18.9,10.8,.188,4.7,4.6,,10520000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2010-11,28,Denver Nuggets,NBA,75,30.5,.615,.711,7.6,2.0,1.1,1.0,14.5,20.4,9.6,.201,4.6,3.8,,11360000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2011-12,29,Denver Nuggets,NBA,39,28.5,.537,.673,7.5,2.1,1.1,1.0,13.7,18.6,2.7,.117,1.1,0.9,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2011-12,29,Denver Nuggets,NBA,28,29.5,.509,.677,7.4,2.2,1.3,0.9,13.4,16.7,1.6,.092,0.7,0.6,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2011-12,29,Denver Nuggets,NBA,11,25.8,.607,.657,7.5,1.7,0.5,1.2,14.5,24.2,1.1,.191,2.4,0.3,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2012-13,30,Washington Wizards,NBA,61,27.2,.480,.729,6.7,2.9,0.9,0.6,12.6,17.0,4.0,.116,1.3,1.4,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2013-14,31,Washington Wizards,NBA,53,29.4,.503,.583,5.5,2.9,1.2,0.9,14.2,16.6,3.2,.098,0.2,0.9,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2014-15,32,Washington Wizards,NBA,67,25.3,.511,.604,5.1,1.8,1.0,0.3,11.0,14.3,3.0,.086,-0.6,0.6,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2015-16,33,Washington Wizards,NBA,57,19.2,.544,.578,4.5,1.7,0.9,0.5,9.2,16.8,2.7,.120,0.2,0.6,,13000000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2016-17,34,Houston Rockets,NBA,67,17.9,.617,.589,4.2,1.0,0.8,0.6,9.1,18.9,4.1,.165,0.5,0.7,,2898000,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
-hilarne01,2017-18,35,Houston Rockets,NBA,52,14.6,.569,.636,3.4,0.9,0.5,0.3,6.5,16.4,2.6,.163,-0.8,0.2,,3477600,"Instituto Alvaro Guiao in Sao Carlos, Brazil"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+0.33,4.04,hilarne01,2002-03,DEN,15.4,5.0,.107,2.5,2.6,,NBA,1945520,20,80,28.2,.519,.578,6.1,1.9,1.6,0.8,10.5,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+1.99,7.81,hilarne01,2003-04,DEN,14.8,6.1,.117,1.7,2.4,,NBA,2102840,21,77,32.5,.530,.682,6.5,2.2,1.5,0.5,11.8,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+0.11,2.30,hilarne01,2004-05,DEN,15.6,3.2,.118,0.6,0.9,,NBA,2260280,22,55,23.9,.503,.660,5.9,1.5,0.9,0.9,9.6,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+0.01,0.00,hilarne01,2005-06,DEN,-54.4,-0.1,-1.312,-47.7,0.0,,NBA,3039889,23,1,3.0,.000,,0.0,0.0,0.0,0.0,0.0,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+1.32,4.63,hilarne01,2006-07,DEN,17.8,5.3,.148,1.5,1.5,,NBA,8000000,24,64,26.8,.570,.689,7.0,1.2,1.0,0.9,12.2,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",-1.39,0.17,hilarne01,2007-08,DEN,11.1,0.3,.052,-3.0,-0.1,,NBA,8840000,25,16,16.6,.408,.551,5.4,0.9,0.6,0.9,5.3,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+2.93,10.54,hilarne01,2008-09,DEN,18.8,9.3,.177,3.4,3.4,,NBA,9680000,26,77,32.6,.604,.723,7.8,1.4,1.2,1.3,14.6,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+3.68,11.50,hilarne01,2009-10,DEN,18.9,10.8,.188,4.7,4.6,,NBA,10520000,27,82,33.6,.587,.704,7.6,2.5,1.4,1.0,13.8,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+3.63,9.67,hilarne01,2010-11,DEN,20.4,9.6,.201,4.6,3.8,,NBA,11360000,28,75,30.5,.615,.711,7.6,2.0,1.1,1.0,14.5,DEN
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+2.05,3.31,hilarne01,2011-12,TOT,18.6,2.7,.117,1.1,0.9,,NBA,13000000,29,39,28.5,.537,.673,7.5,2.1,1.1,1.0,13.7,"DEN,WAS"
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+2.31,5.28,hilarne01,2012-13,WAS,17.0,4.0,.116,1.3,1.4,,NBA,13000000,30,61,27.2,.480,.729,6.7,2.9,0.9,0.6,12.6,WAS
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+0.68,3.82,hilarne01,2013-14,WAS,16.6,3.2,.098,0.2,0.9,,NBA,13000000,31,53,29.4,.503,.583,5.5,2.9,1.2,0.9,14.2,WAS
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+0.58,3.81,hilarne01,2014-15,WAS,14.3,3.0,.086,-0.6,0.6,,NBA,13000000,32,67,25.3,.511,.604,5.1,1.8,1.0,0.3,11.0,WAS
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+0.71,2.23,hilarne01,2015-16,WAS,16.8,2.7,.120,0.2,0.6,,NBA,13000000,33,57,19.2,.544,.578,4.5,1.7,0.9,0.5,9.2,WAS
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+1.21,3.18,hilarne01,2016-17,HOU,18.9,4.1,.165,0.5,0.7,,NBA,2898000,34,67,17.9,.617,.589,4.2,1.0,0.8,0.6,9.1,HOU
+Nene Hilario,/players/h/hilarne01.html,2003,2018,,true,"Instituto Alvaro Guiao in Sao Carlos, Brazil",+1.95,2.45,hilarne01,2017-18,HOU,16.4,2.6,.163,-0.8,0.2,,NBA,3477600,35,52,14.6,.569,.636,3.4,0.9,0.5,0.3,6.5,HOU

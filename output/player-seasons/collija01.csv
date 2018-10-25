@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-collija01,1997-98,24,Los Angeles Clippers,NBA,23,4.5,.382,.571,0.6,0.1,0.3,0.1,2.6,15.3,0.0,.008,-5.2,-0.1,,242000,"Jackson in Jacksonville, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Collins,/players/c/collija01.html,1998,1998,Florida State University,false,"Jackson in Jacksonville, Florida",-0.52,0.12,collija01,1997-98,LAC,15.3,0.0,.008,-5.2,-0.1,,NBA,242000,24,23,4.5,.382,.571,0.6,0.1,0.3,0.1,2.6,LAC

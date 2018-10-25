@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bensoke02,2011-12,23,GSW,NBA,3,3.0,.000,,1.0,0.0,0.0,0.0,0.0,6.0,0.0,-0.005,-10.4,0.0,,"Detroit Country Day School in Beverly Hills, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Benson,/players/b/bensoke02.html,2012,2012,Oakland University,false,"Detroit Country Day School in Beverly Hills, Michigan",-0.36,0.01,bensoke02,2011-12,GSW,6.0,0.0,-0.005,-10.4,0.0,,23,NBA,3,3.0,.000,,1.0,0.0,0.0,0.0,0.0,GSW

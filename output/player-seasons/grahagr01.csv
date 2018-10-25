@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grahagr01,1993-94,23,Philadelphia 76ers,NBA,70,12.7,.400,.836,1.2,0.9,0.9,0.1,4.8,11.4,0.1,.005,-4.8,-0.6,,700000,"Warren Central in Indianapolis, Indiana"
-grahagr01,1994-95,24,Philadelphia 76ers,NBA,50,15.5,.426,.753,1.2,1.3,0.6,0.1,5.0,9.5,0.3,.020,-4.5,-0.5,,910000,"Warren Central in Indianapolis, Indiana"
-grahagr01,1995-96,25,New Jersey Nets,NBA,53,11.6,.404,.765,1.1,1.0,0.5,0.0,4.5,11.1,0.8,.060,-2.9,-0.1,,1120000,"Warren Central in Indianapolis, Indiana"
-grahagr01,1995-96,25,New Jersey Nets,NBA,8,16.0,.531,.882,1.9,1.4,0.6,0.0,7.0,13.1,0.1,.048,-3.1,0.0,,1120000,"Warren Central in Indianapolis, Indiana"
-grahagr01,1995-96,25,New Jersey Nets,NBA,45,10.8,.379,.725,0.9,0.9,0.4,0.0,4.1,10.6,0.6,.063,-2.9,-0.1,,1120000,"Warren Central in Indianapolis, Indiana"
-grahagr01,1996-97,26,Seattle SuperSonics,NBA,28,7.0,.363,.650,0.5,0.4,0.4,0.0,3.3,12.6,0.3,.065,-5.2,-0.2,,1330000,"Warren Central in Indianapolis, Indiana"
-grahagr01,1997-98,27,Cleveland Cavaliers,NBA,6,9.3,.583,1.000,0.2,1.0,0.2,0.0,2.7,2.1,-0.1,-0.096,-11.5,-0.1,,1540000,"Warren Central in Indianapolis, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Graham,/players/g/grahagr01.html,1994,1998,Indiana University,false,"Warren Central in Indianapolis, Indiana",-2.69,-0.28,grahagr01,1993-94,PHI,11.4,0.1,.005,-4.8,-0.6,,NBA,700000,23,70,12.7,.400,.836,1.2,0.9,0.9,0.1,4.8,PHI
+Greg Graham,/players/g/grahagr01.html,1994,1998,Indiana University,false,"Warren Central in Indianapolis, Indiana",-3.16,-0.46,grahagr01,1994-95,PHI,9.5,0.3,.020,-4.5,-0.5,,NBA,910000,24,50,15.5,.426,.753,1.2,1.3,0.6,0.1,5.0,PHI
+Greg Graham,/players/g/grahagr01.html,1994,1998,Indiana University,false,"Warren Central in Indianapolis, Indiana",-2.17,0.03,grahagr01,1995-96,TOT,11.1,0.8,.060,-2.9,-0.1,,NBA,1120000,25,53,11.6,.404,.765,1.1,1.0,0.5,0.0,4.5,"PHI,NJN"
+Greg Graham,/players/g/grahagr01.html,1994,1998,Indiana University,false,"Warren Central in Indianapolis, Indiana",-0.71,0.25,grahagr01,1996-97,SEA,12.6,0.3,.065,-5.2,-0.2,,NBA,1330000,26,28,7.0,.363,.650,0.5,0.4,0.4,0.0,3.3,SEA
+Greg Graham,/players/g/grahagr01.html,1994,1998,Indiana University,false,"Warren Central in Indianapolis, Indiana",+0.32,0.10,grahagr01,1997-98,CLE,2.1,-0.1,-0.096,-11.5,-0.1,,NBA,1540000,27,6,9.3,.583,1.000,0.2,1.0,0.2,0.0,2.7,CLE

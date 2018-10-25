@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cheniph01,1976-77,26,WSB,NBA,78,36.4,.444,.841,3.8,3.8,1.5,0.5,20.2,15.8,5.8,.098,0.1,1.5,,"Berkeley in Berkeley, California"
-cheniph01,1977-78,27,WSB,NBA,36,26.0,.443,.790,2.8,2.0,1.0,0.3,14.1,14.8,1.8,.091,-1.9,0.0,,"Berkeley in Berkeley, California"
-cheniph01,1978-79,28,WSB,NBA,27,14.3,.437,.643,0.7,1.1,0.1,0.2,5.8,7.2,-0.1,-0.014,-7.1,-0.5,,"Berkeley in Berkeley, California"
-cheniph01,1979-80,29,"WSB,IND",NBA,43,19.8,.390,.731,1.8,2.1,0.8,0.3,7.6,9.5,0.0,.002,-4.9,-0.6,,"Berkeley in Berkeley, California"
-cheniph01,1980-81,30,GSW,NBA,9,9.1,.333,1.000,0.9,0.8,0.0,0.0,3.2,5.6,0.0,-0.016,-9.1,-0.1,,"Berkeley in Berkeley, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Phil Chenier,/players/c/cheniph01.html,1972,1981,University of California,false,"Berkeley in Berkeley, California",-0.07,4.78,cheniph01,1976-77,WSB,15.8,5.8,.098,0.1,1.5,,26,NBA,78,36.4,.444,.841,3.8,3.8,1.5,0.5,20.2,WSB
+Phil Chenier,/players/c/cheniph01.html,1972,1981,University of California,false,"Berkeley in Berkeley, California",-1.00,0.77,cheniph01,1977-78,WSB,14.8,1.8,.091,-1.9,0.0,,27,NBA,36,26.0,.443,.790,2.8,2.0,1.0,0.3,14.1,WSB
+Phil Chenier,/players/c/cheniph01.html,1972,1981,University of California,false,"Berkeley in Berkeley, California",-3.99,-0.58,cheniph01,1978-79,WSB,7.2,-0.1,-0.014,-7.1,-0.5,,28,NBA,27,14.3,.437,.643,0.7,1.1,0.1,0.2,5.8,WSB
+Phil Chenier,/players/c/cheniph01.html,1972,1981,University of California,false,"Berkeley in Berkeley, California",-2.65,-0.25,cheniph01,1979-80,TOT,9.5,0.0,.002,-4.9,-0.6,,29,NBA,43,19.8,.390,.731,1.8,2.1,0.8,0.3,7.6,"WSB,IND"
+Phil Chenier,/players/c/cheniph01.html,1972,1981,University of California,false,"Berkeley in Berkeley, California",+0.16,0.14,cheniph01,1980-81,GSW,5.6,0.0,-0.016,-9.1,-0.1,,30,NBA,9,9.1,.333,1.000,0.9,0.8,0.0,0.0,3.2,GSW

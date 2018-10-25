@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hamiljo02,2011-12,21,Denver Nuggets,NBA,26,9.9,.432,.400,2.4,0.8,0.2,0.1,4.4,13.9,0.3,.055,-2.4,0.0,,1073286,"Dominguez in Compton, California"
-hamiljo02,2012-13,22,Denver Nuggets,NBA,40,9.9,.418,.500,2.4,0.6,0.4,0.2,5.2,16.9,0.8,.100,-1.0,0.1,,1153800,"Dominguez in Compton, California"
-hamiljo02,2013-14,23,Denver Nuggets,NBA,60,17.0,.391,.784,3.2,0.9,0.7,0.3,6.7,12.7,1.6,.073,-1.0,0.3,,1169880,"Dominguez in Compton, California"
-hamiljo02,2013-14,23,Denver Nuggets,NBA,39,17.2,.390,.742,3.4,0.9,0.8,0.3,6.8,13.2,1.0,.069,-0.8,0.2,,1169880,"Dominguez in Compton, California"
-hamiljo02,2013-14,23,Denver Nuggets,NBA,21,16.6,.393,.850,2.9,0.9,0.6,0.3,6.6,11.7,0.6,.080,-1.4,0.1,,1169880,"Dominguez in Compton, California"
-hamiljo02,2014-15,24,Los Angeles Clippers,NBA,14,8.7,.400,,1.1,0.5,0.1,0.0,2.7,8.3,0.1,.059,-3.2,0.0,,150591,"Dominguez in Compton, California"
-hamiljo02,2015-16,25,New Orleans Pelicans,NBA,11,27.6,.422,.667,5.6,2.3,0.7,0.3,11.4,12.4,0.2,.030,-2.2,0.0,,119462,"Dominguez in Compton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jordan Hamilton,/players/h/hamiljo02.html,2012,2016,University of Texas at Austin,false,"Dominguez in Compton, California",-0.13,0.38,hamiljo02,2011-12,DEN,13.9,0.3,.055,-2.4,0.0,,NBA,1073286,21,26,9.9,.432,.400,2.4,0.8,0.2,0.1,4.4,DEN
+Jordan Hamilton,/players/h/hamiljo02.html,2012,2016,University of Texas at Austin,false,"Dominguez in Compton, California",-1.36,0.25,hamiljo02,2012-13,DEN,16.9,0.8,.100,-1.0,0.1,,NBA,1153800,22,40,9.9,.418,.500,2.4,0.6,0.4,0.2,5.2,DEN
+Jordan Hamilton,/players/h/hamiljo02.html,2012,2016,University of Texas at Austin,false,"Dominguez in Compton, California",-1.39,0.60,hamiljo02,2013-14,TOT,12.7,1.6,.073,-1.0,0.3,,NBA,1169880,23,60,17.0,.391,.784,3.2,0.9,0.7,0.3,6.7,"DEN,HOU"
+Jordan Hamilton,/players/h/hamiljo02.html,2012,2016,University of Texas at Austin,false,"Dominguez in Compton, California",-3.24,-0.08,hamiljo02,2014-15,LAC,8.3,0.1,.059,-3.2,0.0,,NBA,150591,24,14,8.7,.400,,1.1,0.5,0.1,0.0,2.7,LAC
+Jordan Hamilton,/players/h/hamiljo02.html,2012,2016,University of Texas at Austin,false,"Dominguez in Compton, California",-1.81,0.10,hamiljo02,2015-16,NOP,12.4,0.2,.030,-2.2,0.0,,NBA,119462,25,11,27.6,.422,.667,5.6,2.3,0.7,0.3,11.4,NOP

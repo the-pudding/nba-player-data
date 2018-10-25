@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-reiddo01,1995-96,22,Detroit Pistons,NBA,69,14.4,.567,.662,2.9,0.2,0.7,0.6,3.8,12.1,2.9,.141,0.1,0.5,,200000,"Largo in Largo, Maryland"
-reiddo01,1996-97,23,Detroit Pistons,NBA,47,9.8,.482,.750,2.1,0.3,0.3,0.3,2.8,11.1,1.0,.109,-1.9,0.0,,400000,"Largo in Largo, Maryland"
-reiddo01,1997-98,24,Detroit Pistons,NBA,68,14.6,.534,.704,2.6,0.4,0.4,0.8,3.5,11.4,2.8,.135,0.8,0.7,,1000000,"Largo in Largo, Maryland"
-reiddo01,1998-99,25,Detroit Pistons,NBA,47,19.9,.557,.608,3.6,0.7,0.6,0.9,5.1,12.5,2.7,.139,1.7,0.9,,800000,"Largo in Largo, Maryland"
-reiddo01,1999-00,26,Detroit Pistons,NBA,38,13.1,.536,.706,2.7,0.3,0.6,0.8,3.8,12.1,1.1,.110,0.3,0.3,,1000000,"Largo in Largo, Maryland"
-reiddo01,1999-00,26,Detroit Pistons,NBA,21,7.9,.471,.500,1.2,0.0,0.2,0.6,1.7,4.1,0.0,-0.006,-5.6,-0.2,,1000000,"Largo in Largo, Maryland"
-reiddo01,1999-00,26,Detroit Pistons,NBA,17,19.6,.564,.750,4.5,0.6,1.1,1.1,6.4,16.0,1.2,.167,3.2,0.4,,1000000,"Largo in Largo, Maryland"
-reiddo01,2000-01,27,Orlando Magic,NBA,65,11.8,.566,.613,3.7,0.3,0.4,0.8,3.2,13.1,2.3,.141,-0.6,0.3,,611000,"Largo in Largo, Maryland"
-reiddo01,2001-02,28,Orlando Magic,NBA,68,10.5,.474,.647,2.6,0.4,0.3,0.6,3.3,10.1,0.9,.062,-3.2,-0.2,,1000000,"Largo in Largo, Maryland"
-reiddo01,2002-03,29,Detroit Pistons,NBA,1,10.0,.000,.500,0.0,0.0,0.0,0.0,1.0,-17.3,-0.1,-0.285,-19.5,0.0,,1100000,"Largo in Largo, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",+0.39,1.85,reiddo01,1995-96,DET,12.1,2.9,.141,0.1,0.5,,NBA,200000,22,69,14.4,.567,.662,2.9,0.2,0.7,0.6,3.8,DET
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",-0.86,0.44,reiddo01,1996-97,DET,11.1,1.0,.109,-1.9,0.0,,NBA,400000,23,47,9.8,.482,.750,2.1,0.3,0.3,0.3,2.8,DET
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",-0.13,1.44,reiddo01,1997-98,DET,11.4,2.8,.135,0.8,0.7,,NBA,1000000,24,68,14.6,.534,.704,2.6,0.4,0.4,0.8,3.5,DET
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",+0.46,1.79,reiddo01,1998-99,DET,12.5,2.7,.139,1.7,0.9,,NBA,800000,25,47,19.9,.557,.608,3.6,0.7,0.6,0.9,5.1,DET
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",-0.01,0.76,reiddo01,1999-00,TOT,12.1,1.1,.110,0.3,0.3,,NBA,1000000,26,38,13.1,.536,.706,2.7,0.3,0.6,0.8,3.8,"DET,WAS"
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",-0.58,0.88,reiddo01,2000-01,ORL,13.1,2.3,.141,-0.6,0.3,,NBA,611000,27,65,11.8,.566,.613,3.7,0.3,0.4,0.8,3.2,ORL
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",-2.92,-0.40,reiddo01,2001-02,ORL,10.1,0.9,.062,-3.2,-0.2,,NBA,1000000,28,68,10.5,.474,.647,2.6,0.4,0.3,0.6,3.3,ORL
+Don Reid,/players/r/reiddo01.html,1996,2003,Georgetown University,false,"Largo in Largo, Maryland",+0.59,0.02,reiddo01,2002-03,DET,-17.3,-0.1,-0.285,-19.5,0.0,,NBA,1100000,29,1,10.0,.000,.500,0.0,0.0,0.0,0.0,1.0,DET

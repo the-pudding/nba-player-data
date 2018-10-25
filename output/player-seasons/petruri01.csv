@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-petruri01,1993-94,25,Houston Rockets,NBA,22,4.2,.435,.750,1.4,0.0,0.1,0.1,2.4,12.3,0.0,-0.014,-10.8,-0.2,,150000,"Gymnasium Levice in Levice, Slovakia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Richard Petruska,/players/p/petruri01.html,1994,1994,"Loyola Marymount University, University of California, Los Angeles",false,"Gymnasium Levice in Levice, Slovakia",-0.38,0.12,petruri01,1993-94,HOU,12.3,0.0,-0.014,-10.8,-0.2,,NBA,150000,25,22,4.2,.435,.750,1.4,0.0,0.1,0.1,2.4,HOU

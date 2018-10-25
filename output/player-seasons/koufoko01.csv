@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-koufoko01,2008-09,19,Utah Jazz,NBA,48,11.8,.508,.706,2.9,0.4,0.3,0.6,4.7,15.2,1.3,.112,-1.6,0.1,,1129320,"GlenOak in Canton, Ohio"
-koufoko01,2009-10,20,Utah Jazz,NBA,36,4.8,.468,.600,1.3,0.2,0.1,0.1,1.5,7.7,0.0,.014,-6.6,-0.2,,1214040,"GlenOak in Canton, Ohio"
-koufoko01,2010-11,21,Denver Nuggets,NBA,50,8.7,.453,.558,2.6,0.1,0.2,0.5,3.2,12.6,0.2,.027,-6.7,-0.5,,1352640,"GlenOak in Canton, Ohio"
-koufoko01,2010-11,21,Denver Nuggets,NBA,39,8.6,.435,.500,2.5,0.2,0.2,0.5,2.7,10.4,0.0,-0.004,-5.8,-0.3,,1352640,"GlenOak in Canton, Ohio"
-koufoko01,2010-11,21,Denver Nuggets,NBA,11,8.9,.500,.632,3.0,0.0,0.2,0.5,4.9,20.3,0.3,.133,-9.7,-0.2,,1352640,"GlenOak in Canton, Ohio"
-koufoko01,2011-12,22,Denver Nuggets,NBA,48,16.5,.599,.600,5.4,0.3,0.5,0.9,5.5,17.3,2.7,.163,1.0,0.6,,2203792,"GlenOak in Canton, Ohio"
-koufoko01,2012-13,23,Denver Nuggets,NBA,81,22.4,.581,.558,6.9,0.4,0.5,1.3,8.0,17.2,6.5,.171,1.5,1.6,,3000000,"GlenOak in Canton, Ohio"
-koufoko01,2013-14,24,Memphis Grizzlies,NBA,80,16.9,.495,.645,5.2,0.5,0.4,0.9,6.4,16.5,3.5,.124,-0.9,0.4,,3000000,"GlenOak in Canton, Ohio"
-koufoko01,2014-15,25,Memphis Grizzlies,NBA,81,16.6,.508,.647,5.3,0.5,0.4,0.8,5.2,14.2,3.3,.118,-1.5,0.2,,3000000,"GlenOak in Canton, Ohio"
-koufoko01,2015-16,26,Sacramento Kings,NBA,78,19.0,.532,.548,5.4,0.4,0.5,0.9,6.8,15.1,3.5,.113,-1.2,0.3,,7500000,"GlenOak in Canton, Ohio"
-koufoko01,2016-17,27,Sacramento Kings,NBA,71,20.0,.551,.613,5.7,0.7,0.5,0.7,6.6,13.8,2.6,.089,-1.9,0.0,,8046500,"GlenOak in Canton, Ohio"
-koufoko01,2017-18,28,Sacramento Kings,NBA,71,19.6,.571,.446,6.6,1.2,0.7,0.5,6.7,17.5,3.9,.134,0.5,0.9,,8393000,"GlenOak in Canton, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",-0.90,0.52,koufoko01,2008-09,UTA,15.2,1.3,.112,-1.6,0.1,,NBA,1129320,19,48,11.8,.508,.706,2.9,0.4,0.3,0.6,4.7,UTA
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",-2.13,0.01,koufoko01,2009-10,UTA,7.7,0.0,.014,-6.6,-0.2,,NBA,1214040,20,36,4.8,.468,.600,1.3,0.2,0.1,0.1,1.5,UTA
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",-1.97,0.10,koufoko01,2010-11,TOT,12.6,0.2,.027,-6.7,-0.5,,NBA,1352640,21,50,8.7,.453,.558,2.6,0.1,0.2,0.5,3.2,"MIN,DEN"
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",+1.20,1.93,koufoko01,2011-12,DEN,17.3,2.7,.163,1.0,0.6,,NBA,2203792,22,48,16.5,.599,.600,5.4,0.3,0.5,0.9,5.5,DEN
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",+1.94,5.48,koufoko01,2012-13,DEN,17.2,6.5,.171,1.5,1.6,,NBA,3000000,23,81,22.4,.581,.558,6.9,0.4,0.5,1.3,8.0,DEN
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",+0.52,2.66,koufoko01,2013-14,MEM,16.5,3.5,.124,-0.9,0.4,,NBA,3000000,24,80,16.9,.495,.645,5.2,0.5,0.4,0.9,6.4,MEM
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",+0.46,2.76,koufoko01,2014-15,MEM,14.2,3.3,.118,-1.5,0.2,,NBA,3000000,25,81,16.6,.508,.647,5.3,0.5,0.4,0.8,5.2,MEM
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",-2.25,0.00,koufoko01,2015-16,SAC,15.1,3.5,.113,-1.2,0.3,,NBA,7500000,26,78,19.0,.532,.548,5.4,0.4,0.5,0.9,6.8,SAC
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",-1.07,1.16,koufoko01,2016-17,SAC,13.8,2.6,.089,-1.9,0.0,,NBA,8046500,27,71,20.0,.551,.613,5.7,0.7,0.5,0.7,6.6,SAC
+Kosta Koufos,/players/k/koufoko01.html,2009,2018,Ohio State University,true,"GlenOak in Canton, Ohio",-0.80,1.38,koufoko01,2017-18,SAC,17.5,3.9,.134,0.5,0.9,,NBA,8393000,28,71,19.6,.571,.446,6.6,1.2,0.7,0.5,6.7,SAC

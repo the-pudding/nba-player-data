@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-udohek01,2010-11,23,Golden State Warriors,NBA,58,17.8,.437,.656,3.1,0.7,0.4,1.5,4.1,9.7,0.7,.032,-2.0,0.0,,3065040,"Sante Fe in Edmond, Oklahoma"
-udohek01,2011-12,24,Golden State Warriors,NBA,61,21.1,.431,.754,4.2,0.9,0.7,1.7,5.6,12.5,2.1,.077,0.2,0.7,,3294960,"Sante Fe in Edmond, Oklahoma"
-udohek01,2011-12,24,Golden State Warriors,NBA,38,21.8,.443,.719,3.9,0.8,0.7,1.7,5.5,11.5,0.9,.054,-0.5,0.3,,3294960,"Sante Fe in Edmond, Oklahoma"
-udohek01,2011-12,24,Golden State Warriors,NBA,23,20.1,.409,.800,4.7,1.1,0.7,1.6,5.7,14.3,1.1,.119,1.5,0.4,,3294960,"Sante Fe in Edmond, Oklahoma"
-udohek01,2012-13,25,Milwaukee Bucks,NBA,76,17.3,.435,.748,3.3,0.6,0.5,1.1,4.3,12.0,2.7,.098,-0.5,0.5,,3524880,"Sante Fe in Edmond, Oklahoma"
-udohek01,2013-14,26,Milwaukee Bucks,NBA,42,19.1,.399,.638,3.5,0.7,0.4,1.0,3.4,7.6,0.0,.000,-3.5,-0.3,,4469548,"Sante Fe in Edmond, Oklahoma"
-udohek01,2014-15,27,Los Angeles Clippers,NBA,33,3.9,.458,.778,0.8,0.2,0.2,0.2,0.9,11.6,0.3,.101,0.7,0.1,,981084,"Sante Fe in Edmond, Oklahoma"
-udohek01,2015-16,28,Did Not Play,,,,,,,,,,,,,,,,,,"Sante Fe in Edmond, Oklahoma"
-udohek01,2016-17,29,Did Not Play,,,,,,,,,,,,,,,,,,"Sante Fe in Edmond, Oklahoma"
-udohek01,2017-18,30,Utah Jazz,NBA,63,12.9,.500,.750,2.4,0.8,0.7,1.2,2.6,15.2,3.2,.187,5.7,1.6,,3200000,"Sante Fe in Edmond, Oklahoma"
-udohek01,2018-19,31,UTA,NBA,2,3.5,,,1.0,0.5,0.0,0.5,0.0,8.1,0.0,.046,5.0,0.0,,,"Sante Fe in Edmond, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",+0.86,2.18,udohek01,2010-11,GSW,9.7,0.7,.032,-2.0,0.0,,NBA,3065040,23,58,17.8,.437,.656,3.1,0.7,0.4,1.5,4.1,GSW
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",+2.25,4.00,udohek01,2011-12,TOT,12.5,2.1,.077,0.2,0.7,,NBA,3294960,24,61,21.1,.431,.754,4.2,0.9,0.7,1.7,5.6,"GSW,MIL"
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",-1.08,1.07,udohek01,2012-13,MIL,12.0,2.7,.098,-0.5,0.5,,NBA,3524880,25,76,17.3,.435,.748,3.3,0.6,0.5,1.1,4.3,MIL
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",-3.35,-0.55,udohek01,2013-14,MIL,7.6,0.0,.000,-3.5,-0.3,,NBA,4469548,26,42,19.1,.399,.638,3.5,0.7,0.4,1.0,3.4,MIL
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",-3.01,-0.08,udohek01,2014-15,LAC,11.6,0.3,.101,0.7,0.1,,NBA,981084,27,33,3.9,.458,.778,0.8,0.2,0.2,0.2,0.9,LAC
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",,,udohek01,2015-16,Did Not Play,,,,,,,,,28,,,,,,,,,,Did Not Play
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",,,udohek01,2016-17,Did Not Play,,,,,,,,,29,,,,,,,,,,Did Not Play
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",+1.05,1.88,udohek01,2017-18,UTA,15.2,3.2,.187,5.7,1.6,,NBA,3200000,30,63,12.9,.500,.750,2.4,0.8,0.7,1.2,2.6,UTA
+Ekpe Udoh,/players/u/udohek01.html,2011,2019,"University of Michigan, Baylor University",true,"Sante Fe in Edmond, Oklahoma",,,udohek01,2018-19,UTA,8.1,0.0,.046,5.0,0.0,,NBA,,31,2,3.5,,,1.0,0.5,0.0,0.5,0.0,UTA

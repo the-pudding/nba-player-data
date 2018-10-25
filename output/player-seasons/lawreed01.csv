@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lawreed01,1980-81,28,DET,NBA,3,6.3,.625,.500,1.3,0.3,0.3,0.0,4.0,19.4,0.1,.201,1.0,0.0,,"W.O. Boston in Lake Charles, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Edmund Lawrence,/players/l/lawreed01.html,1981,1981,McNeese State University,false,"W.O. Boston in Lake Charles, Louisiana",+0.90,0.04,lawreed01,1980-81,DET,19.4,0.1,.201,1.0,0.0,,28,NBA,3,6.3,.625,.500,1.3,0.3,0.3,0.0,4.0,DET

@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-walljo01,2010-11,20,Washington Wizards,NBA,69,37.8,.409,.766,4.6,8.3,1.8,0.5,16.4,15.8,2.2,.041,-0.2,1.2,,5144280,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2011-12,21,Washington Wizards,NBA,66,36.2,.423,.789,4.5,8.0,1.4,0.9,16.3,17.7,3.5,.071,0.6,1.6,,5530080,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2012-13,22,Washington Wizards,NBA,49,32.7,.441,.804,4.0,7.6,1.3,0.8,18.5,20.8,4.5,.134,3.4,2.2,,5915880,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2013-14,23,Washington Wizards,NBA,82,36.3,.433,.805,4.1,8.8,1.8,0.5,19.3,19.5,7.9,.128,2.6,3.4,,7459925,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2014-15,24,Washington Wizards,NBA,79,35.9,.445,.785,4.6,10.0,1.7,0.6,17.6,19.9,7.8,.132,3.5,3.9,,14746000,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2015-16,25,Washington Wizards,NBA,77,36.2,.424,.791,4.9,10.2,1.9,0.8,19.9,19.8,5.7,.098,3.2,3.7,,15851950,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2016-17,26,Washington Wizards,NBA,78,36.4,.451,.801,4.2,10.7,2.0,0.6,23.1,23.2,8.8,.149,4.1,4.3,All-NBA (3rd),16957900,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2017-18,27,Washington Wizards,NBA,41,34.4,.420,.726,3.7,9.6,1.4,1.1,19.4,19.1,2.7,.092,1.5,1.2,,18063850,"Word of God Academy in Raleigh, North Carolina"
-walljo01,2018-19,28,WAS,NBA,4,34.8,.413,.684,3.3,7.5,1.5,1.5,20.0,16.8,0.0,.003,-0.1,0.1,,,"Word of God Academy in Raleigh, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",-1.96,0.55,walljo01,2010-11,WAS,15.8,2.2,.041,-0.2,1.2,,NBA,5144280,20,69,37.8,.409,.766,4.6,8.3,1.8,0.5,16.4,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",-0.94,2.12,walljo01,2011-12,WAS,17.7,3.5,.071,0.6,1.6,,NBA,5530080,21,66,36.2,.423,.789,4.5,8.0,1.4,0.9,16.3,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",+1.91,4.62,walljo01,2012-13,WAS,20.8,4.5,.134,3.4,2.2,,NBA,5915880,22,49,32.7,.441,.804,4.0,7.6,1.3,0.8,18.5,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",+2.84,11.84,walljo01,2013-14,WAS,19.5,7.9,.128,2.6,3.4,,NBA,7459925,23,82,36.3,.433,.805,4.1,8.8,1.8,0.5,19.3,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",+4.00,13.36,walljo01,2014-15,WAS,19.9,7.8,.132,3.5,3.9,,NBA,14746000,24,79,35.9,.445,.785,4.6,10.0,1.7,0.6,17.6,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",+2.77,9.59,walljo01,2015-16,WAS,19.8,5.7,.098,3.2,3.7,,NBA,15851950,25,77,36.2,.424,.791,4.9,10.2,1.9,0.8,19.9,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",+3.01,11.64,walljo01,2016-17,WAS,23.2,8.8,.149,4.1,4.3,All-NBA (3rd),NBA,16957900,26,78,36.4,.451,.801,4.2,10.7,2.0,0.6,23.1,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",+1.89,4.59,walljo01,2017-18,WAS,19.1,2.7,.092,1.5,1.2,,NBA,18063850,27,41,34.4,.420,.726,3.7,9.6,1.4,1.1,19.4,WAS
+John Wall,/players/w/walljo01.html,2011,2019,University of Kentucky,true,"Word of God Academy in Raleigh, North Carolina",,,walljo01,2018-19,WAS,16.8,0.0,.003,-0.1,0.1,,NBA,,28,4,34.8,.413,.684,3.3,7.5,1.5,1.5,20.0,WAS

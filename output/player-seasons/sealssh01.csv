@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sealssh01,1997-98,22,Los Angeles Lakers,NBA,4,2.3,.125,.500,1.0,0.0,0.3,0.0,1.0,4.9,-0.1,-0.270,-24.6,-0.1,,242000,"McLain in Tulsa, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shea Seals,/players/s/sealssh01.html,1998,1998,University of Tulsa,false,"McLain in Tulsa, Oklahoma",-0.23,0.01,sealssh01,1997-98,LAL,4.9,-0.1,-0.270,-24.6,-0.1,,NBA,242000,22,4,2.3,.125,.500,1.0,0.0,0.3,0.0,1.0,LAL

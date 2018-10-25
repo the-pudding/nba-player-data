@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-murpher01,2013-14,23,CHI,NBA,24,2.6,.231,,0.3,0.1,0.0,0.2,0.3,0.2,-0.1,-0.055,-8.1,-0.1,,"St. Mark's in Southborough, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Erik Murphy,/players/m/murpher01.html,2014,2014,University of Florida,false,"St. Mark's in Southborough, Massachusetts",-0.34,0.08,murpher01,2013-14,CHI,0.2,-0.1,-0.055,-8.1,-0.1,,23,NBA,24,2.6,.231,,0.3,0.1,0.0,0.2,0.3,CHI

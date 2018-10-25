@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-emmetan01,2004-05,22,Memphis Grizzlies,NBA,8,3.5,.333,.600,0.3,0.0,0.0,0.0,0.9,0.9,0.0,-0.038,-12.9,-0.1,,385277,"David W. Carter in Dallas, Texas"
-emmetan01,2005-06,23,Miami Heat,NBA,,,,,,,,,,,,,,,,641748,"David W. Carter in Dallas, Texas"
-emmetan01,2006-07,24,"Did Not Play (other pro league—Lithuania, D-League)",,,,,,,,,,,,,,,,,,"David W. Carter in Dallas, Texas"
-emmetan01,2007-08,25,Did Not Play (other pro league—Belgium),,,,,,,,,,,,,,,,,,"David W. Carter in Dallas, Texas"
-emmetan01,2008-09,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,"David W. Carter in Dallas, Texas"
-emmetan01,2009-10,27,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,,"David W. Carter in Dallas, Texas"
-emmetan01,2010-11,28,"Did Not Play (other pro league—China, D-League)",,,,,,,,,,,,,,,,,,"David W. Carter in Dallas, Texas"
-emmetan01,2011-12,29,New Jersey Nets,NBA,6,7.5,.571,.625,1.0,0.2,0.3,0.2,2.2,13.3,0.1,.089,-2.9,0.0,,61433,"David W. Carter in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",-0.18,0.04,emmetan01,2004-05,MEM,0.9,0.0,-0.038,-12.9,-0.1,,NBA,385277,22,8,3.5,.333,.600,0.3,0.0,0.0,0.0,0.9,MEM
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",,,emmetan01,2005-06,Did Not Play (other pro league—D-League),,,,,,,NBA,641748,23,,,,,,,,,,Did Not Play (other pro league—D-League)
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",,,emmetan01,2006-07,"Did Not Play (other pro league—Lithuania, D-League)",,,,,,,,,24,,,,,,,,,,"Did Not Play (other pro league—Lithuania, D-League)"
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",,,emmetan01,2007-08,Did Not Play (other pro league—Belgium),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Belgium)
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",,,emmetan01,2008-09,Did Not Play (other pro league—France),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—France)
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",,,emmetan01,2009-10,Did Not Play (other pro league—China),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—China)
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",,,emmetan01,2010-11,"Did Not Play (other pro league—China, D-League)",,,,,,,,,28,,,,,,,,,,"Did Not Play (other pro league—China, D-League)"
+Andre Emmett,/players/e/emmetan01.html,2005,2012,Texas Tech University,false,"David W. Carter in Dallas, Texas",-0.49,0.05,emmetan01,2011-12,NJN,13.3,0.1,.089,-2.9,0.0,,NBA,61433,29,6,7.5,.571,.625,1.0,0.2,0.3,0.2,2.2,NJN

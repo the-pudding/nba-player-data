@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wilsoja02,2017-18,27,Los Angeles Clippers,NBA,15,18.3,.469,.500,2.1,0.7,0.3,0.5,7.0,11.4,0.5,.096,0.0,0.1,,,"William Horlick High School in Racine, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jamil Wilson,/players/w/wilsoja02.html,2018,2018,"University of Oregon, Marquette University",true,"William Horlick High School in Racine, Wisconsin",-0.25,0.38,wilsoja02,2017-18,LAC,11.4,0.5,.096,0.0,0.1,,NBA,,27,15,18.3,.469,.500,2.1,0.7,0.3,0.5,7.0,LAC

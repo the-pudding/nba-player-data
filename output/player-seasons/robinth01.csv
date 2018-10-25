@@ -1,10 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-robinth01,2012-13,21,Houston Rockets,NBA,70,15.1,.430,.523,4.5,0.7,0.6,0.4,4.8,10.9,-0.1,-0.002,-4.5,-0.7,,3374640,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2012-13,21,Houston Rockets,NBA,51,15.9,.424,.577,4.7,0.7,0.5,0.4,4.8,10.6,-0.2,-0.010,-4.8,-0.6,,3374640,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2012-13,21,Houston Rockets,NBA,19,13.0,.449,.421,4.1,0.5,0.8,0.3,4.5,12.0,0.1,.024,-3.4,-0.1,,3374640,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2013-14,22,Portland Trail Blazers,NBA,70,12.5,.481,.564,4.4,0.5,0.3,0.3,4.8,14.1,1.6,.090,-3.2,-0.3,,3526440,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2014-15,23,Philadelphia 76ers,NBA,54,14.8,.485,.528,5.6,0.6,0.6,0.4,5.7,15.3,1.5,.089,-2.7,-0.1,,3678360,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2014-15,23,Philadelphia 76ers,NBA,32,12.2,.516,.438,4.2,0.3,0.5,0.3,3.6,11.0,0.5,.059,-3.8,-0.2,,3678360,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2014-15,23,Philadelphia 76ers,NBA,22,18.5,.467,.603,7.7,1.1,0.7,0.4,8.8,19.3,1.0,.118,-1.6,0.0,,3678360,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2015-16,24,Brooklyn Nets,NBA,71,12.9,.447,.431,5.1,0.6,0.5,0.5,4.3,14.5,0.6,.033,-2.9,-0.2,,981300,"Brewster Academy in Wolfeboro, New Hampshire"
-robinth01,2016-17,25,Los Angeles Lakers,NBA,48,11.7,.536,.470,4.6,0.6,0.5,0.2,5.0,17.3,0.9,.079,-2.3,0.0,,1050961,"Brewster Academy in Wolfeboro, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Thomas Robinson,/players/r/robinth01.html,2013,2017,University of Kansas,true,"Brewster Academy in Wolfeboro, New Hampshire",-3.05,-0.55,robinth01,2012-13,TOT,10.9,-0.1,-0.002,-4.5,-0.7,,NBA,3374640,21,70,15.1,.430,.523,4.5,0.7,0.6,0.4,4.8,"SAC,HOU"
+Thomas Robinson,/players/r/robinth01.html,2013,2017,University of Kansas,true,"Brewster Academy in Wolfeboro, New Hampshire",-3.30,-0.64,robinth01,2013-14,POR,14.1,1.6,.090,-3.2,-0.3,,NBA,3526440,22,70,12.5,.481,.564,4.4,0.5,0.3,0.3,4.8,POR
+Thomas Robinson,/players/r/robinth01.html,2013,2017,University of Kansas,true,"Brewster Academy in Wolfeboro, New Hampshire",-0.25,1.09,robinth01,2014-15,TOT,15.3,1.5,.089,-2.7,-0.1,,NBA,3678360,23,54,14.8,.485,.528,5.6,0.6,0.6,0.4,5.7,"POR,PHI"
+Thomas Robinson,/players/r/robinth01.html,2013,2017,University of Kansas,true,"Brewster Academy in Wolfeboro, New Hampshire",-2.87,-0.38,robinth01,2015-16,BRK,14.5,0.6,.033,-2.9,-0.2,,NBA,981300,24,71,12.9,.447,.431,5.1,0.6,0.5,0.5,4.3,BRK
+Thomas Robinson,/players/r/robinth01.html,2013,2017,University of Kansas,true,"Brewster Academy in Wolfeboro, New Hampshire",-0.76,0.58,robinth01,2016-17,LAL,17.3,0.9,.079,-2.3,0.0,,NBA,1050961,25,48,11.7,.536,.470,4.6,0.6,0.5,0.2,5.0,LAL

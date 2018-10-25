@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-santida01,2000-01,24,Phoenix Suns,NBA,54,10.8,.478,.689,1.9,0.2,0.3,0.4,3.1,7.9,0.6,.052,-4.6,-0.4,,316969,
-santida01,2001-02,25,Phoenix Suns,NBA,3,8.0,.500,,2.3,0.7,0.0,0.3,2.7,9.6,0.0,.025,-6.7,0.0,,465850,
-santida01,2002-03,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,
-santida01,2003-04,27,Milwaukee Bucks,NBA,54,13.1,.479,.678,2.4,0.4,0.4,0.4,4.0,11.2,1.2,.083,-2.0,0.0,,1200000,
-santida01,2004-05,28,Milwaukee Bucks,NBA,11,9.5,.333,.727,1.7,0.1,0.3,0.4,2.0,4.3,0.0,.012,-5.8,-0.1,,1320000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Daniel Santiago,/players/s/santida01.html,2001,2005,"University of New Mexico, Saint Vincent College",false,,-1.77,0.13,santida01,2000-01,PHO,7.9,0.6,.052,-4.6,-0.4,,NBA,316969,24,54,10.8,.478,.689,1.9,0.2,0.3,0.4,3.1,PHO
+Daniel Santiago,/players/s/santida01.html,2001,2005,"University of New Mexico, Saint Vincent College",false,,+0.66,0.05,santida01,2001-02,PHO,9.6,0.0,.025,-6.7,0.0,,NBA,465850,25,3,8.0,.500,,2.3,0.7,0.0,0.3,2.7,PHO
+Daniel Santiago,/players/s/santida01.html,2001,2005,"University of New Mexico, Saint Vincent College",false,,,,santida01,2002-03,Did Not Play (other pro league—Italy),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Italy)
+Daniel Santiago,/players/s/santida01.html,2001,2005,"University of New Mexico, Saint Vincent College",false,,-0.01,1.09,santida01,2003-04,MIL,11.2,1.2,.083,-2.0,0.0,,NBA,1200000,27,54,13.1,.479,.678,2.4,0.4,0.4,0.4,4.0,MIL
+Daniel Santiago,/players/s/santida01.html,2001,2005,"University of New Mexico, Saint Vincent College",false,,-0.43,0.13,santida01,2004-05,MIL,4.3,0.0,.012,-5.8,-0.1,,NBA,1320000,28,11,9.5,.333,.727,1.7,0.1,0.3,0.4,2.0,MIL

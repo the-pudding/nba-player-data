@@ -1,18 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davisba01,1999-00,20,Charlotte Hornets,NBA,82,18.6,.420,.634,2.0,3.8,1.2,0.2,5.9,12.9,2.1,.065,-1.1,0.3,,2712480,"Crossroads in Santa Monica, California"
-davisba01,2000-01,21,Charlotte Hornets,NBA,82,38.9,.427,.677,5.0,7.3,2.1,0.4,13.8,16.6,8.9,.134,3.3,4.3,,2916000,"Crossroads in Santa Monica, California"
-davisba01,2001-02,22,Charlotte Hornets,NBA,82,40.5,.417,.580,4.3,8.5,2.1,0.6,18.1,18.2,8.2,.118,4.2,5.2,,3119400,"Crossroads in Santa Monica, California"
-davisba01,2002-03,23,New Orleans Hornets,NBA,50,37.8,.416,.710,3.7,6.4,1.8,0.4,17.1,16.9,4.5,.113,2.7,2.2,,3942922,"Crossroads in Santa Monica, California"
-davisba01,2003-04,24,New Orleans Hornets,NBA,67,40.1,.395,.673,4.3,7.5,2.4,0.4,22.9,20.7,7.5,.133,5.6,5.2,All-NBA (3rd),10960000,"Crossroads in Santa Monica, California"
-davisba01,2004-05,25,New Orleans Hornets,NBA,46,34.4,.387,.761,3.8,7.9,1.8,0.3,19.2,20.8,4.4,.132,4.7,2.7,,12330000,"Crossroads in Santa Monica, California"
-davisba01,2004-05,25,New Orleans Hornets,NBA,18,32.9,.366,.771,3.7,7.2,1.7,0.2,18.9,21.4,1.7,.138,6.4,1.2,,12330000,"Crossroads in Santa Monica, California"
-davisba01,2004-05,25,New Orleans Hornets,NBA,28,35.3,.401,.755,3.9,8.3,1.8,0.4,19.5,20.4,2.6,.129,3.7,1.4,,12330000,"Crossroads in Santa Monica, California"
-davisba01,2005-06,26,Golden State Warriors,NBA,54,36.5,.389,.675,4.4,8.9,1.6,0.3,17.9,18.3,4.4,.106,3.2,2.6,,13700000,"Crossroads in Santa Monica, California"
-davisba01,2006-07,27,Golden State Warriors,NBA,63,35.3,.439,.745,4.4,8.1,2.1,0.5,20.1,21.0,6.4,.139,3.4,3.1,,15070000,"Crossroads in Santa Monica, California"
-davisba01,2007-08,28,Golden State Warriors,NBA,82,39.0,.426,.750,4.7,7.6,2.3,0.5,21.8,19.8,8.7,.131,3.6,4.5,,16440000,"Crossroads in Santa Monica, California"
-davisba01,2008-09,29,Los Angeles Clippers,NBA,65,34.6,.370,.757,3.7,7.7,1.7,0.5,14.9,14.5,0.6,.013,-0.5,0.9,,11250000,"Crossroads in Santa Monica, California"
-davisba01,2009-10,30,Los Angeles Clippers,NBA,75,33.6,.406,.821,3.5,8.0,1.7,0.6,15.3,17.4,4.5,.086,1.5,2.3,,12150000,"Crossroads in Santa Monica, California"
-davisba01,2010-11,31,Cleveland Cavaliers,NBA,58,28.4,.417,.771,2.7,6.7,1.3,0.5,13.1,17.0,2.8,.081,0.7,1.1,,13000000,"Crossroads in Santa Monica, California"
-davisba01,2010-11,31,Cleveland Cavaliers,NBA,43,29.5,.416,.760,2.8,7.0,1.4,0.5,12.8,16.3,2.1,.079,0.4,0.8,,13000000,"Crossroads in Santa Monica, California"
-davisba01,2010-11,31,Cleveland Cavaliers,NBA,15,25.3,.421,.815,2.4,6.1,1.1,0.4,13.9,19.3,0.7,.086,1.7,0.4,,13000000,"Crossroads in Santa Monica, California"
-davisba01,2011-12,32,Cleveland Cavaliers,NBA,29,20.5,.370,.667,1.9,4.7,1.2,0.1,6.1,10.0,0.2,.014,-3.3,-0.2,,13900000,"Crossroads in Santa Monica, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",-0.69,1.66,davisba01,1999-00,CHH,12.9,2.1,.065,-1.1,0.3,,NBA,2712480,20,82,18.6,.420,.634,2.0,3.8,1.2,0.2,5.9,CHH
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+3.61,14.72,davisba01,2000-01,CHH,16.6,8.9,.134,3.3,4.3,,NBA,2916000,21,82,38.9,.427,.677,5.0,7.3,2.1,0.4,13.8,CHH
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+3.92,15.71,davisba01,2001-02,CHH,18.2,8.2,.118,4.2,5.2,,NBA,3119400,22,82,40.5,.417,.580,4.3,8.5,2.1,0.6,18.1,CHH
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+1.79,5.84,davisba01,2002-03,NOH,16.9,4.5,.113,2.7,2.2,,NBA,3942922,23,50,37.8,.416,.710,3.7,6.4,1.8,0.4,17.1,NOH
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+4.46,13.70,davisba01,2003-04,NOH,20.7,7.5,.133,5.6,5.2,All-NBA (3rd),NBA,10960000,24,67,40.1,.395,.673,4.3,7.5,2.4,0.4,22.9,NOH
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+2.92,5.45,davisba01,2004-05,TOT,20.8,4.4,.132,4.7,2.7,,NBA,12330000,25,46,34.4,.387,.761,3.8,7.9,1.8,0.3,19.2,"NOH,GSW"
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+1.88,5.54,davisba01,2005-06,GSW,18.3,4.4,.106,3.2,2.6,,NBA,13700000,26,54,36.5,.389,.675,4.4,8.9,1.6,0.3,17.9,GSW
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+4.81,12.43,davisba01,2006-07,GSW,21.0,6.4,.139,3.4,3.1,,NBA,15070000,27,63,35.3,.439,.745,4.4,8.1,2.1,0.5,20.1,GSW
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+3.59,12.29,davisba01,2007-08,GSW,19.8,8.7,.131,3.6,4.5,,NBA,16440000,28,82,39.0,.426,.750,4.7,7.6,2.3,0.5,21.8,GSW
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",-0.79,2.27,davisba01,2008-09,LAC,14.5,0.6,.013,-0.5,0.9,,NBA,11250000,29,65,34.6,.370,.757,3.7,7.7,1.7,0.5,14.9,LAC
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+1.46,6.38,davisba01,2009-10,LAC,17.4,4.5,.086,1.5,2.3,,NBA,12150000,30,75,33.6,.406,.821,3.5,8.0,1.7,0.6,15.3,LAC
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",+1.55,4.23,davisba01,2010-11,TOT,17.0,2.8,.081,0.7,1.1,,NBA,13000000,31,58,28.4,.417,.771,2.7,6.7,1.3,0.5,13.1,"LAC,CLE"
+Baron Davis,/players/d/davisba01.html,2000,2012,"University of California, Los Angeles",false,"Crossroads in Santa Monica, California",-1.10,0.54,davisba01,2011-12,NYK,10.0,0.2,.014,-3.3,-0.2,,NBA,13900000,32,29,20.5,.370,.667,1.9,4.7,1.2,0.1,6.1,NYK

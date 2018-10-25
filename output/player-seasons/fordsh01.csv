@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fordsh01,1995-96,23,Seattle SuperSonics,NBA,28,5.0,.375,.765,0.9,0.2,0.3,0.0,3.2,16.4,0.4,.124,-4.9,-0.1,,500000,"Proviso East in Maywood, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sherell Ford,/players/f/fordsh01.html,1996,1996,University of Illinois at Chicago,false,"Proviso East in Maywood, Illinois",-0.00,0.21,fordsh01,1995-96,SEA,16.4,0.4,.124,-4.9,-0.1,,NBA,500000,23,28,5.0,.375,.765,0.9,0.2,0.3,0.0,3.2,SEA

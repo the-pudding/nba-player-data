@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-edneyty01,1995-96,22,Sacramento Kings,NBA,80,31.0,.412,.782,2.5,6.1,1.1,0.0,10.8,12.7,3.3,.064,-2.2,-0.1,,210000,"Long Beach Polytechnic in Long Beach, California"
-edneyty01,1996-97,23,Sacramento Kings,NBA,70,19.7,.384,.823,1.6,3.2,0.9,0.0,6.9,12.7,1.5,.054,-4.1,-0.7,,247500,"Long Beach Polytechnic in Long Beach, California"
-edneyty01,1997-98,24,Boston Celtics,NBA,52,12.0,.431,.793,1.1,2.7,1.0,0.0,5.3,17.8,1.4,.112,-1.8,0.0,,400000,"Long Beach Polytechnic in Long Beach, California"
-edneyty01,1998-99,25,Did Not Play (other pro league—Lithuania),,,,,,,,,,,,,,,,,,"Long Beach Polytechnic in Long Beach, California"
-edneyty01,1999-00,26,Did Not Play,,,,,,,,,,,,,,,,,,"Long Beach Polytechnic in Long Beach, California"
-edneyty01,2000-01,27,Indiana Pacers,NBA,24,11.0,.385,.897,1.0,2.3,0.7,0.0,4.4,16.6,0.5,.088,-2.7,0.0,,523500,"Long Beach Polytechnic in Long Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyus Edney,/players/e/edneyty01.html,1996,2001,"University of California, Los Angeles",false,"Long Beach Polytechnic in Long Beach, California",-1.11,2.08,edneyty01,1995-96,SAC,12.7,3.3,.064,-2.2,-0.1,,NBA,210000,22,80,31.0,.412,.782,2.5,6.1,1.1,0.0,10.8,SAC
+Tyus Edney,/players/e/edneyty01.html,1996,2001,"University of California, Los Angeles",false,"Long Beach Polytechnic in Long Beach, California",-1.68,0.54,edneyty01,1996-97,SAC,12.7,1.5,.054,-4.1,-0.7,,NBA,247500,23,70,19.7,.384,.823,1.6,3.2,0.9,0.0,6.9,SAC
+Tyus Edney,/players/e/edneyty01.html,1996,2001,"University of California, Los Angeles",false,"Long Beach Polytechnic in Long Beach, California",+0.24,1.07,edneyty01,1997-98,BOS,17.8,1.4,.112,-1.8,0.0,,NBA,400000,24,52,12.0,.431,.793,1.1,2.7,1.0,0.0,5.3,BOS
+Tyus Edney,/players/e/edneyty01.html,1996,2001,"University of California, Los Angeles",false,"Long Beach Polytechnic in Long Beach, California",,,edneyty01,1998-99,Did Not Play (other pro league—Lithuania),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Lithuania)
+Tyus Edney,/players/e/edneyty01.html,1996,2001,"University of California, Los Angeles",false,"Long Beach Polytechnic in Long Beach, California",,,edneyty01,1999-00,Did Not Play,,,,,,,,,26,,,,,,,,,,Did Not Play
+Tyus Edney,/players/e/edneyty01.html,1996,2001,"University of California, Los Angeles",false,"Long Beach Polytechnic in Long Beach, California",-0.59,0.30,edneyty01,2000-01,IND,16.6,0.5,.088,-2.7,0.0,,NBA,523500,27,24,11.0,.385,.897,1.0,2.3,0.7,0.0,4.4,IND

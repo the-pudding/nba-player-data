@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pinonjo01,1983-84,22,ATL,NBA,7,9.3,.538,.600,1.4,0.4,0.3,0.1,2.9,7.8,0.1,.040,-4.9,0.0,,"South Catholic in Hartford, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Pinone,/players/p/pinonjo01.html,1984,1984,Villanova University,false,"South Catholic in Hartford, Connecticut",+0.25,0.11,pinonjo01,1983-84,ATL,7.8,0.1,.040,-4.9,0.0,,22,NBA,7,9.3,.538,.600,1.4,0.4,0.3,0.1,2.9,ATL

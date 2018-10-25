@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-cavenro01,1984-85,25,NYK,NBA,53,12.3,.326,.564,3.1,0.4,0.2,0.8,1.5,4.1,-0.2,-0.016,-4.4,-0.4,,"Charlton-Pollard in Beaumont, Texas",
-cavenro01,1985-86,26,Did Not Play,,,,,,,,,,,,,,,,,"Charlton-Pollard in Beaumont, Texas",
-cavenro01,1986-87,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Charlton-Pollard in Beaumont, Texas",
-cavenro01,1987-88,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Charlton-Pollard in Beaumont, Texas",
-cavenro01,1988-89,29,New Jersey Nets,NBA,5,3.2,.667,.400,0.4,0.0,0.0,0.4,1.2,7.4,0.0,-0.055,-10.4,0.0,,"Charlton-Pollard in Beaumont, Texas",100000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ron Cavenall,/players/c/cavenro01.html,1985,1989,Texas Southern University,false,"Charlton-Pollard in Beaumont, Texas",-2.53,-0.13,cavenro01,1984-85,NYK,4.1,-0.2,-0.016,-4.4,-0.4,,25,NBA,53,12.3,.326,.564,3.1,0.4,0.2,0.8,1.5,NYK,
+Ron Cavenall,/players/c/cavenro01.html,1985,1989,Texas Southern University,false,"Charlton-Pollard in Beaumont, Texas",,,cavenro01,1985-86,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Ron Cavenall,/players/c/cavenro01.html,1985,1989,Texas Southern University,false,"Charlton-Pollard in Beaumont, Texas",,,cavenro01,1986-87,Did Not Play (other pro league—CBA),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Ron Cavenall,/players/c/cavenro01.html,1985,1989,Texas Southern University,false,"Charlton-Pollard in Beaumont, Texas",,,cavenro01,1987-88,Did Not Play (other pro league—CBA),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Ron Cavenall,/players/c/cavenro01.html,1985,1989,Texas Southern University,false,"Charlton-Pollard in Beaumont, Texas",+0.09,0.03,cavenro01,1988-89,NJN,7.4,0.0,-0.055,-10.4,0.0,,29,NBA,5,3.2,.667,.400,0.4,0.0,0.0,0.4,1.2,NJN,100000

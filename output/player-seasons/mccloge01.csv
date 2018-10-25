@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mccloge01,1989-90,22,IND,NBA,44,9.4,.313,.789,1.0,1.0,0.4,0.1,2.7,4.6,-0.7,-0.079,-7.0,-0.5,,"Mainland in Daytona Beach, Florida",
-mccloge01,1990-91,23,Indiana Pacers,NBA,74,14.5,.373,.776,1.6,2.0,0.5,0.1,4.6,7.9,-0.4,-0.018,-4.4,-0.6,,"Mainland in Daytona Beach, Florida",940000
-mccloge01,1991-92,24,Indiana Pacers,NBA,51,17.5,.409,.781,2.6,2.3,0.5,0.2,6.6,11.0,0.9,.046,-2.4,-0.1,,"Mainland in Daytona Beach, Florida",990000
-mccloge01,1992-93,25,Indiana Pacers,NBA,78,19.2,.411,.735,2.6,2.5,0.7,0.1,7.2,11.2,1.4,.044,-1.5,0.2,,"Mainland in Daytona Beach, Florida",1040000
-mccloge01,1993-94,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Mainland in Daytona Beach, Florida",
-mccloge01,1994-95,27,DAL,NBA,42,19.1,.439,.833,3.5,1.3,0.5,0.2,9.6,17.0,2.3,.137,0.5,0.5,,"Mainland in Daytona Beach, Florida",
-mccloge01,1995-96,28,Dallas Mavericks,NBA,79,36.0,.414,.804,4.8,2.7,1.4,0.5,18.9,15.9,5.8,.098,1.3,2.3,,"Mainland in Daytona Beach, Florida",950000
-mccloge01,1996-97,29,Dallas Mavericks,NBA,64,23.3,.412,.822,2.8,1.7,1.0,0.1,10.3,14.8,3.2,.102,0.2,0.8,,"Mainland in Daytona Beach, Florida",1100000
-mccloge01,1996-97,29,Dallas Mavericks,NBA,41,29.4,.423,.837,3.5,2.2,1.3,0.2,13.7,15.9,2.7,.109,1.1,0.9,,"Mainland in Daytona Beach, Florida",1100000
-mccloge01,1996-97,29,Dallas Mavericks,NBA,23,12.4,.354,.667,1.6,0.7,0.4,0.0,4.1,9.9,0.4,.069,-3.4,-0.1,,"Mainland in Daytona Beach, Florida",1100000
-mccloge01,1997-98,30,Phoenix Suns,NBA,63,19.3,.405,.765,3.5,1.3,0.9,0.2,7.2,12.7,2.4,.096,0.2,0.7,,"Mainland in Daytona Beach, Florida",272250
-mccloge01,1998-99,31,Phoenix Suns,NBA,48,25.9,.438,.862,3.4,1.6,0.9,0.3,8.9,13.6,3.3,.127,1.2,1.0,,"Mainland in Daytona Beach, Florida",750000
-mccloge01,1999-00,32,Denver Nuggets,NBA,78,27.2,.417,.818,3.7,3.2,0.6,0.3,10.1,13.2,3.8,.086,0.0,1.1,,"Mainland in Daytona Beach, Florida",2000000
-mccloge01,2000-01,33,Denver Nuggets,NBA,76,26.4,.382,.840,2.9,3.7,0.7,0.4,9.6,12.9,2.6,.062,-1.2,0.4,,"Mainland in Daytona Beach, Florida",2200000
-mccloge01,2001-02,34,Denver Nuggets,NBA,69,26.5,.358,.810,3.6,3.0,0.8,0.3,8.8,9.8,0.1,.003,-2.3,-0.1,,"Mainland in Daytona Beach, Florida",2400000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-3.80,-0.40,mccloge01,1989-90,IND,4.6,-0.7,-0.079,-7.0,-0.5,,22,NBA,44,9.4,.313,.789,1.0,1.0,0.4,0.1,2.7,IND,
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-3.23,-0.60,mccloge01,1990-91,IND,7.9,-0.4,-0.018,-4.4,-0.6,,23,NBA,74,14.5,.373,.776,1.6,2.0,0.5,0.1,4.6,IND,940000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-2.23,0.07,mccloge01,1991-92,IND,11.0,0.9,.046,-2.4,-0.1,,24,NBA,51,17.5,.409,.781,2.6,2.3,0.5,0.2,6.6,IND,990000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-1.86,0.50,mccloge01,1992-93,IND,11.2,1.4,.044,-1.5,0.2,,25,NBA,78,19.2,.411,.735,2.6,2.5,0.7,0.1,7.2,IND,1040000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",,,mccloge01,1993-94,Did Not Play (other pro league—Italy),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Italy),
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-0.90,0.76,mccloge01,1994-95,DAL,17.0,2.3,.137,0.5,0.5,,27,NBA,42,19.1,.439,.833,3.5,1.3,0.5,0.2,9.6,DAL,
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",+0.13,4.63,mccloge01,1995-96,DAL,15.9,5.8,.098,1.3,2.3,,28,NBA,79,36.0,.414,.804,4.8,2.7,1.4,0.5,18.9,DAL,950000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-0.64,1.64,mccloge01,1996-97,TOT,14.8,3.2,.102,0.2,0.8,,29,NBA,64,23.3,.412,.822,2.8,1.7,1.0,0.1,10.3,"DAL,LAL",1100000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-0.08,1.99,mccloge01,1997-98,PHO,12.7,2.4,.096,0.2,0.7,,30,NBA,63,19.3,.405,.765,3.5,1.3,0.9,0.2,7.2,PHO,272250
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",+0.04,2.08,mccloge01,1998-99,PHO,13.6,3.3,.127,1.2,1.0,,31,NBA,48,25.9,.438,.862,3.4,1.6,0.9,0.3,8.9,PHO,750000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-1.52,1.04,mccloge01,1999-00,DEN,13.2,3.8,.086,0.0,1.1,,32,NBA,78,27.2,.417,.818,3.7,3.2,0.6,0.3,10.1,DEN,2000000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-3.48,-1.65,mccloge01,2000-01,DEN,12.9,2.6,.062,-1.2,0.4,,33,NBA,76,26.4,.382,.840,2.9,3.7,0.7,0.4,9.6,DEN,2200000
+George McCloud,/players/m/mccloge01.html,1990,2002,Florida State University,false,"Mainland in Daytona Beach, Florida",-3.57,-1.67,mccloge01,2001-02,DEN,9.8,0.1,.003,-2.3,-0.1,,34,NBA,69,26.5,.358,.810,3.6,3.0,0.8,0.3,8.8,DEN,2400000

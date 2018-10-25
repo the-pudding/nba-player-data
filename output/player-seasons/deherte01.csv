@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-deherte01,1993-94,22,Los Angeles Clippers,NBA,64,11.9,.377,.753,1.1,1.2,0.4,0.0,5.3,9.5,-0.4,-0.028,-6.8,-0.9,,1050000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1994-95,23,Los Angeles Clippers,NBA,80,22.2,.407,.784,1.9,2.8,0.6,0.1,10.4,11.8,0.5,.013,-4.6,-1.2,,1365000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1995-96,24,Los Angeles Clippers,NBA,82,24.6,.459,.755,1.7,4.3,0.7,0.2,12.4,16.7,5.0,.119,-0.2,0.9,,1680000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1996-97,25,Los Angeles Clippers,NBA,73,14.4,.386,.824,1.3,2.2,0.4,0.0,6.4,12.4,1.2,.056,-3.7,-0.5,,1905000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1997-98,26,Sacramento Kings,NBA,77,18.3,.399,.798,1.4,2.5,0.7,0.1,6.4,10.8,1.0,.035,-4.2,-0.8,,500000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1998-99,27,Sacramento Kings,NBA,26,11.2,.365,.714,0.9,1.0,0.3,0.1,3.2,8.5,0.0,.000,-5.3,-0.2,,575000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1998-99,27,Sacramento Kings,NBA,4,5.0,.364,,0.5,0.3,0.5,0.0,2.3,10.7,0.0,-0.050,-3.6,0.0,,575000,"Saint Anthony's in Jersey City, New Jersey"
-deherte01,1998-99,27,Sacramento Kings,NBA,22,12.3,.365,.714,1.0,1.2,0.2,0.1,3.4,8.3,0.0,.004,-5.5,-0.2,,575000,"Saint Anthony's in Jersey City, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Terry Dehere,/players/d/deherte01.html,1994,1999,Seton Hall University,false,"Saint Anthony's in Jersey City, New Jersey",-3.88,-0.83,deherte01,1993-94,LAC,9.5,-0.4,-0.028,-6.8,-0.9,,NBA,1050000,22,64,11.9,.377,.753,1.1,1.2,0.4,0.0,5.3,LAC
+Terry Dehere,/players/d/deherte01.html,1994,1999,Seton Hall University,false,"Saint Anthony's in Jersey City, New Jersey",-3.47,-1.39,deherte01,1994-95,LAC,11.8,0.5,.013,-4.6,-1.2,,NBA,1365000,23,80,22.2,.407,.784,1.9,2.8,0.6,0.1,10.4,LAC
+Terry Dehere,/players/d/deherte01.html,1994,1999,Seton Hall University,false,"Saint Anthony's in Jersey City, New Jersey",-0.28,2.74,deherte01,1995-96,LAC,16.7,5.0,.119,-0.2,0.9,,NBA,1680000,24,82,24.6,.459,.755,1.7,4.3,0.7,0.2,12.4,LAC
+Terry Dehere,/players/d/deherte01.html,1994,1999,Seton Hall University,false,"Saint Anthony's in Jersey City, New Jersey",-1.87,0.29,deherte01,1996-97,LAC,12.4,1.2,.056,-3.7,-0.5,,NBA,1905000,25,73,14.4,.386,.824,1.3,2.2,0.4,0.0,6.4,LAC
+Terry Dehere,/players/d/deherte01.html,1994,1999,Seton Hall University,false,"Saint Anthony's in Jersey City, New Jersey",-2.31,-0.10,deherte01,1997-98,SAC,10.8,1.0,.035,-4.2,-0.8,,NBA,500000,26,77,18.3,.399,.798,1.4,2.5,0.7,0.1,6.4,SAC
+Terry Dehere,/players/d/deherte01.html,1994,1999,Seton Hall University,false,"Saint Anthony's in Jersey City, New Jersey",-2.72,-0.11,deherte01,1998-99,TOT,8.5,0.0,.000,-5.3,-0.2,,NBA,575000,27,26,11.2,.365,.714,0.9,1.0,0.3,0.1,3.2,"SAC,VAN"

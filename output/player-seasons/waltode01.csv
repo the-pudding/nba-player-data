@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-waltode01,2017-18,22,Miami Heat,NBA,16,9.2,.320,1.000,1.0,1.0,0.4,0.2,1.8,11.2,0.4,.128,-0.5,0.1,,,"Chandler Park Academy in Harper Woods, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Walton,/players/w/waltode01.html,2018,2018,University of Michigan,true,"Chandler Park Academy in Harper Woods, Michigan",-0.74,0.15,waltode01,2017-18,MIA,11.2,0.4,.128,-0.5,0.1,,NBA,,22,16,9.2,.320,1.000,1.0,1.0,0.4,0.2,1.8,MIA

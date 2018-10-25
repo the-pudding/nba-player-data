@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-davisdw01,1976-77,27,GSW,NBA,33,16.7,.444,.681,2.9,0.9,0.3,0.2,4.8,8.6,0.6,.049,-3.8,-0.2,,"Evan E. Worthing in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dwight Davis,/players/d/davisdw01.html,1973,1977,University of Houston,false,"Evan E. Worthing in Houston, Texas",-2.51,-0.15,davisdw01,1976-77,GSW,8.6,0.6,.049,-3.8,-0.2,,27,NBA,33,16.7,.444,.681,2.9,0.9,0.3,0.2,4.8,GSW

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-profila01,1999-00,22,Washington Wizards,NBA,33,6.8,.356,.400,0.8,0.8,0.2,0.1,1.5,4.4,-0.3,-0.073,-6.5,-0.3,,301875,"Caesar Rodney in Dover, Delaware"
-profila01,2000-01,23,Washington Wizards,NBA,35,17.3,.394,.733,1.8,2.5,1.0,0.3,4.3,11.7,0.3,.023,-1.9,0.0,,508000,"Caesar Rodney in Dover, Delaware"
-profila01,2001-02,24,Orlando Magic,NBA,,,,,,,,,,,,,,,,630850,"Caesar Rodney in Dover, Delaware"
-profila01,2002-03,25,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,,"Caesar Rodney in Dover, Delaware"
-profila01,2003-04,26,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,,"Caesar Rodney in Dover, Delaware"
-profila01,2004-05,27,Washington Wizards,NBA,42,10.2,.438,.640,1.8,0.9,0.4,0.1,3.2,11.5,0.4,.049,-3.3,-0.1,,745046,"Caesar Rodney in Dover, Delaware"
-profila01,2005-06,28,Los Angeles Lakers,NBA,25,11.2,.476,.875,1.7,0.6,0.4,0.2,4.2,11.8,0.3,.050,-4.2,-0.2,,745248,"Caesar Rodney in Dover, Delaware"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",-1.60,0.09,profila01,1999-00,WAS,4.4,-0.3,-0.073,-6.5,-0.3,,NBA,301875,22,33,6.8,.356,.400,0.8,0.8,0.2,0.1,1.5,WAS
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",-0.73,0.62,profila01,2000-01,WAS,11.7,0.3,.023,-1.9,0.0,,NBA,508000,23,35,17.3,.394,.733,1.8,2.5,1.0,0.3,4.3,WAS
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",,,profila01,2001-02,Did Not Play (other pro league—Italy),,,,,,,NBA,630850,24,,,,,,,,,,Did Not Play (other pro league—Italy)
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",,,profila01,2002-03,Did Not Play (other pro league—China),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—China)
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",,,profila01,2003-04,Did Not Play (other pro league—China),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—China)
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",-2.64,-0.11,profila01,2004-05,WAS,11.5,0.4,.049,-3.3,-0.1,,NBA,745046,27,42,10.2,.438,.640,1.8,0.9,0.4,0.1,3.2,WAS
+Laron Profit,/players/p/profila01.html,2000,2006,University of Maryland,false,"Caesar Rodney in Dover, Delaware",-1.82,0.06,profila01,2005-06,LAL,11.8,0.3,.050,-4.2,-0.2,,NBA,745248,28,25,11.2,.476,.875,1.7,0.6,0.4,0.2,4.2,LAL

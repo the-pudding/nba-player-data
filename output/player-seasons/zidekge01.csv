@@ -1,8 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-zidekge01,1995-96,22,Charlotte Hornets,NBA,71,12.5,.423,.763,2.6,0.2,0.1,0.1,4.0,8.0,0.6,.031,-7.3,-1.2,,603000,"Arabska Secondary in Arabska, Czech Republic"
-zidekge01,1996-97,23,Charlotte Hornets,NBA,52,7.2,.415,.789,1.7,0.3,0.1,0.1,2.8,10.2,0.3,.034,-6.9,-0.5,,694000,"Arabska Secondary in Arabska, Czech Republic"
-zidekge01,1996-97,23,Charlotte Hornets,NBA,36,8.0,.388,.781,1.8,0.3,0.1,0.1,2.5,7.2,-0.1,-0.017,-8.4,-0.5,,694000,"Arabska Secondary in Arabska, Czech Republic"
-zidekge01,1996-97,23,Charlotte Hornets,NBA,16,5.5,.485,.800,1.4,0.3,0.1,0.0,3.3,20.3,0.4,.200,-2.3,0.0,,694000,"Arabska Secondary in Arabska, Czech Republic"
-zidekge01,1997-98,24,Denver Nuggets,NBA,12,5.3,.241,.875,1.4,0.2,0.0,0.2,2.4,9.1,0.0,-0.036,-14.4,-0.2,,784200,"Arabska Secondary in Arabska, Czech Republic"
-zidekge01,1997-98,24,Denver Nuggets,NBA,6,7.0,.267,.833,2.2,0.2,0.0,0.3,3.0,12.7,0.0,.008,-12.0,-0.1,,784200,"Arabska Secondary in Arabska, Czech Republic"
-zidekge01,1997-98,24,Denver Nuggets,NBA,6,3.7,.214,1.000,0.7,0.2,0.0,0.0,1.8,2.3,-0.1,-0.120,-18.9,-0.1,,784200,"Arabska Secondary in Arabska, Czech Republic"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+George Zidek,/players/z/zidekge01.html,1996,1998,"University of California, Los Angeles",false,"Arabska Secondary in Arabska, Czech Republic",-3.64,-0.73,zidekge01,1995-96,CHH,8.0,0.6,.031,-7.3,-1.2,,NBA,603000,22,71,12.5,.423,.763,2.6,0.2,0.1,0.1,4.0,CHH
+George Zidek,/players/z/zidekge01.html,1996,1998,"University of California, Los Angeles",false,"Arabska Secondary in Arabska, Czech Republic",-3.49,-0.29,zidekge01,1996-97,TOT,10.2,0.3,.034,-6.9,-0.5,,NBA,694000,23,52,7.2,.415,.789,1.7,0.3,0.1,0.1,2.8,"CHH,DEN"
+George Zidek,/players/z/zidekge01.html,1996,1998,"University of California, Los Angeles",false,"Arabska Secondary in Arabska, Czech Republic",-0.34,0.08,zidekge01,1997-98,TOT,9.1,0.0,-0.036,-14.4,-0.2,,NBA,784200,24,12,5.3,.241,.875,1.4,0.2,0.0,0.2,2.4,"DEN,SEA"

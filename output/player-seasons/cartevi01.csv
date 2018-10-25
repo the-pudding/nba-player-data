@@ -1,26 +1,22 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cartevi01,1998-99,22,Toronto Raptors,NBA,50,35.2,.450,.761,5.7,3.0,1.1,1.5,18.3,19.6,5.0,.136,1.9,1.7,,1760000,"Mainland in Daytona Beach, Florida"
-cartevi01,1999-00,23,Toronto Raptors,NBA,82,38.1,.465,.791,5.8,3.9,1.3,1.1,25.7,23.4,11.8,.182,4.6,5.2,All-NBA (3rd),2267280,"Mainland in Daytona Beach, Florida"
-cartevi01,2000-01,24,Toronto Raptors,NBA,75,39.7,.460,.765,5.5,3.9,1.5,1.1,27.6,25.0,12.9,.208,7.0,6.8,All-NBA (2nd),2425440,"Mainland in Daytona Beach, Florida"
-cartevi01,2001-02,25,Toronto Raptors,NBA,60,39.8,.428,.798,5.2,4.0,1.6,0.7,24.7,20.5,7.0,.140,4.1,3.7,,3073032,"Mainland in Daytona Beach, Florida"
-cartevi01,2002-03,26,Toronto Raptors,NBA,43,34.2,.467,.806,4.4,3.3,1.1,1.0,20.6,21.9,4.2,.136,2.7,1.7,,10067750,"Mainland in Daytona Beach, Florida"
-cartevi01,2003-04,27,Toronto Raptors,NBA,73,38.2,.417,.806,4.8,4.8,1.2,0.9,22.5,20.0,6.0,.103,2.9,3.4,,11326219,"Mainland in Daytona Beach, Florida"
-cartevi01,2004-05,28,New Jersey Nets,NBA,77,36.7,.452,.798,5.2,4.2,1.4,0.6,24.5,22.9,9.4,.159,5.3,5.2,,12584688,"Mainland in Daytona Beach, Florida"
-cartevi01,2004-05,28,New Jersey Nets,NBA,20,30.4,.411,.694,3.3,3.1,1.3,0.8,15.9,17.0,0.9,.068,0.1,0.3,,12584688,"Mainland in Daytona Beach, Florida"
-cartevi01,2004-05,28,New Jersey Nets,NBA,57,38.9,.462,.817,5.9,4.7,1.5,0.6,27.5,24.5,8.5,.184,6.7,4.8,,12584688,"Mainland in Daytona Beach, Florida"
-cartevi01,2005-06,29,New Jersey Nets,NBA,79,36.8,.430,.799,5.8,4.3,1.2,0.7,24.2,21.6,9.3,.153,4.4,4.7,,13843156,"Mainland in Daytona Beach, Florida"
-cartevi01,2006-07,30,New Jersey Nets,NBA,82,38.1,.454,.802,6.0,4.8,1.0,0.4,25.2,21.8,10.5,.161,4.1,4.8,,15101625,"Mainland in Daytona Beach, Florida"
-cartevi01,2007-08,31,New Jersey Nets,NBA,76,38.9,.456,.816,6.0,5.1,1.2,0.4,21.3,18.8,7.7,.126,3.0,3.8,,13320000,"Mainland in Daytona Beach, Florida"
-cartevi01,2008-09,32,New Jersey Nets,NBA,80,36.8,.437,.817,5.1,4.7,1.0,0.5,20.8,19.3,7.5,.123,2.5,3.4,,14724125,"Mainland in Daytona Beach, Florida"
-cartevi01,2009-10,33,Orlando Magic,NBA,75,30.8,.428,.840,3.9,3.1,0.7,0.2,16.6,17.1,7.4,.154,1.7,2.2,,16300000,"Mainland in Daytona Beach, Florida"
-cartevi01,2010-11,34,Phoenix Suns,NBA,73,28.1,.437,.740,3.8,2.0,0.9,0.3,14.0,14.8,3.8,.089,0.3,1.2,,17300000,"Mainland in Daytona Beach, Florida"
-cartevi01,2010-11,34,Phoenix Suns,NBA,22,30.2,.470,.747,4.1,2.9,0.9,0.1,15.1,16.2,2.1,.151,1.9,0.7,,17300000,"Mainland in Daytona Beach, Florida"
-cartevi01,2010-11,34,Phoenix Suns,NBA,51,27.2,.422,.735,3.6,1.6,0.9,0.3,13.5,14.2,1.7,.060,-0.4,0.5,,17300000,"Mainland in Daytona Beach, Florida"
-cartevi01,2011-12,35,Phoenix Suns,NBA,61,25.3,.411,.826,3.4,2.3,0.9,0.4,10.1,13.6,2.9,.090,0.6,1.0,,18300000,"Mainland in Daytona Beach, Florida"
-cartevi01,2012-13,36,Dallas Mavericks,NBA,81,25.8,.435,.816,4.1,2.4,0.9,0.5,13.4,17.8,6.0,.137,2.9,2.6,,3090000,"Mainland in Daytona Beach, Florida"
-cartevi01,2013-14,37,Dallas Mavericks,NBA,81,24.4,.407,.821,3.5,2.6,0.8,0.4,11.9,15.9,4.3,.105,1.1,1.6,,3180000,"Mainland in Daytona Beach, Florida"
-cartevi01,2014-15,38,Memphis Grizzlies,NBA,66,16.5,.333,.789,2.0,1.2,0.7,0.2,5.8,9.6,1.0,.043,-1.4,0.2,,3911981,"Mainland in Daytona Beach, Florida"
-cartevi01,2015-16,39,Memphis Grizzlies,NBA,60,16.8,.388,.833,2.4,0.9,0.6,0.3,6.6,12.7,1.8,.084,-1.2,0.2,,4088091,"Mainland in Daytona Beach, Florida"
-cartevi01,2016-17,40,Memphis Grizzlies,NBA,73,24.6,.394,.765,3.1,1.8,0.8,0.5,8.0,11.7,4.0,.106,1.0,1.4,,4264057,"Mainland in Daytona Beach, Florida"
-cartevi01,2017-18,41,Sacramento Kings,NBA,58,17.7,.403,.757,2.6,1.2,0.7,0.4,5.4,10.8,1.2,.056,-1.1,0.2,,8000000,"Mainland in Daytona Beach, Florida"
-cartevi01,2018-19,42,ATL,NBA,4,20.5,.375,1.000,2.3,0.8,0.5,0.3,7.8,8.9,0.1,.069,-4.7,-0.1,,,"Mainland in Daytona Beach, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.08,4.05,cartevi01,1998-99,TOR,19.6,5.0,.136,1.9,1.7,,NBA,1760000,22,50,35.2,.450,.761,5.7,3.0,1.1,1.5,18.3,TOR
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+3.00,11.58,cartevi01,1999-00,TOR,23.4,11.8,.182,4.6,5.2,All-NBA (3rd),NBA,2267280,23,82,38.1,.465,.791,5.8,3.9,1.3,1.1,25.7,TOR
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+5.32,18.08,cartevi01,2000-01,TOR,25.0,12.9,.208,7.0,6.8,All-NBA (2nd),NBA,2425440,24,75,39.7,.460,.765,5.5,3.9,1.5,1.1,27.6,TOR
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.43,6.06,cartevi01,2001-02,TOR,20.5,7.0,.140,4.1,3.7,,NBA,3073032,25,60,39.8,.428,.798,5.2,4.0,1.6,0.7,24.7,TOR
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.64,3.96,cartevi01,2002-03,TOR,21.9,4.2,.136,2.7,1.7,,NBA,10067750,26,43,34.2,.467,.806,4.4,3.3,1.1,1.0,20.6,TOR
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.60,7.51,cartevi01,2003-04,TOR,20.0,6.0,.103,2.9,3.4,,NBA,11326219,27,73,38.2,.417,.806,4.8,4.8,1.2,0.9,22.5,TOR
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.74,8.30,cartevi01,2004-05,TOT,22.9,9.4,.159,5.3,5.2,,NBA,12584688,28,77,36.7,.452,.798,5.2,4.2,1.4,0.6,24.5,"TOR,NJN"
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+4.53,15.45,cartevi01,2005-06,NJN,21.6,9.3,.153,4.4,4.7,,NBA,13843156,29,79,36.8,.430,.799,5.8,4.3,1.2,0.7,24.2,NJN
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+3.35,13.76,cartevi01,2006-07,NJN,21.8,10.5,.161,4.1,4.8,,NBA,15101625,30,82,38.1,.454,.802,6.0,4.8,1.0,0.4,25.2,NJN
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+2.92,10.34,cartevi01,2007-08,NJN,18.8,7.7,.126,3.0,3.8,,NBA,13320000,31,76,38.9,.456,.816,6.0,5.1,1.2,0.4,21.3,NJN
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+0.97,6.42,cartevi01,2008-09,NJN,19.3,7.5,.123,2.5,3.4,,NBA,14724125,32,80,36.8,.437,.817,5.1,4.7,1.0,0.5,20.8,NJN
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+4.13,11.96,cartevi01,2009-10,ORL,17.1,7.4,.154,1.7,2.2,,NBA,16300000,33,75,30.8,.428,.840,3.9,3.1,0.7,0.2,16.6,ORL
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+0.07,3.26,cartevi01,2010-11,TOT,14.8,3.8,.089,0.3,1.2,,NBA,17300000,34,73,28.1,.437,.740,3.8,2.0,0.9,0.3,14.0,"ORL,PHO"
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.70,4.52,cartevi01,2011-12,DAL,13.6,2.9,.090,0.6,1.0,,NBA,18300000,35,61,25.3,.411,.826,3.4,2.3,0.9,0.4,10.1,DAL
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+3.98,8.81,cartevi01,2012-13,DAL,17.8,6.0,.137,2.9,2.6,,NBA,3090000,36,81,25.8,.435,.816,4.1,2.4,0.9,0.5,13.4,DAL
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+1.51,5.53,cartevi01,2013-14,DAL,15.9,4.3,.105,1.1,1.6,,NBA,3180000,37,81,24.4,.407,.821,3.5,2.6,0.8,0.4,11.9,DAL
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",-1.02,1.06,cartevi01,2014-15,MEM,9.6,1.0,.043,-1.4,0.2,,NBA,3911981,38,66,16.5,.333,.789,2.0,1.2,0.7,0.2,5.8,MEM
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",-1.20,0.79,cartevi01,2015-16,MEM,12.7,1.8,.084,-1.2,0.2,,NBA,4088091,39,60,16.8,.388,.833,2.4,0.9,0.6,0.3,6.6,MEM
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",+0.69,3.99,cartevi01,2016-17,MEM,11.7,4.0,.106,1.0,1.4,,NBA,4264057,40,73,24.6,.394,.765,3.1,1.8,0.8,0.5,8.0,MEM
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",-0.33,1.35,cartevi01,2017-18,SAC,10.8,1.2,.056,-1.1,0.2,,NBA,8000000,41,58,17.7,.403,.757,2.6,1.2,0.7,0.4,5.4,SAC
+Vince Carter,/players/c/cartevi01.html,1999,2019,University of North Carolina,true,"Mainland in Daytona Beach, Florida",,,cartevi01,2018-19,ATL,8.9,0.1,.069,-4.7,-0.1,,NBA,,42,4,20.5,.375,1.000,2.3,0.8,0.5,0.3,7.8,ATL

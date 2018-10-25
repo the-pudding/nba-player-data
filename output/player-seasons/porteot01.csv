@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-porteot01,2013-14,20,Washington Wizards,NBA,37,8.6,.363,.667,1.5,0.3,0.2,0.0,2.1,6.0,0.0,-0.006,-6.8,-0.4,,4278000,"Scott County Central in Sikeston, Missouri"
-porteot01,2014-15,21,Washington Wizards,NBA,74,19.4,.450,.734,3.0,0.9,0.6,0.4,6.0,11.6,2.7,.092,-0.4,0.6,,4470480,"Scott County Central in Sikeston, Missouri"
-porteot01,2015-16,22,Washington Wizards,NBA,75,30.3,.473,.754,5.2,1.6,1.4,0.4,11.6,14.5,5.6,.119,1.8,2.2,,4662960,"Scott County Central in Sikeston, Missouri"
-porteot01,2016-17,23,Washington Wizards,NBA,80,32.6,.516,.832,6.4,1.5,1.5,0.5,13.4,17.3,9.4,.173,3.9,3.9,,5893981,"Scott County Central in Sikeston, Missouri"
-porteot01,2017-18,24,Washington Wizards,NBA,77,31.6,.503,.828,6.4,2.0,1.5,0.5,14.7,18.3,8.1,.161,3.6,3.4,,24773250,"Scott County Central in Sikeston, Missouri"
-porteot01,2018-19,25,WAS,NBA,4,31.5,.439,.800,5.8,0.3,2.0,1.3,12.0,13.9,0.2,.063,0.3,0.1,,,"Scott County Central in Sikeston, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Otto Porter,/players/p/porteot01.html,2014,2019,Georgetown University,true,"Scott County Central in Sikeston, Missouri",-3.21,-0.24,porteot01,2013-14,WAS,6.0,0.0,-0.006,-6.8,-0.4,,NBA,4278000,20,37,8.6,.363,.667,1.5,0.3,0.2,0.0,2.1,WAS
+Otto Porter,/players/p/porteot01.html,2014,2019,Georgetown University,true,"Scott County Central in Sikeston, Missouri",-1.07,1.41,porteot01,2014-15,WAS,11.6,2.7,.092,-0.4,0.6,,NBA,4470480,21,74,19.4,.450,.734,3.0,0.9,0.6,0.4,6.0,WAS
+Otto Porter,/players/p/porteot01.html,2014,2019,Georgetown University,true,"Scott County Central in Sikeston, Missouri",+1.53,5.92,porteot01,2015-16,WAS,14.5,5.6,.119,1.8,2.2,,NBA,4662960,22,75,30.3,.473,.754,5.2,1.6,1.4,0.4,11.6,WAS
+Otto Porter,/players/p/porteot01.html,2014,2019,Georgetown University,true,"Scott County Central in Sikeston, Missouri",+2.53,9.68,porteot01,2016-17,WAS,17.3,9.4,.173,3.9,3.9,,NBA,5893981,23,80,32.6,.516,.832,6.4,1.5,1.5,0.5,13.4,WAS
+Otto Porter,/players/p/porteot01.html,2014,2019,Georgetown University,true,"Scott County Central in Sikeston, Missouri",+3.40,9.76,porteot01,2017-18,WAS,18.3,8.1,.161,3.6,3.4,,NBA,24773250,24,77,31.6,.503,.828,6.4,2.0,1.5,0.5,14.7,WAS
+Otto Porter,/players/p/porteot01.html,2014,2019,Georgetown University,true,"Scott County Central in Sikeston, Missouri",,,porteot01,2018-19,WAS,13.9,0.2,.063,0.3,0.1,,NBA,,25,4,31.5,.439,.800,5.8,0.3,2.0,1.3,12.0,WAS

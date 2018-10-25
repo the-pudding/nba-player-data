@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesja02,2003-04,23,Indiana Pacers,NBA,6,4.3,.222,1.000,0.3,0.0,0.2,0.0,1.2,4.9,0.0,.010,-9.6,0.0,,366931,"American in Miami, Florida"
-jonesja02,2004-05,24,Indiana Pacers,NBA,75,17.7,.396,.855,2.3,0.8,0.4,0.4,4.9,10.5,2.5,.090,-0.6,0.5,,620046,"American in Miami, Florida"
-jonesja02,2005-06,25,Phoenix Suns,NBA,75,23.6,.418,.851,3.4,0.8,0.5,0.7,9.3,13.2,4.0,.110,-0.3,0.7,,2400000,"American in Miami, Florida"
-jonesja02,2006-07,26,Phoenix Suns,NBA,76,18.1,.368,.877,2.3,0.6,0.4,0.6,6.4,10.8,2.2,.077,-1.0,0.4,,2650000,"American in Miami, Florida"
-jonesja02,2007-08,27,Portland Trail Blazers,NBA,58,22.0,.437,.878,2.8,0.6,0.4,0.3,8.0,13.6,3.7,.139,1.2,1.0,,2900000,"American in Miami, Florida"
-jonesja02,2008-09,28,Miami Heat,NBA,40,15.8,.369,.839,1.6,0.5,0.3,0.4,4.2,8.4,0.9,.065,-2.9,-0.1,,4010000,"American in Miami, Florida"
-jonesja02,2009-10,29,Miami Heat,NBA,36,14.0,.361,.821,1.3,0.5,0.3,0.1,4.1,8.8,1.0,.099,-1.5,0.1,,4320000,"American in Miami, Florida"
-jonesja02,2010-11,30,Miami Heat,NBA,81,19.1,.422,.833,2.0,0.5,0.4,0.2,5.9,11.1,4.7,.145,0.9,1.1,,1069509,"American in Miami, Florida"
-jonesja02,2011-12,31,Miami Heat,NBA,51,13.1,.380,.833,1.0,0.4,0.3,0.2,3.6,9.7,1.7,.120,-1.0,0.2,,1500000,"American in Miami, Florida"
-jonesja02,2012-13,32,Miami Heat,NBA,38,5.8,.344,.500,0.6,0.3,0.1,0.2,1.6,8.1,0.2,.054,-3.7,-0.1,,1500000,"American in Miami, Florida"
-jonesja02,2013-14,33,MIA,NBA,20,11.8,.456,.636,1.2,0.5,0.2,0.2,4.9,15.4,0.7,.147,0.0,0.1,,,"American in Miami, Florida"
-jonesja02,2014-15,34,Cleveland Cavaliers,NBA,57,11.7,.368,.848,1.1,0.4,0.2,0.1,4.4,11.1,1.5,.110,-1.4,0.1,,1448490,"American in Miami, Florida"
-jonesja02,2015-16,35,Cleveland Cavaliers,NBA,48,9.6,.408,.808,1.0,0.3,0.2,0.2,3.7,11.6,1.2,.120,-1.0,0.1,,1499000,"American in Miami, Florida"
-jonesja02,2016-17,36,Cleveland Cavaliers,NBA,48,7.9,.478,.650,0.8,0.3,0.1,0.2,2.8,11.1,0.8,.102,-1.6,0.0,,1551659,"American in Miami, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",+0.13,0.04,jonesja02,2003-04,IND,4.9,0.0,.010,-9.6,0.0,,NBA,366931,23,6,4.3,.222,1.000,0.3,0.0,0.2,0.0,1.2,IND
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-0.26,2.08,jonesja02,2004-05,IND,10.5,2.5,.090,-0.6,0.5,,NBA,620046,24,75,17.7,.396,.855,2.3,0.8,0.4,0.4,4.9,IND
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-0.66,2.34,jonesja02,2005-06,PHO,13.2,4.0,.110,-0.3,0.7,,NBA,2400000,25,75,23.6,.418,.851,3.4,0.8,0.5,0.7,9.3,PHO
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-1.78,0.54,jonesja02,2006-07,PHO,10.8,2.2,.077,-1.0,0.4,,NBA,2650000,26,76,18.1,.368,.877,2.3,0.6,0.4,0.6,6.4,PHO
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",+0.09,2.05,jonesja02,2007-08,POR,13.6,3.7,.139,1.2,1.0,,NBA,2900000,27,58,22.0,.437,.878,2.8,0.6,0.4,0.3,8.0,POR
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-1.23,0.62,jonesja02,2008-09,MIA,8.4,0.9,.065,-2.9,-0.1,,NBA,4010000,28,40,15.8,.369,.839,1.6,0.5,0.3,0.4,4.2,MIA
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-1.62,0.22,jonesja02,2009-10,MIA,8.8,1.0,.099,-1.5,0.1,,NBA,4320000,29,36,14.0,.361,.821,1.3,0.5,0.3,0.1,4.1,MIA
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-0.18,2.59,jonesja02,2010-11,MIA,11.1,4.7,.145,0.9,1.1,,NBA,1069509,30,81,19.1,.422,.833,2.0,0.5,0.4,0.2,5.9,MIA
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-2.82,-0.38,jonesja02,2011-12,MIA,9.7,1.7,.120,-1.0,0.2,,NBA,1500000,31,51,13.1,.380,.833,1.0,0.4,0.3,0.2,3.6,MIA
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-2.36,-0.04,jonesja02,2012-13,MIA,8.1,0.2,.054,-3.7,-0.1,,NBA,1500000,32,38,5.8,.344,.500,0.6,0.3,0.1,0.2,1.6,MIA
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",+1.64,0.94,jonesja02,2013-14,MIA,15.4,0.7,.147,0.0,0.1,,NBA,,33,20,11.8,.456,.636,1.2,0.5,0.2,0.2,4.9,MIA
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-3.87,-1.00,jonesja02,2014-15,CLE,11.1,1.5,.110,-1.4,0.1,,NBA,1448490,34,57,11.7,.368,.848,1.1,0.4,0.2,0.1,4.4,CLE
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-3.56,-0.51,jonesja02,2015-16,CLE,11.6,1.2,.120,-1.0,0.1,,NBA,1499000,35,48,9.6,.408,.808,1.0,0.3,0.2,0.2,3.7,CLE
+James Jones,/players/j/jonesja02.html,2004,2017,University of Miami,false,"American in Miami, Florida",-4.26,-0.51,jonesja02,2016-17,CLE,11.1,0.8,.102,-1.6,0.0,,NBA,1551659,36,48,7.9,.478,.650,0.8,0.3,0.1,0.2,2.8,CLE

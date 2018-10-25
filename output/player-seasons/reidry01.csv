@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-reidry01,2011-12,25,Oklahoma City Thunder,NBA,5,3.4,.800,,0.4,0.0,0.0,0.0,1.6,17.6,0.1,.142,-5.5,0.0,,475000,"Boyd Anderson in Lauderdale Lakes, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ryan Reid,/players/r/reidry01.html,2012,2012,Florida State University,false,"Boyd Anderson in Lauderdale Lakes, Florida",-0.48,0.02,reidry01,2011-12,OKC,17.6,0.1,.142,-5.5,0.0,,NBA,475000,25,5,3.4,.800,,0.4,0.0,0.0,0.0,1.6,OKC

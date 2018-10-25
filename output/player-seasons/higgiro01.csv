@@ -1,18 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-higgiro01,1982-83,23,CHI,NBA,82,26.8,.448,.792,4.5,2.1,0.8,0.8,10.3,12.7,3.8,.083,-0.1,1.1,,"Thornton Township in Harvey, Illinois",
-higgiro01,1983-84,24,CHI,NBA,78,20.2,.447,.724,2.6,1.5,0.6,0.4,6.4,10.1,2.0,.060,-1.5,0.2,,"Thornton Township in Harvey, Illinois",
-higgiro01,1984-85,25,Chicago Bulls,NBA,68,13.9,.441,.667,2.2,1.1,0.3,0.2,4.5,10.2,1.0,.049,-2.2,-0.1,,"Thornton Township in Harvey, Illinois",160000
-higgiro01,1985-86,26,Seattle SuperSonics,NBA,30,11.1,.368,.704,1.7,0.8,0.3,0.4,3.3,7.7,0.1,.019,-4.7,-0.2,,"Thornton Township in Harvey, Illinois",190000
-higgiro01,1985-86,26,Seattle SuperSonics,NBA,12,7.8,.333,.600,1.0,0.5,0.2,0.1,1.8,4.5,0.0,-0.016,-6.5,-0.1,,"Thornton Township in Harvey, Illinois",190000
-higgiro01,1985-86,26,Seattle SuperSonics,NBA,11,11.6,.450,.688,2.2,1.1,0.2,0.3,4.3,10.8,0.2,.079,-3.3,0.0,,"Thornton Township in Harvey, Illinois",190000
-higgiro01,1985-86,26,Seattle SuperSonics,NBA,2,14.5,.188,,4.0,0.5,0.5,2.0,3.0,-0.2,-0.1,-0.210,-11.2,-0.1,,"Thornton Township in Harvey, Illinois",190000
-higgiro01,1985-86,26,Seattle SuperSonics,NBA,5,16.2,.391,.833,1.4,1.0,0.8,0.6,4.6,9.3,0.1,.045,-2.4,0.0,,"Thornton Township in Harvey, Illinois",190000
-higgiro01,1986-87,27,GSW,NBA,73,20.5,.519,.833,3.2,1.3,0.5,0.3,8.6,14.1,3.7,.120,-0.2,0.7,,"Thornton Township in Harvey, Illinois",
-higgiro01,1987-88,28,Golden State Warriors,NBA,68,32.2,.526,.848,4.3,2.8,1.0,0.5,15.5,16.3,5.7,.124,1.0,1.6,,"Thornton Township in Harvey, Illinois",150000
-higgiro01,1988-89,29,Golden State Warriors,NBA,81,23.3,.476,.821,4.6,2.0,0.5,0.5,10.6,15.5,5.9,.150,0.5,1.2,,"Thornton Township in Harvey, Illinois",350000
-higgiro01,1989-90,30,GSW,NBA,82,24.3,.481,.821,5.1,1.6,0.6,0.6,11.1,15.5,5.0,.121,0.8,1.4,,"Thornton Township in Harvey, Illinois",
-higgiro01,1990-91,31,Golden State Warriors,NBA,82,24.7,.463,.819,4.3,1.4,0.6,0.5,9.5,13.4,5.3,.127,0.9,1.5,,"Thornton Township in Harvey, Illinois",500000
-higgiro01,1991-92,32,Golden State Warriors,NBA,25,21.4,.412,.814,3.4,0.9,0.6,0.5,10.2,13.4,1.3,.121,-0.6,0.2,,"Thornton Township in Harvey, Illinois",550000
-higgiro01,1992-93,33,SAC,NBA,69,20.7,.412,.861,2.8,1.7,0.7,0.4,8.3,12.5,2.5,.085,-0.9,0.4,,"Thornton Township in Harvey, Illinois",
-higgiro01,1993-94,34,Sacramento Kings,NBA,36,15.2,.436,.738,2.3,1.0,0.7,0.4,5.4,13.7,1.4,.125,0.6,0.4,,"Thornton Township in Harvey, Illinois",150000
-higgiro01,1994-95,35,Golden State Warriors,NBA,5,9.2,.250,.750,1.4,0.6,0.2,0.2,2.0,6.1,0.0,.003,-4.1,0.0,,"Thornton Township in Harvey, Illinois",15800
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-1.17,1.62,higgiro01,1982-83,CHI,12.7,3.8,.083,-0.1,1.1,,23,NBA,82,26.8,.448,.792,4.5,2.1,0.8,0.8,10.3,CHI,
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-2.48,-0.27,higgiro01,1983-84,CHI,10.1,2.0,.060,-1.5,0.2,,24,NBA,78,20.2,.447,.724,2.6,1.5,0.6,0.4,6.4,CHI,
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-2.48,-0.10,higgiro01,1984-85,CHI,10.2,1.0,.049,-2.2,-0.1,,25,NBA,68,13.9,.441,.667,2.2,1.1,0.3,0.2,4.5,CHI,160000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-1.93,0.07,higgiro01,1985-86,TOT,7.7,0.1,.019,-4.7,-0.2,,26,NBA,30,11.1,.368,.704,1.7,0.8,0.3,0.4,3.3,"SEA,SAS,NJN,CHI",190000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-1.07,1.39,higgiro01,1986-87,GSW,14.1,3.7,.120,-0.2,0.7,,27,NBA,73,20.5,.519,.833,3.2,1.3,0.5,0.3,8.6,GSW,
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.12,3.20,higgiro01,1987-88,GSW,16.3,5.7,.124,1.0,1.6,,28,NBA,68,32.2,.526,.848,4.3,2.8,1.0,0.5,15.5,GSW,150000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",+0.04,3.38,higgiro01,1988-89,GSW,15.5,5.9,.150,0.5,1.2,,29,NBA,81,23.3,.476,.821,4.6,2.0,0.5,0.5,10.6,GSW,350000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.56,2.34,higgiro01,1989-90,GSW,15.5,5.0,.121,0.8,1.4,,30,NBA,82,24.3,.481,.821,5.1,1.6,0.6,0.6,11.1,GSW,
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.67,2.47,higgiro01,1990-91,GSW,13.4,5.3,.127,0.9,1.5,,31,NBA,82,24.7,.463,.819,4.3,1.4,0.6,0.5,9.5,GSW,500000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.85,0.54,higgiro01,1991-92,GSW,13.4,1.3,.121,-0.6,0.2,,32,NBA,25,21.4,.412,.814,3.4,0.9,0.6,0.5,10.2,GSW,550000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-1.17,1.08,higgiro01,1992-93,SAC,12.5,2.5,.085,-0.9,0.4,,33,NBA,69,20.7,.412,.861,2.8,1.7,0.7,0.4,8.3,SAC,
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.26,0.82,higgiro01,1993-94,CLE,13.7,1.4,.125,0.6,0.4,,34,NBA,36,15.2,.436,.738,2.3,1.0,0.7,0.4,5.4,CLE,150000
+Rod Higgins,/players/h/higgiro01.html,1983,1995,"California State University, Fresno",false,"Thornton Township in Harvey, Illinois",-0.30,0.06,higgiro01,1994-95,GSW,6.1,0.0,.003,-4.1,0.0,,35,NBA,5,9.2,.250,.750,1.4,0.6,0.2,0.2,2.0,GSW,15800

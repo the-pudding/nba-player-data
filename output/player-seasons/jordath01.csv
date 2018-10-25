@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jordath01,1992-93,24,PHI,NBA,4,26.5,.439,.471,4.8,0.8,0.8,1.3,11.0,6.9,-0.2,-0.100,-9.5,-0.2,,"Lake Clifton in Baltimore, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Thomas Jordan,/players/j/jordath01.html,1993,1993,Oklahoma State University,false,"Lake Clifton in Baltimore, Maryland",-0.89,0.10,jordath01,1992-93,PHI,6.9,-0.2,-0.100,-9.5,-0.2,,24,NBA,4,26.5,.439,.471,4.8,0.8,0.8,1.3,11.0,PHI

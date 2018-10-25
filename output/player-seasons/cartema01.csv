@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cartema01,2003-04,27,"LAL,NOH",NBA,10,11.0,.314,.800,1.1,0.4,0.0,0.0,4.2,5.8,0.0,-0.014,-10.0,-0.2,,"Forest Hill in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Maurice Carter,/players/c/cartema01.html,2004,2004,Louisiana State University,false,"Forest Hill in Jackson, Mississippi",-0.40,0.14,cartema01,2003-04,TOT,5.8,0.0,-0.014,-10.0,-0.2,,27,NBA,10,11.0,.314,.800,1.1,0.4,0.0,0.0,4.2,"LAL,NOH"

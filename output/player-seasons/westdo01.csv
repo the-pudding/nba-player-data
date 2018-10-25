@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-westdo01,1989-90,22,MIN,NBA,52,7.3,.393,.813,1.3,0.3,0.2,0.1,2.6,7.5,-0.1,-0.017,-7.3,-0.5,,"Altoona Area in Altoona, Pennsylvania",
-westdo01,1990-91,23,Minnesota Timberwolves,NBA,75,11.0,.480,.690,1.8,0.6,0.5,0.3,3.9,12.6,1.2,.073,-2.5,-0.1,,"Altoona Area in Altoona, Pennsylvania",230000
-westdo01,1991-92,24,Minnesota Timberwolves,NBA,80,31.8,.518,.805,3.2,3.5,0.8,0.3,14.0,14.6,4.6,.086,-0.4,1.1,,"Altoona Area in Altoona, Pennsylvania",310000
-westdo01,1992-93,25,Minnesota Timberwolves,NBA,80,38.8,.517,.841,3.1,2.9,1.1,0.3,19.3,14.2,4.3,.066,-1.6,0.4,,"Altoona Area in Altoona, Pennsylvania",1275000
-westdo01,1993-94,26,Minnesota Timberwolves,NBA,72,30.3,.487,.810,3.2,2.4,0.9,0.3,14.7,13.3,2.6,.056,-2.2,-0.1,,"Altoona Area in Altoona, Pennsylvania",1275000
-westdo01,1994-95,27,Minnesota Timberwolves,NBA,71,32.8,.461,.837,3.2,2.6,0.9,0.3,12.9,11.6,1.8,.038,-2.6,-0.4,,"Altoona Area in Altoona, Pennsylvania",1275000
-westdo01,1995-96,28,Minnesota Timberwolves,NBA,73,22.5,.445,.792,2.2,1.6,0.4,0.2,6.4,7.6,0.8,.024,-4.3,-1.0,,"Altoona Area in Altoona, Pennsylvania",1900000
-westdo01,1996-97,29,Minnesota Timberwolves,NBA,68,28.2,.467,.681,2.2,1.7,0.9,0.4,7.8,8.5,1.7,.042,-2.7,-0.4,,"Altoona Area in Altoona, Pennsylvania",2155000
-westdo01,1997-98,30,Minnesota Timberwolves,NBA,38,18.1,.374,.725,2.2,1.2,0.3,0.1,4.1,5.6,0.1,.004,-5.4,-0.6,,"Altoona Area in Altoona, Pennsylvania",2535000
-westdo01,1998-99,31,Vancouver Grizzlies,NBA,14,21.0,.477,.760,1.8,1.4,1.1,0.5,5.8,11.5,0.4,.066,-1.9,0.0,,"Altoona Area in Altoona, Pennsylvania",2915000
-westdo01,1999-00,32,Vancouver Grizzlies,NBA,38,15.3,.407,.850,1.9,1.1,0.3,0.2,4.0,8.6,0.5,.038,-4.6,-0.4,,"Altoona Area in Altoona, Pennsylvania",3295000
-westdo01,2000-01,33,Vancouver Grizzlies,NBA,15,11.4,.289,.857,1.0,0.9,0.2,0.3,1.9,4.2,-0.1,-0.028,-6.6,-0.2,,"Altoona Area in Altoona, Pennsylvania",3680000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-3.51,-0.33,westdo01,1989-90,MIN,7.5,-0.1,-0.017,-7.3,-0.5,,22,NBA,52,7.3,.393,.813,1.3,0.3,0.2,0.1,2.6,MIN,
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-1.71,0.32,westdo01,1990-91,MIN,12.6,1.2,.073,-2.5,-0.1,,23,NBA,75,11.0,.480,.690,1.8,0.6,0.5,0.3,3.9,MIN,230000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-1.50,1.40,westdo01,1991-92,MIN,14.6,4.6,.086,-0.4,1.1,,24,NBA,80,31.8,.518,.805,3.2,3.5,0.8,0.3,14.0,MIN,310000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-2.19,0.26,westdo01,1992-93,MIN,14.2,4.3,.066,-1.6,0.4,,25,NBA,80,38.8,.517,.841,3.1,2.9,1.1,0.3,19.3,MIN,1275000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-1.94,0.47,westdo01,1993-94,MIN,13.3,2.6,.056,-2.2,-0.1,,26,NBA,72,30.3,.487,.810,3.2,2.4,0.9,0.3,14.7,MIN,1275000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-2.79,-0.74,westdo01,1994-95,MIN,11.6,1.8,.038,-2.6,-0.4,,27,NBA,71,32.8,.461,.837,3.2,2.6,0.9,0.3,12.9,MIN,1275000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-3.96,-1.81,westdo01,1995-96,MIN,7.6,0.8,.024,-4.3,-1.0,,28,NBA,73,22.5,.445,.792,2.2,1.6,0.4,0.2,6.4,MIN,1900000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-2.25,0.01,westdo01,1996-97,MIN,8.5,1.7,.042,-2.7,-0.4,,29,NBA,68,28.2,.467,.681,2.2,1.7,0.9,0.4,7.8,MIN,2155000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-3.75,-0.67,westdo01,1997-98,MIN,5.6,0.1,.004,-5.4,-0.6,,30,NBA,38,18.1,.374,.725,2.2,1.2,0.3,0.1,4.1,MIN,2535000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-1.43,0.15,westdo01,1998-99,VAN,11.5,0.4,.066,-1.9,0.0,,31,NBA,14,21.0,.477,.760,1.8,1.4,1.1,0.5,5.8,VAN,2915000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-3.01,-0.31,westdo01,1999-00,VAN,8.6,0.5,.038,-4.6,-0.4,,32,NBA,38,15.3,.407,.850,1.9,1.1,0.3,0.2,4.0,VAN,3295000
+Doug West,/players/w/westdo01.html,1990,2001,Villanova University,false,"Altoona Area in Altoona, Pennsylvania",-0.78,0.17,westdo01,2000-01,VAN,4.2,-0.1,-0.028,-6.6,-0.2,,33,NBA,15,11.4,.289,.857,1.0,0.9,0.2,0.3,1.9,VAN,3680000

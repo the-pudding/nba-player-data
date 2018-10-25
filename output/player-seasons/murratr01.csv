@@ -1,17 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-murratr01,1992-93,21,Portland Trail Blazers,NBA,48,10.3,.415,.875,1.7,0.2,0.2,0.1,5.7,11.9,0.5,.049,-6.3,-0.5,,725000,"Glendora in Glendora, California"
-murratr01,1993-94,22,Portland Trail Blazers,NBA,66,12.4,.470,.694,1.7,0.5,0.3,0.3,6.6,15.3,2.2,.126,-1.4,0.1,,943000,"Glendora in Glendora, California"
-murratr01,1994-95,23,Portland Trail Blazers,NBA,54,9.6,.408,.786,1.1,0.4,0.3,0.1,4.8,10.8,0.5,.047,-5.3,-0.4,,1160000,"Glendora in Glendora, California"
-murratr01,1994-95,23,Portland Trail Blazers,NBA,29,10.8,.412,.824,1.3,0.5,0.2,0.0,5.9,12.4,0.5,.081,-4.6,-0.2,,1160000,"Glendora in Glendora, California"
-murratr01,1994-95,23,Portland Trail Blazers,NBA,25,8.1,.400,.625,0.9,0.2,0.3,0.1,3.5,8.2,0.0,-0.006,-6.4,-0.2,,1160000,"Glendora in Glendora, California"
-murratr01,1995-96,24,Toronto Raptors,NBA,82,30.0,.454,.831,4.3,1.6,1.1,0.5,16.2,16.8,4.9,.096,-0.9,0.7,,250000,"Glendora in Glendora, California"
-murratr01,1996-97,25,Washington Bullets,NBA,82,22.1,.425,.839,3.1,1.0,0.8,0.2,10.0,14.6,4.4,.116,-0.5,0.7,,1700000,"Glendora in Glendora, California"
-murratr01,1997-98,26,Washington Wizards,NBA,82,27.2,.446,.871,3.4,1.0,0.8,0.3,15.1,17.3,6.5,.139,0.2,1.2,,2040000,"Glendora in Glendora, California"
-murratr01,1998-99,27,Washington Wizards,NBA,36,18.1,.350,.810,2.3,0.8,0.6,0.2,6.5,9.6,0.3,.025,-3.6,-0.3,,2380000,"Glendora in Glendora, California"
-murratr01,1999-00,28,Washington Wizards,NBA,80,22.9,.433,.851,3.4,0.9,0.6,0.3,10.2,14.1,3.8,.101,-0.5,0.7,,2720000,"Glendora in Glendora, California"
-murratr01,2000-01,29,Denver Nuggets,NBA,51,11.5,.379,.786,1.6,0.5,0.2,0.1,5.0,11.4,0.6,.046,-4.5,-0.4,,3060000,"Glendora in Glendora, California"
-murratr01,2000-01,29,Denver Nuggets,NBA,13,10.4,.309,.900,1.7,0.7,0.3,0.1,3.8,9.8,0.0,-0.002,-5.6,-0.1,,3060000,"Glendora in Glendora, California"
-murratr01,2000-01,29,Denver Nuggets,NBA,38,11.9,.399,.750,1.6,0.4,0.2,0.2,5.4,11.9,0.6,.061,-4.2,-0.3,,3060000,"Glendora in Glendora, California"
-murratr01,2001-02,30,Toronto Raptors,NBA,40,11.8,.411,.810,1.3,0.5,0.3,0.2,5.7,13.6,0.8,.079,-2.7,-0.1,,3400000,"Glendora in Glendora, California"
-murratr01,2002-03,31,Los Angeles Lakers,NBA,31,6.2,.324,.778,0.7,0.4,0.2,0.1,2.0,5.2,-0.2,-0.054,-7.8,-0.3,,3740000,"Glendora in Glendora, California"
-murratr01,2003-04,32,Portland Trail Blazers,NBA,7,5.0,.250,.000,0.7,0.1,0.1,0.0,1.1,2.4,-0.1,-0.109,-9.0,-0.1,,143537,"Glendora in Glendora, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-2.85,-0.19,murratr01,1992-93,POR,11.9,0.5,.049,-6.3,-0.5,,NBA,725000,21,48,10.3,.415,.875,1.7,0.2,0.2,0.1,5.7,POR
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-0.86,0.79,murratr01,1993-94,POR,15.3,2.2,.126,-1.4,0.1,,NBA,943000,22,66,12.4,.470,.694,1.7,0.5,0.3,0.3,6.6,POR
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-2.58,-0.10,murratr01,1994-95,TOT,10.8,0.5,.047,-5.3,-0.4,,NBA,1160000,23,54,9.6,.408,.786,1.1,0.4,0.3,0.1,4.8,"POR,HOU"
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-1.12,1.95,murratr01,1995-96,TOR,16.8,4.9,.096,-0.9,0.7,,NBA,250000,24,82,30.0,.454,.831,4.3,1.6,1.1,0.5,16.2,TOR
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-0.41,2.40,murratr01,1996-97,WSB,14.6,4.4,.116,-0.5,0.7,,NBA,1700000,25,82,22.1,.425,.839,3.1,1.0,0.8,0.2,10.0,WSB
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",+0.02,3.47,murratr01,1997-98,WAS,17.3,6.5,.139,0.2,1.2,,NBA,2040000,26,82,27.2,.446,.871,3.4,1.0,0.8,0.3,15.1,WAS
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-2.21,-0.02,murratr01,1998-99,WAS,9.6,0.3,.025,-3.6,-0.3,,NBA,2380000,27,36,18.1,.350,.810,2.3,0.8,0.6,0.2,6.5,WAS
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-1.05,1.50,murratr01,1999-00,WAS,14.1,3.8,.101,-0.5,0.7,,NBA,2720000,28,80,22.9,.433,.851,3.4,0.9,0.6,0.3,10.2,WAS
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-2.96,-0.30,murratr01,2000-01,TOT,11.4,0.6,.046,-4.5,-0.4,,NBA,3060000,29,51,11.5,.379,.786,1.6,0.5,0.2,0.1,5.0,"DEN,TOR"
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-2.27,-0.01,murratr01,2001-02,TOR,13.6,0.8,.079,-2.7,-0.1,,NBA,3400000,30,40,11.8,.411,.810,1.3,0.5,0.3,0.2,5.7,TOR
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",-2.47,-0.03,murratr01,2002-03,LAL,5.2,-0.2,-0.054,-7.8,-0.3,,NBA,3740000,31,31,6.2,.324,.778,0.7,0.4,0.2,0.1,2.0,LAL
+Tracy Murray,/players/m/murratr01.html,1993,2004,"University of California, Los Angeles",false,"Glendora in Glendora, California",+0.06,0.06,murratr01,2003-04,POR,2.4,-0.1,-0.109,-9.0,-0.1,,NBA,143537,32,7,5.0,.250,.000,0.7,0.1,0.1,0.0,1.1,POR

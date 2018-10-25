@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-adamsja01,2018-19,22,ATL,NBA,2,2.5,.000,,0.5,0.5,0.0,0.0,0.0,0.9,0.0,-0.075,-10.3,0.0,,"Mount St. Joseph in Baltimore, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jaylen Adams,/players/a/adamsja01.html,2019,2019,St. Bonaventure University,true,"Mount St. Joseph in Baltimore, Maryland",,,adamsja01,2018-19,ATL,0.9,0.0,-0.075,-10.3,0.0,,22,NBA,2,2.5,.000,,0.5,0.5,0.0,0.0,0.0,ATL

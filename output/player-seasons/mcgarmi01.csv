@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcgarmi01,2014-15,22,Oklahoma City Thunder,NBA,32,15.2,.533,.625,5.2,0.4,0.5,0.5,6.3,16.6,1.3,.127,-2.4,-0.1,,1400040,"Brewster Academy in Wolfeboro, New Hampshire"
-mcgarmi01,2015-16,23,Oklahoma City Thunder,NBA,20,3.6,.478,.400,0.9,0.2,0.1,0.1,1.3,7.4,0.0,-0.018,-7.7,-0.1,,1463040,"Brewster Academy in Wolfeboro, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mitch McGary,/players/m/mcgarmi01.html,2015,2016,University of Michigan,false,"Brewster Academy in Wolfeboro, New Hampshire",+0.14,0.79,mcgarmi01,2014-15,OKC,16.6,1.3,.127,-2.4,-0.1,,NBA,1400040,22,32,15.2,.533,.625,5.2,0.4,0.5,0.5,6.3,OKC
+Mitch McGary,/players/m/mcgarmi01.html,2015,2016,University of Michigan,false,"Brewster Academy in Wolfeboro, New Hampshire",-1.61,0.03,mcgarmi01,2015-16,OKC,7.4,0.0,-0.018,-7.7,-0.1,,NBA,1463040,23,20,3.6,.478,.400,0.9,0.2,0.1,0.1,1.3,OKC

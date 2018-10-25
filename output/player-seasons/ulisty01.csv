@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ulisty01,2016-17,21,Phoenix Suns,NBA,61,18.4,.421,.775,1.6,3.7,0.8,0.1,7.3,13.0,0.7,.029,-4.0,-0.6,,918369,"Marian Catholic in Chicago Heights, Illinois"
-ulisty01,2017-18,22,Phoenix Suns,NBA,71,23.4,.388,.832,1.8,4.4,1.0,0.1,7.8,10.1,-0.2,-0.006,-5.2,-1.3,,1312611,"Marian Catholic in Chicago Heights, Illinois"
-ulisty01,2018-19,23,CHI,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.041,-5.6,0.0,,,"Marian Catholic in Chicago Heights, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyler Ulis,/players/u/ulisty01.html,2017,2019,University of Kentucky,true,"Marian Catholic in Chicago Heights, Illinois",-1.89,0.31,ulisty01,2016-17,PHO,13.0,0.7,.029,-4.0,-0.6,,NBA,918369,21,61,18.4,.421,.775,1.6,3.7,0.8,0.1,7.3,PHO
+Tyler Ulis,/players/u/ulisty01.html,2017,2019,University of Kentucky,true,"Marian Catholic in Chicago Heights, Illinois",-2.53,-0.26,ulisty01,2017-18,PHO,10.1,-0.2,-0.006,-5.2,-1.3,,NBA,1312611,22,71,23.4,.388,.832,1.8,4.4,1.0,0.1,7.8,PHO
+Tyler Ulis,/players/u/ulisty01.html,2017,2019,University of Kentucky,true,"Marian Catholic in Chicago Heights, Illinois",,,ulisty01,2018-19,CHI,0.0,0.0,-0.041,-5.6,0.0,,NBA,,23,1,1.0,,,0.0,0.0,0.0,0.0,0.0,CHI

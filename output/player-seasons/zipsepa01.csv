@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-zipsepa01,2016-17,22,Chicago Bulls,NBA,44,19.2,.398,.775,2.8,0.8,0.3,0.4,5.5,6.9,0.5,.030,-3.7,-0.4,,750000,
-zipsepa01,2017-18,23,Chicago Bulls,NBA,54,15.3,.346,.760,2.4,0.9,0.4,0.3,4.0,5.2,-0.6,-0.034,-5.9,-0.8,,1312611,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul Zipser,/players/z/zipsepa01.html,2017,2018,,true,,-1.79,0.33,zipsepa01,2016-17,CHI,6.9,0.5,.030,-3.7,-0.4,,NBA,750000,22,44,19.2,.398,.775,2.8,0.8,0.3,0.4,5.5,CHI
+Paul Zipser,/players/z/zipsepa01.html,2017,2018,,true,,-4.10,-0.99,zipsepa01,2017-18,CHI,5.2,-0.6,-0.034,-5.9,-0.8,,NBA,1312611,23,54,15.3,.346,.760,2.4,0.9,0.4,0.3,4.0,CHI

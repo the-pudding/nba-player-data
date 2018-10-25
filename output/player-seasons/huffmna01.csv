@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-huffmna01,2002-03,27,Toronto Raptors,NBA,7,10.9,.360,.625,3.3,0.7,0.1,0.4,3.3,11.8,0.1,.040,-4.5,0.0,,349458,"Lakeview in Battle Creek, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nate Huffman,/players/h/huffmna01.html,2003,2003,Central Michigan University,false,"Lakeview in Battle Creek, Michigan",-0.28,0.11,huffmna01,2002-03,TOR,11.8,0.1,.040,-4.5,0.0,,NBA,349458,27,7,10.9,.360,.625,3.3,0.7,0.1,0.4,3.3,TOR

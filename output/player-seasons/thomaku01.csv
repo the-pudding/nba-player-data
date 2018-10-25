@@ -1,21 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thomaku01,1995-96,23,Miami Heat,NBA,74,22.4,.501,.663,5.9,0.6,0.6,0.5,9.0,13.5,3.8,.110,-2.4,-0.2,,1071000,"Hillcrest in Dallas, Texas"
-thomaku01,1996-97,24,Miami Heat,NBA,18,20.8,.371,.761,5.9,0.5,0.7,0.5,6.3,9.5,0.5,.070,-4.9,-0.3,,1238000,"Hillcrest in Dallas, Texas"
-thomaku01,1997-98,25,Dallas Mavericks,NBA,5,14.6,.378,1.000,4.8,0.6,0.2,0.0,7.4,6.4,-0.2,-0.161,-14.4,-0.2,,1398960,"Hillcrest in Dallas, Texas"
-thomaku01,1998-99,26,New York Knicks,NBA,50,23.6,.462,.611,5.7,1.1,0.9,0.3,8.1,13.1,2.5,.100,-0.3,0.5,,1750000,"Hillcrest in Dallas, Texas"
-thomaku01,1999-00,27,New York Knicks,NBA,80,24.6,.505,.781,6.3,1.0,0.6,0.5,8.0,13.6,5.2,.127,0.6,1.3,,1925000,"Hillcrest in Dallas, Texas"
-thomaku01,2000-01,28,New York Knicks,NBA,77,27.6,.511,.814,6.7,0.8,0.8,0.9,10.4,16.9,8.2,.185,2.1,2.2,,3680000,"Hillcrest in Dallas, Texas"
-thomaku01,2001-02,29,New York Knicks,NBA,82,33.8,.494,.815,9.1,1.1,0.9,1.0,13.9,15.8,6.5,.112,-0.3,1.2,,4413375,"Hillcrest in Dallas, Texas"
-thomaku01,2002-03,30,New York Knicks,NBA,81,31.8,.483,.750,7.9,2.0,1.0,1.2,14.0,16.7,5.4,.100,0.9,1.9,,4903750,"Hillcrest in Dallas, Texas"
-thomaku01,2003-04,31,New York Knicks,NBA,80,31.9,.473,.835,8.3,1.9,0.7,1.0,11.1,14.1,5.0,.094,0.3,1.5,,5394125,"Hillcrest in Dallas, Texas"
-thomaku01,2004-05,32,New York Knicks,NBA,80,35.7,.471,.786,10.4,2.0,0.9,1.0,11.5,14.1,5.2,.087,0.0,1.5,,5884500,"Hillcrest in Dallas, Texas"
-thomaku01,2005-06,33,Phoenix Suns,NBA,53,26.6,.486,.815,7.8,1.1,0.4,1.0,8.6,13.1,3.3,.112,-1.2,0.3,,6620062,"Hillcrest in Dallas, Texas"
-thomaku01,2006-07,34,Phoenix Suns,NBA,67,18.0,.486,.789,5.7,0.4,0.4,0.4,4.6,11.4,2.9,.115,-2.2,0.0,,7821482,"Hillcrest in Dallas, Texas"
-thomaku01,2007-08,35,San Antonio Spurs,NBA,70,22.6,.492,.663,7.2,1.0,0.8,0.8,6.3,14.2,4.1,.123,0.4,1.0,,8091188,"Hillcrest in Dallas, Texas"
-thomaku01,2007-08,35,San Antonio Spurs,NBA,42,25.2,.513,.696,8.8,1.3,0.8,1.0,7.5,15.8,3.0,.134,1.4,0.9,,8091188,"Hillcrest in Dallas, Texas"
-thomaku01,2007-08,35,San Antonio Spurs,NBA,28,18.7,.448,.583,4.9,0.5,0.8,0.5,4.5,11.1,1.1,.100,-1.6,0.1,,8091188,"Hillcrest in Dallas, Texas"
-thomaku01,2008-09,36,San Antonio Spurs,NBA,79,17.8,.503,.822,5.1,0.8,0.4,0.7,4.3,14.0,4.5,.152,1.1,1.1,,4200000,"Hillcrest in Dallas, Texas"
-thomaku01,2009-10,37,Milwaukee Bucks,NBA,70,15.0,.476,.800,4.2,0.7,0.4,0.7,3.0,9.9,2.1,.095,-0.8,0.3,,3800000,"Hillcrest in Dallas, Texas"
-thomaku01,2010-11,38,Chicago Bulls,NBA,52,22.7,.511,.625,5.8,1.2,0.6,0.8,4.1,10.0,3.2,.131,1.1,0.9,,1352181,"Hillcrest in Dallas, Texas"
-thomaku01,2011-12,39,POR,NBA,53,15.2,.465,.700,3.5,0.9,0.5,0.6,3.0,9.5,1.1,.067,-1.3,0.1,,,"Hillcrest in Dallas, Texas"
-thomaku01,2012-13,40,NYK,NBA,39,10.1,.542,.462,2.3,0.5,0.3,0.4,2.5,13.3,1.1,.135,0.4,0.2,,,"Hillcrest in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.08,2.74,thomaku01,1995-96,MIA,13.5,3.8,.110,-2.4,-0.2,,NBA,1071000,23,74,22.4,.501,.663,5.9,0.6,0.6,0.5,9.0,MIA
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-1.16,0.27,thomaku01,1996-97,MIA,9.5,0.5,.070,-4.9,-0.3,,NBA,1238000,24,18,20.8,.371,.761,5.9,0.5,0.7,0.5,6.3,MIA
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-0.33,0.09,thomaku01,1997-98,DAL,6.4,-0.2,-0.161,-14.4,-0.2,,NBA,1398960,25,5,14.6,.378,1.000,4.8,0.6,0.2,0.0,7.4,DAL
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-0.46,1.91,thomaku01,1998-99,NYK,13.1,2.5,.100,-0.3,0.5,,NBA,1750000,26,50,23.6,.462,.611,5.7,1.1,0.9,0.3,8.1,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-0.59,2.48,thomaku01,1999-00,NYK,13.6,5.2,.127,0.6,1.3,,NBA,1925000,27,80,24.6,.505,.781,6.3,1.0,0.6,0.5,8.0,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+2.63,7.93,thomaku01,2000-01,NYK,16.9,8.2,.185,2.1,2.2,,NBA,3680000,28,77,27.6,.511,.814,6.7,0.8,0.8,0.9,10.4,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-1.27,1.81,thomaku01,2001-02,NYK,15.8,6.5,.112,-0.3,1.2,,NBA,4413375,29,82,33.8,.494,.815,9.1,1.1,0.9,1.0,13.9,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.51,4.89,thomaku01,2002-03,NYK,16.7,5.4,.100,0.9,1.9,,NBA,4903750,30,81,31.8,.483,.750,7.9,2.0,1.0,1.2,14.0,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.72,5.52,thomaku01,2003-04,NYK,14.1,5.0,.094,0.3,1.5,,NBA,5394125,31,80,31.9,.473,.835,8.3,1.9,0.7,1.0,11.1,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-0.06,4.29,thomaku01,2004-05,NYK,14.1,5.2,.087,0.0,1.5,,NBA,5884500,32,80,35.7,.471,.786,10.4,2.0,0.9,1.0,11.5,NYK
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.58,2.76,thomaku01,2005-06,PHO,13.1,3.3,.112,-1.2,0.3,,NBA,6620062,33,53,26.6,.486,.815,7.8,1.1,0.4,1.0,8.6,PHO
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.28,2.46,thomaku01,2006-07,PHO,11.4,2.9,.115,-2.2,0.0,,NBA,7821482,34,67,18.0,.486,.789,5.7,0.4,0.4,0.4,4.6,PHO
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.46,3.45,thomaku01,2007-08,TOT,14.2,4.1,.123,0.4,1.0,,NBA,8091188,35,70,22.6,.492,.663,7.2,1.0,0.8,0.8,6.3,"SEA,SAS"
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",+0.52,2.82,thomaku01,2008-09,SAS,14.0,4.5,.152,1.1,1.1,,NBA,4200000,36,79,17.8,.503,.822,5.1,0.8,0.4,0.7,4.3,SAS
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-2.23,0.04,thomaku01,2009-10,MIL,9.9,2.1,.095,-0.8,0.3,,NBA,3800000,37,70,15.0,.476,.800,4.2,0.7,0.4,0.7,3.0,MIL
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-0.09,1.85,thomaku01,2010-11,CHI,10.0,3.2,.131,1.1,0.9,,NBA,1352181,38,52,22.7,.511,.625,5.8,1.2,0.6,0.8,4.1,CHI
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-1.36,0.46,thomaku01,2011-12,POR,9.5,1.1,.067,-1.3,0.1,,NBA,,39,53,15.2,.465,.700,3.5,0.9,0.5,0.6,3.0,POR
+Kurt Thomas,/players/t/thomaku01.html,1996,2013,Texas Christian University,false,"Hillcrest in Dallas, Texas",-0.62,0.44,thomaku01,2012-13,NYK,13.3,1.1,.135,0.4,0.2,,NBA,,40,39,10.1,.542,.462,2.3,0.5,0.3,0.4,2.5,NYK

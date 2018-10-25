@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-freewo01,1976-77,23,PHI,NBA,78,28.9,.457,.720,3.0,3.4,1.0,0.3,16.3,16.2,4.6,.099,-1.0,0.6,,"Canarsie in Brooklyn, New York",
-freewo01,1977-78,24,PHI,NBA,76,27.0,.455,.731,2.8,4.0,0.9,0.5,15.7,17.4,6.0,.140,-0.1,1.0,,"Canarsie in Brooklyn, New York",
-freewo01,1978-79,25,SDC,NBA,78,37.9,.481,.756,3.9,4.4,1.4,0.4,28.8,22.1,10.1,.164,1.3,2.5,All-NBA (2nd),"Canarsie in Brooklyn, New York",
-freewo01,1979-80,26,SDC,NBA,68,38.0,.474,.753,3.5,4.2,1.2,0.5,30.2,22.7,8.0,.148,1.0,1.9,,"Canarsie in Brooklyn, New York",
-freewo01,1980-81,27,GSW,NBA,65,36.5,.446,.814,2.4,5.6,1.3,0.2,24.1,19.5,7.4,.150,0.1,1.3,,"Canarsie in Brooklyn, New York",
-freewo01,1981-82,28,GSW,NBA,78,35.8,.448,.740,3.2,5.4,0.9,0.1,22.9,18.2,6.9,.118,0.1,1.5,,"Canarsie in Brooklyn, New York",
-freewo01,1982-83,29,"GSW,CLE",NBA,73,36.1,.456,.738,2.8,4.0,1.3,0.2,23.9,18.4,5.7,.104,-0.1,1.3,,"Canarsie in Brooklyn, New York",
-freewo01,1983-84,30,CLE,NBA,75,31.7,.445,.784,2.9,3.0,1.3,0.1,22.3,18.8,5.3,.107,0.2,1.3,,"Canarsie in Brooklyn, New York",
-freewo01,1984-85,31,Cleveland Cavaliers,NBA,71,31.7,.459,.749,3.0,4.5,1.1,0.2,22.5,19.7,6.0,.127,2.5,2.6,,"Canarsie in Brooklyn, New York",675000
-freewo01,1985-86,32,Cleveland Cavaliers,NBA,75,33.8,.455,.780,2.9,4.2,1.2,0.3,23.4,19.0,6.1,.115,1.5,2.3,,"Canarsie in Brooklyn, New York",675000
-freewo01,1986-87,33,PHI,NBA,20,14.3,.317,.766,1.0,1.5,0.3,0.2,5.8,7.1,-0.2,-0.037,-9.4,-0.5,,"Canarsie in Brooklyn, New York",
-freewo01,1987-88,34,Houston Rockets,NBA,58,11.8,.409,.800,0.8,1.0,0.3,0.1,6.4,11.1,0.4,.028,-6.2,-0.7,,"Canarsie in Brooklyn, New York",200000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",-0.52,2.95,freewo01,1976-77,PHI,16.2,4.6,.099,-1.0,0.6,,23,NBA,78,28.9,.457,.720,3.0,3.4,1.0,0.3,16.3,PHI,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.67,4.67,freewo01,1977-78,PHI,17.4,6.0,.140,-0.1,1.0,,24,NBA,76,27.0,.455,.731,2.8,4.0,0.9,0.5,15.7,PHI,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+1.51,7.53,freewo01,1978-79,SDC,22.1,10.1,.164,1.3,2.5,All-NBA (2nd),25,NBA,78,37.9,.481,.756,3.9,4.4,1.4,0.4,28.8,SDC,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.91,5.55,freewo01,1979-80,SDC,22.7,8.0,.148,1.0,1.9,,26,NBA,68,38.0,.474,.753,3.5,4.2,1.2,0.5,30.2,SDC,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.95,5.14,freewo01,1980-81,GSW,19.5,7.4,.150,0.1,1.3,,27,NBA,65,36.5,.446,.814,2.4,5.6,1.3,0.2,24.1,GSW,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.67,5.56,freewo01,1981-82,GSW,18.2,6.9,.118,0.1,1.5,,28,NBA,78,35.8,.448,.740,3.2,5.4,0.9,0.1,22.9,GSW,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",-0.38,3.37,freewo01,1982-83,TOT,18.4,5.7,.104,-0.1,1.3,,29,NBA,73,36.1,.456,.738,2.8,4.0,1.3,0.2,23.9,"GSW,CLE",
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.35,4.22,freewo01,1983-84,CLE,18.8,5.3,.107,0.2,1.3,,30,NBA,75,31.7,.445,.784,2.9,3.0,1.3,0.1,22.3,CLE,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.90,5.14,freewo01,1984-85,CLE,19.7,6.0,.127,2.5,2.6,,31,NBA,71,31.7,.459,.749,3.0,4.5,1.1,0.2,22.5,CLE,675000
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",+0.75,5.19,freewo01,1985-86,CLE,19.0,6.1,.115,1.5,2.3,,32,NBA,75,33.8,.455,.780,2.9,4.2,1.2,0.3,23.4,CLE,675000
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",-3.07,-0.15,freewo01,1986-87,PHI,7.1,-0.2,-0.037,-9.4,-0.5,,33,NBA,20,14.3,.317,.766,1.0,1.5,0.3,0.2,5.8,PHI,
+World B. Free,/players/f/freewo01.html,1976,1988,Guilford College,false,"Canarsie in Brooklyn, New York",-2.80,-0.25,freewo01,1987-88,HOU,11.1,0.4,.028,-6.2,-0.7,,34,NBA,58,11.8,.409,.800,0.8,1.0,0.3,0.1,6.4,HOU,200000

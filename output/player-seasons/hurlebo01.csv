@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hurlebo01,1993-94,22,Sacramento Kings,NBA,19,26.3,.370,.800,1.8,6.1,0.7,0.1,7.1,8.4,-0.5,-0.044,-8.0,-0.8,,1616000,"Saint Anthony's in Jersey City, New Jersey"
-hurlebo01,1994-95,23,Sacramento Kings,NBA,68,16.3,.363,.763,1.0,3.3,0.4,0.0,4.2,7.7,-0.3,-0.014,-7.2,-1.4,,2100000,"Saint Anthony's in Jersey City, New Jersey"
-hurlebo01,1995-96,24,Sacramento Kings,NBA,72,14.7,.283,.800,1.0,3.0,0.4,0.0,3.1,6.5,-0.3,-0.013,-7.3,-1.4,,2584000,"Saint Anthony's in Jersey City, New Jersey"
-hurlebo01,1996-97,25,Sacramento Kings,NBA,49,12.9,.368,.698,0.8,3.0,0.6,0.1,2.9,10.4,0.4,.031,-6.8,-0.8,,3068000,"Saint Anthony's in Jersey City, New Jersey"
-hurlebo01,1997-98,26,Sacramento Kings,NBA,61,14.3,.391,.776,1.1,2.9,0.4,0.0,4.1,9.0,-0.5,-0.029,-8.5,-1.4,,3552000,"Saint Anthony's in Jersey City, New Jersey"
-hurlebo01,1997-98,26,Sacramento Kings,NBA,34,12.3,.409,.811,1.1,2.4,0.4,0.0,3.8,10.2,0.0,.001,-7.1,-0.5,,3552000,"Saint Anthony's in Jersey City, New Jersey"
-hurlebo01,1997-98,26,Sacramento Kings,NBA,27,17.0,.374,.744,1.1,3.6,0.4,0.0,4.5,7.9,-0.5,-0.056,-9.7,-0.9,,3552000,"Saint Anthony's in Jersey City, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bobby Hurley,/players/h/hurlebo01.html,1994,1998,Duke University,false,"Saint Anthony's in Jersey City, New Jersey",-2.99,-0.25,hurlebo01,1993-94,SAC,8.4,-0.5,-0.044,-8.0,-0.8,,NBA,1616000,22,19,26.3,.370,.800,1.8,6.1,0.7,0.1,7.1,SAC
+Bobby Hurley,/players/h/hurlebo01.html,1994,1998,Duke University,false,"Saint Anthony's in Jersey City, New Jersey",-3.32,-0.79,hurlebo01,1994-95,SAC,7.7,-0.3,-0.014,-7.2,-1.4,,NBA,2100000,23,68,16.3,.363,.763,1.0,3.3,0.4,0.0,4.2,SAC
+Bobby Hurley,/players/h/hurlebo01.html,1994,1998,Duke University,false,"Saint Anthony's in Jersey City, New Jersey",-3.30,-0.71,hurlebo01,1995-96,SAC,6.5,-0.3,-0.013,-7.3,-1.4,,NBA,2584000,24,72,14.7,.283,.800,1.0,3.0,0.4,0.0,3.1,SAC
+Bobby Hurley,/players/h/hurlebo01.html,1994,1998,Duke University,false,"Saint Anthony's in Jersey City, New Jersey",-1.56,0.30,hurlebo01,1996-97,SAC,10.4,0.4,.031,-6.8,-0.8,,NBA,3068000,25,49,12.9,.368,.698,0.8,3.0,0.6,0.1,2.9,SAC
+Bobby Hurley,/players/h/hurlebo01.html,1994,1998,Duke University,false,"Saint Anthony's in Jersey City, New Jersey",-3.84,-0.93,hurlebo01,1997-98,TOT,9.0,-0.5,-0.029,-8.5,-1.4,,NBA,3552000,26,61,14.3,.391,.776,1.1,2.9,0.4,0.0,4.1,"SAC,VAN"

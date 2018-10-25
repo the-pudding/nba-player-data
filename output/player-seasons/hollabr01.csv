@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hollabr01,1979-80,23,LAL,NBA,38,5.2,.423,.938,0.4,0.6,0.4,0.0,2.8,14.3,0.3,.081,-4.0,-0.1,,"Crescenta Valley in La Crescenta, California"
-hollabr01,1980-81,24,LAL,NBA,41,7.2,.423,.714,0.7,0.6,0.5,0.0,3.2,9.8,0.1,.024,-5.4,-0.3,,"Crescenta Valley in La Crescenta, California"
-hollabr01,1981-82,25,"WSB,MIL",NBA,14,13.9,.346,.500,0.9,1.3,0.8,0.1,4.1,6.8,-0.1,-0.025,-5.3,-0.2,,"Crescenta Valley in La Crescenta, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brad Holland,/players/h/hollabr01.html,1980,1982,"University of California, Los Angeles",false,"Crescenta Valley in La Crescenta, California",-0.23,0.32,hollabr01,1979-80,LAL,14.3,0.3,.081,-4.0,-0.1,,23,NBA,38,5.2,.423,.938,0.4,0.6,0.4,0.0,2.8,LAL
+Brad Holland,/players/h/hollabr01.html,1980,1982,"University of California, Los Angeles",false,"Crescenta Valley in La Crescenta, California",-1.77,0.09,hollabr01,1980-81,LAL,9.8,0.1,.024,-5.4,-0.3,,24,NBA,41,7.2,.423,.714,0.7,0.6,0.5,0.0,3.2,LAL
+Brad Holland,/players/h/hollabr01.html,1980,1982,"University of California, Los Angeles",false,"Crescenta Valley in La Crescenta, California",-0.44,0.24,hollabr01,1981-82,TOT,6.8,-0.1,-0.025,-5.3,-0.2,,25,NBA,14,13.9,.346,.500,0.9,1.3,0.8,0.1,4.1,"WSB,MIL"

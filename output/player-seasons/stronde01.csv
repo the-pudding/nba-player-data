@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stronde01,1991-92,23,Philadelphia 76ers,NBA,1,12.0,.000,.750,5.0,1.0,0.0,0.0,3.0,3.2,0.0,-0.160,-15.6,0.0,,130000,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1992-93,24,MIL,NBA,23,14.7,.457,.800,5.0,0.6,0.5,0.0,6.8,20.0,1.5,.208,-1.4,0.1,,,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1993-94,25,Milwaukee Bucks,NBA,67,16.9,.413,.772,4.2,0.7,0.6,0.2,6.6,14.6,2.1,.088,-3.8,-0.5,,420000,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1994-95,26,Boston Celtics,NBA,70,19.2,.453,.820,5.4,0.6,0.3,0.2,6.3,12.5,2.4,.086,-2.7,-0.2,,500000,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1995-96,27,Los Angeles Lakers,NBA,63,11.8,.426,.812,2.8,0.5,0.3,0.2,3.4,12.4,1.9,.125,-2.2,0.0,,1000000,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1996-97,28,Orlando Magic,NBA,82,24.4,.447,.803,6.3,0.9,0.6,0.2,8.5,13.6,4.1,.099,-2.8,-0.4,,247500,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1997-98,29,Orlando Magic,NBA,58,28.2,.420,.781,7.4,0.9,0.5,0.4,12.7,16.6,4.4,.130,-2.5,-0.2,,326700,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1998-99,30,Orlando Magic,NBA,44,15.8,.422,.717,3.7,0.4,0.3,0.2,5.1,12.1,1.6,.109,-3.7,-0.3,,3000000,"Pacific Palisades in Pacific Palisades, California"
-stronde01,1999-00,31,Orlando Magic,NBA,20,7.4,.438,.786,2.2,0.2,0.3,0.1,2.7,12.0,0.2,.069,-5.2,-0.1,,3159000,"Pacific Palisades in Pacific Palisades, California"
-stronde01,2000-01,32,Los Angeles Clippers,NBA,28,17.5,.385,.757,3.9,0.3,0.5,0.0,4.2,8.8,0.3,.026,-5.5,-0.4,,3510000,"Pacific Palisades in Pacific Palisades, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",+0.03,0.02,stronde01,1991-92,WSB,3.2,0.0,-0.160,-15.6,0.0,,NBA,130000,23,1,12.0,.000,.750,5.0,1.0,0.0,0.0,3.0,WSB
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",+0.47,0.63,stronde01,1992-93,MIL,20.0,1.5,.208,-1.4,0.1,,NBA,,24,23,14.7,.457,.800,5.0,0.6,0.5,0.0,6.8,MIL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-1.98,0.21,stronde01,1993-94,MIL,14.6,2.1,.088,-3.8,-0.5,,NBA,420000,25,67,16.9,.413,.772,4.2,0.7,0.6,0.2,6.6,MIL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-2.13,0.18,stronde01,1994-95,BOS,12.5,2.4,.086,-2.7,-0.2,,NBA,500000,26,70,19.2,.453,.820,5.4,0.6,0.3,0.2,6.3,BOS
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-1.31,0.49,stronde01,1995-96,LAL,12.4,1.9,.125,-2.2,0.0,,NBA,1000000,27,63,11.8,.426,.812,2.8,0.5,0.3,0.2,3.4,LAL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-1.62,0.94,stronde01,1996-97,ORL,13.6,4.1,.099,-2.8,-0.4,,NBA,247500,28,82,24.4,.447,.803,6.3,0.9,0.6,0.2,8.5,ORL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-0.74,1.68,stronde01,1997-98,ORL,16.6,4.4,.130,-2.5,-0.2,,NBA,326700,29,58,28.2,.420,.781,7.4,0.9,0.5,0.4,12.7,ORL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-1.62,0.24,stronde01,1998-99,ORL,12.1,1.6,.109,-3.7,-0.3,,NBA,3000000,30,44,15.8,.422,.717,3.7,0.4,0.3,0.2,5.1,ORL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",+0.05,0.23,stronde01,1999-00,ORL,12.0,0.2,.069,-5.2,-0.1,,NBA,3159000,31,20,7.4,.438,.786,2.2,0.2,0.3,0.1,2.7,ORL
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false,"Pacific Palisades in Pacific Palisades, California",-1.81,0.11,stronde01,2000-01,LAC,8.8,0.3,.026,-5.5,-0.4,,NBA,3510000,32,28,17.5,.385,.757,3.9,0.3,0.5,0.0,4.2,LAC

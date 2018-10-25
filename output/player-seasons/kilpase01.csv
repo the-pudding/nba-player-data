@@ -1,11 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kilpase01,2014-15,25,Golden State Warriors,NBA,4,18.0,.350,1.000,1.5,1.0,0.8,0.0,5.5,10.0,0.1,.033,-3.8,0.0,,35000,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2015-16,26,Brooklyn Nets,NBA,31,19.9,.456,.896,1.8,0.9,0.4,0.1,11.1,15.6,1.0,.076,-3.0,-0.2,,320594,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2015-16,26,Brooklyn Nets,NBA,8,10.3,.381,.875,0.8,0.4,0.3,0.0,3.4,8.0,0.1,.037,-4.3,0.0,,320594,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2015-16,26,Brooklyn Nets,NBA,23,23.2,.462,.898,2.2,1.1,0.4,0.1,13.8,16.7,0.9,.082,-2.8,-0.1,,320594,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2016-17,27,Brooklyn Nets,NBA,70,25.1,.415,.843,4.0,2.2,0.6,0.1,13.1,13.1,1.4,.040,-3.0,-0.4,,980431,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2017-18,28,Chicago Bulls,NBA,52,12.3,.374,.889,1.7,0.9,0.3,0.1,6.3,11.6,0.1,.008,-6.1,-0.7,,2163006,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2017-18,28,Chicago Bulls,NBA,16,11.4,.287,.947,2.2,0.9,0.1,0.1,4.9,4.9,-0.4,-0.116,-10.2,-0.4,,2163006,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2017-18,28,Chicago Bulls,NBA,23,8.9,.378,.947,1.1,0.7,0.2,0.0,4.0,11.3,0.1,.035,-6.1,-0.2,,2163006,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2017-18,28,Chicago Bulls,NBA,4,9.5,.389,1.000,0.5,0.8,0.0,0.0,4.8,10.5,0.0,.029,-7.9,-0.1,,2163006,"Notre Dame Prep in Fitchburg, Massachusetts"
-kilpase01,2017-18,28,Chicago Bulls,NBA,9,23.8,.439,.813,2.8,1.4,0.7,0.3,15.4,17.7,0.4,.083,-2.3,0.0,,2163006,"Notre Dame Prep in Fitchburg, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sean Kilpatrick,/players/k/kilpase01.html,2015,2018,University of Cincinnati,true,"Notre Dame Prep in Fitchburg, Massachusetts",-0.21,0.10,kilpase01,2014-15,MIN,10.0,0.1,.033,-3.8,0.0,,NBA,35000,25,4,18.0,.350,1.000,1.5,1.0,0.8,0.0,5.5,MIN
+Sean Kilpatrick,/players/k/kilpase01.html,2015,2018,University of Cincinnati,true,"Notre Dame Prep in Fitchburg, Massachusetts",-3.00,-0.26,kilpase01,2015-16,TOT,15.6,1.0,.076,-3.0,-0.2,,NBA,320594,26,31,19.9,.456,.896,1.8,0.9,0.4,0.1,11.1,"DEN,BRK"
+Sean Kilpatrick,/players/k/kilpase01.html,2015,2018,University of Cincinnati,true,"Notre Dame Prep in Fitchburg, Massachusetts",-2.14,0.21,kilpase01,2016-17,BRK,13.1,1.4,.040,-3.0,-0.4,,NBA,980431,27,70,25.1,.415,.843,4.0,2.2,0.6,0.1,13.1,BRK
+Sean Kilpatrick,/players/k/kilpase01.html,2015,2018,University of Cincinnati,true,"Notre Dame Prep in Fitchburg, Massachusetts",-2.58,-0.12,kilpase01,2017-18,TOT,11.6,0.1,.008,-6.1,-0.7,,NBA,2163006,28,52,12.3,.374,.889,1.7,0.9,0.3,0.1,6.3,"BRK,MIL,LAC,CHI"

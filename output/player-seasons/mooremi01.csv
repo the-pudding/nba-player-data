@@ -1,21 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mooremi01,1998-99,23,DET,NBA,2,3.0,1.000,1.000,0.5,0.0,0.0,0.0,2.0,35.7,0.1,.527,0.1,0.0,,"Blacksburg in Blacksburg, South Carolina",
-mooremi01,1999-00,24,Detroit Pistons,NBA,29,16.8,.621,.794,3.9,0.6,0.3,1.1,7.9,19.6,2.2,.218,2.1,0.5,,"Blacksburg in Blacksburg, South Carolina",460000
-mooremi01,2000-01,25,Detroit Pistons,NBA,81,14.2,.493,.731,3.9,0.4,0.3,0.8,4.4,12.9,2.8,.116,-1.2,0.2,,"Blacksburg in Blacksburg, South Carolina",2850000
-mooremi01,2001-02,26,Detroit Pistons,NBA,30,7.2,.475,.769,1.8,0.4,0.2,0.3,2.6,14.9,0.6,.133,-1.4,0.0,,"Blacksburg in Blacksburg, South Carolina",2531250
-mooremi01,2002-03,27,Detroit Pistons,NBA,8,5.4,.385,.800,1.0,0.4,0.0,0.5,2.3,17.9,0.1,.157,-0.2,0.0,,"Blacksburg in Blacksburg, South Carolina",2412500
-mooremi01,2002-03,27,Detroit Pistons,NBA,3,4.0,.000,,0.3,0.0,0.0,0.7,0.0,-3.1,0.0,.018,-3.0,0.0,,"Blacksburg in Blacksburg, South Carolina",2412500
-mooremi01,2002-03,27,Detroit Pistons,NBA,5,6.2,.417,.800,1.4,0.6,0.0,0.4,3.6,26.1,0.1,.211,1.0,0.0,,"Blacksburg in Blacksburg, South Carolina",2412500
-mooremi01,2003-04,28,New Jersey Nets,NBA,32,12.3,.505,.857,2.6,0.6,0.2,0.4,4.1,13.3,1.0,.122,-1.4,0.1,,"Blacksburg in Blacksburg, South Carolina",513000
-mooremi01,2003-04,28,New Jersey Nets,NBA,4,2.5,.200,,0.5,0.0,0.0,0.0,0.5,-3.5,0.0,-0.202,-22.2,-0.1,,"Blacksburg in Blacksburg, South Carolina",513000
-mooremi01,2003-04,28,New Jersey Nets,NBA,28,13.8,.521,.857,2.9,0.7,0.3,0.5,4.6,13.7,1.0,.131,-0.8,0.1,,"Blacksburg in Blacksburg, South Carolina",513000
-mooremi01,2004-05,29,Los Angeles Clippers,NBA,74,15.9,.502,.787,3.3,0.6,0.3,0.4,5.4,12.7,2.6,.106,-1.5,0.1,,"Blacksburg in Blacksburg, South Carolina",870046
-mooremi01,2005-06,30,Seattle SuperSonics,NBA,47,12.4,.435,.742,2.8,0.6,0.1,0.3,3.3,8.6,0.1,.006,-4.8,-0.4,,"Blacksburg in Blacksburg, South Carolina",1020000
-mooremi01,2006-07,31,New Jersey Nets,NBA,79,26.4,.609,.681,5.1,0.9,0.6,0.8,9.8,14.8,5.7,.131,0.1,1.1,,"Blacksburg in Blacksburg, South Carolina",1071225
-mooremi01,2007-08,32,Sacramento Kings,NBA,82,29.1,.577,.736,6.0,1.0,0.4,0.6,8.5,11.5,4.6,.092,-0.8,0.7,,"Blacksburg in Blacksburg, South Carolina",5356000
-mooremi01,2008-09,33,Sacramento Kings,NBA,70,17.2,.553,.787,3.7,0.8,0.2,0.3,3.9,8.9,2.1,.083,-2.2,-0.1,,"Blacksburg in Blacksburg, South Carolina",5632200
-mooremi01,2008-09,33,Sacramento Kings,NBA,46,16.2,.521,.810,3.3,0.6,0.3,0.3,3.5,8.6,0.8,.052,-3.6,-0.3,,"Blacksburg in Blacksburg, South Carolina",5632200
-mooremi01,2008-09,33,Sacramento Kings,NBA,24,19.0,.600,.737,4.4,1.0,0.2,0.2,4.8,9.3,1.3,.135,0.1,0.2,,"Blacksburg in Blacksburg, South Carolina",5632200
-mooremi01,2009-10,34,Sacramento Kings,NBA,23,17.7,.600,.636,3.0,1.6,0.2,0.6,5.0,11.2,0.6,.071,-1.9,0.0,,"Blacksburg in Blacksburg, South Carolina",2000000
-mooremi01,2010-11,35,Did Not Play,,,,,,,,,,,,,,,,,"Blacksburg in Blacksburg, South Carolina",
-mooremi01,2011-12,36,GSW,NBA,7,16.9,.450,.857,3.1,0.7,0.4,0.4,3.4,6.3,0.1,.022,-4.1,-0.1,,"Blacksburg in Blacksburg, South Carolina",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",+0.75,0.01,mooremi01,1998-99,DET,35.7,0.1,.527,0.1,0.0,,23,NBA,2,3.0,1.000,1.000,0.5,0.0,0.0,0.0,2.0,DET,
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",+0.63,1.05,mooremi01,1999-00,DET,19.6,2.2,.218,2.1,0.5,,24,NBA,29,16.8,.621,.794,3.9,0.6,0.3,1.1,7.9,DET,460000
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-1.55,0.46,mooremi01,2000-01,DET,12.9,2.8,.116,-1.2,0.2,,25,NBA,81,14.2,.493,.731,3.9,0.4,0.3,0.8,4.4,DET,2850000
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-0.03,0.32,mooremi01,2001-02,DET,14.9,0.6,.133,-1.4,0.0,,26,NBA,30,7.2,.475,.769,1.8,0.4,0.2,0.3,2.6,DET,2531250
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-0.50,0.05,mooremi01,2002-03,TOT,17.9,0.1,.157,-0.2,0.0,,27,NBA,8,5.4,.385,.800,1.0,0.4,0.0,0.5,2.3,"BOS,ATL",2412500
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-1.02,0.31,mooremi01,2003-04,TOT,13.3,1.0,.122,-1.4,0.1,,28,NBA,32,12.3,.505,.857,2.6,0.6,0.2,0.4,4.1,"NJN,UTA",513000
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-2.51,-0.21,mooremi01,2004-05,LAC,12.7,2.6,.106,-1.5,0.1,,29,NBA,74,15.9,.502,.787,3.3,0.6,0.3,0.4,5.4,LAC,870046
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-2.66,-0.11,mooremi01,2005-06,SEA,8.6,0.1,.006,-4.8,-0.4,,30,NBA,47,12.4,.435,.742,2.8,0.6,0.1,0.3,3.3,SEA,1020000
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-0.38,3.17,mooremi01,2006-07,NJN,14.8,5.7,.131,0.1,1.1,,31,NBA,79,26.4,.609,.681,5.1,0.9,0.6,0.8,9.8,NJN,1071225
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-1.66,1.03,mooremi01,2007-08,SAC,11.5,4.6,.092,-0.8,0.7,,32,NBA,82,29.1,.577,.736,6.0,1.0,0.4,0.6,8.5,SAC,5356000
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-3.43,-0.93,mooremi01,2008-09,TOT,8.9,2.1,.083,-2.2,-0.1,,33,NBA,70,17.2,.553,.787,3.7,0.8,0.2,0.3,3.9,"SAC,BOS",5632200
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-3.31,-0.29,mooremi01,2009-10,GSW,11.2,0.6,.071,-1.9,0.0,,34,NBA,23,17.7,.600,.636,3.0,1.6,0.2,0.6,5.0,GSW,2000000
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",,,mooremi01,2010-11,Did Not Play,,,,,,,35,,,,,,,,,,,Did Not Play,
+Mikki Moore,/players/m/mooremi01.html,1999,2012,University of Nebraska,false,"Blacksburg in Blacksburg, South Carolina",-0.93,0.10,mooremi01,2011-12,GSW,6.3,0.1,.022,-4.1,-0.1,,36,NBA,7,16.9,.450,.857,3.1,0.7,0.4,0.4,3.4,GSW,

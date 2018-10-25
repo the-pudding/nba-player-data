@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dawsoer01,2011-12,27,San Antonio Spurs,NBA,4,9.8,.583,.500,2.5,0.0,0.3,0.5,3.8,14.6,0.1,.106,-5.9,0.0,,38172,"Sam Houston in San Antonio, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Dawson,/players/d/dawsoer01.html,2012,2012,Midwestern State University,false,"Sam Houston in San Antonio, Texas",+0.27,0.07,dawsoer01,2011-12,SAS,14.6,0.1,.106,-5.9,0.0,,NBA,38172,27,4,9.8,.583,.500,2.5,0.0,0.3,0.5,3.8,SAS

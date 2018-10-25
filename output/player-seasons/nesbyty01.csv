@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-nesbyty01,1998-99,23,Los Angeles Clippers,NBA,50,25.8,.449,.782,3.5,1.6,1.5,0.4,10.1,17.0,3.1,.117,2.2,1.4,,287500,"Cairo in Cairo, Illinois"
-nesbyty01,1999-00,24,Los Angeles Clippers,NBA,73,31.7,.398,.791,3.8,1.7,1.0,0.4,13.3,12.6,1.3,.027,-2.4,-0.2,,2716667,"Cairo in Cairo, Illinois"
-nesbyty01,2000-01,25,Washington Wizards,NBA,62,25.1,.357,.802,2.8,1.2,0.8,0.3,8.3,8.9,0.3,.008,-3.2,-0.5,,2990000,"Cairo in Cairo, Illinois"
-nesbyty01,2000-01,25,Washington Wizards,NBA,14,23.8,.325,.783,3.0,0.8,0.7,0.3,7.7,8.5,0.0,.004,-3.8,-0.2,,2990000,"Cairo in Cairo, Illinois"
-nesbyty01,2000-01,25,Washington Wizards,NBA,48,25.5,.366,.807,2.7,1.4,0.9,0.3,8.4,9.0,0.2,.009,-3.0,-0.3,,2990000,"Cairo in Cairo, Illinois"
-nesbyty01,2001-02,26,Washington Wizards,NBA,70,21.4,.435,.688,4.5,1.3,0.9,0.3,6.3,13.1,2.9,.094,0.4,0.9,,3260000,"Cairo in Cairo, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyrone Nesby,/players/n/nesbyty01.html,1999,2002,"University of Nevada, Las Vegas",false,"Cairo in Cairo, Illinois",-0.00,1.98,nesbyty01,1998-99,LAC,17.0,3.1,.117,2.2,1.4,,NBA,287500,23,50,25.8,.449,.782,3.5,1.6,1.5,0.4,10.1,LAC
+Tyrone Nesby,/players/n/nesbyty01.html,1999,2002,"University of Nevada, Las Vegas",false,"Cairo in Cairo, Illinois",-3.06,-1.30,nesbyty01,1999-00,LAC,12.6,1.3,.027,-2.4,-0.2,,NBA,2716667,24,73,31.7,.398,.791,3.8,1.7,1.0,0.4,13.3,LAC
+Tyrone Nesby,/players/n/nesbyty01.html,1999,2002,"University of Nevada, Las Vegas",false,"Cairo in Cairo, Illinois",-1.80,0.40,nesbyty01,2000-01,TOT,8.9,0.3,.008,-3.2,-0.5,,NBA,2990000,25,62,25.1,.357,.802,2.8,1.2,0.8,0.3,8.3,"LAC,WAS"
+Tyrone Nesby,/players/n/nesbyty01.html,1999,2002,"University of Nevada, Las Vegas",false,"Cairo in Cairo, Illinois",+0.47,2.80,nesbyty01,2001-02,WAS,13.1,2.9,.094,0.4,0.9,,NBA,3260000,26,70,21.4,.435,.688,4.5,1.3,0.9,0.3,6.3,WAS

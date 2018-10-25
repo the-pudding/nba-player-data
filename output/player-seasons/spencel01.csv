@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-spencel01,1992-93,23,Los Angeles Clippers,NBA,44,6.4,.537,.500,1.4,0.2,0.2,0.4,2.4,9.7,0.2,.026,-5.2,-0.2,,438000,"Booker T. Washington in Atlanta, Georgia"
-spencel01,1993-94,24,Los Angeles Clippers,NBA,76,25.4,.533,.599,5.5,1.0,0.4,1.7,8.9,10.7,0.6,.016,-3.4,-0.7,,569000,"Booker T. Washington in Atlanta, Georgia"
-spencel01,1994-95,25,Los Angeles Clippers,NBA,19,19.4,.441,.560,3.4,1.3,0.7,1.2,6.9,7.7,-0.7,-0.085,-6.1,-0.4,,700000,"Booker T. Washington in Atlanta, Georgia"
-spencel01,1995-96,26,"DEN,POR",NBA,17,3.4,.385,.667,0.8,0.1,0.0,0.1,0.8,2.3,-0.1,-0.056,-11.1,-0.1,,,"Booker T. Washington in Atlanta, Georgia"
-spencel01,1996-97,27,SEA,NBA,1,5.0,.000,,0.0,0.0,1.0,0.0,0.0,-7.3,0.0,-0.366,-10.1,0.0,,,"Booker T. Washington in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Elmore Spencer,/players/s/spencel01.html,1993,1997,"University of Georgia, University of Nevada, Las Vegas",false,"Booker T. Washington in Atlanta, Georgia",-1.72,0.10,spencel01,1992-93,LAC,9.7,0.2,.026,-5.2,-0.2,,NBA,438000,23,44,6.4,.537,.500,1.4,0.2,0.2,0.4,2.4,LAC
+Elmore Spencer,/players/s/spencel01.html,1993,1997,"University of Georgia, University of Nevada, Las Vegas",false,"Booker T. Washington in Atlanta, Georgia",-2.34,-0.13,spencel01,1993-94,LAC,10.7,0.6,.016,-3.4,-0.7,,NBA,569000,24,76,25.4,.533,.599,5.5,1.0,0.4,1.7,8.9,LAC
+Elmore Spencer,/players/s/spencel01.html,1993,1997,"University of Georgia, University of Nevada, Las Vegas",false,"Booker T. Washington in Atlanta, Georgia",-2.90,-0.17,spencel01,1994-95,LAC,7.7,-0.7,-0.085,-6.1,-0.4,,NBA,700000,25,19,19.4,.441,.560,3.4,1.3,0.7,1.2,6.9,LAC
+Elmore Spencer,/players/s/spencel01.html,1993,1997,"University of Georgia, University of Nevada, Las Vegas",false,"Booker T. Washington in Atlanta, Georgia",+0.17,0.10,spencel01,1995-96,TOT,2.3,-0.1,-0.056,-11.1,-0.1,,NBA,,26,17,3.4,.385,.667,0.8,0.1,0.0,0.1,0.8,"DEN,POR"
+Elmore Spencer,/players/s/spencel01.html,1993,1997,"University of Georgia, University of Nevada, Las Vegas",false,"Booker T. Washington in Atlanta, Georgia",-0.15,0.01,spencel01,1996-97,SEA,-7.3,0.0,-0.366,-10.1,0.0,,NBA,,27,1,5.0,.000,,0.0,0.0,1.0,0.0,0.0,SEA

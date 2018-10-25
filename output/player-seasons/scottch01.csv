@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-scottch01,1976-77,28,BOS,NBA,43,36.8,.444,.746,4.4,4.6,1.4,0.3,18.2,14.1,2.5,.075,0.2,0.9,,"Laurinburg Institute in Laurinburg, North Carolina"
-scottch01,1977-78,29,"BOS,LAL",NBA,79,31.3,.438,.746,3.2,4.8,1.4,0.2,13.5,12.3,2.4,.046,-1.8,0.1,,"Laurinburg Institute in Laurinburg, North Carolina"
-scottch01,1978-79,30,DEN,NBA,79,33.1,.460,.749,2.7,5.4,1.0,0.4,12.0,9.8,1.9,.035,-3.0,-0.7,,"Laurinburg Institute in Laurinburg, North Carolina"
-scottch01,1979-80,31,DEN,NBA,69,27.0,.401,.720,2.4,3.6,0.7,0.3,9.3,7.4,-1.4,-0.037,-5.9,-1.8,,"Laurinburg Institute in Laurinburg, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charlie Scott,/players/s/scottch01.html,1971,1980,University of North Carolina,false,"Laurinburg Institute in Laurinburg, North Carolina",-0.67,1.99,scottch01,1976-77,BOS,14.1,2.5,.075,0.2,0.9,,28,NBA,43,36.8,.444,.746,4.4,4.6,1.4,0.3,18.2,BOS
+Charlie Scott,/players/s/scottch01.html,1971,1980,University of North Carolina,false,"Laurinburg Institute in Laurinburg, North Carolina",-1.77,0.69,scottch01,1977-78,TOT,12.3,2.4,.046,-1.8,0.1,,29,NBA,79,31.3,.438,.746,3.2,4.8,1.4,0.2,13.5,"BOS,LAL"
+Charlie Scott,/players/s/scottch01.html,1971,1980,University of North Carolina,false,"Laurinburg Institute in Laurinburg, North Carolina",-1.88,0.62,scottch01,1978-79,DEN,9.8,1.9,.035,-3.0,-0.7,,30,NBA,79,33.1,.460,.749,2.7,5.4,1.0,0.4,12.0,DEN
+Charlie Scott,/players/s/scottch01.html,1971,1980,University of North Carolina,false,"Laurinburg Institute in Laurinburg, North Carolina",-4.24,-2.46,scottch01,1979-80,DEN,7.4,-1.4,-0.037,-5.9,-1.8,,31,NBA,69,27.0,.401,.720,2.4,3.6,0.7,0.3,9.3,DEN

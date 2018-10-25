@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-toolsan01,1990-91,25,Utah Jazz,NBA,47,10.0,.403,.758,1.4,0.7,0.3,0.0,2.9,8.4,0.6,.057,-1.8,0.0,,120000,"Twin Falls in Twin Falls, Idaho"
-toolsan01,1991-92,26,Utah Jazz,NBA,,,,,,,,,,,,,,,,250000,"Twin Falls in Twin Falls, Idaho"
-toolsan01,1992-93,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Twin Falls in Twin Falls, Idaho"
-toolsan01,1993-94,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Twin Falls in Twin Falls, Idaho"
-toolsan01,1994-95,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Twin Falls in Twin Falls, Idaho"
-toolsan01,1995-96,30,Utah Jazz,NBA,13,4.1,.364,.750,0.5,0.1,0.0,0.0,1.7,4.4,0.0,-0.003,-9.1,-0.1,,310000,"Twin Falls in Twin Falls, Idaho"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andy Toolson,/players/t/toolsan01.html,1991,1996,Brigham Young University,false,"Twin Falls in Twin Falls, Idaho",-2.79,-0.17,toolsan01,1990-91,UTA,8.4,0.6,.057,-1.8,0.0,,NBA,120000,25,47,10.0,.403,.758,1.4,0.7,0.3,0.0,2.9,UTA
+Andy Toolson,/players/t/toolsan01.html,1991,1996,Brigham Young University,false,"Twin Falls in Twin Falls, Idaho",,,toolsan01,1991-92,Did Not Play (other pro league—Italy),,,,,,,NBA,250000,26,,,,,,,,,,Did Not Play (other pro league—Italy)
+Andy Toolson,/players/t/toolsan01.html,1991,1996,Brigham Young University,false,"Twin Falls in Twin Falls, Idaho",,,toolsan01,1992-93,Did Not Play (other pro league—CBA),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—CBA)
+Andy Toolson,/players/t/toolsan01.html,1991,1996,Brigham Young University,false,"Twin Falls in Twin Falls, Idaho",,,toolsan01,1993-94,Did Not Play (other pro league—Spain),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Spain)
+Andy Toolson,/players/t/toolsan01.html,1991,1996,Brigham Young University,false,"Twin Falls in Twin Falls, Idaho",,,toolsan01,1994-95,Did Not Play (other pro league—Spain),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Spain)
+Andy Toolson,/players/t/toolsan01.html,1991,1996,Brigham Young University,false,"Twin Falls in Twin Falls, Idaho",-0.20,0.07,toolsan01,1995-96,UTA,4.4,0.0,-0.003,-9.1,-0.1,,NBA,310000,30,13,4.1,.364,.750,0.5,0.1,0.0,0.0,1.7,UTA

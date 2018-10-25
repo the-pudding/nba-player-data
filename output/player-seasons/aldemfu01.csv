@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-aldemfu01,2014-15,23,Philadelphia 76ers,NBA,41,13.2,.513,.481,4.3,0.7,0.4,0.4,2.3,12.0,1.4,.122,-0.7,0.2,,3000000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Furkan Aldemir,/players/a/aldemfu01.html,2015,2015,,false,,-1.73,0.19,aldemfu01,2014-15,PHI,12.0,1.4,.122,-0.7,0.2,,NBA,3000000,23,41,13.2,.513,.481,4.3,0.7,0.4,0.4,2.3,PHI

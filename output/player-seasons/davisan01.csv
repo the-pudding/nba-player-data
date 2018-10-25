@@ -1,18 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davisan01,1993-94,25,Indiana Pacers,NBA,81,21.4,.508,.642,6.2,0.7,0.6,1.0,7.7,15.2,5.0,.139,0.2,1.0,,565000,"McClymonds in Oakland, California"
-davisan01,1994-95,26,Indiana Pacers,NBA,44,23.4,.445,.672,6.4,0.6,0.4,0.7,7.6,11.9,2.0,.095,-2.2,-0.1,,700000,"McClymonds in Oakland, California"
-davisan01,1995-96,27,Indiana Pacers,NBA,82,25.5,.490,.713,6.1,0.5,0.4,0.8,8.8,13.9,6.0,.137,-0.2,0.9,,800000,"McClymonds in Oakland, California"
-davisan01,1996-97,28,Indiana Pacers,NBA,82,28.5,.480,.666,7.3,0.8,0.5,1.0,10.5,13.8,5.2,.106,-0.6,0.8,,5200000,"McClymonds in Oakland, California"
-davisan01,1997-98,29,Indiana Pacers,NBA,82,26.7,.481,.696,6.8,0.7,0.5,0.9,9.6,15.3,7.4,.162,1.0,1.6,,4500000,"McClymonds in Oakland, California"
-davisan01,1998-99,30,Indiana Pacers,NBA,49,25.9,.471,.703,7.0,0.7,0.4,0.9,9.4,16.7,4.0,.151,0.5,0.8,,3500000,"McClymonds in Oakland, California"
-davisan01,1999-00,31,Toronto Raptors,NBA,79,31.4,.440,.765,8.8,1.3,0.5,1.3,11.5,15.1,6.1,.118,-1.1,0.6,,4200000,"McClymonds in Oakland, California"
-davisan01,2000-01,32,Toronto Raptors,NBA,78,35.0,.433,.754,10.1,1.4,0.3,1.9,13.7,16.5,7.2,.127,-0.1,1.3,,5500000,"McClymonds in Oakland, California"
-davisan01,2001-02,33,Toronto Raptors,NBA,77,38.7,.426,.818,9.6,2.0,0.7,1.1,14.5,14.8,6.5,.105,-0.1,1.4,,11000000,"McClymonds in Oakland, California"
-davisan01,2002-03,34,Toronto Raptors,NBA,53,35.7,.407,.771,8.2,2.5,0.4,1.2,13.9,14.5,2.2,.055,-2.1,0.0,,12000000,"McClymonds in Oakland, California"
-davisan01,2003-04,35,Chicago Bulls,NBA,80,32.1,.403,.765,8.4,1.7,0.5,0.8,8.9,11.8,3.8,.071,-2.1,0.0,,12925000,"McClymonds in Oakland, California"
-davisan01,2003-04,35,Chicago Bulls,NBA,15,35.9,.383,.755,9.5,0.9,0.5,0.5,8.6,10.6,0.9,.078,-3.4,-0.2,,12925000,"McClymonds in Oakland, California"
-davisan01,2003-04,35,Chicago Bulls,NBA,65,31.3,.407,.768,8.1,1.9,0.4,0.9,8.9,12.1,2.9,.069,-1.7,0.2,,12925000,"McClymonds in Oakland, California"
-davisan01,2004-05,36,Chicago Bulls,NBA,72,25.6,.461,.757,5.9,1.1,0.4,0.6,7.0,11.1,3.9,.101,-0.2,0.9,,12925000,"McClymonds in Oakland, California"
-davisan01,2005-06,37,New York Knicks,NBA,44,21.4,.432,.642,4.7,0.5,0.5,0.2,4.9,8.3,0.3,.017,-3.6,-0.4,,13925000,"McClymonds in Oakland, California"
-davisan01,2005-06,37,New York Knicks,NBA,36,20.8,.428,.738,4.8,0.4,0.6,0.3,5.0,8.9,0.4,.024,-3.3,-0.2,,13925000,"McClymonds in Oakland, California"
-davisan01,2005-06,37,New York Knicks,NBA,8,23.9,.452,.350,4.5,0.9,0.4,0.1,4.4,5.9,0.0,-0.011,-4.6,-0.1,,13925000,"McClymonds in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",+0.68,4.29,davisan01,1993-94,IND,15.2,5.0,.139,0.2,1.0,,NBA,565000,25,81,21.4,.508,.642,6.2,0.7,0.6,1.0,7.7,IND
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-1.47,0.75,davisan01,1994-95,IND,11.9,2.0,.095,-2.2,-0.1,,NBA,700000,26,44,23.4,.445,.672,6.4,0.6,0.4,0.7,7.6,IND
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",+0.20,3.71,davisan01,1995-96,IND,13.9,6.0,.137,-0.2,0.9,,NBA,800000,27,82,25.5,.490,.713,6.1,0.5,0.4,0.8,8.8,IND
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-0.22,3.25,davisan01,1996-97,IND,13.8,5.2,.106,-0.6,0.8,,NBA,5200000,28,82,28.5,.480,.666,7.3,0.8,0.5,1.0,10.5,IND
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",+1.04,6.01,davisan01,1997-98,IND,15.3,7.4,.162,1.0,1.6,,NBA,4500000,29,82,26.7,.481,.696,6.8,0.7,0.5,0.9,9.6,IND
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",+0.35,2.85,davisan01,1998-99,IND,16.7,4.0,.151,0.5,0.8,,NBA,3500000,30,49,25.9,.471,.703,7.0,0.7,0.4,0.9,9.4,IND
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-0.11,3.78,davisan01,1999-00,TOR,15.1,6.1,.118,-1.1,0.6,,NBA,4200000,31,79,31.4,.440,.765,8.8,1.3,0.5,1.3,11.5,TOR
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",+1.78,8.98,davisan01,2000-01,TOR,16.5,7.2,.127,-0.1,1.3,,NBA,5500000,32,78,35.0,.433,.754,10.1,1.4,0.3,1.9,13.7,TOR
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-0.06,4.76,davisan01,2001-02,TOR,14.8,6.5,.105,-0.1,1.4,,NBA,11000000,33,77,38.7,.426,.818,9.6,2.0,0.7,1.1,14.5,TOR
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-0.63,2.08,davisan01,2002-03,TOR,14.5,2.2,.055,-2.1,0.0,,NBA,12000000,34,53,35.7,.407,.771,8.2,2.5,0.4,1.2,13.9,TOR
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-1.45,1.23,davisan01,2003-04,TOT,11.8,3.8,.071,-2.1,0.0,,NBA,12925000,35,80,32.1,.403,.765,8.4,1.7,0.5,0.8,8.9,"TOR,CHI"
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-0.65,2.16,davisan01,2004-05,CHI,11.1,3.9,.101,-0.2,0.9,,NBA,12925000,36,72,25.6,.461,.757,5.9,1.1,0.4,0.6,7.0,CHI
+Antonio Davis,/players/d/davisan01.html,1994,2006,University of Texas at El Paso,false,"McClymonds in Oakland, California",-3.24,-0.58,davisan01,2005-06,TOT,8.3,0.3,.017,-3.6,-0.4,,NBA,13925000,37,44,21.4,.432,.642,4.7,0.5,0.5,0.2,4.9,"NYK,TOR"

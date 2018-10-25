@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-parkeso01,1976-77,21,GSW,NBA,65,13.7,.527,.772,2.7,0.9,0.8,0.4,5.8,16.4,3.0,.160,1.5,0.8,,"Farragut Career Academy in Chicago, Illinois"
-parkeso01,1977-78,22,GSW,NBA,82,25.2,.519,.705,4.7,1.9,1.6,0.4,11.4,17.4,6.2,.145,2.9,2.6,,"Farragut Career Academy in Chicago, Illinois"
-parkeso01,1978-79,23,GSW,NBA,79,36.6,.502,.788,5.6,3.7,1.8,0.4,15.2,15.5,7.0,.116,2.9,3.6,,"Farragut Career Academy in Chicago, Illinois"
-parkeso01,1979-80,24,GSW,NBA,82,34.7,.489,.785,5.7,3.1,2.1,0.4,14.7,16.2,6.8,.114,2.7,3.4,,"Farragut Career Academy in Chicago, Illinois"
-parkeso01,1980-81,25,GSW,NBA,73,18.0,.492,.734,2.7,1.5,0.9,0.2,6.5,13.3,2.3,.084,0.2,0.7,,"Farragut Career Academy in Chicago, Illinois"
-parkeso01,1981-82,26,GSW,NBA,71,12.7,.473,.667,2.5,1.3,0.5,0.2,3.9,12.6,1.6,.088,0.2,0.5,,"Farragut Career Academy in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sonny Parker,/players/p/parkeso01.html,1977,1982,Texas A&M University,false,"Farragut Career Academy in Chicago, Illinois",+0.30,1.77,parkeso01,1976-77,GSW,16.4,3.0,.160,1.5,0.8,,21,NBA,65,13.7,.527,.772,2.7,0.9,0.8,0.4,5.8,GSW
+Sonny Parker,/players/p/parkeso01.html,1977,1982,Texas A&M University,false,"Farragut Career Academy in Chicago, Illinois",+0.99,4.69,parkeso01,1977-78,GSW,17.4,6.2,.145,2.9,2.6,,22,NBA,82,25.2,.519,.705,4.7,1.9,1.6,0.4,11.4,GSW
+Sonny Parker,/players/p/parkeso01.html,1977,1982,Texas A&M University,false,"Farragut Career Academy in Chicago, Illinois",+0.48,5.44,parkeso01,1978-79,GSW,15.5,7.0,.116,2.9,3.6,,23,NBA,79,36.6,.502,.788,5.6,3.7,1.8,0.4,15.2,GSW
+Sonny Parker,/players/p/parkeso01.html,1977,1982,Texas A&M University,false,"Farragut Career Academy in Chicago, Illinois",+0.42,5.23,parkeso01,1979-80,GSW,16.2,6.8,.114,2.7,3.4,,24,NBA,82,34.7,.489,.785,5.7,3.1,2.1,0.4,14.7,GSW
+Sonny Parker,/players/p/parkeso01.html,1977,1982,Texas A&M University,false,"Farragut Career Academy in Chicago, Illinois",-0.98,1.17,parkeso01,1980-81,GSW,13.3,2.3,.084,0.2,0.7,,25,NBA,73,18.0,.492,.734,2.7,1.5,0.9,0.2,6.5,GSW
+Sonny Parker,/players/p/parkeso01.html,1977,1982,Texas A&M University,false,"Farragut Career Academy in Chicago, Illinois",-1.09,0.72,parkeso01,1981-82,GSW,12.6,1.6,.088,0.2,0.5,,26,NBA,71,12.7,.473,.667,2.5,1.3,0.5,0.2,3.9,GSW

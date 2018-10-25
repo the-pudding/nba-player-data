@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-brownfr01,1976-77,28,SEA,NBA,72,29.1,.479,.884,3.2,2.4,1.7,0.3,17.2,17.4,6.1,.140,0.8,1.5,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1977-78,29,SEA,NBA,72,27.3,.488,.898,2.6,3.3,1.5,0.3,16.6,19.6,6.7,.163,1.9,1.9,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1978-79,30,SEA,NBA,77,25.5,.469,.888,2.2,3.4,1.5,0.3,14.0,16.9,5.2,.127,0.3,1.2,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1979-80,31,SEA,NBA,80,21.3,.479,.837,1.9,2.2,0.8,0.2,12.0,16.4,4.9,.138,-0.7,0.6,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1980-81,32,SEA,NBA,78,25.5,.488,.832,2.2,3.0,1.1,0.2,15.5,18.3,5.2,.127,0.5,1.2,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1981-82,33,SEA,NBA,82,21.8,.455,.860,1.7,2.9,0.8,0.0,11.2,15.2,3.9,.104,-1.5,0.2,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1982-83,34,SEA,NBA,80,17.9,.520,.806,1.2,3.0,0.7,0.2,10.2,17.7,3.6,.120,-0.9,0.4,,"Lincoln in Milwaukee, Wisconsin"
-brownfr01,1983-84,35,SEA,NBA,71,15.9,.510,.895,0.9,2.7,0.7,0.0,8.5,17.1,2.6,.111,-2.0,0.0,,"Lincoln in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",-0.07,3.12,brownfr01,1976-77,SEA,17.4,6.1,.140,0.8,1.5,,28,NBA,72,29.1,.479,.884,3.2,2.4,1.7,0.3,17.2,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",+1.55,6.79,brownfr01,1977-78,SEA,19.6,6.7,.163,1.9,1.9,,29,NBA,72,27.3,.488,.898,2.6,3.3,1.5,0.3,16.6,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",+1.08,5.14,brownfr01,1978-79,SEA,16.9,5.2,.127,0.3,1.2,,30,NBA,77,25.5,.469,.888,2.2,3.4,1.5,0.3,14.0,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",+0.15,3.32,brownfr01,1979-80,SEA,16.4,4.9,.138,-0.7,0.6,,31,NBA,80,21.3,.479,.837,1.9,2.2,0.8,0.2,12.0,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",+0.63,3.93,brownfr01,1980-81,SEA,18.3,5.2,.127,0.5,1.2,,32,NBA,78,25.5,.488,.832,2.2,3.0,1.1,0.2,15.5,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",-0.51,2.30,brownfr01,1981-82,SEA,15.2,3.9,.104,-1.5,0.2,,33,NBA,82,21.8,.455,.860,1.7,2.9,0.8,0.0,11.2,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",-0.06,2.20,brownfr01,1982-83,SEA,17.7,3.6,.120,-0.9,0.4,,34,NBA,80,17.9,.520,.806,1.2,3.0,0.7,0.2,10.2,SEA
+Fred Brown,/players/b/brownfr01.html,1972,1984,University of Iowa,false,"Lincoln in Milwaukee, Wisconsin",-0.53,1.44,brownfr01,1983-84,SEA,17.1,2.6,.111,-2.0,0.0,,35,NBA,71,15.9,.510,.895,0.9,2.7,0.7,0.0,8.5,SEA

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-weathni01,1976-77,26,"WSB,SEA",NBA,62,26.7,.449,.632,6.9,0.9,0.8,0.5,11.5,12.8,2.6,.076,-3.7,-0.7,,"McKinley in Canton, Ohio"
-weathni01,1977-78,27,CHI,NBA,41,14.9,.443,.881,3.0,0.8,0.5,0.2,5.1,10.5,0.6,.049,-2.7,-0.1,,"McKinley in Canton, Ohio"
-weathni01,1978-79,28,SDC,NBA,82,32.2,.480,.739,5.5,1.6,1.0,0.5,13.8,12.7,3.7,.068,-1.2,0.5,,"McKinley in Canton, Ohio"
-weathni01,1979-80,29,SDC,NBA,57,19.7,.434,.692,3.6,0.9,0.6,0.3,6.9,9.3,0.1,.002,-4.6,-0.7,,"McKinley in Canton, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nick Weatherspoon,/players/w/weathni01.html,1974,1980,University of Illinois at Urbana-Champaign,false,"McKinley in Canton, Ohio",-2.13,-0.07,weathni01,1976-77,TOT,12.8,2.6,.076,-3.7,-0.7,,26,NBA,62,26.7,.449,.632,6.9,0.9,0.8,0.5,11.5,"WSB,SEA"
+Nick Weatherspoon,/players/w/weathni01.html,1974,1980,University of Illinois at Urbana-Champaign,false,"McKinley in Canton, Ohio",-2.48,-0.14,weathni01,1977-78,CHI,10.5,0.6,.049,-2.7,-0.1,,27,NBA,41,14.9,.443,.881,3.0,0.8,0.5,0.2,5.1,CHI
+Nick Weatherspoon,/players/w/weathni01.html,1974,1980,University of Illinois at Urbana-Champaign,false,"McKinley in Canton, Ohio",-1.72,0.99,weathni01,1978-79,SDC,12.7,3.7,.068,-1.2,0.5,,28,NBA,82,32.2,.480,.739,5.5,1.6,1.0,0.5,13.8,SDC
+Nick Weatherspoon,/players/w/weathni01.html,1974,1980,University of Illinois at Urbana-Champaign,false,"McKinley in Canton, Ohio",-3.15,-0.65,weathni01,1979-80,SDC,9.3,0.1,.002,-4.6,-0.7,,29,NBA,57,19.7,.434,.692,3.6,0.9,0.6,0.3,6.9,SDC

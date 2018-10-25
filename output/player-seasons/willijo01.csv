@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willijo01,1976-77,25,"NYN,IND",NBA,72,34.5,.459,.787,2.7,2.8,1.5,0.2,20.8,15.9,3.9,.075,-1.9,0.1,,"Wilbur Cross in New Haven, Connecticut"
-willijo01,1977-78,26,"IND,NJN",NBA,75,36.4,.438,.847,3.0,2.9,1.3,0.1,23.7,15.1,3.4,.059,-2.8,-0.6,,"Wilbur Cross in New Haven, Connecticut"
-willijo01,1978-79,27,NJN,NBA,74,33.1,.465,.854,2.6,3.4,1.2,0.2,22.2,16.4,5.1,.099,-1.6,0.2,,"Wilbur Cross in New Haven, Connecticut"
-willijo01,1979-80,28,"NJN,WSB",NBA,58,23.7,.439,.841,1.7,2.2,0.6,0.3,14.6,13.5,1.3,.046,-4.1,-0.7,,"Wilbur Cross in New Haven, Connecticut"
-willijo01,1980-81,29,WSB,NBA,9,12.4,.321,.833,0.8,1.9,0.4,0.1,4.7,4.2,-0.3,-0.117,-8.8,-0.2,,"Wilbur Cross in New Haven, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Williamson,/players/w/willijo01.html,1974,1981,New Mexico State University,false,"Wilbur Cross in New Haven, Connecticut",-2.03,0.12,willijo01,1976-77,TOT,15.9,3.9,.075,-1.9,0.1,,25,NBA,72,34.5,.459,.787,2.7,2.8,1.5,0.2,20.8,"NYN,IND"
+John Williamson,/players/w/willijo01.html,1974,1981,New Mexico State University,false,"Wilbur Cross in New Haven, Connecticut",-2.44,-0.59,willijo01,1977-78,TOT,15.1,3.4,.059,-2.8,-0.6,,26,NBA,75,36.4,.438,.847,3.0,2.9,1.3,0.1,23.7,"IND,NJN"
+John Williamson,/players/w/willijo01.html,1974,1981,New Mexico State University,false,"Wilbur Cross in New Haven, Connecticut",-1.01,2.08,willijo01,1978-79,NJN,16.4,5.1,.099,-1.6,0.2,,27,NBA,74,33.1,.465,.854,2.6,3.4,1.2,0.2,22.2,NJN
+John Williamson,/players/w/willijo01.html,1974,1981,New Mexico State University,false,"Wilbur Cross in New Haven, Connecticut",-2.31,-0.10,willijo01,1979-80,TOT,13.5,1.3,.046,-4.1,-0.7,,28,NBA,58,23.7,.439,.841,1.7,2.2,0.6,0.3,14.6,"NJN,WSB"
+John Williamson,/players/w/willijo01.html,1974,1981,New Mexico State University,false,"Wilbur Cross in New Haven, Connecticut",+0.13,0.18,willijo01,1980-81,WSB,4.2,-0.3,-0.117,-8.8,-0.2,,29,NBA,9,12.4,.321,.833,0.8,1.9,0.4,0.1,4.7,WSB

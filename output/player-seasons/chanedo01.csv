@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-chanedo01,1976-77,30,LAL,NBA,81,29.7,.408,.745,4.1,3.8,1.7,0.4,6.1,10.2,2.9,.058,0.2,1.3,,"McKinley in Baton Rouge, Louisiana"
-chanedo01,1977-78,31,"LAL,BOS",NBA,51,16.4,.387,.844,2.3,1.3,0.9,0.3,4.8,8.1,0.3,.019,-3.2,-0.3,,"McKinley in Baton Rouge, Louisiana"
-chanedo01,1978-79,32,BOS,NBA,65,16.5,.420,.857,2.2,1.2,1.1,0.2,5.9,9.7,0.6,.027,-2.5,-0.1,,"McKinley in Baton Rouge, Louisiana"
-chanedo01,1979-80,33,BOS,NBA,60,8.7,.354,.762,1.2,0.6,0.5,0.2,2.8,7.8,0.4,.033,-3.1,-0.1,,"McKinley in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Don Chaney,/players/c/chanedo01.html,1969,1980,University of Houston,false,"McKinley in Baton Rouge, Louisiana",-0.68,2.95,chanedo01,1976-77,LAL,10.2,2.9,.058,0.2,1.3,,30,NBA,81,29.7,.408,.745,4.1,3.8,1.7,0.4,6.1,LAL
+Don Chaney,/players/c/chanedo01.html,1969,1980,University of Houston,false,"McKinley in Baton Rouge, Louisiana",-1.90,0.13,chanedo01,1977-78,TOT,8.1,0.3,.019,-3.2,-0.3,,31,NBA,51,16.4,.387,.844,2.3,1.3,0.9,0.3,4.8,"LAL,BOS"
+Don Chaney,/players/c/chanedo01.html,1969,1980,University of Houston,false,"McKinley in Baton Rouge, Louisiana",-1.85,0.26,chanedo01,1978-79,BOS,9.7,0.6,.027,-2.5,-0.1,,32,NBA,65,16.5,.420,.857,2.2,1.2,1.1,0.2,5.9,BOS
+Don Chaney,/players/c/chanedo01.html,1969,1980,University of Houston,false,"McKinley in Baton Rouge, Louisiana",-1.70,0.18,chanedo01,1979-80,BOS,7.8,0.4,.033,-3.1,-0.1,,33,NBA,60,8.7,.354,.762,1.2,0.6,0.5,0.2,2.8,BOS

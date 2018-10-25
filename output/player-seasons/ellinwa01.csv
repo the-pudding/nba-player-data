@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ellinwa01,2009-10,22,Minnesota Timberwolves,NBA,76,18.2,.424,.871,2.1,1.0,0.3,0.1,6.6,9.6,0.4,.014,-4.8,-1.0,,1003560,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2010-11,23,Minnesota Timberwolves,NBA,62,19.0,.403,.792,1.7,1.2,0.5,0.0,6.6,8.6,0.3,.010,-4.6,-0.8,,1078800,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2011-12,24,Minnesota Timberwolves,NBA,51,19.1,.404,.800,1.9,0.6,0.5,0.2,6.1,9.4,0.8,.041,-2.6,-0.2,,1154040,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2012-13,25,Cleveland Cavaliers,NBA,78,21.3,.427,.907,2.1,1.3,0.6,0.0,7.9,12.2,3.2,.093,-1.4,0.3,,2083042,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2012-13,25,Cleveland Cavaliers,NBA,40,16.9,.407,.938,1.3,1.1,0.4,0.0,5.5,9.8,1.3,.094,-1.9,0.0,,2083042,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2012-13,25,Cleveland Cavaliers,NBA,38,25.9,.439,.898,3.0,1.6,0.8,0.1,10.4,13.9,1.9,.093,-1.0,0.2,,2083042,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2013-14,26,Dallas Mavericks,NBA,45,8.7,.437,.909,1.0,0.4,0.4,0.0,3.2,12.2,0.7,.084,-1.7,0.0,,2652000,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2014-15,27,Los Angeles Lakers,NBA,65,25.8,.412,.813,3.2,1.6,0.5,0.0,10.0,11.6,1.2,.034,-3.0,-0.4,,1063384,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2015-16,28,Brooklyn Nets,NBA,76,21.3,.389,.857,2.3,1.1,0.6,0.1,7.7,10.1,0.8,.025,-3.2,-0.5,,1500000,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2016-17,29,Miami Heat,NBA,62,24.2,.416,.860,2.1,1.1,0.6,0.1,10.5,12.6,3.3,.105,-0.2,0.7,,6000000,"The Episcopal Academy in Newtown Square, Pennsylvania"
-ellinwa01,2017-18,30,Miami Heat,NBA,77,26.5,.407,.859,2.8,1.0,0.7,0.1,11.2,12.5,4.5,.105,0.0,1.0,,6270000,"The Episcopal Academy in Newtown Square, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-2.23,0.03,ellinwa01,2009-10,MIN,9.6,0.4,.014,-4.8,-1.0,,NBA,1003560,22,76,18.2,.424,.871,2.1,1.0,0.3,0.1,6.6,MIN
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-3.65,-1.05,ellinwa01,2010-11,MIN,8.6,0.3,.010,-4.6,-0.8,,NBA,1078800,23,62,19.0,.403,.792,1.7,1.2,0.5,0.0,6.6,MIN
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-1.75,0.32,ellinwa01,2011-12,MIN,9.4,0.8,.041,-2.6,-0.2,,NBA,1154040,24,51,19.1,.404,.800,1.9,0.6,0.5,0.2,6.1,MIN
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-1.45,0.90,ellinwa01,2012-13,TOT,12.2,3.2,.093,-1.4,0.3,,NBA,2083042,25,78,21.3,.427,.907,2.1,1.3,0.6,0.0,7.9,"MEM,CLE"
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-0.93,0.38,ellinwa01,2013-14,DAL,12.2,0.7,.084,-1.7,0.0,,NBA,2652000,26,45,8.7,.437,.909,1.0,0.4,0.4,0.0,3.2,DAL
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-0.65,1.83,ellinwa01,2014-15,LAL,11.6,1.2,.034,-3.0,-0.4,,NBA,1063384,27,65,25.8,.412,.813,3.2,1.6,0.5,0.0,10.0,LAL
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-3.37,-1.27,ellinwa01,2015-16,BRK,10.1,0.8,.025,-3.2,-0.5,,NBA,1500000,28,76,21.3,.389,.857,2.3,1.1,0.6,0.1,7.7,BRK
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",-0.28,2.03,ellinwa01,2016-17,MIA,12.6,3.3,.105,-0.2,0.7,,NBA,6000000,29,62,24.2,.416,.860,2.1,1.1,0.6,0.1,10.5,MIA
+Wayne Ellington,/players/e/ellinwa01.html,2010,2018,University of North Carolina,true,"The Episcopal Academy in Newtown Square, Pennsylvania",+0.11,3.46,ellinwa01,2017-18,MIA,12.5,4.5,.105,0.0,1.0,,NBA,6270000,30,77,26.5,.407,.859,2.8,1.0,0.7,0.1,11.2,MIA

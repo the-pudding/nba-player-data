@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-rowecu01,1976-77,27,BOS,NBA,79,27.7,.498,.708,7.1,1.4,0.3,0.6,10.1,12.6,5.2,.114,-1.0,0.6,,"John C. Fremont in Los Angeles, California"
-rowecu01,1977-78,28,BOS,NBA,51,17.9,.451,.742,4.0,0.9,0.3,0.2,6.1,9.7,0.9,.046,-3.7,-0.4,,"John C. Fremont in Los Angeles, California"
-rowecu01,1978-79,29,BOS,NBA,53,23.1,.436,.693,4.6,1.3,0.3,0.2,6.7,7.7,0.0,.001,-4.3,-0.7,,"John C. Fremont in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Curtis Rowe,/players/r/rowecu01.html,1972,1979,"University of California, Los Angeles",false,"John C. Fremont in Los Angeles, California",-1.08,1.79,rowecu01,1976-77,BOS,12.6,5.2,.114,-1.0,0.6,,27,NBA,79,27.7,.498,.708,7.1,1.4,0.3,0.6,10.1,BOS
+Curtis Rowe,/players/r/rowecu01.html,1972,1979,"University of California, Los Angeles",false,"John C. Fremont in Los Angeles, California",-2.74,-0.41,rowecu01,1977-78,BOS,9.7,0.9,.046,-3.7,-0.4,,28,NBA,51,17.9,.451,.742,4.0,0.9,0.3,0.2,6.1,BOS
+Curtis Rowe,/players/r/rowecu01.html,1972,1979,"University of California, Los Angeles",false,"John C. Fremont in Los Angeles, California",-3.85,-1.36,rowecu01,1978-79,BOS,7.7,0.0,.001,-4.3,-0.7,,29,NBA,53,23.1,.436,.693,4.6,1.3,0.3,0.2,6.7,BOS

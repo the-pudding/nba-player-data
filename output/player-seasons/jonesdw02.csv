@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesdw02,2005-06,22,Minnesota Timberwolves,NBA,14,6.2,.400,.462,2.2,0.1,0.1,0.2,1.0,9.2,0.1,.081,-5.1,-0.1,,398762,"American Christian School in Aston, Pennsylvania"
-jonesdw02,2006-07,23,Cleveland Cavaliers,NBA,4,4.5,.000,.500,1.5,0.0,0.0,0.0,0.8,-0.5,0.0,-0.068,-17.3,-0.1,,664209,"American Christian School in Aston, Pennsylvania"
-jonesdw02,2007-08,24,Cleveland Cavaliers,NBA,56,8.4,.532,.483,2.5,0.2,0.2,0.4,1.4,11.1,1.2,.121,-1.2,0.1,,770610,"American Christian School in Aston, Pennsylvania"
-jonesdw02,2008-09,25,Charlotte Bobcats,NBA,6,8.7,.571,.667,2.0,0.0,0.0,0.2,2.0,8.0,0.1,.051,-9.1,-0.1,,46812,"American Christian School in Aston, Pennsylvania"
-jonesdw02,2009-10,26,PHO,NBA,2,3.5,,,1.0,0.0,0.0,0.0,0.0,1.4,0.0,.045,-8.2,0.0,,,"American Christian School in Aston, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dwayne Jones,/players/j/jonesdw02.html,2006,2010,Saint Joseph's University,false,"American Christian School in Aston, Pennsylvania",+0.14,0.14,jonesdw02,2005-06,BOS,9.2,0.1,.081,-5.1,-0.1,,NBA,398762,22,14,6.2,.400,.462,2.2,0.1,0.1,0.2,1.0,BOS
+Dwayne Jones,/players/j/jonesdw02.html,2006,2010,Saint Joseph's University,false,"American Christian School in Aston, Pennsylvania",+0.23,0.03,jonesdw02,2006-07,CLE,-0.5,0.0,-0.068,-17.3,-0.1,,NBA,664209,23,4,4.5,.000,.500,1.5,0.0,0.0,0.0,0.8,CLE
+Dwayne Jones,/players/j/jonesdw02.html,2006,2010,Saint Joseph's University,false,"American Christian School in Aston, Pennsylvania",-2.67,-0.11,jonesdw02,2007-08,CLE,11.1,1.2,.121,-1.2,0.1,,NBA,770610,24,56,8.4,.532,.483,2.5,0.2,0.2,0.4,1.4,CLE
+Dwayne Jones,/players/j/jonesdw02.html,2006,2010,Saint Joseph's University,false,"American Christian School in Aston, Pennsylvania",-0.32,0.07,jonesdw02,2008-09,CHA,8.0,0.1,.051,-9.1,-0.1,,NBA,46812,25,6,8.7,.571,.667,2.0,0.0,0.0,0.2,2.0,CHA
+Dwayne Jones,/players/j/jonesdw02.html,2006,2010,Saint Joseph's University,false,"American Christian School in Aston, Pennsylvania",-0.64,0.02,jonesdw02,2009-10,PHO,1.4,0.0,.045,-8.2,0.0,,NBA,,26,2,3.5,,,1.0,0.0,0.0,0.0,0.0,PHO

@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-maxweve01,1988-89,23,San Antonio Spurs,NBA,79,26.1,.432,.745,2.6,3.8,1.1,0.1,11.7,12.1,1.5,.035,-3.3,-0.7,,100000,"Buchholz in Gainesville, Florida"
-maxweve01,1989-90,24,"SAS,HOU",NBA,79,25.2,.439,.645,2.9,3.7,1.1,0.1,9.0,11.5,2.8,.068,-1.5,0.3,,,"Buchholz in Gainesville, Florida"
-maxweve01,1990-91,25,Houston Rockets,NBA,82,35.0,.404,.733,2.9,3.7,1.5,0.2,17.0,13.5,5.9,.099,0.7,1.9,,250000,"Buchholz in Gainesville, Florida"
-maxweve01,1991-92,26,Houston Rockets,NBA,80,33.8,.413,.772,3.0,4.1,1.3,0.4,17.2,14.1,3.9,.069,-0.4,1.1,,325000,"Buchholz in Gainesville, Florida"
-maxweve01,1992-93,27,Houston Rockets,NBA,71,31.7,.407,.719,3.1,4.2,1.2,0.1,13.8,13.4,3.9,.082,-0.2,1.0,,1542000,"Buchholz in Gainesville, Florida"
-maxweve01,1993-94,28,Houston Rockets,NBA,75,34.3,.389,.749,3.1,5.1,1.7,0.3,13.6,12.5,3.5,.066,-0.1,1.2,,1424000,"Buchholz in Gainesville, Florida"
-maxweve01,1994-95,29,Houston Rockets,NBA,64,31.8,.394,.688,2.6,4.3,1.2,0.2,13.3,11.9,1.9,.044,-1.5,0.2,,1833000,"Buchholz in Gainesville, Florida"
-maxweve01,1995-96,30,Philadelphia 76ers,NBA,75,32.9,.390,.756,3.1,4.4,1.3,0.2,16.2,13.9,0.9,.018,-1.7,0.2,,1000000,"Buchholz in Gainesville, Florida"
-maxweve01,1996-97,31,San Antonio Spurs,NBA,72,28.7,.375,.744,2.2,2.1,1.2,0.3,12.9,11.8,0.0,-0.001,-3.3,-0.7,,1000000,"Buchholz in Gainesville, Florida"
-maxweve01,1997-98,32,"ORL,CHH",NBA,42,15.1,.399,.800,1.4,1.2,0.4,0.1,6.9,12.2,0.8,.062,-3.0,-0.2,,,"Buchholz in Gainesville, Florida"
-maxweve01,1998-99,33,Sacramento Kings,NBA,46,21.9,.390,.737,1.8,1.7,0.7,0.1,10.7,12.6,1.6,.074,-2.3,-0.1,,1000000,"Buchholz in Gainesville, Florida"
-maxweve01,1999-00,34,Seattle SuperSonics,NBA,47,21.0,.345,.730,1.7,1.6,0.8,0.2,10.9,12.6,0.8,.036,-4.0,-0.5,,1430000,"Buchholz in Gainesville, Florida"
-maxweve01,2000-01,35,New York Knicks,NBA,43,15.3,.327,.656,1.5,1.1,0.5,0.1,4.7,6.7,0.0,.003,-4.1,-0.3,,1570000,"Buchholz in Gainesville, Florida"
-maxweve01,2000-01,35,New York Knicks,NBA,24,15.6,.336,.682,1.5,1.2,0.5,0.0,5.0,8.1,0.4,.046,-2.9,-0.1,,1570000,"Buchholz in Gainesville, Florida"
-maxweve01,2000-01,35,New York Knicks,NBA,19,15.0,.316,.600,1.5,1.1,0.5,0.2,4.3,4.9,-0.3,-0.052,-5.6,-0.3,,1570000,"Buchholz in Gainesville, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-2.63,-0.54,maxweve01,1988-89,SAS,12.1,1.5,.035,-3.3,-0.7,,NBA,100000,23,79,26.1,.432,.745,2.6,3.8,1.1,0.1,11.7,SAS
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-1.99,0.36,maxweve01,1989-90,TOT,11.5,2.8,.068,-1.5,0.3,,NBA,,24,79,25.2,.439,.645,2.9,3.7,1.1,0.1,9.0,"SAS,HOU"
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",+0.78,6.18,maxweve01,1990-91,HOU,13.5,5.9,.099,0.7,1.9,,NBA,250000,25,82,35.0,.404,.733,2.9,3.7,1.5,0.2,17.0,HOU
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-0.24,3.73,maxweve01,1991-92,HOU,14.1,3.9,.069,-0.4,1.1,,NBA,325000,26,80,33.8,.413,.772,3.0,4.1,1.3,0.4,17.2,HOU
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-0.11,3.76,maxweve01,1992-93,HOU,13.4,3.9,.082,-0.2,1.0,,NBA,1542000,27,71,31.7,.407,.719,3.1,4.2,1.2,0.1,13.8,HOU
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-0.36,4.44,maxweve01,1993-94,HOU,12.5,3.5,.066,-0.1,1.2,,NBA,1424000,28,75,34.3,.389,.749,3.1,5.1,1.7,0.3,13.6,HOU
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-1.46,1.16,maxweve01,1994-95,HOU,11.9,1.9,.044,-1.5,0.2,,NBA,1833000,29,64,31.8,.394,.688,2.6,4.3,1.2,0.2,13.3,HOU
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-2.24,0.12,maxweve01,1995-96,PHI,13.9,0.9,.018,-1.7,0.2,,NBA,1000000,30,75,32.9,.390,.756,3.1,4.4,1.3,0.2,16.2,PHI
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-2.77,-0.64,maxweve01,1996-97,SAS,11.8,0.0,-0.001,-3.3,-0.7,,NBA,1000000,31,72,28.7,.375,.744,2.2,2.1,1.2,0.3,12.9,SAS
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-1.89,0.15,maxweve01,1997-98,TOT,12.2,0.8,.062,-3.0,-0.2,,NBA,,32,42,15.1,.399,.800,1.4,1.2,0.4,0.1,6.9,"ORL,CHH"
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-1.54,0.52,maxweve01,1998-99,SAC,12.6,1.6,.074,-2.3,-0.1,,NBA,1000000,33,46,21.9,.390,.737,1.8,1.7,0.7,0.1,10.7,SAC
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-1.59,0.43,maxweve01,1999-00,SEA,12.6,0.8,.036,-4.0,-0.5,,NBA,1430000,34,47,21.0,.345,.730,1.7,1.6,0.8,0.2,10.9,SEA
+Vernon Maxwell,/players/m/maxweve01.html,1989,2001,University of Florida,false,"Buchholz in Gainesville, Florida",-3.34,-0.56,maxweve01,2000-01,TOT,6.7,0.0,.003,-4.1,-0.3,,NBA,1570000,35,43,15.3,.327,.656,1.5,1.1,0.5,0.1,4.7,"PHI,DAL"

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cofiefr01,1985-86,24,New York Knicks,NBA,45,10.4,.408,.600,1.0,1.8,0.4,0.1,3.7,7.9,-0.4,-0.039,-5.8,-0.5,,70000,"Ypsilanti in Ypsilanti, Michigan"
-cofiefr01,1986-87,25,CHI,NBA,5,5.4,.182,,1.0,0.8,0.4,0.0,0.8,4.2,-0.1,-0.119,-7.9,0.0,,,"Ypsilanti in Ypsilanti, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Fred Cofield,/players/c/cofiefr01.html,1986,1987,"University of Oregon, Eastern Michigan University",false,"Ypsilanti in Ypsilanti, Michigan",-2.70,-0.18,cofiefr01,1985-86,NYK,7.9,-0.4,-0.039,-5.8,-0.5,,NBA,70000,24,45,10.4,.408,.600,1.0,1.8,0.4,0.1,3.7,NYK
+Fred Cofield,/players/c/cofiefr01.html,1986,1987,"University of Oregon, Eastern Michigan University",false,"Ypsilanti in Ypsilanti, Michigan",+0.16,0.04,cofiefr01,1986-87,CHI,4.2,-0.1,-0.119,-7.9,0.0,,NBA,,25,5,5.4,.182,,1.0,0.8,0.4,0.0,0.8,CHI

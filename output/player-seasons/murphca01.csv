@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-murphca01,1976-77,28,HOU,NBA,82,33.7,.490,.886,2.1,4.7,1.8,0.1,17.9,17.4,7.7,.134,1.6,2.5,,"Norwalk in Norwalk, Connecticut"
-murphca01,1977-78,29,HOU,NBA,76,38.2,.491,.918,2.2,3.4,1.5,0.0,25.6,19.5,7.4,.122,0.6,1.9,,"Norwalk in Norwalk, Connecticut"
-murphca01,1978-79,30,HOU,NBA,82,35.9,.496,.928,2.1,4.3,1.4,0.1,20.2,16.1,6.8,.112,0.0,1.5,,"Norwalk in Norwalk, Connecticut"
-murphca01,1979-80,31,HOU,NBA,76,35.2,.493,.897,2.0,3.9,1.9,0.1,20.0,16.8,7.2,.129,0.6,1.7,,"Norwalk in Norwalk, Connecticut"
-murphca01,1980-81,32,HOU,NBA,76,26.5,.492,.958,1.1,2.9,1.5,0.1,16.7,18.1,5.4,.128,-0.6,0.7,,"Norwalk in Norwalk, Connecticut"
-murphca01,1981-82,33,HOU,NBA,64,18.8,.427,.909,1.0,2.5,0.7,0.0,10.2,13.2,1.3,.051,-4.7,-0.8,,"Norwalk in Norwalk, Connecticut"
-murphca01,1982-83,34,HOU,NBA,64,22.2,.447,.920,1.2,2.5,0.9,0.1,12.8,14.8,1.6,.055,-3.5,-0.5,,"Norwalk in Norwalk, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",+1.27,7.71,murphca01,1976-77,HOU,17.4,7.7,.134,1.6,2.5,,28,NBA,82,33.7,.490,.886,2.1,4.7,1.8,0.1,17.9,HOU
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",-0.37,3.73,murphca01,1977-78,HOU,19.5,7.4,.122,0.6,1.9,,29,NBA,76,38.2,.491,.918,2.2,3.4,1.5,0.0,25.6,HOU
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",-0.07,4.51,murphca01,1978-79,HOU,16.1,6.8,.112,0.0,1.5,,30,NBA,82,35.9,.496,.928,2.1,4.3,1.4,0.1,20.2,HOU
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",+0.48,5.48,murphca01,1979-80,HOU,16.8,7.2,.129,0.6,1.7,,31,NBA,76,35.2,.493,.897,2.0,3.9,1.9,0.1,20.0,HOU
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",+0.28,4.42,murphca01,1980-81,HOU,18.1,5.4,.128,-0.6,0.7,,32,NBA,76,26.5,.492,.958,1.1,2.9,1.5,0.1,16.7,HOU
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",-2.60,-0.25,murphca01,1981-82,HOU,13.2,1.3,.051,-4.7,-0.8,,33,NBA,64,18.8,.427,.909,1.0,2.5,0.7,0.0,10.2,HOU
+Calvin Murphy,/players/m/murphca01.html,1971,1983,Niagara University,false,"Norwalk in Norwalk, Connecticut",-2.33,-0.12,murphca01,1982-83,HOU,14.8,1.6,.055,-3.5,-0.5,,34,NBA,64,22.2,.447,.920,1.2,2.5,0.9,0.1,12.8,HOU

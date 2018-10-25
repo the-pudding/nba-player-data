@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hamilze01,2000-01,25,Los Angeles Clippers,NBA,3,6.3,.222,.625,2.7,0.0,0.0,0.0,3.0,5.7,0.0,-0.119,-24.6,-0.1,,316969,"Sewanhaka in Floral Park, New York"
-hamilze01,2001-02,26,Denver Nuggets,NBA,54,15.7,.420,.652,4.7,0.3,0.4,0.3,6.0,13.5,1.1,.061,-5.9,-0.8,,465850,"Sewanhaka in Floral Park, New York"
-hamilze01,2002-03,27,TOR,NBA,3,4.0,.400,1.000,1.3,0.0,0.3,0.0,2.0,17.7,0.0,.107,-12.6,0.0,,,"Sewanhaka in Floral Park, New York"
-hamilze01,2003-04,28,Philadelphia 76ers,NBA,46,10.3,.537,.698,3.2,0.3,0.2,0.2,3.7,15.9,1.8,.178,-2.5,-0.1,,485619,"Sewanhaka in Floral Park, New York"
-hamilze01,2004-05,29,Milwaukee Bucks,NBA,16,9.9,.344,.604,2.6,0.4,0.3,0.1,3.2,10.4,0.1,.038,-4.4,-0.1,,807546,"Sewanhaka in Floral Park, New York"
-hamilze01,2005-06,30,Cleveland Cavaliers,NBA,12,4.1,.500,.667,0.9,0.0,0.3,0.0,2.2,17.6,0.1,.098,-9.6,-0.1,,329138,"Sewanhaka in Floral Park, New York"
-hamilze01,2005-06,30,Cleveland Cavaliers,NBA,11,4.2,.538,.688,1.0,0.0,0.3,0.0,2.3,18.2,0.1,.108,-10.1,-0.1,,329138,"Sewanhaka in Floral Park, New York"
-hamilze01,2005-06,30,Cleveland Cavaliers,NBA,1,3.0,.000,.500,0.0,0.0,1.0,0.0,1.0,8.2,0.0,-0.057,-1.9,0.0,,329138,"Sewanhaka in Floral Park, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zendon Hamilton,/players/h/hamilze01.html,2001,2006,St. John's University,false,"Sewanhaka in Floral Park, New York",+0.43,0.04,hamilze01,2000-01,LAC,5.7,0.0,-0.119,-24.6,-0.1,,NBA,316969,25,3,6.3,.222,.625,2.7,0.0,0.0,0.0,3.0,LAC
+Zendon Hamilton,/players/h/hamilze01.html,2001,2006,St. John's University,false,"Sewanhaka in Floral Park, New York",-3.17,-0.52,hamilze01,2001-02,DEN,13.5,1.1,.061,-5.9,-0.8,,NBA,465850,26,54,15.7,.420,.652,4.7,0.3,0.4,0.3,6.0,DEN
+Zendon Hamilton,/players/h/hamilze01.html,2001,2006,St. John's University,false,"Sewanhaka in Floral Park, New York",-0.20,0.02,hamilze01,2002-03,TOR,17.7,0.0,.107,-12.6,0.0,,NBA,,27,3,4.0,.400,1.000,1.3,0.0,0.3,0.0,2.0,TOR
+Zendon Hamilton,/players/h/hamilze01.html,2001,2006,St. John's University,false,"Sewanhaka in Floral Park, New York",-1.39,0.25,hamilze01,2003-04,PHI,15.9,1.8,.178,-2.5,-0.1,,NBA,485619,28,46,10.3,.537,.698,3.2,0.3,0.2,0.2,3.7,PHI
+Zendon Hamilton,/players/h/hamilze01.html,2001,2006,St. John's University,false,"Sewanhaka in Floral Park, New York",-0.48,0.20,hamilze01,2004-05,MIL,10.4,0.1,.038,-4.4,-0.1,,NBA,807546,29,16,9.9,.344,.604,2.6,0.4,0.3,0.1,3.2,MIL
+Zendon Hamilton,/players/h/hamilze01.html,2001,2006,St. John's University,false,"Sewanhaka in Floral Park, New York",-0.15,0.07,hamilze01,2005-06,TOT,17.6,0.1,.098,-9.6,-0.1,,NBA,329138,30,12,4.1,.500,.667,0.9,0.0,0.3,0.0,2.2,"CLE,PHI"

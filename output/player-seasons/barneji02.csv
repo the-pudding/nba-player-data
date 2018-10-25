@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-barneji02,1976-77,32,PHI,NBA,16,14.4,.438,.556,0.9,1.4,0.3,0.0,4.1,7.4,0.1,.014,-7.2,-0.3,,"Ramona in Riverside, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Barnett,/players/b/barneji02.html,1967,1977,University of Oregon,false,"Ramona in Riverside, California",-2.75,-0.11,barneji02,1976-77,PHI,7.4,0.1,.014,-7.2,-0.3,,32,NBA,16,14.4,.438,.556,0.9,1.4,0.3,0.0,4.1,PHI

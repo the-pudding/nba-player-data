@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grayjo01,2017-18,24,Phoenix Suns,NBA,5,17.2,.268,.636,2.0,2.4,1.6,0.4,6.4,7.2,-0.2,-0.118,-5.5,-0.1,,101376,"Wheatley HS in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Gray,/players/g/grayjo01.html,2018,2018,Louisiana State University,true,"Wheatley HS in Houston, Texas",-0.80,0.08,grayjo01,2017-18,PHO,7.2,-0.2,-0.118,-5.5,-0.1,,NBA,101376,24,5,17.2,.268,.636,2.0,2.4,1.6,0.4,6.4,PHO

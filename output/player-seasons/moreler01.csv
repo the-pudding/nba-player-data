@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-moreler01,2014-15,23,Sacramento Kings,NBA,3,0.7,1.000,,0.3,0.0,0.0,0.0,0.7,40.8,0.0,.431,-4.5,0.0,,507336,"Ocean Academy in Bayville, New Jersey"
-moreler01,2015-16,24,Sacramento Kings,NBA,8,6.0,.500,.500,1.4,0.1,0.0,0.5,1.0,7.4,0.0,.012,-4.5,0.0,,845059,"Ocean Academy in Bayville, New Jersey"
-moreler01,2016-17,25,Did Not Play,,,,,,,,,,,,,,,,,,"Ocean Academy in Bayville, New Jersey"
-moreler01,2017-18,26,Detroit Pistons,NBA,67,12.0,.541,.379,4.1,1.2,0.5,0.8,2.1,13.9,2.3,.135,2.6,0.9,,1739333,"Ocean Academy in Bayville, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Moreland,/players/m/moreler01.html,2015,2018,Oregon State University,true,"Ocean Academy in Bayville, New Jersey",-0.31,0.00,moreler01,2014-15,SAC,40.8,0.0,.431,-4.5,0.0,,NBA,507336,23,3,0.7,1.000,,0.3,0.0,0.0,0.0,0.7,SAC
+Eric Moreland,/players/m/moreler01.html,2015,2018,Oregon State University,true,"Ocean Academy in Bayville, New Jersey",-0.52,0.06,moreler01,2015-16,SAC,7.4,0.0,.012,-4.5,0.0,,NBA,845059,24,8,6.0,.500,.500,1.4,0.1,0.0,0.5,1.0,SAC
+Eric Moreland,/players/m/moreler01.html,2015,2018,Oregon State University,true,"Ocean Academy in Bayville, New Jersey",,,moreler01,2016-17,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Eric Moreland,/players/m/moreler01.html,2015,2018,Oregon State University,true,"Ocean Academy in Bayville, New Jersey",+0.54,1.54,moreler01,2017-18,DET,13.9,2.3,.135,2.6,0.9,,NBA,1739333,26,67,12.0,.541,.379,4.1,1.2,0.5,0.8,2.1,DET

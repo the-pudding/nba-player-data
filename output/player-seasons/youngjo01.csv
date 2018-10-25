@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-youngjo01,2015-16,23,Indiana Pacers,NBA,41,9.4,.367,.800,1.2,1.6,0.4,0.0,3.8,9.9,-0.1,-0.009,-5.4,-0.3,,1000000,"Yates in Houston, Texas"
-youngjo01,2016-17,24,Indiana Pacers,NBA,33,4.1,.361,.733,0.5,0.5,0.1,0.0,2.1,11.4,-0.1,-0.022,-7.3,-0.2,,1052342,"Yates in Houston, Texas"
-youngjo01,2017-18,25,Indiana Pacers,NBA,53,10.5,.430,.759,1.2,0.7,0.3,0.0,3.9,10.1,0.5,.043,-4.7,-0.4,,1471382,"Yates in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Joe Young,/players/y/youngjo01.html,2016,2018,"University of Houston, University of Oregon",true,"Yates in Houston, Texas",-2.80,-0.15,youngjo01,2015-16,IND,9.9,-0.1,-0.009,-5.4,-0.3,,NBA,1000000,23,41,9.4,.367,.800,1.2,1.6,0.4,0.0,3.8,IND
+Joe Young,/players/y/youngjo01.html,2016,2018,"University of Houston, University of Oregon",true,"Yates in Houston, Texas",-1.83,0.03,youngjo01,2016-17,IND,11.4,-0.1,-0.022,-7.3,-0.2,,NBA,1052342,24,33,4.1,.361,.733,0.5,0.5,0.1,0.0,2.1,IND
+Joe Young,/players/y/youngjo01.html,2016,2018,"University of Houston, University of Oregon",true,"Yates in Houston, Texas",-3.61,-0.47,youngjo01,2017-18,IND,10.1,0.5,.043,-4.7,-0.4,,NBA,1471382,25,53,10.5,.430,.759,1.2,0.7,0.3,0.0,3.9,IND

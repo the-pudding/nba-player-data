@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jackspi01,2016-17,25,Dallas Mavericks,NBA,8,10.5,.333,.857,1.1,2.4,0.3,0.0,4.4,13.0,0.0,.021,-4.4,-0.1,,105498,"Desert Pines in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pierre Jackson,/players/j/jackspi01.html,2017,2017,Baylor University,true,"Desert Pines in Las Vegas, Nevada",+0.38,0.15,jackspi01,2016-17,DAL,13.0,0.0,.021,-4.4,-0.1,,NBA,105498,25,8,10.5,.333,.857,1.1,2.4,0.3,0.0,4.4,DAL

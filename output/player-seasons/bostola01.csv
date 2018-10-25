@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bostola01,1979-80,23,WSB,NBA,13,9.6,.462,.615,3.0,0.2,0.3,0.2,4.3,12.6,0.2,.075,-4.7,-0.1,,"John F. Kennedy in Cleveland, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lawrence Boston,/players/b/bostola01.html,1980,1980,University of Maryland,false,"John F. Kennedy in Cleveland, Ohio",+0.12,0.20,bostola01,1979-80,WSB,12.6,0.2,.075,-4.7,-0.1,,23,NBA,13,9.6,.462,.615,3.0,0.2,0.3,0.2,4.3,WSB

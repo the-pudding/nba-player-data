@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vardara01,2001-02,22,Detroit Pistons,NBA,1,6.0,.667,1.000,1.0,0.0,0.0,0.0,5.0,15.0,0.0,.098,-14.3,0.0,,332817,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ratko Varda,/players/v/vardara01.html,2002,2002,,false,,+0.20,0.01,vardara01,2001-02,DET,15.0,0.0,.098,-14.3,0.0,,NBA,332817,22,1,6.0,.667,1.000,1.0,0.0,0.0,0.0,5.0,DET

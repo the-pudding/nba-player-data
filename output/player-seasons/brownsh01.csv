@@ -1,16 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownsh01,2006-07,21,Cleveland Cavaliers,NBA,23,8.8,.378,.714,0.9,0.4,0.3,0.1,3.2,7.5,0.1,.015,-5.1,-0.2,,971280,"Proviso East in Maywood, Illinois"
-brownsh01,2007-08,22,Chicago Bulls,NBA,21,11.4,.349,.586,1.0,0.8,0.5,0.1,5.4,6.3,-0.5,-0.102,-9.6,-0.5,,1044120,"Proviso East in Maywood, Illinois"
-brownsh01,2007-08,22,Chicago Bulls,NBA,15,14.5,.369,.609,1.2,1.1,0.7,0.1,7.0,8.1,-0.2,-0.052,-7.6,-0.3,,1044120,"Proviso East in Maywood, Illinois"
-brownsh01,2007-08,22,Chicago Bulls,NBA,6,3.7,.200,.500,0.3,0.0,0.2,0.3,1.5,-11.8,-0.3,-0.592,-29.0,-0.2,,1044120,"Proviso East in Maywood, Illinois"
-brownsh01,2008-09,23,Los Angeles Lakers,NBA,48,9.9,.473,.821,0.9,0.8,0.5,0.1,4.2,12.9,0.7,.067,-2.9,-0.1,,797581,"Proviso East in Maywood, Illinois"
-brownsh01,2008-09,23,Los Angeles Lakers,NBA,30,11.4,.455,.800,0.8,0.9,0.6,0.2,4.8,12.1,0.3,.041,-3.3,-0.1,,797581,"Proviso East in Maywood, Illinois"
-brownsh01,2008-09,23,Los Angeles Lakers,NBA,18,7.6,.524,.889,1.1,0.6,0.2,0.1,3.2,15.0,0.4,.131,-1.9,0.0,,797581,"Proviso East in Maywood, Illinois"
-brownsh01,2009-10,24,Los Angeles Lakers,NBA,82,20.7,.427,.818,2.2,1.3,0.7,0.4,8.1,12.4,3.4,.096,-1.4,0.3,,2000000,"Proviso East in Maywood, Illinois"
-brownsh01,2010-11,25,Los Angeles Lakers,NBA,82,19.1,.425,.911,1.9,1.2,0.8,0.2,8.7,13.6,3.1,.093,-1.7,0.1,,2200000,"Proviso East in Maywood, Illinois"
-brownsh01,2011-12,26,Phoenix Suns,NBA,59,23.7,.420,.808,2.7,1.2,0.7,0.3,11.0,13.6,1.6,.054,-1.3,0.2,,3500000,"Proviso East in Maywood, Illinois"
-brownsh01,2012-13,27,Phoenix Suns,NBA,59,23.8,.420,.784,2.5,1.8,1.0,0.3,10.5,13.1,1.2,.041,-2.1,0.0,,3500000,"Proviso East in Maywood, Illinois"
-brownsh01,2013-14,28,Phoenix Suns,NBA,29,8.7,.364,.714,1.0,0.3,0.4,0.0,2.2,4.7,-0.3,-0.050,-7.0,-0.3,,3500000,"Proviso East in Maywood, Illinois"
-brownsh01,2013-14,28,Phoenix Suns,NBA,10,10.3,.286,.778,1.3,0.5,0.1,0.0,2.3,-0.5,-0.2,-0.102,-10.1,-0.2,,3500000,"Proviso East in Maywood, Illinois"
-brownsh01,2013-14,28,Phoenix Suns,NBA,19,7.8,.421,.667,0.8,0.2,0.6,0.0,2.1,8.4,0.0,-0.013,-4.9,-0.1,,3500000,"Proviso East in Maywood, Illinois"
-brownsh01,2014-15,29,MIA,NBA,5,17.8,.368,.750,0.2,0.6,0.8,0.0,4.0,4.4,0.0,-0.016,-6.1,-0.1,,,"Proviso East in Maywood, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-1.97,0.04,brownsh01,2006-07,CLE,7.5,0.1,.015,-5.1,-0.2,,NBA,971280,21,23,8.8,.378,.714,0.9,0.4,0.3,0.1,3.2,CLE
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-3.40,-0.20,brownsh01,2007-08,TOT,6.3,-0.5,-0.102,-9.6,-0.5,,NBA,1044120,22,21,11.4,.349,.586,1.0,0.8,0.5,0.1,5.4,"CLE,CHI"
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-2.42,-0.06,brownsh01,2008-09,TOT,12.9,0.7,.067,-2.9,-0.1,,NBA,797581,23,48,9.9,.473,.821,0.9,0.8,0.5,0.1,4.2,"CHA,LAL"
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-2.90,-0.85,brownsh01,2009-10,LAL,12.4,3.4,.096,-1.4,0.3,,NBA,2000000,24,82,20.7,.427,.818,2.2,1.3,0.7,0.4,8.1,LAL
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-1.86,0.48,brownsh01,2010-11,LAL,13.6,3.1,.093,-1.7,0.1,,NBA,2200000,25,82,19.1,.425,.911,1.9,1.2,0.8,0.2,8.7,LAL
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-2.68,-0.40,brownsh01,2011-12,PHO,13.6,1.6,.054,-1.3,0.2,,NBA,3500000,26,59,23.7,.420,.808,2.7,1.2,0.7,0.3,11.0,PHO
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-2.68,-0.39,brownsh01,2012-13,PHO,13.1,1.2,.041,-2.1,0.0,,NBA,3500000,27,59,23.8,.420,.784,2.5,1.8,1.0,0.3,10.5,PHO
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-2.99,-0.12,brownsh01,2013-14,TOT,4.7,-0.3,-0.050,-7.0,-0.3,,NBA,3500000,28,29,8.7,.364,.714,1.0,0.3,0.4,0.0,2.2,"SAS,NYK"
+Shannon Brown,/players/b/brownsh01.html,2007,2015,Michigan State University,false,"Proviso East in Maywood, Illinois",-0.47,0.11,brownsh01,2014-15,MIA,4.4,0.0,-0.016,-6.1,-0.1,,NBA,,29,5,17.8,.368,.750,0.2,0.6,0.8,0.0,4.0,MIA

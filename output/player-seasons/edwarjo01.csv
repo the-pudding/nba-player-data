@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-edwarjo01,2004-05,23,Indiana Pacers,NBA,25,5.6,.367,.500,0.8,0.1,0.1,0.2,1.2,5.1,-0.1,-0.035,-7.0,-0.2,,385277,"Hudson in Hudson, Ohio"
-edwarjo01,2005-06,24,Atlanta Hawks,NBA,40,7.4,.484,.727,1.2,0.1,0.1,0.4,1.8,6.4,0.2,.026,-5.9,-0.3,,1000000,"Hudson in Hudson, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Edwards,/players/e/edwarjo01.html,2005,2006,Kent State University,false,"Hudson in Hudson, Ohio",-1.23,0.09,edwarjo01,2004-05,IND,5.1,-0.1,-0.035,-7.0,-0.2,,NBA,385277,23,25,5.6,.367,.500,0.8,0.1,0.1,0.2,1.2,IND
+John Edwards,/players/e/edwarjo01.html,2005,2006,Kent State University,false,"Hudson in Hudson, Ohio",-2.92,-0.12,edwarjo01,2005-06,ATL,6.4,0.2,.026,-5.9,-0.3,,NBA,1000000,24,40,7.4,.484,.727,1.2,0.1,0.1,0.4,1.8,ATL

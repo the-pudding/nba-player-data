@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-masonro01,2002-03,22,Chicago Bulls,NBA,17,6.6,.355,1.000,0.7,0.7,0.2,0.0,1.8,7.4,0.1,.038,-3.8,-0.1,,349458,"Good Counsel in Wheaton, Maryland"
-masonro01,2003-04,23,Toronto Raptors,NBA,26,12.6,.327,.864,1.2,1.0,0.4,0.2,3.7,7.7,0.1,.008,-5.2,-0.3,,563679,"Good Counsel in Wheaton, Maryland"
-masonro01,2003-04,23,Toronto Raptors,NBA,3,14.3,.091,,1.0,1.0,0.3,0.0,1.0,-5.5,-0.2,-0.196,-12.2,-0.1,,563679,"Good Counsel in Wheaton, Maryland"
-masonro01,2003-04,23,Toronto Raptors,NBA,23,12.4,.356,.864,1.2,1.0,0.4,0.3,4.0,9.7,0.2,.039,-4.2,-0.2,,563679,"Good Counsel in Wheaton, Maryland"
-masonro01,2004-05,24,Toronto Raptors,NBA,,,,,,,,,,,,,,,,203428,"Good Counsel in Wheaton, Maryland"
-masonro01,2005-06,25,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Good Counsel in Wheaton, Maryland"
-masonro01,2006-07,26,Washington Wizards,NBA,62,7.9,.330,.875,0.7,0.6,0.2,0.1,2.7,7.2,-0.1,-0.005,-5.6,-0.5,,744551,"Good Counsel in Wheaton, Maryland"
-masonro01,2007-08,27,Washington Wizards,NBA,80,21.4,.443,.873,1.6,1.7,0.5,0.2,9.1,13.8,3.4,.096,-0.8,0.5,,798328,"Good Counsel in Wheaton, Maryland"
-masonro01,2008-09,28,San Antonio Spurs,NBA,82,30.4,.425,.890,3.1,2.1,0.5,0.1,11.8,11.9,4.7,.091,-0.4,1.0,,3500000,"Good Counsel in Wheaton, Maryland"
-masonro01,2009-10,29,San Antonio Spurs,NBA,79,19.2,.389,.794,2.1,1.7,0.4,0.2,6.3,9.7,1.9,.062,-1.7,0.1,,3780000,"Good Counsel in Wheaton, Maryland"
-masonro01,2010-11,30,New York Knicks,NBA,26,12.3,.338,.700,1.7,0.8,0.2,0.1,2.9,7.1,0.2,.029,-4.4,-0.2,,1400000,"Good Counsel in Wheaton, Maryland"
-masonro01,2011-12,31,Washington Wizards,NBA,52,13.4,.399,.778,1.3,0.9,0.3,0.1,5.5,12.1,0.9,.059,-2.9,-0.2,,1146337,"Good Counsel in Wheaton, Maryland"
-masonro01,2012-13,32,New Orleans Hornets,NBA,69,17.7,.433,.907,1.9,1.1,0.4,0.2,5.3,10.0,1.4,.057,-1.7,0.1,,1223116,"Good Counsel in Wheaton, Maryland"
-masonro01,2013-14,33,MIA,NBA,25,10.4,.373,1.000,0.9,0.8,0.2,0.0,3.0,8.2,0.3,.055,-3.4,-0.1,,,"Good Counsel in Wheaton, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",+0.36,0.21,masonro01,2002-03,CHI,7.4,0.1,.038,-3.8,-0.1,,NBA,349458,22,17,6.6,.355,1.000,0.7,0.7,0.2,0.0,1.8,CHI
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-2.31,-0.08,masonro01,2003-04,TOT,7.7,0.1,.008,-5.2,-0.3,,NBA,563679,23,26,12.6,.327,.864,1.2,1.0,0.4,0.2,3.7,"CHI,TOR"
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",,,masonro01,2004-05,Did Not Play (other pro league—Greece),,,,,,,NBA,203428,24,,,,,,,,,,Did Not Play (other pro league—Greece)
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",,,masonro01,2005-06,Did Not Play (other pro league—Israel),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Israel)
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-3.19,-0.31,masonro01,2006-07,WAS,7.2,-0.1,-0.005,-5.6,-0.5,,NBA,744551,26,62,7.9,.330,.875,0.7,0.6,0.2,0.1,2.7,WAS
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-2.62,-0.35,masonro01,2007-08,WAS,13.8,3.4,.096,-0.8,0.5,,NBA,798328,27,80,21.4,.443,.873,1.6,1.7,0.5,0.2,9.1,WAS
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",+0.27,4.49,masonro01,2008-09,SAS,11.9,4.7,.091,-0.4,1.0,,NBA,3500000,28,82,30.4,.425,.890,3.1,2.1,0.5,0.1,11.8,SAS
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-1.69,0.63,masonro01,2009-10,SAS,9.7,1.9,.062,-1.7,0.1,,NBA,3780000,29,79,19.2,.389,.794,2.1,1.7,0.4,0.2,6.3,SAS
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-2.79,-0.13,masonro01,2010-11,NYK,7.1,0.2,.029,-4.4,-0.2,,NBA,1400000,30,26,12.3,.338,.700,1.7,0.8,0.2,0.1,2.9,NYK
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-0.42,0.87,masonro01,2011-12,WAS,12.1,0.9,.059,-2.9,-0.2,,NBA,1146337,31,52,13.4,.399,.778,1.3,0.9,0.3,0.1,5.5,WAS
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-0.50,1.47,masonro01,2012-13,NOH,10.0,1.4,.057,-1.7,0.1,,NBA,1223116,32,69,17.7,.433,.907,1.9,1.1,0.4,0.2,5.3,NOH
+Roger Mason,/players/m/masonro01.html,2003,2014,University of Virginia,false,"Good Counsel in Wheaton, Maryland",-1.64,0.12,masonro01,2013-14,MIA,8.2,0.3,.055,-3.4,-0.1,,NBA,,33,25,10.4,.373,1.000,0.9,0.8,0.2,0.0,3.0,MIA

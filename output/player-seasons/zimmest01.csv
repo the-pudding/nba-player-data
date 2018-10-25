@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-zimmest01,2016-17,20,Orlando Magic,NBA,19,5.7,.323,.600,1.8,0.2,0.1,0.3,1.2,7.3,0.0,-0.005,-7.3,-0.1,,950000,"Bishop Gorman in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Stephen Zimmerman,/players/z/zimmest01.html,2017,2017,"University of Nevada, Las Vegas",true,"Bishop Gorman in Las Vegas, Nevada",-1.39,0.07,zimmest01,2016-17,ORL,7.3,0.0,-0.005,-7.3,-0.1,,NBA,950000,20,19,5.7,.323,.600,1.8,0.2,0.1,0.3,1.2,ORL

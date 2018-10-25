@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mcclida01,2000-01,23,DEN,NBA,6,9.7,.500,.000,2.8,0.2,0.0,0.3,3.0,9.9,0.0,.007,-6.6,-0.1,,"Visalia in Visalia, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dan McClintock,/players/m/mcclida01.html,2001,2001,Northern Arizona University,false,"Visalia in Visalia, California",-0.84,0.06,mcclida01,2000-01,DEN,9.9,0.0,.007,-6.6,-0.1,,23,NBA,6,9.7,.500,.000,2.8,0.2,0.0,0.3,3.0,DEN

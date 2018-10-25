@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-dreilgr01,1986-87,24,IND,NBA,24,5.3,.432,.833,1.8,0.3,0.1,0.1,1.8,8.6,0.2,.093,-4.6,-0.1,,"Kapaun Mt. Carmel in Wichita, Kansas",
-dreilgr01,1987-88,25,Indiana Pacers,NBA,20,3.7,.471,.692,0.9,0.3,0.1,0.2,1.7,10.5,0.1,.048,-4.9,-0.1,,"Kapaun Mt. Carmel in Wichita, Kansas",180000
-dreilgr01,1988-89,26,Indiana Pacers,NBA,53,7.5,.558,.672,1.7,0.3,0.1,0.2,2.4,8.1,0.4,.045,-3.5,-0.2,,"Kapaun Mt. Carmel in Wichita, Kansas",200000
-dreilgr01,1989-90,27,IND,NBA,49,6.3,.377,.735,1.8,0.2,0.1,0.3,1.3,6.0,0.2,.028,-6.3,-0.3,,"Kapaun Mt. Carmel in Wichita, Kansas",
-dreilgr01,1990-91,28,Indiana Pacers,NBA,73,14.1,.505,.600,3.5,0.7,0.3,0.4,3.5,8.7,1.1,.050,-3.0,-0.3,,"Kapaun Mt. Carmel in Wichita, Kansas",300000
-dreilgr01,1991-92,29,Indiana Pacers,NBA,60,8.5,.494,.750,1.6,0.4,0.2,0.3,2.0,5.6,0.5,.043,-4.1,-0.3,,"Kapaun Mt. Carmel in Wichita, Kansas",600000
-dreilgr01,1992-93,30,Indiana Pacers,NBA,43,5.6,.328,.533,1.5,0.2,0.1,0.2,1.1,5.0,0.1,.011,-5.6,-0.2,,"Kapaun Mt. Carmel in Wichita, Kansas",650000
-dreilgr01,1993-94,31,Dallas Mavericks,NBA,54,12.7,.500,.711,3.1,0.6,0.3,0.4,2.4,7.2,0.6,.040,-4.0,-0.4,,"Kapaun Mt. Carmel in Wichita, Kansas",300000
-dreilgr01,1994-95,32,Cleveland Cavaliers,NBA,58,8.3,.412,.634,2.0,0.4,0.1,0.4,1.9,7.8,0.6,.059,-4.0,-0.2,,"Kapaun Mt. Carmel in Wichita, Kansas",150000
-dreilgr01,1995-96,33,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Kapaun Mt. Carmel in Wichita, Kansas",
-dreilgr01,1996-97,34,Dallas Mavericks,NBA,40,9.7,.459,.407,1.9,0.3,0.2,0.2,2.0,7.3,0.4,.045,-5.2,-0.3,,"Kapaun Mt. Carmel in Wichita, Kansas",247500
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-0.10,0.19,dreilgr01,1986-87,IND,8.6,0.2,.093,-4.6,-0.1,,24,NBA,24,5.3,.432,.833,1.8,0.3,0.1,0.1,1.8,IND,
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",+0.28,0.13,dreilgr01,1987-88,IND,10.5,0.1,.048,-4.9,-0.1,,25,NBA,20,3.7,.471,.692,0.9,0.3,0.1,0.2,1.7,IND,180000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-2.90,-0.16,dreilgr01,1988-89,IND,8.1,0.4,.045,-3.5,-0.2,,26,NBA,53,7.5,.558,.672,1.7,0.3,0.1,0.2,2.4,IND,200000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-2.15,0.03,dreilgr01,1989-90,IND,6.0,0.2,.028,-6.3,-0.3,,27,NBA,49,6.3,.377,.735,1.8,0.2,0.1,0.3,1.3,IND,
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-2.17,0.13,dreilgr01,1990-91,IND,8.7,1.1,.050,-3.0,-0.3,,28,NBA,73,14.1,.505,.600,3.5,0.7,0.3,0.4,3.5,IND,300000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-2.78,-0.15,dreilgr01,1991-92,IND,5.6,0.5,.043,-4.1,-0.3,,29,NBA,60,8.5,.494,.750,1.6,0.4,0.2,0.3,2.0,IND,600000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-1.79,0.08,dreilgr01,1992-93,IND,5.0,0.1,.011,-5.6,-0.2,,30,NBA,43,5.6,.328,.533,1.5,0.2,0.1,0.2,1.1,IND,650000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-2.55,-0.16,dreilgr01,1993-94,DAL,7.2,0.6,.040,-4.0,-0.4,,31,NBA,54,12.7,.500,.711,3.1,0.6,0.3,0.4,2.4,DAL,300000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-1.58,0.21,dreilgr01,1994-95,CLE,7.8,0.6,.059,-4.0,-0.2,,32,NBA,58,8.3,.412,.634,2.0,0.4,0.1,0.4,1.9,CLE,150000
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",,,dreilgr01,1995-96,Did Not Play (other pro league—CBA),,,,,,,33,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Greg Dreiling,/players/d/dreilgr01.html,1987,1997,"Wichita State University, University of Kansas",false,"Kapaun Mt. Carmel in Wichita, Kansas",-2.63,-0.11,dreilgr01,1996-97,DAL,7.3,0.4,.045,-5.2,-0.3,,34,NBA,40,9.7,.459,.407,1.9,0.3,0.2,0.2,2.0,DAL,247500

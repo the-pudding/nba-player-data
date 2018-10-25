@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hunteli01,1993-94,23,Detroit Pistons,NBA,82,26.5,.375,.732,2.3,4.8,1.5,0.1,10.3,12.0,-0.8,-0.017,-2.9,-0.5,,902000,"Murrah in Jackson, Mississippi"
-hunteli01,1994-95,24,Detroit Pistons,NBA,42,22.5,.374,.727,1.8,3.8,1.2,0.2,7.5,10.5,-0.3,-0.015,-4.3,-0.5,,1173000,"Murrah in Jackson, Mississippi"
-hunteli01,1995-96,25,Detroit Pistons,NBA,80,26.7,.381,.700,2.4,2.4,1.1,0.2,8.5,11.2,3.9,.089,0.2,1.2,,1444000,"Murrah in Jackson, Mississippi"
-hunteli01,1996-97,26,Detroit Pistons,NBA,82,36.9,.404,.778,2.8,1.9,1.6,0.3,14.2,13.4,6.4,.101,1.1,2.4,,1715000,"Murrah in Jackson, Mississippi"
-hunteli01,1997-98,27,Detroit Pistons,NBA,71,35.3,.383,.740,3.5,3.2,1.7,0.1,12.1,12.4,4.0,.077,0.7,1.7,,1750000,"Murrah in Jackson, Mississippi"
-hunteli01,1998-99,28,Detroit Pistons,NBA,49,35.8,.435,.753,3.4,3.9,1.8,0.2,11.9,13.9,4.0,.109,1.9,1.7,,2050000,"Murrah in Jackson, Mississippi"
-hunteli01,1999-00,29,Detroit Pistons,NBA,82,35.6,.425,.760,3.0,4.0,1.6,0.3,12.7,13.2,5.6,.093,1.3,2.4,,2350000,"Murrah in Jackson, Mississippi"
-hunteli01,2000-01,30,Milwaukee Bucks,NBA,82,24.4,.381,.802,2.1,2.7,1.2,0.1,10.1,14.8,4.6,.109,0.5,1.3,,2650000,"Murrah in Jackson, Mississippi"
-hunteli01,2001-02,31,Los Angeles Lakers,NBA,82,19.7,.382,.500,1.5,1.6,0.8,0.2,5.8,9.4,2.0,.059,-1.9,0.0,,3425760,"Murrah in Jackson, Mississippi"
-hunteli01,2002-03,32,Toronto Raptors,NBA,29,23.2,.351,.723,2.0,2.4,1.2,0.2,9.7,10.6,-0.6,-0.041,-4.1,-0.4,,3870912,"Murrah in Jackson, Mississippi"
-hunteli01,2003-04,33,Detroit Pistons,NBA,33,20.0,.343,.625,2.0,2.6,1.2,0.2,3.5,9.0,0.9,.067,-0.7,0.2,,3000000,"Murrah in Jackson, Mississippi"
-hunteli01,2004-05,34,Detroit Pistons,NBA,76,15.1,.358,.793,1.6,1.7,0.9,0.2,3.8,9.6,1.4,.058,-1.3,0.2,,1600000,"Murrah in Jackson, Mississippi"
-hunteli01,2005-06,35,Detroit Pistons,NBA,30,11.8,.370,.500,1.3,2.1,0.6,0.0,2.9,10.5,0.5,.066,-1.7,0.0,,1760000,"Murrah in Jackson, Mississippi"
-hunteli01,2006-07,36,Detroit Pistons,NBA,52,14.3,.385,.909,0.9,1.8,0.7,0.1,4.9,12.7,1.3,.085,-1.4,0.1,,2250000,"Murrah in Jackson, Mississippi"
-hunteli01,2007-08,37,Detroit Pistons,NBA,24,9.0,.344,.778,0.5,1.4,0.5,0.1,2.4,8.8,0.2,.048,-2.7,0.0,,2250000,"Murrah in Jackson, Mississippi"
-hunteli01,2008-09,38,Chicago Bulls,NBA,28,9.5,.329,.600,0.4,1.3,0.7,0.0,2.6,7.9,0.0,-0.003,-4.2,-0.1,,1143473,"Murrah in Jackson, Mississippi"
-hunteli01,2009-10,39,Chicago Bulls,NBA,13,9.4,.167,1.000,1.1,0.7,0.1,0.0,1.0,-2.2,-0.3,-0.117,-10.1,-0.2,,1306455,"Murrah in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-2.32,-0.08,hunteli01,1993-94,DET,12.0,-0.8,-0.017,-2.9,-0.5,,NBA,902000,23,82,26.5,.375,.732,2.3,4.8,1.5,0.1,10.3,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-2.65,-0.21,hunteli01,1994-95,DET,10.5,-0.3,-0.015,-4.3,-0.5,,NBA,1173000,24,42,22.5,.374,.727,1.8,3.8,1.2,0.2,7.5,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-0.08,3.23,hunteli01,1995-96,DET,11.2,3.9,.089,0.2,1.2,,NBA,1444000,25,80,26.7,.381,.700,2.4,2.4,1.1,0.2,8.5,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",+1.36,7.93,hunteli01,1996-97,DET,13.4,6.4,.101,1.1,2.4,,NBA,1715000,26,82,36.9,.404,.778,2.8,1.9,1.6,0.3,14.2,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",+0.19,4.20,hunteli01,1997-98,DET,12.4,4.0,.077,0.7,1.7,,NBA,1750000,27,71,35.3,.383,.740,3.5,3.2,1.7,0.1,12.1,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",+1.10,4.49,hunteli01,1998-99,DET,13.9,4.0,.109,1.9,1.7,,NBA,2050000,28,49,35.8,.435,.753,3.4,3.9,1.8,0.2,11.9,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",+0.77,6.23,hunteli01,1999-00,DET,13.2,5.6,.093,1.3,2.4,,NBA,2350000,29,82,35.6,.425,.760,3.0,4.0,1.6,0.3,12.7,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",+0.57,4.45,hunteli01,2000-01,MIL,14.8,4.6,.109,0.5,1.3,,NBA,2650000,30,82,24.4,.381,.802,2.1,2.7,1.2,0.1,10.1,MIL
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-1.22,1.19,hunteli01,2001-02,LAL,9.4,2.0,.059,-1.9,0.0,,NBA,3425760,31,82,19.7,.382,.500,1.5,1.6,0.8,0.2,5.8,LAL
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-3.51,-0.64,hunteli01,2002-03,TOR,10.6,-0.6,-0.041,-4.1,-0.4,,NBA,3870912,32,29,23.2,.351,.723,2.0,2.4,1.2,0.2,9.7,TOR
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-1.29,0.51,hunteli01,2003-04,DET,9.0,0.9,.067,-0.7,0.2,,NBA,3000000,33,33,20.0,.343,.625,2.0,2.6,1.2,0.2,3.5,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-2.47,-0.28,hunteli01,2004-05,DET,9.6,1.4,.058,-1.3,0.2,,NBA,1600000,34,76,15.1,.358,.793,1.6,1.7,0.9,0.2,3.8,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-3.83,-0.62,hunteli01,2005-06,DET,10.5,0.5,.066,-1.7,0.0,,NBA,1760000,35,30,11.8,.370,.500,1.3,2.1,0.6,0.0,2.9,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-2.97,-0.43,hunteli01,2006-07,DET,12.7,1.3,.085,-1.4,0.1,,NBA,2250000,36,52,14.3,.385,.909,0.9,1.8,0.7,0.1,4.9,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-0.79,0.33,hunteli01,2007-08,DET,8.8,0.2,.048,-2.7,0.0,,NBA,2250000,37,24,9.0,.344,.778,0.5,1.4,0.5,0.1,2.4,DET
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-0.68,0.31,hunteli01,2008-09,CHI,7.9,0.0,-0.003,-4.2,-0.1,,NBA,1143473,38,28,9.5,.329,.600,0.4,1.3,0.7,0.0,2.6,CHI
+Lindsey Hunter,/players/h/hunteli01.html,1994,2010,"Alcorn State University, Jackson State University",false,"Murrah in Jackson, Mississippi",-0.95,0.11,hunteli01,2009-10,CHI,-2.2,-0.3,-0.117,-10.1,-0.2,,NBA,1306455,39,13,9.4,.167,1.000,1.1,0.7,0.1,0.0,1.0,CHI

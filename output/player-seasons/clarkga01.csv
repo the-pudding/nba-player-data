@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-clarkga01,2018-19,24,HOU,NBA,3,2.3,.000,,0.7,0.0,0.0,0.0,0.0,-8.3,0.0,-0.124,-14.4,0.0,,"Clayton HS in Clayton, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gary Clark,/players/c/clarkga01.html,2019,2019,University of Cincinnati,true,"Clayton HS in Clayton, North Carolina",,,clarkga01,2018-19,HOU,-8.3,0.0,-0.124,-14.4,0.0,,24,NBA,3,2.3,.000,,0.7,0.0,0.0,0.0,0.0,HOU

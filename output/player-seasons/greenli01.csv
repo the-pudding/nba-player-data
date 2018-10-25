@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-greenli01,1992-93,22,Orlando Magic,NBA,52,12.0,.439,.625,0.7,2.2,0.4,0.1,4.5,11.6,0.8,.064,-4.8,-0.4,,140000,"Moss Point in Moss Point, Mississippi"
-greenli01,1993-94,23,Orlando Magic,NBA,29,4.3,.386,.757,0.4,0.3,0.2,0.0,2.5,13.0,0.1,.044,-6.8,-0.2,,250000,"Moss Point in Moss Point, Mississippi"
-greenli01,1994-95,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Moss Point in Moss Point, Mississippi"
-greenli01,1995-96,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Moss Point in Moss Point, Mississippi"
-greenli01,1996-97,26,Detroit Pistons,NBA,45,6.9,.469,.638,0.5,0.9,0.4,0.0,2.0,13.5,0.8,.119,-2.3,0.0,,247500,"Moss Point in Moss Point, Mississippi"
-greenli01,1997-98,27,MIL,NBA,21,5.9,.217,.750,0.3,0.8,0.2,0.0,1.2,5.4,-0.1,-0.024,-8.6,-0.2,,,"Moss Point in Moss Point, Mississippi"
-greenli01,1998-99,28,CLE,NBA,1,2.0,.000,,0.0,0.0,0.0,0.0,0.0,-19.7,0.0,-0.590,-28.8,0.0,,,"Moss Point in Moss Point, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",-1.36,0.39,greenli01,1992-93,ORL,11.6,0.8,.064,-4.8,-0.4,,NBA,140000,22,52,12.0,.439,.625,0.7,2.2,0.4,0.1,4.5,ORL
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",-0.62,0.14,greenli01,1993-94,ORL,13.0,0.1,.044,-6.8,-0.2,,NBA,250000,23,29,4.3,.386,.757,0.4,0.3,0.2,0.0,2.5,ORL
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",,,greenli01,1994-95,Did Not Play (other pro league—CBA),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—CBA)
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",,,greenli01,1995-96,Did Not Play (other pro league—CBA),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—CBA)
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",-0.20,0.44,greenli01,1996-97,DET,13.5,0.8,.119,-2.3,0.0,,NBA,247500,26,45,6.9,.469,.638,0.5,0.9,0.4,0.0,2.0,DET
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",-0.27,0.17,greenli01,1997-98,MIL,5.4,-0.1,-0.024,-8.6,-0.2,,NBA,,27,21,5.9,.217,.750,0.3,0.8,0.2,0.0,1.2,MIL
+Litterial Green,/players/g/greenli01.html,1993,1999,University of Georgia,false,"Moss Point in Moss Point, Mississippi",+0.50,0.00,greenli01,1998-99,CLE,-19.7,0.0,-0.590,-28.8,0.0,,NBA,,28,1,2.0,.000,,0.0,0.0,0.0,0.0,0.0,CLE

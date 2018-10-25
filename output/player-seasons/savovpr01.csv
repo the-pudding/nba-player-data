@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-savovpr01,2002-03,26,Denver Nuggets,NBA,27,9.5,.312,.724,0.9,0.8,0.5,0.0,3.1,6.0,-0.2,-0.040,-6.1,-0.3,,349458,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Predrag Savovic,/players/s/savovpr01.html,2003,2003,"University of Alabama at Birmingham, University of Hawaii",false,,-0.91,0.21,savovpr01,2002-03,DEN,6.0,-0.2,-0.040,-6.1,-0.3,,NBA,349458,26,27,9.5,.312,.724,0.9,0.8,0.5,0.0,3.1,DEN

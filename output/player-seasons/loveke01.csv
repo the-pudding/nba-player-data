@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-loveke01,2008-09,20,Minnesota Timberwolves,NBA,81,25.3,.459,.789,9.1,1.0,0.4,0.6,11.1,18.3,5.3,.124,-1.1,0.5,,3163680,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2009-10,21,Minnesota Timberwolves,NBA,60,28.6,.450,.815,11.0,2.3,0.7,0.4,14.0,20.7,4.9,.138,1.9,1.7,,3401040,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2010-11,22,Minnesota Timberwolves,NBA,73,35.8,.470,.850,15.2,2.5,0.6,0.4,20.2,24.3,11.4,.210,3.7,3.8,,3638280,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2011-12,23,Minnesota Timberwolves,NBA,55,39.0,.448,.824,13.3,2.0,0.9,0.5,26.0,25.4,10.0,.223,4.5,3.5,All-NBA (2nd),4609701,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2012-13,24,Minnesota Timberwolves,NBA,18,34.3,.352,.704,14.0,2.3,0.7,0.5,18.3,17.9,1.1,.084,-1.1,0.1,,13668750,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2013-14,25,Minnesota Timberwolves,NBA,77,36.3,.457,.821,12.5,4.4,0.8,0.5,26.1,26.9,14.3,.245,8.4,7.3,All-NBA (2nd),14693906,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2014-15,26,Cleveland Cavaliers,NBA,75,33.8,.434,.804,9.7,2.2,0.7,0.5,16.4,18.8,8.7,.165,1.9,2.5,,15719062,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2015-16,27,Cleveland Cavaliers,NBA,77,31.5,.419,.822,9.9,2.4,0.8,0.5,16.0,19.0,8.5,.169,2.5,2.8,,19500000,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2016-17,28,Cleveland Cavaliers,NBA,60,31.4,.427,.871,11.1,1.9,0.9,0.4,19.0,21.1,6.4,.163,0.8,1.3,,21165675,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2017-18,29,Cleveland Cavaliers,NBA,59,28.0,.458,.880,9.3,1.7,0.7,0.4,17.6,22.4,6.4,.185,1.3,1.4,,22642350,"Lake Oswego in Lake Oswego, Oregon"
-loveke01,2018-19,30,CLE,NBA,4,34.0,.323,.818,13.5,3.5,0.3,0.3,19.0,15.2,0.1,.033,-3.9,-0.1,,,"Lake Oswego in Lake Oswego, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",-0.57,2.38,loveke01,2008-09,MIN,18.3,5.3,.124,-1.1,0.5,,NBA,3163680,20,81,25.3,.459,.789,9.1,1.0,0.4,0.6,11.1,MIN
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+0.73,3.49,loveke01,2009-10,MIN,20.7,4.9,.138,1.9,1.7,,NBA,3401040,21,60,28.6,.450,.815,11.0,2.3,0.7,0.4,14.0,MIN
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+2.26,7.99,loveke01,2010-11,MIN,24.3,11.4,.210,3.7,3.8,,NBA,3638280,22,73,35.8,.470,.850,15.2,2.5,0.6,0.4,20.2,MIN
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+3.56,8.49,loveke01,2011-12,MIN,25.4,10.0,.223,4.5,3.5,All-NBA (2nd),NBA,4609701,23,55,39.0,.448,.824,13.3,2.0,0.9,0.5,26.0,MIN
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+1.45,1.57,loveke01,2012-13,MIN,17.9,1.1,.084,-1.1,0.1,,NBA,13668750,24,18,34.3,.352,.704,14.0,2.3,0.7,0.5,18.3,MIN
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+5.11,13.62,loveke01,2013-14,MIN,26.9,14.3,.245,8.4,7.3,All-NBA (2nd),NBA,14693906,25,77,36.3,.457,.821,12.5,4.4,0.8,0.5,26.1,MIN
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+3.19,9.66,loveke01,2014-15,CLE,18.8,8.7,.165,1.9,2.5,,NBA,15719062,26,75,33.8,.434,.804,9.7,2.2,0.7,0.5,16.4,CLE
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+4.03,12.70,loveke01,2015-16,CLE,19.0,8.5,.169,2.5,2.8,,NBA,19500000,27,77,31.5,.419,.822,9.9,2.4,0.8,0.5,16.0,CLE
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+4.23,10.37,loveke01,2016-17,CLE,21.1,6.4,.163,0.8,1.3,,NBA,21165675,28,60,31.4,.427,.871,11.1,1.9,0.9,0.4,19.0,CLE
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",+2.14,6.76,loveke01,2017-18,CLE,22.4,6.4,.185,1.3,1.4,,NBA,22642350,29,59,28.0,.458,.880,9.3,1.7,0.7,0.4,17.6,CLE
+Kevin Love,/players/l/loveke01.html,2009,2019,"University of California, Los Angeles",true,"Lake Oswego in Lake Oswego, Oregon",,,loveke01,2018-19,CLE,15.2,0.1,.033,-3.9,-0.1,,NBA,,30,4,34.0,.323,.818,13.5,3.5,0.3,0.3,19.0,CLE

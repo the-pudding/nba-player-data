@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-headlu01,2005-06,23,Houston Rockets,NBA,80,28.9,.403,.699,3.3,2.7,1.1,0.1,8.8,11.2,3.5,.072,0.2,1.3,,975600,"Manley Career Academy in Chicago, Illinois"
-headlu01,2006-07,24,Houston Rockets,NBA,80,27.6,.437,.790,3.2,2.4,1.0,0.1,10.9,13.7,5.7,.123,1.5,2.0,,1048800,"Manley Career Academy in Chicago, Illinois"
-headlu01,2007-08,25,Houston Rockets,NBA,73,18.9,.432,.815,1.8,1.9,0.6,0.1,7.6,13.6,3.5,.121,-0.2,0.6,,1122000,"Manley Career Academy in Chicago, Illinois"
-headlu01,2008-09,26,Houston Rockets,NBA,32,15.6,.382,.792,1.6,1.8,0.5,0.1,4.7,9.9,0.6,.058,-3.0,-0.1,,1962378,"Manley Career Academy in Chicago, Illinois"
-headlu01,2008-09,26,Houston Rockets,NBA,22,14.6,.386,.875,1.2,1.6,0.3,0.0,4.8,9.8,0.4,.058,-3.8,-0.1,,1962378,"Manley Career Academy in Chicago, Illinois"
-headlu01,2008-09,26,Houston Rockets,NBA,10,17.6,.372,.625,2.5,2.3,1.1,0.1,4.3,10.2,0.2,.059,-1.7,0.0,,1962378,"Manley Career Academy in Chicago, Illinois"
-headlu01,2009-10,27,Indiana Pacers,NBA,47,17.3,.437,.828,1.7,1.5,0.4,0.2,7.6,11.5,0.6,.034,-4.1,-0.4,,884881,"Manley Career Academy in Chicago, Illinois"
-headlu01,2010-11,28,Sacramento Kings,NBA,36,16.3,.415,.780,1.7,1.9,0.3,0.3,5.6,11.7,0.9,.073,-2.5,-0.1,,992680,"Manley Career Academy in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Luther Head,/players/h/headlu01.html,2006,2011,University of Illinois at Urbana-Champaign,false,"Manley Career Academy in Chicago, Illinois",-0.06,3.47,headlu01,2005-06,HOU,11.2,3.5,.072,0.2,1.3,,NBA,975600,23,80,28.9,.403,.699,3.3,2.7,1.1,0.1,8.8,HOU
+Luther Head,/players/h/headlu01.html,2006,2011,University of Illinois at Urbana-Champaign,false,"Manley Career Academy in Chicago, Illinois",-2.54,-0.50,headlu01,2006-07,HOU,13.7,5.7,.123,1.5,2.0,,NBA,1048800,24,80,27.6,.437,.790,3.2,2.4,1.0,0.1,10.9,HOU
+Luther Head,/players/h/headlu01.html,2006,2011,University of Illinois at Urbana-Champaign,false,"Manley Career Academy in Chicago, Illinois",+0.11,2.30,headlu01,2007-08,HOU,13.6,3.5,.121,-0.2,0.6,,NBA,1122000,25,73,18.9,.432,.815,1.8,1.9,0.6,0.1,7.6,HOU
+Luther Head,/players/h/headlu01.html,2006,2011,University of Illinois at Urbana-Champaign,false,"Manley Career Academy in Chicago, Illinois",-2.84,-0.17,headlu01,2008-09,TOT,9.9,0.6,.058,-3.0,-0.1,,NBA,1962378,26,32,15.6,.382,.792,1.6,1.8,0.5,0.1,4.7,"HOU,MIA"
+Luther Head,/players/h/headlu01.html,2006,2011,University of Illinois at Urbana-Champaign,false,"Manley Career Academy in Chicago, Illinois",-1.26,0.56,headlu01,2009-10,IND,11.5,0.6,.034,-4.1,-0.4,,NBA,884881,27,47,17.3,.437,.828,1.7,1.5,0.4,0.2,7.6,IND
+Luther Head,/players/h/headlu01.html,2006,2011,University of Illinois at Urbana-Champaign,false,"Manley Career Academy in Chicago, Illinois",-1.46,0.32,headlu01,2010-11,SAC,11.7,0.9,.073,-2.5,-0.1,,NBA,992680,28,36,16.3,.415,.780,1.7,1.9,0.3,0.3,5.6,SAC

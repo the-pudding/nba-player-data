@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kramejo01,1978-79,23,PHO,NBA,82,17.1,.489,.710,4.1,1.1,0.5,0.3,5.9,11.3,3.0,.103,-0.6,0.5,,"Patrick Henry in San Diego, California"
-kramejo01,1979-80,24,PHO,NBA,54,13.2,.469,.800,2.8,1.4,0.5,0.1,3.5,10.0,1.4,.095,-0.9,0.2,,"Patrick Henry in San Diego, California"
-kramejo01,1980-81,25,PHO,NBA,82,13.0,.527,.692,2.8,1.1,0.4,0.2,4.1,11.8,2.9,.129,-0.4,0.4,,"Patrick Henry in San Diego, California"
-kramejo01,1981-82,26,PHO,NBA,56,9.8,.414,.786,1.9,0.9,0.3,0.2,2.6,10.4,1.0,.092,-1.9,0.0,,"Patrick Henry in San Diego, California"
-kramejo01,1982-83,27,PHO,NBA,54,8.5,.423,.875,1.6,0.7,0.3,0.1,1.9,8.8,0.8,.085,-1.6,0.1,,"Patrick Henry in San Diego, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Joel Kramer,/players/k/kramejo01.html,1979,1983,San Diego State University,false,"Patrick Henry in San Diego, California",-0.62,1.83,kramejo01,1978-79,PHO,11.3,3.0,.103,-0.6,0.5,,23,NBA,82,17.1,.489,.710,4.1,1.1,0.5,0.3,5.9,PHO
+Joel Kramer,/players/k/kramejo01.html,1979,1983,San Diego State University,false,"Patrick Henry in San Diego, California",-1.14,0.53,kramejo01,1979-80,PHO,10.0,1.4,.095,-0.9,0.2,,24,NBA,54,13.2,.469,.800,2.8,1.4,0.5,0.1,3.5,PHO
+Joel Kramer,/players/k/kramejo01.html,1979,1983,San Diego State University,false,"Patrick Henry in San Diego, California",-0.17,1.66,kramejo01,1980-81,PHO,11.8,2.9,.129,-0.4,0.4,,25,NBA,82,13.0,.527,.692,2.8,1.1,0.4,0.2,4.1,PHO
+Joel Kramer,/players/k/kramejo01.html,1979,1983,San Diego State University,false,"Patrick Henry in San Diego, California",-0.91,0.51,kramejo01,1981-82,PHO,10.4,1.0,.092,-1.9,0.0,,26,NBA,56,9.8,.414,.786,1.9,0.9,0.3,0.2,2.6,PHO
+Joel Kramer,/players/k/kramejo01.html,1979,1983,San Diego State University,false,"Patrick Henry in San Diego, California",-2.12,0.01,kramejo01,1982-83,PHO,8.8,0.8,.085,-1.6,0.1,,27,NBA,54,8.5,.423,.875,1.6,0.7,0.3,0.1,1.9,PHO

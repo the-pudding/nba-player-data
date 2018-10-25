@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-andersh01,1996-97,23,Utah Jazz,NBA,65,16.4,.462,.687,2.8,0.8,0.4,0.1,5.9,10.4,1.2,.056,-2.9,-0.2,,220000,"Crim in Atlanta, Georgia"
-andersh01,1997-98,24,Utah Jazz,NBA,82,19.5,.538,.735,2.8,1.1,0.8,0.2,8.3,15.7,4.2,.127,0.7,1.1,,1200000,"Crim in Atlanta, Georgia"
-andersh01,1998-99,25,Utah Jazz,NBA,50,21.4,.446,.712,2.6,1.1,0.8,0.2,8.5,12.8,2.0,.088,-1.4,0.2,,1300000,"Crim in Atlanta, Georgia"
-andersh01,1999-00,26,Houston Rockets,NBA,82,32.9,.473,.767,4.7,2.9,1.2,0.4,12.3,13.8,4.9,.087,0.9,2.0,,2000000,"Crim in Atlanta, Georgia"
-andersh01,2000-01,27,Houston Rockets,NBA,82,29.2,.446,.734,4.1,2.3,1.0,0.5,8.7,11.9,3.9,.078,0.6,1.6,,2200000,"Crim in Atlanta, Georgia"
-andersh01,2001-02,28,New York Knicks,NBA,82,19.5,.399,.692,3.0,0.9,0.6,0.2,5.0,8.0,0.4,.013,-2.9,-0.3,,5500000,"Crim in Atlanta, Georgia"
-andersh01,2002-03,29,New York Knicks,NBA,82,21.1,.462,.732,3.1,1.1,0.9,0.2,8.4,13.4,2.7,.074,-0.8,0.5,,6100000,"Crim in Atlanta, Georgia"
-andersh01,2003-04,30,New York Knicks,NBA,80,24.7,.422,.764,2.8,1.5,0.9,0.2,7.9,10.1,1.7,.042,-1.7,0.1,,6700000,"Crim in Atlanta, Georgia"
-andersh01,2004-05,31,New York Knicks,NBA,66,17.7,.452,.818,2.9,1.1,0.6,0.2,3.9,9.0,2.1,.085,-1.0,0.3,,7300000,"Crim in Atlanta, Georgia"
-andersh01,2004-05,31,New York Knicks,NBA,1,20.0,.000,,1.0,0.0,0.0,0.0,0.0,-6.5,-0.1,-0.172,-10.9,0.0,,7300000,"Crim in Atlanta, Georgia"
-andersh01,2004-05,31,New York Knicks,NBA,65,17.7,.456,.818,2.9,1.1,0.6,0.2,3.9,9.2,2.2,.090,-0.9,0.3,,7300000,"Crim in Atlanta, Georgia"
-andersh01,2005-06,32,New York Knicks,NBA,48,13.3,.429,.722,1.7,0.6,0.4,0.1,2.6,6.2,0.5,.039,-3.3,-0.2,,7900000,"Crim in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-2.34,-0.04,andersh01,1996-97,UTA,10.4,1.2,.056,-2.9,-0.2,,NBA,220000,23,65,16.4,.462,.687,2.8,0.8,0.4,0.1,5.9,UTA
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-0.39,2.53,andersh01,1997-98,UTA,15.7,4.2,.127,0.7,1.1,,NBA,1200000,24,82,19.5,.538,.735,2.8,1.1,0.8,0.2,8.3,UTA
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-0.69,1.44,andersh01,1998-99,UTA,12.8,2.0,.088,-1.4,0.2,,NBA,1300000,25,50,21.4,.446,.712,2.6,1.1,0.8,0.2,8.5,UTA
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-0.02,4.12,andersh01,1999-00,HOU,13.8,4.9,.087,0.9,2.0,,NBA,2000000,26,82,32.9,.473,.767,4.7,2.9,1.2,0.4,12.3,HOU
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-1.29,1.52,andersh01,2000-01,HOU,11.9,3.9,.078,0.6,1.6,,NBA,2200000,27,82,29.2,.446,.734,4.1,2.3,1.0,0.5,8.7,HOU
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-1.88,0.30,andersh01,2001-02,NYK,8.0,0.4,.013,-2.9,-0.3,,NBA,5500000,28,82,19.5,.399,.692,3.0,0.9,0.6,0.2,5.0,NYK
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-0.76,1.73,andersh01,2002-03,NYK,13.4,2.7,.074,-0.8,0.5,,NBA,6100000,29,82,21.1,.462,.732,3.1,1.1,0.9,0.2,8.4,NYK
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-3.49,-1.92,andersh01,2003-04,NYK,10.1,1.7,.042,-1.7,0.1,,NBA,6700000,30,80,24.7,.422,.764,2.8,1.5,0.9,0.2,7.9,NYK
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",+0.22,2.15,andersh01,2004-05,TOT,9.0,2.1,.085,-1.0,0.3,,NBA,7300000,31,66,17.7,.452,.818,2.9,1.1,0.6,0.2,3.9,"NYK,MIA"
+Shandon Anderson,/players/a/andersh01.html,1997,2006,University of Georgia,false,"Crim in Atlanta, Georgia",-2.50,-0.12,andersh01,2005-06,MIA,6.2,0.5,.039,-3.3,-0.2,,NBA,7900000,32,48,13.3,.429,.722,1.7,0.6,0.4,0.1,2.6,MIA

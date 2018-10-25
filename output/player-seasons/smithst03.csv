@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithst03,2006-07,23,Philadelphia 76ers,NBA,8,3.5,.250,.500,0.8,0.0,0.1,0.0,0.6,-1.8,-0.1,-0.154,-17.2,-0.1,,161061,"Northeast in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steven Smith,/players/s/smithst03.html,2007,2007,La Salle University,false,"Northeast in Philadelphia, Pennsylvania",+0.33,0.05,smithst03,2006-07,PHI,-1.8,-0.1,-0.154,-17.2,-0.1,,NBA,161061,23,8,3.5,.250,.500,0.8,0.0,0.1,0.0,0.6,PHI

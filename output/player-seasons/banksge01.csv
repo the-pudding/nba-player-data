@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-banksge01,1981-82,22,SAS,NBA,80,21.3,.477,.684,5.1,1.8,0.7,0.2,9.6,14.7,3.5,.099,0.3,1.0,,"West Philadelphia in Philadelphia, Pennsylvania",
-banksge01,1982-83,23,SAS,NBA,81,33.6,.550,.705,7.6,3.4,1.0,0.3,14.9,16.7,7.9,.140,3.2,3.6,,"West Philadelphia in Philadelphia, Pennsylvania",
-banksge01,1983-84,24,SAS,NBA,80,32.5,.568,.741,7.3,3.2,1.3,0.3,13.1,15.4,6.2,.115,3.6,3.6,,"West Philadelphia in Philadelphia, Pennsylvania",
-banksge01,1984-85,25,San Antonio Spurs,NBA,82,25.5,.586,.774,5.4,2.9,0.8,0.2,9.5,14.5,5.6,.130,1.8,2.0,,"West Philadelphia in Philadelphia, Pennsylvania",265000
-banksge01,1985-86,26,Chicago Bulls,NBA,82,26.1,.517,.718,4.4,3.1,1.0,0.1,10.9,15.5,4.3,.097,1.8,2.0,,"West Philadelphia in Philadelphia, Pennsylvania",225000
-banksge01,1986-87,27,CHI,NBA,63,28.9,.539,.767,4.9,2.7,0.8,0.3,9.7,12.6,3.6,.095,0.2,1.0,,"West Philadelphia in Philadelphia, Pennsylvania",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Gene Banks,/players/b/banksge01.html,1982,1987,Duke University,false,"West Philadelphia in Philadelphia, Pennsylvania",-0.55,2.16,banksge01,1981-82,SAS,14.7,3.5,.099,0.3,1.0,,22,NBA,80,21.3,.477,.684,5.1,1.8,0.7,0.2,9.6,SAS,
+Gene Banks,/players/b/banksge01.html,1982,1987,Duke University,false,"West Philadelphia in Philadelphia, Pennsylvania",+0.53,5.91,banksge01,1982-83,SAS,16.7,7.9,.140,3.2,3.6,,23,NBA,81,33.6,.550,.705,7.6,3.4,1.0,0.3,14.9,SAS,
+Gene Banks,/players/b/banksge01.html,1982,1987,Duke University,false,"West Philadelphia in Philadelphia, Pennsylvania",+0.18,4.31,banksge01,1983-84,SAS,15.4,6.2,.115,3.6,3.6,,24,NBA,80,32.5,.568,.741,7.3,3.2,1.3,0.3,13.1,SAS,
+Gene Banks,/players/b/banksge01.html,1982,1987,Duke University,false,"West Philadelphia in Philadelphia, Pennsylvania",-0.40,2.68,banksge01,1984-85,SAS,14.5,5.6,.130,1.8,2.0,,25,NBA,82,25.5,.586,.774,5.4,2.9,0.8,0.2,9.5,SAS,265000
+Gene Banks,/players/b/banksge01.html,1982,1987,Duke University,false,"West Philadelphia in Philadelphia, Pennsylvania",-0.89,2.12,banksge01,1985-86,CHI,15.5,4.3,.097,1.8,2.0,,26,NBA,82,26.1,.517,.718,4.4,3.1,1.0,0.1,10.9,CHI,225000
+Gene Banks,/players/b/banksge01.html,1982,1987,Duke University,false,"West Philadelphia in Philadelphia, Pennsylvania",-1.41,1.13,banksge01,1986-87,CHI,12.6,3.6,.095,0.2,1.0,,27,NBA,63,28.9,.539,.767,4.9,2.7,0.8,0.3,9.7,CHI,

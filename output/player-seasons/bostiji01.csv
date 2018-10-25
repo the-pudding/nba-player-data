@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bostiji01,1977-78,25,DET,NBA,4,12.0,.545,.400,4.0,0.8,0.0,0.0,6.5,18.9,0.1,.144,-1.6,0.0,,"Gorton in Yonkers, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Bostic,/players/b/bostiji01.html,1978,1978,New Mexico State University,false,"Gorton in Yonkers, New York",+0.87,0.10,bostiji01,1977-78,DET,18.9,0.1,.144,-1.6,0.0,,25,NBA,4,12.0,.545,.400,4.0,0.8,0.0,0.0,6.5,DET

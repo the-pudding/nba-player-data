@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-princta02,2016-17,22,Atlanta Hawks,NBA,59,16.6,.400,.787,2.7,0.9,0.7,0.5,5.7,9.8,1.1,.054,-2.3,-0.1,,2318280,"Earl Warren in San Antonio, Texas"
-princta02,2017-18,23,Atlanta Hawks,NBA,82,30.0,.426,.844,4.7,2.6,1.0,0.5,14.1,12.8,2.0,.038,-0.7,0.8,,2422560,"Earl Warren in San Antonio, Texas"
-princta02,2018-19,24,ATL,NBA,4,28.8,.492,.933,5.0,3.3,1.3,0.3,21.8,18.6,0.3,.121,-0.5,0.0,,,"Earl Warren in San Antonio, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Taurean Waller-Prince,/players/p/princta02.html,2017,2019,Baylor University,true,"Earl Warren in San Antonio, Texas",-0.88,1.08,princta02,2016-17,ATL,9.8,1.1,.054,-2.3,-0.1,,NBA,2318280,22,59,16.6,.400,.787,2.7,0.9,0.7,0.5,5.7,ATL
+Taurean Waller-Prince,/players/p/princta02.html,2017,2019,Baylor University,true,"Earl Warren in San Antonio, Texas",-2.23,0.13,princta02,2017-18,ATL,12.8,2.0,.038,-0.7,0.8,,NBA,2422560,23,82,30.0,.426,.844,4.7,2.6,1.0,0.5,14.1,ATL
+Taurean Waller-Prince,/players/p/princta02.html,2017,2019,Baylor University,true,"Earl Warren in San Antonio, Texas",,,princta02,2018-19,ATL,18.6,0.3,.121,-0.5,0.0,,NBA,,24,4,28.8,.492,.933,5.0,3.3,1.3,0.3,21.8,ATL

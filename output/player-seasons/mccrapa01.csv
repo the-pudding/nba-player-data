@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mccrapa01,1976-77,26,CHI,NBA,9,13.2,.383,.611,1.8,1.6,0.7,0.0,5.2,11.6,0.0,.019,-3.6,0.0,,"Hillhouse in New Haven, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul McCracken,/players/m/mccrapa01.html,1973,1977,"California State University, Northridge",false,"Hillhouse in New Haven, Connecticut",-0.95,0.10,mccrapa01,1976-77,CHI,11.6,0.0,.019,-3.6,0.0,,26,NBA,9,13.2,.383,.611,1.8,1.6,0.7,0.0,5.2,CHI

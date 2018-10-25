@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wardhe01,1976-77,25,SAS,NBA,27,6.3,.378,.882,1.2,0.2,0.2,0.2,3.1,10.3,-0.1,-0.023,-9.5,-0.3,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Henry Ward,/players/w/wardhe01.html,1976,1977,Jackson State University,false,,-2.23,-0.01,wardhe01,1976-77,SAS,10.3,-0.1,-0.023,-9.5,-0.3,,25,NBA,27,6.3,.378,.882,1.2,0.2,0.2,0.2,3.1,SAS

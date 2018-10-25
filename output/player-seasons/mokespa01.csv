@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mokespa01,1979-80,23,HOU,NBA,12,9.4,.333,.778,2.4,0.2,0.1,0.5,2.4,4.4,-0.1,-0.041,-7.7,-0.2,,"Crespi Carmelite in Encino, California",
-mokespa01,1980-81,24,DET,NBA,80,22.7,.489,.600,5.2,1.7,0.5,0.9,7.1,10.3,1.7,.046,-1.7,0.1,,"Crespi Carmelite in Encino, California",
-mokespa01,1981-82,25,"DET,CLE",NBA,67,13.0,.435,.762,3.1,0.5,0.5,0.6,3.2,8.7,0.8,.045,-2.8,-0.2,,"Crespi Carmelite in Encino, California",
-mokespa01,1982-83,26,"CLE,MIL",NBA,73,15.5,.458,.735,3.6,0.7,0.3,0.6,3.9,8.3,1.4,.060,-2.5,-0.1,,"Crespi Carmelite in Encino, California",
-mokespa01,1983-84,27,MIL,NBA,68,12.3,.479,.694,2.4,0.6,0.2,0.4,3.8,8.9,1.6,.090,-2.5,-0.1,,"Crespi Carmelite in Encino, California",
-mokespa01,1984-85,28,Milwaukee Bucks,NBA,79,20.1,.478,.698,5.2,1.3,0.4,0.4,6.2,10.1,3.4,.102,-1.4,0.3,,"Crespi Carmelite in Encino, California",345000
-mokespa01,1985-86,29,Milwaukee Bucks,NBA,45,11.6,.424,.735,3.1,0.7,0.1,0.1,3.2,7.9,0.9,.079,-3.4,-0.2,,"Crespi Carmelite in Encino, California",370000
-mokespa01,1986-87,30,MIL,NBA,62,10.1,.403,.719,2.2,0.4,0.3,0.2,2.4,7.4,1.1,.081,-3.0,-0.2,,"Crespi Carmelite in Encino, California",
-mokespa01,1987-88,31,Milwaukee Bucks,NBA,60,14.1,.476,.708,3.7,0.4,0.5,0.5,4.2,8.8,1.3,.073,-3.0,-0.2,,"Crespi Carmelite in Encino, California",350000
-mokespa01,1988-89,32,Milwaukee Bucks,NBA,74,9.3,.360,.784,2.5,0.5,0.4,0.3,2.2,8.2,1.0,.072,-1.7,0.1,,"Crespi Carmelite in Encino, California",375000
-mokespa01,1989-90,33,CLE,NBA,38,11.8,.420,.694,2.6,0.4,0.2,0.3,4.0,7.7,0.2,.018,-6.9,-0.6,,"Crespi Carmelite in Encino, California",
-mokespa01,1990-91,34,Golden State Warriors,NBA,36,7.1,.356,.800,1.9,0.3,0.2,0.1,1.6,6.6,0.3,.056,-4.4,-0.2,,"Crespi Carmelite in Encino, California",100000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-0.29,0.15,mokespa01,1979-80,HOU,4.4,-0.1,-0.041,-7.7,-0.2,,23,NBA,12,9.4,.333,.778,2.4,0.2,0.1,0.5,2.4,HOU,
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-2.12,0.04,mokespa01,1980-81,DET,10.3,1.7,.046,-1.7,0.1,,24,NBA,80,22.7,.489,.600,5.2,1.7,0.5,0.9,7.1,DET,
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-1.94,0.17,mokespa01,1981-82,TOT,8.7,0.8,.045,-2.8,-0.2,,25,NBA,67,13.0,.435,.762,3.1,0.5,0.5,0.6,3.2,"DET,CLE",
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-2.00,0.14,mokespa01,1982-83,TOT,8.3,1.4,.060,-2.5,-0.1,,26,NBA,73,15.5,.458,.735,3.6,0.7,0.3,0.6,3.9,"CLE,MIL",
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-0.82,1.13,mokespa01,1983-84,MIL,8.9,1.6,.090,-2.5,-0.1,,27,NBA,68,12.3,.479,.694,2.4,0.6,0.2,0.4,3.8,MIL,
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-1.05,1.43,mokespa01,1984-85,MIL,10.1,3.4,.102,-1.4,0.3,,28,NBA,79,20.1,.478,.698,5.2,1.3,0.4,0.4,6.2,MIL,345000
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-1.78,0.20,mokespa01,1985-86,MIL,7.9,0.9,.079,-3.4,-0.2,,29,NBA,45,11.6,.424,.735,3.1,0.7,0.1,0.1,3.2,MIL,370000
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-2.00,0.13,mokespa01,1986-87,MIL,7.4,1.1,.081,-3.0,-0.2,,30,NBA,62,10.1,.403,.719,2.2,0.4,0.3,0.2,2.4,MIL,
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-1.67,0.36,mokespa01,1987-88,MIL,8.8,1.3,.073,-3.0,-0.2,,31,NBA,60,14.1,.476,.708,3.7,0.4,0.5,0.5,4.2,MIL,350000
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-1.06,0.62,mokespa01,1988-89,MIL,8.2,1.0,.072,-1.7,0.1,,32,NBA,74,9.3,.360,.784,2.5,0.5,0.4,0.3,2.2,MIL,375000
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-2.92,-0.21,mokespa01,1989-90,CLE,7.7,0.2,.018,-6.9,-0.6,,33,NBA,38,11.8,.420,.694,2.6,0.4,0.2,0.3,4.0,CLE,
+Paul Mokeski,/players/m/mokespa01.html,1980,1991,University of Kansas,false,"Crespi Carmelite in Encino, California",-1.99,0.06,mokespa01,1990-91,GSW,6.6,0.3,.056,-4.4,-0.2,,34,NBA,36,7.1,.356,.800,1.9,0.3,0.2,0.1,1.6,GSW,100000

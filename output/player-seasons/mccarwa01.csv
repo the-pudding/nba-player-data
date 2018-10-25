@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mccarwa01,1996-97,22,New York Knicks,NBA,35,5.5,.382,.571,0.7,0.4,0.2,0.3,1.8,6.4,0.0,-0.007,-4.7,-0.1,,750000,"Harrison in Evansville, Indiana"
-mccarwa01,1997-98,23,Boston Celtics,NBA,82,28.5,.404,.742,4.4,2.2,1.3,0.5,9.6,11.6,2.9,.060,-0.6,0.8,,862560,"Harrison in Evansville, Indiana"
-mccarwa01,1998-99,24,Boston Celtics,NBA,32,20.6,.362,.702,3.6,1.3,0.8,0.4,5.7,8.9,0.5,.035,-2.7,-0.1,,975000,"Harrison in Evansville, Indiana"
-mccarwa01,1999-00,25,Boston Celtics,NBA,61,14.4,.339,.722,1.8,1.1,0.4,0.4,3.8,7.2,-0.2,-0.009,-3.9,-0.4,,2500000,"Harrison in Evansville, Indiana"
-mccarwa01,2000-01,26,Boston Celtics,NBA,60,8.0,.357,.786,1.4,0.7,0.2,0.1,2.2,9.2,0.7,.067,-3.2,-0.1,,2670000,"Harrison in Evansville, Indiana"
-mccarwa01,2001-02,27,Boston Celtics,NBA,56,12.8,.444,.684,2.3,0.7,0.3,0.1,3.8,11.5,1.8,.122,-1.1,0.2,,3125000,"Harrison in Evansville, Indiana"
-mccarwa01,2002-03,28,Boston Celtics,NBA,82,23.8,.414,.622,3.5,1.3,1.0,0.3,6.1,10.8,4.1,.101,-0.3,0.9,,762435,"Harrison in Evansville, Indiana"
-mccarwa01,2003-04,29,Boston Celtics,NBA,77,24.7,.388,.756,3.1,1.6,0.9,0.3,7.9,10.9,2.9,.073,-0.3,0.8,,1200000,"Harrison in Evansville, Indiana"
-mccarwa01,2004-05,30,Boston Celtics,NBA,72,12.6,.404,.517,1.9,0.5,0.3,0.2,3.6,8.2,1.1,.058,-1.8,0.0,,1337500,"Harrison in Evansville, Indiana"
-mccarwa01,2004-05,30,Boston Celtics,NBA,44,12.6,.413,.533,1.8,0.6,0.3,0.2,3.7,9.0,0.8,.068,-1.6,0.1,,1337500,"Harrison in Evansville, Indiana"
-mccarwa01,2004-05,30,Boston Celtics,NBA,28,12.6,.388,.500,2.2,0.4,0.4,0.2,3.5,6.9,0.3,.042,-2.1,0.0,,1337500,"Harrison in Evansville, Indiana"
-mccarwa01,2005-06,31,Los Angeles Clippers,NBA,36,9.8,.333,.571,1.9,0.6,0.2,0.1,2.4,5.9,0.0,-0.001,-4.3,-0.2,,1035000,"Harrison in Evansville, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-0.36,0.25,mccarwa01,1996-97,NYK,6.4,0.0,-0.007,-4.7,-0.1,,NBA,750000,22,35,5.5,.382,.571,0.7,0.4,0.2,0.3,1.8,NYK
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-1.18,1.68,mccarwa01,1997-98,BOS,11.6,2.9,.060,-0.6,0.8,,NBA,862560,23,82,28.5,.404,.742,4.4,2.2,1.3,0.5,9.6,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-2.13,0.00,mccarwa01,1998-99,BOS,8.9,0.5,.035,-2.7,-0.1,,NBA,975000,24,32,20.6,.362,.702,3.6,1.3,0.8,0.4,5.7,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-3.05,-0.50,mccarwa01,1999-00,BOS,7.2,-0.2,-0.009,-3.9,-0.4,,NBA,2500000,25,61,14.4,.339,.722,1.8,1.1,0.4,0.4,3.8,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-1.65,0.18,mccarwa01,2000-01,BOS,9.2,0.7,.067,-3.2,-0.1,,NBA,2670000,26,60,8.0,.357,.786,1.4,0.7,0.2,0.1,2.2,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-3.18,-0.61,mccarwa01,2001-02,BOS,11.5,1.8,.122,-1.1,0.2,,NBA,3125000,27,56,12.8,.444,.684,2.3,0.7,0.3,0.1,3.8,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-2.26,-0.17,mccarwa01,2002-03,BOS,10.8,4.1,.101,-0.3,0.9,,NBA,762435,28,82,23.8,.414,.622,3.5,1.3,1.0,0.3,6.1,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-1.46,1.02,mccarwa01,2003-04,BOS,10.9,2.9,.073,-0.3,0.8,,NBA,1200000,29,77,24.7,.388,.756,3.1,1.6,0.9,0.3,7.9,BOS
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-2.80,-0.31,mccarwa01,2004-05,TOT,8.2,1.1,.058,-1.8,0.0,,NBA,1337500,30,72,12.6,.404,.517,1.9,0.5,0.3,0.2,3.6,"BOS,PHO"
+Walter McCarty,/players/m/mccarwa01.html,1997,2006,University of Kentucky,false,"Harrison in Evansville, Indiana",-1.97,0.05,mccarwa01,2005-06,LAC,5.9,0.0,-0.001,-4.3,-0.2,,NBA,1035000,31,36,9.8,.333,.571,1.9,0.6,0.2,0.1,2.4,LAC

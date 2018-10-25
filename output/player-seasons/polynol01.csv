@@ -1,22 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-polynol01,1987-88,23,Seattle SuperSonics,NBA,82,13.2,.465,.639,4.0,0.4,0.4,0.3,4.1,9.8,1.6,.069,-3.3,-0.4,,350000,"All Hallows in Bronx, New York"
-polynol01,1988-89,24,Seattle SuperSonics,NBA,80,10.4,.506,.593,2.6,0.3,0.5,0.4,2.9,10.3,1.5,.086,-1.2,0.2,,350000,"All Hallows in Bronx, New York"
-polynol01,1989-90,25,SEA,NBA,79,13.7,.540,.475,3.8,0.2,0.3,0.3,4.6,12.4,2.5,.111,-2.2,-0.1,,,"All Hallows in Bronx, New York"
-polynol01,1990-91,26,Los Angeles Clippers,NBA,79,26.5,.560,.579,7.0,0.5,0.5,0.4,9.8,14.0,5.2,.118,-1.2,0.4,,600000,"All Hallows in Bronx, New York"
-polynol01,1990-91,26,Los Angeles Clippers,NBA,48,20.0,.545,.588,5.6,0.3,0.5,0.4,8.3,15.2,2.3,.113,-2.3,-0.1,,600000,"All Hallows in Bronx, New York"
-polynol01,1990-91,26,Los Angeles Clippers,NBA,31,36.5,.579,.572,9.1,0.8,0.5,0.4,12.3,12.9,2.9,.123,-0.3,0.5,,600000,"All Hallows in Bronx, New York"
-polynol01,1991-92,27,Los Angeles Clippers,NBA,76,24.1,.519,.622,7.1,0.6,0.6,0.3,8.1,13.1,4.5,.118,-1.7,0.1,,750000,"All Hallows in Bronx, New York"
-polynol01,1992-93,28,Detroit Pistons,NBA,67,19.4,.490,.465,6.2,0.4,0.5,0.3,7.3,14.6,2.6,.095,-2.8,-0.3,,850000,"All Hallows in Bronx, New York"
-polynol01,1993-94,29,Detroit Pistons,NBA,68,35.3,.523,.508,11.9,0.6,0.6,1.0,11.6,14.9,5.1,.102,-1.9,0.1,,850000,"All Hallows in Bronx, New York"
-polynol01,1993-94,29,Detroit Pistons,NBA,37,36.5,.547,.457,12.3,0.6,0.6,1.0,13.1,15.9,2.9,.102,-2.1,0.0,,850000,"All Hallows in Bronx, New York"
-polynol01,1993-94,29,Detroit Pistons,NBA,31,33.9,.484,.556,11.4,0.6,0.6,1.0,9.8,13.7,2.2,.102,-1.7,0.1,,850000,"All Hallows in Bronx, New York"
-polynol01,1994-95,30,Sacramento Kings,NBA,81,31.3,.544,.639,9.0,0.8,0.6,0.6,10.8,14.7,6.7,.126,0.0,1.3,,1900000,"All Hallows in Bronx, New York"
-polynol01,1995-96,31,Sacramento Kings,NBA,81,30.1,.527,.601,9.4,0.7,0.6,0.8,12.2,15.8,5.3,.105,-1.7,0.2,,2520000,"All Hallows in Bronx, New York"
-polynol01,1996-97,32,Sacramento Kings,NBA,82,35.3,.457,.562,9.4,2.2,0.6,1.0,12.5,13.1,3.3,.055,-1.5,0.4,,3140000,"All Hallows in Bronx, New York"
-polynol01,1997-98,33,Sacramento Kings,NBA,70,20.8,.459,.452,6.3,1.5,0.5,0.6,7.9,14.7,1.5,.049,-1.6,0.2,,3610000,"All Hallows in Bronx, New York"
-polynol01,1998-99,34,Seattle SuperSonics,NBA,48,30.9,.472,.309,8.9,0.9,0.4,0.6,7.7,11.8,2.0,.065,-2.3,-0.1,,1000000,"All Hallows in Bronx, New York"
-polynol01,1999-00,35,Utah Jazz,NBA,82,22.2,.510,.311,5.5,0.5,0.4,1.0,5.3,10.4,3.2,.084,-0.7,0.6,,2000000,"All Hallows in Bronx, New York"
-polynol01,2000-01,36,Utah Jazz,NBA,81,20.0,.496,.262,4.7,0.4,0.3,1.0,5.3,9.9,2.0,.058,-1.6,0.2,,2200000,"All Hallows in Bronx, New York"
-polynol01,2001-02,37,Did Not Play (other pro league—ABA),,,,,,,,,,,,,,,,,,"All Hallows in Bronx, New York"
-polynol01,2002-03,38,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"All Hallows in Bronx, New York"
-polynol01,2003-04,39,Los Angeles Clippers,NBA,2,6.0,,,1.0,0.5,0.5,0.0,0.0,-9.2,-0.1,-0.394,-11.2,0.0,,1070000,"All Hallows in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.95,0.26,polynol01,1987-88,SEA,9.8,1.6,.069,-3.3,-0.4,,NBA,350000,23,82,13.2,.465,.639,4.0,0.4,0.4,0.3,4.1,SEA
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.23,0.72,polynol01,1988-89,SEA,10.3,1.5,.086,-1.2,0.2,,NBA,350000,24,80,10.4,.506,.593,2.6,0.3,0.5,0.4,2.9,SEA
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.17,0.83,polynol01,1989-90,SEA,12.4,2.5,.111,-2.2,-0.1,,NBA,,25,79,13.7,.540,.475,3.8,0.2,0.3,0.3,4.6,SEA
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.52,1.06,polynol01,1990-91,TOT,14.0,5.2,.118,-1.2,0.4,,NBA,600000,26,79,26.5,.560,.579,7.0,0.5,0.5,0.4,9.8,"SEA,LAC"
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.04,1.56,polynol01,1991-92,LAC,13.1,4.5,.118,-1.7,0.1,,NBA,750000,27,76,24.1,.519,.622,7.1,0.6,0.6,0.3,8.1,LAC
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.18,0.96,polynol01,1992-93,DET,14.6,2.6,.095,-2.8,-0.3,,NBA,850000,28,67,19.4,.490,.465,6.2,0.4,0.5,0.3,7.3,DET
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.41,1.38,polynol01,1993-94,TOT,14.9,5.1,.102,-1.9,0.1,,NBA,850000,29,68,35.3,.523,.508,11.9,0.6,0.6,1.0,11.6,"DET,SAC"
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-0.34,3.31,polynol01,1994-95,SAC,14.7,6.7,.126,0.0,1.3,,NBA,1900000,30,81,31.3,.544,.639,9.0,0.8,0.6,0.6,10.8,SAC
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-0.31,3.44,polynol01,1995-96,SAC,15.8,5.3,.105,-1.7,0.2,,NBA,2520000,31,81,30.1,.527,.601,9.4,0.7,0.6,0.8,12.2,SAC
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.34,1.82,polynol01,1996-97,SAC,13.1,3.3,.055,-1.5,0.4,,NBA,3140000,32,82,35.3,.457,.562,9.4,2.2,0.6,1.0,12.5,SAC
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.88,0.33,polynol01,1997-98,SAC,14.7,1.5,.049,-1.6,0.2,,NBA,3610000,33,70,20.8,.459,.452,6.3,1.5,0.5,0.6,7.9,SAC
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.83,0.42,polynol01,1998-99,SEA,11.8,2.0,.065,-2.3,-0.1,,NBA,1000000,34,48,30.9,.472,.309,8.9,0.9,0.4,0.6,7.7,SEA
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-0.74,2.13,polynol01,1999-00,UTA,10.4,3.2,.084,-0.7,0.6,,NBA,2000000,35,82,22.2,.510,.311,5.5,0.5,0.4,1.0,5.3,UTA
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-1.37,0.98,polynol01,2000-01,UTA,9.9,2.0,.058,-1.6,0.2,,NBA,2200000,36,81,20.0,.496,.262,4.7,0.4,0.3,1.0,5.3,UTA
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",,,polynol01,2001-02,Did Not Play (other pro league—ABA),,,,,,,,,37,,,,,,,,,,Did Not Play (other pro league—ABA)
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",,,polynol01,2002-03,Did Not Play (other pro league—CBA),,,,,,,,,38,,,,,,,,,,Did Not Play (other pro league—CBA)
+Olden Polynice,/players/p/polynol01.html,1988,2004,University of Virginia,false,"All Hallows in Bronx, New York",-0.00,0.02,polynol01,2003-04,LAC,-9.2,-0.1,-0.394,-11.2,0.0,,NBA,1070000,39,2,6.0,,,1.0,0.5,0.5,0.0,0.0,LAC

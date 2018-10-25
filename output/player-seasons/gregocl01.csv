@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-gregocl01,1985-86,27,WSB,NBA,2,1.0,.500,,1.0,0.0,0.5,0.0,1.0,23.0,0.0,-0.640,-10.2,0.0,,"Coolidge in Washington, District of Columbia",
-gregocl01,1986-87,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Coolidge in Washington, District of Columbia",
-gregocl01,1987-88,29,Los Angeles Clippers,NBA,23,13.6,.455,.333,4.1,0.7,0.4,0.6,5.8,12.8,0.1,.011,-4.1,-0.2,,"Coolidge in Washington, District of Columbia",75000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Claude Gregory,/players/g/gregocl01.html,1986,1988,University of Wisconsin,false,"Coolidge in Washington, District of Columbia",+0.30,0.00,gregocl01,1985-86,WSB,23.0,0.0,-0.640,-10.2,0.0,,27,NBA,2,1.0,.500,,1.0,0.0,0.5,0.0,1.0,WSB,
+Claude Gregory,/players/g/gregocl01.html,1986,1988,University of Wisconsin,false,"Coolidge in Washington, District of Columbia",,,gregocl01,1986-87,Did Not Play (other pro league—CBA),,,,,,,28,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Claude Gregory,/players/g/gregocl01.html,1986,1988,University of Wisconsin,false,"Coolidge in Washington, District of Columbia",-1.70,0.10,gregocl01,1987-88,LAC,12.8,0.1,.011,-4.1,-0.2,,29,NBA,23,13.6,.455,.333,4.1,0.7,0.4,0.6,5.8,LAC,75000

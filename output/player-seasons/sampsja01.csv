@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sampsja01,2002-03,19,Milwaukee Bucks,NBA,5,1.6,.000,,0.4,0.2,0.2,0.0,0.0,8.4,0.0,-0.066,-1.4,0.0,,349458,"Mater Dei in Santa Ana, California"
-sampsja01,2003-04,20,Los Angeles Lakers,NBA,10,13.0,.478,.583,5.2,0.7,0.2,0.4,2.9,15.0,0.4,.156,0.3,0.1,,563679,"Mater Dei in Santa Ana, California"
-sampsja01,2004-05,21,Charlotte Bobcats,NBA,23,14.3,.452,.590,5.3,0.3,0.2,0.7,3.4,11.6,0.5,.077,-4.2,-0.2,,695046,"Mater Dei in Santa Ana, California"
-sampsja01,2005-06,22,Sacramento Kings,NBA,12,3.3,.714,.000,1.5,0.4,0.0,0.3,0.8,24.4,0.2,.293,6.5,0.1,,719373,"Mater Dei in Santa Ana, California"
-sampsja01,2006-07,23,Denver Nuggets,NBA,22,5.7,.643,.429,2.2,0.2,0.1,0.3,1.1,11.3,0.2,.083,-1.9,0.0,,771331,"Mater Dei in Santa Ana, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jamal Sampson,/players/s/sampsja01.html,2003,2007,University of California,false,"Mater Dei in Santa Ana, California",+0.10,0.01,sampsja01,2002-03,MIL,8.4,0.0,-0.066,-1.4,0.0,,NBA,349458,19,5,1.6,.000,,0.4,0.2,0.2,0.0,0.0,MIL
+Jamal Sampson,/players/s/sampsja01.html,2003,2007,University of California,false,"Mater Dei in Santa Ana, California",-0.73,0.13,sampsja01,2003-04,LAL,15.0,0.4,.156,0.3,0.1,,NBA,563679,20,10,13.0,.478,.583,5.2,0.7,0.2,0.4,2.9,LAL
+Jamal Sampson,/players/s/sampsja01.html,2003,2007,University of California,false,"Mater Dei in Santa Ana, California",-0.39,0.41,sampsja01,2004-05,CHA,11.6,0.5,.077,-4.2,-0.2,,NBA,695046,21,23,14.3,.452,.590,5.3,0.3,0.2,0.7,3.4,CHA
+Jamal Sampson,/players/s/sampsja01.html,2003,2007,University of California,false,"Mater Dei in Santa Ana, California",-0.38,0.05,sampsja01,2005-06,SAC,24.4,0.2,.293,6.5,0.1,,NBA,719373,22,12,3.3,.714,.000,1.5,0.4,0.0,0.3,0.8,SAC
+Jamal Sampson,/players/s/sampsja01.html,2003,2007,University of California,false,"Mater Dei in Santa Ana, California",-0.08,0.19,sampsja01,2006-07,DEN,11.3,0.2,.083,-1.9,0.0,,NBA,771331,23,22,5.7,.643,.429,2.2,0.2,0.1,0.3,1.1,DEN

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-montelu01,2015-16,22,Portland Trail Blazers,NBA,12,3.5,.263,.750,0.3,0.1,0.0,0.0,1.2,-2.7,-0.2,-0.238,-16.9,-0.2,,525093,"Wilbraham & Monson in Wilbraham, Massachusetts"
-montelu01,2016-17,23,Did Not Play,,,,,,,,,,,,,,,,,,"Wilbraham & Monson in Wilbraham, Massachusetts"
-montelu01,2017-18,24,Detroit Pistons,NBA,2,4.0,.000,,1.0,0.0,0.0,0.0,0.0,-15.5,-0.1,-0.445,-25.9,0.0,,,"Wilbraham & Monson in Wilbraham, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Luis Montero,/players/m/montelu01.html,2016,2018,Westchester CC,true,"Wilbraham & Monson in Wilbraham, Massachusetts",-0.86,0.05,montelu01,2015-16,POR,-2.7,-0.2,-0.238,-16.9,-0.2,,NBA,525093,22,12,3.5,.263,.750,0.3,0.1,0.0,0.0,1.2,POR
+Luis Montero,/players/m/montelu01.html,2016,2018,Westchester CC,true,"Wilbraham & Monson in Wilbraham, Massachusetts",,,montelu01,2016-17,Did Not Play,,,,,,,,,23,,,,,,,,,,Did Not Play
+Luis Montero,/players/m/montelu01.html,2016,2018,Westchester CC,true,"Wilbraham & Monson in Wilbraham, Massachusetts",-0.05,0.01,montelu01,2017-18,DET,-15.5,-0.1,-0.445,-25.9,0.0,,NBA,,24,2,4.0,.000,,1.0,0.0,0.0,0.0,0.0,DET

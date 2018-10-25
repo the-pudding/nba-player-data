@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-schefto01,1984-85,30,POR,NBA,39,6.9,.412,.500,1.9,0.3,0.2,0.3,1.3,6.9,0.2,.037,-4.6,-0.2,,"Saint Joseph in Saint Joseph, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tom Scheffler,/players/s/schefto01.html,1985,1985,Purdue University,false,"Saint Joseph in Saint Joseph, Michigan",-1.20,0.20,schefto01,1984-85,POR,6.9,0.2,.037,-4.6,-0.2,,30,NBA,39,6.9,.412,.500,1.9,0.3,0.2,0.3,1.3,POR

@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-oldhaja01,1980-81,23,DEN,NBA,4,5.3,.333,,1.3,0.0,0.0,0.5,1.0,3.3,0.0,-0.094,-10.7,0.0,,"Cleveland in Seattle, Washington",
-oldhaja01,1981-82,24,HOU,NBA,22,5.6,.361,.571,1.1,0.1,0.1,0.5,1.5,6.5,0.0,.008,-6.1,-0.1,,"Cleveland in Seattle, Washington",
-oldhaja01,1982-83,25,CHI,NBA,16,10.7,.534,.545,2.9,0.3,0.3,0.8,4.6,14.5,0.3,.085,-2.7,0.0,,"Cleveland in Seattle, Washington",
-oldhaja01,1983-84,26,CHI,NBA,64,13.6,.505,.591,3.6,0.5,0.2,1.2,4.0,10.0,0.5,.026,-2.9,-0.2,,"Cleveland in Seattle, Washington",
-oldhaja01,1984-85,27,CHI,NBA,63,15.8,.464,.680,3.7,0.5,0.2,2.0,3.4,9.7,1.0,.050,-0.5,0.4,,"Cleveland in Seattle, Washington",
-oldhaja01,1985-86,28,Chicago Bulls,NBA,52,24.5,.517,.582,5.9,0.7,0.5,2.6,7.4,11.9,1.3,.049,-0.1,0.6,,"Cleveland in Seattle, Washington",175000
-oldhaja01,1986-87,29,NYK,NBA,44,17.6,.408,.544,4.1,0.4,0.5,1.6,3.9,8.5,0.0,-0.001,-3.2,-0.2,,"Cleveland in Seattle, Washington",
-oldhaja01,1987-88,30,Sacramento Kings,NBA,54,17.5,.476,.678,5.6,0.6,0.2,2.0,5.5,12.9,1.2,.062,-2.3,-0.1,,"Cleveland in Seattle, Washington",280000
-oldhaja01,1988-89,31,Sacramento Kings,NBA,,,,,,,,,,,,,,,,"Cleveland in Seattle, Washington",315000
-oldhaja01,1989-90,32,"ORL,LAL",NBA,6,7.5,.500,.429,2.7,0.2,0.3,0.5,1.5,8.0,0.0,.006,-8.6,-0.1,,"Cleveland in Seattle, Washington",
-oldhaja01,1990-91,33,IND,NBA,4,4.8,.500,,0.8,0.0,0.0,0.0,1.5,8.1,0.0,.028,-12.2,0.0,,"Cleveland in Seattle, Washington",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",+0.15,0.03,oldhaja01,1980-81,DEN,3.3,0.0,-0.094,-10.7,0.0,,23,NBA,4,5.3,.333,,1.3,0.0,0.0,0.5,1.0,DEN,
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-0.23,0.17,oldhaja01,1981-82,HOU,6.5,0.0,.008,-6.1,-0.1,,24,NBA,22,5.6,.361,.571,1.1,0.1,0.1,0.5,1.5,HOU,
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",+0.05,0.27,oldhaja01,1982-83,CHI,14.5,0.3,.085,-2.7,0.0,,25,NBA,16,10.7,.534,.545,2.9,0.3,0.3,0.8,4.6,CHI,
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-1.73,0.28,oldhaja01,1983-84,CHI,10.0,0.5,.026,-2.9,-0.2,,26,NBA,64,13.6,.505,.591,3.6,0.5,0.2,1.2,4.0,CHI,
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-0.70,1.15,oldhaja01,1984-85,CHI,9.7,1.0,.050,-0.5,0.4,,27,NBA,63,15.8,.464,.680,3.7,0.5,0.2,2.0,3.4,CHI,
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",+0.04,2.00,oldhaja01,1985-86,CHI,11.9,1.3,.049,-0.1,0.6,,28,NBA,52,24.5,.517,.582,5.9,0.7,0.5,2.6,7.4,CHI,175000
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-1.64,0.32,oldhaja01,1986-87,NYK,8.5,0.0,-0.001,-3.2,-0.2,,29,NBA,44,17.6,.408,.544,4.1,0.4,0.5,1.6,3.9,NYK,
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-0.29,1.27,oldhaja01,1987-88,SAC,12.9,1.2,.062,-2.3,-0.1,,30,NBA,54,17.5,.476,.678,5.6,0.6,0.2,2.0,5.5,SAC,280000
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",,,oldhaja01,1988-89,Did Not Play (injury),,,,,,,31,NBA,,,,,,,,,,Did Not Play (injury),315000
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-0.11,0.07,oldhaja01,1989-90,TOT,8.0,0.0,.006,-8.6,-0.1,,32,NBA,6,7.5,.500,.429,2.7,0.2,0.3,0.5,1.5,"ORL,LAL",
+Jawann Oldham,/players/o/oldhaja01.html,1981,1991,Seattle University,false,"Cleveland in Seattle, Washington",-0.23,0.03,oldhaja01,1990-91,IND,8.1,0.0,.028,-12.2,0.0,,33,NBA,4,4.8,.500,,0.8,0.0,0.0,0.0,1.5,IND,

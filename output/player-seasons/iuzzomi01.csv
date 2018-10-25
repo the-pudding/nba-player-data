@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-iuzzomi01,1991-92,24,Dallas Mavericks,NBA,52,24.6,.451,.836,1.9,3.7,0.6,0.0,9.3,13.3,2.2,.081,-1.7,0.1,,185000,"Altoona Area in Altoona, Pennsylvania"
-iuzzomi01,1992-93,25,Dallas Mavericks,NBA,70,25.3,.462,.765,2.0,4.7,0.7,0.1,8.7,12.7,1.5,.041,-3.6,-0.7,,241000,"Altoona Area in Altoona, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Iuzzolino,/players/i/iuzzomi01.html,1992,1993,"Pennsylvania State University, Saint Francis University",false,"Altoona Area in Altoona, Pennsylvania",-1.60,0.60,iuzzomi01,1991-92,DAL,13.3,2.2,.081,-1.7,0.1,,NBA,185000,24,52,24.6,.451,.836,1.9,3.7,0.6,0.0,9.3,DAL
+Mike Iuzzolino,/players/i/iuzzomi01.html,1992,1993,"Pennsylvania State University, Saint Francis University",false,"Altoona Area in Altoona, Pennsylvania",-2.97,-0.76,iuzzomi01,1992-93,DAL,12.7,1.5,.041,-3.6,-0.7,,NBA,241000,25,70,25.3,.462,.765,2.0,4.7,0.7,0.1,8.7,DAL

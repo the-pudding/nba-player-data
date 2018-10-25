@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-walkeke02,2011-12,21,Charlotte Bobcats,NBA,66,27.2,.366,.789,3.5,4.4,0.9,0.3,12.1,14.9,0.3,.009,-1.2,0.3,,2356320,"Rice in New York, New York"
-walkeke02,2012-13,22,Charlotte Bobcats,NBA,82,34.9,.423,.798,3.5,5.7,2.0,0.4,17.7,18.8,4.8,.080,1.5,2.5,,2532960,"Rice in New York, New York"
-walkeke02,2013-14,23,Charlotte Bobcats,NBA,73,35.8,.393,.837,4.2,6.1,1.2,0.4,17.7,16.8,5.1,.093,1.7,2.4,,2568360,"Rice in New York, New York"
-walkeke02,2014-15,24,Charlotte Hornets,NBA,62,34.2,.385,.827,3.5,5.1,1.4,0.5,17.3,17.6,4.5,.101,2.2,2.3,,3272091,"Rice in New York, New York"
-walkeke02,2015-16,25,Charlotte Hornets,NBA,81,35.6,.427,.847,4.4,5.2,1.6,0.5,20.9,20.8,9.9,.165,4.0,4.4,,12000000,"Rice in New York, New York"
-walkeke02,2016-17,26,Charlotte Hornets,NBA,79,34.7,.444,.847,3.9,5.5,1.1,0.3,23.2,21.3,8.1,.142,3.6,3.9,,12000000,"Rice in New York, New York"
-walkeke02,2017-18,27,Charlotte Hornets,NBA,80,34.2,.431,.864,3.1,5.6,1.1,0.3,22.1,20.6,8.5,.150,3.2,3.6,,12000000,"Rice in New York, New York"
-walkeke02,2018-19,28,CHO,NBA,5,35.0,.473,.833,3.4,5.4,1.0,0.2,31.0,27.2,0.8,.217,6.2,0.4,,,"Rice in New York, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",-2.68,-0.63,walkeke02,2011-12,CHA,14.9,0.3,.009,-1.2,0.3,,NBA,2356320,21,66,27.2,.366,.789,3.5,4.4,0.9,0.3,12.1,CHA
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",-0.15,4.11,walkeke02,2012-13,CHA,18.8,4.8,.080,1.5,2.5,,NBA,2532960,22,82,34.9,.423,.798,3.5,5.7,2.0,0.4,17.7,CHA
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",+2.80,9.66,walkeke02,2013-14,CHA,16.8,5.1,.093,1.7,2.4,,NBA,2568360,23,73,35.8,.393,.837,4.2,6.1,1.2,0.4,17.7,CHA
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",+0.54,4.08,walkeke02,2014-15,CHO,17.6,4.5,.101,2.2,2.3,,NBA,3272091,24,62,34.2,.385,.827,3.5,5.1,1.4,0.5,17.3,CHO
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",+2.58,10.40,walkeke02,2015-16,CHO,20.8,9.9,.165,4.0,4.4,,NBA,12000000,25,81,35.6,.427,.847,4.4,5.2,1.6,0.5,20.9,CHO
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",+3.77,10.98,walkeke02,2016-17,CHO,21.3,8.1,.142,3.6,3.9,,NBA,12000000,26,79,34.7,.444,.847,3.9,5.5,1.1,0.3,23.2,CHO
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",+4.08,11.52,walkeke02,2017-18,CHO,20.6,8.5,.150,3.2,3.6,,NBA,12000000,27,80,34.2,.431,.864,3.1,5.6,1.1,0.3,22.1,CHO
+Kemba Walker,/players/w/walkeke02.html,2012,2019,University of Connecticut,true,"Rice in New York, New York",,,walkeke02,2018-19,CHO,27.2,0.8,.217,6.2,0.4,,NBA,,28,5,35.0,.473,.833,3.4,5.4,1.0,0.2,31.0,CHO

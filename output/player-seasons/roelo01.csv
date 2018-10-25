@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-roelo01,1995-96,23,Detroit Pistons,NBA,49,7.6,.356,.750,1.6,0.3,0.2,0.2,1.8,9.0,0.4,.053,-3.8,-0.2,,200000,"Atlantic City in Atlantic City, New Jersey"
-roelo01,1996-97,24,Golden State Warriors,NBA,17,6.3,.292,.474,0.8,0.4,0.2,0.1,2.4,3.0,-0.4,-0.187,-12.4,-0.3,,247500,"Atlantic City in Atlantic City, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lou Roe,/players/r/roelo01.html,1996,1997,University of Massachusetts Amherst,false,"Atlantic City in Atlantic City, New Jersey",-1.77,0.12,roelo01,1995-96,DET,9.0,0.4,.053,-3.8,-0.2,,NBA,200000,23,49,7.6,.356,.750,1.6,0.3,0.2,0.2,1.8,DET
+Lou Roe,/players/r/roelo01.html,1996,1997,University of Massachusetts Amherst,false,"Atlantic City in Atlantic City, New Jersey",-0.91,0.10,roelo01,1996-97,GSW,3.0,-0.4,-0.187,-12.4,-0.3,,NBA,247500,24,17,6.3,.292,.474,0.8,0.4,0.2,0.1,2.4,GSW

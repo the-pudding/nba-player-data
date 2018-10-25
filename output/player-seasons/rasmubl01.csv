@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rasmubl01,1985-86,23,Denver Nuggets,NBA,48,6.9,.407,.795,2.0,0.3,0.1,0.2,3.2,8.7,-0.1,-0.021,-8.5,-0.5,,202500,"Auburn in Auburn, Washington"
-rasmubl01,1986-87,24,DEN,NBA,74,19.2,.470,.732,6.3,0.8,0.3,0.8,9.5,15.5,3.3,.111,-3.0,-0.4,,,"Auburn in Auburn, Washington"
-rasmubl01,1987-88,25,Denver Nuggets,NBA,79,22.5,.492,.776,5.5,1.0,0.3,1.0,12.7,16.0,4.2,.114,-2.5,-0.2,,300000,"Auburn in Auburn, Washington"
-rasmubl01,1988-89,26,Denver Nuggets,NBA,77,17.0,.445,.852,3.7,0.6,0.4,0.5,7.6,11.6,1.8,.065,-4.7,-0.9,,405000,"Auburn in Auburn, Washington"
-rasmubl01,1989-90,27,DEN,NBA,81,24.6,.497,.828,7.3,1.0,0.5,1.3,12.4,16.0,5.2,.125,-1.1,0.4,,,"Auburn in Auburn, Washington"
-rasmubl01,1990-91,28,Denver Nuggets,NBA,70,33.2,.458,.677,9.7,1.0,0.7,1.9,12.5,11.7,1.7,.036,-3.5,-0.9,,2185000,"Auburn in Auburn, Washington"
-rasmubl01,1991-92,29,Atlanta Hawks,NBA,81,24.3,.478,.750,4.9,1.3,0.4,0.6,9.0,11.6,3.0,.072,-2.5,-0.2,,1558000,"Auburn in Auburn, Washington"
-rasmubl01,1992-93,30,Atlanta Hawks,NBA,22,12.9,.375,.692,2.5,0.2,0.2,0.5,3.2,4.8,0.0,-0.002,-6.8,-0.3,,1988000,"Auburn in Auburn, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-2.32,-0.03,rasmubl01,1985-86,DEN,8.7,-0.1,-0.021,-8.5,-0.5,,NBA,202500,23,48,6.9,.407,.795,2.0,0.3,0.1,0.2,3.2,DEN
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-0.90,1.43,rasmubl01,1986-87,DEN,15.5,3.3,.111,-3.0,-0.4,,NBA,,24,74,19.2,.470,.732,6.3,0.8,0.3,0.8,9.5,DEN
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-0.20,2.90,rasmubl01,1987-88,DEN,16.0,4.2,.114,-2.5,-0.2,,NBA,300000,25,79,22.5,.492,.776,5.5,1.0,0.3,1.0,12.7,DEN
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-2.22,0.05,rasmubl01,1988-89,DEN,11.6,1.8,.065,-4.7,-0.9,,NBA,405000,26,77,17.0,.445,.852,3.7,0.6,0.4,0.5,7.6,DEN
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",+0.89,4.46,rasmubl01,1989-90,DEN,16.0,5.2,.125,-1.1,0.4,,NBA,,27,81,24.6,.497,.828,7.3,1.0,0.5,1.3,12.4,DEN
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-1.97,0.56,rasmubl01,1990-91,DEN,11.7,1.7,.036,-3.5,-0.9,,NBA,2185000,28,70,33.2,.458,.677,9.7,1.0,0.7,1.9,12.5,DEN
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-1.42,1.16,rasmubl01,1991-92,ATL,11.6,3.0,.072,-2.5,-0.2,,NBA,1558000,29,81,24.3,.478,.750,4.9,1.3,0.4,0.6,9.0,ATL
+Blair Rasmussen,/players/r/rasmubl01.html,1986,1993,University of Oregon,false,"Auburn in Auburn, Washington",-2.72,-0.08,rasmubl01,1992-93,ATL,4.8,0.0,-0.002,-6.8,-0.3,,NBA,1988000,30,22,12.9,.375,.692,2.5,0.2,0.2,0.5,3.2,ATL

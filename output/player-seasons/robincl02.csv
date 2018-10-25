@@ -1,21 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-robincl02,1989-90,23,POR,NBA,82,19.1,.397,.550,3.8,0.9,0.6,0.6,9.1,9.3,0.3,.010,-4.7,-1.1,,"Riverside in Buffalo, New York",
-robincl02,1990-91,24,Portland Trail Blazers,NBA,82,23.7,.463,.653,4.3,1.8,1.0,0.9,11.7,14.1,4.2,.104,0.1,1.0,,"Riverside in Buffalo, New York",250000
-robincl02,1991-92,25,Portland Trail Blazers,NBA,82,25.9,.466,.664,5.1,1.7,1.0,1.3,12.4,14.2,4.6,.104,0.0,1.1,,"Riverside in Buffalo, New York",474000
-robincl02,1992-93,26,Portland Trail Blazers,NBA,82,31.4,.473,.690,6.6,2.2,1.2,2.0,19.1,18.8,6.8,.127,1.8,2.4,,"Riverside in Buffalo, New York",1665000
-robincl02,1993-94,27,Portland Trail Blazers,NBA,82,34.8,.457,.765,6.7,1.9,1.4,1.4,20.1,17.4,7.5,.126,0.6,1.9,,"Riverside in Buffalo, New York",2336000
-robincl02,1994-95,28,Portland Trail Blazers,NBA,75,36.3,.452,.694,5.6,2.6,1.1,1.1,21.3,18.3,8.7,.153,3.1,3.5,,"Riverside in Buffalo, New York",2732000
-robincl02,1995-96,29,Portland Trail Blazers,NBA,78,38.2,.423,.664,5.7,2.4,1.1,0.9,21.1,16.3,8.0,.130,2.1,3.1,,"Riverside in Buffalo, New York",3018000
-robincl02,1996-97,30,Portland Trail Blazers,NBA,81,38.0,.426,.696,4.0,3.2,1.2,0.8,15.1,13.1,6.6,.103,1.4,2.7,,"Riverside in Buffalo, New York",2924000
-robincl02,1997-98,31,Phoenix Suns,NBA,80,29.5,.479,.689,5.1,2.1,1.2,1.1,14.2,17.4,7.1,.144,2.2,2.5,,"Riverside in Buffalo, New York",1000000
-robincl02,1998-99,32,Phoenix Suns,NBA,50,34.8,.475,.697,4.5,2.6,1.5,1.2,16.4,18.3,5.3,.146,2.9,2.2,,"Riverside in Buffalo, New York",3500000
-robincl02,1999-00,33,Phoenix Suns,NBA,80,35.5,.464,.782,4.5,2.8,1.1,0.8,18.5,17.3,9.6,.162,2.6,3.3,,"Riverside in Buffalo, New York",6125000
-robincl02,2000-01,34,Phoenix Suns,NBA,82,33.5,.422,.709,4.1,2.9,1.1,1.0,16.4,14.8,5.4,.095,0.8,1.9,,"Riverside in Buffalo, New York",6890000
-robincl02,2001-02,35,Detroit Pistons,NBA,80,35.7,.425,.694,4.8,2.5,1.1,1.2,14.6,13.5,4.3,.073,0.2,1.6,,"Riverside in Buffalo, New York",7656250
-robincl02,2002-03,36,Detroit Pistons,NBA,81,34.9,.398,.676,3.9,3.3,1.1,1.1,12.2,12.4,4.4,.075,0.8,2.0,,"Riverside in Buffalo, New York",8421875
-robincl02,2003-04,37,Golden State Warriors,NBA,82,34.7,.387,.711,3.9,3.3,0.8,0.9,11.8,10.8,2.0,.033,-0.8,0.9,,"Riverside in Buffalo, New York",4700000
-robincl02,2004-05,38,Golden State Warriors,NBA,71,23.8,.386,.639,2.9,1.5,0.9,0.7,7.5,10.3,1.7,.049,-1.6,0.2,,"Riverside in Buffalo, New York",5287500
-robincl02,2004-05,38,Golden State Warriors,NBA,42,26.0,.398,.603,2.7,1.8,1.0,0.9,8.5,11.0,1.1,.046,-1.1,0.3,,"Riverside in Buffalo, New York",5287500
-robincl02,2004-05,38,Golden State Warriors,NBA,29,20.7,.361,.692,3.3,1.0,0.6,0.5,6.0,9.0,0.7,.052,-2.7,-0.1,,"Riverside in Buffalo, New York",5287500
-robincl02,2005-06,39,New Jersey Nets,NBA,80,23.3,.427,.658,3.3,1.1,0.6,0.5,6.9,9.6,2.8,.073,-1.7,0.1,,"Riverside in Buffalo, New York",2500000
-robincl02,2006-07,40,New Jersey Nets,NBA,50,19.1,.372,.444,2.4,1.0,0.2,0.5,4.1,5.9,0.3,.013,-4.2,-0.5,,"Riverside in Buffalo, New York",1600000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",-1.95,0.40,robincl02,1989-90,POR,9.3,0.3,.010,-4.7,-1.1,,23,NBA,82,19.1,.397,.550,3.8,0.9,0.6,0.6,9.1,POR,
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+0.52,4.35,robincl02,1990-91,POR,14.1,4.2,.104,0.1,1.0,,24,NBA,82,23.7,.463,.653,4.3,1.8,1.0,0.9,11.7,POR,250000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+0.75,5.44,robincl02,1991-92,POR,14.2,4.6,.104,0.0,1.1,,25,NBA,82,25.9,.466,.664,5.1,1.7,1.0,1.3,12.4,POR,474000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+1.90,7.68,robincl02,1992-93,POR,18.8,6.8,.127,1.8,2.4,,26,NBA,82,31.4,.473,.690,6.6,2.2,1.2,2.0,19.1,POR,1665000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+1.48,7.64,robincl02,1993-94,POR,17.4,7.5,.126,0.6,1.9,,27,NBA,82,34.8,.457,.765,6.7,1.9,1.4,1.4,20.1,POR,2336000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+2.40,8.93,robincl02,1994-95,POR,18.3,8.7,.153,3.1,3.5,,28,NBA,75,36.3,.452,.694,5.6,2.6,1.1,1.1,21.3,POR,2732000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+2.02,9.26,robincl02,1995-96,POR,16.3,8.0,.130,2.1,3.1,,29,NBA,78,38.2,.423,.664,5.7,2.4,1.1,0.9,21.1,POR,3018000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+1.09,7.40,robincl02,1996-97,POR,13.1,6.6,.103,1.4,2.7,,30,NBA,81,38.0,.426,.696,4.0,3.2,1.2,0.8,15.1,POR,2924000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+1.86,6.94,robincl02,1997-98,PHO,17.4,7.1,.144,2.2,2.5,,31,NBA,80,29.5,.479,.689,5.1,2.1,1.2,1.1,14.2,PHO,1000000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+1.83,5.20,robincl02,1998-99,PHO,18.3,5.3,.146,2.9,2.2,,32,NBA,50,34.8,.475,.697,4.5,2.6,1.5,1.2,16.4,PHO,3500000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+2.47,10.39,robincl02,1999-00,PHO,17.3,9.6,.162,2.6,3.3,,33,NBA,80,35.5,.464,.782,4.5,2.8,1.1,0.8,18.5,PHO,6125000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+0.61,5.71,robincl02,2000-01,PHO,14.8,5.4,.095,0.8,1.9,,34,NBA,82,33.5,.422,.709,4.1,2.9,1.1,1.0,16.4,PHO,6890000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",+0.17,5.42,robincl02,2001-02,DET,13.5,4.3,.073,0.2,1.6,,35,NBA,80,35.7,.425,.694,4.8,2.5,1.1,1.2,14.6,DET,7656250
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",-0.85,3.14,robincl02,2002-03,DET,12.4,4.4,.075,0.8,2.0,,36,NBA,81,34.9,.398,.676,3.9,3.3,1.1,1.1,12.2,DET,8421875
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",-1.40,1.56,robincl02,2003-04,GSW,10.8,2.0,.033,-0.8,0.9,,37,NBA,82,34.7,.387,.711,3.9,3.3,0.8,0.9,11.8,GSW,4700000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",-3.04,-0.90,robincl02,2004-05,TOT,10.3,1.7,.049,-1.6,0.2,,38,NBA,71,23.8,.386,.639,2.9,1.5,0.9,0.7,7.5,"GSW,NJN",5287500
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",-3.17,-1.33,robincl02,2005-06,NJN,9.6,2.8,.073,-1.7,0.1,,39,NBA,80,23.3,.427,.658,3.3,1.1,0.6,0.5,6.9,NJN,2500000
+Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false,"Riverside in Buffalo, New York",-5.51,-2.05,robincl02,2006-07,NJN,5.9,0.3,.013,-4.2,-0.5,,40,NBA,50,19.1,.372,.444,2.4,1.0,0.2,0.5,4.1,NJN,1600000

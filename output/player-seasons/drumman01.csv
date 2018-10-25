@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-drumman01,2012-13,19,Detroit Pistons,NBA,60,20.7,.608,.371,7.6,0.5,1.0,1.6,7.9,21.6,4.5,.172,2.4,1.4,,2356320,"St. Thomas More School in Oakdale, Connecticut"
-drumman01,2013-14,20,Detroit Pistons,NBA,81,32.3,.623,.418,13.2,0.4,1.2,1.6,13.5,22.6,9.9,.182,1.6,2.4,,2462400,"St. Thomas More School in Oakdale, Connecticut"
-drumman01,2014-15,21,Detroit Pistons,NBA,82,30.5,.514,.389,13.5,0.7,0.9,1.9,13.8,21.4,7.7,.147,-0.2,1.2,,2568360,"St. Thomas More School in Oakdale, Connecticut"
-drumman01,2015-16,22,Detroit Pistons,NBA,81,32.9,.521,.355,14.8,0.8,1.5,1.4,16.2,21.2,7.4,.133,-0.5,1.0,All-NBA (3rd),3272091,"St. Thomas More School in Oakdale, Connecticut"
-drumman01,2016-17,23,Detroit Pistons,NBA,81,29.7,.530,.386,13.8,1.1,1.5,1.1,13.6,20.9,6.7,.133,0.9,1.8,,22116750,"St. Thomas More School in Oakdale, Connecticut"
-drumman01,2017-18,24,Detroit Pistons,NBA,78,33.7,.529,.605,16.0,3.0,1.5,1.6,15.0,22.9,10.3,.189,5.5,5.0,,23775506,"St. Thomas More School in Oakdale, Connecticut"
-drumman01,2018-19,25,DET,NBA,3,30.3,.389,.625,16.3,1.3,1.0,1.3,16.0,15.4,0.0,-0.013,-8.3,-0.1,,,"St. Thomas More School in Oakdale, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",+1.87,3.49,drumman01,2012-13,DET,21.6,4.5,.172,2.4,1.4,,NBA,2356320,19,60,20.7,.608,.371,7.6,0.5,1.0,1.6,7.9,DET
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",+1.11,6.00,drumman01,2013-14,DET,22.6,9.9,.182,1.6,2.4,,NBA,2462400,20,81,32.3,.623,.418,13.2,0.4,1.2,1.6,13.5,DET
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",+1.83,6.99,drumman01,2014-15,DET,21.4,7.7,.147,-0.2,1.2,,NBA,2568360,21,82,30.5,.514,.389,13.5,0.7,0.9,1.9,13.8,DET
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",+3.83,11.56,drumman01,2015-16,DET,21.2,7.4,.133,-0.5,1.0,All-NBA (3rd),NBA,3272091,22,81,32.9,.521,.355,14.8,0.8,1.5,1.4,16.2,DET
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",-0.14,3.48,drumman01,2016-17,DET,20.9,6.7,.133,0.9,1.8,,NBA,22116750,23,81,29.7,.530,.386,13.8,1.1,1.5,1.1,13.6,DET
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",+1.61,6.88,drumman01,2017-18,DET,22.9,10.3,.189,5.5,5.0,,NBA,23775506,24,78,33.7,.529,.605,16.0,3.0,1.5,1.6,15.0,DET
+Andre Drummond,/players/d/drumman01.html,2013,2019,University of Connecticut,true,"St. Thomas More School in Oakdale, Connecticut",,,drumman01,2018-19,DET,15.4,0.0,-0.013,-8.3,-0.1,,NBA,,25,3,30.3,.389,.625,16.3,1.3,1.0,1.3,16.0,DET

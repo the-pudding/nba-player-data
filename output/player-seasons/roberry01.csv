@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-roberry01,1999-00,23,Sacramento Kings,NBA,1,25.0,.333,1.000,0.0,0.0,0.0,0.0,5.0,2.6,0.0,-0.022,-8.4,0.0,,301875,"West in Saint Charles, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ryan Robertson,/players/r/roberry01.html,2000,2000,University of Kansas,false,"West in Saint Charles, Missouri",+0.03,0.04,roberry01,1999-00,SAC,2.6,0.0,-0.022,-8.4,0.0,,NBA,301875,23,1,25.0,.333,1.000,0.0,0.0,0.0,0.0,5.0,SAC

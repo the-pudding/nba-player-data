@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-wingada01,1986-87,23,PHI,NBA,77,20.9,.430,.741,2.0,2.0,1.2,0.2,8.8,11.9,1.4,.041,-2.6,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",
-wingada01,1987-88,24,Philadelphia 76ers,NBA,61,23.3,.400,.750,1.7,2.0,0.8,0.4,8.9,8.5,-0.5,-0.018,-5.2,-1.1,,"Paul Laurence Dunbar in Baltimore, Maryland",258333
-wingada01,1988-89,25,Philadelphia 76ers,NBA,33,11.3,.470,.794,1.1,2.2,0.3,0.1,4.2,11.5,0.2,.032,-4.4,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",308333
-wingada01,1989-90,26,SAS,NBA,78,23.8,.448,.777,2.5,2.7,1.1,0.2,6.8,9.4,1.9,.050,-1.8,0.1,,"Paul Laurence Dunbar in Baltimore, Maryland",
-wingada01,1990-91,27,San Antonio Spurs,NBA,25,22.5,.384,.707,3.0,1.8,0.8,0.2,5.4,5.6,0.1,.007,-3.4,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",750000
-wingada01,1991-92,28,Washington Bullets,NBA,81,26.3,.465,.719,3.3,3.0,1.5,0.3,7.9,11.5,2.4,.054,-1.0,0.5,,"Paul Laurence Dunbar in Baltimore, Maryland",250000
-wingada01,1992-93,29,Charlotte Hornets,NBA,72,20.4,.536,.738,2.4,2.5,0.9,0.1,6.1,11.5,2.3,.075,-0.7,0.5,,"Paul Laurence Dunbar in Baltimore, Maryland",129000
-wingada01,1993-94,30,Charlotte Hornets,NBA,50,20.1,.481,.667,2.7,2.1,0.8,0.1,6.2,10.8,1.0,.046,-1.9,0.0,,"Paul Laurence Dunbar in Baltimore, Maryland",570000
-wingada01,1994-95,31,Charlotte Hornets,NBA,52,9.9,.410,.750,1.2,1.1,0.4,0.1,2.3,8.1,0.4,.037,-3.8,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",570000
-wingada01,1995-96,32,Seattle SuperSonics,NBA,60,11.6,.415,.780,0.9,1.0,0.3,0.1,3.7,8.1,0.6,.041,-5.2,-0.6,,"Paul Laurence Dunbar in Baltimore, Maryland",560000
-wingada01,1996-97,33,Seattle SuperSonics,NBA,65,14.3,.416,.825,1.1,1.2,0.7,0.1,3.6,9.3,1.7,.087,-2.0,0.0,,"Paul Laurence Dunbar in Baltimore, Maryland",560000
-wingada01,1997-98,34,Seattle SuperSonics,NBA,58,9.4,.471,.517,1.4,0.6,0.4,0.1,2.6,8.6,0.3,.026,-4.6,-0.4,,"Paul Laurence Dunbar in Baltimore, Maryland",570000
-wingada01,1998-99,35,New York Knicks,NBA,20,4.6,.438,,0.4,0.3,0.2,0.0,0.7,4.2,0.0,-0.001,-4.3,-0.1,,"Paul Laurence Dunbar in Baltimore, Maryland",1000000
-wingada01,1999-00,36,New York Knicks,NBA,7,4.6,.111,,0.3,0.4,0.1,0.3,0.3,-5.0,-0.1,-0.209,-9.7,-0.1,,"Paul Laurence Dunbar in Baltimore, Maryland",510000
-wingada01,2000-01,37,Seattle SuperSonics,NBA,1,9.0,1.000,,0.0,2.0,0.0,0.0,6.0,35.8,0.1,.448,-5.2,0.0,,"Paul Laurence Dunbar in Baltimore, Maryland",1000000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-2.12,0.20,wingada01,1986-87,PHI,11.9,1.4,.041,-2.6,-0.2,,23,NBA,77,20.9,.430,.741,2.0,2.0,1.2,0.2,8.8,PHI,
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-3.75,-1.31,wingada01,1987-88,PHI,8.5,-0.5,-0.018,-5.2,-1.1,,24,NBA,61,23.3,.400,.750,1.7,2.0,0.8,0.4,8.9,PHI,258333
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-2.77,-0.09,wingada01,1988-89,PHI,11.5,0.2,.032,-4.4,-0.2,,25,NBA,33,11.3,.470,.794,1.1,2.2,0.3,0.1,4.2,PHI,308333
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-1.92,0.48,wingada01,1989-90,SAS,9.4,1.9,.050,-1.8,0.1,,26,NBA,78,23.8,.448,.777,2.5,2.7,1.1,0.2,6.8,SAS,
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-3.36,-0.47,wingada01,1990-91,SAS,5.6,0.1,.007,-3.4,-0.2,,27,NBA,25,22.5,.384,.707,3.0,1.8,0.8,0.2,5.4,SAS,750000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-1.12,1.64,wingada01,1991-92,WSB,11.5,2.4,.054,-1.0,0.5,,28,NBA,81,26.3,.465,.719,3.3,3.0,1.5,0.3,7.9,WSB,250000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-1.54,0.82,wingada01,1992-93,CHH,11.5,2.3,.075,-0.7,0.5,,29,NBA,72,20.4,.536,.738,2.4,2.5,0.9,0.1,6.1,CHH,129000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-1.89,0.27,wingada01,1993-94,CHH,10.8,1.0,.046,-1.9,0.0,,30,NBA,50,20.1,.481,.667,2.7,2.1,0.8,0.1,6.2,CHH,570000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-1.95,0.13,wingada01,1994-95,CHH,8.1,0.4,.037,-3.8,-0.2,,31,NBA,52,9.9,.410,.750,1.2,1.1,0.4,0.1,2.3,CHH,570000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-3.19,-0.48,wingada01,1995-96,SEA,8.1,0.6,.041,-5.2,-0.6,,32,NBA,60,11.6,.415,.780,0.9,1.0,0.3,0.1,3.7,SEA,560000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-1.47,0.60,wingada01,1996-97,SEA,9.3,1.7,.087,-2.0,0.0,,33,NBA,65,14.3,.416,.825,1.1,1.2,0.7,0.1,3.6,SEA,560000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",-2.79,-0.20,wingada01,1997-98,SEA,8.6,0.3,.026,-4.6,-0.4,,34,NBA,58,9.4,.471,.517,1.4,0.6,0.4,0.1,2.6,SEA,570000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",+0.53,0.18,wingada01,1998-99,NYK,4.2,0.0,-0.001,-4.3,-0.1,,35,NBA,20,4.6,.438,,0.4,0.3,0.2,0.0,0.7,NYK,1000000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",+0.76,0.07,wingada01,1999-00,NYK,-5.0,-0.1,-0.209,-9.7,-0.1,,36,NBA,7,4.6,.111,,0.3,0.4,0.1,0.3,0.3,NYK,510000
+David Wingate,/players/w/wingada01.html,1987,2001,Georgetown University,false,"Paul Laurence Dunbar in Baltimore, Maryland",+0.33,0.02,wingada01,2000-01,SEA,35.8,0.1,.448,-5.2,0.0,,37,NBA,1,9.0,1.000,,0.0,2.0,0.0,0.0,6.0,SEA,1000000

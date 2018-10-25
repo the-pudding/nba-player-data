@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cleamji01,1976-77,27,CLE,NBA,60,34.1,.434,.757,4.6,5.1,1.1,0.4,10.4,12.9,3.8,.088,1.1,1.6,,"Linden McKinley in Columbus, Ohio"
-cleamji01,1977-78,28,NYK,NBA,79,25.4,.480,.786,2.7,3.6,0.9,0.2,6.5,10.4,2.7,.065,-1.3,0.3,,"Linden McKinley in Columbus, Ohio"
-cleamji01,1978-79,29,NYK,NBA,79,30.3,.473,.760,2.8,4.8,0.9,0.1,9.5,11.8,3.4,.068,-1.6,0.2,,"Linden McKinley in Columbus, Ohio"
-cleamji01,1979-80,30,"NYK,WSB",NBA,79,22.6,.476,.743,1.9,3.6,0.7,0.1,6.6,10.8,2.3,.063,-1.9,0.0,,"Linden McKinley in Columbus, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Cleamons,/players/c/cleamji01.html,1972,1980,Ohio State University,false,"Linden McKinley in Columbus, Ohio",-0.00,3.15,cleamji01,1976-77,CLE,12.9,3.8,.088,1.1,1.6,,27,NBA,60,34.1,.434,.757,4.6,5.1,1.1,0.4,10.4,CLE
+Jim Cleamons,/players/c/cleamji01.html,1972,1980,Ohio State University,false,"Linden McKinley in Columbus, Ohio",-1.73,0.67,cleamji01,1977-78,NYK,10.4,2.7,.065,-1.3,0.3,,28,NBA,79,25.4,.480,.786,2.7,3.6,0.9,0.2,6.5,NYK
+Jim Cleamons,/players/c/cleamji01.html,1972,1980,Ohio State University,false,"Linden McKinley in Columbus, Ohio",-1.32,1.49,cleamji01,1978-79,NYK,11.8,3.4,.068,-1.6,0.2,,29,NBA,79,30.3,.473,.760,2.8,4.8,0.9,0.1,9.5,NYK
+Jim Cleamons,/players/c/cleamji01.html,1972,1980,Ohio State University,false,"Linden McKinley in Columbus, Ohio",-2.06,0.22,cleamji01,1979-80,TOT,10.8,2.3,.063,-1.9,0.0,,30,NBA,79,22.6,.476,.743,1.9,3.6,0.7,0.1,6.6,"NYK,WSB"

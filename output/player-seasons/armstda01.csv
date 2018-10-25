@@ -1,17 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-armstda01,1994-95,26,ORL,NBA,3,2.7,.375,1.000,0.3,1.0,0.3,0.0,3.3,40.2,0.1,.492,34.8,0.1,,"Ashbrook in Gastonia, North Carolina",
-armstda01,1995-96,27,Orlando Magic,NBA,13,3.2,.500,1.000,0.2,0.4,0.5,0.0,3.2,32.4,0.1,.158,6.6,0.1,,"Ashbrook in Gastonia, North Carolina",350000
-armstda01,1996-97,28,Orlando Magic,NBA,67,15.1,.383,.868,1.1,2.6,0.9,0.1,6.1,14.7,1.8,.085,-0.7,0.3,,"Ashbrook in Gastonia, North Carolina",410000
-armstda01,1997-98,29,Orlando Magic,NBA,48,25.8,.411,.854,3.3,4.9,1.2,0.1,9.2,15.7,2.5,.096,1.1,1.0,,"Ashbrook in Gastonia, North Carolina",350000
-armstda01,1998-99,30,Orlando Magic,NBA,50,30.0,.441,.904,3.6,6.7,2.2,0.1,13.8,22.2,6.4,.205,5.9,3.0,,"Ashbrook in Gastonia, North Carolina",2900000
-armstda01,1999-00,31,Orlando Magic,NBA,82,31.6,.433,.911,3.3,6.1,2.1,0.1,16.2,19.5,8.0,.149,4.4,4.2,,"Ashbrook in Gastonia, North Carolina",4125000
-armstda01,2000-01,32,Orlando Magic,NBA,75,36.9,.412,.884,4.6,7.0,1.8,0.2,15.9,18.6,8.7,.151,3.5,3.8,,"Ashbrook in Gastonia, North Carolina",3100000
-armstda01,2001-02,33,Orlando Magic,NBA,82,33.3,.419,.888,3.9,5.5,1.9,0.1,12.4,16.7,7.6,.134,3.0,3.4,,"Ashbrook in Gastonia, North Carolina",4005000
-armstda01,2002-03,34,Orlando Magic,NBA,82,28.7,.409,.878,3.6,3.9,1.6,0.2,9.4,14.6,4.9,.100,1.2,1.9,,"Ashbrook in Gastonia, North Carolina",4010000
-armstda01,2003-04,35,New Orleans Hornets,NBA,79,28.4,.395,.854,2.9,3.9,1.7,0.2,10.6,15.6,5.3,.114,1.9,2.2,,"Ashbrook in Gastonia, North Carolina",2475000
-armstda01,2004-05,36,Dallas Mavericks,NBA,66,15.0,.321,.853,1.7,2.7,0.7,0.1,4.0,11.0,0.8,.039,-1.6,0.1,,"Ashbrook in Gastonia, North Carolina",2275000
-armstda01,2004-05,36,Dallas Mavericks,NBA,14,29.4,.333,.905,3.4,4.6,1.1,0.1,10.1,11.1,0.0,-0.002,-1.8,0.0,,"Ashbrook in Gastonia, North Carolina",2275000
-armstda01,2004-05,36,Dallas Mavericks,NBA,52,11.1,.305,.830,1.3,2.2,0.6,0.1,2.3,10.9,0.8,.069,-1.5,0.1,,"Ashbrook in Gastonia, North Carolina",2275000
-armstda01,2005-06,37,Dallas Mavericks,NBA,62,10.0,.336,.786,1.3,1.4,0.4,0.0,2.1,7.3,0.0,.003,-2.9,-0.1,,"Ashbrook in Gastonia, North Carolina",1138500
-armstda01,2006-07,38,Indiana Pacers,NBA,81,15.7,.414,.785,1.7,2.4,0.9,0.1,5.6,15.1,3.2,.121,1.1,1.0,,"Ashbrook in Gastonia, North Carolina",1178348
-armstda01,2007-08,39,New Jersey Nets,NBA,50,11.0,.364,.667,1.3,1.5,0.6,0.0,2.5,8.7,0.3,.024,-3.0,-0.1,,"Ashbrook in Gastonia, North Carolina",1219590
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",-0.50,0.01,armstda01,1994-95,ORL,40.2,0.1,.492,34.8,0.1,,26,NBA,3,2.7,.375,1.000,0.3,1.0,0.3,0.0,3.3,ORL,
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",-0.23,0.06,armstda01,1995-96,ORL,32.4,0.1,.158,6.6,0.1,,27,NBA,13,3.2,.500,1.000,0.2,0.4,0.5,0.0,3.2,ORL,350000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+0.04,1.81,armstda01,1996-97,ORL,14.7,1.8,.085,-0.7,0.3,,28,NBA,67,15.1,.383,.868,1.1,2.6,0.9,0.1,6.1,ORL,410000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",-0.30,1.64,armstda01,1997-98,ORL,15.7,2.5,.096,1.1,1.0,,29,NBA,48,25.8,.411,.854,3.3,4.9,1.2,0.1,9.2,ORL,350000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+2.81,5.94,armstda01,1998-99,ORL,22.2,6.4,.205,5.9,3.0,,30,NBA,50,30.0,.441,.904,3.6,6.7,2.2,0.1,13.8,ORL,2900000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+3.12,9.61,armstda01,1999-00,ORL,19.5,8.0,.149,4.4,4.2,,31,NBA,82,31.6,.433,.911,3.3,6.1,2.1,0.1,16.2,ORL,4125000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+2.38,9.41,armstda01,2000-01,ORL,18.6,8.7,.151,3.5,3.8,,32,NBA,75,36.9,.412,.884,4.6,7.0,1.8,0.2,15.9,ORL,3100000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+2.02,8.43,armstda01,2001-02,ORL,16.7,7.6,.134,3.0,3.4,,33,NBA,82,33.3,.419,.888,3.9,5.5,1.9,0.1,12.4,ORL,4005000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+0.02,4.00,armstda01,2002-03,ORL,14.6,4.9,.100,1.2,1.9,,34,NBA,82,28.7,.409,.878,3.6,3.9,1.6,0.2,9.4,ORL,4010000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+0.14,3.93,armstda01,2003-04,NOH,15.6,5.3,.114,1.9,2.2,,35,NBA,79,28.4,.395,.854,2.9,3.9,1.7,0.2,10.6,NOH,2475000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",-0.85,1.00,armstda01,2004-05,TOT,11.0,0.8,.039,-1.6,0.1,,36,NBA,66,15.0,.321,.853,1.7,2.7,0.7,0.1,4.0,"NOH,DAL",2275000
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",-2.36,-0.03,armstda01,2005-06,DAL,7.3,0.0,.003,-2.9,-0.1,,37,NBA,62,10.0,.336,.786,1.3,1.4,0.4,0.0,2.1,DAL,1138500
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",+0.27,2.21,armstda01,2006-07,IND,15.1,3.2,.121,1.1,1.0,,38,NBA,81,15.7,.414,.785,1.7,2.4,0.9,0.1,5.6,IND,1178348
+Darrell Armstrong,/players/a/armstda01.html,1995,2008,Fayetteville State University,false,"Ashbrook in Gastonia, North Carolina",-2.53,-0.11,armstda01,2007-08,NJN,8.7,0.3,.024,-3.0,-0.1,,39,NBA,50,11.0,.364,.667,1.3,1.5,0.6,0.0,2.5,NJN,1219590

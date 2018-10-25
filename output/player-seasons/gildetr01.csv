@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-gildetr01,2009-10,25,Memphis Grizzlies,NBA,2,2.5,1.000,,0.5,0.0,0.5,0.0,1.0,30.9,0.0,.336,7.6,0.0,,26917,"DeSoto in DeSoto, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Trey Gilder,/players/g/gildetr01.html,2010,2010,"McNeese State University, Northwestern State University",false,"DeSoto in DeSoto, Texas",-0.77,0.00,gildetr01,2009-10,MEM,30.9,0.0,.336,7.6,0.0,,NBA,26917,25,2,2.5,1.000,,0.5,0.0,0.5,0.0,1.0,MEM

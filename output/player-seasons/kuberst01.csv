@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kuberst01,1976-77,29,BOS,NBA,76,11.3,.420,.759,2.8,0.5,0.1,0.1,4.3,10.7,1.1,.061,-5.5,-0.8,,"Moline in Moline, Illinois"
-kuberst01,1977-78,30,BOS,NBA,3,4.7,.250,,2.0,0.0,0.3,0.0,0.7,0.6,0.0,-0.140,-17.0,-0.1,,"Moline in Moline, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Kuberski,/players/k/kuberst01.html,1970,1978,Bradley University,false,"Moline in Moline, Illinois",-2.86,-0.50,kuberst01,1976-77,BOS,10.7,1.1,.061,-5.5,-0.8,,29,NBA,76,11.3,.420,.759,2.8,0.5,0.1,0.1,4.3,BOS
+Steve Kuberski,/players/k/kuberst01.html,1970,1978,Bradley University,false,"Moline in Moline, Illinois",+1.07,0.03,kuberst01,1977-78,BOS,0.6,0.0,-0.140,-17.0,-0.1,,30,NBA,3,4.7,.250,,2.0,0.0,0.3,0.0,0.7,BOS

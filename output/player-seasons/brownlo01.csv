@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-brownlo01,2013-14,23,PHI,NBA,26,8.6,.302,.692,1.1,1.6,0.5,0.1,2.5,8.2,-0.3,-0.068,-6.8,-0.3,,"Hargrave in Chatham, Virginia",
-brownlo01,2014-15,24,Minnesota Timberwolves,NBA,29,18.9,.426,.632,2.4,3.1,1.0,0.2,4.2,11.0,0.3,.025,-2.6,-0.1,,"Hargrave in Chatham, Virginia",283367
-brownlo01,2015-16,25,Detroit Pistons,NBA,8,7.6,.320,.750,0.9,1.4,0.4,0.1,2.5,4.4,-0.2,-0.157,-9.5,-0.1,,"Hargrave in Chatham, Virginia",117016
-brownlo01,2016-17,26,Did Not Play,,,,,,,,,,,,,,,,,"Hargrave in Chatham, Virginia",
-brownlo01,2017-18,27,Toronto Raptors,NBA,14,9.9,.412,1.000,1.1,0.9,0.4,0.0,2.3,8.2,0.2,.060,-3.0,0.0,,"Hargrave in Chatham, Virginia",
-brownlo01,2018-19,28,TOR,NBA,4,6.5,.333,,0.8,1.0,0.0,0.0,1.0,-0.2,-0.1,-0.117,-9.4,0.0,,"Hargrave in Chatham, Virginia",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Lorenzo Brown,/players/b/brownlo01.html,2014,2019,North Carolina State University,true,"Hargrave in Chatham, Virginia",-0.26,0.31,brownlo01,2013-14,PHI,8.2,-0.3,-0.068,-6.8,-0.3,,23,NBA,26,8.6,.302,.692,1.1,1.6,0.5,0.1,2.5,PHI,
+Lorenzo Brown,/players/b/brownlo01.html,2014,2019,North Carolina State University,true,"Hargrave in Chatham, Virginia",-0.84,0.54,brownlo01,2014-15,MIN,11.0,0.3,.025,-2.6,-0.1,,24,NBA,29,18.9,.426,.632,2.4,3.1,1.0,0.2,4.2,MIN,283367
+Lorenzo Brown,/players/b/brownlo01.html,2014,2019,North Carolina State University,true,"Hargrave in Chatham, Virginia",-0.33,0.08,brownlo01,2015-16,PHO,4.4,-0.2,-0.157,-9.5,-0.1,,25,NBA,8,7.6,.320,.750,0.9,1.4,0.4,0.1,2.5,PHO,117016
+Lorenzo Brown,/players/b/brownlo01.html,2014,2019,North Carolina State University,true,"Hargrave in Chatham, Virginia",,,brownlo01,2016-17,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Lorenzo Brown,/players/b/brownlo01.html,2014,2019,North Carolina State University,true,"Hargrave in Chatham, Virginia",-0.12,0.24,brownlo01,2017-18,TOR,8.2,0.2,.060,-3.0,0.0,,27,NBA,14,9.9,.412,1.000,1.1,0.9,0.4,0.0,2.3,TOR,
+Lorenzo Brown,/players/b/brownlo01.html,2014,2019,North Carolina State University,true,"Hargrave in Chatham, Virginia",,,brownlo01,2018-19,TOR,-0.2,-0.1,-0.117,-9.4,0.0,,28,NBA,4,6.5,.333,,0.8,1.0,0.0,0.0,1.0,TOR,

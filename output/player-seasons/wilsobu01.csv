@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wilsobu01,1979-80,24,GSW,NBA,16,8.9,.280,.500,1.0,0.8,0.1,0.0,1.1,2.1,-0.2,-0.064,-7.5,-0.2,,"Hunter Huss in Gastonia, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bubba Wilson,/players/w/wilsobu01.html,1980,1980,Western Carolina University,false,"Hunter Huss in Gastonia, North Carolina",-0.65,0.15,wilsobu01,1979-80,GSW,2.1,-0.2,-0.064,-7.5,-0.2,,24,NBA,16,8.9,.280,.500,1.0,0.8,0.1,0.0,1.1,GSW

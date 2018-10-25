@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-traylro01,1998-99,21,Milwaukee Bucks,NBA,49,16.0,.537,.538,3.7,0.8,0.9,0.9,5.3,17.0,2.5,.152,4.1,1.2,,1590000,"Murray-Wright in Detroit, Michigan"
-traylro01,1999-00,22,Milwaukee Bucks,NBA,44,10.2,.475,.603,2.6,0.5,0.6,0.6,3.6,15.8,1.0,.112,0.6,0.3,,2059320,"Murray-Wright in Detroit, Michigan"
-traylro01,2000-01,23,Cleveland Cavaliers,NBA,70,17.3,.497,.567,4.3,0.9,0.7,1.1,5.7,14.1,1.9,.074,0.8,0.8,,2203080,"Murray-Wright in Detroit, Michigan"
-traylro01,2001-02,24,Charlotte Hornets,NBA,61,11.1,.426,.631,3.1,0.6,0.4,0.6,3.7,13.0,1.2,.085,-1.4,0.1,,2793505,"Murray-Wright in Detroit, Michigan"
-traylro01,2002-03,25,New Orleans Hornets,NBA,69,12.3,.443,.648,3.8,0.7,0.7,0.5,3.9,15.3,2.4,.133,1.1,0.7,,750000,"Murray-Wright in Detroit, Michigan"
-traylro01,2003-04,26,New Orleans Hornets,NBA,71,13.3,.505,.547,3.7,0.6,0.5,0.5,5.1,16.2,2.5,.127,-0.6,0.3,,825000,"Murray-Wright in Detroit, Michigan"
-traylro01,2004-05,27,Cleveland Cavaliers,NBA,74,17.9,.444,.539,4.5,0.8,0.7,0.7,5.5,12.0,1.8,.066,-1.5,0.2,,1600000,"Murray-Wright in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",+2.08,2.50,traylro01,1998-99,MIL,17.0,2.5,.152,4.1,1.2,,NBA,1590000,21,49,16.0,.537,.538,3.7,0.8,0.9,0.9,5.3,MIL
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",+0.28,0.78,traylro01,1999-00,MIL,15.8,1.0,.112,0.6,0.3,,NBA,2059320,22,44,10.2,.475,.603,2.6,0.5,0.6,0.6,3.6,MIL
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",-0.81,1.16,traylro01,2000-01,CLE,14.1,1.9,.074,0.8,0.8,,NBA,2203080,23,70,17.3,.497,.567,4.3,0.9,0.7,1.1,5.7,CLE
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",-1.49,0.36,traylro01,2001-02,CHH,13.0,1.2,.085,-1.4,0.1,,NBA,2793505,24,61,11.1,.426,.631,3.1,0.6,0.4,0.6,3.7,CHH
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",+0.66,1.90,traylro01,2002-03,NOH,15.3,2.4,.133,1.1,0.7,,NBA,750000,25,69,12.3,.443,.648,3.8,0.7,0.7,0.5,3.9,NOH
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",-0.15,1.40,traylro01,2003-04,NOH,16.2,2.5,.127,-0.6,0.3,,NBA,825000,26,71,13.3,.505,.547,3.7,0.6,0.5,0.5,5.1,NOH
+Robert Traylor,/players/t/traylro01.html,1999,2005,University of Michigan,false,"Murray-Wright in Detroit, Michigan",-2.35,-0.07,traylro01,2004-05,CLE,12.0,1.8,.066,-1.5,0.2,,NBA,1600000,27,74,17.9,.444,.539,4.5,0.8,0.7,0.7,5.5,CLE

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-stallbu01,1976-77,27,NOJ,NBA,40,13.2,.463,.586,1.8,0.6,0.5,0.3,6.7,12.2,0.4,.040,-5.5,-0.5,,"Morgan County Training School in Hartselle, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bud Stallworth,/players/s/stallbu01.html,1973,1977,University of Kansas,false,"Morgan County Training School in Hartselle, Alabama",-2.08,0.00,stallbu01,1976-77,NOJ,12.2,0.4,.040,-5.5,-0.5,,27,NBA,40,13.2,.463,.586,1.8,0.6,0.5,0.3,6.7,NOJ

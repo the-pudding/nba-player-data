@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-owensan01,2005-06,25,Utah Jazz,NBA,23,9.1,.365,.667,0.9,0.3,0.2,0.0,3.0,5.2,-0.2,-0.047,-8.4,-0.3,,398762,"Perry Meridian in Indianapolis, Indiana"
-owensan01,2006-07,26,Golden State Warriors,NBA,,,,,,,,,,,,,,,,676800,"Perry Meridian in Indianapolis, Indiana"
-owensan01,2007-08,27,Indiana Pacers,NBA,31,12.6,.374,.735,1.5,1.5,0.4,0.1,4.0,10.0,0.4,.053,-3.4,-0.1,,687456,"Perry Meridian in Indianapolis, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andre Owens,/players/o/owensan01.html,2006,2008,"Indiana University, University of Houston",false,"Perry Meridian in Indianapolis, Indiana",-1.54,0.09,owensan01,2005-06,UTA,5.2,-0.2,-0.047,-8.4,-0.3,,NBA,398762,25,23,9.1,.365,.667,0.9,0.3,0.2,0.0,3.0,UTA
+Andre Owens,/players/o/owensan01.html,2006,2008,"Indiana University, University of Houston",false,"Perry Meridian in Indianapolis, Indiana",,,owensan01,2006-07,Did Not Play (other pro league—D-League),,,,,,,NBA,676800,26,,,,,,,,,,Did Not Play (other pro league—D-League)
+Andre Owens,/players/o/owensan01.html,2006,2008,"Indiana University, University of Houston",false,"Perry Meridian in Indianapolis, Indiana",-1.14,0.29,owensan01,2007-08,IND,10.0,0.4,.053,-3.4,-0.1,,NBA,687456,27,31,12.6,.374,.735,1.5,1.5,0.4,0.1,4.0,IND

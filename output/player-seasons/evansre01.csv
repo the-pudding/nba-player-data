@@ -1,18 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-evansre01,2002-03,22,Seattle SuperSonics,NBA,67,20.4,.471,.519,6.6,0.5,0.6,0.2,3.2,10.4,3.0,.105,-1.8,0.1,,349458,"Woodham in Pensacola, Florida"
-evansre01,2003-04,23,Seattle SuperSonics,NBA,75,17.1,.406,.561,5.4,0.4,0.7,0.1,2.9,9.9,1.7,.065,-2.1,0.0,,700000,"Woodham in Pensacola, Florida"
-evansre01,2004-05,24,Seattle SuperSonics,NBA,79,23.8,.476,.534,9.3,0.7,0.7,0.2,4.9,13.0,3.8,.096,-0.2,0.9,,880000,"Woodham in Pensacola, Florida"
-evansre01,2005-06,25,Seattle SuperSonics,NBA,67,20.8,.489,.530,7.5,0.6,0.6,0.1,5.6,12.5,2.1,.072,-3.5,-0.5,,1100000,"Woodham in Pensacola, Florida"
-evansre01,2005-06,25,Seattle SuperSonics,NBA,41,19.2,.509,.550,6.7,0.6,0.6,0.1,5.9,15.0,1.5,.090,-2.3,-0.1,,1100000,"Woodham in Pensacola, Florida"
-evansre01,2005-06,25,Seattle SuperSonics,NBA,26,23.3,.453,.505,8.7,0.6,0.6,0.2,5.2,9.2,0.6,.048,-4.9,-0.4,,1100000,"Woodham in Pensacola, Florida"
-evansre01,2006-07,26,Denver Nuggets,NBA,66,17.1,.544,.497,7.0,0.7,0.6,0.2,4.9,13.5,2.3,.096,-1.6,0.1,,4000000,"Woodham in Pensacola, Florida"
-evansre01,2007-08,27,Philadelphia 76ers,NBA,81,23.2,.439,.467,7.5,0.8,1.1,0.1,5.2,11.0,2.7,.068,-1.5,0.2,,4320000,"Woodham in Pensacola, Florida"
-evansre01,2008-09,28,Philadelphia 76ers,NBA,79,14.4,.444,.594,4.6,0.3,0.5,0.1,3.3,10.4,1.9,.079,-3.1,-0.3,,4640000,"Woodham in Pensacola, Florida"
-evansre01,2009-10,29,Toronto Raptors,NBA,28,11.1,.493,.450,3.8,0.3,0.5,0.1,3.4,11.4,0.2,.033,-4.9,-0.2,,4960000,"Woodham in Pensacola, Florida"
-evansre01,2010-11,30,Toronto Raptors,NBA,30,26.6,.408,.545,11.5,1.3,1.0,0.2,4.4,12.4,1.3,.077,-0.4,0.3,,5080000,"Woodham in Pensacola, Florida"
-evansre01,2011-12,31,Los Angeles Clippers,NBA,56,13.8,.472,.507,4.8,0.3,0.6,0.1,1.9,9.2,1.3,.079,-2.2,0.0,,1229255,"Woodham in Pensacola, Florida"
-evansre01,2012-13,32,Brooklyn Nets,NBA,80,24.6,.479,.509,11.1,0.5,0.9,0.2,4.5,12.8,4.3,.105,-1.8,0.1,,1622617,"Woodham in Pensacola, Florida"
-evansre01,2013-14,33,Brooklyn Nets,NBA,54,16.6,.473,.554,6.2,0.4,0.7,0.1,4.0,11.7,1.5,.080,-3.6,-0.4,,1695635,"Woodham in Pensacola, Florida"
-evansre01,2013-14,33,Brooklyn Nets,NBA,30,13.3,.390,.538,5.0,0.2,0.4,0.1,2.7,9.0,0.4,.046,-6.9,-0.5,,1695635,"Woodham in Pensacola, Florida"
-evansre01,2013-14,33,Brooklyn Nets,NBA,24,20.8,.527,.569,7.7,0.7,1.0,0.0,5.5,13.8,1.1,.107,-0.9,0.1,,1695635,"Woodham in Pensacola, Florida"
-evansre01,2014-15,34,Sacramento Kings,NBA,47,16.3,.423,.619,6.4,0.7,0.5,0.1,3.7,11.7,1.2,.074,-2.7,-0.1,,1768653,"Woodham in Pensacola, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",+0.25,2.35,evansre01,2002-03,SEA,10.4,3.0,.105,-1.8,0.1,,NBA,349458,22,67,20.4,.471,.519,6.6,0.5,0.6,0.2,3.2,SEA
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-1.60,0.53,evansre01,2003-04,SEA,9.9,1.7,.065,-2.1,0.0,,NBA,700000,23,75,17.1,.406,.561,5.4,0.4,0.7,0.1,2.9,SEA
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-0.36,2.72,evansre01,2004-05,SEA,13.0,3.8,.096,-0.2,0.9,,NBA,880000,24,79,23.8,.476,.534,9.3,0.7,0.7,0.2,4.9,SEA
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-2.22,0.09,evansre01,2005-06,TOT,12.5,2.1,.072,-3.5,-0.5,,NBA,1100000,25,67,20.8,.489,.530,7.5,0.6,0.6,0.1,5.6,"SEA,DEN"
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",+0.60,2.20,evansre01,2006-07,DEN,13.5,2.3,.096,-1.6,0.1,,NBA,4000000,26,66,17.1,.544,.497,7.0,0.7,0.6,0.2,4.9,DEN
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",+0.09,3.25,evansre01,2007-08,PHI,11.0,2.7,.068,-1.5,0.2,,NBA,4320000,27,81,23.2,.439,.467,7.5,0.8,1.1,0.1,5.2,PHI
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-2.76,-0.32,evansre01,2008-09,PHI,10.4,1.9,.079,-3.1,-0.3,,NBA,4640000,28,79,14.4,.444,.594,4.6,0.3,0.5,0.1,3.3,PHI
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-0.03,0.47,evansre01,2009-10,TOR,11.4,0.2,.033,-4.9,-0.2,,NBA,4960000,29,28,11.1,.493,.450,3.8,0.3,0.5,0.1,3.4,TOR
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-0.99,0.70,evansre01,2010-11,TOR,12.4,1.3,.077,-0.4,0.3,,NBA,5080000,30,30,26.6,.408,.545,11.5,1.3,1.0,0.2,4.4,TOR
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-2.78,-0.38,evansre01,2011-12,LAC,9.2,1.3,.079,-2.2,0.0,,NBA,1229255,31,56,13.8,.472,.507,4.8,0.3,0.6,0.1,1.9,LAC
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",+1.33,5.33,evansre01,2012-13,BRK,12.8,4.3,.105,-1.8,0.1,,NBA,1622617,32,80,24.6,.479,.509,11.1,0.5,0.9,0.2,4.5,BRK
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-1.73,0.31,evansre01,2013-14,TOT,11.7,1.5,.080,-3.6,-0.4,,NBA,1695635,33,54,16.6,.473,.554,6.2,0.4,0.7,0.1,4.0,"BRK,SAC"
+Reggie Evans,/players/e/evansre01.html,2003,2015,University of Iowa,false,"Woodham in Pensacola, Florida",-1.54,0.38,evansre01,2014-15,SAC,11.7,1.2,.074,-2.7,-0.1,,NBA,1768653,34,47,16.3,.423,.619,6.4,0.7,0.5,0.1,3.7,SAC

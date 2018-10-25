@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wingfdo01,1994-95,20,Seattle SuperSonics,NBA,20,4.1,.353,.800,1.5,0.2,0.3,0.2,2.3,14.2,0.0,.007,-8.1,-0.1,,150000,"Westover in Albany, Georgia"
-wingfdo01,1995-96,21,Portland Trail Blazers,NBA,44,11.1,.382,.765,2.4,0.6,0.5,0.1,3.8,11.1,0.9,.085,-0.7,0.2,,225000,"Westover in Albany, Georgia"
-wingfdo01,1996-97,22,Portland Trail Blazers,NBA,47,12.1,.409,.675,2.9,1.0,0.3,0.1,4.5,11.6,0.9,.079,-0.6,0.2,,500000,"Westover in Albany, Georgia"
-wingfdo01,1997-98,23,Portland Trail Blazers,NBA,3,3.0,.000,.500,1.3,0.0,0.0,0.0,0.3,-7.1,-0.1,-0.299,-25.8,-0.1,,600000,"Westover in Albany, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dontonio Wingfield,/players/w/wingfdo01.html,1995,1998,University of Cincinnati,false,"Westover in Albany, Georgia",-0.59,0.09,wingfdo01,1994-95,SEA,14.2,0.0,.007,-8.1,-0.1,,NBA,150000,20,20,4.1,.353,.800,1.5,0.2,0.3,0.2,2.3,SEA
+Dontonio Wingfield,/players/w/wingfdo01.html,1995,1998,University of Cincinnati,false,"Westover in Albany, Georgia",-1.25,0.36,wingfdo01,1995-96,POR,11.1,0.9,.085,-0.7,0.2,,NBA,225000,21,44,11.1,.382,.765,2.4,0.6,0.5,0.1,3.8,POR
+Dontonio Wingfield,/players/w/wingfdo01.html,1995,1998,University of Cincinnati,false,"Westover in Albany, Georgia",-1.84,0.16,wingfdo01,1996-97,POR,11.6,0.9,.079,-0.6,0.2,,NBA,500000,22,47,12.1,.409,.675,2.9,1.0,0.3,0.1,4.5,POR
+Dontonio Wingfield,/players/w/wingfdo01.html,1995,1998,University of Cincinnati,false,"Westover in Albany, Georgia",+0.64,0.02,wingfdo01,1997-98,POR,-7.1,-0.1,-0.299,-25.8,-0.1,,NBA,600000,23,3,3.0,.000,.500,1.3,0.0,0.0,0.0,0.3,POR

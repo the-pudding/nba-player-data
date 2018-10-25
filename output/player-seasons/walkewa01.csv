@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-walkewa01,1976-77,22,POR,NBA,66,9.5,.449,.670,1.6,0.8,0.2,0.0,5.2,14.0,0.9,.068,-4.1,-0.3,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1977-78,23,"POR,SEA",NBA,77,14.3,.443,.625,2.8,1.0,0.3,0.1,6.3,12.2,1.9,.084,-2.7,-0.2,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1978-79,24,SEA,NBA,60,16.2,.490,.604,3.0,1.2,0.2,0.4,6.6,11.6,1.8,.087,-2.0,0.0,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1979-80,25,SEA,NBA,70,12.1,.507,.750,2.4,0.8,0.3,0.1,4.7,12.3,2.0,.116,-1.9,0.0,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1980-81,26,SEA,NBA,82,21.9,.463,.645,3.8,1.5,0.6,0.2,8.4,11.3,2.1,.055,-2.2,-0.1,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1981-82,27,SEA,NBA,70,28.1,.480,.672,4.4,3.1,0.5,0.4,9.9,11.4,3.5,.087,-0.5,0.8,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1982-83,28,HOU,NBA,82,27.5,.449,.621,4.5,2.4,0.5,0.3,9.7,10.1,0.1,.002,-3.2,-0.7,,"Penn Manor in Millersville, Pennsylvania"
-walkewa01,1983-84,29,HOU,NBA,58,10.6,.490,.333,1.6,0.9,0.3,0.1,4.2,10.9,0.5,.041,-3.6,-0.3,,"Penn Manor in Millersville, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-2.18,-0.02,walkewa01,1976-77,POR,14.0,0.9,.068,-4.1,-0.3,,22,NBA,66,9.5,.449,.670,1.6,0.8,0.2,0.0,5.2,POR
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-1.76,0.33,walkewa01,1977-78,TOT,12.2,1.9,.084,-2.7,-0.2,,23,NBA,77,14.3,.443,.625,2.8,1.0,0.3,0.1,6.3,"POR,SEA"
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-1.64,0.38,walkewa01,1978-79,SEA,11.6,1.8,.087,-2.0,0.0,,24,NBA,60,16.2,.490,.604,3.0,1.2,0.2,0.4,6.6,SEA
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-1.20,0.70,walkewa01,1979-80,SEA,12.3,2.0,.116,-1.9,0.0,,25,NBA,70,12.1,.507,.750,2.4,0.8,0.3,0.1,4.7,SEA
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-1.84,0.46,walkewa01,1980-81,SEA,11.3,2.1,.055,-2.2,-0.1,,26,NBA,82,21.9,.463,.645,3.8,1.5,0.6,0.2,8.4,SEA
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-1.09,1.66,walkewa01,1981-82,SEA,11.4,3.5,.087,-0.5,0.8,,27,NBA,70,28.1,.480,.672,4.4,3.1,0.5,0.4,9.9,SEA
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-4.22,-3.06,walkewa01,1982-83,HOU,10.1,0.1,.002,-3.2,-0.7,,28,NBA,82,27.5,.449,.621,4.5,2.4,0.5,0.3,9.7,HOU
+Wally Walker,/players/w/walkewa01.html,1977,1984,University of Virginia,false,"Penn Manor in Millersville, Pennsylvania",-2.45,-0.08,walkewa01,1983-84,HOU,10.9,0.5,.041,-3.6,-0.3,,29,NBA,58,10.6,.490,.333,1.6,0.9,0.3,0.1,4.2,HOU

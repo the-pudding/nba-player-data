@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-murphro01,1987-88,23,Portland Trail Blazers,NBA,18,4.9,.286,.636,0.6,0.3,0.3,0.1,2.0,2.9,-0.2,-0.130,-10.7,-0.2,,191666,"Oviedo in Oviedo, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ronnie Murphy,/players/m/murphro01.html,1988,1988,Jacksonville University,false,"Oviedo in Oviedo, Florida",-0.69,0.10,murphro01,1987-88,POR,2.9,-0.2,-0.130,-10.7,-0.2,,NBA,191666,23,18,4.9,.286,.636,0.6,0.3,0.3,0.1,2.0,POR

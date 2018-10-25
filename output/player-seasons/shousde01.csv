@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-shousde01,1989-90,26,PHI,NBA,3,6.0,.000,,0.0,0.7,0.3,0.3,0.0,-6.8,-0.1,-0.281,-15.0,-0.1,,"North in Terre Haute, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dexter Shouse,/players/s/shousde01.html,1990,1990,University of South Alabama,false,"North in Terre Haute, Indiana",-0.23,0.02,shousde01,1989-90,PHI,-6.8,-0.1,-0.281,-15.0,-0.1,,26,NBA,3,6.0,.000,,0.0,0.7,0.3,0.3,0.0,PHI

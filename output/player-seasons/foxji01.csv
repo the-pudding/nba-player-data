@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-foxji01,1976-77,33,NYN,NBA,71,16.4,.462,.833,4.6,0.7,0.3,0.4,6.5,13.8,2.4,.097,-3.4,-0.4,,"Gordon in Barnesville, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Fox,/players/f/foxji01.html,1968,1977,University of South Carolina,false,"Gordon in Barnesville, Georgia",-1.69,0.30,foxji01,1976-77,NYN,13.8,2.4,.097,-3.4,-0.4,,33,NBA,71,16.4,.462,.833,4.6,0.7,0.3,0.4,6.5,NYN

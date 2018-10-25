@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-florelu01,2004-05,23,Golden State Warriors,NBA,16,4.8,.483,1.000,0.2,0.7,0.1,0.0,2.2,10.1,0.0,-0.020,-9.6,-0.1,,385277,"Norman Thomas in New York, New York"
-florelu01,2004-05,23,Golden State Warriors,NBA,15,4.9,.481,1.000,0.1,0.7,0.1,0.0,2.1,8.8,-0.1,-0.039,-10.2,-0.2,,385277,"Norman Thomas in New York, New York"
-florelu01,2004-05,23,Golden State Warriors,NBA,1,4.0,.500,,1.0,0.0,0.0,0.0,3.0,33.7,0.0,.324,2.3,0.0,,385277,"Norman Thomas in New York, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Luis Flores,/players/f/florelu01.html,2005,2005,"Rutgers University, Manhattan College",false,"Norman Thomas in New York, New York",-0.03,0.11,florelu01,2004-05,TOT,10.1,0.0,-0.020,-9.6,-0.1,,NBA,385277,23,16,4.8,.483,1.000,0.2,0.7,0.1,0.0,2.2,"GSW,DEN"

@@ -1,15 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-andergr01,1987-88,23,San Antonio Spurs,NBA,82,24.2,.501,.604,6.3,1.0,0.7,1.5,11.7,14.7,2.3,.056,-2.7,-0.4,,185000,"Evan E. Worthing in Houston, Texas"
-andergr01,1988-89,24,San Antonio Spurs,NBA,82,29.3,.503,.514,8.2,0.7,1.2,1.3,13.7,14.9,3.4,.069,-2.5,-0.3,,200000,"Evan E. Worthing in Houston, Texas"
-andergr01,1989-90,25,MIL,NBA,60,21.5,.507,.535,6.2,0.4,0.5,0.9,8.8,13.0,2.0,.073,-4.8,-0.9,,,"Evan E. Worthing in Houston, Texas"
-andergr01,1990-91,26,Denver Nuggets,NBA,68,13.6,.430,.522,4.7,0.2,0.5,0.7,4.3,9.1,-0.3,-0.017,-7.5,-1.3,,1365000,"Evan E. Worthing in Houston, Texas"
-andergr01,1990-91,26,Denver Nuggets,NBA,26,9.5,.370,.571,2.9,0.1,0.3,0.3,2.7,7.5,-0.1,-0.027,-9.1,-0.4,,1365000,"Evan E. Worthing in Houston, Texas"
-andergr01,1990-91,26,Denver Nuggets,NBA,1,18.0,1.000,,6.0,1.0,2.0,0.0,8.0,26.4,0.1,.300,10.9,0.1,,1365000,"Evan E. Worthing in Houston, Texas"
-andergr01,1990-91,26,Denver Nuggets,NBA,41,16.1,.440,.506,5.8,0.3,0.6,0.9,5.2,9.2,-0.3,-0.022,-7.5,-0.9,,1365000,"Evan E. Worthing in Houston, Texas"
-andergr01,1991-92,27,Denver Nuggets,NBA,82,34.1,.456,.623,11.5,1.0,1.1,0.8,11.5,12.6,3.0,.052,-2.6,-0.5,,1465000,"Evan E. Worthing in Houston, Texas"
-andergr01,1992-93,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Evan E. Worthing in Houston, Texas"
-andergr01,1993-94,29,Detroit Pistons,NBA,77,21.1,.543,.571,7.4,0.7,0.7,0.9,6.4,14.6,3.4,.101,-1.1,0.4,,650000,"Evan E. Worthing in Houston, Texas"
-andergr01,1994-95,30,Detroit Pistons,NBA,51,12.2,.548,.479,3.7,0.3,0.5,0.6,2.9,12.6,1.5,.118,-1.4,0.1,,400000,"Evan E. Worthing in Houston, Texas"
-andergr01,1995-96,31,San Antonio Spurs,NBA,46,7.5,.511,.240,2.2,0.2,0.2,0.5,1.2,7.7,0.4,.056,-1.9,0.0,,485000,"Evan E. Worthing in Houston, Texas"
-andergr01,1996-97,32,San Antonio Spurs,NBA,82,20.2,.496,.667,5.5,0.4,0.8,0.8,3.9,11.4,2.2,.064,-1.6,0.2,,584000,"Evan E. Worthing in Houston, Texas"
-andergr01,1997-98,33,Atlanta Hawks,NBA,50,8.0,.444,.390,2.4,0.3,0.4,0.2,1.8,10.4,0.7,.090,-1.6,0.0,,272250,"Evan E. Worthing in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-1.04,1.77,andergr01,1987-88,SAS,14.7,2.3,.056,-2.7,-0.4,,NBA,185000,23,82,24.2,.501,.604,6.3,1.0,0.7,1.5,11.7,SAS
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-0.84,2.30,andergr01,1988-89,SAS,14.9,3.4,.069,-2.5,-0.3,,NBA,200000,24,82,29.3,.503,.514,8.2,0.7,1.2,1.3,13.7,SAS
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-0.93,1.26,andergr01,1989-90,MIL,13.0,2.0,.073,-4.8,-0.9,,NBA,,25,60,21.5,.507,.535,6.2,0.4,0.5,0.9,8.8,MIL
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-2.98,-0.45,andergr01,1990-91,TOT,9.1,-0.3,-0.017,-7.5,-1.3,,NBA,1365000,26,68,13.6,.430,.522,4.7,0.2,0.5,0.7,4.3,"MIL,NJN,DEN"
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-2.16,0.12,andergr01,1991-92,DEN,12.6,3.0,.052,-2.6,-0.5,,NBA,1465000,27,82,34.1,.456,.623,11.5,1.0,1.1,0.8,11.5,DEN
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",,,andergr01,1992-93,Did Not Play (other pro league—Italy),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Italy)
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-0.35,2.11,andergr01,1993-94,DET,14.6,3.4,.101,-1.1,0.4,,NBA,650000,29,77,21.1,.543,.571,7.4,0.7,0.7,0.9,6.4,DET
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",+0.18,1.10,andergr01,1994-95,ATL,12.6,1.5,.118,-1.4,0.1,,NBA,400000,30,51,12.2,.548,.479,3.7,0.3,0.5,0.6,2.9,ATL
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-1.71,0.13,andergr01,1995-96,SAS,7.7,0.4,.056,-1.9,0.0,,NBA,485000,31,46,7.5,.511,.240,2.2,0.2,0.2,0.5,1.2,SAS
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-1.92,0.40,andergr01,1996-97,SAS,11.4,2.2,.064,-1.6,0.2,,NBA,584000,32,82,20.2,.496,.667,5.5,0.4,0.8,0.8,3.9,SAS
+Greg Anderson,/players/a/andergr01.html,1988,1998,University of Houston,false,"Evan E. Worthing in Houston, Texas",-0.70,0.42,andergr01,1997-98,ATL,10.4,0.7,.090,-1.6,0.0,,NBA,272250,33,50,8.0,.444,.390,2.4,0.3,0.4,0.2,1.8,ATL

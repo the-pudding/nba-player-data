@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fordtj01,2003-04,20,Milwaukee Bucks,NBA,55,26.8,.384,.816,3.2,6.5,1.1,0.1,7.1,12.1,0.7,.022,-2.6,-0.2,,2002680,"Willowridge in Houston, Texas"
-fordtj01,2004-05,21,Milwaukee Bucks,NBA,,,,,,,,,,,,,,,,2152800,"Willowridge in Houston, Texas"
-fordtj01,2005-06,22,Milwaukee Bucks,NBA,72,35.5,.416,.754,4.3,6.6,1.4,0.1,12.2,13.1,2.5,.047,-0.8,0.8,,2303040,"Willowridge in Houston, Texas"
-fordtj01,2006-07,23,Toronto Raptors,NBA,75,29.9,.436,.819,3.1,7.9,1.3,0.1,14.0,18.2,4.3,.091,0.6,1.5,,2929467,"Willowridge in Houston, Texas"
-fordtj01,2007-08,24,Toronto Raptors,NBA,51,23.5,.469,.880,2.0,6.1,1.1,0.0,12.1,20.3,3.3,.130,0.9,0.9,,8000000,"Willowridge in Houston, Texas"
-fordtj01,2008-09,25,Indiana Pacers,NBA,74,30.5,.452,.872,3.5,5.3,1.2,0.2,14.9,16.6,4.3,.092,-0.2,1.0,,8000000,"Willowridge in Houston, Texas"
-fordtj01,2009-10,26,Indiana Pacers,NBA,47,25.3,.445,.770,3.2,3.8,0.9,0.2,10.3,13.4,1.4,.058,-1.8,0.1,,8500000,"Willowridge in Houston, Texas"
-fordtj01,2010-11,27,Indiana Pacers,NBA,41,18.9,.386,.729,2.0,3.4,0.9,0.2,5.4,9.9,0.2,.011,-3.8,-0.3,,8500000,"Willowridge in Houston, Texas"
-fordtj01,2011-12,28,San Antonio Spurs,NBA,14,13.6,.442,.786,1.3,3.2,0.6,0.1,3.6,11.0,0.2,.053,-3.6,-0.1,,1146337,"Willowridge in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",-0.16,2.12,fordtj01,2003-04,MIL,12.1,0.7,.022,-2.6,-0.2,,NBA,2002680,20,55,26.8,.384,.816,3.2,6.5,1.1,0.1,7.1,MIL
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",,,fordtj01,2004-05,Did Not Play (injury—back),,,,,,,NBA,2152800,21,,,,,,,,,,Did Not Play (injury—back)
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",+0.33,4.81,fordtj01,2005-06,MIL,13.1,2.5,.047,-0.8,0.8,,NBA,2303040,22,72,35.5,.416,.754,4.3,6.6,1.4,0.1,12.2,MIL
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",-0.55,2.77,fordtj01,2006-07,TOR,18.2,4.3,.091,0.6,1.5,,NBA,2929467,23,75,29.9,.436,.819,3.1,7.9,1.3,0.1,14.0,TOR
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",-0.69,1.43,fordtj01,2007-08,TOR,20.3,3.3,.130,0.9,0.9,,NBA,8000000,24,51,23.5,.469,.880,2.0,6.1,1.1,0.0,12.1,TOR
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",-0.12,3.29,fordtj01,2008-09,IND,16.6,4.3,.092,-0.2,1.0,,NBA,8000000,25,74,30.5,.452,.872,3.5,5.3,1.2,0.2,14.9,IND
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",-2.15,0.08,fordtj01,2009-10,IND,13.4,1.4,.058,-1.8,0.1,,NBA,8500000,26,47,25.3,.445,.770,3.2,3.8,0.9,0.2,10.3,IND
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",-0.61,0.87,fordtj01,2010-11,IND,9.9,0.2,.011,-3.8,-0.3,,NBA,8500000,27,41,18.9,.386,.729,2.0,3.4,0.9,0.2,5.4,IND
+T.J. Ford,/players/f/fordtj01.html,2004,2012,University of Texas at Austin,false,"Willowridge in Houston, Texas",+0.07,0.30,fordtj01,2011-12,SAS,11.0,0.2,.053,-3.6,-0.1,,NBA,1146337,28,14,13.6,.442,.786,1.3,3.2,0.6,0.1,3.6,SAS

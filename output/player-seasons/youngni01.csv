@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-youngni01,2007-08,22,Washington Wizards,NBA,75,15.4,.439,.815,1.5,0.8,0.5,0.1,7.5,11.6,0.4,.017,-5.6,-1.1,,1491240,"Cleveland in Reseda, California"
-youngni01,2008-09,23,Washington Wizards,NBA,82,22.4,.444,.850,1.8,1.2,0.5,0.2,10.9,13.1,1.2,.030,-4.9,-1.3,,1602960,"Cleveland in Reseda, California"
-youngni01,2009-10,24,Washington Wizards,NBA,74,19.2,.418,.800,1.4,0.6,0.4,0.1,8.6,10.7,1.4,.046,-4.5,-0.9,,1714800,"Cleveland in Reseda, California"
-youngni01,2010-11,25,Washington Wizards,NBA,64,31.8,.441,.816,2.7,1.2,0.7,0.3,17.4,14.5,2.8,.065,-3.0,-0.5,,2630503,"Cleveland in Reseda, California"
-youngni01,2011-12,26,Washington Wizards,NBA,62,27.9,.403,.852,2.1,0.9,0.7,0.3,14.2,12.9,1.9,.053,-3.4,-0.6,,3695857,"Cleveland in Reseda, California"
-youngni01,2011-12,26,Washington Wizards,NBA,40,30.3,.406,.862,2.4,1.2,0.8,0.3,16.6,14.2,1.5,.059,-3.2,-0.4,,3695857,"Cleveland in Reseda, California"
-youngni01,2011-12,26,Washington Wizards,NBA,22,23.5,.394,.821,1.6,0.5,0.6,0.3,9.7,9.9,0.4,.040,-3.8,-0.2,,3695857,"Cleveland in Reseda, California"
-youngni01,2012-13,27,Philadelphia 76ers,NBA,59,23.9,.413,.820,2.2,1.4,0.6,0.2,10.6,13.3,2.3,.079,-2.5,-0.2,,5600000,"Cleveland in Reseda, California"
-youngni01,2013-14,28,Los Angeles Lakers,NBA,64,28.3,.435,.825,2.6,1.5,0.7,0.2,17.9,16.0,2.5,.067,-1.9,0.0,,1106942,"Cleveland in Reseda, California"
-youngni01,2014-15,29,Los Angeles Lakers,NBA,42,23.8,.366,.892,2.3,1.0,0.5,0.3,13.4,14.2,1.2,.058,-3.5,-0.4,,4994420,"Cleveland in Reseda, California"
-youngni01,2015-16,30,Los Angeles Lakers,NBA,54,19.1,.339,.829,1.8,0.6,0.4,0.1,7.3,9.1,0.1,.003,-4.8,-0.7,,5219169,"Cleveland in Reseda, California"
-youngni01,2016-17,31,Los Angeles Lakers,NBA,60,25.9,.430,.856,2.3,1.0,0.6,0.2,13.2,14.1,3.2,.098,-0.7,0.5,,5443918,"Cleveland in Reseda, California"
-youngni01,2017-18,32,Golden State Warriors,NBA,80,17.4,.412,.862,1.6,0.5,0.5,0.1,7.3,10.0,1.7,.058,-3.7,-0.6,,5192000,"Cleveland in Reseda, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-5.13,-2.09,youngni01,2007-08,WAS,11.6,0.4,.017,-5.6,-1.1,,NBA,1491240,22,75,15.4,.439,.815,1.5,0.8,0.5,0.1,7.5,WAS
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-1.29,1.25,youngni01,2008-09,WAS,13.1,1.2,.030,-4.9,-1.3,,NBA,1602960,23,82,22.4,.444,.850,1.8,1.2,0.5,0.2,10.9,WAS
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-1.29,0.96,youngni01,2009-10,WAS,10.7,1.4,.046,-4.5,-0.9,,NBA,1714800,24,74,19.2,.418,.800,1.4,0.6,0.4,0.1,8.6,WAS
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-1.96,0.43,youngni01,2010-11,WAS,14.5,2.8,.065,-3.0,-0.5,,NBA,2630503,25,64,31.8,.441,.816,2.7,1.2,0.7,0.3,17.4,WAS
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-2.88,-0.85,youngni01,2011-12,TOT,12.9,1.9,.053,-3.4,-0.6,,NBA,3695857,26,62,27.9,.403,.852,2.1,0.9,0.7,0.3,14.2,"WAS,LAC"
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-1.67,0.52,youngni01,2012-13,PHI,13.3,2.3,.079,-2.5,-0.2,,NBA,5600000,27,59,23.9,.413,.820,2.2,1.4,0.6,0.2,10.6,PHI
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-0.37,2.35,youngni01,2013-14,LAL,16.0,2.5,.067,-1.9,0.0,,NBA,1106942,28,64,28.3,.435,.825,2.6,1.5,0.7,0.2,17.9,LAL
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-0.49,1.20,youngni01,2014-15,LAL,14.2,1.2,.058,-3.5,-0.4,,NBA,4994420,29,42,23.8,.366,.892,2.3,1.0,0.5,0.3,13.4,LAL
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-2.02,0.16,youngni01,2015-16,LAL,9.1,0.1,.003,-4.8,-0.7,,NBA,5219169,30,54,19.1,.339,.829,1.8,0.6,0.4,0.1,7.3,LAL
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-0.65,1.73,youngni01,2016-17,LAL,14.1,3.2,.098,-0.7,0.5,,NBA,5443918,31,60,25.9,.430,.856,2.3,1.0,0.6,0.2,13.2,LAL
+Nick Young,/players/y/youngni01.html,2008,2018,University of Southern California,true,"Cleveland in Reseda, California",-2.87,-0.57,youngni01,2017-18,GSW,10.0,1.7,.058,-3.7,-0.6,,NBA,5192000,32,80,17.4,.412,.862,1.6,0.5,0.5,0.1,7.3,GSW

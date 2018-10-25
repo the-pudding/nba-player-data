@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-haislma01,2002-03,22,Milwaukee Bucks,NBA,39,11.3,.431,.684,1.4,0.2,0.2,0.5,4.1,9.6,0.0,-0.003,-7.2,-0.6,,1439400,"Marshall City in Lewisburg, Tennessee"
-haislma01,2003-04,23,Milwaukee Bucks,NBA,31,8.5,.486,.714,1.7,0.1,0.2,0.4,3.0,14.6,0.6,.113,-2.4,0.0,,1547280,"Marshall City in Lewisburg, Tennessee"
-haislma01,2004-05,24,Milwaukee Bucks,NBA,9,11.8,.342,.545,1.7,0.3,0.2,0.2,3.6,4.0,-0.2,-0.081,-9.9,-0.2,,1400000,"Marshall City in Lewisburg, Tennessee"
-haislma01,2005-06,25,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,"Marshall City in Lewisburg, Tennessee"
-haislma01,2006-07,26,Did Not Play (other pro league—Turkey),,,,,,,,,,,,,,,,,,"Marshall City in Lewisburg, Tennessee"
-haislma01,2007-08,27,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Marshall City in Lewisburg, Tennessee"
-haislma01,2008-09,28,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Marshall City in Lewisburg, Tennessee"
-haislma01,2009-10,29,San Antonio Spurs,NBA,10,4.4,.476,.400,1.0,0.0,0.0,0.2,2.5,15.4,0.1,.065,-10.5,-0.1,,825497,"Marshall City in Lewisburg, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",-2.21,0.00,haislma01,2002-03,MIL,9.6,0.0,-0.003,-7.2,-0.6,,NBA,1439400,22,39,11.3,.431,.684,1.4,0.2,0.2,0.5,4.1,MIL
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",-0.13,0.38,haislma01,2003-04,MIL,14.6,0.6,.113,-2.4,0.0,,NBA,1547280,23,31,8.5,.486,.714,1.7,0.1,0.2,0.4,3.0,MIL
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",-0.41,0.13,haislma01,2004-05,IND,4.0,-0.2,-0.081,-9.9,-0.2,,NBA,1400000,24,9,11.8,.342,.545,1.7,0.3,0.2,0.2,3.6,IND
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",,,haislma01,2005-06,Did Not Play (other pro league—Turkey),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Turkey)
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",,,haislma01,2006-07,Did Not Play (other pro league—Turkey),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Turkey)
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",,,haislma01,2007-08,Did Not Play (other pro league—Spain),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—Spain)
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",,,haislma01,2008-09,Did Not Play (other pro league—Spain),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Spain)
+Marcus Haislip,/players/h/haislma01.html,2003,2010,University of Tennessee,false,"Marshall City in Lewisburg, Tennessee",+0.27,0.08,haislma01,2009-10,SAS,15.4,0.1,.065,-10.5,-0.1,,NBA,825497,29,10,4.4,.476,.400,1.0,0.0,0.0,0.2,2.5,SAS

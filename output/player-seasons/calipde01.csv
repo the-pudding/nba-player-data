@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-calipde01,1991-92,22,LAL,NBA,7,8.3,.222,.667,0.7,1.7,0.1,0.0,1.6,1.8,-0.2,-0.134,-11.3,-0.1,,"Flint Northern in Flint, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Demetrius Calip,/players/c/calipde01.html,1992,1992,University of Michigan,false,"Flint Northern in Flint, Michigan",-0.23,0.08,calipde01,1991-92,LAL,1.8,-0.2,-0.134,-11.3,-0.1,,22,NBA,7,8.3,.222,.667,0.7,1.7,0.1,0.0,1.6,LAL

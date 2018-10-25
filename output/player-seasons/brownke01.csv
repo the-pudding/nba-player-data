@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownke01,2001-02,20,Boston Celtics,NBA,29,8.4,.329,.600,1.7,0.5,0.6,0.2,2.2,11.9,0.4,.075,-1.2,0.1,,1528440,"Zachary in Zachary, Louisiana"
-brownke01,2002-03,21,Boston Celtics,NBA,51,13.1,.357,.625,2.7,0.4,0.7,0.3,2.8,8.8,0.5,.037,-4.4,-0.4,,1643040,"Zachary in Zachary, Louisiana"
-brownke01,2003-04,22,Cleveland Cavaliers,NBA,55,17.6,.461,.630,2.7,1.2,0.5,0.1,5.3,12.5,2.0,.100,-0.9,0.3,,1757640,"Zachary in Zachary, Louisiana"
-brownke01,2003-04,22,Cleveland Cavaliers,NBA,21,19.4,.455,.615,3.2,1.2,0.8,0.1,5.2,11.7,0.8,.097,-0.8,0.1,,1757640,"Zachary in Zachary, Louisiana"
-brownke01,2003-04,22,Cleveland Cavaliers,NBA,34,16.5,.465,.643,2.3,1.1,0.4,0.1,5.3,13.0,1.2,.103,-0.9,0.2,,1757640,"Zachary in Zachary, Louisiana"
-brownke01,2004-05,23,Philadelphia 76ers,NBA,8,6.9,.333,.800,1.4,0.5,0.4,0.1,1.5,9.7,0.1,.060,-3.2,0.0,,2332388,"Zachary in Zachary, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kedrick Brown,/players/b/brownke01.html,2002,2005,Okaloosa-Walton Community College,false,"Zachary in Zachary, Louisiana",-0.81,0.24,brownke01,2001-02,BOS,11.9,0.4,.075,-1.2,0.1,,NBA,1528440,20,29,8.4,.329,.600,1.7,0.5,0.6,0.2,2.2,BOS
+Kedrick Brown,/players/b/brownke01.html,2002,2005,Okaloosa-Walton Community College,false,"Zachary in Zachary, Louisiana",-2.57,-0.22,brownke01,2002-03,BOS,8.8,0.5,.037,-4.4,-0.4,,NBA,1643040,21,51,13.1,.357,.625,2.7,0.4,0.7,0.3,2.8,BOS
+Kedrick Brown,/players/b/brownke01.html,2002,2005,Okaloosa-Walton Community College,false,"Zachary in Zachary, Louisiana",+0.74,2.00,brownke01,2003-04,TOT,12.5,2.0,.100,-0.9,0.3,,NBA,1757640,22,55,17.6,.461,.630,2.7,1.2,0.5,0.1,5.3,"BOS,CLE"
+Kedrick Brown,/players/b/brownke01.html,2002,2005,Okaloosa-Walton Community College,false,"Zachary in Zachary, Louisiana",+0.00,0.08,brownke01,2004-05,PHI,9.7,0.1,.060,-3.2,0.0,,NBA,2332388,23,8,6.9,.333,.800,1.4,0.5,0.4,0.1,1.5,PHI

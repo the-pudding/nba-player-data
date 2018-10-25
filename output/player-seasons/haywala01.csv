@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-haywala01,2010-11,24,Minnesota Timberwolves,NBA,42,10.0,.357,.786,1.7,0.7,0.3,0.2,3.8,10.8,0.3,.035,-3.6,-0.2,,1020960,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-haywala01,2011-12,25,Oklahoma City Thunder,NBA,26,5.4,.342,.583,0.6,0.2,0.1,0.0,1.4,3.1,-0.1,-0.040,-8.0,-0.2,,1097520,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
-haywala01,2012-13,26,Houston Rockets,NBA,4,7.8,.200,1.000,1.0,0.8,0.5,0.0,2.5,11.2,0.1,.087,-2.9,0.0,,1174080,"Notre Dame Preparatory School in Fitchburg, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lazar Hayward,/players/h/haywala01.html,2011,2013,Marquette University,false,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.85,-0.15,haywala01,2010-11,MIN,10.8,0.3,.035,-3.6,-0.2,,NBA,1020960,24,42,10.0,.357,.786,1.7,0.7,0.3,0.2,3.8,MIN
+Lazar Hayward,/players/h/haywala01.html,2011,2013,Marquette University,false,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-2.33,-0.02,haywala01,2011-12,OKC,3.1,-0.1,-0.040,-8.0,-0.2,,NBA,1097520,25,26,5.4,.342,.583,0.6,0.2,0.1,0.0,1.4,OKC
+Lazar Hayward,/players/h/haywala01.html,2011,2013,Marquette University,false,"Notre Dame Preparatory School in Fitchburg, Massachusetts",-0.22,0.04,haywala01,2012-13,MIN,11.2,0.1,.087,-2.9,0.0,,NBA,1174080,26,4,7.8,.200,1.000,1.0,0.8,0.5,0.0,2.5,MIN

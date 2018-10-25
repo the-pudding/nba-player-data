@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-whitero03,2013-14,22,Philadelphia 76ers,NBA,3,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-8.3,0.0,-0.121,-10.4,0.0,,1719480,"Hopkins in Hopkins, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Royce White,/players/w/whitero03.html,2014,2014,Iowa State University,true,"Hopkins in Hopkins, Minnesota",-0.03,0.01,whitero03,2013-14,SAC,-8.3,0.0,-0.121,-10.4,0.0,,NBA,1719480,22,3,3.0,.000,,0.0,0.0,0.0,0.0,0.0,SAC

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-arlaujo01,1987-88,22,SAC,NBA,9,9.4,.326,.750,1.4,0.9,0.3,0.4,3.8,7.9,-0.1,-0.045,-6.5,-0.1,,"Jefferson in Rochester, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Joe Arlauckas,/players/a/arlaujo01.html,1988,1988,Niagara University,false,"Jefferson in Rochester, New York",-0.44,0.11,arlaujo01,1987-88,SAC,7.9,-0.1,-0.045,-6.5,-0.1,,22,NBA,9,9.4,.326,.750,1.4,0.9,0.3,0.4,3.8,SAC

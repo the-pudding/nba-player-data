@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mayse01,2005-06,21,Charlotte Bobcats,NBA,23,17.3,.409,.766,4.7,1.0,0.7,0.5,8.2,15.3,0.4,.047,-2.8,-0.1,,1619280,"Bloomington North in Bloomington, Indiana"
-mayse01,2006-07,22,Charlotte Bobcats,NBA,35,23.9,.500,.768,6.7,1.9,0.5,0.7,11.9,19.1,2.2,.127,0.9,0.6,,1740720,"Bloomington North in Bloomington, Indiana"
-mayse01,2007-08,23,Charlotte Bobcats,NBA,,,,,,,,,,,,,,,,1862160,"Bloomington North in Bloomington, Indiana"
-mayse01,2008-09,24,Charlotte Bobcats,NBA,24,12.5,.398,.700,2.9,0.4,0.2,0.2,3.9,6.2,-0.3,-0.045,-8.8,-0.5,,2661027,"Bloomington North in Bloomington, Indiana"
-mayse01,2009-10,25,Sacramento Kings,NBA,37,8.9,.459,.656,1.9,0.5,0.3,0.2,3.3,11.7,0.3,.044,-4.3,-0.2,,884881,"Bloomington North in Bloomington, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sean May,/players/m/mayse01.html,2006,2010,University of North Carolina,false,"Bloomington North in Bloomington, Indiana",-1.07,0.32,mayse01,2005-06,CHA,15.3,0.4,.047,-2.8,-0.1,,NBA,1619280,21,23,17.3,.409,.766,4.7,1.0,0.7,0.5,8.2,CHA
+Sean May,/players/m/mayse01.html,2006,2010,University of North Carolina,false,"Bloomington North in Bloomington, Indiana",+0.06,1.33,mayse01,2006-07,CHA,19.1,2.2,.127,0.9,0.6,,NBA,1740720,22,35,23.9,.500,.768,6.7,1.9,0.5,0.7,11.9,CHA
+Sean May,/players/m/mayse01.html,2006,2010,University of North Carolina,false,"Bloomington North in Bloomington, Indiana",,,mayse01,2007-08,Did Not Play,,,,,,,NBA,1862160,23,,,,,,,,,,Did Not Play
+Sean May,/players/m/mayse01.html,2006,2010,University of North Carolina,false,"Bloomington North in Bloomington, Indiana",-4.32,-0.44,mayse01,2008-09,CHA,6.2,-0.3,-0.045,-8.8,-0.5,,NBA,2661027,24,24,12.5,.398,.700,2.9,0.4,0.2,0.2,3.9,CHA
+Sean May,/players/m/mayse01.html,2006,2010,University of North Carolina,false,"Bloomington North in Bloomington, Indiana",-0.53,0.39,mayse01,2009-10,SAC,11.7,0.3,.044,-4.3,-0.2,,NBA,884881,25,37,8.9,.459,.656,1.9,0.5,0.3,0.2,3.3,SAC

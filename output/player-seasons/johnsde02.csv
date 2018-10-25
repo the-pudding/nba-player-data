@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsde02,1999-00,24,New York Knicks,NBA,5,7.4,.333,,1.4,0.0,0.2,0.0,1.2,0.5,-0.1,-0.091,-11.9,-0.1,,111871,"North Mecklenburg in Charlotte, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+DeMarco Johnson,/players/j/johnsde02.html,2000,2000,University of North Carolina at Charlotte,false,"North Mecklenburg in Charlotte, North Carolina",+0.72,0.08,johnsde02,1999-00,NYK,0.5,-0.1,-0.091,-11.9,-0.1,,NBA,111871,24,5,7.4,.333,,1.4,0.0,0.2,0.0,1.2,NYK

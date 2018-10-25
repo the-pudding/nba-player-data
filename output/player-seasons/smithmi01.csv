@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-smithmi01,1989-90,24,BOS,NBA,65,9.5,.476,.828,1.5,1.2,0.1,0.0,5.0,14.2,0.7,.055,-3.0,-0.2,,"Los Altos in Hacienda Heights, California",
-smithmi01,1990-91,25,Boston Celtics,NBA,47,8.3,.475,.815,1.2,0.9,0.1,0.0,4.6,14.3,0.3,.042,-4.6,-0.3,,"Los Altos in Hacienda Heights, California",525000
-smithmi01,1991-92,26,Boston Celtics,NBA,,,,,,,,,,,,,,,,"Los Altos in Hacienda Heights, California",625000
-smithmi01,1992-93,27,Boston Celtics,NBA,,,,,,,,,,,,,,,,"Los Altos in Hacienda Heights, California",650000
-smithmi01,1993-94,28,Did Not Play,,,,,,,,,,,,,,,,,"Los Altos in Hacienda Heights, California",
-smithmi01,1994-95,29,LAC,NBA,29,11.0,.470,.867,1.9,0.7,0.2,0.1,5.3,13.3,0.3,.046,-5.6,-0.3,,"Los Altos in Hacienda Heights, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false,"Los Altos in Hacienda Heights, California",-2.47,-0.06,smithmi01,1989-90,BOS,14.2,0.7,.055,-3.0,-0.2,,24,NBA,65,9.5,.476,.828,1.5,1.2,0.1,0.0,5.0,BOS,
+Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false,"Los Altos in Hacienda Heights, California",-3.09,-0.20,smithmi01,1990-91,BOS,14.3,0.3,.042,-4.6,-0.3,,25,NBA,47,8.3,.475,.815,1.2,0.9,0.1,0.0,4.6,BOS,525000
+Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false,"Los Altos in Hacienda Heights, California",,,smithmi01,1991-92,Did Not Play (other pro league—Italy),,,,,,,26,NBA,,,,,,,,,,Did Not Play (other pro league—Italy),625000
+Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false,"Los Altos in Hacienda Heights, California",,,smithmi01,1992-93,Did Not Play (other pro league—CBA),,,,,,,27,NBA,,,,,,,,,,Did Not Play (other pro league—CBA),650000
+Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false,"Los Altos in Hacienda Heights, California",,,smithmi01,1993-94,Did Not Play,,,,,,,28,,,,,,,,,,,Did Not Play,
+Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false,"Los Altos in Hacienda Heights, California",,,smithmi01,1994-95,LAC,13.3,0.3,.046,-5.6,-0.3,,29,NBA,29,11.0,.470,.867,1.9,0.7,0.2,0.1,5.3,LAC,

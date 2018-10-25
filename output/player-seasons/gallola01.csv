@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-gallola01,2014-15,23,New York Knicks,NBA,45,32.4,.399,.808,4.2,3.3,1.2,0.3,11.8,12.3,1.3,.043,-1.1,0.3,,235762,"Christian Life Academy in Baton Rouge, Louisiana"
-gallola01,2015-16,24,New York Knicks,NBA,82,24.8,.393,.754,3.5,2.5,0.9,0.3,7.6,11.7,3.3,.077,-0.4,0.8,,845059,"Christian Life Academy in Baton Rouge, Louisiana"
-gallola01,2016-17,25,Sacramento Kings,NBA,74,20.2,.380,.797,2.1,1.3,0.6,0.1,7.9,10.4,1.3,.040,-2.6,-0.2,,5200000,"Christian Life Academy in Baton Rouge, Louisiana"
-gallola01,2016-17,25,Sacramento Kings,NBA,55,20.4,.374,.769,2.2,1.2,0.7,0.1,8.6,11.2,1.2,.052,-1.8,0.1,,5200000,"Christian Life Academy in Baton Rouge, Louisiana"
-gallola01,2016-17,25,Sacramento Kings,NBA,19,19.7,.404,.917,1.8,1.5,0.3,0.1,6.0,8.0,0.1,.007,-5.0,-0.3,,5200000,"Christian Life Academy in Baton Rouge, Louisiana"
-gallola01,2017-18,26,Detroit Pistons,NBA,58,14.9,.371,.805,1.6,1.0,0.6,0.1,6.2,12.2,1.4,.080,-1.7,0.1,,6666667,"Christian Life Academy in Baton Rouge, Louisiana"
-gallola01,2018-19,27,DET,NBA,3,28.0,.333,1.000,2.0,1.3,0.3,0.0,5.3,6.1,0.1,.062,-3.1,0.0,,,"Christian Life Academy in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Langston Galloway,/players/g/gallola01.html,2015,2019,Saint Joseph's University,true,"Christian Life Academy in Baton Rouge, Louisiana",-1.20,1.02,gallola01,2014-15,NYK,12.3,1.3,.043,-1.1,0.3,,NBA,235762,23,45,32.4,.399,.808,4.2,3.3,1.2,0.3,11.8,NYK
+Langston Galloway,/players/g/gallola01.html,2015,2019,Saint Joseph's University,true,"Christian Life Academy in Baton Rouge, Louisiana",-1.22,1.41,gallola01,2015-16,NYK,11.7,3.3,.077,-0.4,0.8,,NBA,845059,24,82,24.8,.393,.754,3.5,2.5,0.9,0.3,7.6,NYK
+Langston Galloway,/players/g/gallola01.html,2015,2019,Saint Joseph's University,true,"Christian Life Academy in Baton Rouge, Louisiana",-1.60,0.68,gallola01,2016-17,TOT,10.4,1.3,.040,-2.6,-0.2,,NBA,5200000,25,74,20.2,.380,.797,2.1,1.3,0.6,0.1,7.9,"NOP,SAC"
+Langston Galloway,/players/g/gallola01.html,2015,2019,Saint Joseph's University,true,"Christian Life Academy in Baton Rouge, Louisiana",+0.45,1.60,gallola01,2017-18,DET,12.2,1.4,.080,-1.7,0.1,,NBA,6666667,26,58,14.9,.371,.805,1.6,1.0,0.6,0.1,6.2,DET
+Langston Galloway,/players/g/gallola01.html,2015,2019,Saint Joseph's University,true,"Christian Life Academy in Baton Rouge, Louisiana",,,gallola01,2018-19,DET,6.1,0.1,.062,-3.1,0.0,,NBA,,27,3,28.0,.333,1.000,2.0,1.3,0.3,0.0,5.3,DET

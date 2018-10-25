@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-roberto01,1977-78,22,ATL,NBA,63,14.7,.441,.698,1.1,1.6,1.2,0.1,5.9,10.6,0.5,.024,-3.1,-0.3,,
-roberto01,1978-79,23,GSW,NBA,12,6.2,.375,.667,0.8,0.3,0.7,0.0,3.0,10.7,0.0,-0.027,-4.5,0.0,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Robertson,/players/r/roberto01.html,1978,1979,West Virginia University,false,,-1.47,0.43,roberto01,1977-78,ATL,10.6,0.5,.024,-3.1,-0.3,,22,NBA,63,14.7,.441,.698,1.1,1.6,1.2,0.1,5.9,ATL
+Tony Robertson,/players/r/roberto01.html,1978,1979,West Virginia University,false,,+0.61,0.15,roberto01,1978-79,GSW,10.7,0.0,-0.027,-4.5,0.0,,23,NBA,12,6.2,.375,.667,0.8,0.3,0.7,0.0,3.0,GSW

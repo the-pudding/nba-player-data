@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mccalra01,2013-14,22,SAC,NBA,45,19.9,.377,.744,1.8,2.7,0.5,0.2,6.2,9.7,0.4,.020,-4.1,-0.5,,"Detroit County Day School in , Michigan",
-mccalra01,2014-15,23,Sacramento Kings,NBA,68,21.1,.438,.679,2.6,2.8,0.7,0.2,7.4,12.5,1.4,.045,-1.7,0.1,,"Detroit County Day School in , Michigan",816482
-mccalra01,2015-16,24,San Antonio Spurs,NBA,41,11.6,.377,.800,1.1,1.5,0.3,0.2,3.3,9.1,0.3,.034,-3.8,-0.2,,"Detroit County Day School in , Michigan",947276
-mccalra01,2015-16,24,San Antonio Spurs,NBA,31,8.3,.403,.900,1.0,1.1,0.2,0.1,2.2,10.3,0.5,.092,-2.0,0.0,,"Detroit County Day School in , Michigan",947276
-mccalra01,2015-16,24,San Antonio Spurs,NBA,10,21.9,.354,.600,1.6,2.7,0.7,0.3,6.9,7.7,-0.2,-0.033,-5.7,-0.2,,"Detroit County Day School in , Michigan",947276
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ray McCallum,/players/m/mccalra01.html,2014,2016,University of Detroit Mercy,false,"Detroit County Day School in , Michigan",-2.07,0.12,mccalra01,2013-14,SAC,9.7,0.4,.020,-4.1,-0.5,,22,NBA,45,19.9,.377,.744,1.8,2.7,0.5,0.2,6.2,SAC,
+Ray McCallum,/players/m/mccalra01.html,2014,2016,University of Detroit Mercy,false,"Detroit County Day School in , Michigan",-3.25,-0.93,mccalra01,2014-15,SAC,12.5,1.4,.045,-1.7,0.1,,23,NBA,68,21.1,.438,.679,2.6,2.8,0.7,0.2,7.4,SAC,816482
+Ray McCallum,/players/m/mccalra01.html,2014,2016,University of Detroit Mercy,false,"Detroit County Day School in , Michigan",-1.59,0.21,mccalra01,2015-16,TOT,9.1,0.3,.034,-3.8,-0.2,,24,NBA,41,11.6,.377,.800,1.1,1.5,0.3,0.2,3.3,"SAS,MEM",947276

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-douglch01,2008-09,22,New Jersey Nets,NBA,44,13.3,.460,.823,1.1,1.2,0.3,0.2,4.9,12.2,0.6,.046,-5.0,-0.4,,442411,"Cass Technical in Detroit, Michigan"
-douglch01,2009-10,23,New Jersey Nets,NBA,67,25.8,.445,.847,3.0,1.4,0.8,0.3,9.8,11.5,0.7,.020,-4.0,-0.9,,736000,"Cass Technical in Detroit, Michigan"
-douglch01,2010-11,24,Milwaukee Bucks,NBA,44,20.1,.429,.831,2.0,1.1,0.7,0.3,7.3,11.5,1.6,.088,-2.3,-0.1,,854389,"Cass Technical in Detroit, Michigan"
-douglch01,2011-12,25,Did Not Play,,,,,,,,,,,,,,,,,,"Cass Technical in Detroit, Michigan"
-douglch01,2012-13,26,Dallas Mavericks,NBA,6,10.5,.357,.700,0.8,0.7,0.3,0.0,2.8,8.3,0.1,.041,-5.0,0.0,,72892,"Cass Technical in Detroit, Michigan"
-douglch01,2013-14,27,CHA,NBA,49,20.7,.440,.805,2.4,1.0,0.6,0.3,6.9,12.2,2.4,.113,0.1,0.5,,,"Cass Technical in Detroit, Michigan"
-douglch01,2014-15,28,Boston Celtics,NBA,12,8.6,.238,1.000,1.0,0.3,0.1,0.0,1.6,3.3,0.0,.020,-6.1,-0.1,,915243,"Cass Technical in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",-0.98,0.52,douglch01,2008-09,NJN,12.2,0.6,.046,-5.0,-0.4,,NBA,442411,22,44,13.3,.460,.823,1.1,1.2,0.3,0.2,4.9,NJN
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",-3.12,-1.02,douglch01,2009-10,NJN,11.5,0.7,.020,-4.0,-0.9,,NBA,736000,23,67,25.8,.445,.847,3.0,1.4,0.8,0.3,9.8,NJN
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",-1.16,0.64,douglch01,2010-11,MIL,11.5,1.6,.088,-2.3,-0.1,,NBA,854389,24,44,20.1,.429,.831,2.0,1.1,0.7,0.3,7.3,MIL
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",,,douglch01,2011-12,Did Not Play,,,,,,,,,25,,,,,,,,,,Did Not Play
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",+0.00,0.10,douglch01,2012-13,DAL,8.3,0.1,.041,-5.0,0.0,,NBA,72892,26,6,10.5,.357,.700,0.8,0.7,0.3,0.0,2.8,DAL
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",-0.93,0.98,douglch01,2013-14,CHA,12.2,2.4,.113,0.1,0.5,,NBA,,27,49,20.7,.440,.805,2.4,1.0,0.6,0.3,6.9,CHA
+Chris Douglas-Roberts,/players/d/douglch01.html,2009,2015,University of Memphis,false,"Cass Technical in Detroit, Michigan",-3.17,-0.06,douglch01,2014-15,LAC,3.3,0.0,.020,-6.1,-0.1,,NBA,915243,28,12,8.6,.238,1.000,1.0,0.3,0.1,0.0,1.6,LAC

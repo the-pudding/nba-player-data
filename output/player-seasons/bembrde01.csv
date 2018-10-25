@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bembrde01,2016-17,22,Atlanta Hawks,NBA,38,9.8,.480,.375,1.6,0.7,0.2,0.1,2.7,8.8,0.3,.038,-4.3,-0.2,,1499760,"The Patrick School in Elizabeth, New Jersey"
-bembrde01,2017-18,23,Atlanta Hawks,NBA,26,17.5,.414,.576,2.8,1.9,0.8,0.5,5.2,7.6,-0.4,-0.040,-4.4,-0.3,,1567200,"The Patrick School in Elizabeth, New Jersey"
-bembrde01,2018-19,24,ATL,NBA,4,25.5,.412,.417,6.5,2.8,1.8,0.5,9.5,11.1,0.1,.026,-3.9,0.0,,,"The Patrick School in Elizabeth, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+DeAndre' Bembry,/players/b/bembrde01.html,2017,2019,Saint Joseph's University,true,"The Patrick School in Elizabeth, New Jersey",-1.60,0.17,bembrde01,2016-17,ATL,8.8,0.3,.038,-4.3,-0.2,,NBA,1499760,22,38,9.8,.480,.375,1.6,0.7,0.2,0.1,2.7,ATL
+DeAndre' Bembry,/players/b/bembrde01.html,2017,2019,Saint Joseph's University,true,"The Patrick School in Elizabeth, New Jersey",-1.93,0.10,bembrde01,2017-18,ATL,7.6,-0.4,-0.040,-4.4,-0.3,,NBA,1567200,23,26,17.5,.414,.576,2.8,1.9,0.8,0.5,5.2,ATL
+DeAndre' Bembry,/players/b/bembrde01.html,2017,2019,Saint Joseph's University,true,"The Patrick School in Elizabeth, New Jersey",,,bembrde01,2018-19,ATL,11.1,0.1,.026,-3.9,0.0,,NBA,,24,4,25.5,.412,.417,6.5,2.8,1.8,0.5,9.5,ATL

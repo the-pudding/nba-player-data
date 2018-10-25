@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cookan01,1990-91,23,Denver Nuggets,NBA,58,19.3,.417,.550,5.6,0.4,0.6,1.2,5.3,10.7,0.5,.022,-4.0,-0.6,,370000,"Van Nuys in Van Nuys, California"
-cookan01,1991-92,24,Denver Nuggets,NBA,22,5.2,.600,.667,1.5,0.1,0.2,0.2,1.5,15.8,0.4,.155,-1.8,0.0,,480000,"Van Nuys in Van Nuys, California"
-cookan01,1992-93,25,Denver Nuggets,NBA,,,,,,,,,,,,,,,,570000,"Van Nuys in Van Nuys, California"
-cookan01,1993-94,26,Milwaukee Bucks,NBA,25,8.1,.481,.400,2.2,0.2,0.1,0.6,2.5,11.3,0.1,.020,-6.7,-0.2,,650000,"Van Nuys in Van Nuys, California"
-cookan01,1993-94,26,Milwaukee Bucks,NBA,2,1.0,.000,,0.0,0.0,0.0,1.0,0.0,-7.9,0.0,-0.949,-12.6,0.0,,650000,"Van Nuys in Van Nuys, California"
-cookan01,1993-94,26,Milwaukee Bucks,NBA,23,8.7,.491,.400,2.4,0.2,0.1,0.5,2.7,11.5,0.1,.029,-6.7,-0.2,,650000,"Van Nuys in Van Nuys, California"
-cookan01,1994-95,27,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,"Van Nuys in Van Nuys, California"
-cookan01,1995-96,28,Portland Trail Blazers,NBA,11,5.5,.438,.250,1.1,0.2,0.0,0.1,1.4,7.6,0.1,.057,-5.2,0.0,,225000,"Van Nuys in Van Nuys, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Cook,/players/c/cookan01.html,1991,1996,University of Arizona,false,"Van Nuys in Van Nuys, California",-2.51,-0.14,cookan01,1990-91,DEN,10.7,0.5,.022,-4.0,-0.6,,NBA,370000,23,58,19.3,.417,.550,5.6,0.4,0.6,1.2,5.3,DEN
+Anthony Cook,/players/c/cookan01.html,1991,1996,University of Arizona,false,"Van Nuys in Van Nuys, California",+0.16,0.19,cookan01,1991-92,DEN,15.8,0.4,.155,-1.8,0.0,,NBA,480000,24,22,5.2,.600,.667,1.5,0.1,0.2,0.2,1.5,DEN
+Anthony Cook,/players/c/cookan01.html,1991,1996,University of Arizona,false,"Van Nuys in Van Nuys, California",,,cookan01,1992-93,Did Not Play (injury—knee),,,,,,,NBA,570000,25,,,,,,,,,,Did Not Play (injury—knee)
+Anthony Cook,/players/c/cookan01.html,1991,1996,University of Arizona,false,"Van Nuys in Van Nuys, California",-0.88,0.19,cookan01,1993-94,TOT,11.3,0.1,.020,-6.7,-0.2,,NBA,650000,26,25,8.1,.481,.400,2.2,0.2,0.1,0.6,2.5,"ORL,MIL"
+Anthony Cook,/players/c/cookan01.html,1991,1996,University of Arizona,false,"Van Nuys in Van Nuys, California",,,cookan01,1994-95,Did Not Play (other pro league—France),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—France)
+Anthony Cook,/players/c/cookan01.html,1991,1996,University of Arizona,false,"Van Nuys in Van Nuys, California",+0.43,0.11,cookan01,1995-96,POR,7.6,0.1,.057,-5.2,0.0,,NBA,225000,28,11,5.5,.438,.250,1.1,0.2,0.0,0.1,1.4,POR

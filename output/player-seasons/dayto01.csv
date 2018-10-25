@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dayto01,1992-93,23,Milwaukee Bucks,NBA,71,27.2,.432,.717,4.1,1.6,1.1,0.7,13.8,14.5,2.6,.065,-1.2,0.4,,1325000,"Hamilton in Memphis, Tennessee"
-dayto01,1993-94,24,Milwaukee Bucks,NBA,76,28.0,.415,.698,4.1,1.8,1.4,0.7,12.7,13.5,2.1,.047,-1.8,0.1,,1723000,"Hamilton in Memphis, Tennessee"
-dayto01,1994-95,25,Milwaukee Bucks,NBA,82,33.1,.424,.754,3.9,1.6,1.3,0.8,16.0,14.4,4.8,.085,0.0,1.4,,2120000,"Hamilton in Memphis, Tennessee"
-dayto01,1995-96,26,Boston Celtics,NBA,79,22.9,.366,.780,2.8,1.4,1.0,0.6,11.7,13.5,1.9,.049,-2.1,0.0,,2518000,"Hamilton in Memphis, Tennessee"
-dayto01,1995-96,26,Boston Celtics,NBA,8,21.4,.310,.923,2.8,0.6,0.5,0.4,9.1,8.0,-0.1,-0.028,-7.6,-0.2,,2518000,"Hamilton in Memphis, Tennessee"
-dayto01,1995-96,26,Boston Celtics,NBA,71,23.0,.371,.766,2.8,1.4,1.1,0.7,12.0,14.1,2.0,.057,-1.5,0.2,,2518000,"Hamilton in Memphis, Tennessee"
-dayto01,1996-97,27,Boston Celtics,NBA,81,28.1,.398,.773,4.1,1.4,1.3,0.6,14.5,15.5,3.2,.068,-1.5,0.3,,2915000,"Hamilton in Memphis, Tennessee"
-dayto01,1997-98,28,Miami Heat,NBA,5,13.8,.355,.667,1.2,1.4,1.4,0.0,6.0,14.8,0.1,.102,1.3,0.1,,272250,"Hamilton in Memphis, Tennessee"
-dayto01,1998-99,29,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Hamilton in Memphis, Tennessee"
-dayto01,1999-00,30,Phoenix Suns,NBA,58,16.2,.394,.667,2.2,1.1,0.8,0.4,6.8,13.2,2.5,.125,0.5,0.6,,510000,"Hamilton in Memphis, Tennessee"
-dayto01,2000-01,31,Minnesota Timberwolves,NBA,31,11.1,.373,.783,1.2,0.9,0.3,0.2,4.3,10.1,0.3,.048,-2.7,-0.1,,736000,"Hamilton in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",-1.32,1.27,dayto01,1992-93,MIL,14.5,2.6,.065,-1.2,0.4,,NBA,1325000,23,71,27.2,.432,.717,4.1,1.6,1.1,0.7,13.8,MIL
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",-1.56,1.01,dayto01,1993-94,MIL,13.5,2.1,.047,-1.8,0.1,,NBA,1723000,24,76,28.0,.415,.698,4.1,1.8,1.4,0.7,12.7,MIL
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",-0.06,4.08,dayto01,1994-95,MIL,14.4,4.8,.085,0.0,1.4,,NBA,2120000,25,82,33.1,.424,.754,3.9,1.6,1.3,0.8,16.0,MIL
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",-1.32,1.17,dayto01,1995-96,TOT,13.5,1.9,.049,-2.1,0.0,,NBA,2518000,26,79,22.9,.366,.780,2.8,1.4,1.0,0.6,11.7,"MIL,BOS"
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",-1.21,1.65,dayto01,1996-97,BOS,15.5,3.2,.068,-1.5,0.3,,NBA,2915000,27,81,28.1,.398,.773,4.1,1.4,1.3,0.6,14.5,BOS
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",+0.43,0.13,dayto01,1997-98,MIA,14.8,0.1,.102,1.3,0.1,,NBA,272250,28,5,13.8,.355,.667,1.2,1.4,1.4,0.0,6.0,MIA
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",,,dayto01,1998-99,Did Not Play (other pro league—CBA),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—CBA)
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",+0.53,2.00,dayto01,1999-00,PHO,13.2,2.5,.125,0.5,0.6,,NBA,510000,30,58,16.2,.394,.667,2.2,1.1,0.8,0.4,6.8,PHO
+Todd Day,/players/d/dayto01.html,1993,2001,University of Arkansas,false,"Hamilton in Memphis, Tennessee",-2.09,0.03,dayto01,2000-01,MIN,10.1,0.3,.048,-2.7,-0.1,,NBA,736000,31,31,11.1,.373,.783,1.2,0.9,0.3,0.2,4.3,MIN

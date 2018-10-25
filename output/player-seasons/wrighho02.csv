@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-wrighho02,1990-91,23,"ATL,ORL,DAL",NBA,15,10.9,.404,.667,3.0,0.2,0.3,0.3,3.6,8.7,0.1,.023,-7.1,-0.2,,"Patrick Henry in San Diego, California",
-wrighho02,1991-92,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Patrick Henry in San Diego, California",
-wrighho02,1992-93,25,Orlando Magic,NBA,4,2.5,.800,.000,0.5,0.0,0.0,0.0,2.0,28.7,0.0,.182,-5.1,0.0,,"Patrick Henry in San Diego, California",5000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Howard Wright,/players/w/wrighho02.html,1991,1993,Stanford University,false,"Patrick Henry in San Diego, California",-0.43,0.20,wrighho02,1990-91,TOT,8.7,0.1,.023,-7.1,-0.2,,23,NBA,15,10.9,.404,.667,3.0,0.2,0.3,0.3,3.6,"ATL,ORL,DAL",
+Howard Wright,/players/w/wrighho02.html,1991,1993,Stanford University,false,"Patrick Henry in San Diego, California",,,wrighho02,1991-92,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Howard Wright,/players/w/wrighho02.html,1991,1993,Stanford University,false,"Patrick Henry in San Diego, California",+0.16,0.02,wrighho02,1992-93,ORL,28.7,0.0,.182,-5.1,0.0,,25,NBA,4,2.5,.800,.000,0.5,0.0,0.0,0.0,2.0,ORL,5000

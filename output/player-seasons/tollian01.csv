@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-tollian01,2008-09,23,San Antonio Spurs,NBA,19,10.9,.292,.500,2.2,0.9,0.3,0.1,2.7,7.6,0.0,.010,-3.2,-0.1,,187248,"Kickapoo in Springfield, Missouri"
-tollian01,2009-10,24,Golden State Warriors,NBA,46,31.0,.430,.769,7.0,1.9,0.7,0.7,11.7,13.6,2.5,.084,-0.5,0.6,,359546,"Kickapoo in Springfield, Missouri"
-tollian01,2009-10,24,Golden State Warriors,NBA,2,2.0,.000,,0.5,0.0,0.0,0.0,0.0,-11.5,0.0,-0.217,-18.7,0.0,,359546,"Kickapoo in Springfield, Missouri"
-tollian01,2009-10,24,Golden State Warriors,NBA,44,32.3,.431,.769,7.3,2.0,0.7,0.8,12.3,13.7,2.5,.085,-0.4,0.6,,359546,"Kickapoo in Springfield, Missouri"
-tollian01,2010-11,25,Minnesota Timberwolves,NBA,65,21.0,.450,.802,4.5,1.3,0.4,0.4,6.7,13.3,3.3,.115,0.4,0.8,,2200000,"Kickapoo in Springfield, Missouri"
-tollian01,2011-12,26,Minnesota Timberwolves,NBA,51,17.3,.390,.745,3.0,0.4,0.4,0.4,4.1,8.3,0.9,.049,-1.5,0.1,,2050000,"Kickapoo in Springfield, Missouri"
-tollian01,2012-13,27,Atlanta Hawks,NBA,62,15.5,.380,.863,2.5,0.5,0.2,0.2,4.1,8.4,1.2,.059,-3.3,-0.3,,915852,"Kickapoo in Springfield, Missouri"
-tollian01,2013-14,28,Charlotte Bobcats,NBA,64,20.3,.420,.805,2.6,0.7,0.3,0.2,6.1,11.0,3.2,.117,0.3,0.8,,1027424,"Kickapoo in Springfield, Missouri"
-tollian01,2014-15,29,Detroit Pistons,NBA,76,18.8,.410,.783,3.1,0.8,0.3,0.2,6.3,11.1,2.7,.092,-0.6,0.5,,3000000,"Kickapoo in Springfield, Missouri"
-tollian01,2014-15,29,Detroit Pistons,NBA,24,11.3,.351,.667,1.8,0.4,0.2,0.0,3.3,7.8,0.2,.040,-3.9,-0.1,,3000000,"Kickapoo in Springfield, Missouri"
-tollian01,2014-15,29,Detroit Pistons,NBA,52,22.3,.423,.794,3.7,0.9,0.4,0.3,7.7,11.8,2.5,.104,0.1,0.6,,3000000,"Kickapoo in Springfield, Missouri"
-tollian01,2015-16,30,Detroit Pistons,NBA,72,18.6,.386,.617,3.2,0.7,0.4,0.2,5.3,10.2,2.8,.100,0.0,0.7,,3000000,"Kickapoo in Springfield, Missouri"
-tollian01,2016-17,31,Sacramento Kings,NBA,65,22.7,.442,.744,3.6,1.2,0.5,0.3,7.1,11.1,2.3,.075,-0.4,0.6,,8000000,"Kickapoo in Springfield, Missouri"
-tollian01,2017-18,32,Detroit Pistons,NBA,79,22.2,.464,.797,3.1,1.1,0.4,0.3,8.9,13.9,5.3,.146,1.5,1.5,,3290000,"Kickapoo in Springfield, Missouri"
-tollian01,2018-19,33,MIN,NBA,5,19.8,.429,.667,2.4,0.4,0.6,0.6,6.2,10.1,0.2,.081,0.0,0.0,,,"Kickapoo in Springfield, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-0.18,0.29,tollian01,2008-09,SAS,7.6,0.0,.010,-3.2,-0.1,,NBA,187248,23,19,10.9,.292,.500,2.2,0.9,0.3,0.1,2.7,SAS
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-0.58,1.66,tollian01,2009-10,TOT,13.6,2.5,.084,-0.5,0.6,,NBA,359546,24,46,31.0,.430,.769,7.0,1.9,0.7,0.7,11.7,"POR,GSW"
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-0.57,1.57,tollian01,2010-11,MIN,13.3,3.3,.115,0.4,0.8,,NBA,2200000,25,65,21.0,.450,.802,4.5,1.3,0.4,0.4,6.7,MIN
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-1.91,0.19,tollian01,2011-12,MIN,8.3,0.9,.049,-1.5,0.1,,NBA,2050000,26,51,17.3,.390,.745,3.0,0.4,0.4,0.4,4.1,MIN
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-1.90,0.19,tollian01,2012-13,ATL,8.4,1.2,.059,-3.3,-0.3,,NBA,915852,27,62,15.5,.380,.863,2.5,0.5,0.2,0.2,4.1,ATL
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-0.16,1.89,tollian01,2013-14,CHA,11.0,3.2,.117,0.3,0.8,,NBA,1027424,28,64,20.3,.420,.805,2.6,0.7,0.3,0.2,6.1,CHA
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",+0.19,2.40,tollian01,2014-15,TOT,11.1,2.7,.092,-0.6,0.5,,NBA,3000000,29,76,18.8,.410,.783,3.1,0.8,0.3,0.2,6.3,"PHO,DET"
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-0.81,1.33,tollian01,2015-16,DET,10.2,2.8,.100,0.0,0.7,,NBA,3000000,30,72,18.6,.386,.617,3.2,0.7,0.4,0.2,5.3,DET
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",-1.36,0.95,tollian01,2016-17,SAC,11.1,2.3,.075,-0.4,0.6,,NBA,8000000,31,65,22.7,.442,.744,3.6,1.2,0.5,0.3,7.1,SAC
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",+0.38,3.16,tollian01,2017-18,DET,13.9,5.3,.146,1.5,1.5,,NBA,3290000,32,79,22.2,.464,.797,3.1,1.1,0.4,0.3,8.9,DET
+Anthony Tolliver,/players/t/tollian01.html,2009,2019,Creighton University,true,"Kickapoo in Springfield, Missouri",,,tollian01,2018-19,MIN,10.1,0.2,.081,0.0,0.0,,NBA,,33,5,19.8,.429,.667,2.4,0.4,0.6,0.6,6.2,MIN

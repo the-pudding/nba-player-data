@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownmy01,1991-92,22,Minnesota Timberwolves,NBA,4,5.8,.667,,0.8,1.5,0.3,0.0,2.3,14.7,0.0,.032,-5.0,0.0,,200000,"Sto-Rox in McKees Rocks, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Myron Brown,/players/b/brownmy01.html,1992,1992,Slippery Rock University of Pennsylvania,false,"Sto-Rox in McKees Rocks, Pennsylvania",-0.11,0.03,brownmy01,1991-92,MIN,14.7,0.0,.032,-5.0,0.0,,NBA,200000,22,4,5.8,.667,,0.8,1.5,0.3,0.0,2.3,MIN

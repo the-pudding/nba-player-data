@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-edwarsh01,2013-14,26,CLE,NBA,2,6.0,.333,,1.0,0.0,0.0,0.0,1.0,-1.0,0.0,-0.141,-15.2,0.0,,"Mountain Pointe in Phoenix, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shane Edwards,/players/e/edwarsh01.html,2014,2014,University of Arkansas at Little Rock,false,"Mountain Pointe in Phoenix, Arizona",+0.39,0.02,edwarsh01,2013-14,CLE,-1.0,0.0,-0.141,-15.2,0.0,,26,NBA,2,6.0,.333,,1.0,0.0,0.0,0.0,1.0,CLE

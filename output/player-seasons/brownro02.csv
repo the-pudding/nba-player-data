@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-brownro02,1976-77,26,DET,NBA,43,7.5,.375,.692,2.1,0.3,0.3,0.4,1.4,8.7,0.2,.029,-2.6,-0.1,,"Englewood in Chicago, Illinois"
-brownro02,1977-78,27,Did Not Play,,,,,,,,,,,,,,,,,"Englewood in Chicago, Illinois"
-brownro02,1978-79,28,Did Not Play,,,,,,,,,,,,,,,,,"Englewood in Chicago, Illinois"
-brownro02,1979-80,29,CHI,NBA,4,9.3,.333,,2.5,0.3,0.0,0.8,0.5,7.0,0.1,.069,-3.4,0.0,,"Englewood in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roger Brown,/players/b/brownro02.html,1973,1980,University of Kansas,false,"Englewood in Chicago, Illinois",-0.99,0.26,brownro02,1976-77,DET,8.7,0.2,.029,-2.6,-0.1,,26,NBA,43,7.5,.375,.692,2.1,0.3,0.3,0.4,1.4,DET
+Roger Brown,/players/b/brownro02.html,1973,1980,University of Kansas,false,"Englewood in Chicago, Illinois",,,brownro02,1977-78,Did Not Play,,,,,,,27,,,,,,,,,,,Did Not Play
+Roger Brown,/players/b/brownro02.html,1973,1980,University of Kansas,false,"Englewood in Chicago, Illinois",,,brownro02,1978-79,Did Not Play,,,,,,,28,,,,,,,,,,,Did Not Play
+Roger Brown,/players/b/brownro02.html,1973,1980,University of Kansas,false,"Englewood in Chicago, Illinois",+0.48,0.07,brownro02,1979-80,CHI,7.0,0.1,.069,-3.4,0.0,,29,NBA,4,9.3,.333,,2.5,0.3,0.0,0.8,0.5,CHI

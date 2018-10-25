@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pankoan01,2000-01,23,ATL,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.017,-6.4,0.0,,"Bishop McDevitt in Harrisburg, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andy Panko,/players/p/pankoan01.html,2001,2001,Lebanon Valley College,false,"Bishop McDevitt in Harrisburg, Pennsylvania",+0.40,0.00,pankoan01,2000-01,ATL,0.0,0.0,-0.017,-6.4,0.0,,23,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,ATL

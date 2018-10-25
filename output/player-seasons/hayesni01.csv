@@ -1,5 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hayesni01,2017-18,23,Toronto Raptors,NBA,9,13.6,.333,.333,2.4,0.7,0.2,0.3,3.0,6.4,-0.1,-0.034,-6.4,-0.1,,92160,"Whitmer in Toledo, Ohio"
-hayesni01,2017-18,23,Toronto Raptors,NBA,2,5.5,.333,1.000,0.0,1.0,0.0,0.0,1.5,9.8,0.0,.069,-12.8,0.0,,92160,"Whitmer in Toledo, Ohio"
-hayesni01,2017-18,23,Toronto Raptors,NBA,2,3.0,1.000,,0.0,0.0,0.0,0.0,3.0,34.9,0.0,.018,8.0,0.0,,92160,"Whitmer in Toledo, Ohio"
-hayesni01,2017-18,23,Toronto Raptors,NBA,5,21.0,.286,.000,4.4,0.8,0.4,0.6,3.6,4.4,-0.1,-0.048,-6.6,-0.1,,92160,"Whitmer in Toledo, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nigel Hayes,/players/h/hayesni01.html,2018,2018,University of Wisconsin,true,"Whitmer in Toledo, Ohio",-0.38,0.16,hayesni01,2017-18,TOT,6.4,-0.1,-0.034,-6.4,-0.1,,NBA,92160,23,9,13.6,.333,.333,2.4,0.7,0.2,0.3,3.0,"LAL,TOR,SAC"

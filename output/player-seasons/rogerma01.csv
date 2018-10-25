@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-rogerma01,1976-77,23,GSW,NBA,26,6.8,.371,.933,0.4,0.4,0.3,0.1,3.8,9.8,-0.2,-0.043,-9.9,-0.4,,"Sumner in St. Louis, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marshall Rogers,/players/r/rogerma01.html,1977,1977,University of Texas-Pan American,false,"Sumner in St. Louis, Missouri",-2.08,0.00,rogerma01,1976-77,GSW,9.8,-0.2,-0.043,-9.9,-0.4,,23,NBA,26,6.8,.371,.933,0.4,0.4,0.3,0.1,3.8,GSW

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-harrito01,1990-91,23,PHI,NBA,6,6.8,.250,.500,0.2,0.0,0.2,0.0,1.7,-5.0,-0.2,-0.248,-17.4,-0.2,,"Roosevelt in East Chicago, Indiana",
-harrito01,1991-92,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Roosevelt in East Chicago, Indiana",
-harrito01,1992-93,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Roosevelt in East Chicago, Indiana",
-harrito01,1993-94,26,BOS,NBA,5,17.6,.290,.920,2.0,1.6,0.8,0.0,8.8,14.9,0.2,.106,-2.4,0.0,,"Roosevelt in East Chicago, Indiana",
-harrito01,1994-95,27,Boston Celtics,NBA,3,6.0,.375,.889,0.0,0.0,0.0,0.0,4.7,17.6,0.1,.172,-10.4,0.0,,"Roosevelt in East Chicago, Indiana",150000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Tony Harris,/players/h/harrito01.html,1991,1995,"Lamar University, University of New Orleans",false,"Roosevelt in East Chicago, Indiana",-0.32,0.05,harrito01,1990-91,PHI,-5.0,-0.2,-0.248,-17.4,-0.2,,23,NBA,6,6.8,.250,.500,0.2,0.0,0.2,0.0,1.7,PHI,
+Tony Harris,/players/h/harrito01.html,1991,1995,"Lamar University, University of New Orleans",false,"Roosevelt in East Chicago, Indiana",,,harrito01,1991-92,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Tony Harris,/players/h/harrito01.html,1991,1995,"Lamar University, University of New Orleans",false,"Roosevelt in East Chicago, Indiana",,,harrito01,1992-93,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Tony Harris,/players/h/harrito01.html,1991,1995,"Lamar University, University of New Orleans",false,"Roosevelt in East Chicago, Indiana",-0.08,0.13,harrito01,1993-94,BOS,14.9,0.2,.106,-2.4,0.0,,26,NBA,5,17.6,.290,.920,2.0,1.6,0.8,0.0,8.8,BOS,
+Tony Harris,/players/h/harrito01.html,1991,1995,"Lamar University, University of New Orleans",false,"Roosevelt in East Chicago, Indiana",+0.32,0.03,harrito01,1994-95,BOS,17.6,0.1,.172,-10.4,0.0,,27,NBA,3,6.0,.375,.889,0.0,0.0,0.0,0.0,4.7,BOS,150000

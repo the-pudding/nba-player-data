@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-parsoch01,2011-12,23,Houston Rockets,NBA,63,28.6,.452,.551,4.8,2.1,1.2,0.5,9.5,13.3,3.4,.090,1.7,1.7,,850000,"Lake Howell in Winter Park, Florida"
-parsoch01,2012-13,24,Houston Rockets,NBA,76,36.3,.486,.729,5.3,3.5,1.0,0.4,15.5,15.3,7.0,.121,2.7,3.3,,888250,"Lake Howell in Winter Park, Florida"
-parsoch01,2013-14,25,Houston Rockets,NBA,74,37.6,.472,.742,5.5,4.0,1.2,0.4,16.6,15.9,7.6,.131,2.6,3.2,,926500,"Lake Howell in Winter Park, Florida"
-parsoch01,2014-15,26,Dallas Mavericks,NBA,66,33.1,.462,.720,4.9,2.4,1.0,0.3,15.7,16.3,5.5,.121,2.5,2.5,,14700000,"Lake Howell in Winter Park, Florida"
-parsoch01,2015-16,27,Dallas Mavericks,NBA,61,29.5,.492,.684,4.7,2.8,0.8,0.3,13.7,16.2,4.3,.114,1.9,1.8,,15361500,"Lake Howell in Winter Park, Florida"
-parsoch01,2016-17,28,Memphis Grizzlies,NBA,34,19.9,.338,.814,2.5,1.6,0.6,0.1,6.2,7.7,0.2,.015,-4.1,-0.3,,22116750,"Lake Howell in Winter Park, Florida"
-parsoch01,2017-18,29,Memphis Grizzlies,NBA,36,19.2,.462,.630,2.5,1.9,0.5,0.3,7.9,13.6,1.1,.077,-1.2,0.1,,23112004,"Lake Howell in Winter Park, Florida"
-parsoch01,2018-19,30,MEM,NBA,3,15.3,.412,,1.3,0.7,0.3,0.3,5.7,7.1,0.0,.013,-3.3,0.0,,,"Lake Howell in Winter Park, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",+1.27,4.37,parsoch01,2011-12,HOU,13.3,3.4,.090,1.7,1.7,,NBA,850000,23,63,28.6,.452,.551,4.8,2.1,1.2,0.5,9.5,HOU
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",+0.88,6.42,parsoch01,2012-13,HOU,15.3,7.0,.121,2.7,3.3,,NBA,888250,24,76,36.3,.486,.729,5.3,3.5,1.0,0.4,15.5,HOU
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",+1.83,8.37,parsoch01,2013-14,HOU,15.9,7.6,.131,2.6,3.2,,NBA,926500,25,74,37.6,.472,.742,5.5,4.0,1.2,0.4,16.6,HOU
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",+1.17,5.19,parsoch01,2014-15,DAL,16.3,5.5,.121,2.5,2.5,,NBA,14700000,26,66,33.1,.462,.720,4.9,2.4,1.0,0.3,15.7,DAL
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",+0.18,2.99,parsoch01,2015-16,DAL,16.2,4.3,.114,1.9,1.8,,NBA,15361500,27,61,29.5,.492,.684,4.7,2.8,0.8,0.3,13.7,DAL
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",-1.67,0.29,parsoch01,2016-17,MEM,7.7,0.2,.015,-4.1,-0.3,,NBA,22116750,28,34,19.9,.338,.814,2.5,1.6,0.6,0.1,6.2,MEM
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",-1.22,0.51,parsoch01,2017-18,MEM,13.6,1.1,.077,-1.2,0.1,,NBA,23112004,29,36,19.2,.462,.630,2.5,1.9,0.5,0.3,7.9,MEM
+Chandler Parsons,/players/p/parsoch01.html,2012,2019,University of Florida,true,"Lake Howell in Winter Park, Florida",,,parsoch01,2018-19,MEM,7.1,0.0,.013,-3.3,0.0,,NBA,,30,3,15.3,.412,,1.3,0.7,0.3,0.3,5.7,MEM

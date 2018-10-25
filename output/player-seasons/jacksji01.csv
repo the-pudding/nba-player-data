@@ -1,25 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-jacksji01,1992-93,22,DAL,NBA,28,33.5,.395,.739,4.4,4.7,1.4,0.4,16.3,11.0,-1.6,-0.081,-3.3,-0.3,,"Macomber-Whitney in Toledo, Ohio",
-jacksji01,1993-94,23,Dallas Mavericks,NBA,82,37.4,.445,.821,4.7,4.6,1.1,0.3,19.2,14.4,0.6,.009,-1.9,0.0,,"Macomber-Whitney in Toledo, Ohio",2000000
-jacksji01,1994-95,24,Dallas Mavericks,NBA,51,38.9,.472,.805,5.1,3.7,0.5,0.2,25.7,18.9,4.9,.118,0.4,1.2,,"Macomber-Whitney in Toledo, Ohio",2700000
-jacksji01,1995-96,25,Dallas Mavericks,NBA,82,34.4,.435,.825,5.0,2.9,0.6,0.3,19.6,16.6,5.4,.092,-1.1,0.6,,"Macomber-Whitney in Toledo, Ohio",3200000
-jacksji01,1996-97,26,Dallas Mavericks,NBA,77,36.8,.431,.813,5.3,4.1,1.1,0.4,15.9,15.1,4.4,.075,0.5,1.8,,"Macomber-Whitney in Toledo, Ohio",3900000
-jacksji01,1996-97,26,Dallas Mavericks,NBA,46,36.4,.442,.787,4.9,3.4,1.2,0.3,15.5,15.2,2.8,.081,0.9,1.2,,"Macomber-Whitney in Toledo, Ohio",3900000
-jacksji01,1996-97,26,Dallas Mavericks,NBA,31,37.3,.417,.852,5.9,5.2,0.9,0.5,16.5,15.0,1.6,.066,0.0,0.6,,"Macomber-Whitney in Toledo, Ohio",3900000
-jacksji01,1997-98,27,Philadelphia 76ers,NBA,79,38.6,.430,.812,5.1,4.8,1.0,0.1,15.7,13.2,2.5,.039,-0.6,1.1,,"Macomber-Whitney in Toledo, Ohio",4600000
-jacksji01,1997-98,27,Philadelphia 76ers,NBA,48,37.3,.460,.818,4.7,4.6,0.9,0.1,13.7,13.1,2.3,.062,-0.4,0.7,,"Macomber-Whitney in Toledo, Ohio",4600000
-jacksji01,1997-98,27,Philadelphia 76ers,NBA,31,40.6,.402,.805,5.6,5.1,1.2,0.1,18.9,13.2,0.2,.007,-0.9,0.4,,"Macomber-Whitney in Toledo, Ohio",4600000
-jacksji01,1998-99,28,Portland Trail Blazers,NBA,49,24.0,.411,.842,3.2,2.6,0.9,0.1,8.4,13.1,2.5,.101,0.1,0.6,,"Macomber-Whitney in Toledo, Ohio",1750000
-jacksji01,1999-00,29,Atlanta Hawks,NBA,79,35.0,.411,.877,5.0,2.9,0.7,0.1,16.7,14.3,2.8,.049,-0.9,0.8,,"Macomber-Whitney in Toledo, Ohio",1925000
-jacksji01,2000-01,30,Atlanta Hawks,NBA,56,30.2,.378,.822,4.0,2.9,0.9,0.2,11.5,10.7,0.1,.003,-3.0,-0.4,,"Macomber-Whitney in Toledo, Ohio",2330000
-jacksji01,2000-01,30,Atlanta Hawks,NBA,17,32.4,.355,.859,4.6,2.9,1.1,0.2,14.3,12.7,0.4,.031,-2.3,0.0,,"Macomber-Whitney in Toledo, Ohio",2330000
-jacksji01,2000-01,30,Atlanta Hawks,NBA,39,29.2,.390,.786,3.7,2.9,0.9,0.2,10.3,9.7,-0.2,-0.010,-3.3,-0.4,,"Macomber-Whitney in Toledo, Ohio",2330000
-jacksji01,2001-02,31,Miami Heat,NBA,55,33.2,.442,.862,5.3,2.5,0.8,0.3,10.7,11.3,2.8,.073,-0.4,0.7,,"Macomber-Whitney in Toledo, Ohio",789170
-jacksji01,2002-03,32,Sacramento Kings,NBA,63,20.8,.442,.855,4.2,1.9,0.5,0.1,7.7,12.4,2.5,.090,-1.3,0.2,,"Macomber-Whitney in Toledo, Ohio",791341
-jacksji01,2003-04,33,Houston Rockets,NBA,80,39.0,.424,.843,6.1,2.8,1.1,0.3,12.9,12.2,6.6,.102,1.6,2.8,,"Macomber-Whitney in Toledo, Ohio",2200000
-jacksji01,2004-05,34,Houston Rockets,NBA,64,31.0,.426,.931,4.2,2.9,0.5,0.1,10.5,10.9,3.2,.077,0.3,1.1,,"Macomber-Whitney in Toledo, Ohio",2420000
-jacksji01,2004-05,34,Houston Rockets,NBA,24,41.3,.417,.909,4.8,3.6,1.0,0.0,13.3,10.5,1.5,.075,0.9,0.7,,"Macomber-Whitney in Toledo, Ohio",2420000
-jacksji01,2004-05,34,Houston Rockets,NBA,40,24.9,.435,.960,3.9,2.4,0.3,0.1,8.8,11.4,1.6,.079,-0.3,0.4,,"Macomber-Whitney in Toledo, Ohio",2420000
-jacksji01,2005-06,35,Phoenix Suns,NBA,40,12.8,.294,.692,1.9,0.9,0.3,0.2,3.0,3.0,-0.8,-0.078,-7.0,-0.6,,"Macomber-Whitney in Toledo, Ohio",2640000
-jacksji01,2005-06,35,Phoenix Suns,NBA,27,15.6,.295,.692,2.4,1.1,0.4,0.2,3.7,3.2,-0.7,-0.075,-6.2,-0.4,,"Macomber-Whitney in Toledo, Ohio",2640000
-jacksji01,2005-06,35,Phoenix Suns,NBA,13,7.1,.290,,0.9,0.3,0.2,0.0,1.7,2.1,-0.2,-0.089,-10.7,-0.2,,"Macomber-Whitney in Toledo, Ohio",2640000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-3.74,-0.91,jacksji01,1992-93,DAL,11.0,-1.6,-0.081,-3.3,-0.3,,22,NBA,28,33.5,.395,.739,4.4,4.7,1.4,0.4,16.3,DAL,
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-3.07,-1.64,jacksji01,1993-94,DAL,14.4,0.6,.009,-1.9,0.0,,23,NBA,82,37.4,.445,.821,4.7,4.6,1.1,0.3,19.2,DAL,2000000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-0.71,2.13,jacksji01,1994-95,DAL,18.9,4.9,.118,0.4,1.2,,24,NBA,51,38.9,.472,.805,5.1,3.7,0.5,0.2,25.7,DAL,2700000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-1.21,2.08,jacksji01,1995-96,DAL,16.6,5.4,.092,-1.1,0.6,,25,NBA,82,34.4,.435,.825,5.0,2.9,0.6,0.3,19.6,DAL,3200000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-1.33,1.81,jacksji01,1996-97,TOT,15.1,4.4,.075,0.5,1.8,,26,NBA,77,36.8,.431,.813,5.3,4.1,1.1,0.4,15.9,"DAL,NJN",3900000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-2.68,-1.01,jacksji01,1997-98,TOT,13.2,2.5,.039,-0.6,1.1,,27,NBA,79,38.6,.430,.812,5.1,4.8,1.0,0.1,15.7,"PHI,GSW",4600000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-0.15,2.06,jacksji01,1998-99,POR,13.1,2.5,.101,0.1,0.6,,28,NBA,49,24.0,.411,.842,3.2,2.6,0.9,0.1,8.4,POR,1750000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-1.90,0.66,jacksji01,1999-00,ATL,14.3,2.8,.049,-0.9,0.8,,29,NBA,79,35.0,.411,.877,5.0,2.9,0.7,0.1,16.7,ATL,1925000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-2.67,-0.64,jacksji01,2000-01,TOT,10.7,0.1,.003,-3.0,-0.4,,30,NBA,56,30.2,.378,.822,4.0,2.9,0.9,0.2,11.5,"ATL,CLE",2330000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-1.55,0.79,jacksji01,2001-02,MIA,11.3,2.8,.073,-0.4,0.7,,31,NBA,55,33.2,.442,.862,5.3,2.5,0.8,0.3,10.7,MIA,789170
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-2.88,-0.77,jacksji01,2002-03,SAC,12.4,2.5,.090,-1.3,0.2,,32,NBA,63,20.8,.442,.855,4.2,1.9,0.5,0.1,7.7,SAC,791341
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",+0.47,6.32,jacksji01,2003-04,HOU,12.2,6.6,.102,1.6,2.8,,33,NBA,80,39.0,.424,.843,6.1,2.8,1.1,0.3,12.9,HOU,2200000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-3.47,-1.93,jacksji01,2004-05,TOT,10.9,3.2,.077,0.3,1.1,,34,NBA,64,31.0,.426,.931,4.2,2.9,0.5,0.1,10.5,"HOU,PHO",2420000
+Jim Jackson,/players/j/jacksji01.html,1993,2006,Ohio State University,false,"Macomber-Whitney in Toledo, Ohio",-4.18,-0.69,jacksji01,2005-06,TOT,3.0,-0.8,-0.078,-7.0,-0.6,,35,NBA,40,12.8,.294,.692,1.9,0.9,0.3,0.2,3.0,"PHO,LAL",2640000

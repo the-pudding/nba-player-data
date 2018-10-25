@@ -1,20 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dunlemi02,2002-03,22,Golden State Warriors,NBA,82,15.9,.403,.780,2.6,1.3,0.6,0.2,5.7,12.5,1.5,.055,-1.3,0.2,,3100080,"Jesuit in Portland, Oregon"
-dunlemi02,2003-04,23,Golden State Warriors,NBA,75,31.1,.449,.741,5.9,2.9,0.9,0.2,11.7,15.1,5.2,.107,1.8,2.2,,3332520,"Jesuit in Portland, Oregon"
-dunlemi02,2004-05,24,Golden State Warriors,NBA,79,32.5,.451,.779,5.5,2.6,1.0,0.3,13.4,14.5,4.9,.091,0.3,1.5,,3565080,"Jesuit in Portland, Oregon"
-dunlemi02,2005-06,25,Golden State Warriors,NBA,81,31.8,.406,.778,4.9,2.9,0.7,0.4,11.5,12.5,4.2,.077,-0.3,1.1,,4506261,"Jesuit in Portland, Oregon"
-dunlemi02,2006-07,26,Indiana Pacers,NBA,82,31.5,.452,.784,5.3,2.8,1.0,0.3,12.8,14.1,5.1,.095,0.2,1.4,,7438016,"Jesuit in Portland, Oregon"
-dunlemi02,2006-07,26,Indiana Pacers,NBA,39,26.9,.449,.772,4.8,3.0,1.0,0.3,11.4,14.6,1.9,.086,-0.3,0.4,,7438016,"Jesuit in Portland, Oregon"
-dunlemi02,2006-07,26,Indiana Pacers,NBA,43,35.6,.454,.792,5.7,2.6,1.1,0.2,14.0,13.8,3.2,.102,0.6,1.0,,7438016,"Jesuit in Portland, Oregon"
-dunlemi02,2007-08,27,Indiana Pacers,NBA,82,36.0,.476,.834,5.2,3.5,1.0,0.4,19.1,17.3,8.5,.138,2.1,3.1,,8219008,"Jesuit in Portland, Oregon"
-dunlemi02,2008-09,28,Indiana Pacers,NBA,18,27.5,.401,.815,3.8,2.4,0.7,0.5,15.1,14.4,0.5,.048,-2.1,0.0,,9000000,"Jesuit in Portland, Oregon"
-dunlemi02,2009-10,29,Indiana Pacers,NBA,67,22.2,.410,.842,3.5,1.5,0.6,0.2,9.9,13.1,2.3,.075,-1.9,0.0,,9780992,"Jesuit in Portland, Oregon"
-dunlemi02,2010-11,30,Indiana Pacers,NBA,61,27.6,.462,.800,4.5,1.7,0.7,0.5,11.2,14.6,4.5,.129,1.3,1.4,,10561984,"Jesuit in Portland, Oregon"
-dunlemi02,2011-12,31,Milwaukee Bucks,NBA,55,26.3,.474,.811,3.7,2.1,0.5,0.1,12.3,16.6,4.4,.146,1.0,1.1,,3750000,"Jesuit in Portland, Oregon"
-dunlemi02,2012-13,32,Milwaukee Bucks,NBA,75,25.9,.442,.820,3.9,1.9,0.5,0.5,10.5,13.6,4.4,.109,-0.1,0.9,,3750000,"Jesuit in Portland, Oregon"
-dunlemi02,2013-14,33,Chicago Bulls,NBA,82,31.5,.430,.854,4.2,2.3,0.8,0.6,11.3,12.6,6.5,.121,0.7,1.8,,3183000,"Jesuit in Portland, Oregon"
-dunlemi02,2014-15,34,Chicago Bulls,NBA,63,29.2,.435,.805,3.9,1.8,0.6,0.3,9.4,11.6,4.1,.108,0.4,1.1,,3326235,"Jesuit in Portland, Oregon"
-dunlemi02,2015-16,35,Chicago Bulls,NBA,31,22.7,.410,.784,2.7,1.3,0.5,0.3,7.2,9.1,0.9,.063,-2.1,0.0,,4500000,"Jesuit in Portland, Oregon"
-dunlemi02,2016-17,36,Atlanta Hawks,NBA,53,15.9,.423,.800,2.2,0.9,0.3,0.1,5.2,10.1,1.5,.086,-2.2,0.0,,4837500,"Jesuit in Portland, Oregon"
-dunlemi02,2016-17,36,Atlanta Hawks,NBA,23,15.9,.400,.737,2.0,0.9,0.3,0.1,4.6,7.6,0.3,.041,-3.7,-0.2,,4837500,"Jesuit in Portland, Oregon"
-dunlemi02,2016-17,36,Atlanta Hawks,NBA,30,15.8,.438,.846,2.3,1.0,0.3,0.2,5.6,11.9,1.2,.120,-1.0,0.1,,4837500,"Jesuit in Portland, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+0.23,2.22,dunlemi02,2002-03,GSW,12.5,1.5,.055,-1.3,0.2,,NBA,3100080,22,82,15.9,.403,.780,2.6,1.3,0.6,0.2,5.7,GSW
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-0.82,2.23,dunlemi02,2003-04,GSW,15.1,5.2,.107,1.8,2.2,,NBA,3332520,23,75,31.1,.449,.741,5.9,2.9,0.9,0.2,11.7,GSW
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+0.10,4.14,dunlemi02,2004-05,GSW,14.5,4.9,.091,0.3,1.5,,NBA,3565080,24,79,32.5,.451,.779,5.5,2.6,1.0,0.3,13.4,GSW
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-0.50,3.09,dunlemi02,2005-06,GSW,12.5,4.2,.077,-0.3,1.1,,NBA,4506261,25,81,31.8,.406,.778,4.9,2.9,0.7,0.4,11.5,GSW
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-1.11,2.02,dunlemi02,2006-07,TOT,14.1,5.1,.095,0.2,1.4,,NBA,7438016,26,82,31.5,.452,.784,5.3,2.8,1.0,0.3,12.8,"GSW,IND"
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+2.32,9.16,dunlemi02,2007-08,IND,17.3,8.5,.138,2.1,3.1,,NBA,8219008,27,82,36.0,.476,.834,5.2,3.5,1.0,0.4,19.1,IND
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-0.57,0.57,dunlemi02,2008-09,IND,14.4,0.5,.048,-2.1,0.0,,NBA,9000000,28,18,27.5,.401,.815,3.8,2.4,0.7,0.5,15.1,IND
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-0.72,1.56,dunlemi02,2009-10,IND,13.1,2.3,.075,-1.9,0.0,,NBA,9780992,29,67,22.2,.410,.842,3.5,1.5,0.6,0.2,9.9,IND
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+2.43,5.62,dunlemi02,2010-11,IND,14.6,4.5,.129,1.3,1.4,,NBA,10561984,30,61,27.6,.462,.800,4.5,1.7,0.7,0.5,11.2,IND
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+2.19,4.43,dunlemi02,2011-12,MIL,16.6,4.4,.146,1.0,1.1,,NBA,3750000,31,55,26.3,.474,.811,3.7,2.1,0.5,0.1,12.3,MIL
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+0.47,3.80,dunlemi02,2012-13,MIL,13.6,4.4,.109,-0.1,0.9,,NBA,3750000,32,75,25.9,.442,.820,3.9,1.9,0.5,0.5,10.5,MIL
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+0.70,5.61,dunlemi02,2013-14,CHI,12.6,6.5,.121,0.7,1.8,,NBA,3183000,33,82,31.5,.430,.854,4.2,2.3,0.8,0.6,11.3,CHI
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",+1.86,6.30,dunlemi02,2014-15,CHI,11.6,4.1,.108,0.4,1.1,,NBA,3326235,34,63,29.2,.435,.805,3.9,1.8,0.6,0.3,9.4,CHI
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-1.35,0.45,dunlemi02,2015-16,CHI,9.1,0.9,.063,-2.1,0.0,,NBA,4500000,35,31,22.7,.410,.784,2.7,1.3,0.5,0.3,7.2,CHI
+Mike Dunleavy,/players/d/dunlemi02.html,2003,2017,Duke University,false,"Jesuit in Portland, Oregon",-2.87,-0.38,dunlemi02,2016-17,TOT,10.1,1.5,.086,-2.2,0.0,,NBA,4837500,36,53,15.9,.423,.800,2.2,0.9,0.3,0.1,5.2,"CLE,ATL"

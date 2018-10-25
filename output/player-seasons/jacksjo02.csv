@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksjo02,2017-18,20,Phoenix Suns,NBA,77,25.4,.417,.634,4.6,1.5,1.0,0.5,13.1,11.8,-0.7,-0.018,-4.3,-1.1,,5090040,"Prolific Prep/Justin-Siena HS in Napa, California"
-jacksjo02,2018-19,21,PHO,NBA,4,24.0,.394,.400,1.8,2.5,0.3,0.8,8.3,2.5,-0.3,-0.149,-8.9,-0.2,,,"Prolific Prep/Justin-Siena HS in Napa, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Jackson,/players/j/jacksjo02.html,2018,2019,University of Kansas,true,"Prolific Prep/Justin-Siena HS in Napa, California",-3.95,-2.13,jacksjo02,2017-18,PHO,11.8,-0.7,-0.018,-4.3,-1.1,,NBA,5090040,20,77,25.4,.417,.634,4.6,1.5,1.0,0.5,13.1,PHO
+Josh Jackson,/players/j/jacksjo02.html,2018,2019,University of Kansas,true,"Prolific Prep/Justin-Siena HS in Napa, California",,,jacksjo02,2018-19,PHO,2.5,-0.3,-0.149,-8.9,-0.2,,NBA,,21,4,24.0,.394,.400,1.8,2.5,0.3,0.8,8.3,PHO

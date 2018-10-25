@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jennike01,1992-93,24,Golden State Warriors,NBA,8,17.0,.595,.778,1.4,2.9,0.5,0.0,8.6,18.5,0.6,.205,-0.2,0.1,,140000,"Culpepper in Culpepper, Virginia"
-jennike01,1993-94,25,Golden State Warriors,NBA,76,14.4,.404,.833,1.2,2.9,0.9,0.0,5.7,15.5,2.9,.126,-1.3,0.2,,250000,"Culpepper in Culpepper, Virginia"
-jennike01,1994-95,26,Golden State Warriors,NBA,80,21.5,.447,.876,1.9,4.7,1.2,0.0,7.4,15.3,4.2,.117,-0.6,0.6,,350000,"Culpepper in Culpepper, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Jennings,/players/j/jennike01.html,1993,1995,East Tennessee State University,false,"Culpepper in Culpepper, Virginia",+0.00,0.21,jennike01,1992-93,GSW,18.5,0.6,.205,-0.2,0.1,,NBA,140000,24,8,17.0,.595,.778,1.4,2.9,0.5,0.0,8.6,GSW
+Keith Jennings,/players/j/jennike01.html,1993,1995,East Tennessee State University,false,"Culpepper in Culpepper, Virginia",-0.07,1.70,jennike01,1993-94,GSW,15.5,2.9,.126,-1.3,0.2,,NBA,250000,25,76,14.4,.404,.833,1.2,2.9,0.9,0.0,5.7,GSW
+Keith Jennings,/players/j/jennike01.html,1993,1995,East Tennessee State University,false,"Culpepper in Culpepper, Virginia",+0.07,2.73,jennike01,1994-95,GSW,15.3,4.2,.117,-0.6,0.6,,NBA,350000,26,80,21.5,.447,.876,1.9,4.7,1.2,0.0,7.4,GSW

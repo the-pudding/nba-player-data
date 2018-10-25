@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-beaubro01,2009-10,21,Dallas Mavericks,NBA,56,12.5,.518,.808,1.4,1.3,0.5,0.2,7.1,18.5,2.0,.134,1.3,0.6,,1075440,
-beaubro01,2010-11,22,Dallas Mavericks,NBA,28,17.7,.422,.767,1.9,2.3,0.7,0.3,8.4,11.4,0.2,.022,-1.5,0.1,,1156080,
-beaubro01,2011-12,23,Dallas Mavericks,NBA,53,21.7,.422,.841,2.8,2.9,1.1,0.5,8.9,15.3,2.2,.092,1.3,0.9,,1236720,
-beaubro01,2012-13,24,Dallas Mavericks,NBA,45,12.2,.369,.789,1.3,1.9,0.4,0.1,4.0,10.6,0.4,.032,-3.3,-0.2,,2227333,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rodrigue Beaubois,/players/b/beaubro01.html,2010,2013,,false,,-0.51,0.88,beaubro01,2009-10,DAL,18.5,2.0,.134,1.3,0.6,,NBA,1075440,21,56,12.5,.518,.808,1.4,1.3,0.5,0.2,7.1,DAL
+Rodrigue Beaubois,/players/b/beaubro01.html,2010,2013,,false,,-1.22,0.34,beaubro01,2010-11,DAL,11.4,0.2,.022,-1.5,0.1,,NBA,1156080,22,28,17.7,.422,.767,1.9,2.3,0.7,0.3,8.4,DAL
+Rodrigue Beaubois,/players/b/beaubro01.html,2010,2013,,false,,+0.34,2.07,beaubro01,2011-12,DAL,15.3,2.2,.092,1.3,0.9,,NBA,1236720,23,53,21.7,.422,.841,2.8,2.9,1.1,0.5,8.9,DAL
+Rodrigue Beaubois,/players/b/beaubro01.html,2010,2013,,false,,-0.23,0.76,beaubro01,2012-13,DAL,10.6,0.4,.032,-3.3,-0.2,,NBA,2227333,24,45,12.2,.369,.789,1.3,1.9,0.4,0.1,4.0,DAL

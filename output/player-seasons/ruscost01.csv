@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ruscost01,1995-96,27,Phoenix Suns,NBA,7,4.3,.333,.400,0.9,0.4,0.0,0.3,1.1,2.4,-0.1,-0.104,-7.6,0.0,,415000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Stefano Rusconi,/players/r/ruscost01.html,1996,1996,,false,,-0.11,0.04,ruscost01,1995-96,PHO,2.4,-0.1,-0.104,-7.6,0.0,,NBA,415000,27,7,4.3,.333,.400,0.9,0.4,0.0,0.3,1.1,PHO

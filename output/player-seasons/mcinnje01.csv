@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mcinnje01,1996-97,22,DEN,NBA,13,9.0,.469,.700,0.5,1.4,0.2,0.1,5.0,14.8,0.1,.060,-4.1,-0.1,,"Oak Hill Academy in Mouth of Wilson, Virginia",
-mcinnje01,1997-98,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Oak Hill Academy in Mouth of Wilson, Virginia",
-mcinnje01,1998-99,24,Washington Wizards,NBA,35,12.2,.373,.750,0.6,2.1,0.5,0.0,3.7,11.0,0.2,.019,-5.1,-0.3,,"Oak Hill Academy in Mouth of Wilson, Virginia",350000
-mcinnje01,1999-00,25,Orlando Magic,NBA,25,23.9,.430,.765,2.9,3.6,0.6,0.1,7.2,11.8,0.3,.027,-3.9,-0.3,,"Oak Hill Academy in Mouth of Wilson, Virginia",460000
-mcinnje01,2000-01,26,Los Angeles Clippers,NBA,81,35.0,.463,.807,2.7,5.5,0.9,0.1,12.9,15.6,6.9,.117,0.3,1.6,,"Oak Hill Academy in Mouth of Wilson, Virginia",523500
-mcinnje01,2001-02,27,Los Angeles Clippers,NBA,81,37.4,.413,.836,2.6,6.2,0.8,0.1,14.6,13.8,5.1,.081,-1.5,0.4,,"Oak Hill Academy in Mouth of Wilson, Virginia",590850
-mcinnje01,2002-03,28,Portland Trail Blazers,NBA,75,17.5,.444,.746,1.3,2.3,0.3,0.0,5.8,10.0,1.1,.040,-5.1,-1.0,,"Oak Hill Academy in Mouth of Wilson, Virginia",3000000
-mcinnje01,2003-04,29,Portland Trail Blazers,NBA,70,33.8,.447,.797,2.5,6.1,1.0,0.1,11.8,15.1,4.9,.099,-1.7,0.2,,"Oak Hill Academy in Mouth of Wilson, Virginia",3300000
-mcinnje01,2003-04,29,Portland Trail Blazers,NBA,39,32.5,.471,.763,2.4,5.0,0.9,0.1,11.9,15.0,2.6,.098,-1.8,0.1,,"Oak Hill Academy in Mouth of Wilson, Virginia",3300000
-mcinnje01,2003-04,29,Portland Trail Blazers,NBA,31,35.4,.417,.836,2.6,7.5,1.2,0.1,11.7,15.3,2.3,.100,-1.6,0.1,,"Oak Hill Academy in Mouth of Wilson, Virginia",3300000
-mcinnje01,2004-05,30,Cleveland Cavaliers,NBA,76,34.9,.412,.813,2.1,5.1,0.7,0.0,12.8,12.4,4.1,.074,-2.5,-0.4,,"Oak Hill Academy in Mouth of Wilson, Virginia",3600000
-mcinnje01,2005-06,31,New Jersey Nets,NBA,28,17.4,.441,.690,1.8,1.9,0.4,0.1,5.3,9.2,0.3,.031,-5.0,-0.4,,"Oak Hill Academy in Mouth of Wilson, Virginia",3400000
-mcinnje01,2006-07,32,Charlotte Bobcats,NBA,38,18.5,.392,.688,1.6,3.3,0.4,0.0,4.3,7.7,-0.1,-0.004,-6.5,-0.8,,"Oak Hill Academy in Mouth of Wilson, Virginia",3600000
-mcinnje01,2007-08,33,Charlotte Bobcats,NBA,54,26.1,.434,.767,1.8,4.1,0.4,0.1,4.5,6.5,0.1,.002,-6.1,-1.4,,"Oak Hill Academy in Mouth of Wilson, Virginia",1219590
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.68,0.13,mcinnje01,1996-97,DEN,14.8,0.1,.060,-4.1,-0.1,,22,NBA,13,9.0,.469,.700,0.5,1.4,0.2,0.1,5.0,DEN,
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",,,mcinnje01,1997-98,Did Not Play (other pro league—CBA),,,,,,,23,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.00,0.05,mcinnje01,1998-99,WAS,11.0,0.2,.019,-5.1,-0.3,,24,NBA,35,12.2,.373,.750,0.6,2.1,0.5,0.0,3.7,WAS,350000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.64,-0.17,mcinnje01,1999-00,LAC,11.8,0.3,.027,-3.9,-0.3,,25,NBA,25,23.9,.430,.765,2.9,3.6,0.6,0.1,7.2,LAC,460000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.71,-0.99,mcinnje01,2000-01,LAC,15.6,6.9,.117,0.3,1.6,,26,NBA,81,35.0,.463,.807,2.7,5.5,0.9,0.1,12.9,LAC,523500
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.87,0.80,mcinnje01,2001-02,LAC,13.8,5.1,.081,-1.5,0.4,,27,NBA,81,37.4,.413,.836,2.6,6.2,0.8,0.1,14.6,LAC,590850
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-4.80,-2.43,mcinnje01,2002-03,POR,10.0,1.1,.040,-5.1,-1.0,,28,NBA,75,17.5,.444,.746,1.3,2.3,0.3,0.0,5.8,POR,3000000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-0.21,3.31,mcinnje01,2003-04,TOT,15.1,4.9,.099,-1.7,0.2,,29,NBA,70,33.8,.447,.797,2.5,6.1,1.0,0.1,11.8,"POR,CLE",3300000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.26,0.06,mcinnje01,2004-05,CLE,12.4,4.1,.074,-2.5,-0.4,,30,NBA,76,34.9,.412,.813,2.1,5.1,0.7,0.0,12.8,CLE,3600000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-6.04,-1.18,mcinnje01,2005-06,NJN,9.2,0.3,.031,-5.0,-0.4,,31,NBA,28,17.4,.441,.690,1.8,1.9,0.4,0.1,5.3,NJN,3400000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-3.94,-0.76,mcinnje01,2006-07,CHA,7.7,-0.1,-0.004,-6.5,-0.8,,32,NBA,38,18.5,.392,.688,1.6,3.3,0.4,0.0,4.3,CHA,3600000
+Jeff McInnis,/players/m/mcinnje01.html,1997,2008,University of North Carolina,false,"Oak Hill Academy in Mouth of Wilson, Virginia",-4.28,-1.80,mcinnje01,2007-08,CHA,6.5,0.1,.002,-6.1,-1.4,,33,NBA,54,26.1,.434,.767,1.8,4.1,0.4,0.1,4.5,CHA,1219590

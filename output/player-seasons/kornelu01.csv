@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kornelu01,2017-18,22,New York Knicks,NBA,20,16.3,.392,.727,3.2,1.3,0.3,0.8,6.7,13.6,0.5,.077,0.2,0.2,,,"Liberty Christian in Argyle, Texas"
-kornelu01,2018-19,23,NYK,NBA,1,6.0,.000,,0.0,1.0,0.0,0.0,0.0,-9.7,0.0,-0.330,-21.0,0.0,,,"Liberty Christian in Argyle, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Luke Kornet,/players/k/kornelu01.html,2018,2019,Vanderbilt University,true,"Liberty Christian in Argyle, Texas",-0.57,0.38,kornelu01,2017-18,NYK,13.6,0.5,.077,0.2,0.2,,NBA,,22,20,16.3,.392,.727,3.2,1.3,0.3,0.8,6.7,NYK
+Luke Kornet,/players/k/kornelu01.html,2018,2019,Vanderbilt University,true,"Liberty Christian in Argyle, Texas",,,kornelu01,2018-19,NYK,-9.7,0.0,-0.330,-21.0,0.0,,NBA,,23,1,6.0,.000,,0.0,1.0,0.0,0.0,0.0,NYK

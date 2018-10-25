@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-turnehe02,1989-90,23,SAC,NBA,36,8.8,.475,.615,1.4,0.6,0.5,0.2,4.3,14.2,0.3,.046,-3.1,-0.1,,"Fremont in Oakland, California",
-turnehe02,1990-91,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Fremont in Oakland, California",
-turnehe02,1991-92,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Fremont in Oakland, California",
-turnehe02,1992-93,26,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"Fremont in Oakland, California",
-turnehe02,1993-94,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Fremont in Oakland, California",
-turnehe02,1994-95,28,Sacramento Kings,NBA,30,5.0,.404,.571,0.9,0.2,0.3,0.0,2.3,12.6,0.1,.038,-3.9,-0.1,,"Fremont in Oakland, California",180000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Henry Turner,/players/t/turnehe02.html,1990,1995,"California State University, Fullerton",false,"Fremont in Oakland, California",-1.04,0.26,turnehe02,1989-90,SAC,14.2,0.3,.046,-3.1,-0.1,,23,NBA,36,8.8,.475,.615,1.4,0.6,0.5,0.2,4.3,SAC,
+Henry Turner,/players/t/turnehe02.html,1990,1995,"California State University, Fullerton",false,"Fremont in Oakland, California",,,turnehe02,1990-91,Did Not Play (other pro league—Italy),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Henry Turner,/players/t/turnehe02.html,1990,1995,"California State University, Fullerton",false,"Fremont in Oakland, California",,,turnehe02,1991-92,Did Not Play (other pro league—Italy),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—Italy),
+Henry Turner,/players/t/turnehe02.html,1990,1995,"California State University, Fullerton",false,"Fremont in Oakland, California",,,turnehe02,1992-93,Did Not Play (other pro league—France),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—France),
+Henry Turner,/players/t/turnehe02.html,1990,1995,"California State University, Fullerton",false,"Fremont in Oakland, California",,,turnehe02,1993-94,Did Not Play (other pro league—Greece),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Henry Turner,/players/t/turnehe02.html,1990,1995,"California State University, Fullerton",false,"Fremont in Oakland, California",-0.16,0.21,turnehe02,1994-95,SAC,12.6,0.1,.038,-3.9,-0.1,,28,NBA,30,5.0,.404,.571,0.9,0.2,0.3,0.0,2.3,SAC,180000

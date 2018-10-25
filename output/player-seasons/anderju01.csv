@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-anderju01,2015-16,22,Dallas Mavericks,NBA,55,11.8,.406,.800,2.4,0.5,0.3,0.5,3.8,12.3,1.1,.083,-1.2,0.1,,1449000,"Montrose Christian in Rockville, Maryland"
-anderju01,2016-17,23,Philadelphia 76ers,NBA,75,16.4,.424,.791,3.3,0.9,0.5,0.3,7.1,13.9,1.9,.074,-1.6,0.1,,1514160,"Montrose Christian in Rockville, Maryland"
-anderju01,2016-17,23,Philadelphia 76ers,NBA,51,13.9,.401,.795,2.9,0.6,0.5,0.3,6.5,14.7,1.0,.067,-2.0,0.0,,1514160,"Montrose Christian in Rockville, Maryland"
-anderju01,2016-17,23,Philadelphia 76ers,NBA,24,21.6,.463,.780,4.0,1.4,0.5,0.3,8.5,12.8,0.9,.084,-1.0,0.1,,1514160,"Montrose Christian in Rockville, Maryland"
-anderju01,2017-18,24,Philadelphia 76ers,NBA,38,13.7,.431,.737,2.4,0.7,0.4,0.2,6.2,13.0,1.2,.115,-2.0,0.0,,1579440,"Montrose Christian in Rockville, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Justin Anderson,/players/a/anderju01.html,2016,2018,University of Virginia,true,"Montrose Christian in Rockville, Maryland",+0.50,1.40,anderju01,2015-16,DAL,12.3,1.1,.083,-1.2,0.1,,NBA,1449000,22,55,11.8,.406,.800,2.4,0.5,0.3,0.5,3.8,DAL
+Justin Anderson,/players/a/anderju01.html,2016,2018,University of Virginia,true,"Montrose Christian in Rockville, Maryland",-1.42,0.73,anderju01,2016-17,TOT,13.9,1.9,.074,-1.6,0.1,,NBA,1514160,23,75,16.4,.424,.791,3.3,0.9,0.5,0.3,7.1,"DAL,PHI"
+Justin Anderson,/players/a/anderju01.html,2016,2018,University of Virginia,true,"Montrose Christian in Rockville, Maryland",-2.62,-0.13,anderju01,2017-18,PHI,13.0,1.2,.115,-2.0,0.0,,NBA,1579440,24,38,13.7,.431,.737,2.4,0.7,0.4,0.2,6.2,PHI

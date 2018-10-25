@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-murryto01,2013-14,24,NYK,NBA,51,7.3,.434,.590,0.9,1.0,0.4,0.0,2.7,11.1,0.0,.002,-4.9,-0.3,,"Klein Forest in Houston, Texas",
-murryto01,2014-15,25,Utah Jazz,NBA,5,3.6,.400,1.000,0.2,0.2,0.2,0.0,1.2,1.1,-0.1,-0.171,-11.2,0.0,,"Klein Forest in Houston, Texas",250000
-murryto01,2014-15,25,Utah Jazz,NBA,1,1.0,.000,,0.0,0.0,0.0,0.0,0.0,-41.7,0.0,-1.046,-50.0,0.0,,"Klein Forest in Houston, Texas",250000
-murryto01,2014-15,25,Utah Jazz,NBA,4,4.3,.500,1.000,0.3,0.3,0.3,0.0,1.5,3.6,0.0,-0.120,-9.0,0.0,,"Klein Forest in Houston, Texas",250000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Toure' Murry,/players/m/murryto01.html,2014,2015,Wichita State University,false,"Klein Forest in Houston, Texas",-2.19,0.02,murryto01,2013-14,NYK,11.1,0.0,.002,-4.9,-0.3,,24,NBA,51,7.3,.434,.590,0.9,1.0,0.4,0.0,2.7,NYK,
+Toure' Murry,/players/m/murryto01.html,2014,2015,Wichita State University,false,"Klein Forest in Houston, Texas",-0.32,0.02,murryto01,2014-15,TOT,1.1,-0.1,-0.171,-11.2,0.0,,25,NBA,5,3.6,.400,1.000,0.2,0.2,0.2,0.0,1.2,"UTA,WAS",250000

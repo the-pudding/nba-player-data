@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-davismi02,1976-77,26,MIL,NBA,19,8.7,.426,.920,1.5,1.1,0.3,0.2,4.3,16.8,0.4,.102,-1.2,0.0,,"Monaca in Monaca, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mickey Davis,/players/d/davismi02.html,1972,1977,Duquesne University,false,"Monaca in Monaca, Pennsylvania",-1.08,0.13,davismi02,1976-77,MIL,16.8,0.4,.102,-1.2,0.0,,26,NBA,19,8.7,.426,.920,1.5,1.1,0.3,0.2,4.3,MIL

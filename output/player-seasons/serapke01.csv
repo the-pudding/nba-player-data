@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-serapke01,2010-11,21,Washington Wizards,NBA,58,10.9,.449,.710,2.6,0.2,0.3,0.5,2.7,8.4,0.2,.017,-4.5,-0.4,,1563120,
-serapke01,2011-12,22,Washington Wizards,NBA,57,20.6,.531,.671,4.9,0.6,0.3,1.3,7.9,15.8,2.3,.094,-1.3,0.2,,1680360,
-serapke01,2012-13,23,Washington Wizards,NBA,79,21.8,.461,.693,4.4,0.7,0.3,0.7,9.1,10.3,0.1,.004,-5.7,-1.6,,1797600,
-serapke01,2013-14,24,Washington Wizards,NBA,53,10.9,.505,.871,2.4,0.3,0.1,0.5,4.7,12.5,0.8,.066,-5.2,-0.5,,2761114,
-serapke01,2014-15,25,Washington Wizards,NBA,79,15.6,.513,.707,3.6,0.7,0.1,0.7,6.6,12.5,1.7,.066,-3.0,-0.3,,3898692,
-serapke01,2015-16,26,New York Knicks,NBA,48,11.0,.410,.826,2.6,1.0,0.2,0.8,3.9,10.8,-0.2,-0.015,-4.4,-0.3,,2800000,
-serapke01,2016-17,27,Indiana Pacers,NBA,49,11.4,.551,.636,2.9,0.5,0.1,0.4,4.7,14.4,1.0,.082,-3.6,-0.2,,1800000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,-2.89,-0.27,serapke01,2010-11,WAS,8.4,0.2,.017,-4.5,-0.4,,NBA,1563120,21,58,10.9,.449,.710,2.6,0.2,0.3,0.5,2.7,WAS
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,+0.52,2.25,serapke01,2011-12,WAS,15.8,2.3,.094,-1.3,0.2,,NBA,1680360,22,57,20.6,.531,.671,4.9,0.6,0.3,1.3,7.9,WAS
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,-4.61,-2.85,serapke01,2012-13,WAS,10.3,0.1,.004,-5.7,-1.6,,NBA,1797600,23,79,21.8,.461,.693,4.4,0.7,0.3,0.7,9.1,WAS
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,-3.83,-0.64,serapke01,2013-14,WAS,12.5,0.8,.066,-5.2,-0.5,,NBA,2761114,24,53,10.9,.505,.871,2.4,0.3,0.1,0.5,4.7,WAS
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,-3.69,-1.31,serapke01,2014-15,WAS,12.5,1.7,.066,-3.0,-0.3,,NBA,3898692,25,79,15.6,.513,.707,3.6,0.7,0.1,0.7,6.6,WAS
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,-3.08,-0.34,serapke01,2015-16,NYK,10.8,-0.2,-0.015,-4.4,-0.3,,NBA,2800000,26,48,11.0,.410,.826,2.6,1.0,0.2,0.8,3.9,NYK
+Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true,,-3.73,-0.56,serapke01,2016-17,IND,14.4,1.0,.082,-3.6,-0.2,,NBA,1800000,27,49,11.4,.551,.636,2.9,0.5,0.1,0.4,4.7,IND

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnsji01,1982-83,22,"SAS,DET",NBA,23,8.3,.367,.450,2.0,0.5,0.1,0.3,1.3,4.5,-0.1,-0.020,-5.7,-0.2,,"Lewiston-Porter Central in Youngstown, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Johnstone,/players/j/johnsji01.html,1983,1983,Wake Forest University,false,"Lewiston-Porter Central in Youngstown, New York",-1.51,0.10,johnsji01,1982-83,TOT,4.5,-0.1,-0.020,-5.7,-0.2,,22,NBA,23,8.3,.367,.450,2.0,0.5,0.1,0.3,1.3,"SAS,DET"

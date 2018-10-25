@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-isselda01,1976-77,28,DEN,NBA,79,31.7,.515,.797,8.8,2.2,1.2,0.4,22.3,21.2,10.9,.208,3.1,3.2,,"Batavia in Batavia, Illinois",
-isselda01,1977-78,29,DEN,NBA,82,34.8,.512,.782,10.1,3.7,1.2,0.5,21.3,21.5,11.1,.186,3.7,4.1,,"Batavia in Batavia, Illinois",
-isselda01,1978-79,30,DEN,NBA,81,33.9,.517,.754,9.1,3.1,0.8,0.6,17.0,18.3,9.8,.172,2.8,3.3,,"Batavia in Batavia, Illinois",
-isselda01,1979-80,31,DEN,NBA,82,35.8,.505,.775,8.8,2.4,1.1,0.7,23.8,22.2,11.5,.188,2.4,3.3,,"Batavia in Batavia, Illinois",
-isselda01,1980-81,32,DEN,NBA,80,33.0,.503,.759,8.5,2.0,1.0,0.7,21.9,21.7,10.5,.190,2.3,2.8,,"Batavia in Batavia, Illinois",
-isselda01,1981-82,33,DEN,NBA,81,30.5,.527,.834,7.5,2.2,0.8,0.7,22.9,23.1,9.8,.190,1.3,2.1,,"Batavia in Batavia, Illinois",
-isselda01,1982-83,34,DEN,NBA,80,30.4,.510,.835,7.5,2.8,1.0,0.5,21.6,21.6,8.4,.165,1.4,2.1,,"Batavia in Batavia, Illinois",
-isselda01,1983-84,35,DEN,NBA,76,27.3,.493,.850,6.8,2.3,0.8,0.6,19.8,21.1,6.1,.141,-0.3,0.9,,"Batavia in Batavia, Illinois",
-isselda01,1984-85,36,Denver Nuggets,NBA,77,21.9,.459,.806,4.3,1.8,0.8,0.4,12.8,16.9,4.3,.124,-1.7,0.1,,"Batavia in Batavia, Illinois",614000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+2.46,9.08,isselda01,1976-77,DEN,21.2,10.9,.208,3.1,3.2,,28,NBA,79,31.7,.515,.797,8.8,2.2,1.2,0.4,22.3,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+2.16,10.14,isselda01,1977-78,DEN,21.5,11.1,.186,3.7,4.1,,29,NBA,82,34.8,.512,.782,10.1,3.7,1.2,0.5,21.3,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+1.56,7.47,isselda01,1978-79,DEN,18.3,9.8,.172,2.8,3.3,,30,NBA,81,33.9,.517,.754,9.1,3.1,0.8,0.6,17.0,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+2.06,8.61,isselda01,1979-80,DEN,22.2,11.5,.188,2.4,3.3,,31,NBA,82,35.8,.505,.775,8.8,2.4,1.1,0.7,23.8,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+2.53,8.44,isselda01,1980-81,DEN,21.7,10.5,.190,2.3,2.8,,32,NBA,80,33.0,.503,.759,8.5,2.0,1.0,0.7,21.9,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+2.29,7.69,isselda01,1981-82,DEN,23.1,9.8,.190,1.3,2.1,,33,NBA,81,30.5,.527,.834,7.5,2.2,0.8,0.7,22.9,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+2.10,7.76,isselda01,1982-83,DEN,21.6,8.4,.165,1.4,2.1,,34,NBA,80,30.4,.510,.835,7.5,2.8,1.0,0.5,21.6,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",+1.28,5.28,isselda01,1983-84,DEN,21.1,6.1,.141,-0.3,0.9,,35,NBA,76,27.3,.493,.850,6.8,2.3,0.8,0.6,19.8,DEN,
+Dan Issel,/players/i/isselda01.html,1971,1985,University of Kentucky,false,"Batavia in Batavia, Illinois",-0.06,3.02,isselda01,1984-85,DEN,16.9,4.3,.124,-1.7,0.1,,36,NBA,77,21.9,.459,.806,4.3,1.8,0.8,0.4,12.8,DEN,614000

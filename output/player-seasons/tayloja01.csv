@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-tayloja01,1989-90,22,NJN,NBA,17,6.7,.404,.667,0.6,0.3,0.3,0.2,3.0,9.5,-0.1,-0.028,-6.1,-0.1,,"East Aurora in Aurora, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jay Taylor,/players/t/tayloja01.html,1990,1990,Eastern Illinois University,false,"East Aurora in Aurora, Illinois",-0.49,0.14,tayloja01,1989-90,NJN,9.5,-0.1,-0.028,-6.1,-0.1,,22,NBA,17,6.7,.404,.667,0.6,0.3,0.3,0.2,3.0,NJN

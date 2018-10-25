@@ -1,23 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-willihe01,1981-82,23,IND,NBA,82,27.8,.477,.670,7.4,1.7,0.6,2.2,11.5,16.1,4.6,.097,0.8,1.6,,"Marion Franklin in Columbus, Ohio",
-willihe01,1982-83,24,IND,NBA,78,32.2,.499,.705,7.5,3.4,0.7,2.2,16.9,17.4,3.5,.067,0.3,1.5,,"Marion Franklin in Columbus, Ohio",
-willihe01,1983-84,25,IND,NBA,69,33.0,.478,.702,8.0,3.1,0.9,1.6,14.9,14.8,2.8,.059,-0.1,1.1,,"Marion Franklin in Columbus, Ohio",
-willihe01,1984-85,26,Indiana Pacers,NBA,75,34.1,.475,.657,8.5,3.4,0.7,1.8,18.3,15.5,2.2,.041,-0.5,1.0,,"Marion Franklin in Columbus, Ohio",200000
-willihe01,1985-86,27,Indiana Pacers,NBA,78,35.5,.492,.730,9.1,2.2,0.6,2.4,19.9,17.9,6.2,.107,0.9,2.0,,"Marion Franklin in Columbus, Ohio",275000
-willihe01,1986-87,28,IND,NBA,74,34.1,.480,.740,7.3,2.4,0.8,1.3,14.9,14.1,4.7,.090,0.1,1.3,,"Marion Franklin in Columbus, Ohio",
-willihe01,1987-88,29,Indiana Pacers,NBA,75,26.2,.425,.737,6.3,1.3,0.5,1.9,10.0,12.0,1.8,.044,-2.2,-0.1,,"Marion Franklin in Columbus, Ohio",983333
-willihe01,1988-89,30,Indiana Pacers,NBA,76,32.5,.436,.686,7.8,1.6,0.6,1.8,10.2,10.6,1.4,.027,-2.0,0.0,,"Marion Franklin in Columbus, Ohio",983000
-willihe01,1988-89,30,Indiana Pacers,NBA,46,34.1,.450,.714,8.6,1.9,0.7,1.7,12.6,11.8,0.9,.029,-1.8,0.1,,"Marion Franklin in Columbus, Ohio",983000
-willihe01,1988-89,30,Indiana Pacers,NBA,30,30.1,.396,.632,6.6,1.2,0.5,1.8,6.6,8.6,0.5,.025,-2.4,-0.1,,"Marion Franklin in Columbus, Ohio",983000
-willihe01,1989-90,31,DAL,NBA,81,27.1,.444,.679,4.8,1.5,0.6,1.3,8.6,10.4,2.2,.048,-1.6,0.2,,"Marion Franklin in Columbus, Ohio",
-willihe01,1990-91,32,Dallas Mavericks,NBA,60,30.5,.507,.638,6.0,1.6,0.5,1.5,12.5,13.1,1.7,.045,-2.0,0.0,,"Marion Franklin in Columbus, Ohio",1000000
-willihe01,1991-92,33,Dallas Mavericks,NBA,75,27.2,.431,.725,6.1,1.3,0.5,1.3,11.5,12.6,0.8,.020,-3.8,-0.9,,"Marion Franklin in Columbus, Ohio",1183000
-willihe01,1992-93,34,New York Knicks,NBA,55,10.4,.411,.667,2.7,0.3,0.4,0.5,2.9,10.1,1.1,.095,-1.8,0.0,,"Marion Franklin in Columbus, Ohio",430000
-willihe01,1993-94,35,New York Knicks,NBA,70,11.1,.442,.643,2.6,0.4,0.3,0.6,3.3,10.4,1.6,.098,-2.3,-0.1,,"Marion Franklin in Columbus, Ohio",1600000
-willihe01,1994-95,36,New York Knicks,NBA,56,13.3,.456,.622,2.4,0.5,0.2,0.8,3.3,7.7,0.6,.041,-3.9,-0.4,,"Marion Franklin in Columbus, Ohio",1000000
-willihe01,1995-96,37,New York Knicks,NBA,44,13.0,.408,.650,2.0,0.6,0.3,0.8,3.1,8.0,0.4,.033,-4.1,-0.3,,"Marion Franklin in Columbus, Ohio",1300000
-willihe01,1995-96,37,New York Knicks,NBA,1,31.0,.375,,8.0,0.0,1.0,2.0,6.0,8.7,0.0,.033,-11.2,-0.1,,"Marion Franklin in Columbus, Ohio",1300000
-willihe01,1995-96,37,New York Knicks,NBA,43,12.6,.410,.650,1.9,0.6,0.3,0.7,3.1,7.9,0.4,.033,-3.7,-0.2,,"Marion Franklin in Columbus, Ohio",1300000
-willihe01,1996-97,38,New York Knicks,NBA,21,8.8,.391,.750,1.5,0.2,0.2,0.2,1.9,7.0,0.2,.051,-4.6,-0.1,,"Marion Franklin in Columbus, Ohio",757000
-willihe01,1997-98,39,New York Knicks,NBA,27,6.6,.419,.125,1.1,0.1,0.2,0.3,1.4,6.1,0.2,.041,-4.0,-0.1,,"Marion Franklin in Columbus, Ohio",766667
-willihe01,1998-99,40,New York Knicks,NBA,6,5.7,.500,1.000,1.0,0.0,0.0,0.3,1.7,12.2,0.1,.094,-6.5,0.0,,"Marion Franklin in Columbus, Ohio",1000000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",+1.01,5.12,willihe01,1981-82,IND,16.1,4.6,.097,0.8,1.6,,23,NBA,82,27.8,.477,.670,7.4,1.7,0.6,2.2,11.5,IND,
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",+0.33,4.45,willihe01,1982-83,IND,17.4,3.5,.067,0.3,1.5,,24,NBA,78,32.2,.499,.705,7.5,3.4,0.7,2.2,16.9,IND,
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.83,2.19,willihe01,1983-84,IND,14.8,2.8,.059,-0.1,1.1,,25,NBA,69,33.0,.478,.702,8.0,3.1,0.9,1.6,14.9,IND,
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.39,3.24,willihe01,1984-85,IND,15.5,2.2,.041,-0.5,1.0,,26,NBA,75,34.1,.475,.657,8.5,3.4,0.7,1.8,18.3,IND,200000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",+1.53,7.22,willihe01,1985-86,IND,17.9,6.2,.107,0.9,2.0,,27,NBA,78,35.5,.492,.730,9.1,2.2,0.6,2.4,19.9,IND,275000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.03,4.05,willihe01,1986-87,IND,14.1,4.7,.090,0.1,1.3,,28,NBA,74,34.1,.480,.740,7.3,2.4,0.8,1.3,14.9,IND,
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.47,2.39,willihe01,1987-88,IND,12.0,1.8,.044,-2.2,-0.1,,29,NBA,75,26.2,.425,.737,6.3,1.3,0.5,1.9,10.0,IND,983333
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-1.90,0.63,willihe01,1988-89,TOT,10.6,1.4,.027,-2.0,0.0,,30,NBA,76,32.5,.436,.686,7.8,1.6,0.6,1.8,10.2,"IND,DAL",983000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-1.32,1.46,willihe01,1989-90,DAL,10.4,2.2,.048,-1.6,0.2,,31,NBA,81,27.1,.444,.679,4.8,1.5,0.6,1.3,8.6,DAL,
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-1.82,0.57,willihe01,1990-91,DAL,13.1,1.7,.045,-2.0,0.0,,32,NBA,60,30.5,.507,.638,6.0,1.6,0.5,1.5,12.5,DAL,1000000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-2.17,0.13,willihe01,1991-92,DAL,12.6,0.8,.020,-3.8,-0.9,,33,NBA,75,27.2,.431,.725,6.1,1.3,0.5,1.3,11.5,DAL,1183000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.36,0.82,willihe01,1992-93,NYK,10.1,1.1,.095,-1.8,0.0,,34,NBA,55,10.4,.411,.667,2.7,0.3,0.4,0.5,2.9,NYK,430000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.53,1.04,willihe01,1993-94,NYK,10.4,1.6,.098,-2.3,-0.1,,35,NBA,70,11.1,.442,.643,2.6,0.4,0.3,0.6,3.3,NYK,1600000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-1.68,0.29,willihe01,1994-95,NYK,7.7,0.6,.041,-3.9,-0.4,,36,NBA,56,13.3,.456,.622,2.4,0.5,0.2,0.8,3.3,NYK,1000000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-1.91,0.13,willihe01,1995-96,TOT,8.0,0.4,.033,-4.1,-0.3,,37,NBA,44,13.0,.408,.650,2.0,0.6,0.3,0.8,3.1,"TOR,NYK",1300000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",-0.74,0.21,willihe01,1996-97,NYK,7.0,0.2,.051,-4.6,-0.1,,38,NBA,21,8.8,.391,.750,1.5,0.2,0.2,0.2,1.9,NYK,757000
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",+0.23,0.30,willihe01,1997-98,NYK,6.1,0.2,.041,-4.0,-0.1,,39,NBA,27,6.6,.419,.125,1.1,0.1,0.2,0.3,1.4,NYK,766667
+Herb Williams,/players/w/willihe01.html,1982,1999,Ohio State University,false,"Marion Franklin in Columbus, Ohio",+0.85,0.11,willihe01,1998-99,NYK,12.2,0.1,.094,-6.5,0.0,,40,NBA,6,5.7,.500,1.000,1.0,0.0,0.0,0.3,1.7,NYK,1000000

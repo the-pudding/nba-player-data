@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willich03,1976-77,23,CLE,NBA,22,3.0,.298,.750,0.2,0.3,0.0,0.0,1.7,8.8,-0.2,-0.137,-11.5,-0.2,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chuckie Williams,/players/w/willich03.html,1977,1977,Kansas State University,false,,-0.46,0.08,willich03,1976-77,CLE,8.8,-0.2,-0.137,-11.5,-0.2,,23,NBA,22,3.0,.298,.750,0.2,0.3,0.0,0.0,1.7,CLE

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kiddwa01,1993-94,23,PHI,NBA,68,13.0,.592,.547,3.4,0.3,0.3,0.3,3.6,11.3,1.4,.078,-4.0,-0.4,,"Vincent in Vincent, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Warren Kidd,/players/k/kiddwa01.html,1994,1994,Middle Tennessee State University,false,"Vincent in Vincent, Alabama",-2.53,-0.18,kiddwa01,1993-94,PHI,11.3,1.4,.078,-4.0,-0.4,,23,NBA,68,13.0,.592,.547,3.4,0.3,0.3,0.3,3.6,PHI

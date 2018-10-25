@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hunteot01,2008-09,22,Atlanta Hawks,NBA,16,5.8,.550,.000,1.5,0.1,0.1,0.3,1.4,12.1,0.2,.092,-4.0,0.0,,442114,"R.J. Reynolds in Winston-Salem, North Carolina"
-hunteot01,2009-10,23,Atlanta Hawks,NBA,7,4.7,.333,.750,1.7,0.0,0.0,0.1,1.6,7.9,0.0,-0.031,-16.5,-0.1,,307564,"R.J. Reynolds in Winston-Salem, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Othello Hunter,/players/h/hunteot01.html,2009,2010,Ohio State University,false,"R.J. Reynolds in Winston-Salem, North Carolina",-0.10,0.16,hunteot01,2008-09,ATL,12.1,0.2,.092,-4.0,0.0,,NBA,442114,22,16,5.8,.550,.000,1.5,0.1,0.1,0.3,1.4,ATL
+Othello Hunter,/players/h/hunteot01.html,2009,2010,Ohio State University,false,"R.J. Reynolds in Winston-Salem, North Carolina",-1.24,0.02,hunteot01,2009-10,ATL,7.9,0.0,-0.031,-16.5,-0.1,,NBA,307564,23,7,4.7,.333,.750,1.7,0.0,0.0,0.1,1.6,ATL

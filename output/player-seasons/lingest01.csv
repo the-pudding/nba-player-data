@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lingest01,1982-83,24,WSB,NBA,7,7.6,.667,.000,1.7,0.6,0.1,0.4,1.1,3.2,0.0,.009,-4.1,0.0,,"Thomas Jefferson in Bloomington, Minnesota"
-lingest01,1983-84,25,SAS,NBA,3,4.7,1.000,.000,1.3,0.3,0.0,0.0,0.7,2.7,0.0,.007,-0.7,0.0,,"Thomas Jefferson in Bloomington, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Lingenfelter,/players/l/lingest01.html,1983,1984,"University of Minnesota, South Dakota State University",false,"Thomas Jefferson in Bloomington, Minnesota",+0.66,0.11,lingest01,1982-83,WSB,3.2,0.0,.009,-4.1,0.0,,24,NBA,7,7.6,.667,.000,1.7,0.6,0.1,0.4,1.1,WSB
+Steve Lingenfelter,/players/l/lingest01.html,1983,1984,"University of Minnesota, South Dakota State University",false,"Thomas Jefferson in Bloomington, Minnesota",-0.29,0.02,lingest01,1983-84,SAS,2.7,0.0,.007,-0.7,0.0,,25,NBA,3,4.7,1.000,.000,1.3,0.3,0.0,0.0,0.7,SAS

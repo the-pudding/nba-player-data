@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stithbr01,1992-93,22,Denver Nuggets,NBA,39,22.2,.446,.832,3.2,1.3,0.6,0.1,8.9,11.7,1.6,.090,-2.8,-0.2,,850000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1993-94,23,Denver Nuggets,NBA,82,34.8,.450,.829,4.3,2.4,1.4,0.2,12.5,12.7,6.8,.114,0.8,2.0,,1100000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1994-95,24,Denver Nuggets,NBA,81,28.8,.472,.824,3.3,1.9,1.1,0.2,11.2,14.4,5.6,.115,0.3,1.3,,1375000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1995-96,25,Denver Nuggets,NBA,82,34.3,.416,.844,4.9,2.9,1.4,0.2,13.6,13.9,5.2,.089,0.2,1.6,,1550000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1996-97,26,Denver Nuggets,NBA,52,34.4,.416,.863,4.2,2.6,1.2,0.4,14.9,14.4,3.0,.080,0.2,1.0,,3400000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1997-98,27,Denver Nuggets,NBA,31,23.2,.333,.872,2.1,1.6,0.7,0.3,7.6,9.2,-0.3,-0.018,-6.3,-0.8,,4030000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1998-99,28,Denver Nuggets,NBA,46,26.0,.393,.859,2.3,1.8,0.6,0.3,7.0,10.0,0.5,.019,-2.6,-0.2,,4666000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,1999-00,29,Denver Nuggets,NBA,45,15.4,.455,.831,1.9,1.4,0.4,0.3,5.6,13.8,1.6,.110,-1.2,0.1,,5290000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,2000-01,30,Boston Celtics,NBA,78,32.1,.401,.845,3.6,2.2,1.2,0.2,9.7,11.7,4.8,.093,-0.5,1.0,,5920000,"Brunswick in Lawrenceville, Virginia"
-stithbr01,2001-02,31,Cleveland Cavaliers,NBA,50,13.3,.372,.846,1.7,0.8,0.6,0.1,4.2,11.1,0.7,.047,-2.7,-0.1,,2000000,"Brunswick in Lawrenceville, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-2.15,0.06,stithbr01,1992-93,DEN,11.7,1.6,.090,-2.8,-0.2,,NBA,850000,22,39,22.2,.446,.832,3.2,1.3,0.6,0.1,8.9,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-0.26,4.45,stithbr01,1993-94,DEN,12.7,6.8,.114,0.8,2.0,,NBA,1100000,23,82,34.8,.450,.829,4.3,2.4,1.4,0.2,12.5,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-0.27,3.29,stithbr01,1994-95,DEN,14.4,5.6,.115,0.3,1.3,,NBA,1375000,24,81,28.8,.472,.824,3.3,1.9,1.1,0.2,11.2,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-0.51,3.36,stithbr01,1995-96,DEN,13.9,5.2,.089,0.2,1.6,,NBA,1550000,25,82,34.3,.416,.844,4.9,2.9,1.4,0.2,13.6,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-1.30,1.19,stithbr01,1996-97,DEN,14.4,3.0,.080,0.2,1.0,,NBA,3400000,26,52,34.4,.416,.863,4.2,2.6,1.2,0.4,14.9,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-3.53,-0.62,stithbr01,1997-98,DEN,9.2,-0.3,-0.018,-6.3,-0.8,,NBA,4030000,27,31,23.2,.333,.872,2.1,1.6,0.7,0.3,7.6,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-3.22,-0.75,stithbr01,1998-99,DEN,10.0,0.5,.019,-2.6,-0.2,,NBA,4666000,28,46,26.0,.393,.859,2.3,1.8,0.6,0.3,7.0,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-1.37,0.41,stithbr01,1999-00,DEN,13.8,1.6,.110,-1.2,0.1,,NBA,5290000,29,45,15.4,.455,.831,1.9,1.4,0.4,0.3,5.6,DEN
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-0.52,2.92,stithbr01,2000-01,BOS,11.7,4.8,.093,-0.5,1.0,,NBA,5920000,30,78,32.1,.401,.845,3.6,2.2,1.2,0.2,9.7,BOS
+Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false,"Brunswick in Lawrenceville, Virginia",-2.21,-0.02,stithbr01,2001-02,CLE,11.1,0.7,.047,-2.7,-0.1,,NBA,2000000,31,50,13.3,.372,.846,1.7,0.8,0.6,0.1,4.2,CLE

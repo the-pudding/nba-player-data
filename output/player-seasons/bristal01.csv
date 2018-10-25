@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bristal01,1976-77,25,SAS,NBA,82,24.6,.489,.798,4.2,2.9,1.1,0.0,11.4,15.4,4.3,.101,0.2,1.1,,"Henrico in Richmond, Virginia"
-bristal01,1977-78,26,SAS,NBA,82,18.1,.478,.731,3.1,2.4,0.8,0.0,8.1,14.6,2.8,.089,-0.5,0.6,,"Henrico in Richmond, Virginia"
-bristal01,1978-79,27,SAS,NBA,74,17.9,.492,.832,3.3,3.1,0.8,0.2,6.4,14.2,3.5,.126,0.9,1.0,,"Henrico in Richmond, Virginia"
-bristal01,1979-80,28,UTA,NBA,82,28.1,.480,.811,6.2,4.2,1.1,0.1,11.6,16.6,4.4,.091,1.1,1.8,,"Henrico in Richmond, Virginia"
-bristal01,1980-81,29,UTA,NBA,82,24.4,.444,.838,5.2,4.7,0.8,0.0,8.7,14.9,2.7,.065,-0.8,0.6,,"Henrico in Richmond, Virginia"
-bristal01,1981-82,30,DAL,NBA,82,24.8,.437,.817,4.1,5.5,0.8,0.1,7.0,12.6,2.5,.059,-0.6,0.7,,"Henrico in Richmond, Virginia"
-bristal01,1982-83,31,DAL,NBA,37,10.0,.444,.714,1.6,1.9,0.2,0.0,2.8,10.2,0.2,.030,-3.3,-0.1,,"Henrico in Richmond, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",-0.78,2.03,bristal01,1976-77,SAS,15.4,4.3,.101,0.2,1.1,,25,NBA,82,24.6,.489,.798,4.2,2.9,1.1,0.0,11.4,SAS
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",-0.94,1.35,bristal01,1977-78,SAS,14.6,2.8,.089,-0.5,0.6,,26,NBA,82,18.1,.478,.731,3.1,2.4,0.8,0.0,8.1,SAS
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",+0.26,2.56,bristal01,1978-79,SAS,14.2,3.5,.126,0.9,1.0,,27,NBA,74,17.9,.492,.832,3.3,3.1,0.8,0.2,6.4,SAS
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",-0.77,2.35,bristal01,1979-80,UTA,16.6,4.4,.091,1.1,1.8,,28,NBA,82,28.1,.480,.811,6.2,4.2,1.1,0.1,11.6,UTA
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",-1.42,1.15,bristal01,1980-81,UTA,14.9,2.7,.065,-0.8,0.6,,29,NBA,82,24.4,.444,.838,5.2,4.7,0.8,0.0,8.7,UTA
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",-1.13,1.60,bristal01,1981-82,DAL,12.6,2.5,.059,-0.6,0.7,,30,NBA,82,24.8,.437,.817,4.1,5.5,0.8,0.1,7.0,DAL
+Allan Bristow,/players/b/bristal01.html,1974,1983,Virginia Polytechnic Institute and State University,false,"Henrico in Richmond, Virginia",-2.72,-0.10,bristal01,1982-83,DAL,10.2,0.2,.030,-3.3,-0.1,,31,NBA,37,10.0,.444,.714,1.6,1.9,0.2,0.0,2.8,DAL

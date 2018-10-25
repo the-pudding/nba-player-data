@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jordawa01,1980-81,24,CLE,NBA,30,6.9,.387,.588,1.4,0.4,0.4,0.2,2.3,8.5,-0.1,-0.021,-4.5,-0.1,,"Northrop in Fort Wayne, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Walter Jordan,/players/j/jordawa01.html,1981,1981,Purdue University,false,"Northrop in Fort Wayne, Indiana",-0.71,0.22,jordawa01,1980-81,CLE,8.5,-0.1,-0.021,-4.5,-0.1,,24,NBA,30,6.9,.387,.588,1.4,0.4,0.4,0.2,2.3,CLE

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-hopsosc01,2013-14,24,CLE,NBA,2,3.5,.000,.500,0.0,0.5,0.5,0.0,0.5,-6.5,-0.1,-0.412,-17.2,0.0,,"University Heights Academy in Hopkinsville, Kentucky",
-hopsosc01,2014-15,25,Did Not Play,,,,,,,,,,,,,,,,,"University Heights Academy in Hopkinsville, Kentucky",
-hopsosc01,2015-16,26,Did Not Play,,,,,,,,,,,,,,,,,"University Heights Academy in Hopkinsville, Kentucky",
-hopsosc01,2016-17,27,Did Not Play,,,,,,,,,,,,,,,,,"University Heights Academy in Hopkinsville, Kentucky",
-hopsosc01,2017-18,28,Dallas Mavericks,NBA,1,8.0,.000,.500,0.0,1.0,0.0,0.0,1.0,-4.6,0.0,-0.238,-20.7,0.0,,"University Heights Academy in Hopkinsville, Kentucky",74159
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Scotty Hopson,/players/h/hopsosc01.html,2014,2018,University of Tennessee,true,"University Heights Academy in Hopkinsville, Kentucky",+0.42,0.01,hopsosc01,2013-14,CLE,-6.5,-0.1,-0.412,-17.2,0.0,,24,NBA,2,3.5,.000,.500,0.0,0.5,0.5,0.0,0.5,CLE,
+Scotty Hopson,/players/h/hopsosc01.html,2014,2018,University of Tennessee,true,"University Heights Academy in Hopkinsville, Kentucky",,,hopsosc01,2014-15,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play,
+Scotty Hopson,/players/h/hopsosc01.html,2014,2018,University of Tennessee,true,"University Heights Academy in Hopkinsville, Kentucky",,,hopsosc01,2015-16,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Scotty Hopson,/players/h/hopsosc01.html,2014,2018,University of Tennessee,true,"University Heights Academy in Hopkinsville, Kentucky",,,hopsosc01,2016-17,Did Not Play,,,,,,,27,,,,,,,,,,,Did Not Play,
+Scotty Hopson,/players/h/hopsosc01.html,2014,2018,University of Tennessee,true,"University Heights Academy in Hopkinsville, Kentucky",+0.24,0.01,hopsosc01,2017-18,DAL,-4.6,0.0,-0.238,-20.7,0.0,,28,NBA,1,8.0,.000,.500,0.0,1.0,0.0,0.0,1.0,DAL,74159

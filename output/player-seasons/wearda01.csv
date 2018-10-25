@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wearda01,2014-15,24,Sacramento Kings,NBA,2,3.5,.000,,1.0,0.5,0.0,0.0,0.0,2.4,0.0,-0.110,-3.0,0.0,,29843,"Mater Dei in Santa Ana, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Wear,/players/w/wearda01.html,2015,2015,"University of North Carolina, University of California, Los Angeles",false,"Mater Dei in Santa Ana, California",-0.33,0.01,wearda01,2014-15,SAC,2.4,0.0,-0.110,-3.0,0.0,,NBA,29843,24,2,3.5,.000,,1.0,0.5,0.0,0.0,0.0,SAC

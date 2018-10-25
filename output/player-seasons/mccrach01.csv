@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mccrach01,2006-07,22,Milwaukee Bucks,NBA,5,2.4,.000,,0.0,0.0,0.0,0.0,0.0,-20.7,-0.1,-0.537,-24.6,-0.1,,161061,"Fairmont Heights in Capitol Heights, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris McCray,/players/m/mccrach01.html,2007,2007,University of Maryland,false,"Fairmont Heights in Capitol Heights, Maryland",-0.52,0.01,mccrach01,2006-07,MIL,-20.7,-0.1,-0.537,-24.6,-0.1,,NBA,161061,22,5,2.4,.000,,0.0,0.0,0.0,0.0,0.0,MIL

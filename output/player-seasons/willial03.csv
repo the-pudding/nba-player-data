@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willial03,2015-16,23,Phoenix Suns,NBA,10,6.8,.417,.643,3.8,0.5,0.4,0.5,2.9,21.1,0.2,.146,1.5,0.1,,114285,"North in Phoenix, Arizona"
-willial03,2016-17,24,Phoenix Suns,NBA,47,15.1,.517,.625,6.2,0.5,0.6,0.7,7.4,19.5,2.1,.142,-1.7,0.1,,874636,"North in Phoenix, Arizona"
-willial03,2017-18,25,Phoenix Suns,NBA,5,14.0,.389,.667,4.4,1.6,1.0,0.2,4.0,9.3,0.0,-0.004,-3.7,0.0,,6000000,"North in Phoenix, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alan Williams,/players/w/willial03.html,2016,2018,"University of California, Santa Barbara",true,"North in Phoenix, Arizona",+0.12,0.11,willial03,2015-16,PHO,21.1,0.2,.146,1.5,0.1,,NBA,114285,23,10,6.8,.417,.643,3.8,0.5,0.4,0.5,2.9,PHO
+Alan Williams,/players/w/willial03.html,2016,2018,"University of California, Santa Barbara",true,"North in Phoenix, Arizona",+1.51,1.80,willial03,2016-17,PHO,19.5,2.1,.142,-1.7,0.1,,NBA,874636,24,47,15.1,.517,.625,6.2,0.5,0.6,0.7,7.4,PHO
+Alan Williams,/players/w/willial03.html,2016,2018,"University of California, Santa Barbara",true,"North in Phoenix, Arizona",-0.35,0.09,willial03,2017-18,PHO,9.3,0.0,-0.004,-3.7,0.0,,NBA,6000000,25,5,14.0,.389,.667,4.4,1.6,1.0,0.2,4.0,PHO

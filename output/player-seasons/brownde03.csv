@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownde03,2006-07,22,Utah Jazz,NBA,49,9.2,.327,.649,0.8,1.7,0.4,0.1,1.9,8.6,0.2,.024,-3.7,-0.2,,412718,"Proviso East in Maywood, Illinois"
-brownde03,2007-08,23,Did Not Play,,,,,,,,,,,,,,,,,,"Proviso East in Maywood, Illinois"
-brownde03,2008-09,24,Washington Wizards,NBA,19,13.7,.367,.600,1.5,1.9,0.5,0.0,2.4,6.6,-0.1,-0.018,-4.9,-0.2,,184157,"Proviso East in Maywood, Illinois"
-brownde03,2008-09,24,Washington Wizards,NBA,17,13.7,.386,.333,1.6,1.9,0.6,0.0,2.4,7.8,0.0,-0.006,-4.2,-0.1,,184157,"Proviso East in Maywood, Illinois"
-brownde03,2008-09,24,Washington Wizards,NBA,2,14.0,.200,1.000,0.5,1.5,0.0,0.0,2.5,-2.9,-0.1,-0.116,-10.5,-0.1,,184157,"Proviso East in Maywood, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dee Brown,/players/b/brownde03.html,2007,2009,University of Illinois at Urbana-Champaign,false,"Proviso East in Maywood, Illinois",+0.01,0.78,brownde03,2006-07,UTA,8.6,0.2,.024,-3.7,-0.2,,NBA,412718,22,49,9.2,.327,.649,0.8,1.7,0.4,0.1,1.9,UTA
+Dee Brown,/players/b/brownde03.html,2007,2009,University of Illinois at Urbana-Champaign,false,"Proviso East in Maywood, Illinois",,,brownde03,2007-08,Did Not Play,,,,,,,,,23,,,,,,,,,,Did Not Play
+Dee Brown,/players/b/brownde03.html,2007,2009,University of Illinois at Urbana-Champaign,false,"Proviso East in Maywood, Illinois",-1.85,0.09,brownde03,2008-09,TOT,6.6,-0.1,-0.018,-4.9,-0.2,,NBA,184157,24,19,13.7,.367,.600,1.5,1.9,0.5,0.0,2.4,"WAS,PHO"

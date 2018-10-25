@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thornsi01,2017-18,23,Los Angeles Clippers,NBA,73,15.8,.429,.670,1.9,0.9,0.7,0.3,3.9,8.2,1.0,.041,-1.6,0.1,,815615,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sindarius Thornwell,/players/t/thornsi01.html,2018,2018,University of South Carolina,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.64,0.50,thornsi01,2017-18,LAC,8.2,1.0,.041,-1.6,0.1,,NBA,815615,23,73,15.8,.429,.670,1.9,0.9,0.7,0.3,3.9,LAC

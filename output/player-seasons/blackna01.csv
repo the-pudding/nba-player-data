@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-blackna01,1987-88,22,SAS,NBA,10,11.2,.366,.833,0.6,1.8,0.3,0.0,3.7,6.1,-0.1,-0.045,-8.6,-0.2,,"South Philadelphia in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nate Blackwell,/players/b/blackna01.html,1988,1988,Temple University,false,"South Philadelphia in Philadelphia, Pennsylvania",-1.12,0.09,blackna01,1987-88,SAS,6.1,-0.1,-0.045,-8.6,-0.2,,22,NBA,10,11.2,.366,.833,0.6,1.8,0.3,0.0,3.7,SAS

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-diallha01,2018-19,20,OKC,NBA,3,12.7,.583,.600,1.7,1.0,1.0,0.0,6.0,18.3,0.1,.177,4.0,0.1,,"Putnam Science Academy in Putnam, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Hamidou Diallo,/players/d/diallha01.html,2019,2019,University of Kentucky,true,"Putnam Science Academy in Putnam, Connecticut",,,diallha01,2018-19,OKC,18.3,0.1,.177,4.0,0.1,,20,NBA,3,12.7,.583,.600,1.7,1.0,1.0,0.0,6.0,OKC

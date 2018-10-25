@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lamplji01,1986-87,26,PHI,NBA,1,16.0,.333,.500,5.0,0.0,1.0,0.0,3.0,8.3,0.0,-0.003,-12.1,0.0,,"Passaic County Technical Institute in Wayne, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jim Lampley,/players/l/lamplji01.html,1987,1987,"Vanderbilt University, University of Arkansas at Little Rock",false,"Passaic County Technical Institute in Wayne, New Jersey",-0.05,0.02,lamplji01,1986-87,PHI,8.3,0.0,-0.003,-12.1,0.0,,26,NBA,1,16.0,.333,.500,5.0,0.0,1.0,0.0,3.0,PHI

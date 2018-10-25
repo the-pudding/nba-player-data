@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ferrero01,1988-89,24,Portland Trail Blazers,NBA,12,2.8,.056,.875,1.1,0.1,0.0,0.1,0.8,-7.6,-0.2,-0.352,-24.0,-0.2,,100000,"Colegro Objectivo in Sao Paolo, Brazil"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rolando Ferreira,/players/f/ferrero01.html,1989,1989,University of Houston,false,"Colegro Objectivo in Sao Paolo, Brazil",-0.37,0.04,ferrero01,1988-89,POR,-7.6,-0.2,-0.352,-24.0,-0.2,,NBA,100000,24,12,2.8,.056,.875,1.1,0.1,0.0,0.1,0.8,POR

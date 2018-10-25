@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bjeline01,2015-16,27,Minnesota Timberwolves,NBA,60,17.9,.468,.727,3.5,1.4,0.4,0.4,5.1,11.2,1.9,.087,0.3,0.6,,4000000,
-bjeline01,2016-17,28,Minnesota Timberwolves,NBA,65,18.3,.424,.738,3.8,1.2,0.6,0.3,6.2,11.0,1.5,.059,-1.1,0.3,,3800000,
-bjeline01,2017-18,29,Minnesota Timberwolves,NBA,67,20.5,.461,.800,4.1,1.3,0.7,0.2,6.8,12.6,2.8,.097,0.5,0.9,,3949999,
-bjeline01,2018-19,30,SAC,NBA,5,24.2,.629,.833,5.4,3.0,1.2,0.8,11.0,21.0,0.5,.192,7.0,0.3,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nemanja Bjelica,/players/b/bjeline01.html,2016,2019,,true,,-1.94,0.24,bjeline01,2015-16,MIN,11.2,1.9,.087,0.3,0.6,,NBA,4000000,27,60,17.9,.468,.727,3.5,1.4,0.4,0.4,5.1,MIN
+Nemanja Bjelica,/players/b/bjeline01.html,2016,2019,,true,,-0.91,1.11,bjeline01,2016-17,MIN,11.0,1.5,.059,-1.1,0.3,,NBA,3800000,28,65,18.3,.424,.738,3.8,1.2,0.6,0.3,6.2,MIN
+Nemanja Bjelica,/players/b/bjeline01.html,2016,2019,,true,,-1.90,0.41,bjeline01,2017-18,MIN,12.6,2.8,.097,0.5,0.9,,NBA,3949999,29,67,20.5,.461,.800,4.1,1.3,0.7,0.2,6.8,MIN
+Nemanja Bjelica,/players/b/bjeline01.html,2016,2019,,true,,,,bjeline01,2018-19,SAC,21.0,0.5,.192,7.0,0.3,,NBA,,30,5,24.2,.629,.833,5.4,3.0,1.2,0.8,11.0,SAC

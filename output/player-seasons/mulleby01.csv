@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mulleby01,2009-10,20,Oklahoma City Thunder,NBA,13,4.2,.368,,0.8,0.1,0.2,0.0,1.1,0.7,-0.1,-0.077,-10.5,-0.1,,1120200,"Canal Winchester in Canal Winchester, Ohio"
-mulleby01,2010-11,21,Oklahoma City Thunder,NBA,13,6.5,.321,.500,1.8,0.0,0.2,0.2,1.9,3.5,-0.2,-0.113,-17.2,-0.3,,1204200,"Canal Winchester in Canal Winchester, Ohio"
-mulleby01,2011-12,22,Charlotte Bobcats,NBA,65,22.5,.425,.821,5.0,0.9,0.3,0.8,9.3,13.0,0.2,.007,-5.0,-1.1,,1288200,"Canal Winchester in Canal Winchester, Ohio"
-mulleby01,2012-13,23,Charlotte Bobcats,NBA,53,26.9,.385,.646,6.4,1.5,0.6,0.6,10.6,12.3,0.1,.005,-3.6,-0.6,,2253306,"Canal Winchester in Canal Winchester, Ohio"
-mulleby01,2013-14,24,Los Angeles Clippers,NBA,45,9.2,.442,.500,2.0,0.3,0.3,0.2,4.2,12.8,0.5,.057,-3.3,-0.1,,947907,"Canal Winchester in Canal Winchester, Ohio"
-mulleby01,2013-14,24,Los Angeles Clippers,NBA,27,6.2,.406,.333,1.2,0.2,0.2,0.1,2.5,7.8,0.0,.012,-4.1,-0.1,,947907,"Canal Winchester in Canal Winchester, Ohio"
-mulleby01,2013-14,24,Los Angeles Clippers,NBA,18,13.7,.465,.571,3.3,0.4,0.5,0.4,6.8,16.1,0.4,.087,-2.8,0.0,,947907,"Canal Winchester in Canal Winchester, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Byron Mullens,/players/m/mulleby01.html,2010,2014,Ohio State University,false,"Canal Winchester in Canal Winchester, Ohio",-0.87,0.06,mulleby01,2009-10,OKC,0.7,-0.1,-0.077,-10.5,-0.1,,NBA,1120200,20,13,4.2,.368,,0.8,0.1,0.2,0.0,1.1,OKC
+Byron Mullens,/players/m/mulleby01.html,2010,2014,Ohio State University,false,"Canal Winchester in Canal Winchester, Ohio",-0.48,0.10,mulleby01,2010-11,OKC,3.5,-0.2,-0.113,-17.2,-0.3,,NBA,1204200,21,13,6.5,.321,.500,1.8,0.0,0.2,0.2,1.9,OKC
+Byron Mullens,/players/m/mulleby01.html,2010,2014,Ohio State University,false,"Canal Winchester in Canal Winchester, Ohio",-3.36,-1.11,mulleby01,2011-12,CHA,13.0,0.2,.007,-5.0,-1.1,,NBA,1288200,22,65,22.5,.425,.821,5.0,0.9,0.3,0.8,9.3,CHA
+Byron Mullens,/players/m/mulleby01.html,2010,2014,Ohio State University,false,"Canal Winchester in Canal Winchester, Ohio",-3.86,-1.47,mulleby01,2012-13,CHA,12.3,0.1,.005,-3.6,-0.6,,NBA,2253306,23,53,26.9,.385,.646,6.4,1.5,0.6,0.6,10.6,CHA
+Byron Mullens,/players/m/mulleby01.html,2010,2014,Ohio State University,false,"Canal Winchester in Canal Winchester, Ohio",-3.23,-0.25,mulleby01,2013-14,TOT,12.8,0.5,.057,-3.3,-0.1,,NBA,947907,24,45,9.2,.442,.500,2.0,0.3,0.3,0.2,4.2,"LAC,PHI"

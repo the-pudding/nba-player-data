@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-davisma01,1988-89,25,"PHO,MIL",NBA,33,7.8,.480,.824,1.1,0.4,0.4,0.2,3.8,15.0,0.7,.134,-1.0,0.1,,"Great Bridge in Chesapeake, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Davis,/players/d/davisma01.html,1989,1989,Old Dominion University,false,"Great Bridge in Chesapeake, Virginia",-0.13,0.37,davisma01,1988-89,TOT,15.0,0.7,.134,-1.0,0.1,,25,NBA,33,7.8,.480,.824,1.1,0.4,0.4,0.2,3.8,"PHO,MIL"

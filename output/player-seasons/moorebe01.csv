@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-moorebe01,2017-18,22,Indiana Pacers,NBA,2,4.5,,,0.5,0.5,0.0,0.0,0.0,-2.3,0.0,.072,-5.0,0.0,,,"Bolingbrook in Bolingbrook, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ben Moore,/players/m/moorebe01.html,2018,2018,Southern Methodist University,true,"Bolingbrook in Bolingbrook, Illinois",-0.85,0.01,moorebe01,2017-18,IND,-2.3,0.0,.072,-5.0,0.0,,NBA,,22,2,4.5,,,0.5,0.5,0.0,0.0,0.0,IND

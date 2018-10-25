@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-smithwi02,1976-77,23,CHI,NBA,2,5.5,.000,,0.0,0.0,0.0,0.0,0.0,-3.8,0.0,-0.067,-12.2,0.0,,"Clark in Las Vegas, Nevada"
-smithwi02,1977-78,24,IND,NBA,1,7.0,,,0.0,1.0,0.0,0.0,0.0,2.0,0.0,.034,-11.3,0.0,,"Clark in Las Vegas, Nevada"
-smithwi02,1978-79,25,POR,NBA,13,10.1,.523,.706,1.0,1.3,0.8,0.1,4.5,14.6,0.3,.103,-1.1,0.0,,"Clark in Las Vegas, Nevada"
-smithwi02,1979-80,26,CLE,NBA,62,17.0,.384,.769,2.0,4.2,1.2,0.0,4.8,12.2,1.0,.047,-0.6,0.4,,"Clark in Las Vegas, Nevada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Willie Smith,/players/s/smithwi02.html,1977,1980,University of Missouri,false,"Clark in Las Vegas, Nevada",-0.70,0.01,smithwi02,1976-77,CHI,-3.8,0.0,-0.067,-12.2,0.0,,23,NBA,2,5.5,.000,,0.0,0.0,0.0,0.0,0.0,CHI
+Willie Smith,/players/s/smithwi02.html,1977,1980,University of Missouri,false,"Clark in Las Vegas, Nevada",+0.57,0.01,smithwi02,1977-78,IND,2.0,0.0,.034,-11.3,0.0,,24,NBA,1,7.0,,,0.0,1.0,0.0,0.0,0.0,IND
+Willie Smith,/players/s/smithwi02.html,1977,1980,University of Missouri,false,"Clark in Las Vegas, Nevada",+0.51,0.25,smithwi02,1978-79,POR,14.6,0.3,.103,-1.1,0.0,,25,NBA,13,10.1,.523,.706,1.0,1.3,0.8,0.1,4.5,POR
+Willie Smith,/players/s/smithwi02.html,1977,1980,University of Missouri,false,"Clark in Las Vegas, Nevada",-0.20,1.48,smithwi02,1979-80,CLE,12.2,1.0,.047,-0.6,0.4,,26,NBA,62,17.0,.384,.769,2.0,4.2,1.2,0.0,4.8,CLE

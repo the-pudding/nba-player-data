@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-walkean01,1976-77,21,NOJ,NBA,40,11.0,.462,.766,1.9,0.8,0.5,0.2,4.5,13.0,0.7,.081,-2.4,0.0,,"Long Island City in Queens, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andy Walker,/players/w/walkean01.html,1977,1977,Niagara University,false,"Long Island City in Queens, New York",-0.65,0.46,walkean01,1976-77,NOJ,13.0,0.7,.081,-2.4,0.0,,21,NBA,40,11.0,.462,.766,1.9,0.8,0.5,0.2,4.5,NOJ

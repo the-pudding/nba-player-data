@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fesenky01,2007-08,21,Utah Jazz,NBA,9,7.8,.375,.500,2.8,0.2,0.0,0.3,1.6,4.0,0.0,-0.031,-6.0,-0.1,,750000,
-fesenky01,2008-09,22,Utah Jazz,NBA,21,7.4,.583,.333,1.8,0.2,0.3,0.7,2.3,13.0,0.3,.095,0.4,0.1,,810000,
-fesenky01,2009-10,23,Utah Jazz,NBA,49,8.3,.547,.421,1.8,0.3,0.1,0.4,2.6,9.7,0.6,.070,-2.9,-0.1,,870000,
-fesenky01,2010-11,24,Utah Jazz,NBA,53,8.6,.440,.391,2.0,0.3,0.1,0.3,2.0,5.8,-0.1,-0.011,-6.5,-0.5,,1087500,
-fesenky01,2011-12,25,IND,NBA,3,5.7,.400,.667,3.0,0.3,0.7,0.0,2.7,29.8,0.1,.374,5.0,0.0,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kyrylo Fesenko,/players/f/fesenky01.html,2008,2012,,false,,-0.15,0.10,fesenky01,2007-08,UTA,4.0,0.0,-0.031,-6.0,-0.1,,NBA,750000,21,9,7.8,.375,.500,2.8,0.2,0.0,0.3,1.6,UTA
+Kyrylo Fesenko,/players/f/fesenky01.html,2008,2012,,false,,+0.01,0.24,fesenky01,2008-09,UTA,13.0,0.3,.095,0.4,0.1,,NBA,810000,22,21,7.4,.583,.333,1.8,0.2,0.3,0.7,2.3,UTA
+Kyrylo Fesenko,/players/f/fesenky01.html,2008,2012,,false,,-1.08,0.48,fesenky01,2009-10,UTA,9.7,0.6,.070,-2.9,-0.1,,NBA,870000,23,49,8.3,.547,.421,1.8,0.3,0.1,0.4,2.6,UTA
+Kyrylo Fesenko,/players/f/fesenky01.html,2008,2012,,false,,-1.95,0.09,fesenky01,2010-11,UTA,5.8,-0.1,-0.011,-6.5,-0.5,,NBA,1087500,24,53,8.6,.440,.391,2.0,0.3,0.1,0.3,2.0,UTA
+Kyrylo Fesenko,/players/f/fesenky01.html,2008,2012,,false,,-0.16,0.02,fesenky01,2011-12,IND,29.8,0.1,.374,5.0,0.0,,NBA,,25,3,5.7,.400,.667,3.0,0.3,0.7,0.0,2.7,IND

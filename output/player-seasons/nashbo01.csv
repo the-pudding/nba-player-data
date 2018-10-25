@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Award,HS,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-nashbo01,1976-77,26,Did Not Play,,"Hartford Public in Hartford, Connecticut",,,,,,,,,,,,,,,
-nashbo01,1977-78,27,KCK,,"Hartford Public in Hartford, Connecticut",NBA,66,12.1,.516,.725,2.6,0.7,0.4,0.3,5.5,16.2,2.1,.123,-0.4,0.3
-nashbo01,1978-79,28,KCK,,"Hartford Public in Hartford, Connecticut",NBA,82,15.9,.435,.802,2.5,0.9,0.4,0.2,6.4,9.6,1.1,.042,-4.0,-0.7
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,Award,bbrID,Season,Age,Tm,Team,PER,WS,WS/48,BPM,VORP,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS
+Bob Nash,/players/n/nashbo01.html,1973,1979,University of Hawaii,false,"Hartford Public in Hartford, Connecticut",,,,nashbo01,1976-77,26,Did Not Play,Did Not Play,,,,,,,,,,,,,,,
+Bob Nash,/players/n/nashbo01.html,1973,1979,University of Hawaii,false,"Hartford Public in Hartford, Connecticut",-0.52,0.93,,nashbo01,1977-78,27,KCK,KCK,16.2,2.1,.123,-0.4,0.3,NBA,66,12.1,.516,.725,2.6,0.7,0.4,0.3,5.5
+Bob Nash,/players/n/nashbo01.html,1973,1979,University of Hawaii,false,"Hartford Public in Hartford, Connecticut",-2.85,-0.63,,nashbo01,1978-79,28,KCK,KCK,9.6,1.1,.042,-4.0,-0.7,NBA,82,15.9,.435,.802,2.5,0.9,0.4,0.2,6.4

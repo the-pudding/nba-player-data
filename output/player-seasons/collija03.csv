@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-collija03,2001-02,23,Utah Jazz,NBA,70,20.6,.461,.740,4.2,0.8,0.4,0.3,6.4,11.5,3.3,.111,-1.3,0.2,,332817,"Harvard-Westlake School in North Hollywood, California"
-collija03,2002-03,24,Utah Jazz,NBA,22,19.1,.442,.710,2.7,0.6,0.2,0.3,5.5,8.2,0.7,.078,-2.8,-0.1,,1150000,"Harvard-Westlake School in North Hollywood, California"
-collija03,2003-04,25,Utah Jazz,NBA,81,21.4,.498,.718,3.9,1.0,0.3,0.2,6.0,11.1,4.2,.117,-1.1,0.4,,1250000,"Harvard-Westlake School in North Hollywood, California"
-collija03,2004-05,26,Utah Jazz,NBA,50,19.2,.414,.697,3.3,1.2,0.2,0.1,4.3,8.0,1.1,.057,-2.6,-0.2,,1700000,"Harvard-Westlake School in North Hollywood, California"
-collija03,2005-06,27,Utah Jazz,NBA,79,21.9,.461,.717,4.2,1.2,0.5,0.3,5.3,11.0,3.9,.107,-0.7,0.6,,1700000,"Harvard-Westlake School in North Hollywood, California"
-collija03,2006-07,28,Utah Jazz,NBA,82,11.1,.441,.651,2.1,0.7,0.2,0.1,2.5,8.0,1.3,.067,-2.2,-0.1,,2625698,"Harvard-Westlake School in North Hollywood, California"
-collija03,2007-08,29,Utah Jazz,NBA,70,10.0,.439,.622,1.7,0.5,0.1,0.1,1.7,6.1,1.0,.070,-2.2,0.0,,2350000,"Harvard-Westlake School in North Hollywood, California"
-collija03,2008-09,30,Utah Jazz,NBA,26,7.7,.457,.727,1.4,0.3,0.1,0.0,1.5,5.8,0.2,.047,-3.9,-0.1,,2074302,"Harvard-Westlake School in North Hollywood, California"
-collija03,2009-10,31,Phoenix Suns,NBA,34,7.7,.387,.400,1.8,0.2,0.1,0.1,1.0,3.7,0.1,.010,-4.2,-0.1,,1181803,"Harvard-Westlake School in North Hollywood, California"
-collija03,2010-11,32,Los Angeles Clippers,NBA,28,6.5,.286,.700,0.9,0.1,0.1,0.0,0.7,1.6,-0.1,-0.016,-6.2,-0.2,,643551,"Harvard-Westlake School in North Hollywood, California"
-collija03,2010-11,32,Los Angeles Clippers,NBA,23,6.8,.333,.700,0.7,0.0,0.2,0.0,0.7,1.8,0.0,.000,-6.0,-0.2,,643551,"Harvard-Westlake School in North Hollywood, California"
-collija03,2010-11,32,Los Angeles Clippers,NBA,5,4.8,.167,,1.4,0.2,0.0,0.0,0.4,0.0,-0.1,-0.124,-7.4,0.0,,643551,"Harvard-Westlake School in North Hollywood, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-0.52,1.75,collija03,2001-02,UTA,11.5,3.3,.111,-1.3,0.2,,NBA,332817,23,70,20.6,.461,.740,4.2,0.8,0.4,0.3,6.4,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-3.40,-0.35,collija03,2002-03,UTA,8.2,0.7,.078,-2.8,-0.1,,NBA,1150000,24,22,19.1,.442,.710,2.7,0.6,0.2,0.3,5.5,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-1.74,0.51,collija03,2003-04,UTA,11.1,4.2,.117,-1.1,0.4,,NBA,1250000,25,81,21.4,.498,.718,3.9,1.0,0.3,0.2,6.0,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-0.67,1.04,collija03,2004-05,UTA,8.0,1.1,.057,-2.6,-0.2,,NBA,1700000,26,50,19.2,.414,.697,3.3,1.2,0.2,0.1,4.3,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",+0.01,2.68,collija03,2005-06,UTA,11.0,3.9,.107,-0.7,0.6,,NBA,1700000,27,79,21.9,.461,.717,4.2,1.2,0.5,0.3,5.3,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-0.04,1.55,collija03,2006-07,UTA,8.0,1.3,.067,-2.2,-0.1,,NBA,2625698,28,82,11.1,.441,.651,2.1,0.7,0.2,0.1,2.5,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-1.22,0.50,collija03,2007-08,UTA,6.1,1.0,.070,-2.2,0.0,,NBA,2350000,29,70,10.0,.439,.622,1.7,0.5,0.1,0.1,1.7,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-2.44,-0.03,collija03,2008-09,UTA,5.8,0.2,.047,-3.9,-0.1,,NBA,2074302,30,26,7.7,.457,.727,1.4,0.3,0.1,0.0,1.5,UTA
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-3.71,-0.37,collija03,2009-10,PHO,3.7,0.1,.010,-4.2,-0.1,,NBA,1181803,31,34,7.7,.387,.400,1.8,0.2,0.1,0.1,1.0,PHO
+Jarron Collins,/players/c/collija03.html,2002,2011,Stanford University,false,"Harvard-Westlake School in North Hollywood, California",-1.11,0.13,collija03,2010-11,TOT,1.6,-0.1,-0.016,-6.2,-0.2,,NBA,643551,32,28,6.5,.286,.700,0.9,0.1,0.1,0.0,0.7,"LAC,POR"

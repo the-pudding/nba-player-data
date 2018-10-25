@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hendejr01,1998-99,22,Vancouver Grizzlies,NBA,30,11.0,.365,.556,1.6,0.7,0.3,0.1,3.2,9.0,-0.2,-0.025,-6.1,-0.3,,287500,"East Bakersfield in East Bakersfield, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+J.R. Henderson,/players/h/hendejr01.html,1999,1999,"University of California, Los Angeles",false,"East Bakersfield in East Bakersfield, California",-3.40,-0.28,hendejr01,1998-99,VAN,9.0,-0.2,-0.025,-6.1,-0.3,,NBA,287500,22,30,11.0,.365,.556,1.6,0.7,0.3,0.1,3.2,VAN

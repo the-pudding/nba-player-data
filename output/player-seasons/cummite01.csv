@@ -1,21 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-cummite01,1982-83,21,SDC,NBA,70,36.2,.523,.709,10.6,2.5,1.8,0.9,23.7,22.8,8.7,.164,3.5,3.5,,"Carver in Chicago, Illinois",
-cummite01,1983-84,22,SDC,NBA,81,35.9,.494,.720,9.6,1.7,1.1,0.7,22.9,19.8,7.5,.123,0.9,2.2,,"Carver in Chicago, Illinois",
-cummite01,1984-85,23,Milwaukee Bucks,NBA,79,34.5,.495,.741,9.1,2.9,1.5,0.8,23.6,22.1,10.7,.189,3.8,4.0,All-NBA (2nd),"Carver in Chicago, Illinois",410000
-cummite01,1985-86,24,Milwaukee Bucks,NBA,82,32.5,.474,.656,8.5,2.4,1.5,0.6,19.8,18.2,7.4,.133,1.2,2.1,,"Carver in Chicago, Illinois",633000
-cummite01,1986-87,25,MIL,NBA,82,33.8,.511,.662,8.5,2.8,1.6,1.0,20.8,20.5,8.8,.152,3.4,3.8,,"Carver in Chicago, Illinois",
-cummite01,1987-88,26,Milwaukee Bucks,NBA,76,34.6,.485,.665,7.3,2.4,1.0,0.6,21.3,17.4,5.2,.094,0.1,1.4,,"Carver in Chicago, Illinois",1330000
-cummite01,1988-89,27,Milwaukee Bucks,NBA,80,35.3,.467,.787,8.1,2.5,1.3,0.9,22.9,19.7,7.7,.131,1.7,2.6,All-NBA (3rd),"Carver in Chicago, Illinois",1400000
-cummite01,1989-90,28,San Antonio Spurs,NBA,81,34.8,.475,.780,8.4,2.7,1.4,0.6,22.4,19.6,8.7,.149,1.8,2.7,,"Carver in Chicago, Illinois",1700000
-cummite01,1990-91,29,San Antonio Spurs,NBA,67,32.8,.484,.683,7.8,2.3,0.9,0.4,17.6,16.3,5.6,.122,0.9,1.6,,"Carver in Chicago, Illinois",1860000
-cummite01,1991-92,30,San Antonio Spurs,NBA,70,30.7,.488,.711,9.0,1.5,0.8,0.5,17.3,18.5,6.5,.145,0.1,1.1,,"Carver in Chicago, Illinois",1861000
-cummite01,1992-93,31,San Antonio Spurs,NBA,8,9.5,.379,.500,2.4,0.5,0.1,0.1,3.4,7.9,0.0,.023,-6.4,-0.1,,"Carver in Chicago, Illinois",2407000
-cummite01,1993-94,32,San Antonio Spurs,NBA,59,19.2,.428,.589,5.0,0.8,0.5,0.2,7.3,12.7,1.8,.076,-2.8,-0.2,,"Carver in Chicago, Illinois",2407000
-cummite01,1994-95,33,San Antonio Spurs,NBA,76,16.8,.483,.585,5.0,0.8,0.5,0.3,6.8,13.3,2.0,.076,-2.6,-0.2,,"Carver in Chicago, Illinois",2406600
-cummite01,1995-96,34,Milwaukee Bucks,NBA,81,21.9,.462,.650,5.5,1.1,0.7,0.4,8.0,13.9,3.0,.080,-1.7,0.2,,"Carver in Chicago, Illinois",650000
-cummite01,1996-97,35,SEA,NBA,45,18.4,.486,.695,4.1,0.9,0.7,0.2,8.2,15.2,2.1,.121,-2.3,-0.1,,"Carver in Chicago, Illinois",
-cummite01,1997-98,36,Philadelphia 76ers,NBA,74,16.0,.467,.684,3.8,0.6,0.5,0.1,6.3,13.7,2.6,.103,-2.7,-0.2,,"Carver in Chicago, Illinois",1000000
-cummite01,1997-98,36,Philadelphia 76ers,NBA,44,14.9,.458,.672,3.4,0.5,0.5,0.1,5.3,12.9,1.4,.106,-3.1,-0.2,,"Carver in Chicago, Illinois",1000000
-cummite01,1997-98,36,Philadelphia 76ers,NBA,30,17.6,.477,.700,4.5,0.9,0.5,0.2,7.8,14.6,1.1,.101,-2.1,0.0,,"Carver in Chicago, Illinois",1000000
-cummite01,1998-99,37,Golden State Warriors,NBA,50,20.2,.439,.711,5.1,1.2,0.9,0.2,9.1,16.2,2.6,.122,0.3,0.6,,"Carver in Chicago, Illinois",1150000
-cummite01,1999-00,38,Golden State Warriors,NBA,22,18.1,.429,.821,4.9,1.0,0.6,0.4,8.4,14.0,0.4,.049,-3.9,-0.2,,"Carver in Chicago, Illinois",2600000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+2.21,7.65,cummite01,1982-83,SDC,22.8,8.7,.164,3.5,3.5,,21,NBA,70,36.2,.523,.709,10.6,2.5,1.8,0.9,23.7,SDC,
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+0.92,6.22,cummite01,1983-84,SDC,19.8,7.5,.123,0.9,2.2,,22,NBA,81,35.9,.494,.720,9.6,1.7,1.1,0.7,22.9,SDC,
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+4.01,12.71,cummite01,1984-85,MIL,22.1,10.7,.189,3.8,4.0,All-NBA (2nd),23,NBA,79,34.5,.495,.741,9.1,2.9,1.5,0.8,23.6,MIL,410000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+2.79,10.86,cummite01,1985-86,MIL,18.2,7.4,.133,1.2,2.1,,24,NBA,82,32.5,.474,.656,8.5,2.4,1.5,0.6,19.8,MIL,633000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+2.99,11.36,cummite01,1986-87,MIL,20.5,8.8,.152,3.4,3.8,,25,NBA,82,33.8,.511,.662,8.5,2.8,1.6,1.0,20.8,MIL,
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+0.68,5.64,cummite01,1987-88,MIL,17.4,5.2,.094,0.1,1.4,,26,NBA,76,34.6,.485,.665,7.3,2.4,1.0,0.6,21.3,MIL,1330000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+1.71,7.91,cummite01,1988-89,MIL,19.7,7.7,.131,1.7,2.6,All-NBA (3rd),27,NBA,80,35.3,.467,.787,8.1,2.5,1.3,0.9,22.9,MIL,1400000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+1.78,8.79,cummite01,1989-90,SAS,19.6,8.7,.149,1.8,2.7,,28,NBA,81,34.8,.475,.780,8.4,2.7,1.4,0.6,22.4,SAS,1700000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+0.16,3.83,cummite01,1990-91,SAS,16.3,5.6,.122,0.9,1.6,,29,NBA,67,32.8,.484,.683,7.8,2.3,0.9,0.4,17.6,SAS,1860000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",+0.81,4.76,cummite01,1991-92,SAS,18.5,6.5,.145,0.1,1.1,,30,NBA,70,30.7,.488,.711,9.0,1.5,0.8,0.5,17.3,SAS,1861000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-1.46,0.12,cummite01,1992-93,SAS,7.9,0.0,.023,-6.4,-0.1,,31,NBA,8,9.5,.379,.500,2.4,0.5,0.1,0.1,3.4,SAS,2407000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-1.53,0.60,cummite01,1993-94,SAS,12.7,1.8,.076,-2.8,-0.2,,32,NBA,59,19.2,.428,.589,5.0,0.8,0.5,0.2,7.3,SAS,2407000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-2.01,0.26,cummite01,1994-95,SAS,13.3,2.0,.076,-2.6,-0.2,,33,NBA,76,16.8,.483,.585,5.0,0.8,0.5,0.3,6.8,SAS,2406600
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-1.55,0.89,cummite01,1995-96,MIL,13.9,3.0,.080,-1.7,0.2,,34,NBA,81,21.9,.462,.650,5.5,1.1,0.7,0.4,8.0,MIL,650000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-1.08,0.90,cummite01,1996-97,SEA,15.2,2.1,.121,-2.3,-0.1,,35,NBA,45,18.4,.486,.695,4.1,0.9,0.7,0.2,8.2,SEA,
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-1.44,0.67,cummite01,1997-98,TOT,13.7,2.6,.103,-2.7,-0.2,,36,NBA,74,16.0,.467,.684,3.8,0.6,0.5,0.1,6.3,"PHI,NYK",1000000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-0.42,1.25,cummite01,1998-99,GSW,16.2,2.6,.122,0.3,0.6,,37,NBA,50,20.2,.439,.711,5.1,1.2,0.9,0.2,9.1,GSW,1150000
+Terry Cummings,/players/c/cummite01.html,1983,2000,DePaul University,false,"Carver in Chicago, Illinois",-2.46,-0.07,cummite01,1999-00,GSW,14.0,0.4,.049,-3.9,-0.2,,38,NBA,22,18.1,.429,.821,4.9,1.0,0.6,0.4,8.4,GSW,2600000

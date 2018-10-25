@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-maddoti01,2002-03,21,Houston Rockets,NBA,9,3.9,.250,.625,0.8,0.6,0.3,0.1,1.2,11.2,0.0,-0.011,-2.2,0.0,,349458,"Compton in Compton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tito Maddox,/players/m/maddoti01.html,2003,2003,"California State University, Fresno",false,"Compton in Compton, California",+0.19,0.06,maddoti01,2002-03,HOU,11.2,0.0,-0.011,-2.2,0.0,,NBA,349458,21,9,3.9,.250,.625,0.8,0.6,0.3,0.1,1.2,HOU

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-boycedo01,1995-96,22,Atlanta Hawks,NBA,8,5.1,.391,.500,1.3,0.4,0.4,0.1,3.0,17.7,0.0,.004,-1.8,0.0,,250000,"Proviso East in Maywood, Illinois"
-boycedo01,1996-97,23,Atlanta Hawks,NBA,22,7.0,.333,.500,0.7,0.6,0.5,0.2,2.5,7.0,-0.3,-0.081,-6.7,-0.2,,247500,"Proviso East in Maywood, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Donnie Boyce,/players/b/boycedo01.html,1996,1997,University of Colorado,false,"Proviso East in Maywood, Illinois",+0.05,0.07,boycedo01,1995-96,ATL,17.7,0.0,.004,-1.8,0.0,,NBA,250000,22,8,5.1,.391,.500,1.3,0.4,0.4,0.1,3.0,ATL
+Donnie Boyce,/players/b/boycedo01.html,1996,1997,University of Colorado,false,"Proviso East in Maywood, Illinois",-0.70,0.16,boycedo01,1996-97,ATL,7.0,-0.3,-0.081,-6.7,-0.2,,NBA,247500,23,22,7.0,.333,.500,0.7,0.6,0.5,0.2,2.5,ATL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-harriel01,2013-14,24,LAL,NBA,2,5.5,.000,,0.5,0.5,0.5,0.0,0.0,7.6,0.0,.018,-0.9,0.0,,"Friedrich-Magnus-Schwerd-Gymnasium in Speyer, Germany"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Elias Harris,/players/h/harriel01.html,2014,2014,Gonzaga University,false,"Friedrich-Magnus-Schwerd-Gymnasium in Speyer, Germany",-0.35,0.02,harriel01,2013-14,LAL,7.6,0.0,.018,-0.9,0.0,,24,NBA,2,5.5,.000,,0.5,0.5,0.5,0.0,0.0,LAL

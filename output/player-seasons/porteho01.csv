@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-porteho01,1976-77,28,DET,NBA,78,28.2,.483,.858,5.9,0.7,0.6,0.9,13.2,13.6,4.1,.089,-3.2,-0.6,,"Booker in Sarasota, Florida"
-porteho01,1977-78,29,"DET,NJN",NBA,63,21.0,.487,.800,4.4,0.7,0.5,0.6,11.8,17.4,3.9,.142,-1.5,0.1,,"Booker in Sarasota, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Howard Porter,/players/p/porteho01.html,1972,1978,Villanova University,false,"Booker in Sarasota, Florida",-2.13,0.03,porteho01,1976-77,DET,13.6,4.1,.089,-3.2,-0.6,,28,NBA,78,28.2,.483,.858,5.9,0.7,0.6,0.9,13.2,DET
+Howard Porter,/players/p/porteho01.html,1972,1978,Villanova University,false,"Booker in Sarasota, Florida",-0.42,1.63,porteho01,1977-78,TOT,17.4,3.9,.142,-1.5,0.1,,29,NBA,63,21.0,.487,.800,4.4,0.7,0.5,0.6,11.8,"DET,NJN"

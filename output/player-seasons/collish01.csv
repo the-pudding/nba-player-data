@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-collish01,2010-11,23,Charlotte Bobcats,NBA,20,3.3,.280,1.000,0.3,0.4,0.1,0.0,0.9,3.6,-0.2,-0.121,-10.2,-0.1,,473604,"Crane Technical Preparatory in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sherron Collins,/players/c/collish01.html,2011,2011,University of Kansas,false,"Crane Technical Preparatory in Chicago, Illinois",+0.01,0.10,collish01,2010-11,CHA,3.6,-0.2,-0.121,-10.2,-0.1,,NBA,473604,23,20,3.3,.280,1.000,0.3,0.4,0.1,0.0,0.9,CHA

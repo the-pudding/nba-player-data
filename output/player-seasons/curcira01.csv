@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-curcira01,1992-93,27,Dallas Mavericks,NBA,20,8.3,.390,.722,2.5,0.6,0.4,0.1,2.9,13.5,0.3,.086,-2.7,0.0,,140000,"Cacak in Cacak, Serbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Radisav Curcic,/players/c/curcira01.html,1993,1993,,false,"Cacak in Cacak, Serbia",-0.60,0.19,curcira01,1992-93,DAL,13.5,0.3,.086,-2.7,0.0,,NBA,140000,27,20,8.3,.390,.722,2.5,0.6,0.4,0.1,2.9,DAL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-basdeed01,2005-06,22,Chicago Bulls,NBA,19,7.4,.405,.800,1.5,0.4,0.5,0.1,2.1,10.3,0.2,.065,-1.4,0.0,,398762,"Eleanor Roosevelt in Greenbelt, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eddie Basden,/players/b/basdeed01.html,2006,2006,University of North Carolina at Charlotte,false,"Eleanor Roosevelt in Greenbelt, Maryland",+0.99,0.32,basdeed01,2005-06,CHI,10.3,0.2,.065,-1.4,0.0,,NBA,398762,22,19,7.4,.405,.800,1.5,0.4,0.5,0.1,2.1,CHI

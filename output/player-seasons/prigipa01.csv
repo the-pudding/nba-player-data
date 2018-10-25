@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-prigipa01,2012-13,35,New York Knicks,NBA,78,16.2,.455,.880,1.8,3.0,0.9,0.0,3.5,13.0,3.2,.123,0.6,0.8,,473604,
-prigipa01,2013-14,36,New York Knicks,NBA,66,19.4,.461,.917,2.0,3.5,1.0,0.0,3.8,13.0,3.4,.127,0.6,0.8,,1591350,
-prigipa01,2014-15,37,Houston Rockets,NBA,67,17.9,.399,.854,1.8,2.6,1.2,0.0,4.1,12.2,2.3,.092,-0.5,0.5,,1662961,
-prigipa01,2014-15,37,Houston Rockets,NBA,43,18.5,.422,.846,1.9,2.4,1.2,0.0,4.7,12.7,1.2,.075,-0.5,0.3,,1662961,
-prigipa01,2014-15,37,Houston Rockets,NBA,24,16.8,.343,.867,1.6,2.8,1.1,0.0,3.0,11.4,1.1,.127,-0.4,0.2,,1662961,
-prigipa01,2015-16,38,Los Angeles Clippers,NBA,59,13.9,.374,.875,1.9,2.2,0.9,0.0,2.5,10.2,1.5,.087,0.4,0.5,,981348,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pablo Prigioni,/players/p/prigipa01.html,2013,2016,,false,,+1.53,3.86,prigipa01,2012-13,NYK,13.0,3.2,.123,0.6,0.8,,NBA,473604,35,78,16.2,.455,.880,1.8,3.0,0.9,0.0,3.5,NYK
+Pablo Prigioni,/players/p/prigipa01.html,2013,2016,,false,,+0.85,2.71,prigipa01,2013-14,NYK,13.0,3.4,.127,0.6,0.8,,NBA,1591350,36,66,19.4,.461,.917,2.0,3.5,1.0,0.0,3.8,NYK
+Pablo Prigioni,/players/p/prigipa01.html,2013,2016,,false,,-0.91,1.37,prigipa01,2014-15,TOT,12.2,2.3,.092,-0.5,0.5,,NBA,1662961,37,67,17.9,.399,.854,1.8,2.6,1.2,0.0,4.1,"NYK,HOU"
+Pablo Prigioni,/players/p/prigipa01.html,2013,2016,,false,,-3.21,-0.57,prigipa01,2015-16,LAC,10.2,1.5,.087,0.4,0.5,,NBA,981348,38,59,13.9,.374,.875,1.9,2.2,0.9,0.0,2.5,LAC

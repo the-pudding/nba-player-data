@@ -1,15 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hawessp01,2007-08,19,Sacramento Kings,NBA,71,13.1,.459,.655,3.2,0.6,0.2,0.6,4.7,11.6,0.6,.033,-4.4,-0.6,,2028600,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2008-09,20,Sacramento Kings,NBA,77,29.3,.466,.662,7.1,1.9,0.6,1.2,11.4,13.0,0.8,.016,-2.1,-0.1,,2180760,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2009-10,21,Sacramento Kings,NBA,72,26.4,.468,.689,6.1,2.2,0.4,1.2,10.0,13.8,2.1,.054,-0.3,0.8,,2332800,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2010-11,22,Philadelphia 76ers,NBA,81,21.2,.465,.534,5.7,1.5,0.4,0.9,7.2,12.8,2.4,.066,-1.3,0.3,,2974320,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2011-12,23,Philadelphia 76ers,NBA,37,24.9,.489,.727,7.3,2.6,0.4,1.3,9.6,18.1,2.9,.152,2.7,1.1,,4051024,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2012-13,24,Philadelphia 76ers,NBA,82,27.2,.464,.777,7.2,2.2,0.3,1.4,11.0,16.0,4.5,.096,-0.1,1.1,,8500000,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2013-14,25,Philadelphia 76ers,NBA,80,30.9,.456,.783,8.3,3.0,0.6,1.2,13.2,15.7,4.5,.088,0.5,1.6,,6500000,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2013-14,25,Philadelphia 76ers,NBA,53,31.4,.451,.782,8.5,3.3,0.6,1.3,13.0,15.3,2.6,.075,0.0,0.8,,6500000,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2013-14,25,Philadelphia 76ers,NBA,27,29.8,.468,.784,7.7,2.4,0.5,1.0,13.5,16.6,1.9,.114,1.6,0.7,,6500000,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2014-15,26,Los Angeles Clippers,NBA,73,17.5,.393,.647,3.5,1.2,0.3,0.7,5.8,9.8,1.2,.044,-1.9,0.0,,5305000,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2015-16,27,Charlotte Hornets,NBA,57,18.2,.405,.831,4.3,1.9,0.4,0.5,6.0,12.4,1.9,.090,-0.6,0.4,,5543725,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2016-17,28,Milwaukee Bucks,NBA,54,14.8,.484,.846,3.5,1.5,0.3,0.6,6.2,15.6,1.7,.102,-0.5,0.3,,6348759,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2016-17,28,Milwaukee Bucks,NBA,35,17.9,.477,.882,4.2,1.8,0.4,0.7,7.3,14.8,1.1,.086,-0.6,0.2,,6348759,"Seattle Preparatory School in Seattle, Washington"
-hawessp01,2016-17,28,Milwaukee Bucks,NBA,19,9.0,.508,.778,2.4,1.0,0.1,0.2,4.4,18.6,0.6,.160,0.0,0.1,,6348759,"Seattle Preparatory School in Seattle, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-2.60,-0.18,hawessp01,2007-08,SAC,11.6,0.6,.033,-4.4,-0.6,,NBA,2028600,19,71,13.1,.459,.655,3.2,0.6,0.2,0.6,4.7,SAC
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-3.91,-2.22,hawessp01,2008-09,SAC,13.0,0.8,.016,-2.1,-0.1,,NBA,2180760,20,77,29.3,.466,.662,7.1,1.9,0.6,1.2,11.4,SAC
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-1.93,0.45,hawessp01,2009-10,SAC,13.8,2.1,.054,-0.3,0.8,,NBA,2332800,21,72,26.4,.468,.689,6.1,2.2,0.4,1.2,10.0,SAC
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-1.42,1.03,hawessp01,2010-11,PHI,12.8,2.4,.066,-1.3,0.3,,NBA,2974320,22,81,21.2,.465,.534,5.7,1.5,0.4,0.9,7.2,PHI
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",+0.33,2.22,hawessp01,2011-12,PHI,18.1,2.9,.152,2.7,1.1,,NBA,4051024,23,37,24.9,.489,.727,7.3,2.6,0.4,1.3,9.6,PHI
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-1.08,1.76,hawessp01,2012-13,PHI,16.0,4.5,.096,-0.1,1.1,,NBA,8500000,24,82,27.2,.464,.777,7.2,2.2,0.3,1.4,11.0,PHI
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-1.11,1.92,hawessp01,2013-14,TOT,15.7,4.5,.088,0.5,1.6,,NBA,6500000,25,80,30.9,.456,.783,8.3,3.0,0.6,1.2,13.2,"PHI,CLE"
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-4.61,-2.04,hawessp01,2014-15,LAC,9.8,1.2,.044,-1.9,0.0,,NBA,5305000,26,73,17.5,.393,.647,3.5,1.2,0.3,0.7,5.8,LAC
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-0.18,1.54,hawessp01,2015-16,CHO,12.4,1.9,.090,-0.6,0.4,,NBA,5543725,27,57,18.2,.405,.831,4.3,1.9,0.4,0.5,6.0,CHO
+Spencer Hawes,/players/h/hawessp01.html,2008,2017,University of Washington,true,"Seattle Preparatory School in Seattle, Washington",-2.61,-0.18,hawessp01,2016-17,TOT,15.6,1.7,.102,-0.5,0.3,,NBA,6348759,28,54,14.8,.484,.846,3.5,1.5,0.3,0.6,6.2,"CHO,MIL"

@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-livinra01,1996-97,21,Houston Rockets,NBA,64,15.3,.437,.646,1.5,2.4,0.6,0.2,3.9,8.3,0.3,.012,-4.7,-0.7,,220000,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,1997-98,22,Houston Rockets,NBA,12,6.8,.250,.800,0.5,0.4,0.6,0.2,0.8,5.2,0.0,-0.028,-3.3,0.0,,326700,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,1998-99,23,Phoenix Suns,NBA,1,22.0,.625,1.000,2.0,3.0,2.0,0.0,12.0,27.2,0.1,.275,3.2,0.0,,287500,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,1999-00,24,Phoenix Suns,NBA,79,13.7,.416,.839,1.6,2.2,0.6,0.2,4.8,11.4,1.5,.065,-2.8,-0.2,,485000,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2000-01,25,Golden State Warriors,NBA,2,3.5,.000,,0.5,0.5,0.0,0.0,0.0,-3.7,0.0,-0.222,-14.3,0.0,,20000,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2001-02,26,SEA,NBA,13,13.5,.278,.909,1.9,2.0,0.7,0.2,3.2,12.0,0.2,.065,-1.8,0.0,,,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2002-03,27,NOH,NBA,2,6.0,.500,1.000,0.0,0.5,0.0,0.0,3.0,19.6,0.1,.239,-8.2,0.0,,,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2003-04,28,LAC,NBA,4,12.0,.200,.667,1.8,1.0,0.5,0.0,2.0,1.7,-0.1,-0.110,-7.7,-0.1,,,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2004-05,29,UTA,NBA,17,13.4,.423,.882,0.7,2.6,0.7,0.1,3.8,13.3,0.4,.092,-3.7,-0.1,,,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2005-06,30,CHI,NBA,5,4.4,.000,,0.8,0.2,0.2,0.0,0.0,-3.0,0.0,-0.045,-5.3,0.0,,,"Isidore Newman School in New Orleans, Louisiana"
-livinra01,2006-07,31,SEA,NBA,4,6.5,.000,,0.3,1.0,0.0,0.0,0.0,-1.2,-0.1,-0.116,-11.8,-0.1,,,"Isidore Newman School in New Orleans, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-2.94,-0.47,livinra01,1996-97,HOU,8.3,0.3,.012,-4.7,-0.7,,NBA,220000,21,64,15.3,.437,.646,1.5,2.4,0.6,0.2,3.9,HOU
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-0.09,0.12,livinra01,1997-98,ATL,5.2,0.0,-0.028,-3.3,0.0,,NBA,326700,22,12,6.8,.250,.800,0.5,0.4,0.6,0.2,0.8,ATL
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-0.06,0.07,livinra01,1998-99,PHO,27.2,0.1,.275,3.2,0.0,,NBA,287500,23,1,22.0,.625,1.000,2.0,3.0,2.0,0.0,12.0,PHO
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-1.23,0.75,livinra01,1999-00,PHO,11.4,1.5,.065,-2.8,-0.2,,NBA,485000,24,79,13.7,.416,.839,1.6,2.2,0.6,0.2,4.8,PHO
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-0.18,0.01,livinra01,2000-01,GSW,-3.7,0.0,-0.222,-14.3,0.0,,NBA,20000,25,2,3.5,.000,,0.5,0.5,0.0,0.0,0.0,GSW
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",+1.11,0.60,livinra01,2001-02,SEA,12.0,0.2,.065,-1.8,0.0,,NBA,,26,13,13.5,.278,.909,1.9,2.0,0.7,0.2,3.2,SEA
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",+0.64,0.02,livinra01,2002-03,NOH,19.6,0.1,.239,-8.2,0.0,,NBA,,27,2,6.0,.500,1.000,0.0,0.5,0.0,0.0,3.0,NOH
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-0.24,0.07,livinra01,2003-04,LAC,1.7,-0.1,-0.110,-7.7,-0.1,,NBA,,28,4,12.0,.200,.667,1.8,1.0,0.5,0.0,2.0,LAC
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-0.22,0.32,livinra01,2004-05,UTA,13.3,0.4,.092,-3.7,-0.1,,NBA,,29,17,13.4,.423,.882,0.7,2.6,0.7,0.1,3.8,UTA
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",+0.95,0.05,livinra01,2005-06,CHI,-3.0,0.0,-0.045,-5.3,0.0,,NBA,,30,5,4.4,.000,,0.8,0.2,0.2,0.0,0.0,CHI
+Randy Livingston,/players/l/livinra01.html,1997,2007,Louisiana State University,false,"Isidore Newman School in New Orleans, Louisiana",-0.30,0.03,livinra01,2006-07,SEA,-1.2,-0.1,-0.116,-11.8,-0.1,,NBA,,31,4,6.5,.000,,0.3,1.0,0.0,0.0,0.0,SEA

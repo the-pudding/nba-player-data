@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-abdulza01,1976-77,30,BUF,NBA,22,8.9,.338,.767,4.1,0.3,0.1,0.4,3.8,16.3,0.3,.078,-5.1,-0.2,,"John Jay in Brooklyn, New York"
-abdulza01,1977-78,31,"BOS,HOU",NBA,16,9.9,.383,.739,3.1,0.6,0.2,0.2,3.9,11.4,0.1,.033,-4.3,-0.1,,"John Jay in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zaid Abdul-Aziz,/players/a/abdulza01.html,1969,1978,Iowa State University,false,"John Jay in Brooklyn, New York",-1.15,0.14,abdulza01,1976-77,BUF,16.3,0.3,.078,-5.1,-0.2,,30,NBA,22,8.9,.338,.767,4.1,0.3,0.1,0.4,3.8,BUF
+Zaid Abdul-Aziz,/players/a/abdulza01.html,1969,1978,Iowa State University,false,"John Jay in Brooklyn, New York",-0.22,0.22,abdulza01,1977-78,TOT,11.4,0.1,.033,-4.3,-0.1,,31,NBA,16,9.9,.383,.739,3.1,0.6,0.2,0.2,3.9,"BOS,HOU"

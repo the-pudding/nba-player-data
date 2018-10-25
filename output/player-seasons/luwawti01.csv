@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-luwawti01,2016-17,21,Philadelphia 76ers,NBA,69,17.2,.402,.854,2.2,1.1,0.5,0.1,6.4,8.5,0.8,.034,-4.0,-0.6,,1326960,
-luwawti01,2017-18,22,Philadelphia 76ers,NBA,52,15.5,.375,.793,1.4,1.0,0.2,0.1,5.8,7.0,0.8,.046,-4.7,-0.5,,1386600,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Timothe Luwawu-Cabarrot,/players/l/luwawti01.html,2017,2018,,true,,-1.41,0.69,luwawti01,2016-17,PHI,8.5,0.8,.034,-4.0,-0.6,,NBA,1326960,21,69,17.2,.402,.854,2.2,1.1,0.5,0.1,6.4,PHI
+Timothe Luwawu-Cabarrot,/players/l/luwawti01.html,2017,2018,,true,,-3.25,-0.51,luwawti01,2017-18,PHI,7.0,0.8,.046,-4.7,-0.5,,NBA,1386600,22,52,15.5,.375,.793,1.4,1.0,0.2,0.1,5.8,PHI

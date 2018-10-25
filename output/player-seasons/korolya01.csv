@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-korolya01,2005-06,18,Los Angeles Clippers,NBA,24,5.3,.300,.700,0.5,0.4,0.1,0.0,1.1,4.8,0.0,-0.013,-6.3,-0.1,,1704480,
-korolya01,2006-07,19,Los Angeles Clippers,NBA,10,4.1,.250,.500,0.3,0.4,0.3,0.0,1.2,8.0,0.0,-0.057,-6.8,-0.1,,1832280,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Yaroslav Korolev,/players/k/korolya01.html,2006,2007,,false,,-0.44,0.15,korolya01,2005-06,LAC,4.8,0.0,-0.013,-6.3,-0.1,,NBA,1704480,18,24,5.3,.300,.700,0.5,0.4,0.1,0.0,1.1,LAC
+Yaroslav Korolev,/players/k/korolya01.html,2006,2007,,false,,+0.03,0.06,korolya01,2006-07,LAC,8.0,0.0,-0.057,-6.8,-0.1,,NBA,1832280,19,10,4.1,.250,.500,0.3,0.4,0.3,0.0,1.2,LAC

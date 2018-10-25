@@ -1,9 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-richaje01,2006-07,22,Portland Trail Blazers,NBA,6,3.3,.500,,0.3,0.0,0.2,0.0,1.3,13.8,0.0,.099,-4.3,0.0,,120796,"Zachary in Zachary, Louisiana"
-richaje01,2006-07,22,Portland Trail Blazers,NBA,5,3.8,.500,,0.4,0.0,0.2,0.0,1.6,14.5,0.0,.105,-4.2,0.0,,120796,"Zachary in Zachary, Louisiana"
-richaje01,2006-07,22,Portland Trail Blazers,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.021,-5.8,0.0,,120796,"Zachary in Zachary, Louisiana"
-richaje01,2007-08,23,Memphis Grizzlies,NBA,27,4.9,.364,1.000,0.3,0.1,0.1,0.0,1.5,4.2,-0.1,-0.041,-9.9,-0.3,,511295,"Zachary in Zachary, Louisiana"
-richaje01,2007-08,23,Memphis Grizzlies,NBA,3,5.0,.000,,0.3,0.3,0.0,0.0,0.0,-18.1,-0.2,-0.505,-22.7,-0.1,,511295,"Zachary in Zachary, Louisiana"
-richaje01,2007-08,23,Memphis Grizzlies,NBA,5,5.8,.429,1.000,0.2,0.2,0.2,0.0,2.0,11.0,0.1,.189,0.0,0.0,,511295,"Zachary in Zachary, Louisiana"
-richaje01,2007-08,23,Memphis Grizzlies,NBA,19,4.6,.419,,0.4,0.0,0.1,0.0,1.6,5.8,-0.1,-0.037,-11.0,-0.2,,511295,"Zachary in Zachary, Louisiana"
-richaje01,2008-09,24,Orlando Magic,NBA,12,7.8,.286,.500,1.2,0.3,0.0,0.0,3.1,2.8,-0.2,-0.107,-12.7,-0.3,,769431,"Zachary in Zachary, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jeremy Richardson,/players/r/richaje01.html,2007,2009,Delta State University,false,"Zachary in Zachary, Louisiana",+0.05,0.03,richaje01,2006-07,TOT,13.8,0.0,.099,-4.3,0.0,,NBA,120796,22,6,3.3,.500,,0.3,0.0,0.2,0.0,1.3,"ATL,POR"
+Jeremy Richardson,/players/r/richaje01.html,2007,2009,Delta State University,false,"Zachary in Zachary, Louisiana",-1.42,0.08,richaje01,2007-08,TOT,4.2,-0.1,-0.041,-9.9,-0.3,,NBA,511295,23,27,4.9,.364,1.000,0.3,0.1,0.1,0.0,1.5,"MEM,SAS,ATL"
+Jeremy Richardson,/players/r/richaje01.html,2007,2009,Delta State University,false,"Zachary in Zachary, Louisiana",-1.30,0.06,richaje01,2008-09,ORL,2.8,-0.2,-0.107,-12.7,-0.3,,NBA,769431,24,12,7.8,.286,.500,1.2,0.3,0.0,0.0,3.1,ORL

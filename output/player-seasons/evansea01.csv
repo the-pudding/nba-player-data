@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-evansea01,1979-80,24,DET,NBA,36,10.6,.450,.571,2.1,1.0,0.4,0.0,4.4,10.3,0.1,.015,-4.3,-0.2,,"Lincoln in Port Arthur, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Earl Evans,/players/e/evansea01.html,1980,1980,"University of Southern California, University of Nevada, Las Vegas",false,"Lincoln in Port Arthur, Texas",-2.55,-0.08,evansea01,1979-80,DET,10.3,0.1,.015,-4.3,-0.2,,24,NBA,36,10.6,.450,.571,2.1,1.0,0.4,0.0,4.4,DET

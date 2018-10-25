@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-shengto01,2012-13,21,Brooklyn Nets,NBA,19,4.9,.435,.563,1.2,0.2,0.2,0.1,1.6,8.5,0.0,-0.017,-6.4,-0.1,,473604,
-shengto01,2013-14,22,Brooklyn Nets,NBA,26,5.9,.464,.375,0.6,0.5,0.1,0.0,1.1,3.9,-0.1,-0.040,-6.8,-0.2,,788872,
-shengto01,2013-14,22,Brooklyn Nets,NBA,17,8.1,.458,.375,0.8,0.7,0.1,0.1,1.5,3.3,-0.2,-0.054,-7.1,-0.2,,788872,
-shengto01,2013-14,22,Brooklyn Nets,NBA,9,1.9,.500,,0.2,0.2,0.1,0.0,0.4,9.0,0.0,.073,-4.4,0.0,,788872,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tornike Shengelia,/players/s/shengto01.html,2013,2014,,false,,-0.82,0.09,shengto01,2012-13,BRK,8.5,0.0,-0.017,-6.4,-0.1,,NBA,473604,21,19,4.9,.435,.563,1.2,0.2,0.2,0.1,1.6,BRK
+Tornike Shengelia,/players/s/shengto01.html,2013,2014,,false,,-2.01,0.03,shengto01,2013-14,TOT,3.9,-0.1,-0.040,-6.8,-0.2,,NBA,788872,22,26,5.9,.464,.375,0.6,0.5,0.1,0.0,1.1,"BRK,CHI"

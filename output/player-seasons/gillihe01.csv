@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-gillihe01,1976-77,30,POR,NBA,80,20.8,.438,.767,2.5,2.1,1.0,0.1,9.3,12.7,2.5,.071,-2.9,-0.4,,"Atkins in Winston-Salem, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Herm Gilliam,/players/g/gillihe01.html,1970,1977,Purdue University,false,"Atkins in Winston-Salem, North Carolina",-1.99,0.20,gillihe01,1976-77,POR,12.7,2.5,.071,-2.9,-0.4,,30,NBA,80,20.8,.438,.767,2.5,2.1,1.0,0.1,9.3,POR

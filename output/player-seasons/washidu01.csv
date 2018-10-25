@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-washidu01,1987-88,23,New Jersey Nets,NBA,15,10.4,.429,.800,1.5,2.3,0.8,0.0,3.6,16.1,0.4,.138,0.3,0.1,,75000,"Parkview in Little Rock, Arkansas"
-washidu01,1988-89,24,Did Not Play (suspended—substance abuse),,,,,,,,,,,,,,,,,,"Parkview in Little Rock, Arkansas"
-washidu01,1989-90,25,Did Not Play (suspended—substance abuse),,,,,,,,,,,,,,,,,,"Parkview in Little Rock, Arkansas"
-washidu01,1990-91,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Parkview in Little Rock, Arkansas"
-washidu01,1991-92,27,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,,,,,,,,,,"Parkview in Little Rock, Arkansas"
-washidu01,1992-93,28,LAC,NBA,4,7.0,.000,,0.5,1.3,0.3,0.0,0.0,-2.1,-0.1,-0.167,-12.7,-0.1,,,"Parkview in Little Rock, Arkansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Duane Washington,/players/w/washidu01.html,1988,1993,Middle Tennessee State University,false,"Parkview in Little Rock, Arkansas",+0.18,0.26,washidu01,1987-88,NJN,16.1,0.4,.138,0.3,0.1,,NBA,75000,23,15,10.4,.429,.800,1.5,2.3,0.8,0.0,3.6,NJN
+Duane Washington,/players/w/washidu01.html,1988,1993,Middle Tennessee State University,false,"Parkview in Little Rock, Arkansas",,,washidu01,1988-89,Did Not Play (suspended—substance abuse),,,,,,,,,24,,,,,,,,,,Did Not Play (suspended—substance abuse)
+Duane Washington,/players/w/washidu01.html,1988,1993,Middle Tennessee State University,false,"Parkview in Little Rock, Arkansas",,,washidu01,1989-90,Did Not Play (suspended—substance abuse),,,,,,,,,25,,,,,,,,,,Did Not Play (suspended—substance abuse)
+Duane Washington,/players/w/washidu01.html,1988,1993,Middle Tennessee State University,false,"Parkview in Little Rock, Arkansas",,,washidu01,1990-91,Did Not Play (other pro league—CBA),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—CBA)
+Duane Washington,/players/w/washidu01.html,1988,1993,Middle Tennessee State University,false,"Parkview in Little Rock, Arkansas",,,washidu01,1991-92,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,27,,,,,,,,,,"Did Not Play (other pro league—CBA, USBL)"
+Duane Washington,/players/w/washidu01.html,1988,1993,Middle Tennessee State University,false,"Parkview in Little Rock, Arkansas",-0.20,0.04,washidu01,1992-93,LAC,-2.1,-0.1,-0.167,-12.7,-0.1,,NBA,,28,4,7.0,.000,,0.5,1.3,0.3,0.0,0.0,LAC

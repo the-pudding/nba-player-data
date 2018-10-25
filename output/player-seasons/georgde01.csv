@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-georgde01,1999-00,22,Los Angeles Lakers,NBA,49,7.0,.389,.659,1.5,0.2,0.2,0.1,3.2,12.1,0.7,.093,-4.0,-0.2,,790440,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2000-01,23,Los Angeles Lakers,NBA,59,10.1,.309,.709,1.9,0.3,0.3,0.3,3.1,6.2,-0.3,-0.023,-7.3,-0.8,,849720,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2001-02,24,Los Angeles Lakers,NBA,82,21.5,.411,.675,3.7,1.4,0.9,0.5,7.1,12.6,4.2,.113,0.7,1.2,,834250,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2002-03,25,Los Angeles Lakers,NBA,71,22.7,.390,.790,4.0,1.3,0.8,0.5,6.9,11.4,2.7,.079,-1.3,0.3,,4546000,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2003-04,26,Los Angeles Lakers,NBA,82,23.8,.408,.760,4.0,1.4,1.0,0.5,7.4,11.5,3.4,.083,0.1,1.1,,4546000,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2004-05,27,Los Angeles Lakers,NBA,15,20.4,.356,.750,3.5,0.9,0.5,0.1,7.3,10.7,0.3,.041,-3.2,-0.1,,4546000,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2005-06,28,Los Angeles Lakers,NBA,71,21.7,.400,.674,3.9,1.0,0.9,0.5,6.3,11.3,2.6,.082,-0.8,0.5,,5000600,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2006-07,29,Dallas Mavericks,NBA,60,21.4,.395,.750,3.6,0.6,0.8,0.4,6.4,9.7,2.1,.078,-0.6,0.4,,1974259,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2007-08,30,Dallas Mavericks,NBA,53,15.5,.357,.706,2.6,0.7,0.4,0.2,3.7,7.0,0.7,.039,-2.9,-0.2,,2369111,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2008-09,31,Dallas Mavericks,NBA,43,16.5,.380,.773,1.8,0.3,0.5,0.3,3.4,7.0,0.6,.042,-1.8,0.0,,1600000,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
-georgde01,2009-10,32,Golden State Warriors,NBA,45,16.9,.432,.696,2.5,0.7,0.9,0.2,5.4,11.6,1.3,.084,-0.6,0.3,,1600000,"Benilde-Saint Margaret in St. Louis Park, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-1.57,0.16,georgde01,1999-00,LAL,12.1,0.7,.093,-4.0,-0.2,,NBA,790440,22,49,7.0,.389,.659,1.5,0.2,0.2,0.1,3.2,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-5.03,-1.20,georgde01,2000-01,LAL,6.2,-0.3,-0.023,-7.3,-0.8,,NBA,849720,23,59,10.1,.309,.709,1.9,0.3,0.3,0.3,3.1,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",+1.86,5.91,georgde01,2001-02,LAL,12.6,4.2,.113,0.7,1.2,,NBA,834250,24,82,21.5,.411,.675,3.7,1.4,0.9,0.5,7.1,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-0.31,2.55,georgde01,2002-03,LAL,11.4,2.7,.079,-1.3,0.3,,NBA,4546000,25,71,22.7,.390,.790,4.0,1.3,0.8,0.5,6.9,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",+0.38,4.41,georgde01,2003-04,LAL,11.5,3.4,.083,0.1,1.1,,NBA,4546000,26,82,23.8,.408,.760,4.0,1.4,1.0,0.5,7.4,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-1.73,0.12,georgde01,2004-05,LAL,10.7,0.3,.041,-3.2,-0.1,,NBA,4546000,27,15,20.4,.356,.750,3.5,0.9,0.5,0.1,7.3,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-0.62,1.86,georgde01,2005-06,LAL,11.3,2.6,.082,-0.8,0.5,,NBA,5000600,28,71,21.7,.400,.674,3.9,1.0,0.9,0.5,6.3,LAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-1.77,0.46,georgde01,2006-07,DAL,9.7,2.1,.078,-0.6,0.4,,NBA,1974259,29,60,21.4,.395,.750,3.6,0.6,0.8,0.4,6.4,DAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-2.32,0.00,georgde01,2007-08,DAL,7.0,0.7,.039,-2.9,-0.2,,NBA,2369111,30,53,15.5,.357,.706,2.6,0.7,0.4,0.2,3.7,DAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",-3.36,-0.48,georgde01,2008-09,DAL,7.0,0.6,.042,-1.8,0.0,,NBA,1600000,31,43,16.5,.380,.773,1.8,0.3,0.5,0.3,3.4,DAL
+Devean George,/players/g/georgde01.html,2000,2010,Augsburg College,false,"Benilde-Saint Margaret in St. Louis Park, Minnesota",+0.20,1.27,georgde01,2009-10,GSW,11.6,1.3,.084,-0.6,0.3,,NBA,1600000,32,45,16.9,.432,.696,2.5,0.7,0.9,0.2,5.4,GSW

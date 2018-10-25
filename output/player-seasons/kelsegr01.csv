@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kelsegr01,1979-80,22,DET,NBA,50,24.7,.472,.719,5.5,2.2,1.2,0.7,14.2,16.1,1.4,.056,-0.7,0.4,,"Henry Ford in Detroit, Michigan"
-kelsegr01,1980-81,23,DET,NBA,25,26.2,.421,.642,4.8,1.8,1.4,1.2,12.3,11.8,0.0,-0.002,-2.4,-0.1,,"Henry Ford in Detroit, Michigan"
-kelsegr01,1981-82,24,"DET,SEA",NBA,60,12.4,.428,.656,3.2,1.0,0.3,0.4,5.6,11.8,0.8,.050,-3.3,-0.2,,"Henry Ford in Detroit, Michigan"
-kelsegr01,1982-83,25,SEA,NBA,80,18.8,.549,.673,5.0,1.2,0.7,0.4,8.3,14.7,3.9,.123,0.8,1.1,,"Henry Ford in Detroit, Michigan"
-kelsegr01,1983-84,26,SDC,NBA,80,22.3,.519,.702,4.9,1.1,0.9,0.4,11.0,14.6,2.5,.068,-0.2,0.8,,"Henry Ford in Detroit, Michigan"
-kelsegr01,1984-85,27,IND,NBA,10,11.4,.396,.714,1.9,1.3,0.7,0.0,6.2,13.0,0.1,.025,-4.0,-0.1,,"Henry Ford in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Kelser,/players/k/kelsegr01.html,1980,1985,Michigan State University,false,"Henry Ford in Detroit, Michigan",-1.47,0.64,kelsegr01,1979-80,DET,16.1,1.4,.056,-0.7,0.4,,22,NBA,50,24.7,.472,.719,5.5,2.2,1.2,0.7,14.2,DET
+Greg Kelser,/players/k/kelsegr01.html,1980,1985,Michigan State University,false,"Henry Ford in Detroit, Michigan",-1.76,0.17,kelsegr01,1980-81,DET,11.8,0.0,-0.002,-2.4,-0.1,,23,NBA,25,26.2,.421,.642,4.8,1.8,1.4,1.2,12.3,DET
+Greg Kelser,/players/k/kelsegr01.html,1980,1985,Michigan State University,false,"Henry Ford in Detroit, Michigan",-2.19,0.01,kelsegr01,1981-82,TOT,11.8,0.8,.050,-3.3,-0.2,,24,NBA,60,12.4,.428,.656,3.2,1.0,0.3,0.4,5.6,"DET,SEA"
+Greg Kelser,/players/k/kelsegr01.html,1980,1985,Michigan State University,false,"Henry Ford in Detroit, Michigan",-0.27,2.07,kelsegr01,1982-83,SEA,14.7,3.9,.123,0.8,1.1,,25,NBA,80,18.8,.549,.673,5.0,1.2,0.7,0.4,8.3,SEA
+Greg Kelser,/players/k/kelsegr01.html,1980,1985,Michigan State University,false,"Henry Ford in Detroit, Michigan",-1.62,0.85,kelsegr01,1983-84,SDC,14.6,2.5,.068,-0.2,0.8,,26,NBA,80,22.3,.519,.702,4.9,1.1,0.9,0.4,11.0,SDC
+Greg Kelser,/players/k/kelsegr01.html,1980,1985,Michigan State University,false,"Henry Ford in Detroit, Michigan",+0.14,0.19,kelsegr01,1984-85,IND,13.0,0.1,.025,-4.0,-0.1,,27,NBA,10,11.4,.396,.714,1.9,1.3,0.7,0.0,6.2,IND

@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kerseje01,1984-85,22,POR,NBA,77,12.4,.478,.646,2.7,0.8,0.6,0.4,6.1,15.3,2.2,.111,-0.7,0.3,,"Bluestone in Skipworth, Virginia",
-kerseje01,1985-86,23,Portland Trail Blazers,NBA,79,15.4,.549,.681,3.7,1.1,1.1,0.4,8.5,18.5,3.6,.143,2.2,1.3,,"Bluestone in Skipworth, Virginia",100000
-kerseje01,1986-87,24,POR,NBA,82,25.5,.509,.720,6.0,2.4,1.5,0.9,12.3,16.9,6.4,.147,3.5,2.9,,"Bluestone in Skipworth, Virginia",
-kerseje01,1987-88,25,Portland Trail Blazers,NBA,79,36.6,.499,.735,8.3,3.1,1.6,0.8,19.2,17.3,8.6,.144,2.7,3.4,,"Bluestone in Skipworth, Virginia",190000
-kerseje01,1988-89,26,Portland Trail Blazers,NBA,76,35.7,.469,.694,8.3,3.2,1.8,1.1,17.5,16.6,6.8,.121,2.4,3.0,,"Bluestone in Skipworth, Virginia",451000
-kerseje01,1989-90,27,POR,NBA,82,34.7,.478,.690,8.4,2.3,1.5,0.8,16.0,15.7,8.8,.148,3.1,3.6,,"Bluestone in Skipworth, Virginia",
-kerseje01,1990-91,28,Portland Trail Blazers,NBA,73,32.3,.478,.709,6.6,3.1,1.4,1.0,14.8,15.6,6.7,.136,2.9,2.9,,"Bluestone in Skipworth, Virginia",550000
-kerseje01,1991-92,29,Portland Trail Blazers,NBA,77,33.2,.467,.664,8.2,3.2,1.5,0.9,12.6,14.7,6.8,.128,3.1,3.3,,"Bluestone in Skipworth, Virginia",561000
-kerseje01,1992-93,30,Portland Trail Blazers,NBA,65,26.4,.438,.634,6.2,1.9,1.2,0.6,10.6,13.7,3.4,.094,0.1,0.9,,"Bluestone in Skipworth, Virginia",2655000
-kerseje01,1993-94,31,Portland Trail Blazers,NBA,78,16.4,.433,.748,4.2,1.0,0.9,0.6,6.5,14.5,3.2,.119,0.4,0.8,,"Bluestone in Skipworth, Virginia",2940000
-kerseje01,1994-95,32,Portland Trail Blazers,NBA,63,18.1,.415,.766,4.1,1.3,0.8,0.6,8.1,14.5,2.5,.104,-0.5,0.4,,"Bluestone in Skipworth, Virginia",3608000
-kerseje01,1995-96,33,Golden State Warriors,NBA,76,21.3,.410,.660,4.8,1.5,1.2,0.6,6.7,13.1,2.4,.071,0.4,1.0,,"Bluestone in Skipworth, Virginia",255000
-kerseje01,1996-97,34,Los Angeles Lakers,NBA,70,25.2,.432,.602,5.2,1.3,1.7,0.7,6.8,12.3,3.8,.102,1.4,1.5,,"Bluestone in Skipworth, Virginia",247500
-kerseje01,1997-98,35,Seattle SuperSonics,NBA,37,19.4,.416,.600,3.6,1.2,1.4,0.4,6.3,12.6,1.2,.079,-0.3,0.3,,"Bluestone in Skipworth, Virginia",500000
-kerseje01,1998-99,36,San Antonio Spurs,NBA,45,15.5,.340,.429,2.9,0.9,0.8,0.3,3.2,7.4,0.6,.040,-1.3,0.1,,"Bluestone in Skipworth, Virginia",1000000
-kerseje01,1999-00,37,San Antonio Spurs,NBA,72,18.2,.412,.707,3.1,1.0,0.9,0.7,4.5,10.0,2.1,.077,0.2,0.7,,"Bluestone in Skipworth, Virginia",1000000
-kerseje01,2000-01,38,Milwaukee Bucks,NBA,22,11.0,.464,.500,2.0,0.7,0.6,0.4,3.3,12.9,0.5,.101,-1.2,0.1,,"Bluestone in Skipworth, Virginia",1000000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+0.04,1.60,kerseje01,1984-85,POR,15.3,2.2,.111,-0.7,0.3,,22,NBA,77,12.4,.478,.646,2.7,0.8,0.6,0.4,6.1,POR,
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+0.83,2.67,kerseje01,1985-86,POR,18.5,3.6,.143,2.2,1.3,,23,NBA,79,15.4,.549,.681,3.7,1.1,1.1,0.4,8.5,POR,100000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+1.55,5.52,kerseje01,1986-87,POR,16.9,6.4,.147,3.5,2.9,,24,NBA,82,25.5,.509,.720,6.0,2.4,1.5,0.9,12.3,POR,
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+2.37,9.35,kerseje01,1987-88,POR,17.3,8.6,.144,2.7,3.4,,25,NBA,79,36.6,.499,.735,8.3,3.1,1.6,0.8,19.2,POR,190000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+1.64,7.48,kerseje01,1988-89,POR,16.6,6.8,.121,2.4,3.0,,26,NBA,76,35.7,.469,.694,8.3,3.2,1.8,1.1,17.5,POR,451000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+2.33,11.40,kerseje01,1989-90,POR,15.7,8.8,.148,3.1,3.6,,27,NBA,82,34.7,.478,.690,8.4,2.3,1.5,0.8,16.0,POR,
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+2.41,9.28,kerseje01,1990-91,POR,15.6,6.7,.136,2.9,2.9,,28,NBA,73,32.3,.478,.709,6.6,3.1,1.4,1.0,14.8,POR,550000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+2.11,9.79,kerseje01,1991-92,POR,14.7,6.8,.128,3.1,3.3,,29,NBA,77,33.2,.467,.664,8.2,3.2,1.5,0.9,12.6,POR,561000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+0.33,3.21,kerseje01,1992-93,POR,13.7,3.4,.094,0.1,0.9,,30,NBA,65,26.4,.438,.634,6.2,1.9,1.2,0.6,10.6,POR,2655000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+0.07,2.09,kerseje01,1993-94,POR,14.5,3.2,.119,0.4,0.8,,31,NBA,78,16.4,.433,.748,4.2,1.0,0.9,0.6,6.5,POR,2940000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+0.13,1.97,kerseje01,1994-95,POR,14.5,2.5,.104,-0.5,0.4,,32,NBA,63,18.1,.415,.766,4.1,1.3,0.8,0.6,8.1,POR,3608000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",-0.72,1.71,kerseje01,1995-96,GSW,13.1,2.4,.071,0.4,1.0,,33,NBA,76,21.3,.410,.660,4.8,1.5,1.2,0.6,6.7,GSW,255000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",+0.69,4.00,kerseje01,1996-97,LAL,12.3,3.8,.102,1.4,1.5,,34,NBA,70,25.2,.432,.602,5.2,1.3,1.7,0.7,6.8,LAL,247500
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",-0.80,0.92,kerseje01,1997-98,SEA,12.6,1.2,.079,-0.3,0.3,,35,NBA,37,19.4,.416,.600,3.6,1.2,1.4,0.4,6.3,SEA,500000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",-1.55,0.33,kerseje01,1998-99,SAS,7.4,0.6,.040,-1.3,0.1,,36,NBA,45,15.5,.340,.429,2.9,0.9,0.8,0.3,3.2,SAS,1000000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",-0.38,1.69,kerseje01,1999-00,SAS,10.0,2.1,.077,0.2,0.7,,37,NBA,72,18.2,.412,.707,3.1,1.0,0.9,0.7,4.5,SAS,1000000
+Jerome Kersey,/players/k/kerseje01.html,1985,2001,Longwood University,false,"Bluestone in Skipworth, Virginia",-0.19,0.35,kerseje01,2000-01,MIL,12.9,0.5,.101,-1.2,0.1,,38,NBA,22,11.0,.464,.500,2.0,0.7,0.6,0.4,3.3,MIL,1000000

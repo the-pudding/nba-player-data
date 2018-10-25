@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willijo03,2011-12,21,New Jersey Nets,NBA,43,14.8,.507,.652,3.6,0.3,0.5,0.3,4.6,14.5,1.3,.101,-3.1,-0.2,,473604,"Torrington in Torrington, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jordan Williams,/players/w/willijo03.html,2012,2012,University of Maryland,false,"Torrington in Torrington, Connecticut",-0.55,0.74,willijo03,2011-12,NJN,14.5,1.3,.101,-3.1,-0.2,,NBA,473604,21,43,14.8,.507,.652,3.6,0.3,0.5,0.3,4.6,NJN

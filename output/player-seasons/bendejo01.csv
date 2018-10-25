@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bendejo01,1999-00,19,Indiana Pacers,NBA,24,5.4,.329,.667,0.9,0.1,0.0,0.2,2.7,7.6,-0.2,-0.074,-12.0,-0.3,,2214600,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2000-01,20,Indiana Pacers,NBA,59,9.7,.355,.735,1.3,0.5,0.1,0.5,3.3,7.6,-0.1,-0.012,-6.3,-0.6,,2380680,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2001-02,21,Indiana Pacers,NBA,78,21.1,.430,.773,3.1,0.8,0.2,0.6,7.4,10.6,2.0,.059,-2.7,-0.3,,2546760,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2002-03,22,Indiana Pacers,NBA,46,17.8,.441,.714,2.9,0.9,0.2,1.2,6.6,13.3,1.7,.099,-0.8,0.2,,3226745,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2003-04,23,Indiana Pacers,NBA,21,12.9,.472,.830,1.9,0.4,0.2,0.5,7.0,15.7,0.5,.087,-3.8,-0.1,,5800000,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2004-05,24,Indiana Pacers,NBA,7,13.3,.400,.500,2.0,0.6,0.1,0.3,5.1,5.8,-0.2,-0.120,-10.0,-0.2,,6525000,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2005-06,25,Indiana Pacers,NBA,2,10.5,.800,1.000,2.0,1.0,0.0,0.5,5.0,26.4,0.2,.359,4.8,0.0,,7175000,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2006-07,26,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2007-08,27,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2008-09,28,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,,"Picayune Memorial in Picayune, Mississippi"
-bendejo01,2009-10,29,New York Knicks,NBA,25,11.7,.400,.923,2.1,0.6,0.1,0.7,4.7,10.8,0.0,-0.001,-5.4,-0.2,,801361,"Picayune Memorial in Picayune, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-0.66,0.16,bendejo01,1999-00,IND,7.6,-0.2,-0.074,-12.0,-0.3,,NBA,2214600,19,24,5.4,.329,.667,0.9,0.1,0.0,0.2,2.7,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-2.83,-0.35,bendejo01,2000-01,IND,7.6,-0.1,-0.012,-6.3,-0.6,,NBA,2380680,20,59,9.7,.355,.735,1.3,0.5,0.1,0.5,3.3,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-2.36,-0.21,bendejo01,2001-02,IND,10.6,2.0,.059,-2.7,-0.3,,NBA,2546760,21,78,21.1,.430,.773,3.1,0.8,0.2,0.6,7.4,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-0.58,0.96,bendejo01,2002-03,IND,13.3,1.7,.099,-0.8,0.2,,NBA,3226745,22,46,17.8,.441,.714,2.9,0.9,0.2,1.2,6.6,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-2.08,0.03,bendejo01,2003-04,IND,15.7,0.5,.087,-3.8,-0.1,,NBA,5800000,23,21,12.9,.472,.830,1.9,0.4,0.2,0.5,7.0,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-0.35,0.12,bendejo01,2004-05,IND,5.8,-0.2,-0.120,-10.0,-0.2,,NBA,6525000,24,7,13.3,.400,.500,2.0,0.6,0.1,0.3,5.1,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",+1.11,0.05,bendejo01,2005-06,IND,26.4,0.2,.359,4.8,0.0,,NBA,7175000,25,2,10.5,.800,1.000,2.0,1.0,0.0,0.5,5.0,IND
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",,,bendejo01,2006-07,Did Not Play (injury—knee),,,,,,,,,26,,,,,,,,,,Did Not Play (injury—knee)
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",,,bendejo01,2007-08,Did Not Play (injury—knee),,,,,,,,,27,,,,,,,,,,Did Not Play (injury—knee)
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",,,bendejo01,2008-09,Did Not Play (injury—knee),,,,,,,,,28,,,,,,,,,,Did Not Play (injury—knee)
+Jonathan Bender,/players/b/bendejo01.html,2000,2010,,false,"Picayune Memorial in Picayune, Mississippi",-2.66,-0.07,bendejo01,2009-10,NYK,10.8,0.0,-0.001,-5.4,-0.2,,NBA,801361,29,25,11.7,.400,.923,2.1,0.6,0.1,0.7,4.7,NYK

@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hudsotr01,1997-98,21,Utah Jazz,NBA,8,2.9,.429,,0.3,0.5,0.3,0.0,1.5,19.1,0.0,.075,1.0,0.0,,242000,"Carbondale in Carbondale, Illinois"
-hudsotr01,1998-99,22,Los Angeles Clippers,NBA,25,21.0,.400,.895,2.2,3.7,0.4,0.1,6.8,14.1,0.5,.043,-3.1,-0.1,,287500,"Carbondale in Carbondale, Illinois"
-hudsotr01,1999-00,23,Los Angeles Clippers,NBA,62,25.7,.377,.811,2.4,3.9,0.7,0.0,8.8,11.6,-0.2,-0.005,-4.3,-0.9,,460000,"Carbondale in Carbondale, Illinois"
-hudsotr01,2000-01,24,Orlando Magic,NBA,75,13.4,.336,.817,1.4,2.2,0.5,0.0,4.8,10.2,0.1,.003,-5.0,-0.8,,523500,"Carbondale in Carbondale, Illinois"
-hudsotr01,2001-02,25,Orlando Magic,NBA,81,22.9,.434,.876,1.8,3.1,0.7,0.1,11.7,15.3,2.5,.064,-3.1,-0.5,,590850,"Carbondale in Carbondale, Illinois"
-hudsotr01,2002-03,26,Minnesota Timberwolves,NBA,79,32.9,.428,.900,2.3,5.7,0.8,0.1,14.2,15.2,5.1,.094,-1.0,0.6,,2000000,"Carbondale in Carbondale, Illinois"
-hudsotr01,2003-04,27,Minnesota Timberwolves,NBA,29,17.3,.386,.818,1.2,2.4,0.2,0.0,7.5,12.5,0.6,.058,-4.2,-0.3,,2100000,"Carbondale in Carbondale, Illinois"
-hudsotr01,2004-05,28,Minnesota Timberwolves,NBA,79,21.9,.401,.778,1.3,3.6,0.3,0.1,8.7,12.1,1.3,.036,-4.0,-0.9,,4903000,"Carbondale in Carbondale, Illinois"
-hudsotr01,2005-06,29,Minnesota Timberwolves,NBA,36,22.2,.381,.923,1.2,2.9,0.3,0.1,9.5,12.2,0.7,.042,-4.6,-0.5,,5253000,"Carbondale in Carbondale, Illinois"
-hudsotr01,2006-07,30,Minnesota Timberwolves,NBA,34,16.3,.379,.813,1.4,2.1,0.4,0.1,5.9,10.8,0.1,.005,-4.7,-0.4,,5603000,"Carbondale in Carbondale, Illinois"
-hudsotr01,2007-08,31,Minnesota Timberwolves,NBA,9,10.3,.290,1.000,0.8,1.0,0.3,0.0,3.1,5.2,-0.1,-0.062,-8.7,-0.2,,5953000,"Carbondale in Carbondale, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",+0.14,0.04,hudsotr01,1997-98,UTA,19.1,0.0,.075,1.0,0.0,,NBA,242000,21,8,2.9,.429,,0.3,0.5,0.3,0.0,1.5,UTA
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-2.11,0.05,hudsotr01,1998-99,LAC,14.1,0.5,.043,-3.1,-0.1,,NBA,287500,22,25,21.0,.400,.895,2.2,3.7,0.4,0.1,6.8,LAC
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-3.38,-1.24,hudsotr01,1999-00,LAC,11.6,-0.2,-0.005,-4.3,-0.9,,NBA,460000,23,62,25.7,.377,.811,2.4,3.9,0.7,0.0,8.8,LAC
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-3.85,-1.17,hudsotr01,2000-01,ORL,10.2,0.1,.003,-5.0,-0.8,,NBA,523500,24,75,13.4,.336,.817,1.4,2.2,0.5,0.0,4.8,ORL
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-4.14,-2.42,hudsotr01,2001-02,ORL,15.3,2.5,.064,-3.1,-0.5,,NBA,590850,25,81,22.9,.434,.876,1.8,3.1,0.7,0.1,11.7,ORL
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-0.08,4.19,hudsotr01,2002-03,MIN,15.2,5.1,.094,-1.0,0.6,,NBA,2000000,26,79,32.9,.428,.900,2.3,5.7,0.8,0.1,14.2,MIN
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-4.15,-0.68,hudsotr01,2003-04,MIN,12.5,0.6,.058,-4.2,-0.3,,NBA,2100000,27,29,17.3,.386,.818,1.2,2.4,0.2,0.0,7.5,MIN
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-1.94,0.43,hudsotr01,2004-05,MIN,12.1,1.3,.036,-4.0,-0.9,,NBA,4903000,28,79,21.9,.401,.778,1.3,3.6,0.3,0.1,8.7,MIN
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-1.97,0.15,hudsotr01,2005-06,MIN,12.2,0.7,.042,-4.6,-0.5,,NBA,5253000,29,36,22.2,.381,.923,1.2,2.9,0.3,0.1,9.5,MIN
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-2.08,0.05,hudsotr01,2006-07,MIN,10.8,0.1,.005,-4.7,-0.4,,NBA,5603000,30,34,16.3,.379,.813,1.4,2.1,0.4,0.1,5.9,MIN
+Troy Hudson,/players/h/hudsotr01.html,1998,2008,"University of Missouri, Southern Illinois University",false,"Carbondale in Carbondale, Illinois",-1.57,0.05,hudsotr01,2007-08,GSW,5.2,-0.1,-0.062,-8.7,-0.2,,NBA,5953000,31,9,10.3,.290,1.000,0.8,1.0,0.3,0.0,3.1,GSW

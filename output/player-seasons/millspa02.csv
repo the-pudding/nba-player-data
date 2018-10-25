@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-millspa02,2009-10,21,Portland Trail Blazers,NBA,10,3.8,.417,.571,0.2,0.5,0.0,0.0,2.6,11.9,0.0,-0.036,-8.5,-0.1,,457588,"Marist College Canberra in Canberra, Australia"
-millspa02,2010-11,22,Portland Trail Blazers,NBA,64,12.2,.412,.766,0.8,1.7,0.4,0.0,5.5,13.0,0.7,.044,-3.6,-0.3,,937195,"Marist College Canberra in Canberra, Australia"
-millspa02,2011-12,23,SAS,NBA,16,16.3,.485,1.000,1.8,2.4,0.6,0.1,10.3,21.5,0.9,.161,2.5,0.3,,,"Marist College Canberra in Canberra, Australia"
-millspa02,2012-13,24,San Antonio Spurs,NBA,58,11.3,.469,.842,0.9,1.1,0.4,0.1,5.1,14.1,1.5,.109,-0.4,0.3,,1085120,"Marist College Canberra in Canberra, Australia"
-millspa02,2013-14,25,San Antonio Spurs,NBA,81,18.9,.464,.890,2.1,1.8,0.8,0.1,10.2,18.7,5.6,.175,3.3,2.0,,1133950,"Marist College Canberra in Canberra, Australia"
-millspa02,2014-15,26,San Antonio Spurs,NBA,51,15.7,.381,.825,1.5,1.7,0.5,0.0,6.9,13.0,1.4,.087,-0.7,0.3,,3842105,"Marist College Canberra in Canberra, Australia"
-millspa02,2015-16,27,San Antonio Spurs,NBA,81,20.5,.425,.810,2.0,2.8,0.7,0.1,8.5,14.6,4.8,.139,1.7,1.6,,3578947,"Marist College Canberra in Canberra, Australia"
-millspa02,2016-17,28,San Antonio Spurs,NBA,80,21.9,.440,.825,1.8,3.5,0.8,0.0,9.5,15.2,5.1,.139,1.3,1.5,,3578948,"Marist College Canberra in Canberra, Australia"
-millspa02,2017-18,29,San Antonio Spurs,NBA,82,25.7,.411,.890,1.9,2.8,0.7,0.1,10.0,11.8,4.1,.093,-0.4,0.9,,10714286,"Marist College Canberra in Canberra, Australia"
-millspa02,2018-19,30,SAS,NBA,4,27.0,.385,.600,2.8,1.3,0.3,0.3,6.8,4.8,-0.2,-0.068,-5.7,-0.1,,,"Marist College Canberra in Canberra, Australia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",+0.03,0.08,millspa02,2009-10,POR,11.9,0.0,-0.036,-8.5,-0.1,,NBA,457588,21,10,3.8,.417,.571,0.2,0.5,0.0,0.0,2.6,POR
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",-4.06,-0.91,millspa02,2010-11,POR,13.0,0.7,.044,-3.6,-0.3,,NBA,937195,22,64,12.2,.412,.766,0.8,1.7,0.4,0.0,5.5,POR
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",+0.39,0.52,millspa02,2011-12,SAS,21.5,0.9,.161,2.5,0.3,,NBA,,23,16,16.3,.485,1.000,1.8,2.4,0.6,0.1,10.3,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",-0.93,0.63,millspa02,2012-13,SAS,14.1,1.5,.109,-0.4,0.3,,NBA,1085120,24,58,11.3,.469,.842,0.9,1.1,0.4,0.1,5.1,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",+2.84,6.48,millspa02,2013-14,SAS,18.7,5.6,.175,3.3,2.0,,NBA,1133950,25,81,18.9,.464,.890,2.1,1.8,0.8,0.1,10.2,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",+0.80,1.92,millspa02,2014-15,SAS,13.0,1.4,.087,-0.7,0.3,,NBA,3842105,26,51,15.7,.381,.825,1.5,1.7,0.5,0.0,6.9,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",+1.78,5.08,millspa02,2015-16,SAS,14.6,4.8,.139,1.7,1.6,,NBA,3578947,27,81,20.5,.425,.810,2.0,2.8,0.7,0.1,8.5,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",+1.54,5.56,millspa02,2016-17,SAS,15.2,5.1,.139,1.3,1.5,,NBA,3578948,28,80,21.9,.440,.825,1.8,3.5,0.8,0.0,9.5,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",-1.12,1.81,millspa02,2017-18,SAS,11.8,4.1,.093,-0.4,0.9,,NBA,10714286,29,82,25.7,.411,.890,1.9,2.8,0.7,0.1,10.0,SAS
+Patty Mills,/players/m/millspa02.html,2010,2019,Saint Mary's College of California,true,"Marist College Canberra in Canberra, Australia",,,millspa02,2018-19,SAS,4.8,-0.2,-0.068,-5.7,-0.1,,NBA,,30,4,27.0,.385,.600,2.8,1.3,0.3,0.3,6.8,SAS

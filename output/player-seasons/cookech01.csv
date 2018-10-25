@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cookech01,2017-18,23,New Orleans Pelicans,NBA,13,2.9,.143,.500,0.2,0.1,0.1,0.0,0.5,-5.1,-0.2,-0.239,-14.6,-0.1,,,"Trenton Catholic in Trenton, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charles Cooke,/players/c/cookech01.html,2018,2018,University of Dayton,true,"Trenton Catholic in Trenton, New Jersey",-1.94,0.01,cookech01,2017-18,NOP,-5.1,-0.2,-0.239,-14.6,-0.1,,NBA,,23,13,2.9,.143,.500,0.2,0.1,0.1,0.0,0.5,NOP

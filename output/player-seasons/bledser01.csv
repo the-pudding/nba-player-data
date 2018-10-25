@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bledser01,2010-11,21,Los Angeles Clippers,NBA,81,22.7,.424,.744,2.8,3.6,1.1,0.3,6.7,10.8,0.3,.008,-2.0,0.0,,1485000,"A.H. Parker in Birmingham, Alabama"
-bledser01,2011-12,22,Los Angeles Clippers,NBA,40,11.6,.389,.636,1.6,1.7,0.8,0.4,3.3,11.2,0.2,.022,-0.9,0.1,,1596360,"A.H. Parker in Birmingham, Alabama"
-bledser01,2012-13,23,Los Angeles Clippers,NBA,76,20.4,.445,.791,3.0,3.1,1.4,0.7,8.5,17.5,3.7,.115,2.7,1.9,,1707720,"A.H. Parker in Birmingham, Alabama"
-bledser01,2013-14,24,Phoenix Suns,NBA,43,32.9,.477,.772,4.7,5.5,1.6,0.3,17.7,19.6,4.1,.140,2.9,1.8,,2626473,"A.H. Parker in Birmingham, Alabama"
-bledser01,2014-15,25,Phoenix Suns,NBA,81,34.6,.447,.800,5.2,6.1,1.6,0.6,17.0,18.4,7.0,.119,2.6,3.3,,12173913,"A.H. Parker in Birmingham, Alabama"
-bledser01,2015-16,26,Phoenix Suns,NBA,31,34.2,.453,.802,4.0,6.1,2.0,0.6,20.4,20.0,2.5,.116,2.8,1.3,,13086957,"A.H. Parker in Birmingham, Alabama"
-bledser01,2016-17,27,Phoenix Suns,NBA,66,33.0,.434,.847,4.8,6.3,1.4,0.5,21.1,20.5,5.3,.118,3.3,2.9,,14000000,"A.H. Parker in Birmingham, Alabama"
-bledser01,2017-18,28,Milwaukee Bucks,NBA,74,31.4,.473,.795,3.8,5.0,2.0,0.6,17.7,19.7,5.6,.116,2.1,2.4,,14500000,"A.H. Parker in Birmingham, Alabama"
-bledser01,2017-18,28,Milwaukee Bucks,NBA,3,27.7,.400,.786,2.3,3.0,1.3,0.7,15.7,13.0,0.0,-0.028,-4.9,-0.1,,14500000,"A.H. Parker in Birmingham, Alabama"
-bledser01,2017-18,28,Milwaukee Bucks,NBA,71,31.5,.476,.795,3.9,5.1,2.0,0.6,17.8,20.0,5.7,.121,2.4,2.5,,14500000,"A.H. Parker in Birmingham, Alabama"
-bledser01,2018-19,29,MIL,NBA,4,31.3,.471,1.000,5.5,6.8,1.3,1.3,15.8,22.0,0.7,.258,7.1,0.3,,,"A.H. Parker in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",-2.51,-0.31,bledser01,2010-11,LAC,10.8,0.3,.008,-2.0,0.0,,NBA,1485000,21,81,22.7,.424,.744,2.8,3.6,1.1,0.3,6.7,LAC
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",-0.06,0.98,bledser01,2011-12,LAC,11.2,0.2,.022,-0.9,0.1,,NBA,1596360,22,40,11.6,.389,.636,1.6,1.7,0.8,0.4,3.3,LAC
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",+0.80,3.47,bledser01,2012-13,LAC,17.5,3.7,.115,2.7,1.9,,NBA,1707720,23,76,20.4,.445,.791,3.0,3.1,1.4,0.7,8.5,LAC
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",+1.99,4.12,bledser01,2013-14,PHO,19.6,4.1,.140,2.9,1.8,,NBA,2626473,24,43,32.9,.477,.772,4.7,5.5,1.6,0.3,17.7,PHO
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",+2.76,9.61,bledser01,2014-15,PHO,18.4,7.0,.119,2.6,3.3,,NBA,12173913,25,81,34.6,.447,.800,5.2,6.1,1.6,0.6,17.0,PHO
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",+1.90,3.02,bledser01,2015-16,PHO,20.0,2.5,.116,2.8,1.3,,NBA,13086957,26,31,34.2,.453,.802,4.0,6.1,2.0,0.6,20.4,PHO
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",+1.64,5.72,bledser01,2016-17,PHO,20.5,5.3,.118,3.3,2.9,,NBA,14000000,27,66,33.0,.434,.847,4.8,6.3,1.4,0.5,21.1,PHO
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",+2.64,8.33,bledser01,2017-18,TOT,19.7,5.6,.116,2.1,2.4,,NBA,14500000,28,74,31.4,.473,.795,3.8,5.0,2.0,0.6,17.7,"PHO,MIL"
+Eric Bledsoe,/players/b/bledser01.html,2011,2019,University of Kentucky,true,"A.H. Parker in Birmingham, Alabama",,,bledser01,2018-19,MIL,22.0,0.7,.258,7.1,0.3,,NBA,,29,4,31.3,.471,1.000,5.5,6.8,1.3,1.3,15.8,MIL

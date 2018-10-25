@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hamilta01,2001-02,23,Miami Heat,NBA,9,10.9,.526,.000,2.0,0.6,0.4,0.0,2.2,10.9,0.2,.120,-0.8,0.0,,60881,"Lanier in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tang Hamilton,/players/h/hamilta01.html,2002,2002,Mississippi State University,false,"Lanier in Jackson, Mississippi",-0.03,0.15,hamilta01,2001-02,MIA,10.9,0.2,.120,-0.8,0.0,,NBA,60881,23,9,10.9,.526,.000,2.0,0.6,0.4,0.0,2.2,MIA

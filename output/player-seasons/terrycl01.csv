@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-terrycl01,1976-77,27,"BUF,ATL",NBA,45,12.1,.503,.818,1.0,1.3,0.4,0.0,5.1,13.2,1.0,.088,-3.4,-0.2,,
-terrycl01,1977-78,28,ATL,NBA,27,6.1,.368,.818,0.6,0.3,0.2,0.0,2.2,6.9,0.0,-0.008,-7.7,-0.2,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Claude Terry,/players/t/terrycl01.html,1973,1978,Stanford University,false,,-1.92,0.08,terrycl01,1976-77,TOT,13.2,1.0,.088,-3.4,-0.2,,27,NBA,45,12.1,.503,.818,1.0,1.3,0.4,0.0,5.1,"BUF,ATL"
+Claude Terry,/players/t/terrycl01.html,1973,1978,Stanford University,false,,-0.31,0.22,terrycl01,1977-78,ATL,6.9,0.0,-0.008,-7.7,-0.2,,28,NBA,27,6.1,.368,.818,0.6,0.3,0.2,0.0,2.2,ATL

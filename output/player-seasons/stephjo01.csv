@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-stephjo01,1996-97,24,HOU,NBA,2,4.5,.200,,1.5,0.0,1.5,0.0,1.5,3.0,-0.1,-0.308,-7.4,0.0,,"North Shore in Houston, Texas",
-stephjo01,1997-98,25,Houston Rockets,NBA,7,5.3,.357,.667,0.9,0.1,0.3,0.0,3.9,17.7,0.0,-0.010,-8.6,-0.1,,"North Shore in Houston, Texas",272250
-stephjo01,1998-99,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"North Shore in Houston, Texas",
-stephjo01,1999-00,27,Vancouver Grizzlies,NBA,13,13.9,.373,.750,2.8,0.8,0.5,0.2,3.2,10.2,0.0,.012,-3.6,-0.1,,"North Shore in Houston, Texas",88441
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Joe Stephens,/players/s/stephjo01.html,1997,2000,"University of Colorado, University of Arkansas at Little Rock",false,"North Shore in Houston, Texas",+0.06,0.01,stephjo01,1996-97,HOU,3.0,-0.1,-0.308,-7.4,0.0,,24,NBA,2,4.5,.200,,1.5,0.0,1.5,0.0,1.5,HOU,
+Joe Stephens,/players/s/stephjo01.html,1997,2000,"University of Colorado, University of Arkansas at Little Rock",false,"North Shore in Houston, Texas",-0.01,0.06,stephjo01,1997-98,HOU,17.7,0.0,-0.010,-8.6,-0.1,,25,NBA,7,5.3,.357,.667,0.9,0.1,0.3,0.0,3.9,HOU,272250
+Joe Stephens,/players/s/stephjo01.html,1997,2000,"University of Colorado, University of Arkansas at Little Rock",false,"North Shore in Houston, Texas",,,stephjo01,1998-99,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Joe Stephens,/players/s/stephjo01.html,1997,2000,"University of Colorado, University of Arkansas at Little Rock",false,"North Shore in Houston, Texas",-0.91,0.16,stephjo01,1999-00,VAN,10.2,0.0,.012,-3.6,-0.1,,27,NBA,13,13.9,.373,.750,2.8,0.8,0.5,0.2,3.2,VAN,88441

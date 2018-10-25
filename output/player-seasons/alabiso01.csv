@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-alabiso01,2010-11,22,Toronto Raptors,NBA,12,4.9,.200,.000,1.2,0.2,0.2,0.2,0.5,2.0,-0.2,-0.142,-8.2,-0.1,,770000,"Montverde Academy in Montverde, Florida"
-alabiso01,2011-12,23,Toronto Raptors,NBA,14,8.7,.361,.875,3.4,0.2,0.1,0.6,2.4,14.2,0.2,.083,-4.1,-0.1,,830000,"Montverde Academy in Montverde, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Solomon Alabi,/players/a/alabiso01.html,2011,2012,Florida State University,false,"Montverde Academy in Montverde, Florida",-0.07,0.09,alabiso01,2010-11,TOR,2.0,-0.2,-0.142,-8.2,-0.1,,NBA,770000,22,12,4.9,.200,.000,1.2,0.2,0.2,0.2,0.5,TOR
+Solomon Alabi,/players/a/alabiso01.html,2011,2012,Florida State University,false,"Montverde Academy in Montverde, Florida",+0.38,0.22,alabiso01,2011-12,TOR,14.2,0.2,.083,-4.1,-0.1,,NBA,830000,23,14,8.7,.361,.875,3.4,0.2,0.1,0.6,2.4,TOR

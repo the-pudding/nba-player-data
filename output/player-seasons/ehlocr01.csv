@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-ehlocr01,1983-84,22,HOU,NBA,7,9.0,.407,1.000,1.3,0.9,0.4,0.0,3.3,8.2,0.0,.018,-4.3,0.0,,"Monterey in Lubbock, Texas",
-ehlocr01,1984-85,23,Houston Rockets,NBA,45,4.2,.493,.633,0.6,0.6,0.2,0.1,1.9,12.8,0.2,.057,-2.7,0.0,,"Monterey in Lubbock, Texas",80000
-ehlocr01,1985-86,24,Houston Rockets,NBA,36,5.5,.429,.793,1.3,0.8,0.3,0.1,2.7,17.5,0.5,.126,0.5,0.1,,"Monterey in Lubbock, Texas",105000
-ehlocr01,1986-87,25,CLE,NBA,44,20.2,.414,.707,3.7,2.1,0.9,0.7,6.2,11.5,1.2,.065,-0.6,0.3,,"Monterey in Lubbock, Texas",
-ehlocr01,1987-88,26,Cleveland Cavaliers,NBA,79,21.6,.466,.674,3.5,2.6,1.0,0.4,7.1,12.5,3.1,.088,0.8,1.2,,"Monterey in Lubbock, Texas",175000
-ehlocr01,1988-89,27,Cleveland Cavaliers,NBA,82,22.8,.475,.607,3.6,3.2,1.3,0.2,7.4,13.7,4.6,.118,2.3,2.0,,"Monterey in Lubbock, Texas",300000
-ehlocr01,1989-90,28,CLE,NBA,81,35.7,.464,.681,5.4,4.6,1.6,0.3,13.6,14.5,6.5,.108,2.6,3.4,,"Monterey in Lubbock, Texas",
-ehlocr01,1990-91,29,Cleveland Cavaliers,NBA,82,33.7,.445,.679,4.7,4.6,1.5,0.4,10.1,12.0,3.4,.058,0.8,2.0,,"Monterey in Lubbock, Texas",925000
-ehlocr01,1991-92,30,Cleveland Cavaliers,NBA,63,32.0,.453,.707,4.9,3.8,1.2,0.3,12.3,13.8,3.8,.091,1.6,1.9,,"Monterey in Lubbock, Texas",925000
-ehlocr01,1992-93,31,Cleveland Cavaliers,NBA,82,31.2,.490,.717,4.9,3.1,1.3,0.3,11.6,14.2,6.2,.116,2.4,2.8,,"Monterey in Lubbock, Texas",1075000
-ehlocr01,1993-94,32,Atlanta Hawks,NBA,82,26.2,.446,.727,3.4,3.3,1.7,0.3,10.0,15.0,5.9,.132,2.2,2.3,,"Monterey in Lubbock, Texas",1200000
-ehlocr01,1994-95,33,Atlanta Hawks,NBA,49,23.8,.453,.620,3.0,2.3,0.9,0.1,9.7,13.9,2.1,.088,-0.3,0.5,,"Monterey in Lubbock, Texas",2650000
-ehlocr01,1995-96,34,Atlanta Hawks,NBA,79,22.3,.428,.786,3.2,1.7,1.1,0.1,8.5,13.7,3.3,.090,-0.4,0.7,,"Monterey in Lubbock, Texas",1855000
-ehlocr01,1996-97,35,Seattle SuperSonics,NBA,62,13.7,.351,.500,1.8,1.1,0.6,0.1,3.5,7.6,0.3,.018,-3.6,-0.3,,"Monterey in Lubbock, Texas",360000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",+0.15,0.10,ehlocr01,1983-84,HOU,8.2,0.0,.018,-4.3,0.0,,22,NBA,7,9.0,.407,1.000,1.3,0.9,0.4,0.0,3.3,HOU,
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-0.08,0.29,ehlocr01,1984-85,HOU,12.8,0.2,.057,-2.7,0.0,,23,NBA,45,4.2,.493,.633,0.6,0.6,0.2,0.1,1.9,HOU,80000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-0.11,0.35,ehlocr01,1985-86,HOU,17.5,0.5,.126,0.5,0.1,,24,NBA,36,5.5,.429,.793,1.3,0.8,0.3,0.1,2.7,HOU,105000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-1.04,0.72,ehlocr01,1986-87,CLE,11.5,1.2,.065,-0.6,0.3,,25,NBA,44,20.2,.414,.707,3.7,2.1,0.9,0.7,6.2,CLE,
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-0.57,2.11,ehlocr01,1987-88,CLE,12.5,3.1,.088,0.8,1.2,,26,NBA,79,21.6,.466,.674,3.5,2.6,1.0,0.4,7.1,CLE,175000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",+0.31,3.44,ehlocr01,1988-89,CLE,13.7,4.6,.118,2.3,2.0,,27,NBA,82,22.8,.475,.607,3.6,3.2,1.3,0.2,7.4,CLE,300000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",+0.39,5.57,ehlocr01,1989-90,CLE,14.5,6.5,.108,2.6,3.4,,28,NBA,81,35.7,.464,.681,5.4,4.6,1.6,0.3,13.6,CLE,
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-1.04,2.31,ehlocr01,1990-91,CLE,12.0,3.4,.058,0.8,2.0,,29,NBA,82,33.7,.445,.679,4.7,4.6,1.5,0.4,10.1,CLE,925000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",+0.27,4.42,ehlocr01,1991-92,CLE,13.8,3.8,.091,1.6,1.9,,30,NBA,63,32.0,.453,.707,4.9,3.8,1.2,0.3,12.3,CLE,925000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",+1.06,6.40,ehlocr01,1992-93,CLE,14.2,6.2,.116,2.4,2.8,,31,NBA,82,31.2,.490,.717,4.9,3.1,1.3,0.3,11.6,CLE,1075000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",+0.98,5.47,ehlocr01,1993-94,ATL,15.0,5.9,.132,2.2,2.3,,32,NBA,82,26.2,.446,.727,3.4,3.3,1.7,0.3,10.0,ATL,1200000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-1.20,0.87,ehlocr01,1994-95,ATL,13.9,2.1,.088,-0.3,0.5,,33,NBA,49,23.8,.453,.620,3.0,2.3,0.9,0.1,9.7,ATL,2650000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-0.93,1.77,ehlocr01,1995-96,ATL,13.7,3.3,.090,-0.4,0.7,,34,NBA,79,22.3,.428,.786,3.2,1.7,1.1,0.1,8.5,ATL,1855000
+Craig Ehlo,/players/e/ehlocr01.html,1984,1997,Washington State University,false,"Monterey in Lubbock, Texas",-2.78,-0.31,ehlocr01,1996-97,SEA,7.6,0.3,.018,-3.6,-0.3,,35,NBA,62,13.7,.351,.500,1.8,1.1,0.6,0.1,3.5,SEA,360000

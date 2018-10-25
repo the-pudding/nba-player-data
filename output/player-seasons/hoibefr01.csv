@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hoibefr01,1995-96,23,Indiana Pacers,NBA,15,5.7,.421,.833,0.6,0.5,0.4,0.1,2.1,14.4,0.2,.138,1.0,0.1,,200000,"Ames in Ames, Iowa"
-hoibefr01,1996-97,24,Indiana Pacers,NBA,47,12.2,.429,.792,1.7,0.9,0.6,0.1,4.8,15.9,2.1,.175,2.1,0.6,,297000,"Ames in Ames, Iowa"
-hoibefr01,1997-98,25,Indiana Pacers,NBA,65,13.4,.383,.855,1.9,0.7,0.6,0.0,4.0,11.2,2.3,.127,0.5,0.6,,356400,"Ames in Ames, Iowa"
-hoibefr01,1998-99,26,Indiana Pacers,NBA,12,7.3,.286,1.000,0.9,0.3,0.0,0.0,1.6,4.0,0.0,-0.014,-5.8,-0.1,,600000,"Ames in Ames, Iowa"
-hoibefr01,1999-00,27,Chicago Bulls,NBA,31,27.3,.387,.908,3.5,2.7,1.3,0.1,9.0,13.0,1.8,.100,-0.7,0.3,,800000,"Ames in Ames, Iowa"
-hoibefr01,2000-01,28,Chicago Bulls,NBA,74,30.4,.438,.866,4.2,3.6,1.3,0.2,9.1,15.3,5.9,.126,0.9,1.7,,880000,"Ames in Ames, Iowa"
-hoibefr01,2001-02,29,Chicago Bulls,NBA,79,17.8,.416,.840,2.7,1.7,0.8,0.1,4.4,12.2,2.7,.092,-1.3,0.3,,1600000,"Ames in Ames, Iowa"
-hoibefr01,2002-03,30,Chicago Bulls,NBA,63,12.4,.389,.820,2.2,1.1,0.6,0.1,2.3,10.2,1.3,.077,-1.7,0.1,,1400000,"Ames in Ames, Iowa"
-hoibefr01,2003-04,31,Minnesota Timberwolves,NBA,79,22.8,.465,.845,3.4,1.4,0.8,0.1,6.7,13.6,6.1,.163,1.9,1.8,,938679,"Ames in Ames, Iowa"
-hoibefr01,2004-05,32,Minnesota Timberwolves,NBA,76,16.7,.489,.873,2.4,1.1,0.7,0.2,5.8,16.7,5.2,.196,3.2,1.7,,1600000,"Ames in Ames, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",+0.43,0.16,hoibefr01,1995-96,IND,14.4,0.2,.138,1.0,0.1,,NBA,200000,23,15,5.7,.421,.833,0.6,0.5,0.4,0.1,2.1,IND
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",+1.08,1.31,hoibefr01,1996-97,IND,15.9,2.1,.175,2.1,0.6,,NBA,297000,24,47,12.2,.429,.792,1.7,0.9,0.6,0.1,4.8,IND
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",-0.14,1.29,hoibefr01,1997-98,IND,11.2,2.3,.127,0.5,0.6,,NBA,356400,25,65,13.4,.383,.855,1.9,0.7,0.6,0.0,4.0,IND
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",-0.17,0.15,hoibefr01,1998-99,IND,4.0,0.0,-0.014,-5.8,-0.1,,NBA,600000,26,12,7.3,.286,1.000,0.9,0.3,0.0,0.0,1.6,IND
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",-0.89,0.75,hoibefr01,1999-00,CHI,13.0,1.8,.100,-0.7,0.3,,NBA,800000,27,31,27.3,.387,.908,3.5,2.7,1.3,0.1,9.0,CHI
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",-1.15,1.63,hoibefr01,2000-01,CHI,15.3,5.9,.126,0.9,1.7,,NBA,880000,28,74,30.4,.438,.866,4.2,3.6,1.3,0.2,9.1,CHI
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",-0.41,1.76,hoibefr01,2001-02,CHI,12.2,2.7,.092,-1.3,0.3,,NBA,1600000,29,79,17.8,.416,.840,2.7,1.7,0.8,0.1,4.4,CHI
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",+1.14,1.86,hoibefr01,2002-03,CHI,10.2,1.3,.077,-1.7,0.1,,NBA,1400000,30,63,12.4,.389,.820,2.2,1.1,0.6,0.1,2.3,CHI
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",-1.02,1.81,hoibefr01,2003-04,MIN,13.6,6.1,.163,1.9,1.8,,NBA,938679,31,79,22.8,.465,.845,3.4,1.4,0.8,0.1,6.7,MIN
+Fred Hoiberg,/players/h/hoibefr01.html,1996,2005,Iowa State University,false,"Ames in Ames, Iowa",+2.32,3.88,hoibefr01,2004-05,MIN,16.7,5.2,.196,3.2,1.7,,NBA,1600000,32,76,16.7,.489,.873,2.4,1.1,0.7,0.2,5.8,MIN

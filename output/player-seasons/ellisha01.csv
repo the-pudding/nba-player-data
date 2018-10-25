@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-ellisha01,1993-94,23,LAC,NBA,49,18.8,.545,.711,3.1,0.6,1.5,0.0,8.7,17.2,2.8,.146,1.4,0.8,,"Frederick Douglass in Atlanta, Georgia",
-ellisha01,1994-95,24,Los Angeles Clippers,NBA,69,9.5,.481,.590,1.3,0.6,1.0,0.2,3.7,14.4,0.9,.066,0.5,0.4,,"Frederick Douglass in Atlanta, Georgia",250000
-ellisha01,1995-96,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Frederick Douglass in Atlanta, Georgia",
-ellisha01,1996-97,26,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Frederick Douglass in Atlanta, Georgia",
-ellisha01,1997-98,27,DEN,NBA,27,12.7,.559,.635,1.9,0.7,0.7,0.1,6.1,18.1,0.9,.119,-0.8,0.1,,"Frederick Douglass in Atlanta, Georgia",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Harold Ellis,/players/e/ellisha01.html,1994,1998,Morehouse College,false,"Frederick Douglass in Atlanta, Georgia",-0.33,1.21,ellisha01,1993-94,LAC,17.2,2.8,.146,1.4,0.8,,23,NBA,49,18.8,.545,.711,3.1,0.6,1.5,0.0,8.7,LAC,
+Harold Ellis,/players/e/ellisha01.html,1994,1998,Morehouse College,false,"Frederick Douglass in Atlanta, Georgia",-0.49,0.79,ellisha01,1994-95,LAC,14.4,0.9,.066,0.5,0.4,,24,NBA,69,9.5,.481,.590,1.3,0.6,1.0,0.2,3.7,LAC,250000
+Harold Ellis,/players/e/ellisha01.html,1994,1998,Morehouse College,false,"Frederick Douglass in Atlanta, Georgia",,,ellisha01,1995-96,Did Not Play (other pro league—Greece),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Harold Ellis,/players/e/ellisha01.html,1994,1998,Morehouse College,false,"Frederick Douglass in Atlanta, Georgia",,,ellisha01,1996-97,Did Not Play (other pro league—Greece),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Greece),
+Harold Ellis,/players/e/ellisha01.html,1994,1998,Morehouse College,false,"Frederick Douglass in Atlanta, Georgia",-0.75,0.35,ellisha01,1997-98,DEN,18.1,0.9,.119,-0.8,0.1,,27,NBA,27,12.7,.559,.635,1.9,0.7,0.7,0.1,6.1,DEN,

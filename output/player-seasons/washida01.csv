@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-washida01,2007-08,22,San Antonio Spurs,NBA,18,8.1,.438,.538,1.1,0.8,0.3,0.0,2.9,9.0,0.0,.012,-4.2,-0.1,,154847,"Edgewater in Orlando, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Darius Washington,/players/w/washida01.html,2008,2008,University of Memphis,false,"Edgewater in Orlando, Florida",-0.15,0.21,washida01,2007-08,SAS,9.0,0.0,.012,-4.2,-0.1,,NBA,154847,22,18,8.1,.438,.538,1.1,0.8,0.3,0.0,2.9,SAS

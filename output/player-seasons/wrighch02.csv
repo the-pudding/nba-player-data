@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wrighch02,2012-13,23,DAL,NBA,3,1.3,.500,,0.0,0.0,0.0,0.0,0.7,-1.9,0.0,-0.375,-22.1,0.0,,"St. John's College in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Wright,/players/w/wrighch02.html,2013,2013,Georgetown University,false,"St. John's College in Washington, District of Columbia",+0.13,0.01,wrighch02,2012-13,DAL,-1.9,0.0,-0.375,-22.1,0.0,,23,NBA,3,1.3,.500,,0.0,0.0,0.0,0.0,0.7,DAL

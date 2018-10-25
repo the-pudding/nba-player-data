@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mckenfo01,1986-87,23,SAS,NBA,6,7.0,.250,1.000,1.2,0.2,0.2,0.0,2.8,-2.2,-0.2,-0.223,-18.8,-0.2,,"Pasadena in Pasadena, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Forrest McKenzie,/players/m/mckenfo01.html,1987,1987,Loyola Marymount University,false,"Pasadena in Pasadena, California",-0.30,0.06,mckenfo01,1986-87,SAS,-2.2,-0.2,-0.223,-18.8,-0.2,,23,NBA,6,7.0,.250,1.000,1.2,0.2,0.2,0.0,2.8,SAS

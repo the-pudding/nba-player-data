@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hodgedo01,1991-92,22,Dallas Mavericks,NBA,51,20.7,.497,.667,5.4,0.8,0.5,0.5,8.4,13.8,1.5,.069,-2.4,-0.1,,130000,"Coolidge in Washington, District of Columbia"
-hodgedo01,1992-93,23,Dallas Mavericks,NBA,79,16.0,.403,.683,3.7,0.9,0.4,0.5,5.0,8.3,-0.9,-0.032,-5.5,-1.1,,650000,"Coolidge in Washington, District of Columbia"
-hodgedo01,1993-94,24,Dallas Mavericks,NBA,50,8.6,.455,.846,1.9,0.6,0.3,0.3,2.7,13.1,0.8,.087,-1.6,0.0,,845000,"Coolidge in Washington, District of Columbia"
-hodgedo01,1994-95,25,Dallas Mavericks,NBA,54,11.7,.407,.765,2.3,0.8,0.2,0.3,3.9,8.5,0.3,.026,-5.2,-0.5,,1005000,"Coolidge in Washington, District of Columbia"
-hodgedo01,1995-96,26,Dallas Mavericks,NBA,15,7.7,.375,,1.5,0.3,0.1,0.5,1.2,5.9,0.1,.026,-5.4,-0.1,,1200000,"Coolidge in Washington, District of Columbia"
-hodgedo01,1995-96,26,Dallas Mavericks,NBA,13,8.7,.375,,1.7,0.3,0.1,0.6,1.4,5.8,0.1,.025,-5.2,-0.1,,1200000,"Coolidge in Washington, District of Columbia"
-hodgedo01,1995-96,26,Dallas Mavericks,NBA,2,1.0,,,0.5,0.0,0.0,0.0,0.0,8.0,0.0,.076,-15.4,0.0,,1200000,"Coolidge in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Donald Hodge,/players/h/hodgedo01.html,1992,1996,Temple University,false,"Coolidge in Washington, District of Columbia",-2.03,0.18,hodgedo01,1991-92,DAL,13.8,1.5,.069,-2.4,-0.1,,NBA,130000,22,51,20.7,.497,.667,5.4,0.8,0.5,0.5,8.4,DAL
+Donald Hodge,/players/h/hodgedo01.html,1992,1996,Temple University,false,"Coolidge in Washington, District of Columbia",-4.49,-1.84,hodgedo01,1992-93,DAL,8.3,-0.9,-0.032,-5.5,-1.1,,NBA,650000,23,79,16.0,.403,.683,3.7,0.9,0.4,0.5,5.0,DAL
+Donald Hodge,/players/h/hodgedo01.html,1992,1996,Temple University,false,"Coolidge in Washington, District of Columbia",-1.53,0.20,hodgedo01,1993-94,DAL,13.1,0.8,.087,-1.6,0.0,,NBA,845000,24,50,8.6,.455,.846,1.9,0.6,0.3,0.3,2.7,DAL
+Donald Hodge,/players/h/hodgedo01.html,1992,1996,Temple University,false,"Coolidge in Washington, District of Columbia",-2.99,-0.28,hodgedo01,1994-95,DAL,8.5,0.3,.026,-5.2,-0.5,,NBA,1005000,25,54,11.7,.407,.765,2.3,0.8,0.2,0.3,3.9,DAL
+Donald Hodge,/players/h/hodgedo01.html,1992,1996,Temple University,false,"Coolidge in Washington, District of Columbia",-0.63,0.13,hodgedo01,1995-96,TOT,5.9,0.1,.026,-5.4,-0.1,,NBA,1200000,26,15,7.7,.375,,1.5,0.3,0.1,0.5,1.2,"DAL,CHH"

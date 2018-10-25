@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-havlijo01,1976-77,36,BOS,NBA,79,36.9,.452,.816,4.8,5.1,1.1,0.2,17.7,14.7,6.1,.100,0.7,2.0,,"Bridgeport in Bridgeport, Ohio"
-havlijo01,1977-78,37,BOS,NBA,82,34.1,.449,.855,4.0,4.0,1.1,0.3,16.1,14.3,5.1,.087,-0.5,1.0,,"Bridgeport in Bridgeport, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Havlicek,/players/h/havlijo01.html,1963,1978,Ohio State University,false,"Bridgeport in Bridgeport, Ohio",-0.33,4.26,havlijo01,1976-77,BOS,14.7,6.1,.100,0.7,2.0,,36,NBA,79,36.9,.452,.816,4.8,5.1,1.1,0.2,17.7,BOS
+John Havlicek,/players/h/havlijo01.html,1963,1978,Ohio State University,false,"Bridgeport in Bridgeport, Ohio",-0.56,3.19,havlijo01,1977-78,BOS,14.3,5.1,.087,-0.5,1.0,,37,NBA,82,34.1,.449,.855,4.0,4.0,1.1,0.3,16.1,BOS

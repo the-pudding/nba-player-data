@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cartean01,1999-00,24,Miami Heat,NBA,79,23.5,.395,.750,2.5,4.8,1.2,0.1,6.3,11.0,1.4,.036,-3.1,-0.5,,385000,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2000-01,25,Miami Heat,NBA,72,22.6,.406,.631,2.5,3.7,1.0,0.1,6.4,11.3,1.7,.050,-2.1,0.0,,1200000,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2001-02,26,Miami Heat,NBA,46,22.8,.342,.528,2.5,4.7,1.1,0.1,4.3,8.9,0.2,.008,-3.8,-0.5,,3250000,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2002-03,27,Miami Heat,NBA,49,18.6,.356,.660,1.7,4.1,0.9,0.1,4.1,9.9,-0.2,-0.012,-5.3,-0.8,,3656250,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2003-04,28,San Antonio Spurs,NBA,5,17.4,.297,,2.2,2.4,0.8,0.0,4.4,0.3,-0.3,-0.176,-9.5,-0.2,,751179,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2004-05,29,Minnesota Timberwolves,NBA,66,11.2,.407,.686,1.0,2.4,0.5,0.3,2.7,11.3,0.5,.034,-4.2,-0.4,,807546,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2005-06,30,Minnesota Timberwolves,NBA,45,13.1,.387,.727,1.4,2.2,0.5,0.2,3.3,10.6,0.6,.047,-3.8,-0.3,,900498,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2006-07,31,DEN,NBA,2,18.5,.375,,1.5,5.5,0.0,0.5,3.0,3.3,-0.1,-0.115,-13.2,-0.1,,,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2007-08,32,Denver Nuggets,NBA,70,28.0,.458,.753,2.9,5.5,1.5,0.4,7.8,12.8,3.8,.092,-0.6,0.7,,1103225,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2008-09,33,Denver Nuggets,NBA,78,22.9,.433,.731,2.6,4.7,1.2,0.2,5.3,10.8,1.8,.047,-1.8,0.1,,1147533,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2009-10,34,Denver Nuggets,NBA,54,15.9,.420,.846,1.6,3.0,0.7,0.2,3.3,10.3,0.9,.051,-2.2,0.0,,1306455,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2010-11,35,New York Knicks,NBA,33,14.0,.425,1.000,1.5,2.1,0.8,0.2,3.3,9.2,0.2,.023,-2.8,-0.1,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2010-11,35,New York Knicks,NBA,14,10.9,.333,1.000,0.9,1.9,0.6,0.1,1.9,5.4,-0.1,-0.018,-4.7,-0.1,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2010-11,35,New York Knicks,NBA,19,16.3,.461,1.000,2.1,2.3,0.9,0.3,4.4,11.1,0.3,.044,-1.8,0.0,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
-cartean01,2011-12,36,Toronto Raptors,NBA,24,8.7,.321,.800,1.4,1.4,0.3,0.2,2.0,8.7,0.0,.001,-3.3,-0.1,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.19,1.49,cartean01,1999-00,MIA,11.0,1.4,.036,-3.1,-0.5,,NBA,385000,24,79,23.5,.395,.750,2.5,4.8,1.2,0.1,6.3,MIA
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.03,1.33,cartean01,2000-01,MIA,11.3,1.7,.050,-2.1,0.0,,NBA,1200000,25,72,22.6,.406,.631,2.5,3.7,1.0,0.1,6.4,MIA
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-2.81,-0.53,cartean01,2001-02,MIA,8.9,0.2,.008,-3.8,-0.5,,NBA,3250000,26,46,22.8,.342,.528,2.5,4.7,1.1,0.1,4.3,MIA
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.00,0.73,cartean01,2002-03,MIA,9.9,-0.2,-0.012,-5.3,-0.8,,NBA,3656250,27,49,18.6,.356,.660,1.7,4.1,0.9,0.1,4.1,MIA
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",+0.04,0.14,cartean01,2003-04,SAS,0.3,-0.3,-0.176,-9.5,-0.2,,NBA,751179,28,5,17.4,.297,,2.2,2.4,0.8,0.0,4.4,SAS
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",+0.26,1.23,cartean01,2004-05,MIN,11.3,0.5,.034,-4.2,-0.4,,NBA,807546,29,66,11.2,.407,.686,1.0,2.4,0.5,0.3,2.7,MIN
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.29,0.38,cartean01,2005-06,MIN,10.6,0.6,.047,-3.8,-0.3,,NBA,900498,30,45,13.1,.387,.727,1.4,2.2,0.5,0.2,3.3,MIN
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",+0.08,0.08,cartean01,2006-07,DEN,3.3,-0.1,-0.115,-13.2,-0.1,,NBA,,31,2,18.5,.375,,1.5,5.5,0.0,0.5,3.0,DEN
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.64,0.89,cartean01,2007-08,DEN,12.8,3.8,.092,-0.6,0.7,,NBA,1103225,32,70,28.0,.458,.753,2.9,5.5,1.5,0.4,7.8,DEN
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.69,0.84,cartean01,2008-09,DEN,10.8,1.8,.047,-1.8,0.1,,NBA,1147533,33,78,22.9,.433,.731,2.6,4.7,1.2,0.2,5.3,DEN
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-2.23,0.05,cartean01,2009-10,DEN,10.3,0.9,.051,-2.2,0.0,,NBA,1306455,34,54,15.9,.420,.846,1.6,3.0,0.7,0.2,3.3,DEN
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-1.27,0.35,cartean01,2010-11,TOT,9.2,0.2,.023,-2.8,-0.1,,NBA,1352181,35,33,14.0,.425,1.000,1.5,2.1,0.8,0.2,3.3,"DEN,NYK"
+Anthony Carter,/players/c/cartean01.html,2000,2012,University of Hawaii,false,"Alonzo A. Crim in Atlanta, Georgia",-0.40,0.26,cartean01,2011-12,TOR,8.7,0.0,.001,-3.3,-0.1,,NBA,1352181,36,24,8.7,.321,.800,1.4,1.4,0.3,0.2,2.0,TOR

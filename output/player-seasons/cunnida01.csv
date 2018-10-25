@@ -1,15 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cunnida01,2009-10,22,Portland Trail Blazers,NBA,63,11.2,.495,.646,2.5,0.2,0.4,0.3,3.9,14.3,1.9,.129,-1.9,0.0,,457588,"Potomac in Dumfries, Virginia"
-cunnida01,2010-11,23,Charlotte Bobcats,NBA,78,21.0,.462,.726,3.6,0.6,0.7,0.6,6.2,10.7,2.0,.060,-2.8,-0.3,,762195,"Potomac in Dumfries, Virginia"
-cunnida01,2010-11,23,Charlotte Bobcats,NBA,56,19.8,.433,.711,3.4,0.5,0.7,0.6,5.1,9.5,1.3,.057,-2.5,-0.1,,762195,"Potomac in Dumfries, Virginia"
-cunnida01,2010-11,23,Charlotte Bobcats,NBA,22,24.0,.508,.765,4.0,0.6,0.7,0.5,9.0,13.1,0.7,.065,-3.2,-0.2,,762195,"Potomac in Dumfries, Virginia"
-cunnida01,2011-12,24,Memphis Grizzlies,NBA,64,17.6,.516,.652,3.8,0.6,0.7,0.5,5.2,14.9,3.4,.147,0.8,0.8,,2000000,"Potomac in Dumfries, Virginia"
-cunnida01,2012-13,25,Minnesota Timberwolves,NBA,80,25.1,.468,.650,5.1,0.8,1.1,0.5,8.7,13.3,3.5,.084,-0.9,0.5,,2090000,"Potomac in Dumfries, Virginia"
-cunnida01,2013-14,26,Minnesota Timberwolves,NBA,81,20.2,.464,.567,4.1,1.0,0.8,0.7,6.3,12.6,2.9,.085,-0.1,0.8,,2180000,"Potomac in Dumfries, Virginia"
-cunnida01,2014-15,27,New Orleans Pelicans,NBA,66,25.0,.457,.617,3.9,0.8,0.7,0.6,5.2,8.9,1.6,.047,-1.6,0.2,,831942,"Potomac in Dumfries, Virginia"
-cunnida01,2015-16,28,New Orleans Pelicans,NBA,80,24.6,.451,.695,3.0,1.0,0.5,0.4,6.1,8.6,2.1,.052,-1.2,0.4,,3000000,"Potomac in Dumfries, Virginia"
-cunnida01,2016-17,29,New Orleans Pelicans,NBA,66,25.0,.485,.593,4.2,0.6,0.6,0.4,6.6,10.2,3.0,.088,-0.5,0.6,,2978250,"Potomac in Dumfries, Virginia"
-cunnida01,2017-18,30,Brooklyn Nets,NBA,73,21.4,.451,.596,4.1,0.7,0.5,0.4,5.7,10.0,2.4,.074,-1.4,0.2,,2300000,"Potomac in Dumfries, Virginia"
-cunnida01,2017-18,30,Brooklyn Nets,NBA,51,21.9,.440,.556,3.8,0.5,0.5,0.3,5.0,8.4,1.6,.067,-1.7,0.1,,2300000,"Potomac in Dumfries, Virginia"
-cunnida01,2017-18,30,Brooklyn Nets,NBA,22,20.3,.468,.688,4.8,1.0,0.5,0.6,7.5,13.8,0.9,.092,-0.6,0.2,,2300000,"Potomac in Dumfries, Virginia"
-cunnida01,2018-19,31,SAS,NBA,4,16.0,.222,1.000,4.0,0.8,0.5,0.3,2.0,6.1,0.0,.007,-3.3,0.0,,,"Potomac in Dumfries, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",+0.18,1.24,cunnida01,2009-10,POR,14.3,1.9,.129,-1.9,0.0,,NBA,457588,22,63,11.2,.495,.646,2.5,0.2,0.4,0.3,3.9,POR
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-2.56,-0.31,cunnida01,2010-11,TOT,10.7,2.0,.060,-2.8,-0.3,,NBA,762195,23,78,21.0,.462,.726,3.6,0.6,0.7,0.6,6.2,"POR,CHA"
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-2.18,-0.02,cunnida01,2011-12,MEM,14.9,3.4,.147,0.8,0.8,,NBA,2000000,24,64,17.6,.516,.652,3.8,0.6,0.7,0.5,5.2,MEM
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-0.73,2.07,cunnida01,2012-13,MIN,13.3,3.5,.084,-0.9,0.5,,NBA,2090000,25,80,25.1,.468,.650,5.1,0.8,1.1,0.5,8.7,MIN
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-2.59,-0.33,cunnida01,2013-14,MIN,12.6,2.9,.085,-0.1,0.8,,NBA,2180000,26,81,20.2,.464,.567,4.1,1.0,0.8,0.7,6.3,MIN
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-1.63,0.74,cunnida01,2014-15,NOP,8.9,1.6,.047,-1.6,0.2,,NBA,831942,27,66,25.0,.457,.617,3.9,0.8,0.7,0.6,5.2,NOP
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-2.38,-0.16,cunnida01,2015-16,NOP,8.6,2.1,.052,-1.2,0.4,,NBA,3000000,28,80,24.6,.451,.695,3.0,1.0,0.5,0.4,6.1,NOP
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-1.23,1.18,cunnida01,2016-17,NOP,10.2,3.0,.088,-0.5,0.6,,NBA,2978250,29,66,25.0,.485,.593,4.2,0.6,0.6,0.4,6.6,NOP
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",-1.88,0.45,cunnida01,2017-18,TOT,10.0,2.4,.074,-1.4,0.2,,NBA,2300000,30,73,21.4,.451,.596,4.1,0.7,0.5,0.4,5.7,"NOP,BRK"
+Dante Cunningham,/players/c/cunnida01.html,2010,2019,Villanova University,true,"Potomac in Dumfries, Virginia",,,cunnida01,2018-19,SAS,6.1,0.0,.007,-3.3,0.0,,NBA,,31,4,16.0,.222,1.000,4.0,0.8,0.5,0.3,2.0,SAS

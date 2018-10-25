@@ -1,22 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-livinsh01,2004-05,19,Los Angeles Clippers,NBA,30,27.1,.414,.746,3.0,5.0,1.1,0.4,7.4,10.4,0.1,.008,-3.1,-0.2,,3027840,"Peoria Central in Peoria, Illinois"
-livinsh01,2005-06,20,Los Angeles Clippers,NBA,61,25.0,.427,.688,3.0,4.5,0.8,0.5,5.8,10.2,1.3,.041,-2.1,0.0,,3254880,"Peoria Central in Peoria, Illinois"
-livinsh01,2006-07,21,Los Angeles Clippers,NBA,54,29.8,.463,.707,3.4,5.1,1.1,0.5,9.3,13.7,2.4,.072,-0.9,0.5,,3481920,"Peoria Central in Peoria, Illinois"
-livinsh01,2007-08,22,Los Angeles Clippers,NBA,,,,,,,,,,,,,,,,4404629,"Peoria Central in Peoria, Illinois"
-livinsh01,2008-09,23,Memphis Grizzlies,NBA,12,19.3,.517,.900,2.3,1.7,0.6,0.2,5.9,12.1,0.4,.074,-3.4,-0.1,,370000,"Peoria Central in Peoria, Illinois"
-livinsh01,2008-09,23,Memphis Grizzlies,NBA,4,10.3,.375,.750,0.5,1.0,0.5,0.0,2.3,5.4,0.0,-0.021,-8.3,-0.1,,370000,"Peoria Central in Peoria, Illinois"
-livinsh01,2008-09,23,Memphis Grizzlies,NBA,8,23.8,.538,1.000,3.3,2.0,0.6,0.3,7.8,13.5,0.4,.095,-2.4,0.0,,370000,"Peoria Central in Peoria, Illinois"
-livinsh01,2009-10,24,Oklahoma City Thunder,NBA,36,22.1,.517,.875,2.2,3.6,0.5,0.3,6.9,12.8,1.2,.070,-2.7,-0.1,,296695,"Peoria Central in Peoria, Illinois"
-livinsh01,2009-10,24,Oklahoma City Thunder,NBA,10,13.0,.313,,2.0,1.4,0.5,0.2,1.0,4.7,0.0,-0.004,-3.4,0.0,,296695,"Peoria Central in Peoria, Illinois"
-livinsh01,2009-10,24,Oklahoma City Thunder,NBA,26,25.6,.535,.875,2.2,4.5,0.5,0.3,9.2,14.4,1.2,.085,-2.5,-0.1,,296695,"Peoria Central in Peoria, Illinois"
-livinsh01,2010-11,25,Charlotte Bobcats,NBA,73,17.3,.466,.864,2.0,2.2,0.6,0.4,6.6,14.3,1.9,.073,-1.9,0.0,,3500000,"Peoria Central in Peoria, Illinois"
-livinsh01,2011-12,26,Milwaukee Bucks,NBA,58,18.8,.469,.785,2.1,2.1,0.5,0.3,5.5,11.0,1.3,.055,-2.7,-0.2,,3500000,"Peoria Central in Peoria, Illinois"
-livinsh01,2012-13,27,Houston Rockets,NBA,66,22.0,.480,.867,2.4,3.3,0.7,0.5,6.3,13.0,2.6,.086,-1.8,0.1,,1000000,"Peoria Central in Peoria, Illinois"
-livinsh01,2012-13,27,Houston Rockets,NBA,17,18.8,.364,1.000,2.2,2.2,0.6,0.1,3.7,7.4,0.2,.028,-4.5,-0.2,,1000000,"Peoria Central in Peoria, Illinois"
-livinsh01,2012-13,27,Houston Rockets,NBA,49,23.2,.507,.843,2.5,3.6,0.8,0.6,7.2,14.6,2.4,.102,-1.1,0.3,,1000000,"Peoria Central in Peoria, Illinois"
-livinsh01,2013-14,28,Brooklyn Nets,NBA,76,26.0,.483,.827,3.2,3.2,1.2,0.4,8.3,14.5,4.4,.108,0.6,1.3,,1272279,"Peoria Central in Peoria, Illinois"
-livinsh01,2014-15,29,Golden State Warriors,NBA,78,18.8,.500,.714,2.3,3.3,0.6,0.3,5.9,12.9,3.3,.107,-1.7,0.1,,5305000,"Peoria Central in Peoria, Illinois"
-livinsh01,2015-16,30,Golden State Warriors,NBA,78,19.5,.536,.860,2.2,3.0,0.7,0.3,6.3,13.8,4.6,.145,-0.5,0.6,,5543725,"Peoria Central in Peoria, Illinois"
-livinsh01,2016-17,31,Golden State Warriors,NBA,76,17.7,.547,.700,2.0,1.8,0.5,0.3,5.1,10.1,2.6,.093,-2.0,0.0,,5782450,"Peoria Central in Peoria, Illinois"
-livinsh01,2017-18,32,Golden State Warriors,NBA,71,15.9,.501,.820,1.8,2.0,0.5,0.3,5.5,11.6,1.8,.077,-3.5,-0.4,,7692308,"Peoria Central in Peoria, Illinois"
-livinsh01,2018-19,33,GSW,NBA,3,16.0,.600,1.000,4.3,1.0,0.7,0.0,7.3,18.8,0.2,.200,3.3,0.1,,,"Peoria Central in Peoria, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-2.60,-0.18,livinsh01,2004-05,LAC,10.4,0.1,.008,-3.1,-0.2,,NBA,3027840,19,30,27.1,.414,.746,3.0,5.0,1.1,0.4,7.4,LAC
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-1.56,0.83,livinsh01,2005-06,LAC,10.2,1.3,.041,-2.1,0.0,,NBA,3254880,20,61,25.0,.427,.688,3.0,4.5,0.8,0.5,5.8,LAC
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-2.40,-0.14,livinsh01,2006-07,LAC,13.7,2.4,.072,-0.9,0.5,,NBA,3481920,21,54,29.8,.463,.707,3.4,5.1,1.1,0.5,9.3,LAC
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",,,livinsh01,2007-08,Did Not Play (injury—knee),,,,,,,NBA,4404629,22,,,,,,,,,,Did Not Play (injury—knee)
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-0.94,0.21,livinsh01,2008-09,TOT,12.1,0.4,.074,-3.4,-0.1,,NBA,370000,23,12,19.3,.517,.900,2.3,1.7,0.6,0.2,5.9,"MIA,OKC"
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-1.16,0.60,livinsh01,2009-10,TOT,12.8,1.2,.070,-2.7,-0.1,,NBA,296695,24,36,22.1,.517,.875,2.2,3.6,0.5,0.3,6.9,"OKC,WAS"
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-0.48,1.51,livinsh01,2010-11,CHA,14.3,1.9,.073,-1.9,0.0,,NBA,3500000,25,73,17.3,.466,.864,2.0,2.2,0.6,0.4,6.6,CHA
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-1.99,0.16,livinsh01,2011-12,MIL,11.0,1.3,.055,-2.7,-0.2,,NBA,3500000,26,58,18.8,.469,.785,2.1,2.1,0.5,0.3,5.5,MIL
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-0.87,1.37,livinsh01,2012-13,TOT,13.0,2.6,.086,-1.8,0.1,,NBA,1000000,27,66,22.0,.480,.867,2.4,3.3,0.7,0.5,6.3,"WAS,CLE"
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-0.34,3.02,livinsh01,2013-14,BRK,14.5,4.4,.108,0.6,1.3,,NBA,1272279,28,76,26.0,.483,.827,3.2,3.2,1.2,0.4,8.3,BRK
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-4.21,-2.41,livinsh01,2014-15,GSW,12.9,3.3,.107,-1.7,0.1,,NBA,5305000,29,78,18.8,.500,.714,2.3,3.3,0.6,0.3,5.9,GSW
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-2.49,-0.25,livinsh01,2015-16,GSW,13.8,4.6,.145,-0.5,0.6,,NBA,5543725,30,78,19.5,.536,.860,2.2,3.0,0.7,0.3,6.3,GSW
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-3.91,-1.58,livinsh01,2016-17,GSW,10.1,2.6,.093,-2.0,0.0,,NBA,5782450,31,76,17.7,.547,.700,2.0,1.8,0.5,0.3,5.1,GSW
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",-1.82,0.49,livinsh01,2017-18,GSW,11.6,1.8,.077,-3.5,-0.4,,NBA,7692308,32,71,15.9,.501,.820,1.8,2.0,0.5,0.3,5.5,GSW
+Shaun Livingston,/players/l/livinsh01.html,2005,2019,,true,"Peoria Central in Peoria, Illinois",,,livinsh01,2018-19,GSW,18.8,0.2,.200,3.3,0.1,,NBA,,33,3,16.0,.600,1.000,4.3,1.0,0.7,0.0,7.3,GSW

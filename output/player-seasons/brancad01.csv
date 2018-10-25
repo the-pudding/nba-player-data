@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-brancad01,1986-87,23,LAL,NBA,32,6.8,.500,.778,1.7,0.5,0.5,0.1,4.3,18.8,0.7,.158,0.2,0.1,,"DeMatha Catholic in Hyattsville, Maryland",
-brancad01,1987-88,24,NJN,NBA,20,15.4,.418,.870,2.4,0.8,0.8,0.6,6.7,10.4,-0.1,-0.021,-4.7,-0.2,,"DeMatha Catholic in Hyattsville, Maryland",
-brancad01,1988-89,25,Portland Trail Blazers,NBA,67,12.1,.463,.725,2.0,0.9,0.7,0.0,7.4,15.7,1.5,.087,-2.6,-0.1,,"DeMatha Catholic in Hyattsville, Maryland",150000
-brancad01,1989-90,26,MIN,NBA,11,8.3,.410,.636,1.8,0.4,0.5,0.0,5.9,16.9,0.0,.014,-6.3,-0.1,,"DeMatha Catholic in Hyattsville, Maryland",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Adrian Branch,/players/b/brancad01.html,1987,1990,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-0.79,0.26,brancad01,1986-87,LAL,18.8,0.7,.158,0.2,0.1,,23,NBA,32,6.8,.500,.778,1.7,0.5,0.5,0.1,4.3,LAL,
+Adrian Branch,/players/b/brancad01.html,1987,1990,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-2.46,-0.05,brancad01,1987-88,NJN,10.4,-0.1,-0.021,-4.7,-0.2,,24,NBA,20,15.4,.418,.870,2.4,0.8,0.8,0.6,6.7,NJN,
+Adrian Branch,/players/b/brancad01.html,1987,1990,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",-1.51,0.43,brancad01,1988-89,POR,15.7,1.5,.087,-2.6,-0.1,,25,NBA,67,12.1,.463,.725,2.0,0.9,0.7,0.0,7.4,POR,150000
+Adrian Branch,/players/b/brancad01.html,1987,1990,University of Maryland,false,"DeMatha Catholic in Hyattsville, Maryland",+0.08,0.15,brancad01,1989-90,MIN,16.9,0.0,.014,-6.3,-0.1,,26,NBA,11,8.3,.410,.636,1.8,0.4,0.5,0.0,5.9,MIN,

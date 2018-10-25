@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-gasolma01,2008-09,24,Memphis Grizzlies,NBA,82,30.7,.530,.733,7.4,1.7,0.8,1.1,11.9,16.7,6.4,.121,1.2,2.1,,3093333,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2009-10,25,Memphis Grizzlies,NBA,69,35.8,.581,.670,9.3,2.4,1.0,1.6,14.6,19.3,8.4,.164,4.3,3.9,,3240000,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2010-11,26,Memphis Grizzlies,NBA,81,31.9,.527,.748,7.0,2.5,0.9,1.7,11.7,16.8,7.9,.146,3.6,3.6,,3480000,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2011-12,27,Memphis Grizzlies,NBA,65,36.5,.482,.748,8.9,3.1,1.0,1.9,14.6,18.4,8.2,.166,3.9,3.5,,12922194,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2012-13,28,Memphis Grizzlies,NBA,80,35.0,.494,.848,7.8,4.0,1.0,1.7,14.1,19.5,11.5,.197,6.1,5.7,All-NBA (2nd),13891359,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2013-14,29,Memphis Grizzlies,NBA,59,33.4,.473,.768,7.2,3.6,1.0,1.3,14.6,18.2,5.6,.137,2.9,2.4,,14860523,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2014-15,30,Memphis Grizzlies,NBA,81,33.2,.494,.795,7.8,3.8,0.9,1.6,17.4,21.7,10.2,.182,4.8,4.6,All-NBA (1st),15829688,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2015-16,31,Memphis Grizzlies,NBA,52,34.4,.464,.829,7.0,3.8,1.0,1.3,16.6,17.7,3.7,.098,1.0,1.3,,19700000,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2016-17,32,Memphis Grizzlies,NBA,74,34.2,.459,.837,6.3,4.6,0.9,1.3,19.5,20.3,7.7,.145,4.2,4.0,,21165675,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2017-18,33,Memphis Grizzlies,NBA,73,33.0,.420,.834,8.1,4.2,0.7,1.4,17.2,17.4,4.0,.080,1.5,2.1,,22642350,"Lausanne Collegiate School in Memphis, Tennessee"
-gasolma01,2018-19,34,MEM,NBA,4,30.8,.348,.882,9.0,3.0,1.0,0.8,13.5,15.6,0.3,.120,1.3,0.1,,,"Lausanne Collegiate School in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",-1.37,1.57,gasolma01,2008-09,MEM,16.7,6.4,.121,1.2,2.1,,NBA,3093333,24,82,30.7,.530,.733,7.4,1.7,0.8,1.1,11.9,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+1.99,7.06,gasolma01,2009-10,MEM,19.3,8.4,.164,4.3,3.9,,NBA,3240000,25,69,35.8,.581,.670,9.3,2.4,1.0,1.6,14.6,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+1.29,7.53,gasolma01,2010-11,MEM,16.8,7.9,.146,3.6,3.6,,NBA,3480000,26,81,31.9,.527,.748,7.0,2.5,0.9,1.7,11.7,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+4.80,12.70,gasolma01,2011-12,MEM,18.4,8.2,.166,3.9,3.5,,NBA,12922194,27,65,36.5,.482,.748,8.9,3.1,1.0,1.9,14.6,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+5.27,17.47,gasolma01,2012-13,MEM,19.5,11.5,.197,6.1,5.7,All-NBA (2nd),NBA,13891359,28,80,35.0,.494,.848,7.8,4.0,1.0,1.7,14.1,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+0.22,3.84,gasolma01,2013-14,MEM,18.2,5.6,.137,2.9,2.4,,NBA,14860523,29,59,33.4,.473,.768,7.2,3.6,1.0,1.3,14.6,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+2.13,9.35,gasolma01,2014-15,MEM,21.7,10.2,.182,4.8,4.6,All-NBA (1st),NBA,15829688,30,81,33.2,.494,.795,7.8,3.8,0.9,1.6,17.4,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+1.37,4.47,gasolma01,2015-16,MEM,17.7,3.7,.098,1.0,1.3,,NBA,19700000,31,52,34.4,.464,.829,7.0,3.8,1.0,1.3,16.6,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+1.44,6.92,gasolma01,2016-17,MEM,20.3,7.7,.145,4.2,4.0,,NBA,21165675,32,74,34.2,.459,.837,6.3,4.6,0.9,1.3,19.5,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",+0.33,4.25,gasolma01,2017-18,MEM,17.4,4.0,.080,1.5,2.1,,NBA,22642350,33,73,33.0,.420,.834,8.1,4.2,0.7,1.4,17.2,MEM
+Marc Gasol,/players/g/gasolma01.html,2009,2019,,true,"Lausanne Collegiate School in Memphis, Tennessee",,,gasolma01,2018-19,MEM,15.6,0.3,.120,1.3,0.1,,NBA,,34,4,30.8,.348,.882,9.0,3.0,1.0,0.8,13.5,MEM

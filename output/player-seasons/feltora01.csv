@@ -1,17 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-feltora01,2005-06,21,Charlotte Bobcats,NBA,80,30.1,.391,.725,3.3,5.6,1.3,0.1,11.9,14.2,2.6,.051,0.0,1.2,,2847360,"Latta in Latta, South Carolina"
-feltora01,2006-07,22,Charlotte Bobcats,NBA,78,36.3,.384,.797,3.4,7.0,1.5,0.1,14.0,13.5,2.3,.039,-0.7,1.0,,3060840,"Latta in Latta, South Carolina"
-feltora01,2007-08,23,Charlotte Bobcats,NBA,79,37.6,.413,.800,3.0,7.4,1.2,0.2,14.4,13.8,3.4,.054,-2.1,-0.1,,3274440,"Latta in Latta, South Carolina"
-feltora01,2008-09,24,Charlotte Bobcats,NBA,82,37.6,.408,.805,3.8,6.7,1.5,0.4,14.2,13.7,4.3,.066,-0.1,1.4,,4148716,"Latta in Latta, South Carolina"
-feltora01,2009-10,25,Charlotte Bobcats,NBA,80,33.0,.459,.763,3.6,5.6,1.5,0.3,12.1,15.2,6.5,.118,1.6,2.4,,5501196,"Latta in Latta, South Carolina"
-feltora01,2010-11,26,Denver Nuggets,NBA,75,36.5,.425,.805,3.6,8.3,1.7,0.1,15.5,16.6,5.4,.094,0.3,1.6,,7500000,"Latta in Latta, South Carolina"
-feltora01,2010-11,26,Denver Nuggets,NBA,54,38.4,.423,.867,3.6,9.0,1.8,0.2,17.1,17.3,4.0,.093,0.3,1.2,,7500000,"Latta in Latta, South Carolina"
-feltora01,2010-11,26,Denver Nuggets,NBA,21,31.6,.431,.617,3.6,6.5,1.3,0.0,11.5,14.7,1.3,.097,0.4,0.4,,7500000,"Latta in Latta, South Carolina"
-feltora01,2011-12,27,Portland Trail Blazers,NBA,60,31.8,.407,.806,2.5,6.5,1.3,0.2,11.4,13.4,1.7,.042,-1.8,0.1,,7560000,"Latta in Latta, South Carolina"
-feltora01,2012-13,28,New York Knicks,NBA,68,34.0,.427,.789,2.9,5.5,1.4,0.2,13.9,15.2,4.2,.087,0.3,1.3,,3480453,"Latta in Latta, South Carolina"
-feltora01,2013-14,29,New York Knicks,NBA,65,31.0,.395,.721,3.0,5.6,1.2,0.4,9.7,12.9,2.2,.053,-0.9,0.5,,3637073,"Latta in Latta, South Carolina"
-feltora01,2014-15,30,Dallas Mavericks,NBA,29,9.7,.406,.800,0.9,1.4,0.4,0.1,3.7,12.4,0.2,.039,-3.0,-0.1,,3793693,"Latta in Latta, South Carolina"
-feltora01,2015-16,31,Dallas Mavericks,NBA,80,27.4,.406,.847,3.2,3.6,0.9,0.2,9.5,11.9,2.7,.059,-0.9,0.6,,3950313,"Latta in Latta, South Carolina"
-feltora01,2016-17,32,Los Angeles Clippers,NBA,80,21.3,.430,.781,2.7,2.4,0.8,0.3,6.7,10.9,1.9,.055,-1.0,0.4,,1551659,"Latta in Latta, South Carolina"
-feltora01,2017-18,33,Oklahoma City Thunder,NBA,82,16.6,.406,.818,1.9,2.5,0.6,0.2,6.9,13.0,2.2,.078,-2.8,-0.3,,1471382,"Latta in Latta, South Carolina"
-feltora01,2018-19,34,OKC,NBA,2,16.0,.353,.857,3.5,2.0,0.0,0.5,9.0,11.5,0.0,-0.031,-4.1,0.0,,,"Latta in Latta, South Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-0.40,3.06,feltora01,2005-06,CHA,14.2,2.6,.051,0.0,1.2,,NBA,2847360,21,80,30.1,.391,.725,3.3,5.6,1.3,0.1,11.9,CHA
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-0.11,4.15,feltora01,2006-07,CHA,13.5,2.3,.039,-0.7,1.0,,NBA,3060840,22,78,36.3,.384,.797,3.4,7.0,1.5,0.1,14.0,CHA
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-0.55,3.49,feltora01,2007-08,CHA,13.8,3.4,.054,-2.1,-0.1,,NBA,3274440,23,79,37.6,.413,.800,3.0,7.4,1.2,0.2,14.4,CHA
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",+0.73,6.30,feltora01,2008-09,CHA,13.7,4.3,.066,-0.1,1.4,,NBA,4148716,24,82,37.6,.408,.805,3.8,6.7,1.5,0.4,14.2,CHA
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",+0.49,5.20,feltora01,2009-10,CHA,15.2,6.5,.118,1.6,2.4,,NBA,5501196,25,80,33.0,.459,.763,3.6,5.6,1.5,0.3,12.1,CHA
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",+0.35,5.13,feltora01,2010-11,TOT,16.6,5.4,.094,0.3,1.6,,NBA,7500000,26,75,36.5,.425,.805,3.6,8.3,1.7,0.1,15.5,"NYK,DEN"
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",+1.77,5.27,feltora01,2011-12,POR,13.4,1.7,.042,-1.8,0.1,,NBA,7560000,27,60,31.8,.407,.806,2.5,6.5,1.3,0.2,11.4,POR
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",+1.77,7.56,feltora01,2012-13,NYK,15.2,4.2,.087,0.3,1.3,,NBA,3480453,28,68,34.0,.427,.789,2.9,5.5,1.4,0.2,13.9,NYK
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",+0.37,3.62,feltora01,2013-14,NYK,12.9,2.2,.053,-0.9,0.5,,NBA,3637073,29,65,31.0,.395,.721,3.0,5.6,1.2,0.4,9.7,NYK
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-1.91,0.06,feltora01,2014-15,DAL,12.4,0.2,.039,-3.0,-0.1,,NBA,3793693,30,29,9.7,.406,.800,0.9,1.4,0.4,0.1,3.7,DAL
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-1.45,1.33,feltora01,2015-16,DAL,11.9,2.7,.059,-0.9,0.6,,NBA,3950313,31,80,27.4,.406,.847,3.2,3.6,0.9,0.2,9.5,DAL
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-4.25,-2.20,feltora01,2016-17,LAC,10.9,1.9,.055,-1.0,0.4,,NBA,1551659,32,80,21.3,.430,.781,2.7,2.4,0.8,0.3,6.7,LAC
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",-2.35,-0.05,feltora01,2017-18,OKC,13.0,2.2,.078,-2.8,-0.3,,NBA,1471382,33,82,16.6,.406,.818,1.9,2.5,0.6,0.2,6.9,OKC
+Raymond Felton,/players/f/feltora01.html,2006,2019,University of North Carolina,true,"Latta in Latta, South Carolina",,,feltora01,2018-19,OKC,11.5,0.0,-0.031,-4.1,0.0,,NBA,,34,2,16.0,.353,.857,3.5,2.0,0.0,0.5,9.0,OKC

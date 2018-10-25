@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jamesle01,2003-04,19,Cleveland Cavaliers,NBA,79,39.5,.417,.754,5.5,5.9,1.6,0.7,20.9,18.3,5.1,.078,1.9,3.1,,4018920,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2004-05,20,Cleveland Cavaliers,NBA,80,42.4,.472,.750,7.4,7.2,2.2,0.7,27.2,25.7,14.3,.203,8.3,8.8,All-NBA (2nd),4320360,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2005-06,21,Cleveland Cavaliers,NBA,79,42.5,.480,.738,7.0,6.6,1.6,0.8,31.4,28.1,16.3,.232,9.3,9.5,All-NBA (1st),4621800,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2006-07,22,Cleveland Cavaliers,NBA,78,40.9,.476,.698,6.7,6.0,1.6,0.7,27.3,24.5,13.7,.206,7.4,7.6,All-NBA (2nd),5828090,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2007-08,23,Cleveland Cavaliers,NBA,75,40.4,.484,.712,7.9,7.2,1.8,1.1,30.0,29.1,15.2,.242,11.2,10.1,All-NBA (1st),13041250,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2008-09,24,Cleveland Cavaliers,NBA,81,37.7,.489,.780,7.6,7.2,1.7,1.1,28.4,31.7,20.3,.318,13.0,11.6,All-NBA (1st),14410581,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2009-10,25,Cleveland Cavaliers,NBA,76,39.0,.503,.767,7.3,8.6,1.6,1.0,29.7,31.1,18.5,.299,12.5,10.9,All-NBA (1st),15779912,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2010-11,26,Miami Heat,NBA,79,38.8,.510,.759,7.5,7.0,1.6,0.6,26.7,27.3,15.6,.244,8.6,8.2,All-NBA (1st),14500000,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2011-12,27,Miami Heat,NBA,62,37.5,.531,.771,7.9,6.2,1.9,0.8,27.1,30.7,14.5,.298,11.0,7.6,All-NBA (1st),16022500,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2012-13,28,Miami Heat,NBA,76,37.9,.565,.753,8.0,7.3,1.7,0.9,26.8,31.6,19.3,.322,11.6,9.8,All-NBA (1st),17545000,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2013-14,29,Miami Heat,NBA,77,37.7,.567,.750,6.9,6.3,1.6,0.3,27.1,29.3,15.9,.264,8.9,8.0,All-NBA (1st),19067500,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2014-15,30,Cleveland Cavaliers,NBA,69,36.1,.488,.710,6.0,7.4,1.6,0.7,25.3,25.9,10.4,.199,7.4,5.9,All-NBA (1st),20644400,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2015-16,31,Cleveland Cavaliers,NBA,76,35.6,.520,.731,7.4,6.8,1.4,0.6,25.3,27.5,13.6,.242,9.1,7.6,All-NBA (1st),22971000,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2016-17,32,Cleveland Cavaliers,NBA,74,37.8,.548,.674,8.6,8.7,1.2,0.6,26.4,27.0,12.9,.221,8.4,7.3,All-NBA (1st),30963450,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2017-18,33,Cleveland Cavaliers,NBA,82,36.9,.542,.731,8.6,9.1,1.4,0.9,27.5,28.6,14.0,.221,9.6,8.9,All-NBA (1st),33285709,"Saint Vincent-Saint Mary in Akron, Ohio"
-jamesle01,2018-19,34,LAL,NBA,4,36.8,.456,.806,8.0,8.8,1.8,0.5,25.3,23.3,0.4,.119,2.5,0.2,,,"Saint Vincent-Saint Mary in Akron, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",-0.46,3.79,jamesle01,2003-04,CLE,18.3,5.1,.078,1.9,3.1,,NBA,4018920,19,79,39.5,.417,.754,5.5,5.9,1.6,0.7,20.9,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+4.26,14.80,jamesle01,2004-05,CLE,25.7,14.3,.203,8.3,8.8,All-NBA (2nd),NBA,4320360,20,80,42.4,.472,.750,7.4,7.2,2.2,0.7,27.2,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+4.97,19.02,jamesle01,2005-06,CLE,28.1,16.3,.232,9.3,9.5,All-NBA (1st),NBA,4621800,21,79,42.5,.480,.738,7.0,6.6,1.6,0.8,31.4,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+5.62,21.56,jamesle01,2006-07,CLE,24.5,13.7,.206,7.4,7.6,All-NBA (2nd),NBA,5828090,22,78,40.9,.476,.698,6.7,6.0,1.6,0.7,27.3,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+6.35,20.07,jamesle01,2007-08,CLE,29.1,15.2,.242,11.2,10.1,All-NBA (1st),NBA,13041250,23,75,40.4,.484,.712,7.9,7.2,1.8,1.1,30.0,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+10.45,27.80,jamesle01,2008-09,CLE,31.7,20.3,.318,13.0,11.6,All-NBA (1st),NBA,14410581,24,81,37.7,.489,.780,7.6,7.2,1.7,1.1,28.4,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+8.79,23.48,jamesle01,2009-10,CLE,31.1,18.5,.299,12.5,10.9,All-NBA (1st),NBA,15779912,25,76,39.0,.503,.767,7.3,8.6,1.6,1.0,29.7,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+5.13,19.50,jamesle01,2010-11,MIA,27.3,15.6,.244,8.6,8.2,All-NBA (1st),NBA,14500000,26,79,38.8,.510,.759,7.5,7.0,1.6,0.6,26.7,MIA
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+7.36,20.86,jamesle01,2011-12,MIA,30.7,14.5,.298,11.0,7.6,All-NBA (1st),NBA,16022500,27,62,37.5,.531,.771,7.9,6.2,1.9,0.8,27.1,MIA
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+8.33,25.62,jamesle01,2012-13,MIA,31.6,19.3,.322,11.6,9.8,All-NBA (1st),NBA,17545000,28,76,37.9,.565,.753,8.0,7.3,1.7,0.9,26.8,MIA
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+5.74,19.04,jamesle01,2013-14,MIA,29.3,15.9,.264,8.9,8.0,All-NBA (1st),NBA,19067500,29,77,37.7,.567,.750,6.9,6.3,1.6,0.3,27.1,MIA
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+6.68,19.31,jamesle01,2014-15,CLE,25.9,10.4,.199,7.4,5.9,All-NBA (1st),NBA,20644400,30,69,36.1,.488,.710,6.0,7.4,1.6,0.7,25.3,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+8.34,23.50,jamesle01,2015-16,CLE,27.5,13.6,.242,9.1,7.6,All-NBA (1st),NBA,22971000,31,76,35.6,.520,.731,7.4,6.8,1.4,0.6,25.3,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+8.52,23.14,jamesle01,2016-17,CLE,27.0,12.9,.221,8.4,7.3,All-NBA (1st),NBA,30963450,32,74,37.8,.548,.674,8.6,8.7,1.2,0.6,26.4,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",+4.32,16.85,jamesle01,2017-18,CLE,28.6,14.0,.221,9.6,8.9,All-NBA (1st),NBA,33285709,33,82,36.9,.542,.731,8.6,9.1,1.4,0.9,27.5,CLE
+LeBron James,/players/j/jamesle01.html,2004,2019,,true,"Saint Vincent-Saint Mary in Akron, Ohio",,,jamesle01,2018-19,LAL,23.3,0.4,.119,2.5,0.2,,NBA,,34,4,36.8,.456,.806,8.0,8.8,1.8,0.5,25.3,LAL

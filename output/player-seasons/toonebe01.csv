@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-toonebe01,1979-80,23,PHI,NBA,23,5.4,.359,.800,1.5,0.5,0.2,0.2,2.4,8.9,-0.1,-0.036,-6.0,-0.1,,"Gorton in Yonkers, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bernard Toone,/players/t/toonebe01.html,1980,1980,Marquette University,false,"Gorton in Yonkers, New York",-0.27,0.17,toonebe01,1979-80,PHI,8.9,-0.1,-0.036,-6.0,-0.1,,23,NBA,23,5.4,.359,.800,1.5,0.5,0.2,0.2,2.4,PHI

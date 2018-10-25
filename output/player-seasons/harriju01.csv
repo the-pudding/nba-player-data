@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harriju01,2002-03,22,Denver Nuggets,NBA,82,24.4,.362,.652,3.0,3.4,1.0,0.2,5.1,6.4,-0.4,-0.009,-4.6,-1.3,,349458,"Scotland County in Wagram, North Carolina"
-harriju01,2003-04,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Scotland County in Wagram, North Carolina"
-harriju01,2004-05,24,New Orleans Hornets,NBA,29,19.0,.360,.829,2.2,2.1,0.9,0.2,5.6,7.7,-0.3,-0.028,-4.8,-0.4,,695046,"Scotland County in Wagram, North Carolina"
-harriju01,2005-06,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Scotland County in Wagram, North Carolina"
-harriju01,2006-07,26,Memphis Grizzlies,NBA,29,18.7,.416,.674,2.3,3.1,0.7,0.2,5.2,8.9,-0.2,-0.015,-3.9,-0.3,,390556,"Scotland County in Wagram, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Junior Harrington,/players/h/harriju01.html,2003,2007,Wingate University,false,"Scotland County in Wagram, North Carolina",-1.88,0.25,harriju01,2002-03,DEN,6.4,-0.4,-0.009,-4.6,-1.3,,NBA,349458,22,82,24.4,.362,.652,3.0,3.4,1.0,0.2,5.1,DEN
+Junior Harrington,/players/h/harriju01.html,2003,2007,Wingate University,false,"Scotland County in Wagram, North Carolina",,,harriju01,2003-04,Did Not Play (other pro league—CBA),,,,,,,,,23,,,,,,,,,,Did Not Play (other pro league—CBA)
+Junior Harrington,/players/h/harriju01.html,2003,2007,Wingate University,false,"Scotland County in Wagram, North Carolina",-2.49,-0.12,harriju01,2004-05,NOH,7.7,-0.3,-0.028,-4.8,-0.4,,NBA,695046,24,29,19.0,.360,.829,2.2,2.1,0.9,0.2,5.6,NOH
+Junior Harrington,/players/h/harriju01.html,2003,2007,Wingate University,false,"Scotland County in Wagram, North Carolina",,,harriju01,2005-06,Did Not Play (other pro league—Spain),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Spain)
+Junior Harrington,/players/h/harriju01.html,2003,2007,Wingate University,false,"Scotland County in Wagram, North Carolina",-1.13,0.42,harriju01,2006-07,MEM,8.9,-0.2,-0.015,-3.9,-0.3,,NBA,390556,26,29,18.7,.416,.674,2.3,3.1,0.7,0.2,5.2,MEM

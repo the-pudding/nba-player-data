@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bendedr01,2016-17,19,Phoenix Suns,NBA,43,13.3,.354,.364,2.4,0.5,0.2,0.5,3.4,5.3,-0.3,-0.029,-4.3,-0.3,,4276320,
-bendedr01,2017-18,20,Phoenix Suns,NBA,82,25.2,.386,.765,4.4,1.6,0.3,0.6,6.5,7.1,0.1,.001,-2.7,-0.4,,4468800,
-bendedr01,2018-19,21,PHO,NBA,2,3.0,.000,,1.0,0.0,0.0,0.0,0.0,-13.6,0.0,-0.389,-23.4,0.0,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dragan Bender,/players/b/bendedr01.html,2017,2019,,true,,-1.75,0.22,bendedr01,2016-17,PHO,5.3,-0.3,-0.029,-4.3,-0.3,,NBA,4276320,19,43,13.3,.354,.364,2.4,0.5,0.2,0.5,3.4,PHO
+Dragan Bender,/players/b/bendedr01.html,2017,2019,,true,,-3.66,-1.85,bendedr01,2017-18,PHO,7.1,0.1,.001,-2.7,-0.4,,NBA,4468800,20,82,25.2,.386,.765,4.4,1.6,0.3,0.6,6.5,PHO
+Dragan Bender,/players/b/bendedr01.html,2017,2019,,true,,,,bendedr01,2018-19,PHO,-13.6,0.0,-0.389,-23.4,0.0,,NBA,,21,2,3.0,.000,,1.0,0.0,0.0,0.0,0.0,PHO

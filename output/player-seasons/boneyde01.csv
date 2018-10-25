@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-boneyde01,1996-97,26,PHO,NBA,8,6.0,.316,.750,0.8,0.0,0.3,0.1,2.4,10.2,0.0,.013,-9.7,-0.1,,"Brandywine in Wilmington, Delaware"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dexter Boney,/players/b/boneyde01.html,1997,1997,"University of Nevada, Las Vegas",false,"Brandywine in Wilmington, Delaware",-0.10,0.07,boneyde01,1996-97,PHO,10.2,0.0,.013,-9.7,-0.1,,26,NBA,8,6.0,.316,.750,0.8,0.0,0.3,0.1,2.4,PHO

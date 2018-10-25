@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcfariv01,2006-07,24,Denver Nuggets,NBA,11,3.7,.385,.714,1.0,0.1,0.0,0.0,1.4,12.2,0.1,.102,-5.5,0.0,,412718,"Willowridge in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ivan McFarlin,/players/m/mcfariv01.html,2007,2007,Oklahoma State University,false,"Willowridge in Houston, Texas",+0.28,0.07,mcfariv01,2006-07,PHI,12.2,0.1,.102,-5.5,0.0,,NBA,412718,24,11,3.7,.385,.714,1.0,0.1,0.0,0.0,1.4,PHI

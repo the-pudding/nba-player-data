@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wilkebo01,1976-77,22,SEA,NBA,78,19.9,.386,.689,3.3,2.2,0.9,0.1,6.7,11.2,0.9,.028,-2.5,-0.2,,"Madison Heights in Anderson, Indiana"
-wilkebo01,1977-78,23,DEN,NBA,81,34.3,.408,.748,5.9,5.4,1.6,0.3,11.4,10.0,0.7,.011,-1.8,0.1,,"Madison Heights in Anderson, Indiana"
-wilkebo01,1978-79,24,DEN,NBA,80,30.3,.456,.688,5.2,3.6,1.5,0.3,11.4,12.0,2.9,.058,-0.6,0.9,,"Madison Heights in Anderson, Indiana"
-wilkebo01,1979-80,25,DEN,NBA,75,31.7,.417,.748,4.2,3.2,1.2,0.4,13.8,10.9,0.2,.004,-3.4,-0.8,,"Madison Heights in Anderson, Indiana"
-wilkebo01,1980-81,26,CHI,NBA,80,28.0,.462,.840,3.5,3.4,1.3,0.3,10.0,12.3,3.2,.068,-0.7,0.7,,"Madison Heights in Anderson, Indiana"
-wilkebo01,1981-82,27,CLE,NBA,65,27.8,.418,.784,3.8,3.6,1.4,0.4,11.0,12.5,0.7,.018,-1.1,0.4,,"Madison Heights in Anderson, Indiana"
-wilkebo01,1982-83,28,CLE,NBA,77,22.1,.417,.750,3.1,2.5,0.9,0.2,6.7,9.2,-0.3,-0.010,-3.2,-0.5,,"Madison Heights in Anderson, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-2.10,-0.04,wilkebo01,1976-77,SEA,11.2,0.9,.028,-2.5,-0.2,,22,NBA,78,19.9,.386,.689,3.3,2.2,0.9,0.1,6.7,SEA
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-1.58,1.33,wilkebo01,1977-78,DEN,10.0,0.7,.011,-1.8,0.1,,23,NBA,81,34.3,.408,.748,5.9,5.4,1.6,0.3,11.4,DEN
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-0.72,2.62,wilkebo01,1978-79,DEN,12.0,2.9,.058,-0.6,0.9,,24,NBA,80,30.3,.456,.688,5.2,3.6,1.5,0.3,11.4,DEN
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-2.76,-0.82,wilkebo01,1979-80,DEN,10.9,0.2,.004,-3.4,-0.8,,25,NBA,75,31.7,.417,.748,4.2,3.2,1.2,0.4,13.8,DEN
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-1.09,1.91,wilkebo01,1980-81,CHI,12.3,3.2,.068,-0.7,0.7,,26,NBA,80,28.0,.462,.840,3.5,3.4,1.3,0.3,10.0,CHI
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-1.99,0.36,wilkebo01,1981-82,CLE,12.5,0.7,.018,-1.1,0.4,,27,NBA,65,27.8,.418,.784,3.8,3.6,1.4,0.4,11.0,CLE
+Bob Wilkerson,/players/w/wilkebo01.html,1977,1983,Indiana University,false,"Madison Heights in Anderson, Indiana",-3.16,-1.14,wilkebo01,1982-83,CLE,9.2,-0.3,-0.010,-3.2,-0.5,,28,NBA,77,22.1,.417,.750,3.1,2.5,0.9,0.2,6.7,CLE

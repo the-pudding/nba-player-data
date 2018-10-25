@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kingal01,1981-82,22,NJN,NBA,76,22.3,.482,.778,4.1,1.9,0.8,0.5,12.1,13.5,2.4,.067,-1.4,0.3,,"Fort Hamilton in Brooklyn, New York",
-kingal01,1982-83,23,NJN,NBA,79,31.0,.475,.775,5.8,3.7,1.2,0.5,17.0,15.6,5.7,.112,1.1,1.9,,"Fort Hamilton in Brooklyn, New York",
-kingal01,1983-84,24,NJN,NBA,79,26.6,.492,.786,4.9,2.6,1.2,0.4,14.7,15.6,4.3,.099,0.6,1.4,,"Fort Hamilton in Brooklyn, New York",
-kingal01,1984-85,25,New Jersey Nets,NBA,42,20.5,.491,.817,3.8,1.4,1.0,0.2,12.8,17.7,1.9,.106,-0.9,0.2,,"Fort Hamilton in Brooklyn, New York",275000
-kingal01,1985-86,26,New Jersey Nets,NBA,73,27.4,.456,.823,5.0,2.5,0.8,0.3,14.3,13.3,1.9,.045,-2.0,0.0,,"Fort Hamilton in Brooklyn, New York",1035000
-kingal01,1986-87,27,NJN,NBA,61,21.2,.426,.810,3.5,1.7,0.6,0.5,9.5,10.4,0.2,.007,-3.2,-0.4,,"Fort Hamilton in Brooklyn, New York",
-kingal01,1987-88,28,Philadelphia 76ers,NBA,72,22.1,.391,.757,3.0,1.5,0.5,0.3,7.2,7.2,-0.1,-0.004,-4.5,-1.0,,"Fort Hamilton in Brooklyn, New York",370000
-kingal01,1988-89,29,San Antonio Spurs,NBA,46,17.2,.431,.771,3.0,1.7,0.6,0.2,7.1,9.4,0.0,-0.003,-5.1,-0.6,,"Fort Hamilton in Brooklyn, New York",425000
-kingal01,1989-90,30,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,"Fort Hamilton in Brooklyn, New York",
-kingal01,1990-91,31,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Fort Hamilton in Brooklyn, New York",
-kingal01,1991-92,32,WSB,NBA,6,9.8,.367,.875,1.8,0.8,0.5,0.0,5.2,14.3,0.1,.072,-4.2,0.0,,"Fort Hamilton in Brooklyn, New York",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-1.22,1.19,kingal01,1981-82,NJN,13.5,2.4,.067,-1.4,0.3,,22,NBA,76,22.3,.482,.778,4.1,1.9,0.8,0.5,12.1,NJN,
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",+0.30,4.42,kingal01,1982-83,NJN,15.6,5.7,.112,1.1,1.9,,23,NBA,79,31.0,.475,.775,5.8,3.7,1.2,0.5,17.0,NJN,
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-0.31,3.18,kingal01,1983-84,NJN,15.6,4.3,.099,0.6,1.4,,24,NBA,79,26.6,.492,.786,4.9,2.6,1.2,0.4,14.7,NJN,
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-0.95,0.87,kingal01,1984-85,NJN,17.7,1.9,.106,-0.9,0.2,,25,NBA,42,20.5,.491,.817,3.8,1.4,1.0,0.2,12.8,NJN,275000
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-1.89,0.52,kingal01,1985-86,NJN,13.3,1.9,.045,-2.0,0.0,,26,NBA,73,27.4,.456,.823,5.0,2.5,0.8,0.3,14.3,NJN,1035000
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-3.28,-0.84,kingal01,1986-87,NJN,10.4,0.2,.007,-3.2,-0.4,,27,NBA,61,21.2,.426,.810,3.5,1.7,0.6,0.5,9.5,NJN,
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-3.66,-1.38,kingal01,1987-88,PHI,7.2,-0.1,-0.004,-4.5,-1.0,,28,NBA,72,22.1,.391,.757,3.0,1.5,0.5,0.3,7.2,PHI,370000
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-3.57,-0.73,kingal01,1988-89,SAS,9.4,0.0,-0.003,-5.1,-0.6,,29,NBA,46,17.2,.431,.771,3.0,1.7,0.6,0.2,7.1,SAS,425000
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",,,kingal01,1989-90,Did Not Play (other pro league—Israel),,,,,,,30,,,,,,,,,,,Did Not Play (other pro league—Israel),
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",,,kingal01,1990-91,Did Not Play (other pro league—CBA),,,,,,,31,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Albert King,/players/k/kingal01.html,1982,1992,University of Maryland,false,"Fort Hamilton in Brooklyn, New York",-0.05,0.09,kingal01,1991-92,WSB,14.3,0.1,.072,-4.2,0.0,,32,NBA,6,9.8,.367,.875,1.8,0.8,0.5,0.0,5.2,WSB,

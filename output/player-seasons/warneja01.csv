@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-warneja01,2017-18,24,Dallas Mavericks,NBA,3,9.0,.583,.600,3.0,0.0,0.0,0.0,5.7,22.6,0.1,.157,-12.2,-0.1,,46080,"Roselle Catholic in Roselle, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jameel Warney,/players/w/warneja01.html,2018,2018,Stony Brook University,true,"Roselle Catholic in Roselle, New Jersey",+0.23,0.05,warneja01,2017-18,DAL,22.6,0.1,.157,-12.2,-0.1,,NBA,46080,24,3,9.0,.583,.600,3.0,0.0,0.0,0.0,5.7,DAL

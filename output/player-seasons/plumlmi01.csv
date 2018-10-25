@@ -1,12 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-plumlmi01,2012-13,24,Indiana Pacers,NBA,14,3.9,.238,.750,1.6,0.1,0.0,0.2,0.9,8.8,0.0,-0.015,-7.8,-0.1,,1073280,"Christ School in Arden, North Carolina"
-plumlmi01,2013-14,25,Phoenix Suns,NBA,80,24.6,.517,.561,7.8,0.5,0.6,1.1,8.1,14.6,4.0,.098,-1.5,0.2,,1121520,"Christ School in Arden, North Carolina"
-plumlmi01,2014-15,26,Milwaukee Bucks,NBA,73,16.4,.535,.478,4.4,0.5,0.6,0.9,4.0,13.4,2.6,.103,-0.2,0.5,,1169880,"Christ School in Arden, North Carolina"
-plumlmi01,2014-15,26,Milwaukee Bucks,NBA,54,18.6,.549,.500,5.1,0.5,0.6,1.0,4.3,13.1,2.1,.102,0.0,0.5,,1169880,"Christ School in Arden, North Carolina"
-plumlmi01,2014-15,26,Milwaukee Bucks,NBA,19,9.9,.492,.375,2.4,0.4,0.3,0.6,3.2,15.0,0.4,.107,-1.6,0.0,,1169880,"Christ School in Arden, North Carolina"
-plumlmi01,2015-16,27,Milwaukee Bucks,NBA,61,14.3,.601,.576,3.8,0.3,0.3,0.8,5.1,17.4,2.2,.124,-1.8,0.0,,2109294,"Christ School in Arden, North Carolina"
-plumlmi01,2016-17,28,Milwaukee Bucks,NBA,45,10.8,.478,.641,2.1,0.5,0.4,0.3,2.5,8.4,0.5,.045,-3.6,-0.2,,12500000,"Christ School in Arden, North Carolina"
-plumlmi01,2016-17,28,Milwaukee Bucks,NBA,32,9.7,.441,.629,1.7,0.6,0.3,0.3,2.6,8.0,0.1,.021,-4.2,-0.2,,12500000,"Christ School in Arden, North Carolina"
-plumlmi01,2016-17,28,Milwaukee Bucks,NBA,13,13.4,.583,.750,3.2,0.2,0.5,0.3,2.4,9.0,0.3,.087,-2.5,0.0,,12500000,"Christ School in Arden, North Carolina"
-plumlmi01,2017-18,29,Atlanta Hawks,NBA,55,16.7,.583,.450,4.1,0.8,0.3,0.5,4.3,10.6,0.9,.046,-2.5,-0.1,,12500000,"Christ School in Arden, North Carolina"
-plumlmi01,2018-19,30,ATL,NBA,2,14.0,.875,.556,3.0,1.0,0.5,0.0,9.5,26.0,0.2,.268,2.3,0.0,,,"Christ School in Arden, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",-1.28,0.03,plumlmi01,2012-13,IND,8.8,0.0,-0.015,-7.8,-0.1,,NBA,1073280,24,14,3.9,.238,.750,1.6,0.1,0.0,0.2,0.9,IND
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",-0.42,2.46,plumlmi01,2013-14,PHO,14.6,4.0,.098,-1.5,0.2,,NBA,1121520,25,80,24.6,.517,.561,7.8,0.5,0.6,1.1,8.1,PHO
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",-0.83,1.18,plumlmi01,2014-15,TOT,13.4,2.6,.103,-0.2,0.5,,NBA,1169880,26,73,16.4,.535,.478,4.4,0.5,0.6,0.9,4.0,"PHO,MIL"
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",-1.93,0.17,plumlmi01,2015-16,MIL,17.4,2.2,.124,-1.8,0.0,,NBA,2109294,27,61,14.3,.601,.576,3.8,0.3,0.3,0.8,5.1,MIL
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",-3.20,-0.29,plumlmi01,2016-17,TOT,8.4,0.5,.045,-3.6,-0.2,,NBA,12500000,28,45,10.8,.478,.641,2.1,0.5,0.4,0.3,2.5,"MIL,CHO"
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",-2.01,0.15,plumlmi01,2017-18,ATL,10.6,0.9,.046,-2.5,-0.1,,NBA,12500000,29,55,16.7,.583,.450,4.1,0.8,0.3,0.5,4.3,ATL
+Miles Plumlee,/players/p/plumlmi01.html,2013,2019,Duke University,true,"Christ School in Arden, North Carolina",,,plumlmi01,2018-19,ATL,26.0,0.2,.268,2.3,0.0,,NBA,,30,2,14.0,.875,.556,3.0,1.0,0.5,0.0,9.5,ATL

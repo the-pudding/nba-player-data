@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacobca01,2002-03,21,Phoenix Suns,NBA,72,15.9,.373,.686,1.2,1.0,0.5,0.1,5.1,9.2,1.2,.051,-2.7,-0.2,,941040,"Glendora in Glendora, California"
-jacobca01,2003-04,22,Phoenix Suns,NBA,78,23.4,.417,.820,2.6,1.3,0.6,0.1,6.0,9.6,2.6,.068,-1.3,0.3,,1011600,"Glendora in Glendora, California"
-jacobca01,2004-05,23,Phoenix Suns,NBA,84,21.4,.404,.786,2.0,1.3,0.4,0.1,6.5,10.3,2.7,.071,-2.0,0.0,,1082160,"Glendora in Glendora, California"
-jacobca01,2004-05,23,Phoenix Suns,NBA,40,19.2,.414,.774,1.7,0.9,0.3,0.0,5.3,8.4,1.1,.067,-1.4,0.1,,1082160,"Glendora in Glendora, California"
-jacobca01,2004-05,23,Phoenix Suns,NBA,44,23.4,.398,.792,2.3,1.7,0.5,0.2,7.6,11.7,1.6,.074,-2.5,-0.1,,1082160,"Glendora in Glendora, California"
-jacobca01,2005-06,24,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Glendora in Glendora, California"
-jacobca01,2006-07,25,Houston Rockets,NBA,,,,,,,,,,,,,,,,31250,"Glendora in Glendora, California"
-jacobca01,2007-08,26,Memphis Grizzlies,NBA,53,10.3,.339,.765,1.2,0.4,0.1,0.0,2.0,4.5,-0.3,-0.023,-6.1,-0.6,,826269,"Glendora in Glendora, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Casey Jacobsen,/players/j/jacobca01.html,2003,2008,Stanford University,false,"Glendora in Glendora, California",+0.19,1.99,jacobca01,2002-03,PHO,9.2,1.2,.051,-2.7,-0.2,,NBA,941040,21,72,15.9,.373,.686,1.2,1.0,0.5,0.1,5.1,PHO
+Casey Jacobsen,/players/j/jacobca01.html,2003,2008,Stanford University,false,"Glendora in Glendora, California",-1.74,0.53,jacobca01,2003-04,PHO,9.6,2.6,.068,-1.3,0.3,,NBA,1011600,22,78,23.4,.417,.820,2.6,1.3,0.6,0.1,6.0,PHO
+Casey Jacobsen,/players/j/jacobca01.html,2003,2008,Stanford University,false,"Glendora in Glendora, California",-2.12,0.13,jacobca01,2004-05,TOT,10.3,2.7,.071,-2.0,0.0,,NBA,1082160,23,84,21.4,.404,.786,2.0,1.3,0.4,0.1,6.5,"PHO,NOH"
+Casey Jacobsen,/players/j/jacobca01.html,2003,2008,Stanford University,false,"Glendora in Glendora, California",,,jacobca01,2005-06,Did Not Play (other pro league—Spain),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—Spain)
+Casey Jacobsen,/players/j/jacobca01.html,2003,2008,Stanford University,false,"Glendora in Glendora, California",,,jacobca01,2006-07,Did Not Play (other pro league—Germany),,,,,,,NBA,31250,25,,,,,,,,,,Did Not Play (other pro league—Germany)
+Casey Jacobsen,/players/j/jacobca01.html,2003,2008,Stanford University,false,"Glendora in Glendora, California",-1.50,0.29,jacobca01,2007-08,MEM,4.5,-0.3,-0.023,-6.1,-0.6,,NBA,826269,26,53,10.3,.339,.765,1.2,0.4,0.1,0.0,2.0,MEM

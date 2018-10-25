@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jamesbe01,2012-13,27,Dallas Mavericks,NBA,46,9.9,.515,.610,2.8,0.1,0.3,0.8,2.8,14.7,1.2,.125,-1.2,0.1,,473604,"Windsor Forest in Savannah, Georgia"
-jamesbe01,2013-14,28,Dallas Mavericks,NBA,30,4.9,.478,.545,1.4,0.1,0.1,0.3,0.9,8.5,0.1,.040,-3.7,-0.1,,788872,"Windsor Forest in Savannah, Georgia"
-jamesbe01,2014-15,29,Dallas Mavericks,NBA,16,9.9,.444,.870,2.4,0.3,0.1,0.9,2.8,16.0,0.5,.165,1.6,0.1,,915243,"Windsor Forest in Savannah, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bernard James,/players/j/jamesbe01.html,2013,2015,Florida State University,false,"Windsor Forest in Savannah, Georgia",+0.29,0.79,jamesbe01,2012-13,DAL,14.7,1.2,.125,-1.2,0.1,,NBA,473604,27,46,9.9,.515,.610,2.8,0.1,0.3,0.8,2.8,DAL
+Bernard James,/players/j/jamesbe01.html,2013,2015,Florida State University,false,"Windsor Forest in Savannah, Georgia",-0.30,0.21,jamesbe01,2013-14,DAL,8.5,0.1,.040,-3.7,-0.1,,NBA,788872,28,30,4.9,.478,.545,1.4,0.1,0.1,0.3,0.9,DAL
+Bernard James,/players/j/jamesbe01.html,2013,2015,Florida State University,false,"Windsor Forest in Savannah, Georgia",-0.31,0.21,jamesbe01,2014-15,DAL,16.0,0.5,.165,1.6,0.1,,NBA,915243,29,16,9.9,.444,.870,2.4,0.3,0.1,0.9,2.8,DAL

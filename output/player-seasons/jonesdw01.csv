@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-jonesdw01,1976-77,24,HOU,NBA,74,16.7,.494,.802,3.8,0.6,0.5,0.3,5.9,12.7,2.6,.102,-1.3,0.2,,"Wheatley in Houston, Texas"
-jonesdw01,1977-78,25,HOU,NBA,82,30.2,.445,.777,7.8,1.3,0.9,0.5,10.6,12.5,3.1,.060,-0.7,0.8,,"Wheatley in Houston, Texas"
-jonesdw01,1978-79,26,HOU,NBA,81,15.0,.458,.727,4.0,0.7,0.4,0.3,5.7,10.9,1.3,.050,-2.9,-0.3,,"Wheatley in Houston, Texas"
-jonesdw01,1979-80,27,"HOU,CHI",NBA,74,19.6,.508,.726,5.0,1.4,0.4,0.6,8.9,14.2,2.7,.090,-1.5,0.2,,"Wheatley in Houston, Texas"
-jonesdw01,1980-81,28,CHI,NBA,81,19.4,.483,.776,5.0,1.2,0.5,0.4,7.6,13.1,2.9,.089,-1.7,0.1,,"Wheatley in Houston, Texas"
-jonesdw01,1981-82,29,CHI,NBA,78,26.2,.530,.723,6.5,1.5,0.6,0.5,10.0,13.4,3.6,.086,-0.7,0.7,,"Wheatley in Houston, Texas"
-jonesdw01,1982-83,30,"CHI,LAL",NBA,81,14.4,.455,.642,3.8,0.8,0.4,0.3,4.6,9.2,0.6,.027,-4.4,-0.7,,"Wheatley in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-1.17,1.06,jonesdw01,1976-77,HOU,12.7,2.6,.102,-1.3,0.2,,24,NBA,74,16.7,.494,.802,3.8,0.6,0.5,0.3,5.9,HOU
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-1.71,0.86,jonesdw01,1977-78,HOU,12.5,3.1,.060,-0.7,0.8,,25,NBA,82,30.2,.445,.777,7.8,1.3,0.9,0.5,10.6,HOU
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-1.86,0.34,jonesdw01,1978-79,HOU,10.9,1.3,.050,-2.9,-0.3,,26,NBA,81,15.0,.458,.727,4.0,0.7,0.4,0.3,5.7,HOU
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-1.23,1.02,jonesdw01,1979-80,TOT,14.2,2.7,.090,-1.5,0.2,,27,NBA,74,19.6,.508,.726,5.0,1.4,0.4,0.6,8.9,"HOU,CHI"
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-1.23,1.26,jonesdw01,1980-81,CHI,13.1,2.9,.089,-1.7,0.1,,28,NBA,81,19.4,.483,.776,5.0,1.2,0.5,0.4,7.6,CHI
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-1.62,0.91,jonesdw01,1981-82,CHI,13.4,3.6,.086,-0.7,0.7,,29,NBA,78,26.2,.530,.723,6.5,1.5,0.6,0.5,10.0,CHI
+Dwight Jones,/players/j/jonesdw01.html,1974,1983,University of Houston,false,"Wheatley in Houston, Texas",-3.19,-0.78,jonesdw01,1982-83,TOT,9.2,0.6,.027,-4.4,-0.7,,30,NBA,81,14.4,.455,.642,3.8,0.8,0.4,0.3,4.6,"CHI,LAL"

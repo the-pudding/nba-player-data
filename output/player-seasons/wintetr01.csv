@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wintetr01,1998-99,25,Minnesota Timberwolves,NBA,1,5.0,,,3.0,0.0,0.0,0.0,0.0,-4.3,0.0,.202,-11.8,0.0,,287500,"Slayton in Slayton, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Trevor Winter,/players/w/wintetr01.html,1999,1999,University of Minnesota,false,"Slayton in Slayton, Minnesota",+0.54,0.01,wintetr01,1998-99,MIN,-4.3,0.0,.202,-11.8,0.0,,NBA,287500,25,1,5.0,,,3.0,0.0,0.0,0.0,0.0,MIN

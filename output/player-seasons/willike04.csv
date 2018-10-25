@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willike04,2018-19,24,NOP,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,.002,0.0,0.0,,"Waco University HS in Waco, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenrich Williams,/players/w/willike04.html,2019,2019,,true,"Waco University HS in Waco, Texas",,,willike04,2018-19,NOP,0.0,0.0,.002,0.0,0.0,,24,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,NOP

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thomach01,1991-92,22,Detroit Pistons,NBA,36,4.3,.353,.667,0.6,0.6,0.1,0.0,1.3,6.1,-0.1,-0.042,-6.0,-0.2,,130000,"Everett in Lansing, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Charles Thomas,/players/t/thomach01.html,1992,1992,Eastern Michigan University,false,"Everett in Lansing, Michigan",-0.41,0.20,thomach01,1991-92,DET,6.1,-0.1,-0.042,-6.0,-0.2,,NBA,130000,22,36,4.3,.353,.667,0.6,0.6,0.1,0.0,1.3,DET

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kennalu01,2017-18,21,Detroit Pistons,NBA,73,20.0,.443,.855,2.4,1.7,0.6,0.2,7.6,12.1,2.6,.085,-1.5,0.2,,2759280,"Franklin in Franklin, Ohio"
-kennalu01,2018-19,22,DET,NBA,2,15.5,.500,,2.5,1.0,0.0,0.5,4.5,9.6,0.0,.068,-4.3,0.0,,,"Franklin in Franklin, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Luke Kennard,/players/k/kennalu01.html,2018,2019,Duke University,true,"Franklin in Franklin, Ohio",+0.30,2.55,kennalu01,2017-18,DET,12.1,2.6,.085,-1.5,0.2,,NBA,2759280,21,73,20.0,.443,.855,2.4,1.7,0.6,0.2,7.6,DET
+Luke Kennard,/players/k/kennalu01.html,2018,2019,Duke University,true,"Franklin in Franklin, Ohio",,,kennalu01,2018-19,DET,9.6,0.0,.068,-4.3,0.0,,NBA,,22,2,15.5,.500,,2.5,1.0,0.0,0.5,4.5,DET

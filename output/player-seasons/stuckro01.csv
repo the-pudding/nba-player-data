@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stuckro01,2007-08,21,Detroit Pistons,NBA,57,19.0,.401,.814,2.3,2.8,0.9,0.1,7.6,13.8,2.0,.090,-1.1,0.3,,1569600,"Kentwood in Kent, Washington"
-stuckro01,2008-09,22,Detroit Pistons,NBA,79,31.9,.439,.803,3.5,4.9,1.0,0.1,13.4,14.8,3.8,.073,-0.5,1.0,,1687320,"Kentwood in Kent, Washington"
-stuckro01,2009-10,23,Detroit Pistons,NBA,73,34.2,.405,.833,3.8,4.8,1.4,0.2,16.6,15.6,2.7,.052,-0.8,0.7,,1805040,"Kentwood in Kent, Washington"
-stuckro01,2010-11,24,Detroit Pistons,NBA,70,31.2,.439,.866,3.1,5.2,1.1,0.1,15.5,18.4,5.0,.111,0.3,1.3,,2767126,"Kentwood in Kent, Washington"
-stuckro01,2011-12,25,Detroit Pistons,NBA,55,29.9,.429,.834,2.6,3.8,0.8,0.2,14.8,17.6,4.5,.131,-0.2,0.8,,8500000,"Kentwood in Kent, Washington"
-stuckro01,2012-13,26,Detroit Pistons,NBA,76,28.6,.406,.783,2.8,3.6,0.7,0.2,11.5,13.0,2.5,.055,-2.5,-0.3,,8500000,"Kentwood in Kent, Washington"
-stuckro01,2013-14,27,Detroit Pistons,NBA,73,26.7,.436,.836,2.3,2.1,0.7,0.1,13.9,14.0,2.2,.053,-4.1,-1.0,,8500000,"Kentwood in Kent, Washington"
-stuckro01,2014-15,28,Indiana Pacers,NBA,71,26.4,.440,.819,3.5,3.1,0.8,0.1,12.6,15.4,4.0,.103,-0.1,0.9,,1227985,"Kentwood in Kent, Washington"
-stuckro01,2015-16,29,Indiana Pacers,NBA,58,22.0,.413,.829,2.7,2.4,0.7,0.1,8.9,12.6,2.0,.077,-2.5,-0.2,,6500000,"Kentwood in Kent, Washington"
-stuckro01,2016-17,30,Indiana Pacers,NBA,39,17.8,.373,.748,2.2,2.2,0.4,0.0,7.2,9.5,-0.1,-0.006,-6.0,-0.7,,7000000,"Kentwood in Kent, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-1.69,0.57,stuckro01,2007-08,DET,13.8,2.0,.090,-1.1,0.3,,NBA,1569600,21,57,19.0,.401,.814,2.3,2.8,0.9,0.1,7.6,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-1.33,1.71,stuckro01,2008-09,DET,14.8,3.8,.073,-0.5,1.0,,NBA,1687320,22,79,31.9,.439,.803,3.5,4.9,1.0,0.1,13.4,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",+1.39,6.21,stuckro01,2009-10,DET,15.6,2.7,.052,-0.8,0.7,,NBA,1805040,23,73,34.2,.405,.833,3.8,4.8,1.4,0.2,16.6,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",+0.05,3.44,stuckro01,2010-11,DET,18.4,5.0,.111,0.3,1.3,,NBA,2767126,24,70,31.2,.439,.866,3.1,5.2,1.1,0.1,15.5,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",+1.05,3.72,stuckro01,2011-12,DET,17.6,4.5,.131,-0.2,0.8,,NBA,8500000,25,55,29.9,.429,.834,2.6,3.8,0.8,0.2,14.8,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-3.25,-1.43,stuckro01,2012-13,DET,13.0,2.5,.055,-2.5,-0.3,,NBA,8500000,26,76,28.6,.406,.783,2.8,3.6,0.7,0.2,11.5,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-2.89,-0.74,stuckro01,2013-14,DET,14.0,2.2,.053,-4.1,-1.0,,NBA,8500000,27,73,26.7,.436,.836,2.3,2.1,0.7,0.1,13.9,DET
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-0.46,2.28,stuckro01,2014-15,IND,15.4,4.0,.103,-0.1,0.9,,NBA,1227985,28,71,26.4,.440,.819,3.5,3.1,0.8,0.1,12.6,IND
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-1.39,0.79,stuckro01,2015-16,IND,12.6,2.0,.077,-2.5,-0.2,,NBA,6500000,29,58,22.0,.413,.829,2.7,2.4,0.7,0.1,8.9,IND
+Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false,"Kentwood in Kent, Washington",-2.63,-0.15,stuckro01,2016-17,IND,9.5,-0.1,-0.006,-6.0,-0.7,,NBA,7000000,30,39,17.8,.373,.748,2.2,2.2,0.4,0.0,7.2,IND

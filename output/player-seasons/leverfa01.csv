@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-leverfa01,1982-83,22,POR,NBA,81,24.9,.431,.730,2.8,5.3,1.9,0.2,7.8,14.8,4.4,.104,1.2,1.7,,"Pueblo in Tucson, Arizona",
-leverfa01,1983-84,23,POR,NBA,81,24.8,.447,.743,2.7,4.6,1.7,0.4,9.7,15.8,4.8,.114,1.5,1.8,,"Pueblo in Tucson, Arizona",
-leverfa01,1984-85,24,Denver Nuggets,NBA,82,31.2,.430,.770,5.0,7.5,2.5,0.4,12.8,16.7,5.2,.098,2.3,2.8,,"Pueblo in Tucson, Arizona",185000
-leverfa01,1985-86,25,Denver Nuggets,NBA,78,33.5,.441,.725,5.4,7.5,2.3,0.2,13.8,15.7,4.5,.082,2.0,2.6,,"Pueblo in Tucson, Arizona",185000
-leverfa01,1986-87,26,DEN,NBA,82,37.2,.469,.782,8.9,8.0,2.5,0.4,18.9,20.8,9.7,.153,5.6,5.9,All-NBA (2nd),"Pueblo in Tucson, Arizona",
-leverfa01,1987-88,27,Denver Nuggets,NBA,82,37.3,.473,.785,8.1,7.8,2.7,0.3,18.9,20.5,10.4,.163,6.1,6.2,,"Pueblo in Tucson, Arizona",457500
-leverfa01,1988-89,28,Denver Nuggets,NBA,71,38.7,.457,.785,9.3,7.9,2.7,0.3,19.8,20.6,9.2,.161,5.7,5.3,,"Pueblo in Tucson, Arizona",575000
-leverfa01,1989-90,29,Denver Nuggets,NBA,79,35.8,.443,.804,9.3,6.5,2.1,0.2,18.3,19.9,8.8,.149,5.6,5.4,,"Pueblo in Tucson, Arizona",1700000
-leverfa01,1990-91,30,Dallas Mavericks,NBA,4,21.5,.391,.786,3.8,3.0,1.5,0.8,7.3,13.5,0.0,.014,-1.6,0.0,,"Pueblo in Tucson, Arizona",1519000
-leverfa01,1991-92,31,Dallas Mavericks,NBA,31,28.5,.387,.750,5.2,3.5,1.5,0.4,11.2,14.9,1.3,.070,1.2,0.7,,"Pueblo in Tucson, Arizona",1619000
-leverfa01,1992-93,32,Dallas Mavericks,NBA,,,,,,,,,,,,,,,,"Pueblo in Tucson, Arizona",1802000
-leverfa01,1993-94,33,Dallas Mavericks,NBA,81,24.0,.408,.765,3.5,2.6,2.0,0.2,6.9,13.2,2.9,.070,0.4,1.2,,"Pueblo in Tucson, Arizona",2203000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+1.31,5.28,leverfa01,1982-83,POR,14.8,4.4,.104,1.2,1.7,,22,NBA,81,24.9,.431,.730,2.8,5.3,1.9,0.2,7.8,POR,
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+1.11,4.75,leverfa01,1983-84,POR,15.8,4.8,.114,1.5,1.8,,23,NBA,81,24.8,.447,.743,2.7,4.6,1.7,0.4,9.7,POR,
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+2.22,8.74,leverfa01,1984-85,DEN,16.7,5.2,.098,2.3,2.8,,24,NBA,82,31.2,.430,.770,5.0,7.5,2.5,0.4,12.8,DEN,185000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+1.40,7.39,leverfa01,1985-86,DEN,15.7,4.5,.082,2.0,2.6,,25,NBA,78,33.5,.441,.725,5.4,7.5,2.3,0.2,13.8,DEN,185000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+3.67,12.36,leverfa01,1986-87,DEN,20.8,9.7,.153,5.6,5.9,All-NBA (2nd),26,NBA,82,37.2,.469,.782,8.9,8.0,2.5,0.4,18.9,DEN,
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+4.18,14.26,leverfa01,1987-88,DEN,20.5,10.4,.163,6.1,6.2,,27,NBA,82,37.3,.473,.785,8.1,7.8,2.7,0.3,18.9,DEN,457500
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+3.77,11.29,leverfa01,1988-89,DEN,20.6,9.2,.161,5.7,5.3,,28,NBA,71,38.7,.457,.785,9.3,7.9,2.7,0.3,19.8,DEN,575000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+3.18,10.77,leverfa01,1989-90,DEN,19.9,8.8,.149,5.6,5.4,,29,NBA,79,35.8,.443,.804,9.3,6.5,2.1,0.2,18.3,DEN,1700000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",+0.05,0.14,leverfa01,1990-91,DAL,13.5,0.0,.014,-1.6,0.0,,30,NBA,4,21.5,.391,.786,3.8,3.0,1.5,0.8,7.3,DAL,1519000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",-0.39,1.13,leverfa01,1991-92,DAL,14.9,1.3,.070,1.2,0.7,,31,NBA,31,28.5,.387,.750,5.2,3.5,1.5,0.4,11.2,DAL,1619000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",,,leverfa01,1992-93,Did Not Play (injury),,,,,,,32,NBA,,,,,,,,,,Did Not Play (injury),1802000
+Fat Lever,/players/l/leverfa01.html,1983,1994,Arizona State University,false,"Pueblo in Tucson, Arizona",-0.46,2.38,leverfa01,1993-94,DAL,13.2,2.9,.070,0.4,1.2,,33,NBA,81,24.0,.408,.765,3.5,2.6,2.0,0.2,6.9,DAL,2203000

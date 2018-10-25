@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-allenja01,2017-18,19,Brooklyn Nets,NBA,72,20.0,.589,.776,5.4,0.7,0.4,1.2,8.2,17.5,4.2,.141,0.2,0.8,,1713720,"St. Stephen's Episcopal School in Austin, Texas"
-allenja01,2018-19,20,BRK,NBA,4,28.0,.618,.545,8.0,0.8,0.3,2.5,12.5,18.1,0.3,.114,-0.4,0.0,,,"St. Stephen's Episcopal School in Austin, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jarrett Allen,/players/a/allenja01.html,2018,2019,University of Texas at Austin,true,"St. Stephen's Episcopal School in Austin, Texas",-1.21,1.07,allenja01,2017-18,BRK,17.5,4.2,.141,0.2,0.8,,NBA,1713720,19,72,20.0,.589,.776,5.4,0.7,0.4,1.2,8.2,BRK
+Jarrett Allen,/players/a/allenja01.html,2018,2019,University of Texas at Austin,true,"St. Stephen's Episcopal School in Austin, Texas",,,allenja01,2018-19,BRK,18.1,0.3,.114,-0.4,0.0,,NBA,,20,4,28.0,.618,.545,8.0,0.8,0.3,2.5,12.5,BRK

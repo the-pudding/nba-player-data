@@ -1,10 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-holidju01,2012-13,23,PHI,NBA,9,15.8,.333,.750,1.6,1.7,0.3,0.7,4.7,7.6,-0.1,-0.042,-6.7,-0.2,,"Campbell Hall in North Hollywood, California",
-holidju01,2013-14,24,Did Not Play,,,,,,,,,,,,,,,,,"Campbell Hall in North Hollywood, California",
-holidju01,2014-15,25,Golden State Warriors,NBA,59,11.1,.387,.822,1.2,0.8,0.7,0.2,4.3,12.1,1.3,.092,-1.0,0.2,,"Campbell Hall in North Hollywood, California",816482
-holidju01,2015-16,26,Chicago Bulls,NBA,53,14.6,.386,.730,1.7,1.1,0.6,0.4,4.5,9.4,0.6,.040,-2.5,-0.1,,"Campbell Hall in North Hollywood, California",947300
-holidju01,2015-16,26,Chicago Bulls,NBA,26,10.1,.329,.500,1.0,0.4,0.5,0.2,2.4,4.7,-0.1,-0.021,-5.1,-0.2,,"Campbell Hall in North Hollywood, California",947300
-holidju01,2015-16,26,Chicago Bulls,NBA,27,18.9,.413,.815,2.3,1.7,0.7,0.6,6.5,11.8,0.8,.072,-1.1,0.1,,"Campbell Hall in North Hollywood, California",947300
-holidju01,2016-17,27,New York Knicks,NBA,82,20.0,.433,.825,2.7,1.2,0.8,0.4,7.7,12.7,2.5,.073,-1.1,0.4,,"Campbell Hall in North Hollywood, California",1015696
-holidju01,2017-18,28,Chicago Bulls,NBA,72,31.5,.371,.823,4.0,2.1,1.1,0.4,12.2,10.8,1.7,.036,-1.3,0.4,,"Campbell Hall in North Hollywood, California",4615385
-holidju01,2018-19,29,CHI,NBA,4,35.0,.474,.875,4.0,1.5,1.0,0.3,13.0,12.9,0.3,.086,0.0,0.1,,"Campbell Hall in North Hollywood, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",-0.22,0.20,holidju01,2012-13,PHI,7.6,-0.1,-0.042,-6.7,-0.2,,23,NBA,9,15.8,.333,.750,1.6,1.7,0.3,0.7,4.7,PHI,
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",,,holidju01,2013-14,Did Not Play,,,,,,,24,,,,,,,,,,,Did Not Play,
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",-2.82,-0.28,holidju01,2014-15,GSW,12.1,1.3,.092,-1.0,0.2,,25,NBA,59,11.1,.387,.822,1.2,0.8,0.7,0.2,4.3,GSW,816482
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",-1.10,0.60,holidju01,2015-16,TOT,9.4,0.6,.040,-2.5,-0.1,,26,NBA,53,14.6,.386,.730,1.7,1.1,0.6,0.4,4.5,"ATL,CHI",947300
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",+0.15,2.70,holidju01,2016-17,NYK,12.7,2.5,.073,-1.1,0.4,,27,NBA,82,20.0,.433,.825,2.7,1.2,0.8,0.4,7.7,NYK,1015696
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",+1.00,5.05,holidju01,2017-18,CHI,10.8,1.7,.036,-1.3,0.4,,28,NBA,72,31.5,.371,.823,4.0,2.1,1.1,0.4,12.2,CHI,4615385
+Justin Holiday,/players/h/holidju01.html,2013,2019,University of Washington,true,"Campbell Hall in North Hollywood, California",,,holidju01,2018-19,CHI,12.9,0.3,.086,0.0,0.1,,29,NBA,4,35.0,.474,.875,4.0,1.5,1.0,0.3,13.0,CHI,

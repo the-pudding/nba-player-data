@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hayesja01,2003-04,22,Washington Wizards,NBA,70,29.2,.400,.786,3.8,1.5,1.0,0.2,9.6,9.4,0.5,.012,-3.7,-0.9,,1748760,"Frederick Douglass in Atlanta, Georgia"
-hayesja01,2004-05,23,Washington Wizards,NBA,54,28.9,.389,.839,4.2,1.7,0.9,0.2,10.2,11.1,1.7,.051,-3.3,-0.5,,1879920,"Frederick Douglass in Atlanta, Georgia"
-hayesja01,2005-06,24,Washington Wizards,NBA,21,24.6,.421,.833,3.6,1.3,0.8,0.0,9.3,12.2,0.7,.065,-2.5,-0.1,,2011080,"Frederick Douglass in Atlanta, Georgia"
-hayesja01,2006-07,25,Washington Wizards,NBA,81,20.1,.410,.845,2.6,1.0,0.6,0.2,7.2,10.7,1.5,.045,-3.4,-0.6,,2564127,"Frederick Douglass in Atlanta, Georgia"
-hayesja01,2007-08,26,Detroit Pistons,NBA,82,15.7,.431,.750,2.2,0.8,0.6,0.1,6.7,13.0,2.9,.108,-0.8,0.4,,1200000,"Frederick Douglass in Atlanta, Georgia"
-hayesja01,2008-09,27,New Jersey Nets,NBA,74,24.8,.445,.692,3.6,0.7,0.7,0.1,8.7,10.8,2.1,.055,-2.8,-0.4,,1910000,"Frederick Douglass in Atlanta, Georgia"
-hayesja01,2009-10,28,New Jersey Nets,NBA,45,23.0,.421,.778,2.4,0.9,0.6,0.2,7.8,9.7,0.8,.038,-2.9,-0.2,,2062800,"Frederick Douglass in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-3.31,-1.69,hayesja01,2003-04,WAS,9.4,0.5,.012,-3.7,-0.9,,NBA,1748760,22,70,29.2,.400,.786,3.8,1.5,1.0,0.2,9.6,WAS
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-3.32,-1.01,hayesja01,2004-05,WAS,11.1,1.7,.051,-3.3,-0.5,,NBA,1879920,23,54,28.9,.389,.839,4.2,1.7,0.9,0.2,10.2,WAS
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-1.99,0.10,hayesja01,2005-06,WAS,12.2,0.7,.065,-2.5,-0.1,,NBA,2011080,24,21,24.6,.421,.833,3.6,1.3,0.8,0.0,9.3,WAS
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-3.65,-1.47,hayesja01,2006-07,WAS,10.7,1.5,.045,-3.4,-0.6,,NBA,2564127,25,81,20.1,.410,.845,2.6,1.0,0.6,0.2,7.2,WAS
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-1.69,0.54,hayesja01,2007-08,DET,13.0,2.9,.108,-0.8,0.4,,NBA,1200000,26,82,15.7,.431,.750,2.2,0.8,0.6,0.1,6.7,DET
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-0.68,1.99,hayesja01,2008-09,NJN,10.8,2.1,.055,-2.8,-0.4,,NBA,1910000,27,74,24.8,.445,.692,3.6,0.7,0.7,0.1,8.7,NJN
+Jarvis Hayes,/players/h/hayesja01.html,2004,2010,"Western Carolina University, University of Georgia",false,"Frederick Douglass in Atlanta, Georgia",-2.03,0.21,hayesja01,2009-10,NJN,9.7,0.8,.038,-2.9,-0.2,,NBA,2062800,28,45,23.0,.421,.778,2.4,0.9,0.6,0.2,7.8,NJN

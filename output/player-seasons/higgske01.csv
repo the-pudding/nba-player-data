@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-higgske01,1978-79,24,CLE,NBA,68,15.4,.455,.766,1.5,2.1,1.0,0.2,5.0,12.4,2.2,.098,-1.0,0.3,,"Owensboro in Owensboro, Kentucky"
-higgske01,1979-80,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Owensboro in Owensboro, Kentucky"
-higgske01,1980-81,26,DEN,NBA,72,23.5,.441,.814,2.0,5.7,1.4,0.1,7.8,11.9,1.5,.043,-2.7,-0.3,,"Owensboro in Owensboro, Kentucky"
-higgske01,1981-82,27,DEN,NBA,76,22.3,.432,.817,1.9,5.2,0.9,0.1,7.5,10.8,1.0,.028,-4.0,-0.8,,"Owensboro in Owensboro, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenny Higgs,/players/h/higgske01.html,1979,1982,Louisiana State University,false,"Owensboro in Owensboro, Kentucky",+0.39,1.90,higgske01,1978-79,CLE,12.4,2.2,.098,-1.0,0.3,,24,NBA,68,15.4,.455,.766,1.5,2.1,1.0,0.2,5.0,CLE
+Kenny Higgs,/players/h/higgske01.html,1979,1982,Louisiana State University,false,"Owensboro in Owensboro, Kentucky",,,higgske01,1979-80,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Kenny Higgs,/players/h/higgske01.html,1979,1982,Louisiana State University,false,"Owensboro in Owensboro, Kentucky",-0.25,2.32,higgske01,1980-81,DEN,11.9,1.5,.043,-2.7,-0.3,,26,NBA,72,23.5,.441,.814,2.0,5.7,1.4,0.1,7.8,DEN
+Kenny Higgs,/players/h/higgske01.html,1979,1982,Louisiana State University,false,"Owensboro in Owensboro, Kentucky",-1.67,0.82,higgske01,1981-82,DEN,10.8,1.0,.028,-4.0,-0.8,,27,NBA,76,22.3,.432,.817,1.9,5.2,0.9,0.1,7.5,DEN

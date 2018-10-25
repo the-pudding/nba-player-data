@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kenonla01,1976-77,24,SAS,NBA,78,37.6,.492,.823,11.3,2.9,2.1,0.8,21.9,19.8,9.5,.155,2.9,3.7,,"Ullman in Birmingham, Alabama"
-kenonla01,1977-78,25,SAS,NBA,81,35.4,.489,.854,9.5,3.3,1.4,0.3,20.6,19.0,7.5,.126,1.8,2.7,,"Ullman in Birmingham, Alabama"
-kenonla01,1978-79,26,SAS,NBA,81,36.4,.504,.845,9.8,4.1,1.9,0.2,22.1,19.8,8.8,.144,3.5,4.1,,"Ullman in Birmingham, Alabama"
-kenonla01,1979-80,27,SAS,NBA,78,35.9,.485,.783,9.9,3.0,1.4,0.2,20.1,17.2,5.4,.093,0.5,1.8,,"Ullman in Birmingham, Alabama"
-kenonla01,1980-81,28,CHI,NBA,77,28.1,.480,.735,5.2,1.6,1.0,0.2,14.1,15.2,4.1,.092,-1.4,0.3,,"Ullman in Birmingham, Alabama"
-kenonla01,1981-82,29,CHI,NBA,60,17.3,.466,.568,3.0,1.1,0.5,0.1,7.2,11.2,0.2,.009,-4.5,-0.6,,"Ullman in Birmingham, Alabama"
-kenonla01,1982-83,30,"CHI,GSW,CLE",NBA,48,16.0,.463,.737,3.1,0.8,0.5,0.2,5.8,12.3,0.9,.055,-2.4,-0.1,,"Ullman in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",+1.58,8.03,kenonla01,1976-77,SAS,19.8,9.5,.155,2.9,3.7,,24,NBA,78,37.6,.492,.823,11.3,2.9,2.1,0.8,21.9,SAS
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",+0.62,6.06,kenonla01,1977-78,SAS,19.0,7.5,.126,1.8,2.7,,25,NBA,81,35.4,.489,.854,9.5,3.3,1.4,0.3,20.6,SAS
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",+1.69,9.49,kenonla01,1978-79,SAS,19.8,8.8,.144,3.5,4.1,,26,NBA,81,36.4,.504,.845,9.8,4.1,1.9,0.2,22.1,SAS
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",-0.24,3.97,kenonla01,1979-80,SAS,17.2,5.4,.093,0.5,1.8,,27,NBA,78,35.9,.485,.783,9.9,3.0,1.4,0.2,20.1,SAS
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",-1.29,1.51,kenonla01,1980-81,CHI,15.2,4.1,.092,-1.4,0.3,,28,NBA,77,28.1,.480,.735,5.2,1.6,1.0,0.2,14.1,CHI
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",-3.31,-0.71,kenonla01,1981-82,CHI,11.2,0.2,.009,-4.5,-0.6,,29,NBA,60,17.3,.466,.568,3.0,1.1,0.5,0.1,7.2,CHI
+Larry Kenon,/players/k/kenonla01.html,1974,1983,University of Memphis,false,"Ullman in Birmingham, Alabama",-2.48,-0.13,kenonla01,1982-83,TOT,12.3,0.9,.055,-2.4,-0.1,,30,NBA,48,16.0,.463,.737,3.1,0.8,0.5,0.2,5.8,"CHI,GSW,CLE"

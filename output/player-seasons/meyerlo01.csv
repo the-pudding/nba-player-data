@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-meyerlo01,1995-96,23,Dallas Mavericks,NBA,72,17.6,.439,.686,4.4,0.8,0.3,0.4,5.0,9.4,1.1,.041,-4.9,-0.9,,556000,"Ruthven-Ayrshire in Ruthven, Iowa"
-meyerlo01,1996-97,24,Phoenix Suns,NBA,54,13.1,.443,.719,2.7,0.4,0.2,0.3,4.9,8.1,-0.3,-0.020,-7.7,-1.0,,639000,"Ruthven-Ayrshire in Ruthven, Iowa"
-meyerlo01,1996-97,24,Phoenix Suns,NBA,19,13.6,.436,.750,2.6,0.4,0.3,0.2,4.1,4.4,-0.4,-0.071,-9.0,-0.5,,639000,"Ruthven-Ayrshire in Ruthven, Iowa"
-meyerlo01,1996-97,24,Phoenix Suns,NBA,35,12.8,.446,.712,2.7,0.3,0.1,0.3,5.4,10.2,0.1,.009,-7.0,-0.6,,639000,"Ruthven-Ayrshire in Ruthven, Iowa"
-meyerlo01,1997-98,25,Phoenix Suns,NBA,,,,,,,,,,,,,,,,722760,"Ruthven-Ayrshire in Ruthven, Iowa"
-meyerlo01,1998-99,26,Denver Nuggets,NBA,14,5.0,.250,.500,1.1,0.1,0.0,0.2,1.1,-2.8,-0.3,-0.190,-15.1,-0.2,,450000,"Ruthven-Ayrshire in Ruthven, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Loren Meyer,/players/m/meyerlo01.html,1996,1999,Iowa State University,false,"Ruthven-Ayrshire in Ruthven, Iowa",-3.22,-0.76,meyerlo01,1995-96,DAL,9.4,1.1,.041,-4.9,-0.9,,NBA,556000,23,72,17.6,.439,.686,4.4,0.8,0.3,0.4,5.0,DAL
+Loren Meyer,/players/m/meyerlo01.html,1996,1999,Iowa State University,false,"Ruthven-Ayrshire in Ruthven, Iowa",-4.08,-0.88,meyerlo01,1996-97,TOT,8.1,-0.3,-0.020,-7.7,-1.0,,NBA,639000,24,54,13.1,.443,.719,2.7,0.4,0.2,0.3,4.9,"DAL,PHO"
+Loren Meyer,/players/m/meyerlo01.html,1996,1999,Iowa State University,false,"Ruthven-Ayrshire in Ruthven, Iowa",,,meyerlo01,1997-98,Did Not Play (injury),,,,,,,NBA,722760,25,,,,,,,,,,Did Not Play (injury)
+Loren Meyer,/players/m/meyerlo01.html,1996,1999,Iowa State University,false,"Ruthven-Ayrshire in Ruthven, Iowa",-0.76,0.07,meyerlo01,1998-99,DEN,-2.8,-0.3,-0.190,-15.1,-0.2,,NBA,450000,26,14,5.0,.250,.500,1.1,0.1,0.0,0.2,1.1,DEN

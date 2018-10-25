@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-huntece01,1991-92,27,CHH,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.017,-7.1,0.0,,"Omaha South in Omaha, Nebraska"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cedric Hunter,/players/h/huntece01.html,1992,1992,University of Kansas,false,"Omaha South in Omaha, Nebraska",-0.28,0.00,huntece01,1991-92,CHH,0.0,0.0,-0.017,-7.1,0.0,,27,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,CHH

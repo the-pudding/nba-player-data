@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-songada01,2003-04,25,Sacramento Kings,NBA,73,13.4,.487,.807,3.1,0.7,0.6,0.2,4.6,14.6,2.6,.129,-1.0,0.3,,366931,"New Hampton School in New Hampton, New Hampshire"
-songada01,2004-05,26,Sacramento Kings,NBA,81,20.6,.527,.847,4.2,1.4,0.6,0.2,7.5,14.9,4.3,.124,-0.5,0.6,,1600000,"New Hampton School in New Hampton, New Hampshire"
-songada01,2005-06,27,Chicago Bulls,NBA,62,21.4,.481,.817,4.0,1.4,0.6,0.3,9.2,13.6,2.5,.090,-1.1,0.3,,2200000,"New Hampton School in New Hampton, New Hampshire"
-songada01,2006-07,28,Washington Wizards,NBA,37,18.9,.524,.852,3.6,1.0,0.5,0.3,7.6,13.6,1.1,.078,-2.7,-0.1,,3650000,"New Hampton School in New Hampton, New Hampshire"
-songada01,2007-08,29,Washington Wizards,NBA,80,19.4,.458,.918,3.4,1.7,0.7,0.2,6.2,11.8,1.7,.053,-2.2,-0.1,,3942000,"New Hampton School in New Hampton, New Hampshire"
-songada01,2008-09,30,Washington Wizards,NBA,77,19.8,.532,.889,2.9,1.2,0.8,0.3,7.4,13.9,2.4,.076,-1.5,0.2,,4235000,"New Hampton School in New Hampton, New Hampshire"
-songada01,2009-10,31,New Orleans Hornets,NBA,75,18.8,.494,.811,3.1,0.9,0.8,0.2,7.2,11.6,1.3,.044,-3.1,-0.4,,4526000,"New Hampton School in New Hampton, New Hampshire"
-songada01,2010-11,32,Philadelphia 76ers,NBA,10,7.1,.467,.500,1.0,0.2,0.0,0.0,1.6,1.2,0.0,-0.019,-8.8,-0.1,,4818000,"New Hampton School in New Hampton, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-1.47,0.56,songada01,2003-04,SAC,14.6,2.6,.129,-1.0,0.3,,NBA,366931,25,73,13.4,.487,.807,3.1,0.7,0.6,0.2,4.6,SAC
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",+0.43,3.17,songada01,2004-05,SAC,14.9,4.3,.124,-0.5,0.6,,NBA,1600000,26,81,20.6,.527,.847,4.2,1.4,0.6,0.2,7.5,SAC
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-0.26,1.81,songada01,2005-06,CHI,13.6,2.5,.090,-1.1,0.3,,NBA,2200000,27,62,21.4,.481,.817,4.0,1.4,0.6,0.3,9.2,CHI
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-2.61,-0.16,songada01,2006-07,WAS,13.6,1.1,.078,-2.7,-0.1,,NBA,3650000,28,37,18.9,.524,.852,3.6,1.0,0.5,0.3,7.6,WAS
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-2.09,0.22,songada01,2007-08,WAS,11.8,1.7,.053,-2.2,-0.1,,NBA,3942000,29,80,19.4,.458,.918,3.4,1.7,0.7,0.2,6.2,WAS
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-0.87,1.46,songada01,2008-09,WAS,13.9,2.4,.076,-1.5,0.2,,NBA,4235000,30,77,19.8,.532,.889,2.9,1.2,0.8,0.3,7.4,WAS
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-1.73,0.54,songada01,2009-10,NOH,11.6,1.3,.044,-3.1,-0.4,,NBA,4526000,31,75,18.8,.494,.811,3.1,0.9,0.8,0.2,7.2,NOH
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false,"New Hampton School in New Hampton, New Hampshire",-0.58,0.08,songada01,2010-11,PHI,1.2,0.0,-0.019,-8.8,-0.1,,NBA,4818000,32,10,7.1,.467,.500,1.0,0.2,0.0,0.0,1.6,PHI

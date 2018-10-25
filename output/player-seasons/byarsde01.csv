@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-byarsde01,2011-12,27,SAS,NBA,2,18.5,.273,1.000,5.5,0.5,1.0,0.0,5.0,14.9,0.1,.147,0.6,0.0,,"Ridgeway in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Derrick Byars,/players/b/byarsde01.html,2012,2012,"University of Virginia, Vanderbilt University",false,"Ridgeway in Memphis, Tennessee",+0.40,0.07,byarsde01,2011-12,SAS,14.9,0.1,.147,0.6,0.0,,27,NBA,2,18.5,.273,1.000,5.5,0.5,1.0,0.0,5.0,SAS

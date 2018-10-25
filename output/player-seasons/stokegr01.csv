@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stokegr01,1985-86,22,Philadelphia 76ers,NBA,31,11.3,.471,.667,1.8,0.5,0.5,0.4,4.1,10.6,0.5,.068,-2.0,0.0,,70000,"Hamilton in Hamilton, Ohio"
-stokegr01,1986-87,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Hamilton in Hamilton, Ohio"
-stokegr01,1987-88,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Hamilton in Hamilton, Ohio"
-stokegr01,1988-89,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Hamilton in Hamilton, Ohio"
-stokegr01,1989-90,26,SAC,NBA,11,3.1,.111,1.000,0.5,0.0,0.0,0.0,0.4,-8.2,-0.2,-0.238,-19.0,-0.1,,,"Hamilton in Hamilton, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Greg Stokes,/players/s/stokegr01.html,1986,1990,University of Iowa,false,"Hamilton in Hamilton, Ohio",-2.05,0.06,stokegr01,1985-86,PHI,10.6,0.5,.068,-2.0,0.0,,NBA,70000,22,31,11.3,.471,.667,1.8,0.5,0.5,0.4,4.1,PHI
+Greg Stokes,/players/s/stokegr01.html,1986,1990,University of Iowa,false,"Hamilton in Hamilton, Ohio",,,stokegr01,1986-87,Did Not Play (other pro league—Italy),,,,,,,,,23,,,,,,,,,,Did Not Play (other pro league—Italy)
+Greg Stokes,/players/s/stokegr01.html,1986,1990,University of Iowa,false,"Hamilton in Hamilton, Ohio",,,stokegr01,1987-88,Did Not Play (other pro league—Italy),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—Italy)
+Greg Stokes,/players/s/stokegr01.html,1986,1990,University of Iowa,false,"Hamilton in Hamilton, Ohio",,,stokegr01,1988-89,Did Not Play (other pro league—Italy),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Italy)
+Greg Stokes,/players/s/stokegr01.html,1986,1990,University of Iowa,false,"Hamilton in Hamilton, Ohio",-0.14,0.05,stokegr01,1989-90,SAC,-8.2,-0.2,-0.238,-19.0,-0.1,,NBA,,26,11,3.1,.111,1.000,0.5,0.0,0.0,0.0,0.4,SAC

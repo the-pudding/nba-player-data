@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-cookeda01,1985-86,22,SAC,NBA,6,6.3,.182,.500,1.7,0.2,0.7,0.0,1.5,6.7,0.0,-0.043,-5.6,0.0,,"Christian Brothers in Sacramento, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Cooke,/players/c/cookeda01.html,1986,1986,Saint Mary's College of California,false,"Christian Brothers in Sacramento, California",+0.35,0.07,cookeda01,1985-86,SAC,6.7,0.0,-0.043,-5.6,0.0,,22,NBA,6,6.3,.182,.500,1.7,0.2,0.7,0.0,1.5,SAC

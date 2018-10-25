@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dragizo01,2014-15,25,Miami Heat,NBA,16,4.7,.367,.600,0.5,0.3,0.1,0.0,1.8,8.2,-0.1,-0.042,-6.5,-0.1,,1962103,
-dragizo01,2014-15,25,Miami Heat,NBA,6,2.2,.250,.667,0.5,0.2,0.0,0.0,1.0,9.1,0.0,-0.077,-7.3,0.0,,1962103,
-dragizo01,2014-15,25,Miami Heat,NBA,10,6.2,.409,.500,0.5,0.4,0.2,0.0,2.2,8.0,0.0,-0.035,-6.3,-0.1,,1962103,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zoran Dragic,/players/d/dragizo01.html,2015,2015,,false,,-0.66,0.08,dragizo01,2014-15,TOT,8.2,-0.1,-0.042,-6.5,-0.1,,NBA,1962103,25,16,4.7,.367,.600,0.5,0.3,0.1,0.0,1.8,"PHO,MIA"

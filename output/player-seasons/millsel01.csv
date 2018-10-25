@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-millsel01,2014-15,27,Utah Jazz,NBA,47,19.7,.340,.674,3.2,1.2,1.2,0.3,5.3,7.9,0.4,.020,-1.6,0.1,,241731,"Grambling in Grambling, Louisiana"
-millsel01,2015-16,28,Utah Jazz,NBA,20,8.7,.282,.722,1.8,1.0,0.4,0.2,1.8,6.5,0.1,.033,-2.8,0.0,,362878,"Grambling in Grambling, Louisiana"
-millsel01,2016-17,29,Phoenix Suns,NBA,2,11.5,.143,.500,3.0,0.5,0.0,0.0,1.5,-3.4,-0.1,-0.233,-13.2,-0.1,,23069,"Grambling in Grambling, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Elijah Millsap,/players/m/millsel01.html,2015,2017,"University of Louisiana at Lafayette, University of Alabama at Birmingham",true,"Grambling in Grambling, Louisiana",+0.48,1.74,millsel01,2014-15,UTA,7.9,0.4,.020,-1.6,0.1,,NBA,241731,27,47,19.7,.340,.674,3.2,1.2,1.2,0.3,5.3,UTA
+Elijah Millsap,/players/m/millsel01.html,2015,2017,"University of Louisiana at Lafayette, University of Alabama at Birmingham",true,"Grambling in Grambling, Louisiana",+0.23,0.29,millsel01,2015-16,UTA,6.5,0.1,.033,-2.8,0.0,,NBA,362878,28,20,8.7,.282,.722,1.8,1.0,0.4,0.2,1.8,UTA
+Elijah Millsap,/players/m/millsel01.html,2015,2017,"University of Louisiana at Lafayette, University of Alabama at Birmingham",true,"Grambling in Grambling, Louisiana",-0.17,0.03,millsel01,2016-17,PHO,-3.4,-0.1,-0.233,-13.2,-0.1,,NBA,23069,29,2,11.5,.143,.500,3.0,0.5,0.0,0.0,1.5,PHO

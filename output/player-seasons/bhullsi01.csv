@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bhullsi01,2014-15,22,Sacramento Kings,NBA,3,1.0,.500,,0.3,0.3,0.0,0.3,0.7,44.3,0.0,.389,26.6,0.0,,29843,"Huntington Prep in Huntington, West Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sim Bhullar,/players/b/bhullsi01.html,2015,2015,New Mexico State University,false,"Huntington Prep in Huntington, West Virginia",-0.31,0.00,bhullsi01,2014-15,SAC,44.3,0.0,.389,26.6,0.0,,NBA,29843,22,3,1.0,.500,,0.3,0.3,0.0,0.3,0.7,SAC

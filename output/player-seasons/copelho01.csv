@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-copelho01,1979-80,24,NYK,NBA,75,15.2,.495,.733,2.1,1.1,0.8,0.3,5.7,11.0,1.2,.052,-2.1,0.0,,"Ewing in Trenton, New Jersey"
-copelho01,1980-81,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"Ewing in Trenton, New Jersey"
-copelho01,1981-82,26,NYK,NBA,18,6.6,.421,.833,0.3,0.5,0.2,0.1,2.1,7.5,0.1,.029,-6.1,-0.1,,"Ewing in Trenton, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Hollis Copeland,/players/c/copelho01.html,1980,1982,Rutgers University,false,"Ewing in Trenton, New Jersey",-2.03,0.18,copelho01,1979-80,NYK,11.0,1.2,.052,-2.1,0.0,,24,NBA,75,15.2,.495,.733,2.1,1.1,0.8,0.3,5.7,NYK
+Hollis Copeland,/players/c/copelho01.html,1980,1982,Rutgers University,false,"Ewing in Trenton, New Jersey",,,copelho01,1980-81,Did Not Play (other pro league—Spain),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—Spain)
+Hollis Copeland,/players/c/copelho01.html,1980,1982,Rutgers University,false,"Ewing in Trenton, New Jersey",-0.23,0.16,copelho01,1981-82,NYK,7.5,0.1,.029,-6.1,-0.1,,26,NBA,18,6.6,.421,.833,0.3,0.5,0.2,0.1,2.1,NYK

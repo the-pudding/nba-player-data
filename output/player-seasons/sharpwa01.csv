@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-sharpwa01,2008-09,22,Detroit Pistons,NBA,8,2.5,.364,.000,0.4,0.0,0.0,0.3,1.0,4.8,-0.1,-0.131,-16.5,-0.1,,442114,"A.H. Parker in Birmingham, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Walter Sharpe,/players/s/sharpwa01.html,2009,2009,"Mississippi State University, University of Alabama at Birmingham",false,"A.H. Parker in Birmingham, Alabama",+0.83,0.04,sharpwa01,2008-09,DET,4.8,-0.1,-0.131,-16.5,-0.1,,NBA,442114,22,8,2.5,.364,.000,0.4,0.0,0.0,0.3,1.0,DET

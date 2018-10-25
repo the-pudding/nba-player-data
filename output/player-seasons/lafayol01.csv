@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lafayol01,2009-10,25,BOS,NBA,1,22.0,.500,,4.0,2.0,0.0,0.0,7.0,12.8,0.0,.098,-2.8,0.0,,"Capitol in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Oliver Lafayette,/players/l/lafayol01.html,2010,2010,University of Houston,false,"Capitol in Baton Rouge, Louisiana",-0.63,0.02,lafayol01,2009-10,BOS,12.8,0.0,.098,-2.8,0.0,,25,NBA,1,22.0,.500,,4.0,2.0,0.0,0.0,7.0,BOS

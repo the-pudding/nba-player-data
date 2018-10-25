@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rayal01,2006-07,22,Boston Celtics,NBA,47,15.1,.386,.764,1.5,0.9,0.4,0.1,6.2,10.0,0.6,.039,-3.5,-0.3,,412718,"St. Raymond in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Allan Ray,/players/r/rayal01.html,2007,2007,Villanova University,false,"St. Raymond in Bronx, New York",-1.17,0.52,rayal01,2006-07,BOS,10.0,0.6,.039,-3.5,-0.3,,NBA,412718,22,47,15.1,.386,.764,1.5,0.9,0.4,0.1,6.2,BOS

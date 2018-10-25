@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-ewingpa02,2010-11,26,NOH,NBA,7,2.7,.000,.750,0.3,0.3,0.0,0.1,0.4,0.6,-0.1,-0.158,-9.3,0.0,,"National Christian Academy in Fort Washington, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Patrick Ewing,/players/e/ewingpa02.html,2011,2011,"Indiana University, Georgetown University",false,"National Christian Academy in Fort Washington, Maryland",,,ewingpa02,2010-11,NOH,0.6,-0.1,-0.158,-9.3,0.0,,26,NBA,7,2.7,.000,.750,0.3,0.3,0.0,0.1,0.4,NOH

@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-rushka01,2002-03,22,Los Angeles Lakers,NBA,76,11.5,.393,.696,1.2,0.9,0.1,0.1,3.0,5.8,-0.6,-0.033,-7.2,-1.1,,1021080,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2003-04,23,Los Angeles Lakers,NBA,72,17.3,.440,.596,1.3,0.8,0.5,0.3,6.4,10.4,1.5,.056,-3.0,-0.3,,1097640,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2004-05,24,Charlotte Bobcats,NBA,48,20.2,.387,.771,1.9,1.4,0.4,0.1,8.4,10.1,0.1,.003,-3.8,-0.4,,1174200,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2004-05,24,Charlotte Bobcats,NBA,14,6.5,.200,1.000,0.7,0.2,0.1,0.1,0.9,1.3,-0.2,-0.090,-8.1,-0.1,,1174200,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2004-05,24,Charlotte Bobcats,NBA,34,25.8,.396,.761,2.3,1.9,0.5,0.2,11.5,11.0,0.2,.013,-3.3,-0.3,,1174200,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2005-06,25,Charlotte Bobcats,NBA,47,23.6,.386,.714,2.2,1.1,0.8,0.3,10.1,9.8,-0.2,-0.010,-4.3,-0.6,,3000000,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2006-07,26,Seattle SuperSonics,NBA,,,,,,,,,,,,,,,,19466,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2007-08,27,Indiana Pacers,NBA,71,21.2,.401,.714,2.4,1.3,0.6,0.3,8.3,10.0,1.0,.033,-3.1,-0.4,,854957,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2008-09,28,Philadelphia 76ers,NBA,25,8.0,.345,1.000,0.6,0.6,0.2,0.0,2.2,6.3,0.0,-0.003,-5.7,-0.2,,926678,"Pembroke Hill in Kansas City, Missouri"
-rushka01,2009-10,29,Los Angeles Clippers,NBA,7,8.3,.364,,0.9,0.6,0.3,0.4,1.3,4.8,0.0,-0.019,-4.5,0.0,,534906,"Pembroke Hill in Kansas City, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-4.95,-1.71,rushka01,2002-03,LAL,5.8,-0.6,-0.033,-7.2,-1.1,,NBA,1021080,22,76,11.5,.393,.696,1.2,0.9,0.1,0.1,3.0,LAL
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-3.13,-1.02,rushka01,2003-04,LAL,10.4,1.5,.056,-3.0,-0.3,,NBA,1097640,23,72,17.3,.440,.596,1.3,0.8,0.5,0.3,6.4,LAL
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-2.35,-0.07,rushka01,2004-05,TOT,10.1,0.1,.003,-3.8,-0.4,,NBA,1174200,24,48,20.2,.387,.771,1.9,1.4,0.4,0.1,8.4,"LAL,CHA"
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-2.86,-0.47,rushka01,2005-06,CHA,9.8,-0.2,-0.010,-4.3,-0.6,,NBA,3000000,25,47,23.6,.386,.714,2.2,1.1,0.8,0.3,10.1,CHA
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",,,rushka01,2006-07,Did Not Play (other pro league—Lithuania),,,,,,,NBA,19466,26,,,,,,,,,,Did Not Play (other pro league—Lithuania)
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-2.35,-0.05,rushka01,2007-08,IND,10.0,1.0,.033,-3.1,-0.4,,NBA,854957,27,71,21.2,.401,.714,2.4,1.3,0.6,0.3,8.3,IND
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-1.87,0.06,rushka01,2008-09,PHI,6.3,0.0,-0.003,-5.7,-0.2,,NBA,926678,28,25,8.0,.345,1.000,0.6,0.6,0.2,0.0,2.2,PHI
+Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false,"Pembroke Hill in Kansas City, Missouri",-0.44,0.07,rushka01,2009-10,LAC,4.8,0.0,-0.019,-4.5,0.0,,NBA,534906,29,7,8.3,.364,,0.9,0.6,0.3,0.4,1.3,LAC

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-olivede01,2001-02,23,Golden State Warriors,NBA,20,7.0,.370,.667,0.4,1.1,0.2,0.0,2.1,6.0,-0.1,-0.049,-9.6,-0.3,,332817,"Mason City in Mason City, Iowa"
-olivede01,2002-03,24,Golden State Warriors,NBA,15,6.2,.241,.875,1.1,1.5,0.5,0.0,1.5,11.2,-0.1,-0.029,-3.1,0.0,,118735,"Mason City in Mason City, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dean Oliver,/players/o/olivede01.html,2002,2003,University of Iowa,false,"Mason City in Mason City, Iowa",-0.91,0.12,olivede01,2001-02,GSW,6.0,-0.1,-0.049,-9.6,-0.3,,NBA,332817,23,20,7.0,.370,.667,0.4,1.1,0.2,0.0,2.1,GSW
+Dean Oliver,/players/o/olivede01.html,2002,2003,University of Iowa,false,"Mason City in Mason City, Iowa",-0.23,0.13,olivede01,2002-03,GSW,11.2,-0.1,-0.029,-3.1,0.0,,NBA,118735,24,15,6.2,.241,.875,1.1,1.5,0.5,0.0,1.5,GSW

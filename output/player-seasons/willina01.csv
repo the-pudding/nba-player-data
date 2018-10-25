@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willina01,1976-77,26,NOJ,NBA,79,22.5,.451,.753,3.9,1.2,1.0,0.2,12.3,14.7,2.8,.077,-2.8,-0.4,,"McClymonds in Oakland, California"
-willina01,1977-78,27,"NOJ,GSW",NBA,73,17.1,.431,.835,2.8,1.0,0.8,0.5,9.9,14.8,1.9,.073,-3.2,-0.4,,"McClymonds in Oakland, California"
-willina01,1978-79,28,GSW,NBA,81,16.0,.501,.872,2.6,0.8,0.7,0.1,8.3,14.7,2.9,.107,-2.0,0.0,,"McClymonds in Oakland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nate Williams,/players/w/willina01.html,1972,1979,Utah State University,false,"McClymonds in Oakland, California",-1.38,0.92,willina01,1976-77,NOJ,14.7,2.8,.077,-2.8,-0.4,,26,NBA,79,22.5,.451,.753,3.9,1.2,1.0,0.2,12.3,NOJ
+Nate Williams,/players/w/willina01.html,1972,1979,Utah State University,false,"McClymonds in Oakland, California",-1.13,0.89,willina01,1977-78,TOT,14.8,1.9,.073,-3.2,-0.4,,27,NBA,73,17.1,.431,.835,2.8,1.0,0.8,0.5,9.9,"NOJ,GSW"
+Nate Williams,/players/w/willina01.html,1972,1979,Utah State University,false,"McClymonds in Oakland, California",-1.15,0.94,willina01,1978-79,GSW,14.7,2.9,.107,-2.0,0.0,,28,NBA,81,16.0,.501,.872,2.6,0.8,0.7,0.1,8.3,GSW

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-gaide01,2005-06,23,Philadelphia 76ers,NBA,2,2.5,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.015,-7.0,0.0,,92396,"Milford Academy in Milford, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Deng Gai,/players/g/gaide01.html,2006,2006,Fairfield University,false,"Milford Academy in Milford, Connecticut",-0.49,0.01,gaide01,2005-06,PHI,0.0,0.0,-0.015,-7.0,0.0,,NBA,92396,23,2,2.5,,,0.0,0.0,0.0,0.0,0.0,PHI

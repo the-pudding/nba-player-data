@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cookqu01,2016-17,23,New Orleans Pelicans,NBA,14,13.4,.500,.400,0.5,1.9,0.3,0.0,5.6,11.8,0.2,.047,-5.9,-0.2,,79922,"Oak Hill Academy in Mouth of Wilson, Virginia"
-cookqu01,2016-17,23,New Orleans Pelicans,NBA,5,15.4,.440,.000,0.6,2.4,0.2,0.0,5.4,6.9,-0.1,-0.046,-8.7,-0.1,,79922,"Oak Hill Academy in Mouth of Wilson, Virginia"
-cookqu01,2016-17,23,New Orleans Pelicans,NBA,9,12.3,.537,.667,0.4,1.6,0.3,0.0,5.8,15.3,0.3,.110,-4.0,-0.1,,79922,"Oak Hill Academy in Mouth of Wilson, Virginia"
-cookqu01,2017-18,24,Atlanta Hawks,NBA,33,22.4,.484,.880,2.5,2.7,0.4,0.0,9.5,12.8,1.6,.101,-2.2,0.0,,100000,"Oak Hill Academy in Mouth of Wilson, Virginia"
-cookqu01,2018-19,25,GSW,NBA,5,10.6,.400,.750,0.6,0.8,0.4,0.0,3.6,6.6,0.0,.021,-3.3,0.0,,,"Oak Hill Academy in Mouth of Wilson, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Quinn Cook,/players/c/cookqu01.html,2017,2019,Duke University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-1.80,0.08,cookqu01,2016-17,TOT,11.8,0.2,.047,-5.9,-0.2,,NBA,79922,23,14,13.4,.500,.400,0.5,1.9,0.3,0.0,5.6,"DAL,NOP"
+Quinn Cook,/players/c/cookqu01.html,2017,2019,Duke University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",-2.79,-0.28,cookqu01,2017-18,GSW,12.8,1.6,.101,-2.2,0.0,,NBA,100000,24,33,22.4,.484,.880,2.5,2.7,0.4,0.0,9.5,GSW
+Quinn Cook,/players/c/cookqu01.html,2017,2019,Duke University,true,"Oak Hill Academy in Mouth of Wilson, Virginia",,,cookqu01,2018-19,GSW,6.6,0.0,.021,-3.3,0.0,,NBA,,25,5,10.6,.400,.750,0.6,0.8,0.4,0.0,3.6,GSW

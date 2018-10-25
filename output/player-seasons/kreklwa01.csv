@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kreklwa01,1980-81,24,BOS,NBA,25,4.0,.234,.700,0.5,0.4,0.1,0.0,1.2,-1.9,-0.3,-0.167,-13.0,-0.3,,"Neenah in Neenah, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wayne Kreklow,/players/k/kreklwa01.html,1981,1981,Drake University,false,"Neenah in Neenah, Wisconsin",-0.50,0.12,kreklwa01,1980-81,BOS,-1.9,-0.3,-0.167,-13.0,-0.3,,24,NBA,25,4.0,.234,.700,0.5,0.4,0.1,0.0,1.2,BOS

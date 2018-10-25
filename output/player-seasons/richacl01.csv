@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-richacl01,1979-80,23,PHI,NBA,52,19.0,.457,.622,2.4,2.1,0.5,0.3,6.7,9.9,1.1,.052,-3.1,-0.3,,"O'Dea in Seattle, Washington",
-richacl01,1980-81,24,PHI,NBA,77,17.1,.489,.778,2.3,2.0,0.5,0.1,7.0,12.2,2.4,.087,-1.5,0.2,,"O'Dea in Seattle, Washington",
-richacl01,1981-82,25,PHI,NBA,77,13.5,.452,.784,1.5,1.4,0.5,0.1,4.6,9.8,1.0,.048,-2.9,-0.2,,"O'Dea in Seattle, Washington",
-richacl01,1982-83,26,PHI,NBA,77,22.8,.463,.640,3.2,2.2,0.9,0.2,7.6,11.4,3.3,.090,0.4,1.0,,"O'Dea in Seattle, Washington",
-richacl01,1983-84,27,PHI,NBA,69,22.8,.467,.767,2.4,2.2,0.7,0.3,7.6,10.0,1.9,.057,-2.1,0.0,,"O'Dea in Seattle, Washington",
-richacl01,1984-85,28,Philadelphia 76ers,NBA,74,20.7,.453,.854,2.1,2.1,0.5,0.2,6.0,9.1,1.8,.058,-2.0,0.0,,"O'Dea in Seattle, Washington",170000
-richacl01,1985-86,29,Indiana Pacers,NBA,82,27.1,.455,.837,3.1,4.5,0.7,0.1,9.7,12.2,3.1,.067,-1.9,0.1,,"O'Dea in Seattle, Washington",205000
-richacl01,1986-87,30,IND,NBA,78,17.9,.467,.797,1.8,3.1,0.6,0.1,6.4,12.8,2.1,.071,-2.3,-0.1,,"O'Dea in Seattle, Washington",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-2.58,-0.28,richacl01,1979-80,PHI,9.9,1.1,.052,-3.1,-0.3,,23,NBA,52,19.0,.457,.622,2.4,2.1,0.5,0.3,6.7,PHI,
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-1.68,0.53,richacl01,1980-81,PHI,12.2,2.4,.087,-1.5,0.2,,24,NBA,77,17.1,.489,.778,2.3,2.0,0.5,0.1,7.0,PHI,
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-2.55,-0.28,richacl01,1981-82,PHI,9.8,1.0,.048,-2.9,-0.2,,25,NBA,77,13.5,.452,.784,1.5,1.4,0.5,0.1,4.6,PHI,
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-1.11,1.59,richacl01,1982-83,PHI,11.4,3.3,.090,0.4,1.0,,26,NBA,77,22.8,.463,.640,3.2,2.2,0.9,0.2,7.6,PHI,
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-2.33,-0.09,richacl01,1983-84,PHI,10.0,1.9,.057,-2.1,0.0,,27,NBA,69,22.8,.467,.767,2.4,2.2,0.7,0.3,7.6,PHI,
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-2.56,-0.27,richacl01,1984-85,PHI,9.1,1.8,.058,-2.0,0.0,,28,NBA,74,20.7,.453,.854,2.1,2.1,0.5,0.2,6.0,PHI,170000
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-1.71,0.79,richacl01,1985-86,IND,12.2,3.1,.067,-1.9,0.1,,29,NBA,82,27.1,.455,.837,3.1,4.5,0.7,0.1,9.7,IND,205000
+Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false,"O'Dea in Seattle, Washington",-1.78,0.48,richacl01,1986-87,IND,12.8,2.1,.071,-2.3,-0.1,,30,NBA,78,17.9,.467,.797,1.8,3.1,0.6,0.1,6.4,IND,

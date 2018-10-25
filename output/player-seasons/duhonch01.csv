@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-duhonch01,2004-05,22,Chicago Bulls,NBA,82,26.5,.352,.731,2.6,4.9,1.0,0.0,5.9,9.8,4.1,.090,-0.5,0.8,,385277,"Salmen in Slidell, Louisiana"
-duhonch01,2005-06,23,Chicago Bulls,NBA,74,29.1,.400,.818,3.0,5.0,0.9,0.0,8.7,12.9,5.2,.116,0.9,1.6,,2800000,"Salmen in Slidell, Louisiana"
-duhonch01,2006-07,24,Chicago Bulls,NBA,78,24.4,.408,.752,2.2,4.0,0.9,0.1,7.2,11.9,4.8,.121,0.0,1.0,,3024000,"Salmen in Slidell, Louisiana"
-duhonch01,2007-08,25,Chicago Bulls,NBA,66,22.6,.387,.813,1.8,4.0,0.7,0.0,5.8,11.1,2.3,.075,-2.9,-0.3,,3248000,"Salmen in Slidell, Louisiana"
-duhonch01,2008-09,26,New York Knicks,NBA,79,36.8,.421,.856,3.1,7.2,0.9,0.1,11.1,12.2,4.2,.069,-1.4,0.4,,5585000,"Salmen in Slidell, Louisiana"
-duhonch01,2009-10,27,New York Knicks,NBA,67,30.9,.373,.716,2.7,5.6,0.9,0.0,7.4,10.7,1.9,.045,-2.9,-0.5,,6031800,"Salmen in Slidell, Louisiana"
-duhonch01,2010-11,28,Orlando Magic,NBA,51,15.2,.380,.560,1.0,2.3,0.3,0.0,2.5,5.6,0.2,.014,-5.1,-0.6,,3500000,"Salmen in Slidell, Louisiana"
-duhonch01,2011-12,29,Orlando Magic,NBA,63,19.5,.419,.810,1.6,2.4,0.6,0.1,3.8,8.4,1.3,.051,-2.3,-0.1,,3500000,"Salmen in Slidell, Louisiana"
-duhonch01,2012-13,30,Los Angeles Lakers,NBA,46,17.8,.382,.462,1.5,2.9,0.4,0.0,2.9,8.0,1.0,.056,-3.5,-0.3,,3500000,"Salmen in Slidell, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",+1.01,5.28,duhonch01,2004-05,CHI,9.8,4.1,.090,-0.5,0.8,,NBA,385277,22,82,26.5,.352,.731,2.6,4.9,1.0,0.0,5.9,CHI
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-0.55,2.64,duhonch01,2005-06,CHI,12.9,5.2,.116,0.9,1.6,,NBA,2800000,23,74,29.1,.400,.818,3.0,5.0,0.9,0.0,8.7,CHI
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-0.30,2.76,duhonch01,2006-07,CHI,11.9,4.8,.121,0.0,1.0,,NBA,3024000,24,78,24.4,.408,.752,2.2,4.0,0.9,0.1,7.2,CHI
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-0.62,1.66,duhonch01,2007-08,CHI,11.1,2.3,.075,-2.9,-0.3,,NBA,3248000,25,66,22.6,.387,.813,1.8,4.0,0.7,0.0,5.8,CHI
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-1.94,0.78,duhonch01,2008-09,NYK,12.2,4.2,.069,-1.4,0.4,,NBA,5585000,26,79,36.8,.421,.856,3.1,7.2,0.9,0.1,11.1,NYK
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-0.58,2.40,duhonch01,2009-10,NYK,10.7,1.9,.045,-2.9,-0.5,,NBA,6031800,27,67,30.9,.373,.716,2.7,5.6,0.9,0.0,7.4,NYK
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-2.72,-0.28,duhonch01,2010-11,ORL,5.6,0.2,.014,-5.1,-0.6,,NBA,3500000,28,51,15.2,.380,.560,1.0,2.3,0.3,0.0,2.5,ORL
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-2.28,-0.12,duhonch01,2011-12,ORL,8.4,1.3,.051,-2.3,-0.1,,NBA,3500000,29,63,19.5,.419,.810,1.6,2.4,0.6,0.1,3.8,ORL
+Chris Duhon,/players/d/duhonch01.html,2005,2013,Duke University,false,"Salmen in Slidell, Louisiana",-2.82,-0.29,duhonch01,2012-13,LAL,8.0,1.0,.056,-3.5,-0.3,,NBA,3500000,30,46,17.8,.382,.462,1.5,2.9,0.4,0.0,2.9,LAL

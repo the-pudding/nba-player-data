@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-copelch01,2012-13,28,New York Knicks,NBA,56,15.4,.479,.759,2.1,0.5,0.3,0.2,8.7,16.8,2.1,.117,-2.2,-0.1,,473604,"Hermitage in Henrico, Virginia"
-copelch01,2013-14,29,Indiana Pacers,NBA,41,6.5,.470,.714,0.8,0.4,0.1,0.2,3.7,17.6,1.0,.186,1.4,0.2,,3000000,"Hermitage in Henrico, Virginia"
-copelch01,2014-15,30,Indiana Pacers,NBA,50,16.6,.361,.733,2.2,1.0,0.2,0.2,6.2,7.4,-0.1,-0.008,-4.3,-0.5,,3135000,"Hermitage in Henrico, Virginia"
-copelch01,2015-16,31,Orlando Magic,NBA,24,6.5,.333,.857,0.4,0.5,0.1,0.0,2.1,5.4,-0.1,-0.017,-7.7,-0.2,,1100000,"Hermitage in Henrico, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Copeland,/players/c/copelch01.html,2013,2016,University of Colorado,false,"Hermitage in Henrico, Virginia",-0.58,1.10,copelch01,2012-13,NYK,16.8,2.1,.117,-2.2,-0.1,,NBA,473604,28,56,15.4,.479,.759,2.1,0.5,0.3,0.2,8.7,NYK
+Chris Copeland,/players/c/copelch01.html,2013,2016,University of Colorado,false,"Hermitage in Henrico, Virginia",-0.60,0.40,copelch01,2013-14,IND,17.6,1.0,.186,1.4,0.2,,NBA,3000000,29,41,6.5,.470,.714,0.8,0.4,0.1,0.2,3.7,IND
+Chris Copeland,/players/c/copelch01.html,2013,2016,University of Colorado,false,"Hermitage in Henrico, Virginia",-2.15,0.04,copelch01,2014-15,IND,7.4,-0.1,-0.008,-4.3,-0.5,,NBA,3135000,30,50,16.6,.361,.733,2.2,1.0,0.2,0.2,6.2,IND
+Chris Copeland,/players/c/copelch01.html,2013,2016,University of Colorado,false,"Hermitage in Henrico, Virginia",-2.55,-0.03,copelch01,2015-16,MIL,5.4,-0.1,-0.017,-7.7,-0.2,,NBA,1100000,31,24,6.5,.333,.857,0.4,0.5,0.1,0.0,2.1,MIL

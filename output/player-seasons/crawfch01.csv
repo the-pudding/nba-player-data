@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-crawfch01,1997-98,22,Atlanta Hawks,NBA,40,6.4,.418,.838,1.0,0.2,0.3,0.2,3.8,20.4,0.9,.170,-2.9,-0.1,,242000,"Comstock in Kalamazoo, Michigan"
-crawfch01,1998-99,23,Atlanta Hawks,NBA,42,18.7,.431,.814,2.1,0.6,0.2,0.3,6.9,10.1,1.3,.081,-2.8,-0.2,,350000,"Comstock in Kalamazoo, Michigan"
-crawfch01,1999-00,24,Atlanta Hawks,NBA,55,12.1,.397,.778,1.8,0.6,0.3,0.3,4.6,11.9,0.6,.043,-3.4,-0.2,,2000000,"Comstock in Kalamazoo, Michigan"
-crawfch01,2000-01,25,Atlanta Hawks,NBA,47,19.2,.452,.819,2.3,0.8,0.4,0.3,6.8,9.5,0.6,.031,-4.0,-0.5,,2200000,"Comstock in Kalamazoo, Michigan"
-crawfch01,2001-02,26,Atlanta Hawks,NBA,7,18.7,.467,.733,3.6,0.7,0.3,0.7,7.6,11.5,0.1,.035,-5.0,-0.1,,2500000,"Comstock in Kalamazoo, Michigan"
-crawfch01,2002-03,27,Atlanta Hawks,NBA,5,7.6,.615,.875,1.4,0.2,0.4,0.6,4.8,28.8,0.2,.316,4.8,0.1,,2750000,"Comstock in Kalamazoo, Michigan"
-crawfch01,2003-04,28,Atlanta Hawks,NBA,56,21.6,.448,.866,3.1,0.8,0.7,0.4,10.2,15.8,2.7,.107,-2.0,0.0,,3000000,"Comstock in Kalamazoo, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-0.15,0.37,crawfch01,1997-98,ATL,20.4,0.9,.170,-2.9,-0.1,,NBA,242000,22,40,6.4,.418,.838,1.0,0.2,0.3,0.2,3.8,ATL
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-1.62,0.32,crawfch01,1998-99,ATL,10.1,1.3,.081,-2.8,-0.2,,NBA,350000,23,42,18.7,.431,.814,2.1,0.6,0.2,0.3,6.9,ATL
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-2.53,-0.14,crawfch01,1999-00,ATL,11.9,0.6,.043,-3.4,-0.2,,NBA,2000000,24,55,12.1,.397,.778,1.8,0.6,0.3,0.3,4.6,ATL
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-2.68,-0.33,crawfch01,2000-01,ATL,9.5,0.6,.031,-4.0,-0.5,,NBA,2200000,25,47,19.2,.452,.819,2.3,0.8,0.4,0.3,6.8,ATL
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-0.47,0.16,crawfch01,2001-02,ATL,11.5,0.1,.035,-5.0,-0.1,,NBA,2500000,26,7,18.7,.467,.733,3.6,0.7,0.3,0.7,7.6,ATL
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-0.25,0.05,crawfch01,2002-03,ATL,28.8,0.2,.316,4.8,0.1,,NBA,2750000,27,5,7.6,.615,.875,1.4,0.2,0.4,0.6,4.8,ATL
+Chris Crawford,/players/c/crawfch01.html,1998,2004,Marquette University,false,"Comstock in Kalamazoo, Michigan",-1.27,0.80,crawfch01,2003-04,ATL,15.8,2.7,.107,-2.0,0.0,,NBA,3000000,28,56,21.6,.448,.866,3.1,0.8,0.7,0.4,10.2,ATL

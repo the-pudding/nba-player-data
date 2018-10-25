@@ -1,15 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harriot01,1996-97,23,Houston Rockets,NBA,57,15.1,.549,.605,3.5,0.3,0.2,0.4,4.8,10.8,1.4,.079,-4.0,-0.4,,247500,"Murrah in Jackson, Mississippi"
-harriot01,1997-98,24,Houston Rockets,NBA,58,15.6,.485,.754,3.6,0.4,0.2,0.5,6.0,13.7,1.7,.092,-4.4,-0.5,,326700,"Murrah in Jackson, Mississippi"
-harriot01,1998-99,25,HOU,NBA,41,22.0,.513,.721,6.0,0.4,0.1,0.6,9.8,16.1,2.2,.115,-5.2,-0.7,,,"Murrah in Jackson, Mississippi"
-harriot01,1999-00,26,Vancouver Grizzlies,NBA,82,32.6,.506,.792,6.9,1.2,0.4,0.7,13.1,13.3,3.0,.054,-2.8,-0.5,,2025000,"Murrah in Jackson, Mississippi"
-harriot01,2000-01,27,Vancouver Grizzlies,NBA,74,24.5,.487,.763,5.2,0.8,0.5,0.6,9.0,12.0,2.5,.067,-2.7,-0.3,,2250000,"Murrah in Jackson, Mississippi"
-harriot01,2000-01,27,Vancouver Grizzlies,NBA,44,28.8,.466,.779,6.6,0.8,0.4,0.6,10.9,11.7,0.9,.035,-4.1,-0.7,,2250000,"Murrah in Jackson, Mississippi"
-harriot01,2000-01,27,Vancouver Grizzlies,NBA,30,18.3,.554,.729,3.3,0.7,0.5,0.6,6.2,12.9,1.6,.140,0.5,0.4,,2250000,"Murrah in Jackson, Mississippi"
-harriot01,2001-02,28,New York Knicks,NBA,77,20.3,.527,.709,4.5,0.5,0.4,0.5,7.7,13.0,3.0,.092,-2.6,-0.3,,2475000,"Murrah in Jackson, Mississippi"
-harriot01,2002-03,29,New York Knicks,NBA,74,25.0,.508,.820,6.4,0.8,0.2,0.3,7.7,12.3,3.8,.098,-2.0,0.0,,2700000,"Murrah in Jackson, Mississippi"
-harriot01,2003-04,30,New York Knicks,NBA,56,15.6,.495,.744,3.2,0.5,0.2,0.3,4.6,9.0,0.8,.046,-3.9,-0.4,,2925000,"Murrah in Jackson, Mississippi"
-harriot01,2004-05,31,Chicago Bulls,NBA,70,18.2,.512,.718,4.2,0.8,0.3,0.3,8.0,14.5,3.6,.135,-0.8,0.4,,3150000,"Murrah in Jackson, Mississippi"
-harriot01,2005-06,32,Chicago Bulls,NBA,72,11.4,.495,.626,2.1,0.5,0.1,0.2,4.8,11.1,1.1,.063,-4.4,-0.5,,3500000,"Murrah in Jackson, Mississippi"
-harriot01,2006-07,33,Charlotte Bobcats,NBA,26,8.5,.446,.773,1.5,0.2,0.0,0.0,2.6,5.0,0.0,.003,-8.1,-0.3,,2200000,"Murrah in Jackson, Mississippi"
-harriot01,2007-08,34,Charlotte Bobcats,NBA,22,7.5,.429,.625,1.9,0.2,0.0,0.2,2.1,5.8,0.0,-0.010,-9.0,-0.3,,2376000,"Murrah in Jackson, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-2.42,-0.10,harriot01,1996-97,HOU,10.8,1.4,.079,-4.0,-0.4,,NBA,247500,23,57,15.1,.549,.605,3.5,0.3,0.2,0.4,4.8,HOU
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-1.72,0.36,harriot01,1997-98,HOU,13.7,1.7,.092,-4.4,-0.5,,NBA,326700,24,58,15.6,.485,.754,3.6,0.4,0.2,0.5,6.0,HOU
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-1.10,0.69,harriot01,1998-99,HOU,16.1,2.2,.115,-5.2,-0.7,,NBA,,25,41,22.0,.513,.721,6.0,0.4,0.1,0.6,9.8,HOU
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-2.72,-0.83,harriot01,1999-00,VAN,13.3,3.0,.054,-2.8,-0.5,,NBA,2025000,26,82,32.6,.506,.792,6.9,1.2,0.4,0.7,13.1,VAN
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-1.37,1.02,harriot01,2000-01,TOT,12.0,2.5,.067,-2.7,-0.3,,NBA,2250000,27,74,24.5,.487,.763,5.2,0.8,0.5,0.6,9.0,"VAN,NYK"
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",+0.42,2.88,harriot01,2001-02,NYK,13.0,3.0,.092,-2.6,-0.3,,NBA,2475000,28,77,20.3,.527,.709,4.5,0.5,0.4,0.5,7.7,NYK
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-0.76,1.86,harriot01,2002-03,NYK,12.3,3.8,.098,-2.0,0.0,,NBA,2700000,29,74,25.0,.508,.820,6.4,0.8,0.2,0.3,7.7,NYK
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-2.62,-0.30,harriot01,2003-04,NYK,9.0,0.8,.046,-3.9,-0.4,,NBA,2925000,30,56,15.6,.495,.744,3.2,0.5,0.2,0.3,4.6,NYK
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",+0.42,2.55,harriot01,2004-05,CHI,14.5,3.6,.135,-0.8,0.4,,NBA,3150000,31,70,18.2,.512,.718,4.2,0.8,0.3,0.3,8.0,CHI
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-1.09,0.65,harriot01,2005-06,CHI,11.1,1.1,.063,-4.4,-0.5,,NBA,3500000,32,72,11.4,.495,.626,2.1,0.5,0.1,0.2,4.8,CHI
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-2.18,-0.01,harriot01,2006-07,CHA,5.0,0.0,.003,-8.1,-0.3,,NBA,2200000,33,26,8.5,.446,.773,1.5,0.2,0.0,0.0,2.6,CHA
+Othella Harrington,/players/h/harriot01.html,1997,2008,Georgetown University,false,"Murrah in Jackson, Mississippi",-0.61,0.19,harriot01,2007-08,CHA,5.8,0.0,-0.010,-9.0,-0.3,,NBA,2376000,34,22,7.5,.429,.625,1.9,0.2,0.0,0.2,2.1,CHA

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-coxwe01,1977-78,23,GSW,NBA,43,10.5,.399,.580,3.3,0.3,0.5,0.2,4.6,11.7,0.6,.062,-5.9,-0.5,,"Male in Louisville, Kentucky"
-coxwe01,1978-79,24,GSW,NBA,31,11.6,.431,.435,2.0,0.4,0.4,0.2,4.7,5.3,-0.5,-0.061,-8.2,-0.6,,"Male in Louisville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wesley Cox,/players/c/coxwe01.html,1978,1979,University of Louisville,false,"Male in Louisville, Kentucky",-0.68,0.47,coxwe01,1977-78,GSW,11.7,0.6,.062,-5.9,-0.5,,23,NBA,43,10.5,.399,.580,3.3,0.3,0.5,0.2,4.6,GSW
+Wesley Cox,/players/c/coxwe01.html,1978,1979,University of Louisville,false,"Male in Louisville, Kentucky",-3.08,-0.24,coxwe01,1978-79,GSW,5.3,-0.5,-0.061,-8.2,-0.6,,24,NBA,31,11.6,.431,.435,2.0,0.4,0.4,0.2,4.7,GSW

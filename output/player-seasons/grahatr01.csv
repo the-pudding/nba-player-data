@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grahatr01,2016-17,23,Charlotte Hornets,NBA,27,7.0,.475,.667,0.8,0.2,0.2,0.0,2.1,10.6,0.4,.108,-2.8,0.0,,543471,"St. Mary's Ryken in Leonardtown, Maryland"
-grahatr01,2017-18,24,Charlotte Hornets,NBA,63,16.7,.434,.695,1.9,0.9,0.5,0.0,4.3,9.0,1.8,.080,-0.9,0.3,,1312611,"St. Mary's Ryken in Leonardtown, Maryland"
-grahatr01,2018-19,25,BRK,NBA,2,13.5,.000,,2.0,0.5,0.5,0.0,0.0,-5.1,-0.1,-0.140,-7.0,0.0,,,"St. Mary's Ryken in Leonardtown, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Treveon Graham,/players/g/grahatr01.html,2017,2019,Virginia Commonwealth University,true,"St. Mary's Ryken in Leonardtown, Maryland",-1.98,0.03,grahatr01,2016-17,CHO,10.6,0.4,.108,-2.8,0.0,,NBA,543471,23,27,7.0,.475,.667,0.8,0.2,0.2,0.0,2.1,CHO
+Treveon Graham,/players/g/grahatr01.html,2017,2019,Virginia Commonwealth University,true,"St. Mary's Ryken in Leonardtown, Maryland",-2.57,-0.20,grahatr01,2017-18,CHO,9.0,1.8,.080,-0.9,0.3,,NBA,1312611,24,63,16.7,.434,.695,1.9,0.9,0.5,0.0,4.3,CHO
+Treveon Graham,/players/g/grahatr01.html,2017,2019,Virginia Commonwealth University,true,"St. Mary's Ryken in Leonardtown, Maryland",,,grahatr01,2018-19,BRK,-5.1,-0.1,-0.140,-7.0,0.0,,NBA,,25,2,13.5,.000,,2.0,0.5,0.5,0.0,0.0,BRK

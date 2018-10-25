@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-garrede01,1996-97,30,Minnesota Timberwolves,NBA,68,24.5,.573,.696,7.3,0.6,0.6,1.4,8.0,17.7,6.2,.179,0.7,1.1,,247500,"San Clemente in San Clemente, California"
-garrede01,1997-98,31,Denver Nuggets,NBA,82,32.1,.428,.648,7.9,1.1,0.7,1.6,7.3,12.1,2.2,.041,-1.9,0.1,,1800000,"San Clemente in San Clemente, California"
-garrede01,1998-99,32,Minnesota Timberwolves,NBA,49,21.5,.502,.745,5.2,0.6,0.6,0.9,5.5,13.6,2.9,.131,-0.2,0.5,,2160000,"San Clemente in San Clemente, California"
-garrede01,1999-00,33,Minnesota Timberwolves,NBA,56,10.8,.444,.692,2.5,0.3,0.1,0.7,2.0,9.0,1.0,.077,-2.6,-0.1,,2520000,"San Clemente in San Clemente, California"
-garrede01,2000-01,34,Minnesota Timberwolves,NBA,70,11.9,.481,.692,3.1,0.3,0.4,0.7,2.5,12.5,1.9,.109,-1.3,0.2,,2880000,"San Clemente in San Clemente, California"
-garrede01,2001-02,35,Minnesota Timberwolves,NBA,34,5.4,.327,.000,1.7,0.1,0.2,0.3,1.1,6.3,-0.1,-0.024,-6.7,-0.2,,3240000,"San Clemente in San Clemente, California"
-garrede01,2001-02,35,Minnesota Timberwolves,NBA,29,5.2,.350,.000,1.6,0.1,0.2,0.3,1.0,7.1,0.0,.006,-5.6,-0.1,,3240000,"San Clemente in San Clemente, California"
-garrede01,2001-02,35,Minnesota Timberwolves,NBA,5,6.2,.267,,2.0,0.2,0.4,0.2,1.6,2.0,-0.1,-0.171,-12.0,-0.1,,3240000,"San Clemente in San Clemente, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dean Garrett,/players/g/garrede01.html,1997,2002,Indiana University,false,"San Clemente in San Clemente, California",+1.10,4.09,garrede01,1996-97,MIN,17.7,6.2,.179,0.7,1.1,,NBA,247500,30,68,24.5,.573,.696,7.3,0.6,0.6,1.4,8.0,MIN
+Dean Garrett,/players/g/garrede01.html,1997,2002,Indiana University,false,"San Clemente in San Clemente, California",-2.46,-0.38,garrede01,1997-98,DEN,12.1,2.2,.041,-1.9,0.1,,NBA,1800000,31,82,32.1,.428,.648,7.9,1.1,0.7,1.6,7.3,DEN
+Dean Garrett,/players/g/garrede01.html,1997,2002,Indiana University,false,"San Clemente in San Clemente, California",+0.21,1.94,garrede01,1998-99,MIN,13.6,2.9,.131,-0.2,0.5,,NBA,2160000,32,49,21.5,.502,.745,5.2,0.6,0.6,0.9,5.5,MIN
+Dean Garrett,/players/g/garrede01.html,1997,2002,Indiana University,false,"San Clemente in San Clemente, California",-1.22,0.42,garrede01,1999-00,MIN,9.0,1.0,.077,-2.6,-0.1,,NBA,2520000,33,56,10.8,.444,.692,2.5,0.3,0.1,0.7,2.0,MIN
+Dean Garrett,/players/g/garrede01.html,1997,2002,Indiana University,false,"San Clemente in San Clemente, California",-1.55,0.37,garrede01,2000-01,MIN,12.5,1.9,.109,-1.3,0.2,,NBA,2880000,34,70,11.9,.481,.692,3.1,0.3,0.4,0.7,2.5,MIN
+Dean Garrett,/players/g/garrede01.html,1997,2002,Indiana University,false,"San Clemente in San Clemente, California",-1.21,0.13,garrede01,2001-02,TOT,6.3,-0.1,-0.024,-6.7,-0.2,,NBA,3240000,35,34,5.4,.327,.000,1.7,0.1,0.2,0.3,1.1,"MIN,GSW"

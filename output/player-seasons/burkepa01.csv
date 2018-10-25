@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-burkepa01,2002-03,29,Orlando Magic,NBA,62,12.6,.382,.690,2.4,0.4,0.3,0.4,4.3,8.3,-0.3,-0.021,-7.7,-1.1,,349458,"Mariner in Cape Coral, Florida"
-burkepa01,2003-04,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Mariner in Cape Coral, Florida"
-burkepa01,2004-05,31,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Mariner in Cape Coral, Florida"
-burkepa01,2005-06,32,Phoenix Suns,NBA,42,8.2,.496,.619,1.7,0.4,0.1,0.3,3.4,9.9,0.1,.009,-5.9,-0.3,,750000,"Mariner in Cape Coral, Florida"
-burkepa01,2006-07,33,Phoenix Suns,NBA,23,7.1,.354,.615,2.0,0.2,0.1,0.1,2.6,9.3,0.1,.015,-6.9,-0.2,,810000,"Mariner in Cape Coral, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pat Burke,/players/b/burkepa01.html,2003,2007,Auburn University,false,"Mariner in Cape Coral, Florida",-4.70,-1.46,burkepa01,2002-03,ORL,8.3,-0.3,-0.021,-7.7,-1.1,,NBA,349458,29,62,12.6,.382,.690,2.4,0.4,0.3,0.4,4.3,ORL
+Pat Burke,/players/b/burkepa01.html,2003,2007,Auburn University,false,"Mariner in Cape Coral, Florida",,,burkepa01,2003-04,Did Not Play (other pro league—Spain),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Spain)
+Pat Burke,/players/b/burkepa01.html,2003,2007,Auburn University,false,"Mariner in Cape Coral, Florida",,,burkepa01,2004-05,Did Not Play (other pro league—Spain),,,,,,,,,31,,,,,,,,,,Did Not Play (other pro league—Spain)
+Pat Burke,/players/b/burkepa01.html,2003,2007,Auburn University,false,"Mariner in Cape Coral, Florida",-4.65,-0.53,burkepa01,2005-06,PHO,9.9,0.1,.009,-5.9,-0.3,,NBA,750000,32,42,8.2,.496,.619,1.7,0.4,0.1,0.3,3.4,PHO
+Pat Burke,/players/b/burkepa01.html,2003,2007,Auburn University,false,"Mariner in Cape Coral, Florida",-2.46,-0.02,burkepa01,2006-07,PHO,9.3,0.1,.015,-6.9,-0.2,,NBA,810000,33,23,7.1,.354,.615,2.0,0.2,0.1,0.1,2.6,PHO

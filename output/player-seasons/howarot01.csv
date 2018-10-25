@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-howarot01,1978-79,22,"MIL,DET",NBA,14,8.1,.429,.478,2.9,0.4,0.1,0.1,4.2,13.7,0.2,.064,-5.5,-0.1,,"Oak Ridge in Oak Ridge, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Otis Howard,/players/h/howarot01.html,1979,1979,Austin Peay State University,false,"Oak Ridge in Oak Ridge, Tennessee",+0.05,0.18,howarot01,1978-79,TOT,13.7,0.2,.064,-5.5,-0.1,,22,NBA,14,8.1,.429,.478,2.9,0.4,0.1,0.1,4.2,"MIL,DET"

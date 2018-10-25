@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-robinwa01,1980-81,22,DET,NBA,81,19.7,.460,.729,3.6,1.4,0.6,0.3,7.9,11.5,1.7,.052,-2.8,-0.3,,"Country Day in Greensboro, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Wayne Robinson,/players/r/robinwa01.html,1981,1981,Virginia Polytechnic Institute and State University,false,"Country Day in Greensboro, North Carolina",-2.52,-0.40,robinwa01,1980-81,DET,11.5,1.7,.052,-2.8,-0.3,,22,NBA,81,19.7,.460,.729,3.6,1.4,0.6,0.3,7.9,DET

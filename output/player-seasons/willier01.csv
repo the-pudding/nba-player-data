@@ -1,19 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willier01,1995-96,23,Boston Celtics,NBA,64,23.0,.441,.671,3.4,1.1,0.9,0.2,10.7,13.3,1.6,.052,-3.6,-0.6,,876000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,1996-97,24,Boston Celtics,NBA,72,33.8,.456,.752,4.6,1.8,1.0,0.2,15.0,13.3,2.9,.056,-3.2,-0.7,,1008000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,1997-98,25,Denver Nuggets,NBA,4,36.3,.393,.689,5.3,3.0,1.0,0.0,19.8,17.0,0.1,.048,-4.6,-0.1,,1139520,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,1998-99,26,Denver Nuggets,NBA,38,20.5,.365,.799,2.1,1.0,0.7,0.2,7.3,10.7,0.2,.015,-4.4,-0.5,,2780000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,1999-00,27,Boston Celtics,NBA,68,20.3,.427,.793,2.3,1.4,0.6,0.2,7.2,11.8,2.5,.088,-1.9,0.0,,3336000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2000-01,28,Boston Celtics,NBA,81,21.5,.362,.714,2.6,1.4,0.8,0.2,6.6,10.0,2.2,.060,-2.9,-0.4,,3890000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2001-02,29,Boston Celtics,NBA,74,23.6,.374,.731,3.0,1.5,1.0,0.1,6.4,8.8,2.2,.061,-2.4,-0.2,,4448000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2002-03,30,Boston Celtics,NBA,82,28.7,.442,.750,4.7,1.7,1.0,0.2,9.1,13.1,6.0,.123,-0.3,1.0,,5004000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2003-04,31,Cleveland Cavaliers,NBA,71,26.6,.386,.760,4.0,1.7,1.0,0.1,10.0,12.5,3.1,.079,-2.1,-0.1,,5540000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2003-04,31,Cleveland Cavaliers,NBA,21,24.4,.435,.716,4.5,1.2,1.0,0.0,11.6,15.7,1.2,.116,-2.4,0.0,,5540000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2003-04,31,Cleveland Cavaliers,NBA,50,27.5,.366,.787,3.8,1.9,1.0,0.2,9.4,11.2,1.9,.065,-2.0,0.0,,5540000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2004-05,32,Toronto Raptors,NBA,55,24.0,.430,.696,3.1,1.7,0.7,0.1,7.7,10.7,2.1,.075,-1.9,0.0,,3580000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2004-05,32,Toronto Raptors,NBA,21,35.2,.470,.685,4.5,2.0,0.8,0.1,12.6,11.9,1.7,.107,-1.1,0.2,,3580000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2004-05,32,Toronto Raptors,NBA,34,17.1,.379,.717,2.3,1.5,0.6,0.1,4.7,9.1,0.4,.034,-2.8,-0.1,,3580000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2005-06,33,Toronto Raptors,NBA,28,12.6,.387,.737,1.8,0.5,0.3,0.1,3.3,6.8,0.1,.011,-5.3,-0.3,,3938000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2006-07,34,Charlotte Bobcats,NBA,21,5.8,.404,.571,0.8,0.3,0.1,0.0,2.6,11.4,0.1,.057,-4.4,-0.1,,4296000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2006-07,34,Charlotte Bobcats,NBA,16,5.5,.441,.571,0.9,0.4,0.1,0.0,2.6,14.8,0.2,.120,-1.8,0.0,,4296000,"Malcolm X Shabazz in Newark, New Jersey"
-willier01,2006-07,34,Charlotte Bobcats,NBA,5,6.6,.308,.571,0.6,0.2,0.2,0.0,2.4,2.4,-0.1,-0.111,-11.2,-0.1,,4296000,"Malcolm X Shabazz in Newark, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-2.23,0.07,willier01,1995-96,BOS,13.3,1.6,.052,-3.6,-0.6,,NBA,876000,23,64,23.0,.441,.671,3.4,1.1,0.9,0.2,10.7,BOS
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-2.76,-0.72,willier01,1996-97,BOS,13.3,2.9,.056,-3.2,-0.7,,NBA,1008000,24,72,33.8,.456,.752,4.6,1.8,1.0,0.2,15.0,BOS
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-0.52,0.17,willier01,1997-98,DEN,17.0,0.1,.048,-4.6,-0.1,,NBA,1139520,25,4,36.3,.393,.689,5.3,3.0,1.0,0.0,19.8,DEN
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-3.47,-0.62,willier01,1998-99,DEN,10.7,0.2,.015,-4.4,-0.5,,NBA,2780000,26,38,20.5,.365,.799,2.1,1.0,0.7,0.2,7.3,DEN
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-1.77,0.44,willier01,1999-00,BOS,11.8,2.5,.088,-1.9,0.0,,NBA,3336000,27,68,20.3,.427,.793,2.3,1.4,0.6,0.2,7.2,BOS
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-0.99,1.44,willier01,2000-01,BOS,10.0,2.2,.060,-2.9,-0.4,,NBA,3890000,28,81,21.5,.362,.714,2.6,1.4,0.8,0.2,6.6,BOS
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-0.67,2.36,willier01,2001-02,BOS,8.8,2.2,.061,-2.4,-0.2,,NBA,4448000,29,74,23.6,.374,.731,3.0,1.5,1.0,0.1,6.4,BOS
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-0.40,3.34,willier01,2002-03,BOS,13.1,6.0,.123,-0.3,1.0,,NBA,5004000,30,82,28.7,.442,.750,4.7,1.7,1.0,0.2,9.1,BOS
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",+0.95,4.17,willier01,2003-04,TOT,12.5,3.1,.079,-2.1,-0.1,,NBA,5540000,31,71,26.6,.386,.760,4.0,1.7,1.0,0.1,10.0,"BOS,CLE"
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-1.63,0.53,willier01,2004-05,TOT,10.7,2.1,.075,-1.9,0.0,,NBA,3580000,32,55,24.0,.430,.696,3.1,1.7,0.7,0.1,7.7,"NJN,TOR"
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-2.48,-0.04,willier01,2005-06,TOR,6.8,0.1,.011,-5.3,-0.3,,NBA,3938000,33,28,12.6,.387,.737,1.8,0.5,0.3,0.1,3.3,TOR
+Eric Williams,/players/w/willier01.html,1996,2007,Providence College,false,"Malcolm X Shabazz in Newark, New Jersey",-0.56,0.14,willier01,2006-07,TOT,11.4,0.1,.057,-4.4,-0.1,,NBA,4296000,34,21,5.8,.404,.571,0.8,0.3,0.1,0.0,2.6,"SAS,CHA"

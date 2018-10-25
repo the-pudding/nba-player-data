@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-francst01,1999-00,22,Houston Rockets,NBA,77,36.1,.445,.786,5.3,6.6,1.5,0.4,18.0,18.4,6.4,.111,3.3,3.7,,3020520,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2000-01,23,Houston Rockets,NBA,80,39.9,.451,.817,6.9,6.5,1.8,0.4,19.9,21.6,12.2,.184,6.6,7.0,,3246960,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2001-02,24,Houston Rockets,NBA,57,41.1,.417,.773,7.0,6.4,1.2,0.4,21.6,19.1,4.4,.091,2.9,2.9,,3473520,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2002-03,25,Houston Rockets,NBA,81,41.0,.435,.800,6.2,6.2,1.7,0.5,21.0,20.6,11.1,.160,4.9,5.8,,4383581,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2003-04,26,Houston Rockets,NBA,79,40.4,.403,.775,5.5,6.2,1.8,0.4,16.6,15.8,7.1,.107,2.5,3.6,,10960000,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2004-05,27,Orlando Magic,NBA,78,38.2,.423,.823,5.8,7.0,1.4,0.4,21.3,18.9,6.2,.100,2.2,3.2,,12330000,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2005-06,28,Orlando Magic,NBA,70,34.2,.435,.787,4.1,4.9,1.1,0.2,14.4,15.2,3.6,.073,0.1,1.2,,13700000,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2005-06,28,Orlando Magic,NBA,46,37.7,.433,.797,4.8,5.7,1.1,0.2,16.2,15.9,2.9,.081,0.7,1.2,,13700000,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2005-06,28,Orlando Magic,NBA,24,27.5,.442,.761,3.0,3.5,1.0,0.3,10.8,13.4,0.7,.050,-1.7,0.0,,13700000,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2006-07,29,New York Knicks,NBA,44,28.1,.408,.829,3.6,3.9,0.9,0.3,11.3,15.1,2.9,.113,0.7,0.8,,15070000,"Montgomery Blair in Silver Spring, Maryland"
-francst01,2007-08,30,Portland Trail Blazers,NBA,10,19.9,.333,.565,2.3,3.0,0.9,0.5,5.5,9.1,0.2,.039,-2.0,0.0,,15070000,"Montgomery Blair in Silver Spring, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+1.17,6.51,francst01,1999-00,HOU,18.4,6.4,.111,3.3,3.7,,NBA,3020520,22,77,36.1,.445,.786,5.3,6.6,1.5,0.4,18.0,HOU
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+2.55,10.58,francst01,2000-01,HOU,21.6,12.2,.184,6.6,7.0,,NBA,3246960,23,80,39.9,.451,.817,6.9,6.5,1.8,0.4,19.9,HOU
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+1.25,5.60,francst01,2001-02,HOU,19.1,4.4,.091,2.9,2.9,,NBA,3473520,24,57,41.1,.417,.773,7.0,6.4,1.2,0.4,21.6,HOU
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+2.59,11.16,francst01,2002-03,HOU,20.6,11.1,.160,4.9,5.8,,NBA,4383581,25,81,41.0,.435,.800,6.2,6.2,1.7,0.5,21.0,HOU
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+2.13,10.57,francst01,2003-04,HOU,15.8,7.1,.107,2.5,3.6,,NBA,10960000,26,79,40.4,.403,.775,5.5,6.2,1.8,0.4,16.6,HOU
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+1.34,7.30,francst01,2004-05,ORL,18.9,6.2,.100,2.2,3.2,,NBA,12330000,27,78,38.2,.423,.823,5.8,7.0,1.4,0.4,21.3,ORL
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",-1.04,2.00,francst01,2005-06,TOT,15.2,3.6,.073,0.1,1.2,,NBA,13700000,28,70,34.2,.435,.787,4.1,4.9,1.1,0.2,14.4,"ORL,NYK"
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",+1.56,3.22,francst01,2006-07,NYK,15.1,2.9,.113,0.7,0.8,,NBA,15070000,29,44,28.1,.408,.829,3.6,3.9,0.9,0.3,11.3,NYK
+Steve Francis,/players/f/francst01.html,2000,2008,University of Maryland,false,"Montgomery Blair in Silver Spring, Maryland",-0.00,0.31,francst01,2007-08,HOU,9.1,0.2,.039,-2.0,0.0,,NBA,15070000,30,10,19.9,.333,.565,2.3,3.0,0.9,0.5,5.5,HOU

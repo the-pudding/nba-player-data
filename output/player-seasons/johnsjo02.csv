@@ -1,24 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsjo02,2001-02,20,Boston Celtics,NBA,77,24.9,.430,.774,3.3,2.3,0.8,0.3,7.5,11.8,3.0,.075,-1.1,0.4,,1608840,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2001-02,20,Boston Celtics,NBA,48,20.9,.439,.769,2.9,1.5,0.7,0.2,6.3,12.0,2.0,.094,-1.3,0.2,,1608840,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2001-02,20,Boston Celtics,NBA,29,31.5,.420,.778,4.1,3.6,0.9,0.4,9.6,11.5,1.0,.054,-1.0,0.2,,1608840,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2002-03,21,Phoenix Suns,NBA,82,27.5,.397,.774,3.2,2.6,0.8,0.2,9.8,11.6,2.8,.060,-1.6,0.2,,1729560,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2003-04,22,Phoenix Suns,NBA,82,40.6,.430,.750,4.7,4.4,1.1,0.3,16.7,13.9,3.3,.047,-0.8,1.0,,1850160,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2004-05,23,Phoenix Suns,NBA,82,39.5,.461,.750,5.1,3.5,1.0,0.3,17.1,15.1,7.6,.112,2.3,3.5,,2358954,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2005-06,24,Atlanta Hawks,NBA,82,40.7,.453,.791,4.1,6.5,1.3,0.4,20.2,17.9,6.0,.086,0.7,2.2,,12000000,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2006-07,25,Atlanta Hawks,NBA,57,41.4,.471,.748,4.2,4.4,1.1,0.2,25.0,19.5,5.1,.105,1.6,2.1,,12744189,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2007-08,26,Atlanta Hawks,NBA,82,40.8,.432,.834,4.5,5.8,1.0,0.2,21.7,17.3,7.0,.100,1.1,2.7,,13488377,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2008-09,27,Atlanta Hawks,NBA,79,39.5,.437,.826,4.4,5.8,1.1,0.2,21.4,18.2,7.6,.116,1.7,3.0,,14232567,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2009-10,28,Atlanta Hawks,NBA,76,38.0,.458,.818,4.6,4.9,1.1,0.1,21.3,19.3,8.4,.140,2.2,3.0,All-NBA (3rd),14976754,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2010-11,29,Atlanta Hawks,NBA,72,35.5,.443,.802,4.0,4.7,0.7,0.1,18.2,16.4,4.2,.080,-0.2,1.2,,16324500,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2011-12,30,Atlanta Hawks,NBA,60,35.5,.454,.849,3.7,3.9,0.8,0.2,18.8,18.4,6.4,.145,2.1,2.2,,18038573,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2012-13,31,Brooklyn Nets,NBA,72,36.7,.423,.820,3.0,3.5,0.7,0.2,16.3,14.1,5.1,.092,0.3,1.5,,19752645,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2013-14,32,Brooklyn Nets,NBA,79,32.6,.454,.815,3.4,2.7,0.6,0.1,15.8,15.5,4.9,.091,-0.2,1.2,,21466718,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2014-15,33,Brooklyn Nets,NBA,80,34.9,.435,.801,4.8,3.7,0.7,0.2,14.4,14.1,4.1,.070,0.2,1.5,,23180790,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2015-16,34,Brooklyn Nets,NBA,81,33.4,.439,.831,3.6,3.9,0.8,0.0,12.2,12.0,2.7,.048,-1.3,0.4,,24894863,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2015-16,34,Brooklyn Nets,NBA,57,33.9,.406,.852,3.9,4.1,0.7,0.0,11.8,10.7,0.7,.018,-2.2,-0.1,,24894863,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2015-16,34,Brooklyn Nets,NBA,24,32.0,.518,.765,2.8,3.6,0.9,0.1,13.4,15.2,2.0,.123,0.8,0.5,,24894863,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2016-17,35,Utah Jazz,NBA,78,23.6,.436,.818,3.1,1.8,0.5,0.2,9.2,12.8,3.8,.099,-0.3,0.8,,11000000,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2017-18,36,Sacramento Kings,NBA,55,21.9,.406,.889,3.1,1.5,0.3,0.1,6.8,8.1,1.0,.040,-3.8,-0.5,,9505000,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2017-18,36,Sacramento Kings,NBA,32,21.9,.420,.833,3.3,1.4,0.4,0.2,7.3,9.0,0.6,.041,-3.3,-0.2,,9505000,"Little Rock Central in Little Rock, Arkansas"
-johnsjo02,2017-18,36,Sacramento Kings,NBA,23,22.0,.381,.952,2.8,1.7,0.3,0.0,6.0,6.8,0.4,.038,-4.4,-0.3,,9505000,"Little Rock Central in Little Rock, Arkansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-1.56,0.83,johnsjo02,2001-02,TOT,11.8,3.0,.075,-1.1,0.4,,NBA,1608840,20,77,24.9,.430,.774,3.3,2.3,0.8,0.3,7.5,"BOS,PHO"
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-0.84,2.28,johnsjo02,2002-03,PHO,11.6,2.8,.060,-1.6,0.2,,NBA,1729560,21,82,27.5,.397,.774,3.2,2.6,0.8,0.2,9.8,PHO
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-1.23,2.24,johnsjo02,2003-04,PHO,13.9,3.3,.047,-0.8,1.0,,NBA,1850160,22,82,40.6,.430,.750,4.7,4.4,1.1,0.3,16.7,PHO
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+1.61,9.30,johnsjo02,2004-05,PHO,15.1,7.6,.112,2.3,3.5,,NBA,2358954,23,82,39.5,.461,.750,5.1,3.5,1.0,0.3,17.1,PHO
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-1.44,1.95,johnsjo02,2005-06,ATL,17.9,6.0,.086,0.7,2.2,,NBA,12000000,24,82,40.7,.453,.791,4.1,6.5,1.3,0.4,20.2,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-0.54,2.77,johnsjo02,2006-07,ATL,19.5,5.1,.105,1.6,2.1,,NBA,12744189,25,57,41.4,.471,.748,4.2,4.4,1.1,0.2,25.0,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+1.83,10.01,johnsjo02,2007-08,ATL,17.3,7.0,.100,1.1,2.7,,NBA,13488377,26,82,40.8,.432,.834,4.5,5.8,1.0,0.2,21.7,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+2.57,11.51,johnsjo02,2008-09,ATL,18.2,7.6,.116,1.7,3.0,,NBA,14232567,27,79,39.5,.437,.826,4.4,5.8,1.1,0.2,21.4,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+1.66,8.76,johnsjo02,2009-10,ATL,19.3,8.4,.140,2.2,3.0,All-NBA (3rd),NBA,14976754,28,76,38.0,.458,.818,4.6,4.9,1.1,0.1,21.3,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+0.28,5.28,johnsjo02,2010-11,ATL,16.4,4.2,.080,-0.2,1.2,,NBA,16324500,29,72,35.5,.443,.802,4.0,4.7,0.7,0.1,18.2,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+2.22,7.34,johnsjo02,2011-12,ATL,18.4,6.4,.145,2.1,2.2,,NBA,18038573,30,60,35.5,.454,.849,3.7,3.9,0.8,0.2,18.8,ATL
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+1.88,8.18,johnsjo02,2012-13,BRK,14.1,5.1,.092,0.3,1.5,,NBA,19752645,31,72,36.7,.423,.820,3.0,3.5,0.7,0.2,16.3,BRK
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",+1.20,7.17,johnsjo02,2013-14,BRK,15.5,4.9,.091,-0.2,1.2,,NBA,21466718,32,79,32.6,.454,.815,3.4,2.7,0.6,0.1,15.8,BRK
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-0.56,3.52,johnsjo02,2014-15,BRK,14.1,4.1,.070,0.2,1.5,,NBA,23180790,33,80,34.9,.435,.801,4.8,3.7,0.7,0.2,14.4,BRK
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-0.67,3.47,johnsjo02,2015-16,TOT,12.0,2.7,.048,-1.3,0.4,,NBA,24894863,34,81,33.4,.439,.831,3.6,3.9,0.8,0.0,12.2,"BRK,MIA"
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-1.14,1.71,johnsjo02,2016-17,UTA,12.8,3.8,.099,-0.3,0.8,,NBA,11000000,35,78,23.6,.436,.818,3.1,1.8,0.5,0.2,9.2,UTA
+Joe Johnson,/players/j/johnsjo02.html,2002,2018,University of Arkansas,true,"Little Rock Central in Little Rock, Arkansas",-4.51,-1.81,johnsjo02,2017-18,TOT,8.1,1.0,.040,-3.8,-0.5,,NBA,9505000,36,55,21.9,.406,.889,3.1,1.5,0.3,0.1,6.8,"UTA,HOU"

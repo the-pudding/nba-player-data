@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-wadema01,1987-88,22,GSW,NBA,11,11.2,.150,.500,1.4,3.1,0.6,0.1,0.7,4.5,-0.3,-0.110,-8.9,-0.2,,"Banning in Los Angeles, California"
-wadema01,1988-89,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Banning in Los Angeles, California"
-wadema01,1989-90,24,DAL,NBA,1,3.0,,,0.0,2.0,0.0,0.0,0.0,21.3,0.0,.234,-30.6,0.0,,"Banning in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Wade,/players/w/wadema01.html,1988,1990,"University of Oklahoma, University of Nevada, Las Vegas",false,"Banning in Los Angeles, California",-0.74,0.13,wadema01,1987-88,GSW,4.5,-0.3,-0.110,-8.9,-0.2,,22,NBA,11,11.2,.150,.500,1.4,3.1,0.6,0.1,0.7,GSW
+Mark Wade,/players/w/wadema01.html,1988,1990,"University of Oklahoma, University of Nevada, Las Vegas",false,"Banning in Los Angeles, California",,,wadema01,1988-89,Did Not Play (other pro league—CBA),,,,,,,23,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Mark Wade,/players/w/wadema01.html,1988,1990,"University of Oklahoma, University of Nevada, Las Vegas",false,"Banning in Los Angeles, California",+0.23,0.01,wadema01,1989-90,DAL,21.3,0.0,.234,-30.6,0.0,,24,NBA,1,3.0,,,0.0,2.0,0.0,0.0,0.0,DAL

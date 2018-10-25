@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jeffeco01,2014-15,24,Brooklyn Nets,NBA,50,10.6,.449,.574,2.9,0.3,0.2,0.4,3.7,13.2,0.8,.071,-3.7,-0.2,,507336,"Killeen in Killeen, Texas"
-jeffeco01,2015-16,25,Phoenix Suns,NBA,8,6.3,.409,.667,2.0,0.0,0.0,0.1,2.8,12.7,0.1,.070,-13.8,-0.1,,421449,"Killeen in Killeen, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cory Jefferson,/players/j/jeffeco01.html,2015,2016,Baylor University,false,"Killeen in Killeen, Texas",+0.84,1.13,jeffeco01,2014-15,BRK,13.2,0.8,.071,-3.7,-0.2,,NBA,507336,24,50,10.6,.449,.574,2.9,0.3,0.2,0.4,3.7,BRK
+Cory Jefferson,/players/j/jeffeco01.html,2015,2016,Baylor University,false,"Killeen in Killeen, Texas",-0.16,0.07,jeffeco01,2015-16,PHO,12.7,0.1,.070,-13.8,-0.1,,NBA,421449,25,8,6.3,.409,.667,2.0,0.0,0.0,0.1,2.8,PHO

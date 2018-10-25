@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-buforro01,1999-00,22,Miami Heat,NBA,34,11.4,.411,.727,1.4,0.6,0.3,0.2,4.3,11.2,0.6,.072,-3.9,-0.2,,301875,"Vincent in Milwaukee, Wisconsin"
-buforro01,2000-01,23,Charlotte Hornets,NBA,47,12.2,.432,.828,1.6,0.4,0.4,0.1,5.3,11.3,0.8,.071,-4.3,-0.3,,423500,"Vincent in Milwaukee, Wisconsin"
-buforro01,2001-02,24,Memphis Grizzlies,NBA,63,28.1,.435,.725,4.3,1.1,0.7,0.2,9.4,10.1,0.8,.022,-4.3,-1.0,,481488,"Vincent in Milwaukee, Wisconsin"
-buforro01,2002-03,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Vincent in Milwaukee, Wisconsin"
-buforro01,2003-04,26,Sacramento Kings,NBA,22,6.4,.339,.500,0.7,0.3,0.3,0.0,1.9,6.2,-0.2,-0.063,-8.8,-0.2,,145686,"Vincent in Milwaukee, Wisconsin"
-buforro01,2004-05,27,New Jersey Nets,NBA,64,20.5,.382,.822,3.0,1.0,0.6,0.1,7.0,9.5,0.8,.030,-5.0,-1.0,,745046,"Vincent in Milwaukee, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rodney Buford,/players/b/buforro01.html,2000,2005,Creighton University,false,"Vincent in Milwaukee, Wisconsin",-1.32,0.24,buforro01,1999-00,MIA,11.2,0.6,.072,-3.9,-0.2,,NBA,301875,22,34,11.4,.411,.727,1.4,0.6,0.3,0.2,4.3,MIA
+Rodney Buford,/players/b/buforro01.html,2000,2005,Creighton University,false,"Vincent in Milwaukee, Wisconsin",-2.13,0.03,buforro01,2000-01,PHI,11.3,0.8,.071,-4.3,-0.3,,NBA,423500,23,47,12.2,.432,.828,1.6,0.4,0.4,0.1,5.3,PHI
+Rodney Buford,/players/b/buforro01.html,2000,2005,Creighton University,false,"Vincent in Milwaukee, Wisconsin",-4.75,-2.93,buforro01,2001-02,MEM,10.1,0.8,.022,-4.3,-1.0,,NBA,481488,24,63,28.1,.435,.725,4.3,1.1,0.7,0.2,9.4,MEM
+Rodney Buford,/players/b/buforro01.html,2000,2005,Creighton University,false,"Vincent in Milwaukee, Wisconsin",,,buforro01,2002-03,Did Not Play (other pro league—Greece),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Greece)
+Rodney Buford,/players/b/buforro01.html,2000,2005,Creighton University,false,"Vincent in Milwaukee, Wisconsin",-2.70,-0.07,buforro01,2003-04,SAC,6.2,-0.2,-0.063,-8.8,-0.2,,NBA,145686,26,22,6.4,.339,.500,0.7,0.3,0.3,0.0,1.9,SAC
+Rodney Buford,/players/b/buforro01.html,2000,2005,Creighton University,false,"Vincent in Milwaukee, Wisconsin",-4.34,-1.88,buforro01,2004-05,NJN,9.5,0.8,.030,-5.0,-1.0,,NBA,745046,27,64,20.5,.382,.822,3.0,1.0,0.6,0.1,7.0,NJN

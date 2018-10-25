@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-steveba01,1992-93,30,GSW,NBA,2,3.0,.500,,1.0,0.0,0.0,0.0,1.0,15.2,0.0,.157,-4.9,0.0,,"Flint Northwestern in Flint, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Barry Stevens,/players/s/steveba01.html,1993,1993,Iowa State University,false,"Flint Northwestern in Flint, Michigan",+0.04,0.01,steveba01,1992-93,GSW,15.2,0.0,.157,-4.9,0.0,,30,NBA,2,3.0,.500,,1.0,0.0,0.0,0.0,1.0,GSW

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-walleja01,1987-88,23,NJN,NBA,9,10.1,.400,.556,1.4,0.3,0.4,0.1,4.7,7.1,-0.2,-0.097,-8.9,-0.2,,"Halifax County in South Boston, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jamie Waller,/players/w/walleja01.html,1988,1988,Virginia Union University,false,"Halifax County in South Boston, Virginia",-0.50,0.11,walleja01,1987-88,NJN,7.1,-0.2,-0.097,-8.9,-0.2,,23,NBA,9,10.1,.400,.556,1.4,0.3,0.4,0.1,4.7,NJN

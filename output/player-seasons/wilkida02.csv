@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wilkida02,2004-05,25,Seattle SuperSonics,NBA,29,17.9,.435,.618,2.3,0.9,0.8,0.3,6.3,13.4,1.0,.092,0.9,0.4,,385277,"Dr. Phillips in Orlando, Florida"
-wilkida02,2005-06,26,Seattle SuperSonics,NBA,82,18.6,.444,.840,2.3,1.3,0.9,0.1,6.5,13.1,1.7,.054,-1.5,0.2,,2500000,"Dr. Phillips in Orlando, Florida"
-wilkida02,2006-07,27,Seattle SuperSonics,NBA,82,24.8,.435,.882,2.8,1.9,1.1,0.2,8.8,13.1,2.8,.066,-0.4,0.8,,2700000,"Dr. Phillips in Orlando, Florida"
-wilkida02,2007-08,28,Seattle SuperSonics,NBA,76,24.3,.403,.736,3.2,2.0,0.8,0.3,9.2,11.3,1.0,.027,-1.9,0.1,,2900000,"Dr. Phillips in Orlando, Florida"
-wilkida02,2008-09,29,Oklahoma City Thunder,NBA,41,15.5,.362,.804,1.7,0.9,0.5,0.2,5.3,8.3,0.0,.002,-4.7,-0.4,,3100000,"Dr. Phillips in Orlando, Florida"
-wilkida02,2009-10,30,Minnesota Timberwolves,NBA,80,19.8,.433,.798,3.1,1.7,0.8,0.3,5.6,11.5,1.9,.056,-1.2,0.3,,3300000,"Dr. Phillips in Orlando, Florida"
-wilkida02,2010-11,31,Atlanta Hawks,NBA,52,13.0,.504,.714,1.7,0.8,0.5,0.2,3.5,11.4,1.5,.104,-1.5,0.1,,748656,"Dr. Phillips in Orlando, Florida"
-wilkida02,2011-12,32,Detroit Pistons,NBA,60,15.4,.394,.630,1.7,0.7,0.5,0.2,3.2,6.9,0.4,.019,-3.9,-0.5,,1146337,"Dr. Phillips in Orlando, Florida"
-wilkida02,2012-13,33,Philadelphia 76ers,NBA,61,18.0,.459,.743,1.7,1.5,0.6,0.3,6.4,12.5,1.9,.083,-2.5,-0.1,,1223166,"Dr. Phillips in Orlando, Florida"
-wilkida02,2013-14,34,Did Not Play,,,,,,,,,,,,,,,,,,"Dr. Phillips in Orlando, Florida"
-wilkida02,2014-15,35,Did Not Play,,,,,,,,,,,,,,,,,,"Dr. Phillips in Orlando, Florida"
-wilkida02,2015-16,36,Did Not Play,,,,,,,,,,,,,,,,,,"Dr. Phillips in Orlando, Florida"
-wilkida02,2016-17,37,Did Not Play,,,,,,,,,,,,,,,,,,"Dr. Phillips in Orlando, Florida"
-wilkida02,2017-18,38,Indiana Pacers,NBA,19,8.0,.333,.750,0.8,0.5,0.1,0.1,1.7,4.9,-0.1,-0.019,-6.5,-0.2,,1016617,"Dr. Phillips in Orlando, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-2.37,-0.02,wilkida02,2004-05,SEA,13.4,1.0,.092,0.9,0.4,,NBA,385277,25,29,17.9,.435,.618,2.3,0.9,0.8,0.3,6.3,SEA
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-2.94,-0.57,wilkida02,2005-06,SEA,13.1,1.7,.054,-1.5,0.2,,NBA,2500000,26,82,18.6,.444,.840,2.3,1.3,0.9,0.1,6.5,SEA
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-3.06,-0.98,wilkida02,2006-07,SEA,13.1,2.8,.066,-0.4,0.8,,NBA,2700000,27,82,24.8,.435,.882,2.8,1.9,1.1,0.2,8.8,SEA
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-2.94,-0.83,wilkida02,2007-08,SEA,11.3,1.0,.027,-1.9,0.1,,NBA,2900000,28,76,24.3,.403,.736,3.2,2.0,0.8,0.3,9.2,SEA
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-2.35,-0.04,wilkida02,2008-09,OKC,8.3,0.0,.002,-4.7,-0.4,,NBA,3100000,29,41,15.5,.362,.804,1.7,0.9,0.5,0.2,5.3,OKC
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-1.12,1.24,wilkida02,2009-10,MIN,11.5,1.9,.056,-1.2,0.3,,NBA,3300000,30,80,19.8,.433,.798,3.1,1.7,0.8,0.3,5.6,MIN
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-2.27,0.00,wilkida02,2010-11,ATL,11.4,1.5,.104,-1.5,0.1,,NBA,748656,31,52,13.0,.504,.714,1.7,0.8,0.5,0.2,3.5,ATL
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-0.71,0.94,wilkida02,2011-12,DET,6.9,0.4,.019,-3.9,-0.5,,NBA,1146337,32,60,15.4,.394,.630,1.7,0.7,0.5,0.2,3.2,DET
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-2.01,0.18,wilkida02,2012-13,PHI,12.5,1.9,.083,-2.5,-0.1,,NBA,1223166,33,61,18.0,.459,.743,1.7,1.5,0.6,0.3,6.4,PHI
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",,,wilkida02,2013-14,Did Not Play,,,,,,,,,34,,,,,,,,,,Did Not Play
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",,,wilkida02,2014-15,Did Not Play,,,,,,,,,35,,,,,,,,,,Did Not Play
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",,,wilkida02,2015-16,Did Not Play,,,,,,,,,36,,,,,,,,,,Did Not Play
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",,,wilkida02,2016-17,Did Not Play,,,,,,,,,37,,,,,,,,,,Did Not Play
+Damien Wilkins,/players/w/wilkida02.html,2005,2018,"North Carolina State University, University of Georgia",true,"Dr. Phillips in Orlando, Florida",-1.49,0.09,wilkida02,2017-18,IND,4.9,-0.1,-0.019,-6.5,-0.2,,NBA,1016617,38,19,8.0,.333,.750,0.8,0.5,0.1,0.1,1.7,IND

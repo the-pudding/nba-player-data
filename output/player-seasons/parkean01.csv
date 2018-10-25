@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-parkean01,1997-98,22,Philadelphia 76ers,NBA,37,5.3,.397,.650,0.7,0.5,0.3,0.1,1.9,14.0,0.4,.088,-0.8,0.1,,754080,"Central in Naperville, Illinois"
-parkean01,1998-99,23,Philadelphia 76ers,NBA,2,1.5,1.000,,0.0,0.0,0.0,0.0,1.0,30.9,0.0,.274,1.7,0.0,,867120,"Central in Naperville, Illinois"
-parkean01,1999-00,24,Orlando Magic,NBA,16,11.6,.421,.727,1.7,0.6,0.5,0.3,3.6,9.7,0.2,.040,-2.7,0.0,,980280,"Central in Naperville, Illinois"
-parkean01,2000-01,25,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Central in Naperville, Illinois"
-parkean01,2001-02,26,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Central in Naperville, Illinois"
-parkean01,2002-03,27,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Central in Naperville, Illinois"
-parkean01,2003-04,28,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Central in Naperville, Illinois"
-parkean01,2004-05,29,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Central in Naperville, Illinois"
-parkean01,2005-06,30,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Central in Naperville, Illinois"
-parkean01,2006-07,31,Toronto Raptors,NBA,73,33.4,.477,.835,3.9,2.1,1.0,0.2,12.4,14.5,6.5,.127,2.5,2.8,,4150000,"Central in Naperville, Illinois"
-parkean01,2007-08,32,Toronto Raptors,NBA,82,32.1,.476,.816,4.1,2.2,1.0,0.2,12.5,14.4,6.2,.113,2.2,2.8,,4350000,"Central in Naperville, Illinois"
-parkean01,2008-09,33,Toronto Raptors,NBA,80,33.0,.426,.834,4.0,3.4,1.3,0.2,10.7,12.1,3.4,.063,0.6,1.7,,4550000,"Central in Naperville, Illinois"
-parkean01,2009-10,34,Cleveland Cavaliers,NBA,81,28.3,.434,.789,2.9,1.9,0.8,0.2,7.3,9.9,4.9,.103,0.8,1.6,,2644230,"Central in Naperville, Illinois"
-parkean01,2010-11,35,Cleveland Cavaliers,NBA,72,29.0,.399,.779,3.0,3.0,0.9,0.1,8.3,10.5,1.5,.034,-1.6,0.2,,2855700,"Central in Naperville, Illinois"
-parkean01,2011-12,36,Cleveland Cavaliers,NBA,51,25.1,.433,.625,2.7,2.4,0.7,0.1,7.2,10.9,1.4,.052,-2.0,0.0,,2250000,"Central in Naperville, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",-0.05,0.30,parkean01,1997-98,PHI,14.0,0.4,.088,-0.8,0.1,,NBA,754080,22,37,5.3,.397,.650,0.7,0.5,0.3,0.1,1.9,PHI
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",+0.47,0.01,parkean01,1998-99,PHI,30.9,0.0,.274,1.7,0.0,,NBA,867120,23,2,1.5,1.000,,0.0,0.0,0.0,0.0,1.0,PHI
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",-0.18,0.26,parkean01,1999-00,ORL,9.7,0.2,.040,-2.7,0.0,,NBA,980280,24,16,11.6,.421,.727,1.7,0.6,0.5,0.3,3.6,ORL
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",,,parkean01,2000-01,Did Not Play (other pro league—Israel),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—Israel)
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",,,parkean01,2001-02,Did Not Play (other pro league—Israel),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Israel)
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",,,parkean01,2002-03,Did Not Play (other pro league—Israel),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—Israel)
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",,,parkean01,2003-04,Did Not Play (other pro league—Israel),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Israel)
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",,,parkean01,2004-05,Did Not Play (other pro league—Israel),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—Israel)
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",,,parkean01,2005-06,Did Not Play (other pro league—Israel),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Israel)
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",+3.23,9.96,parkean01,2006-07,TOR,14.5,6.5,.127,2.5,2.8,,NBA,4150000,31,73,33.4,.477,.835,3.9,2.1,1.0,0.2,12.4,TOR
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",+0.57,5.43,parkean01,2007-08,TOR,14.4,6.2,.113,2.2,2.8,,NBA,4350000,32,82,32.1,.476,.816,4.1,2.2,1.0,0.2,12.5,TOR
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",+0.01,4.09,parkean01,2008-09,TOR,12.1,3.4,.063,0.6,1.7,,NBA,4550000,33,80,33.0,.426,.834,4.0,3.4,1.3,0.2,10.7,TOR
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",+1.16,6.08,parkean01,2009-10,CLE,9.9,4.9,.103,0.8,1.6,,NBA,2644230,34,81,28.3,.434,.789,2.9,1.9,0.8,0.2,7.3,CLE
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",-0.93,1.89,parkean01,2010-11,CLE,10.5,1.5,.034,-1.6,0.2,,NBA,2855700,35,72,29.0,.399,.779,3.0,3.0,0.9,0.1,8.3,CLE
+Anthony Parker,/players/p/parkean01.html,1998,2012,Bradley University,false,"Central in Naperville, Illinois",-2.05,0.17,parkean01,2011-12,CLE,10.9,1.4,.052,-2.0,0.0,,NBA,2250000,36,51,25.1,.433,.625,2.7,2.4,0.7,0.1,7.2,CLE

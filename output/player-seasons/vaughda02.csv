@@ -1,8 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vaughda02,1995-96,22,Orlando Magic,NBA,33,8.1,.338,.556,2.4,0.2,0.2,0.5,1.9,6.0,-0.1,-0.013,-7.0,-0.3,,534000,"Whites Creek in Whites Creek, Tennessee"
-vaughda02,1996-97,23,Orlando Magic,NBA,35,8.5,.431,.633,2.7,0.2,0.2,0.4,2.3,10.3,0.1,.019,-6.0,-0.3,,614000,"Whites Creek in Whites Creek, Tennessee"
-vaughda02,1997-98,24,Golden State Warriors,NBA,40,12.2,.446,.638,3.8,0.5,0.4,0.3,4.1,11.4,0.4,.040,-4.4,-0.3,,693840,"Whites Creek in Whites Creek, Tennessee"
-vaughda02,1997-98,24,Golden State Warriors,NBA,22,14.6,.404,.647,4.6,0.8,0.5,0.3,5.2,10.8,0.0,-0.002,-5.1,-0.3,,693840,"Whites Creek in Whites Creek, Tennessee"
-vaughda02,1997-98,24,Golden State Warriors,NBA,3,2.0,1.000,.500,0.3,0.0,0.0,0.0,1.3,23.3,0.0,.315,-6.3,0.0,,693840,"Whites Creek in Whites Creek, Tennessee"
-vaughda02,1997-98,24,Golden State Warriors,NBA,15,10.7,.576,.667,3.3,0.1,0.3,0.3,2.9,12.1,0.4,.114,-3.1,0.0,,693840,"Whites Creek in Whites Creek, Tennessee"
-vaughda02,1998-99,25,New Jersey Nets,NBA,10,10.3,.542,.800,3.4,0.1,0.2,0.8,3.4,13.5,0.2,.080,-5.0,-0.1,,450000,"Whites Creek in Whites Creek, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Vaughn,/players/v/vaughda02.html,1996,1999,University of Memphis,false,"Whites Creek in Whites Creek, Tennessee",-2.28,0.00,vaughda02,1995-96,ORL,6.0,-0.1,-0.013,-7.0,-0.3,,NBA,534000,22,33,8.1,.338,.556,2.4,0.2,0.2,0.5,1.9,ORL
+David Vaughn,/players/v/vaughda02.html,1996,1999,University of Memphis,false,"Whites Creek in Whites Creek, Tennessee",-1.77,0.09,vaughda02,1996-97,ORL,10.3,0.1,.019,-6.0,-0.3,,NBA,614000,23,35,8.5,.431,.633,2.7,0.2,0.2,0.4,2.3,ORL
+David Vaughn,/players/v/vaughda02.html,1996,1999,University of Memphis,false,"Whites Creek in Whites Creek, Tennessee",-2.15,0.01,vaughda02,1997-98,TOT,11.4,0.4,.040,-4.4,-0.3,,NBA,693840,24,40,12.2,.446,.638,3.8,0.5,0.4,0.3,4.1,"GSW,CHI,NJN"
+David Vaughn,/players/v/vaughda02.html,1996,1999,University of Memphis,false,"Whites Creek in Whites Creek, Tennessee",-0.53,0.12,vaughda02,1998-99,NJN,13.5,0.2,.080,-5.0,-0.1,,NBA,450000,25,10,10.3,.542,.800,3.4,0.1,0.2,0.8,3.4,NJN

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-westppa01,1976-77,26,PHO,NBA,81,32.1,.518,.825,2.3,5.7,1.7,0.3,21.3,21.4,9.6,.178,4.1,4.0,All-NBA (1st),"Aviation in Redondo Beach, California"
-westppa01,1977-78,27,PHO,NBA,80,31.0,.516,.813,2.1,5.5,1.7,0.4,25.2,23.8,9.8,.190,2.5,2.8,All-NBA (2nd),"Aviation in Redondo Beach, California"
-westppa01,1978-79,28,PHO,NBA,81,32.6,.535,.837,2.0,6.5,1.4,0.3,24.0,22.6,10.4,.189,1.6,2.4,All-NBA (1st),"Aviation in Redondo Beach, California"
-westppa01,1979-80,29,PHO,NBA,82,32.5,.525,.862,2.3,5.1,1.5,0.4,21.9,21.1,10.5,.189,2.4,2.9,All-NBA (1st),"Aviation in Redondo Beach, California"
-westppa01,1980-81,30,SEA,NBA,36,29.9,.442,.832,1.9,4.1,1.3,0.4,16.7,16.5,2.4,.106,-1.2,0.2,,"Aviation in Redondo Beach, California"
-westppa01,1981-82,31,NYK,NBA,18,25.1,.443,.766,1.2,5.6,1.1,0.4,11.7,13.3,0.3,.032,-4.6,-0.3,,"Aviation in Redondo Beach, California"
-westppa01,1982-83,32,NYK,NBA,80,24.7,.459,.804,1.4,5.5,1.1,0.2,10.0,14.1,3.7,.091,-1.8,0.1,,"Aviation in Redondo Beach, California"
-westppa01,1983-84,33,PHO,NBA,59,14.7,.460,.824,0.7,2.5,0.7,0.1,7.0,14.6,1.5,.086,-3.9,-0.4,,"Aviation in Redondo Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",+2.91,9.48,westppa01,1976-77,PHO,21.4,9.6,.178,4.1,4.0,All-NBA (1st),26,NBA,81,32.1,.518,.825,2.3,5.7,1.7,0.3,21.3,PHO
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",+2.82,9.07,westppa01,1977-78,PHO,23.8,9.8,.190,2.5,2.8,All-NBA (2nd),27,NBA,80,31.0,.516,.813,2.1,5.5,1.7,0.4,25.2,PHO
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",+2.60,10.53,westppa01,1978-79,PHO,22.6,10.4,.189,1.6,2.4,All-NBA (1st),28,NBA,81,32.6,.535,.837,2.0,6.5,1.4,0.3,24.0,PHO
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",+2.84,10.14,westppa01,1979-80,PHO,21.1,10.5,.189,2.4,2.9,All-NBA (1st),29,NBA,82,32.5,.525,.862,2.3,5.1,1.5,0.4,21.9,PHO
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",+0.13,1.76,westppa01,1980-81,SEA,16.5,2.4,.106,-1.2,0.2,,30,NBA,36,29.9,.442,.832,1.9,4.1,1.3,0.4,16.7,SEA
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",-1.28,0.30,westppa01,1981-82,NYK,13.3,0.3,.032,-4.6,-0.3,,31,NBA,18,25.1,.443,.766,1.2,5.6,1.1,0.4,11.7,NYK
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",+0.55,4.14,westppa01,1982-83,NYK,14.1,3.7,.091,-1.8,0.1,,32,NBA,80,24.7,.459,.804,1.4,5.5,1.1,0.2,10.0,NYK
+Paul Westphal,/players/w/westppa01.html,1973,1984,University of Southern California,false,"Aviation in Redondo Beach, California",-1.19,0.81,westppa01,1983-84,PHO,14.6,1.5,.086,-3.9,-0.4,,33,NBA,59,14.7,.460,.824,0.7,2.5,0.7,0.1,7.0,PHO

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-aleksch01,1984-85,25,GSW,NBA,74,15.1,.478,.733,3.6,0.5,0.2,0.2,5.1,9.1,0.4,.019,-5.9,-1.1,,"Wamogo in Litchfield, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chuck Aleksinas,/players/a/aleksch01.html,1985,1985,"University of Kentucky, University of Connecticut",false,"Wamogo in Litchfield, Connecticut",-4.04,-1.23,aleksch01,1984-85,GSW,9.1,0.4,.019,-5.9,-1.1,,25,NBA,74,15.1,.478,.733,3.6,0.5,0.2,0.2,5.1,GSW

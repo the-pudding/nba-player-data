@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mccreer01,2017-18,24,Utah Jazz,NBA,4,2.0,.000,,0.3,0.0,0.3,0.0,0.0,-8.9,-0.1,-0.334,-14.7,0.0,,,"West Orange in Winter Garden, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Erik McCree,/players/m/mccreer01.html,2018,2018,Louisiana Tech University,true,"West Orange in Winter Garden, Florida",-0.31,0.01,mccreer01,2017-18,UTA,-8.9,-0.1,-0.334,-14.7,0.0,,NBA,,24,4,2.0,.000,,0.3,0.0,0.3,0.0,0.0,UTA

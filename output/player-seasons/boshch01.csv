@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-boshch01,2003-04,19,Toronto Raptors,NBA,75,33.5,.459,.701,7.4,1.0,0.8,1.4,11.5,15.1,6.2,.119,-0.3,1.1,,2911320,"Lincoln in Dallas, Texas"
-boshch01,2004-05,20,Toronto Raptors,NBA,81,37.2,.471,.760,8.9,1.9,0.9,1.4,16.8,17.5,6.8,.108,0.4,1.8,,3129720,"Lincoln in Dallas, Texas"
-boshch01,2005-06,21,Toronto Raptors,NBA,70,39.3,.505,.816,9.2,2.6,0.7,1.1,22.5,23.2,9.8,.170,2.5,3.1,,3348000,"Lincoln in Dallas, Texas"
-boshch01,2006-07,22,Toronto Raptors,NBA,69,38.5,.496,.785,10.7,2.5,0.6,1.3,22.6,22.6,9.6,.174,2.6,3.1,All-NBA (2nd),4235220,"Lincoln in Dallas, Texas"
-boshch01,2007-08,23,Toronto Raptors,NBA,67,36.2,.494,.844,8.7,2.6,0.9,1.0,22.3,23.8,10.1,.200,3.7,3.5,,12455000,"Lincoln in Dallas, Texas"
-boshch01,2008-09,24,Toronto Raptors,NBA,77,38.0,.487,.817,10.0,2.5,0.9,1.0,22.7,22.1,9.7,.159,2.4,3.3,,14410581,"Lincoln in Dallas, Texas"
-boshch01,2009-10,25,Toronto Raptors,NBA,70,36.1,.518,.797,10.8,2.4,0.6,1.0,24.0,25.0,9.6,.182,2.3,2.7,,15779912,"Lincoln in Dallas, Texas"
-boshch01,2010-11,26,Miami Heat,NBA,77,36.3,.496,.815,8.3,1.9,0.8,0.6,18.7,19.4,10.3,.177,0.4,1.7,,14500000,"Lincoln in Dallas, Texas"
-boshch01,2011-12,27,Miami Heat,NBA,57,35.2,.487,.821,7.9,1.8,0.9,0.8,18.0,18.9,6.9,.165,0.0,1.0,,16022500,"Lincoln in Dallas, Texas"
-boshch01,2012-13,28,Miami Heat,NBA,74,33.2,.535,.798,6.8,1.7,0.9,1.4,16.6,20.0,9.0,.175,1.2,2.0,,17545000,"Lincoln in Dallas, Texas"
-boshch01,2013-14,29,Miami Heat,NBA,79,32.0,.516,.820,6.6,1.1,1.0,1.0,16.2,19.0,8.0,.152,0.5,1.6,,19067500,"Lincoln in Dallas, Texas"
-boshch01,2014-15,30,Miami Heat,NBA,44,35.4,.460,.772,7.0,2.2,0.9,0.6,21.1,19.8,3.6,.111,-0.1,0.8,,20644400,"Lincoln in Dallas, Texas"
-boshch01,2015-16,31,Miami Heat,NBA,53,33.5,.467,.795,7.4,2.4,0.7,0.6,19.1,20.2,6.4,.172,2.1,1.8,,22192730,"Lincoln in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",-0.88,2.26,boshch01,2003-04,TOR,15.1,6.2,.119,-0.3,1.1,,NBA,2911320,19,75,33.5,.459,.701,7.4,1.0,0.8,1.4,11.5,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+1.97,8.63,boshch01,2004-05,TOR,17.5,6.8,.108,0.4,1.8,,NBA,3129720,20,81,37.2,.471,.760,8.9,1.9,0.9,1.4,16.8,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+1.80,7.49,boshch01,2005-06,TOR,23.2,9.8,.170,2.5,3.1,,NBA,3348000,21,70,39.3,.505,.816,9.2,2.6,0.7,1.1,22.5,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+2.96,10.20,boshch01,2006-07,TOR,22.6,9.6,.174,2.6,3.1,All-NBA (2nd),NBA,4235220,22,69,38.5,.496,.785,10.7,2.5,0.6,1.3,22.6,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+3.97,10.83,boshch01,2007-08,TOR,23.8,10.1,.200,3.7,3.5,,NBA,12455000,23,67,36.2,.494,.844,8.7,2.6,0.9,1.0,22.3,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+1.64,7.69,boshch01,2008-09,TOR,22.1,9.7,.159,2.4,3.3,,NBA,14410581,24,77,38.0,.487,.817,10.0,2.5,0.9,1.0,22.7,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+2.56,8.09,boshch01,2009-10,TOR,25.0,9.6,.182,2.3,2.7,,NBA,15779912,25,70,36.1,.518,.797,10.8,2.4,0.6,1.0,24.0,TOR
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+4.55,16.55,boshch01,2010-11,MIA,19.4,10.3,.177,0.4,1.7,,NBA,14500000,26,77,36.3,.496,.815,8.3,1.9,0.8,0.6,18.7,MIA
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+2.59,8.18,boshch01,2011-12,MIA,18.9,6.9,.165,0.0,1.0,,NBA,16022500,27,57,35.2,.487,.821,7.9,1.8,0.9,0.8,18.0,MIA
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+2.13,9.54,boshch01,2012-13,MIA,20.0,9.0,.175,1.2,2.0,,NBA,17545000,28,74,33.2,.535,.798,6.8,1.7,0.9,1.4,16.6,MIA
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+3.34,12.08,boshch01,2013-14,MIA,19.0,8.0,.152,0.5,1.6,,NBA,19067500,29,79,32.0,.516,.820,6.6,1.1,1.0,1.0,16.2,MIA
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+0.13,2.54,boshch01,2014-15,MIA,19.8,3.6,.111,-0.1,0.8,,NBA,20644400,30,44,35.4,.460,.772,7.0,2.2,0.9,0.6,21.1,MIA
+Chris Bosh,/players/b/boshch01.html,2004,2016,Georgia Institute of Technology,false,"Lincoln in Dallas, Texas",+1.61,4.75,boshch01,2015-16,MIA,20.2,6.4,.172,2.1,1.8,,NBA,22192730,31,53,33.5,.467,.795,7.4,2.4,0.7,0.6,19.1,MIA

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-newbeme01,1992-93,25,DET,NBA,33,9.4,.372,.567,1.1,1.7,0.7,0.0,3.6,11.5,0.0,.000,-2.2,0.0,,"Scott in Toledo, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Melvin Newbern,/players/n/newbeme01.html,1993,1993,University of Minnesota,false,"Scott in Toledo, Ohio",-0.91,0.29,newbeme01,1992-93,DET,11.5,0.0,.000,-2.2,0.0,,25,NBA,33,9.4,.372,.567,1.1,1.7,0.7,0.0,3.6,DET

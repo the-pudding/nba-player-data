@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-mccraro01,1983-84,22,HOU,NBA,79,26.3,.499,.731,5.7,2.2,0.7,0.7,10.8,14.4,4.6,.106,1.0,1.6,,"Mount Vernon in Mount Vernon, New York",
-mccraro01,1984-85,23,Houston Rockets,NBA,82,36.6,.535,.738,6.6,4.3,1.1,0.9,14.4,15.5,8.5,.137,3.5,4.1,,"Mount Vernon in Mount Vernon, New York",360000
-mccraro01,1985-86,24,Houston Rockets,NBA,82,31.8,.537,.770,6.3,3.6,0.6,0.7,10.3,13.6,6.3,.115,1.4,2.3,,"Mount Vernon in Mount Vernon, New York",495000
-mccraro01,1986-87,25,HOU,NBA,81,38.7,.552,.779,7.1,5.4,1.1,0.7,14.4,15.7,9.4,.144,3.3,4.2,,"Mount Vernon in Mount Vernon, New York",
-mccraro01,1987-88,26,Houston Rockets,NBA,81,33.2,.481,.785,7.8,3.3,0.7,0.6,12.4,15.1,7.6,.135,2.6,3.1,,"Mount Vernon in Mount Vernon, New York",925000
-mccraro01,1988-89,27,Sacramento Kings,NBA,68,35.8,.466,.722,7.6,4.3,0.8,0.5,12.6,13.1,2.9,.057,0.0,1.2,,"Mount Vernon in Mount Vernon, New York",925000
-mccraro01,1989-90,28,SAC,NBA,82,39.5,.515,.784,8.2,4.6,0.7,0.9,16.6,16.7,7.9,.118,2.3,3.6,,"Mount Vernon in Mount Vernon, New York",
-mccraro01,1990-91,29,Dallas Mavericks,NBA,74,34.6,.495,.803,7.6,3.5,0.9,0.7,11.4,14.6,5.3,.100,1.7,2.4,,"Mount Vernon in Mount Vernon, New York",985000
-mccraro01,1991-92,30,Dallas Mavericks,NBA,75,28.1,.436,.719,6.2,2.9,0.6,0.4,9.0,12.6,2.5,.057,-0.1,1.0,,"Mount Vernon in Mount Vernon, New York",1025000
-mccraro01,1992-93,31,Chicago Bulls,NBA,64,15.9,.451,.692,2.5,1.3,0.2,0.2,3.5,7.6,0.9,.044,-4.0,-0.5,,"Mount Vernon in Mount Vernon, New York",1075000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",-0.77,2.12,mccraro01,1983-84,HOU,14.4,4.6,.106,1.0,1.6,,22,NBA,79,26.3,.499,.731,5.7,2.2,0.7,0.7,10.8,HOU,
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",+1.16,7.39,mccraro01,1984-85,HOU,15.5,8.5,.137,3.5,4.1,,23,NBA,82,36.6,.535,.738,6.6,4.3,1.1,0.9,14.4,HOU,360000
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",+0.17,5.71,mccraro01,1985-86,HOU,13.6,6.3,.115,1.4,2.3,,24,NBA,82,31.8,.537,.770,6.3,3.6,0.6,0.7,10.3,HOU,495000
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",+1.41,8.91,mccraro01,1986-87,HOU,15.7,9.4,.144,3.3,4.2,,25,NBA,81,38.7,.552,.779,7.1,5.4,1.1,0.7,14.4,HOU,
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",+0.66,5.66,mccraro01,1987-88,HOU,15.1,7.6,.135,2.6,3.1,,26,NBA,81,33.2,.481,.785,7.8,3.3,0.7,0.6,12.4,HOU,925000
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",-1.52,1.26,mccraro01,1988-89,SAC,13.1,2.9,.057,0.0,1.2,,27,NBA,68,35.8,.466,.722,7.6,4.3,0.8,0.5,12.6,SAC,925000
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",+0.24,5.50,mccraro01,1989-90,SAC,16.7,7.9,.118,2.3,3.6,,28,NBA,82,39.5,.515,.784,8.2,4.6,0.7,0.9,16.6,SAC,
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",-0.38,3.29,mccraro01,1990-91,DAL,14.6,5.3,.100,1.7,2.4,,29,NBA,74,34.6,.495,.803,7.6,3.5,0.9,0.7,11.4,DAL,985000
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",-1.84,0.63,mccraro01,1991-92,DAL,12.6,2.5,.057,-0.1,1.0,,30,NBA,75,28.1,.436,.719,6.2,2.9,0.6,0.4,9.0,DAL,1025000
+Rodney McCray,/players/m/mccraro01.html,1984,1993,University of Louisville,false,"Mount Vernon in Mount Vernon, New York",-3.42,-0.76,mccraro01,1992-93,CHI,7.6,0.9,.044,-4.0,-0.5,,31,NBA,64,15.9,.451,.692,2.5,1.3,0.2,0.2,3.5,CHI,1075000

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lavinza01,2014-15,19,Minnesota Timberwolves,NBA,77,24.7,.422,.842,2.8,3.6,0.7,0.1,10.1,11.3,-0.7,-0.018,-4.5,-1.2,,2055840,"Bothell in Bothell, Washington"
-lavinza01,2015-16,20,Minnesota Timberwolves,NBA,82,28.0,.452,.793,2.8,3.1,0.8,0.2,14.0,14.3,2.6,.054,-1.4,0.4,,2148360,"Bothell in Bothell, Washington"
-lavinza01,2016-17,21,Minnesota Timberwolves,NBA,47,37.2,.459,.836,3.4,3.0,0.9,0.2,18.9,14.6,3.0,.082,-0.3,0.8,,2240880,"Bothell in Bothell, Washington"
-lavinza01,2017-18,22,Chicago Bulls,NBA,24,27.3,.383,.813,3.9,3.0,1.0,0.2,16.7,14.6,0.3,.025,-2.7,-0.1,,3202217,"Bothell in Bothell, Washington"
-lavinza01,2018-19,23,CHI,NBA,4,35.5,.571,.861,3.8,3.3,0.5,1.0,32.3,26.4,0.5,.166,2.7,0.2,,,"Bothell in Bothell, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zach LaVine,/players/l/lavinza01.html,2015,2019,"University of California, Los Angeles",true,"Bothell in Bothell, Washington",-5.37,-3.76,lavinza01,2014-15,MIN,11.3,-0.7,-0.018,-4.5,-1.2,,NBA,2055840,19,77,24.7,.422,.842,2.8,3.6,0.7,0.1,10.1,MIN
+Zach LaVine,/players/l/lavinza01.html,2015,2019,"University of California, Los Angeles",true,"Bothell in Bothell, Washington",-3.89,-2.37,lavinza01,2015-16,MIN,14.3,2.6,.054,-1.4,0.4,,NBA,2148360,20,82,28.0,.452,.793,2.8,3.1,0.8,0.2,14.0,MIN
+Zach LaVine,/players/l/lavinza01.html,2015,2019,"University of California, Los Angeles",true,"Bothell in Bothell, Washington",-1.72,0.72,lavinza01,2016-17,MIN,14.6,3.0,.082,-0.3,0.8,,NBA,2240880,21,47,37.2,.459,.836,3.4,3.0,0.9,0.2,18.9,MIN
+Zach LaVine,/players/l/lavinza01.html,2015,2019,"University of California, Los Angeles",true,"Bothell in Bothell, Washington",-1.26,0.46,lavinza01,2017-18,CHI,14.6,0.3,.025,-2.7,-0.1,,NBA,3202217,22,24,27.3,.383,.813,3.9,3.0,1.0,0.2,16.7,CHI
+Zach LaVine,/players/l/lavinza01.html,2015,2019,"University of California, Los Angeles",true,"Bothell in Bothell, Washington",,,lavinza01,2018-19,CHI,26.4,0.5,.166,2.7,0.2,,NBA,,23,4,35.5,.571,.861,3.8,3.3,0.5,1.0,32.3,CHI

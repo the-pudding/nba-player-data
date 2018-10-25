@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-blueva01,2013-14,21,BOS,NBA,3,5.0,.500,.200,1.0,0.3,0.0,0.0,1.7,0.5,-0.1,-0.214,-13.9,0.0,,"Madison Memorial in Madison, Wisconsin",
-blueva01,2014-15,22,LAL,NBA,2,37.0,.300,.400,4.5,4.0,1.5,0.0,11.0,4.0,-0.2,-0.156,-8.5,-0.1,,"Madison Memorial in Madison, Wisconsin",
-blueva01,2015-16,23,Did Not Play,,,,,,,,,,,,,,,,,"Madison Memorial in Madison, Wisconsin",
-blueva01,2016-17,24,Did Not Play,,,,,,,,,,,,,,,,,"Madison Memorial in Madison, Wisconsin",
-blueva01,2017-18,25,Los Angeles Lakers,NBA,5,9.0,.200,.500,0.2,0.6,0.2,0.0,0.6,-1.8,-0.1,-0.103,-10.0,-0.1,,"Madison Memorial in Madison, Wisconsin",50000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Vander Blue,/players/b/blueva01.html,2014,2018,Marquette University,true,"Madison Memorial in Madison, Wisconsin",+0.53,0.03,blueva01,2013-14,BOS,0.5,-0.1,-0.214,-13.9,0.0,,21,NBA,3,5.0,.500,.200,1.0,0.3,0.0,0.0,1.7,BOS,
+Vander Blue,/players/b/blueva01.html,2014,2018,Marquette University,true,"Madison Memorial in Madison, Wisconsin",-0.55,0.09,blueva01,2014-15,LAL,4.0,-0.2,-0.156,-8.5,-0.1,,22,NBA,2,37.0,.300,.400,4.5,4.0,1.5,0.0,11.0,LAL,
+Vander Blue,/players/b/blueva01.html,2014,2018,Marquette University,true,"Madison Memorial in Madison, Wisconsin",,,blueva01,2015-16,Did Not Play,,,,,,,23,,,,,,,,,,,Did Not Play,
+Vander Blue,/players/b/blueva01.html,2014,2018,Marquette University,true,"Madison Memorial in Madison, Wisconsin",,,blueva01,2016-17,Did Not Play,,,,,,,24,,,,,,,,,,,Did Not Play,
+Vander Blue,/players/b/blueva01.html,2014,2018,Marquette University,true,"Madison Memorial in Madison, Wisconsin",-0.05,0.07,blueva01,2017-18,LAL,-1.8,-0.1,-0.103,-10.0,-0.1,,25,NBA,5,9.0,.200,.500,0.2,0.6,0.2,0.0,0.6,LAL,50000

@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-antetgi01,2013-14,19,Milwaukee Bucks,NBA,77,24.6,.414,.683,4.4,1.9,0.8,0.8,6.8,10.8,1.2,.031,-1.8,0.1,,1792560,
-antetgi01,2014-15,20,Milwaukee Bucks,NBA,81,31.4,.491,.741,6.7,2.6,0.9,1.0,12.7,14.8,6.2,.117,0.5,1.6,,1873200,
-antetgi01,2015-16,21,Milwaukee Bucks,NBA,80,35.3,.506,.724,7.7,4.3,1.2,1.4,16.9,18.8,7.1,.121,2.4,3.2,,1953960,
-antetgi01,2016-17,22,Milwaukee Bucks,NBA,80,35.6,.521,.770,8.8,5.4,1.6,1.9,22.9,26.1,12.4,.210,7.6,6.9,All-NBA (2nd),2995421,
-antetgi01,2017-18,23,Milwaukee Bucks,NBA,75,36.7,.529,.760,10.0,4.8,1.5,1.4,26.9,27.3,11.9,.207,5.8,5.4,All-NBA (2nd),22471910,
-antetgi01,2018-19,24,MIL,NBA,4,35.3,.474,.700,16.5,6.8,1.0,1.8,28.5,24.5,0.4,.150,6.5,0.3,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Giannis Antetokounmpo,/players/a/antetgi01.html,2014,2019,,true,,-0.47,2.33,antetgi01,2013-14,MIL,10.8,1.2,.031,-1.8,0.1,,NBA,1792560,19,77,24.6,.414,.683,4.4,1.9,0.8,0.8,6.8,MIL
+Giannis Antetokounmpo,/players/a/antetgi01.html,2014,2019,,true,,-0.12,3.99,antetgi01,2014-15,MIL,14.8,6.2,.117,0.5,1.6,,NBA,1873200,20,81,31.4,.491,.741,6.7,2.6,0.9,1.0,12.7,MIL
+Giannis Antetokounmpo,/players/a/antetgi01.html,2014,2019,,true,,+0.57,5.44,antetgi01,2015-16,MIL,18.8,7.1,.121,2.4,3.2,,NBA,1953960,21,80,35.3,.506,.724,7.7,4.3,1.2,1.4,16.9,MIL
+Giannis Antetokounmpo,/players/a/antetgi01.html,2014,2019,,true,,+3.96,12.76,antetgi01,2016-17,MIL,26.1,12.4,.210,7.6,6.9,All-NBA (2nd),NBA,2995421,22,80,35.6,.521,.770,8.8,5.4,1.6,1.9,22.9,MIL
+Giannis Antetokounmpo,/players/a/antetgi01.html,2014,2019,,true,,+3.99,12.57,antetgi01,2017-18,MIL,27.3,11.9,.207,5.8,5.4,All-NBA (2nd),NBA,22471910,23,75,36.7,.529,.760,10.0,4.8,1.5,1.4,26.9,MIL
+Giannis Antetokounmpo,/players/a/antetgi01.html,2014,2019,,true,,,,antetgi01,2018-19,MIL,24.5,0.4,.150,6.5,0.3,,NBA,,24,4,35.3,.474,.700,16.5,6.8,1.0,1.8,28.5,MIL

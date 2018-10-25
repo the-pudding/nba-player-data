@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-barneha02,2012-13,20,Golden State Warriors,NBA,81,25.4,.439,.758,4.1,1.2,0.6,0.2,9.2,11.0,2.8,.065,-2.4,-0.2,,2798040,"Ames in Ames, Iowa"
-barneha02,2013-14,21,Golden State Warriors,NBA,78,28.3,.399,.718,4.0,1.5,0.8,0.3,9.5,9.8,3.2,.070,-1.4,0.3,,2923920,"Ames in Ames, Iowa"
-barneha02,2014-15,22,Golden State Warriors,NBA,82,28.3,.482,.720,5.5,1.4,0.7,0.2,10.1,13.4,6.7,.139,1.1,1.8,,3049920,"Ames in Ames, Iowa"
-barneha02,2015-16,23,Golden State Warriors,NBA,66,30.9,.466,.761,4.9,1.8,0.6,0.2,11.7,12.3,4.9,.116,-0.2,0.9,,3873398,"Ames in Ames, Iowa"
-barneha02,2016-17,24,Dallas Mavericks,NBA,79,35.5,.468,.861,5.0,1.5,0.8,0.2,19.2,16.3,4.6,.078,-1.9,0.1,,22116750,"Ames in Ames, Iowa"
-barneha02,2017-18,25,Dallas Mavericks,NBA,77,34.2,.445,.827,6.1,2.0,0.6,0.2,18.9,15.8,3.8,.070,-2.1,-0.1,,23112004,"Ames in Ames, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Harrison Barnes,/players/b/barneha02.html,2013,2018,University of North Carolina,true,"Ames in Ames, Iowa",-0.17,3.58,barneha02,2012-13,GSW,11.0,2.8,.065,-2.4,-0.2,,NBA,2798040,20,81,25.4,.439,.758,4.1,1.2,0.6,0.2,9.2,GSW
+Harrison Barnes,/players/b/barneha02.html,2013,2018,University of North Carolina,true,"Ames in Ames, Iowa",-4.18,-3.05,barneha02,2013-14,GSW,9.8,3.2,.070,-1.4,0.3,,NBA,2923920,21,78,28.3,.399,.718,4.0,1.5,0.8,0.3,9.5,GSW
+Harrison Barnes,/players/b/barneha02.html,2013,2018,University of North Carolina,true,"Ames in Ames, Iowa",+0.73,6.13,barneha02,2014-15,GSW,13.4,6.7,.139,1.1,1.8,,NBA,3049920,22,82,28.3,.482,.720,5.5,1.4,0.7,0.2,10.1,GSW
+Harrison Barnes,/players/b/barneha02.html,2013,2018,University of North Carolina,true,"Ames in Ames, Iowa",-2.33,-0.02,barneha02,2015-16,GSW,12.3,4.9,.116,-0.2,0.9,,NBA,3873398,23,66,30.9,.466,.761,4.9,1.8,0.6,0.2,11.7,GSW
+Harrison Barnes,/players/b/barneha02.html,2013,2018,University of North Carolina,true,"Ames in Ames, Iowa",-0.21,3.92,barneha02,2016-17,DAL,16.3,4.6,.078,-1.9,0.1,,NBA,22116750,24,79,35.5,.468,.861,5.0,1.5,0.8,0.2,19.2,DAL
+Harrison Barnes,/players/b/barneha02.html,2013,2018,University of North Carolina,true,"Ames in Ames, Iowa",-2.82,-0.91,barneha02,2017-18,DAL,15.8,3.8,.070,-2.1,-0.1,,NBA,23112004,25,77,34.2,.445,.827,6.1,2.0,0.6,0.2,18.9,DAL

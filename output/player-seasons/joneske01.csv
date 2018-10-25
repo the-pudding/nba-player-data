@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-joneske01,2012-13,23,Cleveland Cavaliers,NBA,32,10.4,.402,.600,2.4,0.3,0.3,0.2,3.0,11.1,0.2,.032,-5.2,-0.3,,390027,"Mount Vernon in , New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Jones,/players/j/joneske01.html,2013,2013,West Virginia University,false,"Mount Vernon in , New York",-0.12,0.49,joneske01,2012-13,CLE,11.1,0.2,.032,-5.2,-0.3,,NBA,390027,23,32,10.4,.402,.600,2.4,0.3,0.3,0.2,3.0,CLE

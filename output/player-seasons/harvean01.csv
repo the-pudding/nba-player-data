@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harvean01,1993-94,23,Los Angeles Lakers,NBA,27,9.1,.367,.462,2.2,0.2,0.3,0.7,2.6,8.0,-0.2,-0.039,-7.0,-0.3,,150000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1994-95,24,Los Angeles Lakers,NBA,59,9.7,.438,.533,1.7,0.4,0.3,0.7,3.0,10.3,0.4,.032,-4.1,-0.3,,325000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1995-96,25,Vancouver Grizzlies,NBA,55,14.9,.371,.458,3.6,0.3,0.5,0.9,3.7,8.9,-0.3,-0.020,-6.4,-0.9,,400000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1995-96,25,Vancouver Grizzlies,NBA,18,22.8,.411,.465,5.2,0.5,0.8,1.2,5.4,9.7,0.1,.016,-4.6,-0.3,,400000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1995-96,25,Vancouver Grizzlies,NBA,37,11.1,.341,.450,2.9,0.2,0.4,0.7,2.9,8.2,-0.5,-0.055,-8.2,-0.6,,400000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1996-97,26,Seattle SuperSonics,NBA,6,4.3,.455,.833,1.7,0.2,0.0,0.7,2.5,23.2,0.1,.270,-0.8,0.0,,247500,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1997-98,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1998-99,28,"Did Not Play (other pro league—Greece, Spain)",,,,,,,,,,,,,,,,,,"Pascagoula in Pascagoula, Mississippi"
-harvean01,1999-00,29,Portland Trail Blazers,NBA,19,7.2,.567,.583,1.7,0.3,0.1,0.3,2.2,10.1,0.2,.067,-3.9,-0.1,,510000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,2000-01,30,Portland Trail Blazers,NBA,12,6.0,.464,.833,1.2,0.3,0.1,0.5,2.6,17.0,0.2,.135,-1.6,0.0,,611000,"Pascagoula in Pascagoula, Mississippi"
-harvean01,2001-02,31,Seattle SuperSonics,NBA,5,9.4,.333,.500,1.8,1.0,0.2,0.6,1.8,7.8,0.0,-0.007,-3.0,0.0,,715850,"Pascagoula in Pascagoula, Mississippi"
-harvean01,2002-03,32,Atlanta Hawks,NBA,4,8.0,.400,,1.5,0.0,0.3,1.0,1.0,2.9,0.0,-0.068,-8.8,-0.1,,60361,"Pascagoula in Pascagoula, Mississippi"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-1.59,0.11,harvean01,1993-94,LAL,8.0,-0.2,-0.039,-7.0,-0.3,,NBA,150000,23,27,9.1,.367,.462,2.2,0.2,0.3,0.7,2.6,LAL
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-1.90,0.15,harvean01,1994-95,LAL,10.3,0.4,.032,-4.1,-0.3,,NBA,325000,24,59,9.7,.438,.533,1.7,0.4,0.3,0.7,3.0,LAL
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-2.57,-0.20,harvean01,1995-96,TOT,8.9,-0.3,-0.020,-6.4,-0.9,,NBA,400000,25,55,14.9,.371,.458,3.6,0.3,0.5,0.9,3.7,"VAN,LAC"
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-0.13,0.04,harvean01,1996-97,SEA,23.2,0.1,.270,-0.8,0.0,,NBA,247500,26,6,4.3,.455,.833,1.7,0.2,0.0,0.7,2.5,SEA
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",,,harvean01,1997-98,Did Not Play (other pro league—Greece),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—Greece)
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",,,harvean01,1998-99,"Did Not Play (other pro league—Greece, Spain)",,,,,,,,,28,,,,,,,,,,"Did Not Play (other pro league—Greece, Spain)"
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-0.19,0.19,harvean01,1999-00,POR,10.1,0.2,.067,-3.9,-0.1,,NBA,510000,29,19,7.2,.567,.583,1.7,0.3,0.1,0.3,2.2,POR
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-0.46,0.10,harvean01,2000-01,POR,17.0,0.2,.135,-1.6,0.0,,NBA,611000,30,12,6.0,.464,.833,1.2,0.3,0.1,0.5,2.6,POR
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",+0.02,0.07,harvean01,2001-02,SEA,7.8,0.0,-0.007,-3.0,0.0,,NBA,715850,31,5,9.4,.333,.500,1.8,1.0,0.2,0.6,1.8,SEA
+Antonio Harvey,/players/h/harvean01.html,1994,2003,"Southern Illinois University, University of Georgia, Pfeiffer University",false,"Pascagoula in Pascagoula, Mississippi",-0.27,0.04,harvean01,2002-03,ATL,2.9,0.0,-0.068,-8.8,-0.1,,NBA,60361,32,4,8.0,.400,,1.5,0.0,0.3,1.0,1.0,ATL

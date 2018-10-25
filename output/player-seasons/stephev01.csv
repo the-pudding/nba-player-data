@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-stephev01,1988-89,22,Indiana Pacers,NBA,35,6.0,.319,.773,0.7,1.1,0.3,0.1,1.9,6.4,-0.4,-0.103,-7.3,-0.3,,100000,"Evanston Township in Evanston, Illinois"
-stephev01,1989-90,23,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Evanston Township in Evanston, Illinois"
-stephev01,1990-91,24,MIL,NBA,3,2.0,.667,1.000,0.0,0.7,0.0,0.0,2.0,44.3,0.1,.618,0.1,0.0,,,"Evanston Township in Evanston, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Everette Stephens,/players/s/stephev01.html,1989,1991,Purdue University,false,"Evanston Township in Evanston, Illinois",-1.68,0.08,stephev01,1988-89,IND,6.4,-0.4,-0.103,-7.3,-0.3,,NBA,100000,22,35,6.0,.319,.773,0.7,1.1,0.3,0.1,1.9,IND
+Everette Stephens,/players/s/stephev01.html,1989,1991,Purdue University,false,"Evanston Township in Evanston, Illinois",,,stephev01,1989-90,Did Not Play (other pro league—CBA),,,,,,,,,23,,,,,,,,,,Did Not Play (other pro league—CBA)
+Everette Stephens,/players/s/stephev01.html,1989,1991,Purdue University,false,"Evanston Township in Evanston, Illinois",+0.17,0.01,stephev01,1990-91,MIL,44.3,0.1,.618,0.1,0.0,,NBA,,24,3,2.0,.667,1.000,0.0,0.7,0.0,0.0,2.0,MIL

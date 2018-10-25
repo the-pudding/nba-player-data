@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-lynchke01,1991-92,23,CHH,NBA,55,14.9,.417,.761,1.5,1.5,0.7,0.2,4.1,7.7,0.2,.011,-4.1,-0.4,,"Thomas Jefferson in Bloomington, Minnesota",
-lynchke01,1992-93,24,Charlotte Hornets,NBA,40,8.1,.508,.684,0.9,0.6,0.3,0.2,2.2,7.6,0.2,.031,-3.6,-0.1,,"Thomas Jefferson in Bloomington, Minnesota",250000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Kevin Lynch,/players/l/lynchke01.html,1992,1993,University of Minnesota,false,"Thomas Jefferson in Bloomington, Minnesota",-3.28,-0.53,lynchke01,1991-92,CHH,7.7,0.2,.011,-4.1,-0.4,,23,NBA,55,14.9,.417,.761,1.5,1.5,0.7,0.2,4.1,CHH,
+Kevin Lynch,/players/l/lynchke01.html,1992,1993,University of Minnesota,false,"Thomas Jefferson in Bloomington, Minnesota",-2.65,-0.07,lynchke01,1992-93,CHH,7.6,0.2,.031,-3.6,-0.1,,24,NBA,40,8.1,.508,.684,0.9,0.6,0.3,0.2,2.2,CHH,250000

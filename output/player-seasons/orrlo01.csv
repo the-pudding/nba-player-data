@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-orrlo01,1980-81,22,IND,NBA,82,21.8,.491,.807,4.4,1.6,0.7,0.3,10.5,16.1,4.3,.116,-0.1,0.8,,"Withrow in Cincinnati, Ohio",
-orrlo01,1981-82,23,IND,NBA,80,24.4,.497,.799,4.1,1.7,0.7,0.3,11.5,14.9,4.3,.105,-0.3,0.8,,"Withrow in Cincinnati, Ohio",
-orrlo01,1982-83,24,NYK,NBA,82,20.3,.462,.800,2.8,1.1,0.8,0.3,8.4,13.3,3.8,.111,-0.2,0.8,,"Withrow in Cincinnati, Ohio",
-orrlo01,1983-84,25,NYK,NBA,78,21.0,.458,.820,2.9,0.8,0.8,0.2,8.9,12.4,3.5,.103,-1.3,0.3,,"Withrow in Cincinnati, Ohio",
-orrlo01,1984-85,26,New York Knicks,NBA,79,31.0,.486,.784,4.9,1.7,1.3,0.3,12.7,13.8,4.8,.093,0.7,1.7,,"Withrow in Cincinnati, Ohio",325000
-orrlo01,1985-86,27,New York Knicks,NBA,74,30.2,.445,.784,4.2,2.4,0.8,0.4,11.9,12.4,3.7,.080,-0.3,1.0,,"Withrow in Cincinnati, Ohio",425000
-orrlo01,1986-87,28,NYK,NBA,65,22.2,.427,.727,3.6,1.7,0.7,0.3,7.0,11.0,1.5,.050,-1.2,0.3,,"Withrow in Cincinnati, Ohio",
-orrlo01,1987-88,29,New York Knicks,NBA,29,6.2,.320,.500,1.2,0.3,0.2,0.0,1.4,2.7,-0.2,-0.059,-7.3,-0.2,,"Withrow in Cincinnati, Ohio",450000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-0.88,1.73,orrlo01,1980-81,IND,16.1,4.3,.116,-0.1,0.8,,22,NBA,82,21.8,.491,.807,4.4,1.6,0.7,0.3,10.5,IND,
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-1.23,1.33,orrlo01,1981-82,IND,14.9,4.3,.105,-0.3,0.8,,23,NBA,80,24.4,.497,.799,4.1,1.7,0.7,0.3,11.5,IND,
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-0.50,2.09,orrlo01,1982-83,NYK,13.3,3.8,.111,-0.2,0.8,,24,NBA,82,20.3,.462,.800,2.8,1.1,0.8,0.3,8.4,NYK,
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-1.17,1.36,orrlo01,1983-84,NYK,12.4,3.5,.103,-1.3,0.3,,25,NBA,78,21.0,.458,.820,2.9,0.8,0.8,0.2,8.9,NYK,
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-1.09,1.98,orrlo01,1984-85,NYK,13.8,4.8,.093,0.7,1.7,,26,NBA,79,31.0,.486,.784,4.9,1.7,1.3,0.3,12.7,NYK,325000
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-1.38,1.27,orrlo01,1985-86,NYK,12.4,3.7,.080,-0.3,1.0,,27,NBA,74,30.2,.445,.784,4.2,2.4,0.8,0.4,11.9,NYK,425000
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-2.71,-0.39,orrlo01,1986-87,NYK,11.0,1.5,.050,-1.2,0.3,,28,NBA,65,22.2,.427,.727,3.6,1.7,0.7,0.3,7.0,NYK,
+Louis Orr,/players/o/orrlo01.html,1981,1988,Syracuse University,false,"Withrow in Cincinnati, Ohio",-1.35,0.11,orrlo01,1987-88,NYK,2.7,-0.2,-0.059,-7.3,-0.2,,29,NBA,29,6.2,.320,.500,1.2,0.3,0.2,0.0,1.4,NYK,450000

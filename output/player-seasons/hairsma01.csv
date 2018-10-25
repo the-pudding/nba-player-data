@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hairsma01,2008-09,21,San Antonio Spurs,NBA,15,10.3,.490,.286,1.9,0.9,0.4,0.5,3.3,12.0,0.1,.045,-1.6,0.0,,351091,"Renaissance in Detroit, Michigan"
-hairsma01,2009-10,22,San Antonio Spurs,NBA,47,6.7,.526,.567,1.0,0.3,0.1,0.2,2.1,11.6,0.7,.107,-2.0,0.0,,736420,"Renaissance in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Malik Hairston,/players/h/hairsma01.html,2009,2010,University of Oregon,false,"Renaissance in Detroit, Michigan",+0.02,0.24,hairsma01,2008-09,SAS,12.0,0.1,.045,-1.6,0.0,,NBA,351091,21,15,10.3,.490,.286,1.9,0.9,0.4,0.5,3.3,SAS
+Malik Hairston,/players/h/hairsma01.html,2009,2010,University of Oregon,false,"Renaissance in Detroit, Michigan",-0.66,0.35,hairsma01,2009-10,SAS,11.6,0.7,.107,-2.0,0.0,,NBA,736420,22,47,6.7,.526,.567,1.0,0.3,0.1,0.2,2.1,SAS

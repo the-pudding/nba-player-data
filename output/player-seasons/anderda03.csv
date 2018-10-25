@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-anderda03,2009-10,29,Houston Rockets,NBA,63,14.1,.432,.687,3.3,0.7,0.2,0.2,5.8,12.1,1.3,.070,-3.8,-0.4,,2300000,
-anderda03,2010-11,30,New Orleans Hornets,NBA,40,9.3,.463,.636,2.1,0.3,0.1,0.2,3.4,10.9,0.3,.032,-5.3,-0.3,,2500000,
-anderda03,2010-11,30,New Orleans Hornets,NBA,11,13.6,.489,1.000,3.1,0.6,0.3,0.3,5.1,13.8,0.2,.063,-3.3,0.0,,2500000,
-anderda03,2010-11,30,New Orleans Hornets,NBA,29,7.7,.446,.467,1.7,0.2,0.1,0.2,2.7,8.9,0.1,.012,-6.6,-0.3,,2500000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+David Andersen,/players/a/anderda03.html,2010,2011,,false,,-0.67,0.97,anderda03,2009-10,HOU,12.1,1.3,.070,-3.8,-0.4,,NBA,2300000,29,63,14.1,.432,.687,3.3,0.7,0.2,0.2,5.8,HOU
+David Andersen,/players/a/anderda03.html,2010,2011,,false,,-1.33,0.24,anderda03,2010-11,TOT,10.9,0.3,.032,-5.3,-0.3,,NBA,2500000,30,40,9.3,.463,.636,2.1,0.3,0.1,0.2,3.4,"TOR,NOH"

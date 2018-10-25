@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksmi02,1987-88,23,Sacramento Kings,NBA,58,13.1,.374,.719,1.0,3.1,0.3,0.1,2.7,7.8,-0.2,-0.011,-7.3,-1.0,,115000,"South Lakes in Reston, Virginia"
-jacksmi02,1988-89,24,SAC,NBA,14,5.0,.375,.500,0.3,0.8,0.2,0.0,1.5,6.7,0.0,-0.008,-7.3,-0.1,,,"South Lakes in Reston, Virginia"
-jacksmi02,1989-90,25,SAC,NBA,17,3.4,.273,.500,0.4,0.5,0.3,0.0,0.6,8.1,0.0,-0.016,-4.1,0.0,,,"South Lakes in Reston, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Jackson,/players/j/jacksmi02.html,1988,1990,Georgetown University,false,"South Lakes in Reston, Virginia",-3.18,-0.43,jacksmi02,1987-88,SAC,7.8,-0.2,-0.011,-7.3,-1.0,,NBA,115000,23,58,13.1,.374,.719,1.0,3.1,0.3,0.1,2.7,SAC
+Michael Jackson,/players/j/jacksmi02.html,1988,1990,Georgetown University,false,"South Lakes in Reston, Virginia",-0.21,0.10,jacksmi02,1988-89,SAC,6.7,0.0,-0.008,-7.3,-0.1,,NBA,,24,14,5.0,.375,.500,0.3,0.8,0.2,0.0,1.5,SAC
+Michael Jackson,/players/j/jacksmi02.html,1988,1990,Georgetown University,false,"South Lakes in Reston, Virginia",-0.09,0.09,jacksmi02,1989-90,SAC,8.1,0.0,-0.016,-4.1,0.0,,NBA,,25,17,3.4,.273,.500,0.4,0.5,0.3,0.0,0.6,SAC

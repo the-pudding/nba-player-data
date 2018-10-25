@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-washiri01,1976-77,21,KCK,NBA,82,27.6,.431,.697,8.5,1.0,0.8,1.1,13.0,14.2,3.2,.068,-3.5,-0.9,,"Benson Polytechnic in Portland, Oregon"
-washiri01,1977-78,22,KCK,NBA,78,28.6,.477,.754,8.4,1.5,0.9,0.9,12.8,14.2,3.9,.085,-0.6,0.8,,"Benson Polytechnic in Portland, Oregon"
-washiri01,1978-79,23,KCK,NBA,18,8.9,.341,.625,2.7,0.4,0.4,0.2,2.1,5.3,0.0,-0.006,-5.7,-0.2,,"Benson Polytechnic in Portland, Oregon"
-washiri01,1979-80,24,MIL,NBA,75,14.6,.468,.605,3.7,0.7,0.3,0.6,5.9,12.3,2.0,.089,-2.5,-0.1,,"Benson Polytechnic in Portland, Oregon"
-washiri01,1980-81,25,"DAL,CLE",NBA,80,22.7,.455,.748,5.7,1.6,0.6,0.8,10.0,13.6,2.1,.056,-1.8,0.1,,"Benson Polytechnic in Portland, Oregon"
-washiri01,1981-82,26,CLE,NBA,18,17.4,.435,.600,4.2,0.8,0.4,0.1,6.1,7.1,-0.5,-0.072,-6.4,-0.4,,"Benson Polytechnic in Portland, Oregon"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Richard Washington,/players/w/washiri01.html,1977,1982,"University of California, Los Angeles",false,"Benson Polytechnic in Portland, Oregon",-0.52,2.63,washiri01,1976-77,KCK,14.2,3.2,.068,-3.5,-0.9,,21,NBA,82,27.6,.431,.697,8.5,1.0,0.8,1.1,13.0,KCK
+Richard Washington,/players/w/washiri01.html,1977,1982,"University of California, Los Angeles",false,"Benson Polytechnic in Portland, Oregon",-0.35,2.88,washiri01,1977-78,KCK,14.2,3.9,.085,-0.6,0.8,,22,NBA,78,28.6,.477,.754,8.4,1.5,0.9,0.9,12.8,KCK
+Richard Washington,/players/w/washiri01.html,1977,1982,"University of California, Los Angeles",false,"Benson Polytechnic in Portland, Oregon",-0.46,0.26,washiri01,1978-79,KCK,5.3,0.0,-0.006,-5.7,-0.2,,23,NBA,18,8.9,.341,.625,2.7,0.4,0.4,0.2,2.1,KCK
+Richard Washington,/players/w/washiri01.html,1977,1982,"University of California, Los Angeles",false,"Benson Polytechnic in Portland, Oregon",-0.49,1.44,washiri01,1979-80,MIL,12.3,2.0,.089,-2.5,-0.1,,24,NBA,75,14.6,.468,.605,3.7,0.7,0.3,0.6,5.9,MIL
+Richard Washington,/players/w/washiri01.html,1977,1982,"University of California, Los Angeles",false,"Benson Polytechnic in Portland, Oregon",-1.72,0.65,washiri01,1980-81,TOT,13.6,2.1,.056,-1.8,0.1,,25,NBA,80,22.7,.455,.748,5.7,1.6,0.6,0.8,10.0,"DAL,CLE"
+Richard Washington,/players/w/washiri01.html,1977,1982,"University of California, Los Angeles",false,"Benson Polytechnic in Portland, Oregon",-4.68,-0.49,washiri01,1981-82,CLE,7.1,-0.5,-0.072,-6.4,-0.4,,26,NBA,18,17.4,.435,.600,4.2,0.8,0.4,0.1,6.1,CLE

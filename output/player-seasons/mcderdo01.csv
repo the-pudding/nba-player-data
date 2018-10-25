@@ -1,10 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcderdo01,2014-15,23,Chicago Bulls,NBA,36,8.9,.402,.667,1.2,0.2,0.1,0.0,3.0,6.1,0.0,-0.005,-8.0,-0.5,,2277960,"Ames in Ames, Iowa"
-mcderdo01,2015-16,24,Chicago Bulls,NBA,81,23.0,.452,.857,2.4,0.7,0.2,0.1,9.4,10.9,2.8,.073,-3.1,-0.5,,2380440,"Ames in Ames, Iowa"
-mcderdo01,2016-17,25,Oklahoma City Thunder,NBA,66,22.8,.447,.845,2.7,0.9,0.2,0.1,9.0,10.7,2.6,.083,-3.5,-0.6,,2483040,"Ames in Ames, Iowa"
-mcderdo01,2016-17,25,Oklahoma City Thunder,NBA,44,24.5,.445,.881,3.0,1.0,0.3,0.1,10.2,11.3,1.9,.084,-2.9,-0.2,,2483040,"Ames in Ames, Iowa"
-mcderdo01,2016-17,25,Oklahoma City Thunder,NBA,22,19.5,.452,.706,2.2,0.6,0.1,0.0,6.6,9.3,0.7,.080,-4.9,-0.3,,2483040,"Ames in Ames, Iowa"
-mcderdo01,2017-18,26,Dallas Mavericks,NBA,81,21.8,.467,.790,2.5,1.0,0.2,0.2,7.8,10.4,2.3,.063,-2.4,-0.2,,3294994,"Ames in Ames, Iowa"
-mcderdo01,2017-18,26,Dallas Mavericks,NBA,55,21.3,.460,.755,2.4,0.9,0.2,0.2,7.2,9.9,1.3,.055,-2.5,-0.1,,3294994,"Ames in Ames, Iowa"
-mcderdo01,2017-18,26,Dallas Mavericks,NBA,26,22.9,.478,.857,2.5,1.1,0.3,0.2,9.0,11.5,1.0,.077,-2.2,0.0,,3294994,"Ames in Ames, Iowa"
-mcderdo01,2018-19,27,IND,NBA,5,19.8,.581,.667,1.6,1.2,0.4,0.0,9.6,17.4,0.5,.241,4.8,0.2,,,"Ames in Ames, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Doug McDermott,/players/m/mcderdo01.html,2015,2019,Creighton University,true,"Ames in Ames, Iowa",-3.85,-0.37,mcderdo01,2014-15,CHI,6.1,0.0,-0.005,-8.0,-0.5,,NBA,2277960,23,36,8.9,.402,.667,1.2,0.2,0.1,0.0,3.0,CHI
+Doug McDermott,/players/m/mcderdo01.html,2015,2019,Creighton University,true,"Ames in Ames, Iowa",-2.81,-0.71,mcderdo01,2015-16,CHI,10.9,2.8,.073,-3.1,-0.5,,NBA,2380440,24,81,23.0,.452,.857,2.4,0.7,0.2,0.1,9.4,CHI
+Doug McDermott,/players/m/mcderdo01.html,2015,2019,Creighton University,true,"Ames in Ames, Iowa",-2.63,-0.29,mcderdo01,2016-17,TOT,10.7,2.6,.083,-3.5,-0.6,,NBA,2483040,25,66,22.8,.447,.845,2.7,0.9,0.2,0.1,9.0,"CHI,OKC"
+Doug McDermott,/players/m/mcderdo01.html,2015,2019,Creighton University,true,"Ames in Ames, Iowa",-1.50,0.94,mcderdo01,2017-18,TOT,10.4,2.3,.063,-2.4,-0.2,,NBA,3294994,26,81,21.8,.467,.790,2.5,1.0,0.2,0.2,7.8,"NYK,DAL"
+Doug McDermott,/players/m/mcderdo01.html,2015,2019,Creighton University,true,"Ames in Ames, Iowa",,,mcderdo01,2018-19,IND,17.4,0.5,.241,4.8,0.2,,NBA,,27,5,19.8,.581,.667,1.6,1.2,0.4,0.0,9.6,IND

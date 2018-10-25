@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-gordola01,1984-85,22,LAC,NBA,63,10.8,.383,.755,1.0,1.4,0.5,0.1,4.1,8.2,-0.8,-0.055,-6.3,-0.7,,"Jim Hill in Jackson, Mississippi",
-gordola01,1985-86,23,Los Angeles Clippers,NBA,60,11.7,.377,.804,1.1,1.0,0.6,0.2,5.2,7.8,-1.1,-0.072,-7.4,-1.0,,"Jim Hill in Jackson, Mississippi",200000
-gordola01,1986-87,24,LAC,NBA,70,16.1,.406,.737,1.8,2.0,0.9,0.2,7.5,11.3,-0.8,-0.033,-4.3,-0.7,,"Jim Hill in Jackson, Mississippi",
-gordola01,1987-88,25,LAC,NBA,8,8.1,.355,1.000,0.5,0.9,0.1,0.3,3.5,8.0,0.0,-0.035,-8.9,-0.1,,"Jim Hill in Jackson, Mississippi",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Lancaster Gordon,/players/g/gordola01.html,1985,1988,University of Louisville,false,"Jim Hill in Jackson, Mississippi",-3.56,-0.58,gordola01,1984-85,LAC,8.2,-0.8,-0.055,-6.3,-0.7,,22,NBA,63,10.8,.383,.755,1.0,1.4,0.5,0.1,4.1,LAC,
+Lancaster Gordon,/players/g/gordola01.html,1985,1988,University of Louisville,false,"Jim Hill in Jackson, Mississippi",-4.35,-0.94,gordola01,1985-86,LAC,7.8,-1.1,-0.072,-7.4,-1.0,,23,NBA,60,11.7,.377,.804,1.1,1.0,0.6,0.2,5.2,LAC,200000
+Lancaster Gordon,/players/g/gordola01.html,1985,1988,University of Louisville,false,"Jim Hill in Jackson, Mississippi",-3.77,-1.12,gordola01,1986-87,LAC,11.3,-0.8,-0.033,-4.3,-0.7,,24,NBA,70,16.1,.406,.737,1.8,2.0,0.9,0.2,7.5,LAC,
+Lancaster Gordon,/players/g/gordola01.html,1985,1988,University of Louisville,false,"Jim Hill in Jackson, Mississippi",-0.09,0.10,gordola01,1987-88,LAC,8.0,0.0,-0.035,-8.9,-0.1,,25,NBA,8,8.1,.355,1.000,0.5,0.9,0.1,0.3,3.5,LAC,

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ewingda01,2005-06,22,Los Angeles Clippers,NBA,66,14.7,.380,.783,1.3,1.3,0.6,0.1,3.8,7.6,0.3,.017,-3.5,-0.4,,450000,"Willowridge in Houston, Texas"
-ewingda01,2006-07,23,Los Angeles Clippers,NBA,61,11.7,.404,.778,1.2,1.5,0.5,0.1,2.9,9.3,0.5,.033,-4.0,-0.4,,664209,"Willowridge in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Daniel Ewing,/players/e/ewingda01.html,2006,2007,Duke University,false,"Willowridge in Houston, Texas",-2.70,-0.32,ewingda01,2005-06,LAC,7.6,0.3,.017,-3.5,-0.4,,NBA,450000,22,66,14.7,.380,.783,1.3,1.3,0.6,0.1,3.8,LAC
+Daniel Ewing,/players/e/ewingda01.html,2006,2007,Duke University,false,"Willowridge in Houston, Texas",-0.95,0.63,ewingda01,2006-07,LAC,9.3,0.5,.033,-4.0,-0.4,,NBA,664209,23,61,11.7,.404,.778,1.2,1.5,0.5,0.1,2.9,LAC

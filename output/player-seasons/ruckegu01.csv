@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ruckegu01,2002-03,25,Golden State Warriors,NBA,3,1.3,,,0.3,0.3,0.0,0.0,0.0,7.8,0.0,.117,-5.2,0.0,,34946,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Guy Rucker,/players/r/ruckegu01.html,2003,2003,University of Iowa,false,,+0.12,0.01,ruckegu01,2002-03,GSW,7.8,0.0,.117,-5.2,0.0,,NBA,34946,25,3,1.3,,,0.3,0.3,0.0,0.0,0.0,GSW

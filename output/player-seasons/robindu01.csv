@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-robindu01,2018-19,24,MIA,NBA,1,10.0,.333,,4.0,0.0,1.0,0.0,3.0,14.6,0.0,.181,-3.3,0.0,,"Phillips Exeter Academy in Exeter, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Duncan Robinson,/players/r/robindu01.html,2019,2019,University of Michigan,true,"Phillips Exeter Academy in Exeter, New Hampshire",,,robindu01,2018-19,MIA,14.6,0.0,.181,-3.3,0.0,,24,NBA,1,10.0,.333,,4.0,0.0,1.0,0.0,3.0,MIA

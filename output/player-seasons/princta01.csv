@@ -1,20 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-princta01,2002-03,22,Detroit Pistons,NBA,42,10.4,.449,.647,1.1,0.6,0.2,0.3,3.3,11.7,0.8,.084,-2.0,0.0,,903360,"Dominguez in Compton, California"
-princta01,2003-04,23,Detroit Pistons,NBA,82,32.9,.467,.766,4.8,2.3,0.8,0.8,10.3,13.3,7.5,.134,2.1,2.8,,971160,"Dominguez in Compton, California"
-princta01,2004-05,24,Detroit Pistons,NBA,82,37.1,.487,.807,5.3,3.0,0.7,0.9,14.7,16.2,9.4,.149,2.4,3.4,,1038960,"Dominguez in Compton, California"
-princta01,2005-06,25,Detroit Pistons,NBA,82,35.3,.455,.765,4.2,2.3,0.8,0.5,14.1,14.8,7.0,.115,0.4,1.8,,1763115,"Dominguez in Compton, California"
-princta01,2006-07,26,Detroit Pistons,NBA,82,36.6,.460,.768,5.2,2.8,0.6,0.7,14.3,16.0,8.0,.128,2.0,3.0,,7851240,"Dominguez in Compton, California"
-princta01,2007-08,27,Detroit Pistons,NBA,82,32.9,.448,.768,4.9,3.3,0.5,0.4,13.2,15.6,7.5,.133,1.6,2.5,,8675620,"Dominguez in Compton, California"
-princta01,2008-09,28,Detroit Pistons,NBA,82,37.3,.450,.778,5.8,3.1,0.5,0.6,14.2,15.0,6.2,.098,0.8,2.2,,9500000,"Dominguez in Compton, California"
-princta01,2009-10,29,Detroit Pistons,NBA,49,34.0,.486,.714,5.1,3.3,0.7,0.4,13.5,16.0,3.2,.091,0.7,1.1,,10324380,"Dominguez in Compton, California"
-princta01,2010-11,30,Detroit Pistons,NBA,78,32.8,.473,.702,4.2,2.8,0.4,0.5,14.1,15.1,3.3,.062,-1.7,0.2,,11148760,"Dominguez in Compton, California"
-princta01,2011-12,31,Detroit Pistons,NBA,63,33.1,.421,.774,4.5,2.4,0.4,0.5,12.7,12.8,2.1,.048,-2.2,-0.1,,6292135,"Dominguez in Compton, California"
-princta01,2012-13,32,Memphis Grizzlies,NBA,82,32.1,.438,.738,4.4,2.4,0.6,0.3,10.4,11.5,3.6,.065,-1.6,0.3,,6764045,"Dominguez in Compton, California"
-princta01,2012-13,32,Memphis Grizzlies,NBA,45,32.4,.444,.796,4.6,2.5,0.5,0.3,11.7,12.5,1.7,.057,-2.2,-0.1,,6764045,"Dominguez in Compton, California"
-princta01,2012-13,32,Memphis Grizzlies,NBA,37,31.7,.429,.595,4.2,2.3,0.7,0.3,8.8,10.2,1.8,.075,-0.9,0.3,,6764045,"Dominguez in Compton, California"
-princta01,2013-14,33,Memphis Grizzlies,NBA,76,25.6,.407,.567,3.1,1.6,0.5,0.3,6.0,8.2,1.5,.038,-2.6,-0.3,,7235955,"Dominguez in Compton, California"
-princta01,2014-15,34,Detroit Pistons,NBA,58,24.1,.440,.754,3.6,1.6,0.5,0.3,7.5,12.0,2.5,.086,-1.3,0.2,,7707865,"Dominguez in Compton, California"
-princta01,2014-15,34,Detroit Pistons,NBA,26,24.2,.410,.833,3.2,1.4,0.3,0.2,7.3,10.6,1.0,.073,-2.0,0.0,,7707865,"Dominguez in Compton, California"
-princta01,2014-15,34,Detroit Pistons,NBA,9,22.0,.559,.833,3.3,2.0,0.6,0.2,8.4,16.9,0.7,.165,0.6,0.1,,7707865,"Dominguez in Compton, California"
-princta01,2014-15,34,Detroit Pistons,NBA,23,24.8,.431,.655,4.2,1.7,0.7,0.3,7.3,11.8,0.9,.072,-1.3,0.1,,7707865,"Dominguez in Compton, California"
-princta01,2015-16,35,Minnesota Timberwolves,NBA,77,19.0,.445,.684,1.9,0.9,0.5,0.2,2.9,6.3,0.4,.014,-3.1,-0.4,,1499187,"Dominguez in Compton, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-0.73,0.83,princta01,2002-03,DET,11.7,0.8,.084,-2.0,0.0,,NBA,903360,22,42,10.4,.449,.647,1.1,0.6,0.2,0.3,3.3,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",+1.54,9.35,princta01,2003-04,DET,13.3,7.5,.134,2.1,2.8,,NBA,971160,23,82,32.9,.467,.766,4.8,2.3,0.8,0.8,10.3,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",+3.54,16.12,princta01,2004-05,DET,16.2,9.4,.149,2.4,3.4,,NBA,1038960,24,82,37.1,.487,.807,5.3,3.0,0.7,0.9,14.7,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",+2.64,12.05,princta01,2005-06,DET,14.8,7.0,.115,0.4,1.8,,NBA,1763115,25,82,35.3,.455,.765,4.2,2.3,0.8,0.5,14.1,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",+2.13,10.90,princta01,2006-07,DET,16.0,8.0,.128,2.0,3.0,,NBA,7851240,26,82,36.6,.460,.768,5.2,2.8,0.6,0.7,14.3,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",+2.40,10.56,princta01,2007-08,DET,15.6,7.5,.133,1.6,2.5,,NBA,8675620,27,82,32.9,.448,.768,4.9,3.3,0.5,0.4,13.2,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-1.04,2.70,princta01,2008-09,DET,15.0,6.2,.098,0.8,2.2,,NBA,9500000,28,82,37.3,.450,.778,5.8,3.1,0.5,0.6,14.2,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-0.64,1.86,princta01,2009-10,DET,16.0,3.2,.091,0.7,1.1,,NBA,10324380,29,49,34.0,.486,.714,5.1,3.3,0.7,0.4,13.5,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-0.72,2.73,princta01,2010-11,DET,15.1,3.3,.062,-1.7,0.2,,NBA,11148760,30,78,32.8,.473,.702,4.2,2.8,0.4,0.5,14.1,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-2.46,-0.32,princta01,2011-12,DET,12.8,2.1,.048,-2.2,-0.1,,NBA,6292135,31,63,33.1,.421,.774,4.5,2.4,0.4,0.5,12.7,DET
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-0.77,3.09,princta01,2012-13,TOT,11.5,3.6,.065,-1.6,0.3,,NBA,6764045,32,82,32.1,.438,.738,4.4,2.4,0.6,0.3,10.4,"DET,MEM"
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-1.16,1.51,princta01,2013-14,MEM,8.2,1.5,.038,-2.6,-0.3,,NBA,7235955,33,76,25.6,.407,.567,3.1,1.6,0.5,0.3,6.0,MEM
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-1.98,0.24,princta01,2014-15,TOT,12.0,2.5,.086,-1.3,0.2,,NBA,7707865,34,58,24.1,.440,.754,3.6,1.6,0.5,0.3,7.5,"MEM,BOS,DET"
+Tayshaun Prince,/players/p/princta01.html,2003,2016,University of Kentucky,false,"Dominguez in Compton, California",-2.82,-0.57,princta01,2015-16,MIN,6.3,0.4,.014,-3.1,-0.4,,NBA,1499187,35,77,19.0,.445,.684,1.9,0.9,0.5,0.2,2.9,MIN

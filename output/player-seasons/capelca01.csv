@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-capelca01,2014-15,20,Houston Rockets,NBA,12,7.5,.483,.174,3.0,0.2,0.1,0.8,2.7,12.1,0.0,.019,-7.8,-0.1,,1189200,
-capelca01,2015-16,21,Houston Rockets,NBA,77,19.1,.582,.379,6.4,0.6,0.8,1.2,7.0,18.3,4.4,.144,0.5,0.9,,1242720,
-capelca01,2016-17,22,Houston Rockets,NBA,65,23.9,.643,.531,8.1,1.0,0.5,1.2,12.6,21.4,5.9,.184,0.9,1.1,,1296240,
-capelca01,2017-18,23,Houston Rockets,NBA,74,27.5,.652,.560,10.8,0.9,0.8,1.9,13.9,24.5,10.2,.242,3.0,2.6,,2334520,
-capelca01,2018-19,24,HOU,NBA,4,32.8,.604,.286,9.5,2.0,0.3,1.8,15.0,17.1,0.2,.075,0.0,0.1,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Clint Capela,/players/c/capelca01.html,2015,2019,,true,,-0.39,0.28,capelca01,2014-15,HOU,12.1,0.0,.019,-7.8,-0.1,,NBA,1189200,20,12,7.5,.483,.174,3.0,0.2,0.1,0.8,2.7,HOU
+Clint Capela,/players/c/capelca01.html,2015,2019,,true,,+1.47,3.85,capelca01,2015-16,HOU,18.3,4.4,.144,0.5,0.9,,NBA,1242720,21,77,19.1,.582,.379,6.4,0.6,0.8,1.2,7.0,HOU
+Clint Capela,/players/c/capelca01.html,2015,2019,,true,,+1.86,5.03,capelca01,2016-17,HOU,21.4,5.9,.184,0.9,1.1,,NBA,1296240,22,65,23.9,.643,.531,8.1,1.0,0.5,1.2,12.6,HOU
+Clint Capela,/players/c/capelca01.html,2015,2019,,true,,+3.61,9.86,capelca01,2017-18,HOU,24.5,10.2,.242,3.0,2.6,,NBA,2334520,23,74,27.5,.652,.560,10.8,0.9,0.8,1.9,13.9,HOU
+Clint Capela,/players/c/capelca01.html,2015,2019,,true,,,,capelca01,2018-19,HOU,17.1,0.2,.075,0.0,0.1,,NBA,,24,4,32.8,.604,.286,9.5,2.0,0.3,1.8,15.0,HOU

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thompmy02,2011-12,23,Cleveland Cavaliers,NBA,5,19.0,.292,,1.0,1.4,0.4,0.2,3.6,2.2,-0.2,-0.079,-8.3,-0.2,,168035,"Santa Margarita in Rancho Santa Margarita, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mychel Thompson,/players/t/thompmy02.html,2012,2012,Pepperdine University,false,"Santa Margarita in Rancho Santa Margarita, California",-0.26,0.13,thompmy02,2011-12,CLE,2.2,-0.2,-0.079,-8.3,-0.2,,NBA,168035,23,5,19.0,.292,,1.0,1.4,0.4,0.2,3.6,CLE

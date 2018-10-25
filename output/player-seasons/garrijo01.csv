@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-garrijo01,1983-84,24,CLE,NBA,33,8.1,.510,.794,2.3,0.3,0.2,0.2,4.0,18.5,0.9,.166,-0.6,0.1,,"Bassick in Bridgeport, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Garris,/players/g/garrijo01.html,1984,1984,"University of Michigan, Boston College",false,"Bassick in Bridgeport, Connecticut",+0.17,0.44,garrijo01,1983-84,CLE,18.5,0.9,.166,-0.6,0.1,,24,NBA,33,8.1,.510,.794,2.3,0.3,0.2,0.2,4.0,CLE

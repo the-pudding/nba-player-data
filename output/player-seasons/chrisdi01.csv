@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-chrisdi01,2013-14,27,PHO,NBA,31,6.4,.355,.750,1.2,0.3,0.1,0.1,2.3,11.1,0.3,.083,-3.6,-0.1,,"Samuel Fels in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dionte Christmas,/players/c/chrisdi01.html,2014,2014,Temple University,false,"Samuel Fels in Philadelphia, Pennsylvania",-1.22,0.14,chrisdi01,2013-14,PHO,11.1,0.3,.083,-3.6,-0.1,,27,NBA,31,6.4,.355,.750,1.2,0.3,0.1,0.1,2.3,PHO

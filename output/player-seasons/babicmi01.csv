@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-babicmi01,1990-91,22,Cleveland Cavaliers,NBA,12,4.3,.316,.583,0.8,0.3,0.1,0.1,1.6,6.0,-0.1,-0.085,-8.6,-0.1,,200000,"Kraljevo in Kraljevo, Serbia"
-babicmi01,1991-92,23,MIA,NBA,9,3.9,.462,.750,1.2,0.7,0.1,0.0,2.0,18.3,0.0,.057,-3.0,0.0,,,"Kraljevo in Kraljevo, Serbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Milos Babic,/players/b/babicmi01.html,1991,1992,Tennessee Technological University,false,"Kraljevo in Kraljevo, Serbia",-0.19,0.07,babicmi01,1990-91,CLE,6.0,-0.1,-0.085,-8.6,-0.1,,NBA,200000,22,12,4.3,.316,.583,0.8,0.3,0.1,0.1,1.6,CLE
+Milos Babic,/players/b/babicmi01.html,1991,1992,Tennessee Technological University,false,"Kraljevo in Kraljevo, Serbia",+0.04,0.05,babicmi01,1991-92,MIA,18.3,0.0,.057,-3.0,0.0,,NBA,,23,9,3.9,.462,.750,1.2,0.7,0.1,0.0,2.0,MIA

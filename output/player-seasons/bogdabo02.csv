@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bogdabo02,2014-15,25,Brooklyn Nets,NBA,78,23.8,.453,.821,2.7,0.9,0.4,0.1,9.0,11.6,2.4,.062,-1.8,0.1,,3278000,
-bogdabo02,2015-16,26,Brooklyn Nets,NBA,79,26.8,.433,.833,3.2,1.3,0.4,0.1,11.2,10.7,0.9,.021,-3.4,-0.8,,3425510,
-bogdabo02,2016-17,27,Washington Wizards,NBA,81,25.7,.445,.893,3.4,1.4,0.4,0.1,13.7,13.5,2.9,.067,-2.9,-0.5,,3730653,
-bogdabo02,2016-17,27,Washington Wizards,NBA,55,26.9,.440,.874,3.6,1.6,0.4,0.1,14.2,13.0,1.6,.052,-3.0,-0.4,,3730653,
-bogdabo02,2016-17,27,Washington Wizards,NBA,26,23.1,.457,.934,3.1,0.8,0.4,0.2,12.7,14.7,1.3,.103,-2.6,-0.1,,3730653,
-bogdabo02,2017-18,28,Indiana Pacers,NBA,80,30.8,.474,.868,3.4,1.5,0.7,0.1,14.3,13.9,5.4,.105,-0.7,0.8,,10500000,
-bogdabo02,2018-19,29,IND,NBA,5,28.4,.535,.875,4.4,0.2,0.0,0.0,12.8,11.5,0.3,.099,-2.8,0.0,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bojan Bogdanovic,/players/b/bogdabo02.html,2015,2019,,true,,-3.05,-1.06,bogdabo02,2014-15,BRK,11.6,2.4,.062,-1.8,0.1,,NBA,3278000,25,78,23.8,.453,.821,2.7,0.9,0.4,0.1,9.0,BRK
+Bojan Bogdanovic,/players/b/bogdabo02.html,2015,2019,,true,,-4.83,-3.52,bogdabo02,2015-16,BRK,10.7,0.9,.021,-3.4,-0.8,,NBA,3425510,26,79,26.8,.433,.833,3.2,1.3,0.4,0.1,11.2,BRK
+Bojan Bogdanovic,/players/b/bogdabo02.html,2015,2019,,true,,-3.82,-2.24,bogdabo02,2016-17,TOT,13.5,2.9,.067,-2.9,-0.5,,NBA,3730653,27,81,25.7,.445,.893,3.4,1.4,0.4,0.1,13.7,"BRK,WAS"
+Bojan Bogdanovic,/players/b/bogdabo02.html,2015,2019,,true,,-0.47,3.31,bogdabo02,2017-18,IND,13.9,5.4,.105,-0.7,0.8,,NBA,10500000,28,80,30.8,.474,.868,3.4,1.5,0.7,0.1,14.3,IND
+Bojan Bogdanovic,/players/b/bogdabo02.html,2015,2019,,true,,,,bogdabo02,2018-19,IND,11.5,0.3,.099,-2.8,0.0,,NBA,,29,5,28.4,.535,.875,4.4,0.2,0.0,0.0,12.8,IND

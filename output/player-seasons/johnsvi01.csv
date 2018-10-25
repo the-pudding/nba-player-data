@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-johnsvi01,1979-80,23,SEA,NBA,38,8.6,.391,.795,1.4,1.4,0.5,0.1,3.2,10.9,0.2,.031,-2.8,-0.1,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1980-81,24,SEA,NBA,81,28.5,.534,.793,4.5,4.2,1.0,0.2,13.0,16.8,5.9,.122,2.6,2.7,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1981-82,25,"SEA,DET",NBA,74,17.5,.489,.754,2.1,2.3,0.8,0.3,7.4,14.5,2.7,.098,-0.2,0.6,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1982-83,26,DET,NBA,82,30.6,.513,.778,4.3,3.7,1.1,0.6,15.8,17.6,7.7,.147,2.1,2.6,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1983-84,27,DET,NBA,82,23.3,.473,.753,2.9,3.3,0.5,0.2,13.0,15.9,4.1,.103,-0.2,0.9,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1984-85,28,Detroit Pistons,NBA,82,25.5,.454,.769,3.1,4.0,0.9,0.2,12.8,14.9,4.2,.097,0.4,1.3,,"Franklin D. Roosevelt in Brooklyn, New York",625000
-johnsvi01,1985-86,29,Detroit Pistons,NBA,79,25.0,.467,.771,2.9,3.4,1.0,0.3,13.9,17.0,4.7,.115,1.0,1.5,,"Franklin D. Roosevelt in Brooklyn, New York",491666
-johnsvi01,1986-87,30,DET,NBA,78,27.8,.462,.786,3.3,3.8,1.2,0.2,15.7,17.0,4.8,.107,1.1,1.7,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1987-88,31,Detroit Pistons,NBA,82,23.6,.443,.677,2.8,3.3,0.7,0.2,12.2,13.8,2.3,.056,-1.5,0.3,,"Franklin D. Roosevelt in Brooklyn, New York",633000
-johnsvi01,1988-89,32,Detroit Pistons,NBA,82,25.3,.464,.734,3.1,3.0,0.9,0.2,13.8,17.3,5.9,.136,1.5,1.8,,"Franklin D. Roosevelt in Brooklyn, New York",633000
-johnsvi01,1989-90,33,DET,NBA,82,24.0,.431,.668,3.1,3.1,0.9,0.2,9.8,12.9,3.2,.079,-0.2,0.9,,"Franklin D. Roosevelt in Brooklyn, New York",
-johnsvi01,1990-91,34,Detroit Pistons,NBA,82,29.1,.434,.646,3.4,3.3,0.9,0.2,11.7,12.8,3.8,.077,-0.1,1.2,,"Franklin D. Roosevelt in Brooklyn, New York",1400000
-johnsvi01,1991-92,35,Detroit Pistons,NBA,60,22.5,.405,.647,3.0,2.4,0.7,0.2,8.0,10.4,1.2,.042,-2.3,-0.1,,"Franklin D. Roosevelt in Brooklyn, New York",1450000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.96,0.29,johnsvi01,1979-80,SEA,10.9,0.2,.031,-2.8,-0.1,,23,NBA,38,8.6,.391,.795,1.4,1.4,0.5,0.1,3.2,SEA,
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",+0.02,3.59,johnsvi01,1980-81,SEA,16.8,5.9,.122,2.6,2.7,,24,NBA,81,28.5,.534,.793,4.5,4.2,1.0,0.2,13.0,SEA,
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.93,1.16,johnsvi01,1981-82,TOT,14.5,2.7,.098,-0.2,0.6,,25,NBA,74,17.5,.489,.754,2.1,2.3,0.8,0.3,7.4,"SEA,DET",
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",+0.58,4.87,johnsvi01,1982-83,DET,17.6,7.7,.147,2.1,2.6,,26,NBA,82,30.6,.513,.778,4.3,3.7,1.1,0.6,15.8,DET,
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-1.19,1.54,johnsvi01,1983-84,DET,15.9,4.1,.103,-0.2,0.9,,27,NBA,82,23.3,.473,.753,2.9,3.3,0.5,0.2,13.0,DET,
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.74,2.43,johnsvi01,1984-85,DET,14.9,4.2,.097,0.4,1.3,,28,NBA,82,25.5,.454,.769,3.1,4.0,0.9,0.2,12.8,DET,625000
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.18,2.94,johnsvi01,1985-86,DET,17.0,4.7,.115,1.0,1.5,,29,NBA,79,25.0,.467,.771,2.9,3.4,1.0,0.3,13.9,DET,491666
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.26,3.49,johnsvi01,1986-87,DET,17.0,4.8,.107,1.1,1.7,,30,NBA,78,27.8,.462,.786,3.3,3.8,1.2,0.2,15.7,DET,
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-1.29,1.62,johnsvi01,1987-88,DET,13.8,2.3,.056,-1.5,0.3,,31,NBA,82,23.6,.443,.677,2.8,3.3,0.7,0.2,12.2,DET,633000
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",+0.93,5.30,johnsvi01,1988-89,DET,17.3,5.9,.136,1.5,1.8,,32,NBA,82,25.3,.464,.734,3.1,3.0,0.9,0.2,13.8,DET,633000
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.79,2.44,johnsvi01,1989-90,DET,12.9,3.2,.079,-0.2,0.9,,33,NBA,82,24.0,.431,.668,3.1,3.1,0.9,0.2,9.8,DET,
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-0.43,3.52,johnsvi01,1990-91,DET,12.8,3.8,.077,-0.1,1.2,,34,NBA,82,29.1,.434,.646,3.4,3.3,0.9,0.2,11.7,DET,1400000
+Vinnie Johnson,/players/j/johnsvi01.html,1980,1992,Baylor University,false,"Franklin D. Roosevelt in Brooklyn, New York",-2.16,0.08,johnsvi01,1991-92,SAS,10.4,1.2,.042,-2.3,-0.1,,35,NBA,60,22.5,.405,.647,3.0,2.4,0.7,0.2,8.0,SAS,1450000

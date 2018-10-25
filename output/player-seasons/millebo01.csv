@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-millebo01,1983-84,27,SAS,NBA,2,4.0,.667,,2.5,0.5,0.0,0.5,2.0,25.0,0.1,.360,11.0,0.0,,"Central in Louisville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bob Miller,/players/m/millebo01.html,1984,1984,University of Cincinnati,false,"Central in Louisville, Kentucky",-0.26,0.01,millebo01,1983-84,SAS,25.0,0.1,.360,11.0,0.0,,27,NBA,2,4.0,.667,,2.5,0.5,0.0,0.5,2.0,SAS

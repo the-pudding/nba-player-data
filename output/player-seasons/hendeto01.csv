@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hendeto01,1976-77,25,"ATL,WSB",NBA,87,32.1,.449,.744,2.7,6.9,1.6,0.2,11.2,15.0,4.7,.080,0.1,1.5,,"DeWitt Clinton in Bronx, New York"
-hendeto01,1977-78,26,WSB,NBA,75,30.9,.432,.746,2.6,5.4,1.2,0.2,11.4,12.6,3.1,.064,-1.3,0.4,,"DeWitt Clinton in Bronx, New York"
-hendeto01,1978-79,27,WSB,NBA,70,29.7,.466,.800,2.3,6.0,1.2,0.1,10.8,13.9,4.5,.103,-0.2,0.9,,"DeWitt Clinton in Bronx, New York"
-hendeto01,1979-80,28,HOU,NBA,66,23.5,.477,.727,1.7,4.2,0.8,0.1,5.5,9.7,1.3,.041,-3.1,-0.4,,"DeWitt Clinton in Bronx, New York"
-hendeto01,1980-81,29,HOU,NBA,66,21.4,.413,.821,1.6,4.7,0.8,0.1,5.3,10.9,1.5,.052,-3.4,-0.5,,"DeWitt Clinton in Bronx, New York"
-hendeto01,1981-82,30,HOU,NBA,75,22.9,.454,.700,1.8,4.1,0.7,0.1,6.3,11.0,2.1,.059,-2.9,-0.4,,"DeWitt Clinton in Bronx, New York"
-hendeto01,1982-83,31,HOU,NBA,51,15.5,.407,.789,1.4,2.7,0.7,0.0,5.1,11.5,0.4,.022,-4.6,-0.5,,"DeWitt Clinton in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",+0.28,5.43,hendeto01,1976-77,TOT,15.0,4.7,.080,0.1,1.5,,25,NBA,87,32.1,.449,.744,2.7,6.9,1.6,0.2,11.2,"ATL,WSB"
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",-0.46,3.52,hendeto01,1977-78,WSB,12.6,3.1,.064,-1.3,0.4,,26,NBA,75,30.9,.432,.746,2.6,5.4,1.2,0.2,11.4,WSB
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",+0.31,4.63,hendeto01,1978-79,WSB,13.9,4.5,.103,-0.2,0.9,,27,NBA,70,29.7,.466,.800,2.3,6.0,1.2,0.1,10.8,WSB
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",-1.80,0.59,hendeto01,1979-80,HOU,9.7,1.3,.041,-3.1,-0.4,,28,NBA,66,23.5,.477,.727,1.7,4.2,0.8,0.1,5.5,HOU
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",-1.58,0.95,hendeto01,1980-81,HOU,10.9,1.5,.052,-3.4,-0.5,,29,NBA,66,21.4,.413,.821,1.6,4.7,0.8,0.1,5.3,HOU
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",-1.76,0.65,hendeto01,1981-82,HOU,11.0,2.1,.059,-2.9,-0.4,,30,NBA,75,22.9,.454,.700,1.8,4.1,0.7,0.1,6.3,HOU
+Tom Henderson,/players/h/hendeto01.html,1975,1983,University of Hawaii,false,"DeWitt Clinton in Bronx, New York",-2.10,0.05,hendeto01,1982-83,HOU,11.5,0.4,.022,-4.6,-0.5,,31,NBA,51,15.5,.407,.789,1.4,2.7,0.7,0.0,5.1,HOU

@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-lenarvo01,1995-96,22,MIA,NBA,30,10.8,.376,.791,1.7,1.0,0.2,0.0,5.9,15.9,0.9,.135,0.5,0.2,,"Southwestern in Detroit, Michigan",
-lenarvo01,1996-97,23,Miami Heat,NBA,73,28.9,.459,.819,3.0,2.2,0.7,0.2,12.3,14.7,6.8,.155,2.6,2.5,,"Southwestern in Detroit, Michigan",247500
-lenarvo01,1997-98,24,Miami Heat,NBA,81,32.4,.425,.788,3.6,2.2,0.7,0.2,12.6,13.3,7.1,.129,1.2,2.1,,"Southwestern in Detroit, Michigan",2364597
-lenarvo01,1998-99,25,Miami Heat,NBA,12,15.8,.392,.727,1.3,0.8,0.3,0.1,6.8,12.0,0.3,.073,-3.3,-0.1,,"Southwestern in Detroit, Michigan",2837000
-lenarvo01,1999-00,26,Miami Heat,NBA,53,27.1,.407,.792,2.9,2.6,0.8,0.3,11.9,13.9,3.0,.100,0.0,0.7,,"Southwestern in Detroit, Michigan",3308516
-lenarvo01,2000-01,27,Denver Nuggets,NBA,80,29.1,.397,.797,2.9,2.4,0.8,0.2,12.2,13.2,3.5,.072,-0.7,0.8,,"Southwestern in Detroit, Michigan",3780000
-lenarvo01,2001-02,28,Denver Nuggets,NBA,71,23.5,.410,.783,2.6,1.8,0.8,0.4,11.5,14.5,1.7,.049,-1.7,0.1,,"Southwestern in Detroit, Michigan",4252435
-lenarvo01,2002-03,29,Toronto Raptors,NBA,63,30.6,.402,.804,3.4,2.3,0.9,0.3,14.3,14.4,2.4,.060,-1.5,0.2,,"Southwestern in Detroit, Michigan",824935
-lenarvo01,2003-04,30,Denver Nuggets,NBA,73,30.6,.422,.791,2.7,2.1,0.8,0.2,14.2,13.5,4.0,.086,-1.4,0.3,,"Southwestern in Detroit, Michigan",1200000
-lenarvo01,2004-05,31,Denver Nuggets,NBA,3,18.0,.385,.625,2.0,2.0,0.3,0.0,9.7,15.1,0.1,.082,-3.5,0.0,,"Southwestern in Detroit, Michigan",3250000
-lenarvo01,2005-06,32,Denver Nuggets,NBA,26,17.6,.393,.516,1.8,1.6,0.8,0.2,7.3,10.9,-0.1,-0.013,-3.7,-0.2,,"Southwestern in Detroit, Michigan",3520000
-lenarvo01,2005-06,32,Denver Nuggets,NBA,12,19.8,.408,.385,2.3,1.5,0.7,0.2,8.3,10.1,0.0,.005,-4.2,-0.1,,"Southwestern in Detroit, Michigan",3520000
-lenarvo01,2005-06,32,Denver Nuggets,NBA,14,15.7,.375,.611,1.4,1.6,0.9,0.1,6.6,11.8,-0.1,-0.031,-3.2,-0.1,,"Southwestern in Detroit, Michigan",3520000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",+0.42,0.59,lenarvo01,1995-96,MIA,15.9,0.9,.135,0.5,0.2,,22,NBA,30,10.8,.376,.791,1.7,1.0,0.2,0.0,5.9,MIA,
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",+1.10,6.13,lenarvo01,1996-97,MIA,14.7,6.8,.155,2.6,2.5,,23,NBA,73,28.9,.459,.819,3.0,2.2,0.7,0.2,12.3,MIA,247500
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",+0.83,5.94,lenarvo01,1997-98,MIA,13.3,7.1,.129,1.2,2.1,,24,NBA,81,32.4,.425,.788,3.6,2.2,0.7,0.2,12.6,MIA,2364597
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-0.39,0.31,lenarvo01,1998-99,MIA,12.0,0.3,.073,-3.3,-0.1,,25,NBA,12,15.8,.392,.727,1.3,0.8,0.3,0.1,6.8,MIA,2837000
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-0.75,1.45,lenarvo01,1999-00,MIA,13.9,3.0,.100,0.0,0.7,,26,NBA,53,27.1,.407,.792,2.9,2.6,0.8,0.3,11.9,MIA,3308516
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-1.29,1.50,lenarvo01,2000-01,DEN,13.2,3.5,.072,-0.7,0.8,,27,NBA,80,29.1,.397,.797,2.9,2.4,0.8,0.2,12.2,DEN,3780000
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-1.68,0.64,lenarvo01,2001-02,DEN,14.5,1.7,.049,-1.7,0.1,,28,NBA,71,23.5,.410,.783,2.6,1.8,0.8,0.4,11.5,DEN,4252435
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-3.53,-1.69,lenarvo01,2002-03,TOR,14.4,2.4,.060,-1.5,0.2,,29,NBA,63,30.6,.402,.804,3.4,2.3,0.9,0.3,14.3,TOR,824935
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-1.07,1.90,lenarvo01,2003-04,DEN,13.5,4.0,.086,-1.4,0.3,,30,NBA,73,30.6,.422,.791,2.7,2.1,0.8,0.2,14.2,DEN,1200000
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",+0.01,0.09,lenarvo01,2004-05,DEN,15.1,0.1,.082,-3.5,0.0,,31,NBA,3,18.0,.385,.625,2.0,2.0,0.3,0.0,9.7,DEN,3250000
+Voshon Lenard,/players/l/lenarvo01.html,1996,2006,University of Minnesota,false,"Southwestern in Detroit, Michigan",-1.82,0.13,lenarvo01,2005-06,TOT,10.9,-0.1,-0.013,-3.7,-0.2,,32,NBA,26,17.6,.393,.516,1.8,1.6,0.8,0.2,7.3,"DEN,POR",3520000

@@ -1,7 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-payneca01,2015-16,21,Oklahoma City Thunder,NBA,57,12.2,.410,.792,1.5,1.9,0.6,0.1,5.0,12.9,1.4,.093,-1.3,0.1,,2021520,"Lausanne Collegiate School in Memphis, Tennessee"
-payneca01,2016-17,22,Chicago Bulls,NBA,31,14.9,.332,.625,1.5,1.8,0.5,0.1,5.2,5.5,-0.3,-0.035,-7.0,-0.6,,2112480,"Lausanne Collegiate School in Memphis, Tennessee"
-payneca01,2016-17,22,Chicago Bulls,NBA,20,16.0,.331,1.000,1.6,2.0,0.5,0.2,5.3,6.1,-0.1,-0.012,-6.8,-0.4,,2112480,"Lausanne Collegiate School in Memphis, Tennessee"
-payneca01,2016-17,22,Chicago Bulls,NBA,11,12.9,.333,.250,1.5,1.4,0.4,0.0,4.9,4.0,-0.3,-0.086,-7.5,-0.2,,2112480,"Lausanne Collegiate School in Memphis, Tennessee"
-payneca01,2017-18,23,Chicago Bulls,NBA,25,23.3,.405,.750,2.8,4.5,1.0,0.4,8.8,14.0,0.8,.063,-0.9,0.2,,2203440,"Lausanne Collegiate School in Memphis, Tennessee"
-payneca01,2018-19,24,CHI,NBA,4,24.5,.444,1.000,2.8,3.8,0.5,0.3,11.0,13.7,0.1,.044,-2.1,0.0,,,"Lausanne Collegiate School in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Cameron Payne,/players/p/payneca01.html,2016,2019,Murray State University,true,"Lausanne Collegiate School in Memphis, Tennessee",-2.84,-0.28,payneca01,2015-16,OKC,12.9,1.4,.093,-1.3,0.1,,NBA,2021520,21,57,12.2,.410,.792,1.5,1.9,0.6,0.1,5.0,OKC
+Cameron Payne,/players/p/payneca01.html,2016,2019,Murray State University,true,"Lausanne Collegiate School in Memphis, Tennessee",-3.91,-0.52,payneca01,2016-17,TOT,5.5,-0.3,-0.035,-7.0,-0.6,,NBA,2112480,22,31,14.9,.332,.625,1.5,1.8,0.5,0.1,5.2,"OKC,CHI"
+Cameron Payne,/players/p/payneca01.html,2016,2019,Murray State University,true,"Lausanne Collegiate School in Memphis, Tennessee",-0.78,0.59,payneca01,2017-18,CHI,14.0,0.8,.063,-0.9,0.2,,NBA,2203440,23,25,23.3,.405,.750,2.8,4.5,1.0,0.4,8.8,CHI
+Cameron Payne,/players/p/payneca01.html,2016,2019,Murray State University,true,"Lausanne Collegiate School in Memphis, Tennessee",,,payneca01,2018-19,CHI,13.7,0.1,.044,-2.1,0.0,,NBA,,24,4,24.5,.444,1.000,2.8,3.8,0.5,0.3,11.0,CHI

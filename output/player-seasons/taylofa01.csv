@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-taylofa01,1976-77,30,DEN,NBA,79,19.6,.420,.569,2.7,3.6,1.7,0.1,3.8,11.1,2.1,.066,0.3,0.9,,"Spingarn in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Fatty Taylor,/players/t/taylofa01.html,1970,1977,La Salle University,false,"Spingarn in Washington, District of Columbia",+0.37,2.82,taylofa01,1976-77,DEN,11.1,2.1,.066,0.3,0.9,,30,NBA,79,19.6,.420,.569,2.7,3.6,1.7,0.1,3.8,DEN

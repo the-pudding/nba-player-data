@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-smithst02,1996-97,25,DAL,NBA,8,7.5,.333,1.000,1.3,0.5,0.1,0.0,1.8,3.3,-0.1,-0.072,-8.6,-0.1,,"Spruce in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Stevin Smith,/players/s/smithst02.html,1997,1997,Arizona State University,false,"Spruce in Dallas, Texas",-0.39,0.08,smithst02,1996-97,DAL,3.3,-0.1,-0.072,-8.6,-0.1,,25,NBA,8,7.5,.333,1.000,1.3,0.5,0.1,0.0,1.8,DAL

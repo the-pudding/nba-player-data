@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kingre01,1979-80,22,KCK,NBA,82,25.0,.515,.726,6.9,1.3,0.8,0.4,8.2,13.5,6.2,.146,1.5,1.8,,"Jackson-Olin in Birmingham, Alabama",
-kingre01,1980-81,23,KCK,NBA,81,33.9,.544,.684,9.7,1.5,1.3,0.5,14.9,16.9,8.3,.145,1.6,2.5,,"Jackson-Olin in Birmingham, Alabama",
-kingre01,1981-82,24,KCK,NBA,80,32.6,.509,.705,6.5,2.2,1.1,0.4,12.1,13.0,4.8,.087,0.7,1.8,,"Jackson-Olin in Birmingham, Alabama",
-kingre01,1982-83,25,KCK,NBA,58,17.2,.462,.760,4.1,1.0,0.5,0.2,4.8,10.5,1.6,.077,-1.1,0.2,,"Jackson-Olin in Birmingham, Alabama",
-kingre01,1983-84,26,SEA,NBA,77,27.1,.520,.660,6.1,2.3,0.7,0.3,7.8,11.7,3.4,.079,0.1,1.1,,"Jackson-Olin in Birmingham, Alabama",
-kingre01,1984-85,27,Seattle SuperSonics,NBA,60,14.3,.423,.695,2.0,0.9,0.5,0.2,2.8,6.9,0.5,.028,-3.5,-0.3,,"Jackson-Olin in Birmingham, Alabama",500000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Reggie King,/players/k/kingre01.html,1980,1985,University of Alabama,false,"Jackson-Olin in Birmingham, Alabama",+0.45,3.97,kingre01,1979-80,KCK,13.5,6.2,.146,1.5,1.8,,22,NBA,82,25.0,.515,.726,6.9,1.3,0.8,0.4,8.2,KCK,
+Reggie King,/players/k/kingre01.html,1980,1985,University of Alabama,false,"Jackson-Olin in Birmingham, Alabama",+1.14,7.83,kingre01,1980-81,KCK,16.9,8.3,.145,1.6,2.5,,23,NBA,81,33.9,.544,.684,9.7,1.5,1.3,0.5,14.9,KCK,
+Reggie King,/players/k/kingre01.html,1980,1985,University of Alabama,false,"Jackson-Olin in Birmingham, Alabama",-0.61,2.93,kingre01,1981-82,KCK,13.0,4.8,.087,0.7,1.8,,24,NBA,80,32.6,.509,.705,6.5,2.2,1.1,0.4,12.1,KCK,
+Reggie King,/players/k/kingre01.html,1980,1985,University of Alabama,false,"Jackson-Olin in Birmingham, Alabama",-1.92,0.21,kingre01,1982-83,KCK,10.5,1.6,.077,-1.1,0.2,,25,NBA,58,17.2,.462,.760,4.1,1.0,0.5,0.2,4.8,KCK,
+Reggie King,/players/k/kingre01.html,1980,1985,University of Alabama,false,"Jackson-Olin in Birmingham, Alabama",-1.44,1.24,kingre01,1983-84,SEA,11.7,3.4,.079,0.1,1.1,,26,NBA,77,27.1,.520,.660,6.1,2.3,0.7,0.3,7.8,SEA,
+Reggie King,/players/k/kingre01.html,1980,1985,University of Alabama,false,"Jackson-Olin in Birmingham, Alabama",-3.22,-0.58,kingre01,1984-85,SEA,6.9,0.5,.028,-3.5,-0.3,,27,NBA,60,14.3,.423,.695,2.0,0.9,0.5,0.2,2.8,SEA,500000

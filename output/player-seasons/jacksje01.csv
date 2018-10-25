@@ -1,10 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jacksje01,1999-00,23,Detroit Pistons,NBA,7,10.4,.091,.625,1.6,0.6,0.4,0.0,1.0,-1.5,-0.2,-0.150,-9.4,-0.1,,302875,"Finney in Detroit, Michigan"
-jacksje01,2000-01,24,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,423500,"Finney in Detroit, Michigan"
-jacksje01,2001-02,25,TOR,NBA,24,11.7,.476,.667,1.1,2.4,0.4,0.0,2.4,12.3,0.6,.110,-4.6,-0.2,,,"Finney in Detroit, Michigan"
-jacksje01,2002-03,26,Toronto Raptors,NBA,53,10.5,.364,.727,1.1,1.4,0.4,0.1,2.3,9.0,0.2,.016,-5.3,-0.5,,171932,"Finney in Detroit, Michigan"
-jacksje01,2002-03,26,Toronto Raptors,NBA,24,11.9,.309,.852,1.0,1.6,0.4,0.1,2.8,8.2,-0.1,-0.017,-6.5,-0.3,,171932,"Finney in Detroit, Michigan"
-jacksje01,2002-03,26,Toronto Raptors,NBA,29,9.4,.452,.607,1.1,1.2,0.3,0.1,1.9,9.9,0.3,.051,-4.0,-0.1,,171932,"Finney in Detroit, Michigan"
-jacksje01,2003-04,27,Did Not Play,,,,,,,,,,,,,,,,,,"Finney in Detroit, Michigan"
-jacksje01,2004-05,28,NYK,NBA,21,11.0,.515,.615,1.1,1.1,0.3,0.0,2.0,8.0,0.2,.046,-3.7,-0.1,,,"Finney in Detroit, Michigan"
-jacksje01,2005-06,29,Chicago Bulls,NBA,30,6.7,.423,.857,0.9,0.8,0.1,0.0,1.2,8.2,0.2,.047,-4.1,-0.1,,771123,"Finney in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",-0.37,0.09,jacksje01,1999-00,DET,-1.5,-0.2,-0.150,-9.4,-0.1,,NBA,302875,23,7,10.4,.091,.625,1.6,0.6,0.4,0.0,1.0,DET
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",,,jacksje01,2000-01,Did Not Play,,,,,,,NBA,423500,24,,,,,,,,,,Did Not Play
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",-1.15,0.21,jacksje01,2001-02,TOR,12.3,0.6,.110,-4.6,-0.2,,NBA,,25,24,11.7,.476,.667,1.1,2.4,0.4,0.0,2.4,TOR
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",-2.99,-0.32,jacksje01,2002-03,TOT,9.0,0.2,.016,-5.3,-0.5,,NBA,171932,26,53,10.5,.364,.727,1.1,1.4,0.4,0.1,2.3,"TOR,ATL"
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",,,jacksje01,2003-04,Did Not Play,,,,,,,,,27,,,,,,,,,,Did Not Play
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",-1.13,0.17,jacksje01,2004-05,NYK,8.0,0.2,.046,-3.7,-0.1,,NBA,,28,21,11.0,.515,.615,1.1,1.1,0.3,0.0,2.0,NYK
+Jermaine Jackson,/players/j/jacksje01.html,2000,2006,University of Detroit Mercy,false,"Finney in Detroit, Michigan",-2.80,-0.07,jacksje01,2005-06,MIL,8.2,0.2,.047,-4.1,-0.1,,NBA,771123,29,30,6.7,.423,.857,0.9,0.8,0.1,0.0,1.2,MIL

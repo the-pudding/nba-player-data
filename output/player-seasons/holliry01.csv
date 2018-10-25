@@ -1,17 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-holliry01,2006-07,22,Charlotte Bobcats,NBA,27,6.9,.556,.600,1.1,0.0,0.1,0.3,2.4,8.5,0.2,.040,-6.9,-0.2,,412718,"John Muir in Pasadena, California"
-holliry01,2007-08,23,Charlotte Bobcats,NBA,60,8.9,.489,.671,1.8,0.2,0.2,0.5,2.5,11.4,1.1,.096,-2.2,0.0,,687456,"John Muir in Pasadena, California"
-holliry01,2008-09,24,Dallas Mavericks,NBA,45,9.9,.532,.597,2.2,0.2,0.2,0.7,3.2,12.9,1.0,.110,-2.0,0.0,,972581,"John Muir in Pasadena, California"
-holliry01,2008-09,24,Dallas Mavericks,NBA,18,10.2,.543,.667,2.0,0.2,0.2,0.9,3.6,15.3,0.6,.158,0.5,0.1,,972581,"John Muir in Pasadena, California"
-holliry01,2008-09,24,Dallas Mavericks,NBA,27,9.6,.525,.515,2.3,0.1,0.1,0.6,2.9,11.3,0.4,.076,-3.8,-0.1,,972581,"John Muir in Pasadena, California"
-holliry01,2009-10,25,Minnesota Timberwolves,NBA,73,16.8,.558,.690,2.8,0.7,0.3,0.5,6.1,11.0,1.2,.048,-3.3,-0.4,,2183333,"John Muir in Pasadena, California"
-holliry01,2010-11,26,Cleveland Cavaliers,NBA,70,16.9,.598,.681,2.7,0.4,0.3,0.6,5.3,10.7,1.8,.072,-2.7,-0.2,,2333333,"John Muir in Pasadena, California"
-holliry01,2011-12,27,Cleveland Cavaliers,NBA,39,13.4,.548,.520,2.1,0.2,0.1,0.4,3.4,6.9,0.2,.023,-5.1,-0.4,,2483333,"John Muir in Pasadena, California"
-holliry01,2011-12,27,Cleveland Cavaliers,NBA,24,15.1,.500,.600,2.3,0.3,0.2,0.5,3.7,7.0,0.1,.013,-5.4,-0.3,,2483333,"John Muir in Pasadena, California"
-holliry01,2011-12,27,Cleveland Cavaliers,NBA,15,10.7,.643,.300,1.7,0.2,0.1,0.3,2.8,6.8,0.1,.044,-4.7,-0.1,,2483333,"John Muir in Pasadena, California"
-holliry01,2012-13,28,Los Angeles Clippers,NBA,60,11.1,.614,.750,2.3,0.2,0.1,0.6,3.4,11.3,1.7,.125,-1.9,0.0,,1069509,"John Muir in Pasadena, California"
-holliry01,2013-14,29,Los Angeles Clippers,NBA,61,7.9,.736,.625,1.5,0.1,0.1,0.5,2.3,11.9,1.3,.126,-0.3,0.2,,1186459,"John Muir in Pasadena, California"
-holliry01,2014-15,30,Sacramento Kings,NBA,46,9.6,.646,.574,2.2,0.3,0.1,0.4,3.0,13.1,1.0,.104,-1.4,0.1,,1316809,"John Muir in Pasadena, California"
-holliry01,2015-16,31,Memphis Grizzlies,NBA,37,12.4,.620,.619,2.6,0.3,0.2,0.6,3.4,12.3,1.0,.100,-1.8,0.0,,593056,"John Muir in Pasadena, California"
-holliry01,2015-16,31,Memphis Grizzlies,NBA,5,9.6,.571,,2.2,0.0,0.0,0.2,1.6,7.2,0.0,.040,-7.6,-0.1,,593056,"John Muir in Pasadena, California"
-holliry01,2015-16,31,Memphis Grizzlies,NBA,32,12.9,.625,.619,2.7,0.3,0.2,0.6,3.6,12.9,0.9,.107,-1.2,0.1,,593056,"John Muir in Pasadena, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-2.23,0.01,holliry01,2006-07,CHA,8.5,0.2,.040,-6.9,-0.2,,NBA,412718,22,27,6.9,.556,.600,1.1,0.0,0.1,0.3,2.4,CHA
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-0.97,0.47,holliry01,2007-08,CHA,11.4,1.1,.096,-2.2,0.0,,NBA,687456,23,60,8.9,.489,.671,1.8,0.2,0.2,0.5,2.5,CHA
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-1.46,0.29,holliry01,2008-09,TOT,12.9,1.0,.110,-2.0,0.0,,NBA,972581,24,45,9.9,.532,.597,2.2,0.2,0.2,0.7,3.2,"CHA,DAL"
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-4.71,-1.94,holliry01,2009-10,MIN,11.0,1.2,.048,-3.3,-0.4,,NBA,2183333,25,73,16.8,.558,.690,2.8,0.7,0.3,0.5,6.1,MIN
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-1.68,0.48,holliry01,2010-11,CLE,10.7,1.8,.072,-2.7,-0.2,,NBA,2333333,26,70,16.9,.598,.681,2.7,0.4,0.3,0.6,5.3,CLE
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-3.33,-0.61,holliry01,2011-12,TOT,6.9,0.2,.023,-5.1,-0.4,,NBA,2483333,27,39,13.4,.548,.520,2.1,0.2,0.1,0.4,3.4,"CLE,BOS"
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-1.40,0.40,holliry01,2012-13,LAC,11.3,1.7,.125,-1.9,0.0,,NBA,1069509,28,60,11.1,.614,.750,2.3,0.2,0.1,0.6,3.4,LAC
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-1.61,0.22,holliry01,2013-14,LAC,11.9,1.3,.126,-0.3,0.2,,NBA,1186459,29,61,7.9,.736,.625,1.5,0.1,0.1,0.5,2.3,LAC
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-1.64,0.17,holliry01,2014-15,SAC,13.1,1.0,.104,-1.4,0.1,,NBA,1316809,30,46,9.6,.646,.574,2.2,0.3,0.1,0.4,3.0,SAC
+Ryan Hollins,/players/h/holliry01.html,2007,2016,"University of California, Los Angeles",false,"John Muir in Pasadena, California",-3.54,-0.39,holliry01,2015-16,TOT,12.3,1.0,.100,-1.8,0.0,,NBA,593056,31,37,12.4,.620,.619,2.6,0.3,0.2,0.6,3.4,"WAS,MEM"

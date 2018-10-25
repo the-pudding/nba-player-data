@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-haddaha01,2008-09,23,Memphis Grizzlies,NBA,19,6.3,.484,.600,2.5,0.4,0.1,0.6,2.5,19.7,0.4,.142,0.1,0.1,,1572221,
-haddaha01,2009-10,24,Memphis Grizzlies,NBA,36,6.7,.387,.737,2.1,0.3,0.0,0.4,1.7,7.2,0.0,-0.002,-5.6,-0.2,,1627779,
-haddaha01,2010-11,25,Memphis Grizzlies,NBA,31,5.4,.517,.652,2.2,0.2,0.1,0.4,2.4,19.7,0.6,.164,-2.0,0.0,,1600000,
-haddaha01,2011-12,26,Memphis Grizzlies,NBA,35,5.9,.542,.692,2.0,0.2,0.0,0.7,2.0,16.3,0.6,.131,0.6,0.1,,1300000,
-haddaha01,2012-13,27,Phoenix Suns,NBA,30,10.7,.427,.519,3.7,0.4,0.2,0.9,2.8,10.2,0.1,.010,-3.7,-0.1,,1300000,
-haddaha01,2012-13,27,Phoenix Suns,NBA,13,6.7,.333,.500,1.8,0.3,0.1,0.5,1.2,7.4,0.1,.039,-2.7,0.0,,1300000,
-haddaha01,2012-13,27,Phoenix Suns,NBA,17,13.8,.459,.520,5.1,0.5,0.3,1.2,4.1,11.2,0.0,.000,-4.0,-0.1,,1300000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Hamed Haddadi,/players/h/haddaha01.html,2009,2013,,false,,+1.35,0.30,haddaha01,2008-09,MEM,19.7,0.4,.142,0.1,0.1,,NBA,1572221,23,19,6.3,.484,.600,2.5,0.4,0.1,0.6,2.5,MEM
+Hamed Haddadi,/players/h/haddaha01.html,2009,2013,,false,,-2.57,-0.05,haddaha01,2009-10,MEM,7.2,0.0,-0.002,-5.6,-0.2,,NBA,1627779,24,36,6.7,.387,.737,2.1,0.3,0.0,0.4,1.7,MEM
+Hamed Haddadi,/players/h/haddaha01.html,2009,2013,,false,,+0.34,0.35,haddaha01,2010-11,MEM,19.7,0.6,.164,-2.0,0.0,,NBA,1600000,25,31,5.4,.517,.652,2.2,0.2,0.1,0.4,2.4,MEM
+Hamed Haddadi,/players/h/haddaha01.html,2009,2013,,false,,-0.10,0.33,haddaha01,2011-12,MEM,16.3,0.6,.131,0.6,0.1,,NBA,1300000,26,35,5.9,.542,.692,2.0,0.2,0.0,0.7,2.0,MEM
+Hamed Haddadi,/players/h/haddaha01.html,2009,2013,,false,,-1.71,0.10,haddaha01,2012-13,TOT,10.2,0.1,.010,-3.7,-0.1,,NBA,1300000,27,30,10.7,.427,.519,3.7,0.4,0.2,0.9,2.8,"MEM,PHO"

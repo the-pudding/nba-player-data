@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-buyckdw01,2013-14,24,TOR,NBA,14,10.4,.313,.889,1.6,0.7,0.6,0.0,3.1,7.2,0.0,-0.009,-4.5,-0.1,,"Bay View in Milwaukee, Wisconsin",
-buyckdw01,2014-15,25,Los Angeles Lakers,NBA,6,20.5,.450,.900,2.0,2.3,0.5,0.0,8.7,13.1,0.1,.027,-4.9,-0.1,,"Bay View in Milwaukee, Wisconsin",48028
-buyckdw01,2015-16,26,Did Not Play,,,,,,,,,,,,,,,,,"Bay View in Milwaukee, Wisconsin",
-buyckdw01,2016-17,27,Did Not Play,,,,,,,,,,,,,,,,,"Bay View in Milwaukee, Wisconsin",
-buyckdw01,2017-18,28,Detroit Pistons,NBA,29,14.7,.414,.878,1.4,2.0,0.7,0.1,7.4,12.8,0.2,.027,-4.3,-0.2,,"Bay View in Milwaukee, Wisconsin",748160
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dwight Buycks,/players/b/buyckdw01.html,2014,2018,Marquette University,true,"Bay View in Milwaukee, Wisconsin",-0.21,0.21,buyckdw01,2013-14,TOR,7.2,0.0,-0.009,-4.5,-0.1,,24,NBA,14,10.4,.313,.889,1.6,0.7,0.6,0.0,3.1,TOR,
+Dwight Buycks,/players/b/buyckdw01.html,2014,2018,Marquette University,true,"Bay View in Milwaukee, Wisconsin",-0.81,0.12,buyckdw01,2014-15,LAL,13.1,0.1,.027,-4.9,-0.1,,25,NBA,6,20.5,.450,.900,2.0,2.3,0.5,0.0,8.7,LAL,48028
+Dwight Buycks,/players/b/buyckdw01.html,2014,2018,Marquette University,true,"Bay View in Milwaukee, Wisconsin",,,buyckdw01,2015-16,Did Not Play,,,,,,,26,,,,,,,,,,,Did Not Play,
+Dwight Buycks,/players/b/buyckdw01.html,2014,2018,Marquette University,true,"Bay View in Milwaukee, Wisconsin",,,buyckdw01,2016-17,Did Not Play,,,,,,,27,,,,,,,,,,,Did Not Play,
+Dwight Buycks,/players/b/buyckdw01.html,2014,2018,Marquette University,true,"Bay View in Milwaukee, Wisconsin",-1.18,0.31,buyckdw01,2017-18,DET,12.8,0.2,.027,-4.3,-0.2,,28,NBA,29,14.7,.414,.878,1.4,2.0,0.7,0.1,7.4,DET,748160

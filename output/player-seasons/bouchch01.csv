@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bouchch01,2017-18,25,Golden State Warriors,NBA,1,1.0,.000,,1.0,0.0,0.0,0.0,0.0,-28.5,0.0,-0.899,-59.0,0.0,,,"Damase Boulanger in Alma, Canada"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Boucher,/players/b/bouchch01.html,2018,2018,University of Oregon,true,"Damase Boulanger in Alma, Canada",-0.96,0.00,bouchch01,2017-18,GSW,-28.5,0.0,-0.899,-59.0,0.0,,NBA,,25,1,1.0,.000,,1.0,0.0,0.0,0.0,0.0,GSW

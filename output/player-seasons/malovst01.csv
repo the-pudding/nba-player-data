@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-malovst01,1979-80,23,"WSB,SDC,DET",NBA,39,11.4,.463,.667,2.2,0.7,0.2,0.2,2.1,7.2,0.3,.027,-3.7,-0.2,,"Alhambra in Phoenix, Arizona"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Malovic,/players/m/malovst01.html,1980,1980,"University of Southern California, San Diego State University",false,"Alhambra in Phoenix, Arizona",-2.87,-0.19,malovst01,1979-80,TOT,7.2,0.3,.027,-3.7,-0.2,,23,NBA,39,11.4,.463,.667,2.2,0.7,0.2,0.2,2.1,"WSB,SDC,DET"

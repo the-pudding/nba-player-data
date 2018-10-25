@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lylestr01,2015-16,20,Utah Jazz,NBA,80,17.3,.438,.695,3.7,0.7,0.3,0.2,6.1,11.6,2.3,.079,-2.8,-0.3,,2239800,"Arsenal Tech in Indianapolis, Indiana"
-lylestr01,2016-17,21,Utah Jazz,NBA,71,16.3,.362,.722,3.3,1.0,0.4,0.3,6.2,9.9,0.8,.031,-3.0,-0.3,,2340600,"Arsenal Tech in Indianapolis, Indiana"
-lylestr01,2017-18,22,Denver Nuggets,NBA,73,19.1,.491,.706,4.8,1.2,0.4,0.5,9.9,17.9,3.9,.134,-0.8,0.4,,2441400,"Arsenal Tech in Indianapolis, Indiana"
-lylestr01,2018-19,23,DEN,NBA,4,20.0,.333,.625,4.8,1.8,1.0,0.3,7.5,4.4,-0.2,-0.093,-5.0,-0.1,,,"Arsenal Tech in Indianapolis, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Trey Lyles,/players/l/lylestr01.html,2016,2019,University of Kentucky,true,"Arsenal Tech in Indianapolis, Indiana",-1.68,0.52,lylestr01,2015-16,UTA,11.6,2.3,.079,-2.8,-0.3,,NBA,2239800,20,80,17.3,.438,.695,3.7,0.7,0.3,0.2,6.1,UTA
+Trey Lyles,/players/l/lylestr01.html,2016,2019,University of Kentucky,true,"Arsenal Tech in Indianapolis, Indiana",-1.62,0.52,lylestr01,2016-17,UTA,9.9,0.8,.031,-3.0,-0.3,,NBA,2340600,21,71,16.3,.362,.722,3.3,1.0,0.4,0.3,6.2,UTA
+Trey Lyles,/players/l/lylestr01.html,2016,2019,University of Kentucky,true,"Arsenal Tech in Indianapolis, Indiana",-0.22,1.94,lylestr01,2017-18,DEN,17.9,3.9,.134,-0.8,0.4,,NBA,2441400,22,73,19.1,.491,.706,4.8,1.2,0.4,0.5,9.9,DEN
+Trey Lyles,/players/l/lylestr01.html,2016,2019,University of Kentucky,true,"Arsenal Tech in Indianapolis, Indiana",,,lylestr01,2018-19,DEN,4.4,-0.2,-0.093,-5.0,-0.1,,NBA,,23,4,20.0,.333,.625,4.8,1.8,1.0,0.3,7.5,DEN

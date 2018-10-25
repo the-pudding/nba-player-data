@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-beckby01,1976-77,32,DEN,NBA,53,9.1,.435,.818,1.8,0.6,0.3,0.0,4.7,13.2,0.8,.078,-4.6,-0.3,,"Kittitas in Ellensburg, Washington"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Byron Beck,/players/b/beckby01.html,1968,1977,University of Denver,false,"Kittitas in Ellensburg, Washington",-2.69,-0.22,beckby01,1976-77,DEN,13.2,0.8,.078,-4.6,-0.3,,32,NBA,53,9.1,.435,.818,1.8,0.6,0.3,0.0,4.7,DEN

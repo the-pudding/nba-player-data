@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thomake01,1999-00,22,Houston Rockets,NBA,72,25.0,.399,.660,6.1,1.6,0.8,0.3,8.3,12.0,2.2,.058,-1.4,0.3,,823440,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2000-01,23,Houston Rockets,NBA,74,24.6,.443,.722,5.6,1.0,0.5,0.6,7.1,11.2,2.2,.058,-1.5,0.2,,885120,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2001-02,24,Houston Rockets,NBA,72,34.5,.478,.664,7.2,1.9,1.2,0.9,14.1,16.4,4.4,.085,0.1,1.3,,946920,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2002-03,25,Philadelphia 76ers,NBA,66,30.0,.465,.746,8.0,1.7,0.9,0.4,10.1,14.9,4.6,.111,0.2,1.1,,1557684,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2002-03,25,Philadelphia 76ers,NBA,20,29.3,.432,.733,6.9,2.0,0.8,0.3,9.9,12.6,0.7,.057,-1.8,0.0,,1557684,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2002-03,25,Philadelphia 76ers,NBA,46,30.3,.482,.750,8.5,1.6,1.0,0.5,10.2,15.8,3.9,.134,1.0,1.1,,1557684,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2003-04,26,Philadelphia 76ers,NBA,74,36.5,.469,.752,10.1,1.5,1.1,0.4,13.6,15.9,6.6,.118,0.6,1.8,,5500000,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2004-05,27,Philadelphia 76ers,NBA,73,29.7,.470,.762,7.3,2.1,0.9,0.2,12.4,15.2,4.3,.096,-1.1,0.5,,6000000,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2004-05,27,Philadelphia 76ers,NBA,47,28.6,.456,.798,6.6,1.6,0.9,0.1,11.3,13.0,2.0,.071,-2.4,-0.1,,6000000,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2004-05,27,Philadelphia 76ers,NBA,26,31.7,.492,.722,8.7,2.9,1.0,0.4,14.5,18.9,2.3,.135,1.0,0.6,,6000000,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2005-06,28,Sacramento Kings,NBA,82,28.0,.505,.676,7.5,2.0,0.9,0.5,9.1,15.0,5.5,.115,0.7,1.6,,6500000,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2006-07,29,Sacramento Kings,NBA,62,22.8,.482,.513,6.1,1.2,0.7,0.3,5.3,10.2,1.2,.041,-1.8,0.1,,7187500,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2007-08,30,Sacramento Kings,NBA,23,12.2,.421,.000,2.7,0.6,0.3,0.0,1.4,2.6,-0.3,-0.047,-5.9,-0.3,,7875000,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2008-09,31,Sacramento Kings,NBA,8,7.8,.375,,1.9,0.1,0.8,0.1,0.8,8.8,0.1,.056,-2.0,0.0,,8562500,"Albuquerque in Albuquerque, New Mexico"
-thomake01,2009-10,32,Sacramento Kings,NBA,26,12.0,.486,.583,3.3,0.6,0.4,0.4,1.6,9.0,0.4,.059,-1.1,0.1,,8775000,"Albuquerque in Albuquerque, New Mexico"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-1.63,0.74,thomake01,1999-00,HOU,12.0,2.2,.058,-1.4,0.3,,NBA,823440,22,72,25.0,.399,.660,6.1,1.6,0.8,0.3,8.3,HOU
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-0.87,1.70,thomake01,2000-01,HOU,11.2,2.2,.058,-1.5,0.2,,NBA,885120,23,74,24.6,.443,.722,5.6,1.0,0.5,0.6,7.1,HOU
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-1.46,1.32,thomake01,2001-02,HOU,16.4,4.4,.085,0.1,1.3,,NBA,946920,24,72,34.5,.478,.664,7.2,1.9,1.2,0.9,14.1,HOU
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-0.24,3.25,thomake01,2002-03,TOT,14.9,4.6,.111,0.2,1.1,,NBA,1557684,25,66,30.0,.465,.746,8.0,1.7,0.9,0.4,10.1,"HOU,PHI"
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-0.64,2.90,thomake01,2003-04,PHI,15.9,6.6,.118,0.6,1.8,,NBA,5500000,26,74,36.5,.469,.752,10.1,1.5,1.1,0.4,13.6,PHI
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-1.61,1.06,thomake01,2004-05,TOT,15.2,4.3,.096,-1.1,0.5,,NBA,6000000,27,73,29.7,.470,.762,7.3,2.1,0.9,0.2,12.4,"PHI,SAC"
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-1.99,0.43,thomake01,2005-06,SAC,15.0,5.5,.115,0.7,1.6,,NBA,6500000,28,82,28.0,.505,.676,7.5,2.0,0.9,0.5,9.1,SAC
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-2.68,-0.39,thomake01,2006-07,SAC,10.2,1.2,.041,-1.8,0.1,,NBA,7187500,29,62,22.8,.482,.513,6.1,1.2,0.7,0.3,5.3,SAC
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-4.54,-0.43,thomake01,2007-08,SAC,2.6,-0.3,-0.047,-5.9,-0.3,,NBA,7875000,30,23,12.2,.421,.000,2.7,0.6,0.3,0.0,1.4,SAC
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-0.34,0.08,thomake01,2008-09,SAC,8.8,0.1,.056,-2.0,0.0,,NBA,8562500,31,8,7.8,.375,,1.9,0.1,0.8,0.1,0.8,SAC
+Kenny Thomas,/players/t/thomake01.html,2000,2010,University of New Mexico,false,"Albuquerque in Albuquerque, New Mexico",-0.55,0.37,thomake01,2009-10,SAC,9.0,0.4,.059,-1.1,0.1,,NBA,8775000,32,26,12.0,.486,.583,3.3,0.6,0.4,0.4,1.6,SAC

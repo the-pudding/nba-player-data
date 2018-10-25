@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-reddmi01,2000-01,21,Milwaukee Bucks,NBA,6,5.8,.263,.500,0.7,0.2,0.2,0.0,2.2,3.4,-0.1,-0.163,-14.3,-0.1,,316969,"West in Columbus, Ohio"
-reddmi01,2001-02,22,Milwaukee Bucks,NBA,67,21.1,.483,.791,3.3,1.4,0.6,0.1,11.4,20.0,4.6,.155,0.6,0.9,,465850,"West in Columbus, Ohio"
-reddmi01,2002-03,23,Milwaukee Bucks,NBA,82,28.2,.469,.805,4.5,1.4,1.2,0.2,15.1,21.0,8.0,.167,2.5,2.6,,3000000,"West in Columbus, Ohio"
-reddmi01,2003-04,24,Milwaukee Bucks,NBA,82,36.8,.440,.868,5.0,2.3,1.0,0.1,21.7,19.9,9.7,.154,2.2,3.2,All-NBA (3rd),3000000,"West in Columbus, Ohio"
-reddmi01,2004-05,25,Milwaukee Bucks,NBA,75,38.0,.441,.854,4.2,2.3,0.8,0.1,23.0,18.3,6.2,.105,-0.1,1.4,,3000000,"West in Columbus, Ohio"
-reddmi01,2005-06,26,Milwaukee Bucks,NBA,80,39.1,.450,.877,4.3,2.9,1.2,0.1,25.4,21.2,10.8,.166,2.4,3.5,,12000000,"West in Columbus, Ohio"
-reddmi01,2006-07,27,Milwaukee Bucks,NBA,53,38.4,.465,.829,3.7,2.3,1.2,0.2,26.7,22.3,6.1,.145,0.5,1.3,,13260000,"West in Columbus, Ohio"
-reddmi01,2007-08,28,Milwaukee Bucks,NBA,72,37.5,.442,.820,4.3,3.4,0.9,0.2,22.7,18.8,5.8,.104,0.5,1.7,,14520000,"West in Columbus, Ohio"
-reddmi01,2008-09,29,Milwaukee Bucks,NBA,33,36.5,.455,.814,3.2,2.7,1.1,0.1,21.2,17.9,3.2,.128,1.1,1.0,,15780000,"West in Columbus, Ohio"
-reddmi01,2009-10,30,Milwaukee Bucks,NBA,18,27.3,.352,.712,3.0,2.2,1.1,0.1,11.9,12.1,0.6,.059,-2.1,0.0,,17040000,"West in Columbus, Ohio"
-reddmi01,2010-11,31,Milwaukee Bucks,NBA,10,13.4,.400,1.000,0.8,1.2,0.2,0.1,4.4,9.7,0.1,.048,-5.1,-0.1,,18300000,"West in Columbus, Ohio"
-reddmi01,2011-12,32,Phoenix Suns,NBA,51,15.1,.400,.793,1.5,0.6,0.3,0.0,8.2,13.9,0.8,.052,-4.2,-0.4,,1308506,"West in Columbus, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",-0.26,0.05,reddmi01,2000-01,MIL,3.4,-0.1,-0.163,-14.3,-0.1,,NBA,316969,21,6,5.8,.263,.500,0.7,0.2,0.2,0.0,2.2,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",+0.35,2.53,reddmi01,2001-02,MIL,20.0,4.6,.155,0.6,0.9,,NBA,465850,22,67,21.1,.483,.791,3.3,1.4,0.6,0.1,11.4,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",+1.03,5.47,reddmi01,2002-03,MIL,21.0,8.0,.167,2.5,2.6,,NBA,3000000,23,82,28.2,.469,.805,4.5,1.4,1.2,0.2,15.1,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",-1.35,1.93,reddmi01,2003-04,MIL,19.9,9.7,.154,2.2,3.2,All-NBA (3rd),NBA,3000000,24,82,36.8,.440,.868,5.0,2.3,1.0,0.1,21.7,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",-1.12,2.26,reddmi01,2004-05,MIL,18.3,6.2,.105,-0.1,1.4,,NBA,3000000,25,75,38.0,.441,.854,4.2,2.3,0.8,0.1,23.0,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",+2.03,9.63,reddmi01,2005-06,MIL,21.2,10.8,.166,2.4,3.5,,NBA,12000000,26,80,39.1,.450,.877,4.3,2.9,1.2,0.1,25.4,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",+1.44,5.08,reddmi01,2006-07,MIL,22.3,6.1,.145,0.5,1.3,,NBA,13260000,27,53,38.4,.465,.829,3.7,2.3,1.2,0.2,26.7,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",-0.37,3.50,reddmi01,2007-08,MIL,18.8,5.8,.104,0.5,1.7,,NBA,14520000,28,72,37.5,.442,.820,4.3,3.4,0.9,0.2,22.7,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",+1.89,3.35,reddmi01,2008-09,MIL,17.9,3.2,.128,1.1,1.0,,NBA,15780000,29,33,36.5,.455,.814,3.2,2.7,1.1,0.1,21.2,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",-1.55,0.21,reddmi01,2009-10,MIL,12.1,0.6,.059,-2.1,0.0,,NBA,17040000,30,18,27.3,.352,.712,3.0,2.2,1.1,0.1,11.9,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",+0.19,0.22,reddmi01,2010-11,MIL,9.7,0.1,.048,-5.1,-0.1,,NBA,18300000,31,10,13.4,.400,1.000,0.8,1.2,0.2,0.1,4.4,MIL
+Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false,"West in Columbus, Ohio",-3.73,-0.74,reddmi01,2011-12,PHO,13.9,0.8,.052,-4.2,-0.4,,NBA,1308506,32,51,15.1,.400,.793,1.5,0.6,0.3,0.0,8.2,PHO

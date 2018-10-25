@@ -1,15 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-allenma01,2001-02,23,Miami Heat,NBA,12,13.4,.431,.800,3.2,0.4,0.3,0.7,4.3,15.0,0.5,.141,-1.4,0.0,,332817,"Shawnee in Medford, New Jersey"
-allenma01,2002-03,24,Miami Heat,NBA,80,29.0,.424,.802,5.3,0.7,0.5,1.0,9.6,9.9,0.9,.018,-3.9,-1.1,,512435,"Shawnee in Medford, New Jersey"
-allenma01,2003-04,25,Miami Heat,NBA,45,13.7,.419,.758,2.6,0.4,0.3,0.6,4.2,10.5,0.7,.051,-4.6,-0.4,,1510000,"Shawnee in Medford, New Jersey"
-allenma01,2004-05,26,Miami Heat,NBA,36,14.4,.475,.929,2.8,0.5,0.3,0.6,5.4,14.2,1.1,.100,-2.3,0.0,,1950625,"Shawnee in Medford, New Jersey"
-allenma01,2004-05,26,Miami Heat,NBA,14,17.7,.461,.929,3.7,0.8,0.3,0.8,5.9,13.6,0.6,.113,-1.1,0.1,,1950625,"Shawnee in Medford, New Jersey"
-allenma01,2004-05,26,Miami Heat,NBA,22,12.3,.485,.929,2.1,0.3,0.2,0.5,5.0,14.8,0.5,.088,-3.4,-0.1,,1950625,"Shawnee in Medford, New Jersey"
-allenma01,2005-06,27,Chicago Bulls,NBA,54,13.0,.490,.605,2.6,0.4,0.3,0.3,4.9,11.5,1.0,.068,-3.9,-0.3,,1670000,"Shawnee in Medford, New Jersey"
-allenma01,2006-07,28,Chicago Bulls,NBA,60,10.6,.415,.824,2.0,0.3,0.3,0.3,4.0,10.4,1.0,.073,-5.2,-0.5,,1803600,"Shawnee in Medford, New Jersey"
-allenma01,2007-08,29,Dallas Mavericks,NBA,73,15.0,.480,.920,2.7,0.6,0.3,0.4,4.6,9.8,1.0,.045,-3.9,-0.5,,998398,"Shawnee in Medford, New Jersey"
-allenma01,2007-08,29,Dallas Mavericks,NBA,48,15.9,.475,.923,2.7,0.6,0.3,0.4,5.4,10.1,0.4,.023,-5.1,-0.6,,998398,"Shawnee in Medford, New Jersey"
-allenma01,2007-08,29,Dallas Mavericks,NBA,25,13.3,.500,.917,2.7,0.6,0.2,0.4,3.1,9.1,0.7,.096,-1.1,0.1,,998398,"Shawnee in Medford, New Jersey"
-allenma01,2008-09,30,Milwaukee Bucks,NBA,49,11.8,.429,.476,2.1,0.7,0.1,0.2,3.2,7.3,0.3,.024,-4.6,-0.4,,1300000,"Shawnee in Medford, New Jersey"
-allenma01,2009-10,31,Denver Nuggets,NBA,51,8.9,.397,.923,1.6,0.3,0.2,0.1,2.1,5.9,0.1,.009,-5.0,-0.3,,1300000,"Shawnee in Medford, New Jersey"
-allenma01,2010-11,32,Orlando Magic,NBA,18,9.9,.355,.500,1.8,0.2,0.1,0.2,1.3,3.3,0.2,.046,-3.9,-0.1,,1229255,"Shawnee in Medford, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-0.20,0.22,allenma01,2001-02,MIA,15.0,0.5,.141,-1.4,0.0,,NBA,332817,23,12,13.4,.431,.800,3.2,0.4,0.3,0.7,4.3,MIA
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-2.92,-1.29,allenma01,2002-03,MIA,9.9,0.9,.018,-3.9,-1.1,,NBA,512435,24,80,29.0,.424,.802,5.3,0.7,0.5,1.0,9.6,MIA
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-1.79,0.20,allenma01,2003-04,MIA,10.5,0.7,.051,-4.6,-0.4,,NBA,1510000,25,45,13.7,.419,.758,2.6,0.4,0.3,0.6,4.2,MIA
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-2.24,0.01,allenma01,2004-05,TOT,14.2,1.1,.100,-2.3,0.0,,NBA,1950625,26,36,14.4,.475,.929,2.8,0.5,0.3,0.6,5.4,"MIA,CHA"
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-0.65,0.88,allenma01,2005-06,CHI,11.5,1.0,.068,-3.9,-0.3,,NBA,1670000,27,54,13.0,.490,.605,2.6,0.4,0.3,0.3,4.9,CHI
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-1.19,0.47,allenma01,2006-07,CHI,10.4,1.0,.073,-5.2,-0.5,,NBA,1803600,28,60,10.6,.415,.824,2.0,0.3,0.3,0.3,4.0,CHI
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-2.50,-0.17,allenma01,2007-08,TOT,9.8,1.0,.045,-3.9,-0.5,,NBA,998398,29,73,15.0,.480,.920,2.7,0.6,0.3,0.4,4.6,"NJN,DAL"
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-1.49,0.30,allenma01,2008-09,MIL,7.3,0.3,.024,-4.6,-0.4,,NBA,1300000,30,49,11.8,.429,.476,2.1,0.7,0.1,0.2,3.2,MIL
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-5.56,-0.93,allenma01,2009-10,DEN,5.9,0.1,.009,-5.0,-0.3,,NBA,1300000,31,51,8.9,.397,.923,1.6,0.3,0.2,0.1,2.1,DEN
+Malik Allen,/players/a/allenma01.html,2002,2011,Villanova University,false,"Shawnee in Medford, New Jersey",-1.63,0.07,allenma01,2010-11,ORL,3.3,0.2,.046,-3.9,-0.1,,NBA,1229255,32,18,9.9,.355,.500,1.8,0.2,0.1,0.2,1.3,ORL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-heggsal01,1995-96,28,HOU,NBA,4,3.5,.600,.667,0.5,0.0,0.0,0.0,2.0,20.7,0.1,.196,-8.4,0.0,,"Andrew Jackson in Jacksonville, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alvin Heggs,/players/h/heggsal01.html,1996,1996,University of Texas at Austin,false,"Andrew Jackson in Jacksonville, Florida",-0.20,0.02,heggsal01,1995-96,HOU,20.7,0.1,.196,-8.4,0.0,,28,NBA,4,3.5,.600,.667,0.5,0.0,0.0,0.0,2.0,HOU

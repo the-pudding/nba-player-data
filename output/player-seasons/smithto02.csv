@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithto02,1990-91,22,Los Angeles Lakers,NBA,64,10.9,.441,.702,1.1,2.1,0.4,0.2,3.7,10.9,0.5,.037,-3.3,-0.2,,120000,"East in Wauwatosa, Wisconsin"
-smithto02,1991-92,23,Los Angeles Lakers,NBA,63,13.0,.399,.653,1.2,1.7,0.6,0.1,4.4,10.1,0.1,.008,-4.3,-0.5,,400000,"East in Wauwatosa, Wisconsin"
-smithto02,1992-93,24,Los Angeles Lakers,NBA,55,13.7,.484,.756,1.6,1.1,0.9,0.1,6.0,15.2,1.5,.098,-0.5,0.3,,450000,"East in Wauwatosa, Wisconsin"
-smithto02,1993-94,25,Los Angeles Lakers,NBA,73,22.2,.441,.714,2.7,2.0,0.8,0.2,8.8,12.8,1.7,.050,-2.3,-0.1,,800000,"East in Wauwatosa, Wisconsin"
-smithto02,1994-95,26,Los Angeles Lakers,NBA,61,16.8,.427,.698,1.8,1.7,0.8,0.1,5.6,11.0,1.3,.059,-2.2,-0.1,,1050000,"East in Wauwatosa, Wisconsin"
-smithto02,1995-96,27,Phoenix Suns,NBA,59,15.9,.423,.609,1.6,2.6,0.6,0.2,5.1,11.7,1.3,.065,-1.7,0.1,,500000,"East in Wauwatosa, Wisconsin"
-smithto02,1995-96,27,Phoenix Suns,NBA,34,15.5,.405,.649,1.6,2.5,0.6,0.1,5.6,12.2,0.5,.045,-1.8,0.0,,500000,"East in Wauwatosa, Wisconsin"
-smithto02,1995-96,27,Phoenix Suns,NBA,25,16.4,.455,.444,1.6,2.7,0.6,0.2,4.4,11.0,0.8,.091,-1.6,0.0,,500000,"East in Wauwatosa, Wisconsin"
-smithto02,1996-97,28,Charlotte Hornets,NBA,69,18.7,.409,.644,1.4,2.2,0.7,0.3,5.0,9.4,0.6,.024,-3.1,-0.4,,247500,"East in Wauwatosa, Wisconsin"
-smithto02,1997-98,29,MIL,NBA,7,11.4,.333,.750,1.0,1.4,0.7,0.3,2.7,6.4,-0.1,-0.088,-5.7,-0.1,,,"East in Wauwatosa, Wisconsin"
-smithto02,1998-99,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"East in Wauwatosa, Wisconsin"
-smithto02,1999-00,31,Did Not Play,,,,,,,,,,,,,,,,,,"East in Wauwatosa, Wisconsin"
-smithto02,2000-01,32,ATL,NBA,6,13.0,.348,.500,0.5,1.7,1.2,0.0,2.8,3.8,-0.2,-0.110,-7.4,-0.1,,,"East in Wauwatosa, Wisconsin"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-2.24,0.02,smithto02,1990-91,LAL,10.9,0.5,.037,-3.3,-0.2,,NBA,120000,22,64,10.9,.441,.702,1.1,2.1,0.4,0.2,3.7,LAL
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-2.57,-0.16,smithto02,1991-92,LAL,10.1,0.1,.008,-4.3,-0.5,,NBA,400000,23,63,13.0,.399,.653,1.2,1.7,0.6,0.1,4.4,LAL
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-1.12,0.65,smithto02,1992-93,LAL,15.2,1.5,.098,-0.5,0.3,,NBA,450000,24,55,13.7,.484,.756,1.6,1.1,0.9,0.1,6.0,LAL
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-2.61,-0.35,smithto02,1993-94,LAL,12.8,1.7,.050,-2.3,-0.1,,NBA,800000,25,73,22.2,.441,.714,2.7,2.0,0.8,0.2,8.8,LAL
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-2.33,-0.01,smithto02,1994-95,LAL,11.0,1.3,.059,-2.2,-0.1,,NBA,1050000,26,61,16.8,.427,.698,1.8,1.7,0.8,0.1,5.6,LAL
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-1.03,0.84,smithto02,1995-96,TOT,11.7,1.3,.065,-1.7,0.1,,NBA,500000,27,59,15.9,.423,.609,1.6,2.6,0.6,0.2,5.1,"PHO,MIA"
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-2.32,0.00,smithto02,1996-97,CHH,9.4,0.6,.024,-3.1,-0.4,,NBA,247500,28,69,18.7,.409,.644,1.4,2.2,0.7,0.3,5.0,CHH
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",+0.06,0.13,smithto02,1997-98,MIL,6.4,-0.1,-0.088,-5.7,-0.1,,NBA,,29,7,11.4,.333,.750,1.0,1.4,0.7,0.3,2.7,MIL
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",,,smithto02,1998-99,Did Not Play (other pro league—Spain),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Spain)
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",,,smithto02,1999-00,Did Not Play,,,,,,,,,31,,,,,,,,,,Did Not Play
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false,"East in Wauwatosa, Wisconsin",-0.02,0.12,smithto02,2000-01,ATL,3.8,-0.2,-0.110,-7.4,-0.1,,NBA,,32,6,13.0,.348,.500,0.5,1.7,1.2,0.0,2.8,ATL

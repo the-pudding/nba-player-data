@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harrilu01,1993-94,23,Dallas Mavericks,NBA,77,15.1,.421,.731,2.0,1.4,0.6,0.1,5.4,11.0,0.6,.025,-4.2,-0.7,,350000,"Cleveland in Los Angeles, California"
-harrilu01,1994-95,24,Dallas Mavericks,NBA,79,21.5,.459,.800,2.8,1.7,0.7,0.2,9.5,15.1,4.1,.117,-0.4,0.7,,455000,"Cleveland in Los Angeles, California"
-harrilu01,1995-96,25,Dallas Mavericks,NBA,61,16.7,.461,.782,2.0,1.3,0.6,0.0,7.9,15.5,2.1,.101,-2.4,-0.1,,725000,"Cleveland in Los Angeles, California"
-harrilu01,1996-97,26,Philadelphia 76ers,NBA,54,15.1,.381,.702,1.3,0.9,0.8,0.1,5.4,10.7,0.4,.023,-4.4,-0.5,,1200000,"Cleveland in Los Angeles, California"
-harrilu01,1997-98,27,New Jersey Nets,NBA,50,13.4,.390,.745,1.0,0.8,0.8,0.1,3.8,10.4,1.1,.080,-1.0,0.2,,1440000,"Cleveland in Los Angeles, California"
-harrilu01,1998-99,28,New Jersey Nets,NBA,36,16.7,.403,.750,1.9,0.9,0.5,0.2,5.4,11.0,0.8,.063,-2.9,-0.1,,1680000,"Cleveland in Los Angeles, California"
-harrilu01,1999-00,29,New Jersey Nets,NBA,77,19.6,.428,.798,2.4,1.3,0.8,0.1,6.7,13.3,2.8,.089,-1.2,0.3,,1920000,"Cleveland in Los Angeles, California"
-harrilu01,2000-01,30,New Jersey Nets,NBA,73,28.4,.425,.770,3.9,1.8,1.0,0.2,9.4,12.9,3.1,.073,-0.9,0.6,,2160000,"Cleveland in Los Angeles, California"
-harrilu01,2001-02,31,New Jersey Nets,NBA,74,21.0,.464,.842,2.8,1.6,0.7,0.1,9.1,15.7,5.1,.157,0.1,0.8,,2400000,"Cleveland in Los Angeles, California"
-harrilu01,2002-03,32,New Jersey Nets,NBA,77,25.6,.413,.804,3.0,2.0,0.7,0.1,10.3,13.5,4.7,.114,-1.4,0.3,,2640000,"Cleveland in Los Angeles, California"
-harrilu01,2003-04,33,New Jersey Nets,NBA,69,21.8,.404,.846,2.0,2.0,0.6,0.0,6.9,11.1,2.5,.081,-3.0,-0.4,,2500000,"Cleveland in Los Angeles, California"
-harrilu01,2004-05,34,Cleveland Cavaliers,NBA,73,15.5,.395,.812,1.7,0.7,0.4,0.1,4.3,9.0,1.3,.055,-4.1,-0.6,,2500000,"Cleveland in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-2.78,-0.43,harrilu01,1993-94,DAL,11.0,0.6,.025,-4.2,-0.7,,NBA,350000,23,77,15.1,.421,.731,2.0,1.4,0.6,0.1,5.4,DAL
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-0.72,1.81,harrilu01,1994-95,DAL,15.1,4.1,.117,-0.4,0.7,,NBA,455000,24,79,21.5,.459,.800,2.8,1.7,0.7,0.2,9.5,DAL
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-1.51,0.54,harrilu01,1995-96,DAL,15.5,2.1,.101,-2.4,-0.1,,NBA,725000,25,61,16.7,.461,.782,2.0,1.3,0.6,0.0,7.9,DAL
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-2.72,-0.24,harrilu01,1996-97,PHI,10.7,0.4,.023,-4.4,-0.5,,NBA,1200000,26,54,15.1,.381,.702,1.3,0.9,0.8,0.1,5.4,PHI
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-1.30,0.47,harrilu01,1997-98,NJN,10.4,1.1,.080,-1.0,0.2,,NBA,1440000,27,50,13.4,.390,.745,1.0,0.8,0.8,0.1,3.8,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-2.44,-0.11,harrilu01,1998-99,NJN,11.0,0.8,.063,-2.9,-0.1,,NBA,1680000,28,36,16.7,.403,.750,1.9,0.9,0.5,0.2,5.4,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-1.34,0.94,harrilu01,1999-00,NJN,13.3,2.8,.089,-1.2,0.3,,NBA,1920000,29,77,19.6,.428,.798,2.4,1.3,0.8,0.1,6.7,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-1.06,1.66,harrilu01,2000-01,NJN,12.9,3.1,.073,-0.9,0.6,,NBA,2160000,30,73,28.4,.425,.770,3.9,1.8,1.0,0.2,9.4,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-0.19,2.77,harrilu01,2001-02,NJN,15.7,5.1,.157,0.1,0.8,,NBA,2400000,31,74,21.0,.464,.842,2.8,1.6,0.7,0.1,9.1,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-2.46,-0.49,harrilu01,2002-03,NJN,13.5,4.7,.114,-1.4,0.3,,NBA,2640000,32,77,25.6,.413,.804,3.0,2.0,0.7,0.1,10.3,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-2.65,-0.65,harrilu01,2003-04,NJN,11.1,2.5,.081,-3.0,-0.4,,NBA,2500000,33,69,21.8,.404,.846,2.0,2.0,0.6,0.0,6.9,NJN
+Lucious Harris,/players/h/harrilu01.html,1994,2005,"California State University, Long Beach",false,"Cleveland in Los Angeles, California",-2.69,-0.35,harrilu01,2004-05,CLE,9.0,1.3,.055,-4.1,-0.6,,NBA,2500000,34,73,15.5,.395,.812,1.7,0.7,0.4,0.1,4.3,CLE

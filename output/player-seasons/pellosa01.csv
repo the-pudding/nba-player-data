@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pellosa01,1979-80,28,ATL,NBA,44,8.5,.407,.700,2.1,0.4,0.3,0.3,2.5,9.4,0.7,.084,-2.3,0.0,,"Leland in Leland, North Carolina"
-pellosa01,1980-81,29,ATL,NBA,77,19.1,.489,.698,4.6,0.6,0.6,1.2,5.9,11.7,2.2,.070,-0.9,0.4,,"Leland in Leland, North Carolina"
-pellosa01,1981-82,30,ATL,NBA,69,15.0,.454,.772,3.3,0.4,0.4,0.7,4.2,10.3,1.8,.083,-1.4,0.2,,"Leland in Leland, North Carolina"
-pellosa01,1982-83,31,"ATL,MIL",NBA,6,4.8,.375,,1.3,0.2,0.0,0.0,2.0,6.7,0.0,-0.065,-18.5,-0.1,,"Leland in Leland, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sam Pellom,/players/p/pellosa01.html,1980,1983,"University at Buffalo, State University of New York",false,"Leland in Leland, North Carolina",-1.05,0.31,pellosa01,1979-80,ATL,9.4,0.7,.084,-2.3,0.0,,28,NBA,44,8.5,.407,.700,2.1,0.4,0.3,0.3,2.5,ATL
+Sam Pellom,/players/p/pellosa01.html,1980,1983,"University at Buffalo, State University of New York",false,"Leland in Leland, North Carolina",-0.70,1.56,pellosa01,1980-81,ATL,11.7,2.2,.070,-0.9,0.4,,29,NBA,77,19.1,.489,.698,4.6,0.6,0.6,1.2,5.9,ATL
+Sam Pellom,/players/p/pellosa01.html,1980,1983,"University at Buffalo, State University of New York",false,"Leland in Leland, North Carolina",-1.11,0.80,pellosa01,1981-82,ATL,10.3,1.8,.083,-1.4,0.2,,30,NBA,69,15.0,.454,.772,3.3,0.4,0.4,0.7,4.2,ATL
+Sam Pellom,/players/p/pellosa01.html,1980,1983,"University at Buffalo, State University of New York",false,"Leland in Leland, North Carolina",+0.51,0.06,pellosa01,1982-83,TOT,6.7,0.0,-0.065,-18.5,-0.1,,31,NBA,6,4.8,.375,,1.3,0.2,0.0,0.0,2.0,"ATL,MIL"

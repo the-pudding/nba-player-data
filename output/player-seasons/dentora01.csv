@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dentora01,1976-77,27,ATL,NBA,45,15.6,.402,.702,4.8,0.7,0.3,0.4,5.3,11.2,0.4,.029,-4.4,-0.4,,"Enloe in Raleigh, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Randy Denton,/players/d/dentora01.html,1972,1977,Duke University,false,"Enloe in Raleigh, North Carolina",-2.52,-0.21,dentora01,1976-77,ATL,11.2,0.4,.029,-4.4,-0.4,,27,NBA,45,15.6,.402,.702,4.8,0.7,0.3,0.4,5.3,ATL

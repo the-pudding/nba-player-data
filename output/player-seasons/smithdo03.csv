@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithdo03,1991-92,22,Dallas Mavericks,NBA,76,22.5,.415,.736,5.1,1.7,0.8,0.4,8.8,11.9,0.8,.023,-2.4,-0.2,,1500000,"MacKenzie in Detroit, Michigan"
-smithdo03,1992-93,23,Dallas Mavericks,NBA,61,25.0,.434,.757,5.4,1.7,0.8,0.9,10.4,10.3,-0.9,-0.029,-4.1,-0.8,,1845000,"MacKenzie in Detroit, Michigan"
-smithdo03,1993-94,24,Dallas Mavericks,NBA,79,21.3,.435,.835,4.4,1.5,1.0,0.5,8.8,13.5,2.3,.066,-1.7,0.1,,1650000,"MacKenzie in Detroit, Michigan"
-smithdo03,1994-95,25,Dallas Mavericks,NBA,63,13.1,.417,.760,2.3,0.7,0.5,0.4,5.1,11.0,1.0,.058,-4.0,-0.4,,1950000,"MacKenzie in Detroit, Michigan"
-smithdo03,1995-96,26,Boston Celtics,NBA,17,5.4,.359,.625,1.3,0.2,0.2,0.0,1.9,4.2,-0.2,-0.123,-10.3,-0.2,,450000,"MacKenzie in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Doug Smith,/players/s/smithdo03.html,1992,1996,University of Missouri,false,"MacKenzie in Detroit, Michigan",-2.18,0.10,smithdo03,1991-92,DAL,11.9,0.8,.023,-2.4,-0.2,,NBA,1500000,22,76,22.5,.415,.736,5.1,1.7,0.8,0.4,8.8,DAL
+Doug Smith,/players/s/smithdo03.html,1992,1996,University of Missouri,false,"MacKenzie in Detroit, Michigan",-3.83,-1.56,smithdo03,1992-93,DAL,10.3,-0.9,-0.029,-4.1,-0.8,,NBA,1845000,23,61,25.0,.434,.757,5.4,1.7,0.8,0.9,10.4,DAL
+Doug Smith,/players/s/smithdo03.html,1992,1996,University of Missouri,false,"MacKenzie in Detroit, Michigan",-1.44,0.91,smithdo03,1993-94,DAL,13.5,2.3,.066,-1.7,0.1,,NBA,1650000,24,79,21.3,.435,.835,4.4,1.5,1.0,0.5,8.8,DAL
+Doug Smith,/players/s/smithdo03.html,1992,1996,University of Missouri,false,"MacKenzie in Detroit, Michigan",-1.60,0.39,smithdo03,1994-95,DAL,11.0,1.0,.058,-4.0,-0.4,,NBA,1950000,25,63,13.1,.417,.760,2.3,0.7,0.5,0.4,5.1,DAL
+Doug Smith,/players/s/smithdo03.html,1992,1996,University of Missouri,false,"MacKenzie in Detroit, Michigan",-0.65,0.10,smithdo03,1995-96,BOS,4.2,-0.2,-0.123,-10.3,-0.2,,NBA,450000,26,17,5.4,.359,.625,1.3,0.2,0.2,0.0,1.9,BOS

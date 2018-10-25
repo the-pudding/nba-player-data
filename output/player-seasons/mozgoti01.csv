@@ -1,13 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mozgoti01,2010-11,24,Denver Nuggets,NBA,45,11.6,.474,.712,2.7,0.3,0.3,0.6,3.6,10.8,0.6,.053,-4.3,-0.3,,3567096,
-mozgoti01,2010-11,24,Denver Nuggets,NBA,34,13.5,.464,.705,3.1,0.4,0.4,0.7,4.0,10.3,0.4,.044,-3.6,-0.2,,3567096,
-mozgoti01,2010-11,24,Denver Nuggets,NBA,11,6.0,.524,.750,1.5,0.0,0.1,0.2,2.5,14.4,0.2,.112,-9.0,-0.1,,3567096,
-mozgoti01,2011-12,25,Denver Nuggets,NBA,44,15.6,.526,.684,4.1,0.5,0.3,1.0,5.4,13.2,1.1,.074,-1.6,0.1,,3343896,
-mozgoti01,2012-13,26,Denver Nuggets,NBA,41,8.9,.506,.769,2.6,0.2,0.1,0.4,2.6,12.3,0.7,.096,-1.6,0.0,,3140429,
-mozgoti01,2013-14,27,Denver Nuggets,NBA,82,21.6,.523,.754,6.4,0.8,0.3,1.2,9.4,16.7,4.5,.123,-0.5,0.7,,4400000,
-mozgoti01,2014-15,28,Cleveland Cavaliers,NBA,81,25.2,.555,.718,7.3,0.7,0.4,1.2,9.7,16.6,5.7,.133,-0.4,0.8,,4650000,
-mozgoti01,2014-15,28,Cleveland Cavaliers,NBA,35,25.6,.504,.733,7.8,0.5,0.4,1.2,8.5,13.8,1.8,.096,-1.8,0.0,,4650000,
-mozgoti01,2014-15,28,Cleveland Cavaliers,NBA,46,25.0,.590,.708,6.9,0.8,0.4,1.2,10.6,18.7,3.9,.161,0.6,0.8,,4650000,
-mozgoti01,2015-16,29,Cleveland Cavaliers,NBA,76,17.4,.565,.716,4.4,0.4,0.3,0.8,6.3,14.6,3.7,.133,-1.2,0.3,,4950000,
-mozgoti01,2016-17,30,Los Angeles Lakers,NBA,54,20.4,.515,.808,4.9,0.8,0.3,0.6,7.4,12.3,1.1,.048,-3.6,-0.4,,16000000,
-mozgoti01,2017-18,31,Brooklyn Nets,NBA,31,11.6,.559,.767,3.2,0.4,0.2,0.4,4.2,12.3,0.4,.055,-4.1,-0.2,,15280000,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,-2.31,0.00,mozgoti01,2010-11,TOT,10.8,0.6,.053,-4.3,-0.3,,NBA,3567096,24,45,11.6,.474,.712,2.7,0.3,0.3,0.6,3.6,"NYK,DEN"
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,-1.37,0.47,mozgoti01,2011-12,DEN,13.2,1.1,.074,-1.6,0.1,,NBA,3343896,25,44,15.6,.526,.684,4.1,0.5,0.3,1.0,5.4,DEN
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,-3.61,-0.33,mozgoti01,2012-13,DEN,12.3,0.7,.096,-1.6,0.0,,NBA,3140429,26,41,8.9,.506,.769,2.6,0.2,0.1,0.4,2.6,DEN
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,+0.69,3.56,mozgoti01,2013-14,DEN,16.7,4.5,.123,-0.5,0.7,,NBA,4400000,27,82,21.6,.523,.754,6.4,0.8,0.3,1.2,9.4,DEN
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,+2.14,7.72,mozgoti01,2014-15,TOT,16.6,5.7,.133,-0.4,0.8,,NBA,4650000,28,81,25.2,.555,.718,7.3,0.7,0.4,1.2,9.7,"DEN,CLE"
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,-2.60,-0.33,mozgoti01,2015-16,CLE,14.6,3.7,.133,-1.2,0.3,,NBA,4950000,29,76,17.4,.565,.716,4.4,0.4,0.3,0.8,6.3,CLE
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,-1.99,0.21,mozgoti01,2016-17,LAL,12.3,1.1,.048,-3.6,-0.4,,NBA,16000000,30,54,20.4,.515,.808,4.9,0.8,0.3,0.6,7.4,LAL
+Timofey Mozgov,/players/m/mozgoti01.html,2011,2018,,true,,-2.69,-0.12,mozgoti01,2017-18,BRK,12.3,0.4,.055,-4.1,-0.2,,NBA,15280000,31,31,11.6,.559,.767,3.2,0.4,0.2,0.4,4.2,BRK

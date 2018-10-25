@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-whiteha01,2010-11,21,Sacramento Kings,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,-17.9,0.0,.007,-6.5,0.0,,730437,"The Patterson School in Patterson, North Carolina"
-whiteha01,2011-12,22,Sacramento Kings,NBA,18,6.1,.444,.417,2.2,0.0,0.2,0.8,1.6,16.2,0.2,.073,-6.7,-0.1,,762195,"The Patterson School in Patterson, North Carolina"
-whiteha01,2012-13,23,Did Not Play,,,,,,,,,,,,,,,,,,"The Patterson School in Patterson, North Carolina"
-whiteha01,2013-14,24,Did Not Play,,,,,,,,,,,,,,,,,,"The Patterson School in Patterson, North Carolina"
-whiteha01,2014-15,25,Miami Heat,NBA,48,23.8,.628,.500,10.0,0.1,0.6,2.6,11.8,26.2,5.3,.221,-0.9,0.3,,769881,"The Patterson School in Patterson, North Carolina"
-whiteha01,2015-16,26,Miami Heat,NBA,73,29.1,.606,.650,11.8,0.4,0.6,3.7,14.2,25.7,10.3,.233,2.5,2.4,,981348,"The Patterson School in Patterson, North Carolina"
-whiteha01,2016-17,27,Miami Heat,NBA,77,32.6,.557,.628,14.1,0.7,0.7,2.1,17.0,22.6,9.5,.181,-0.5,0.9,,22116750,"The Patterson School in Patterson, North Carolina"
-whiteha01,2017-18,28,Miami Heat,NBA,54,25.3,.540,.703,11.4,1.0,0.7,1.7,14.0,24.1,5.3,.187,0.2,0.8,,23775506,"The Patterson School in Patterson, North Carolina"
-whiteha01,2018-19,29,MIA,NBA,4,28.5,.476,.583,14.3,0.0,0.3,2.0,13.5,18.3,0.4,.166,-8.0,-0.2,,,"The Patterson School in Patterson, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",+0.29,0.00,whiteha01,2010-11,SAC,-17.9,0.0,.007,-6.5,0.0,,NBA,730437,21,1,2.0,,,0.0,0.0,0.0,0.0,0.0,SAC
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",-0.16,0.16,whiteha01,2011-12,SAC,16.2,0.2,.073,-6.7,-0.1,,NBA,762195,22,18,6.1,.444,.417,2.2,0.0,0.2,0.8,1.6,SAC
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",,,whiteha01,2012-13,Did Not Play,,,,,,,,,23,,,,,,,,,,Did Not Play
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",,,whiteha01,2013-14,Did Not Play,,,,,,,,,24,,,,,,,,,,Did Not Play
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",+2.38,3.61,whiteha01,2014-15,MIA,26.2,5.3,.221,-0.9,0.3,,NBA,769881,25,48,23.8,.628,.500,10.0,0.1,0.6,2.6,11.8,MIA
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",+3.57,9.60,whiteha01,2015-16,MIA,25.7,10.3,.233,2.5,2.4,,NBA,981348,26,73,29.1,.606,.650,11.8,0.4,0.6,3.7,14.2,MIA
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",+2.16,7.48,whiteha01,2016-17,MIA,22.6,9.5,.181,-0.5,0.9,,NBA,22116750,27,77,32.6,.557,.628,14.1,0.7,0.7,2.1,17.0,MIA
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",+0.53,2.75,whiteha01,2017-18,MIA,24.1,5.3,.187,0.2,0.8,,NBA,23775506,28,54,25.3,.540,.703,11.4,1.0,0.7,1.7,14.0,MIA
+Hassan Whiteside,/players/w/whiteha01.html,2011,2019,Marshall University,true,"The Patterson School in Patterson, North Carolina",,,whiteha01,2018-19,MIA,18.3,0.4,.166,-8.0,-0.2,,NBA,,29,4,28.5,.476,.583,14.3,0.0,0.3,2.0,13.5,MIA

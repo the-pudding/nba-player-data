@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jawaina01,2008-09,22,Toronto Raptors,NBA,6,3.2,.250,,0.3,0.0,0.0,0.0,0.3,-7.6,-0.1,-0.233,-16.3,-0.1,,442114,"Australian Institute of Sport in Canberra, Australia"
-jawaina01,2009-10,23,Minnesota Timberwolves,NBA,39,10.6,.441,.684,2.7,0.6,0.3,0.2,3.2,11.0,0.3,.031,-3.5,-0.2,,736420,"Australian Institute of Sport in Canberra, Australia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nathan Jawai,/players/j/jawaina01.html,2009,2010,Midland College,false,"Australian Institute of Sport in Canberra, Australia",-0.10,0.03,jawaina01,2008-09,TOR,-7.6,-0.1,-0.233,-16.3,-0.1,,NBA,442114,22,6,3.2,.250,,0.3,0.0,0.0,0.0,0.3,TOR
+Nathan Jawai,/players/j/jawaina01.html,2009,2010,Midland College,false,"Australian Institute of Sport in Canberra, Australia",-2.23,0.01,jawaina01,2009-10,MIN,11.0,0.3,.031,-3.5,-0.2,,NBA,736420,23,39,10.6,.441,.684,2.7,0.6,0.3,0.2,3.2,MIN

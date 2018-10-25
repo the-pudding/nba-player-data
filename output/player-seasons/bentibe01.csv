@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-bentibe01,2016-17,21,Boston Celtics,NBA,3,3.3,.000,,0.7,0.0,0.0,0.0,0.0,-17.6,-0.1,-0.473,-26.9,-0.1,,250000,"St. Andrew's School in Middletown, Delaware"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ben Bentil,/players/b/bentibe01.html,2017,2017,Providence College,true,"St. Andrew's School in Middletown, Delaware",-0.08,0.01,bentibe01,2016-17,DAL,-17.6,-0.1,-0.473,-26.9,-0.1,,NBA,250000,21,3,3.3,.000,,0.7,0.0,0.0,0.0,0.0,DAL

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-marblro01,1989-90,23,ATL,NBA,24,6.8,.276,.655,1.0,0.5,0.3,0.0,2.1,5.5,-0.3,-0.089,-7.1,-0.2,,"Beecher in Flint, Michigan"
-marblro01,1990-91,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Beecher in Flint, Michigan"
-marblro01,1991-92,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Beecher in Flint, Michigan"
-marblro01,1992-93,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Beecher in Flint, Michigan"
-marblro01,1993-94,27,DEN,NBA,5,6.4,.167,.000,1.6,0.2,0.0,0.4,0.8,-3.5,-0.2,-0.285,-15.7,-0.1,,"Beecher in Flint, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Roy Marble,/players/m/marblro01.html,1990,1994,University of Iowa,false,"Beecher in Flint, Michigan",-1.21,0.12,marblro01,1989-90,ATL,5.5,-0.3,-0.089,-7.1,-0.2,,23,NBA,24,6.8,.276,.655,1.0,0.5,0.3,0.0,2.1,ATL
+Roy Marble,/players/m/marblro01.html,1990,1994,University of Iowa,false,"Beecher in Flint, Michigan",,,marblro01,1990-91,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Roy Marble,/players/m/marblro01.html,1990,1994,University of Iowa,false,"Beecher in Flint, Michigan",,,marblro01,1991-92,Did Not Play (other pro league—CBA),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Roy Marble,/players/m/marblro01.html,1990,1994,University of Iowa,false,"Beecher in Flint, Michigan",,,marblro01,1992-93,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Roy Marble,/players/m/marblro01.html,1990,1994,University of Iowa,false,"Beecher in Flint, Michigan",+0.03,0.05,marblro01,1993-94,DEN,-3.5,-0.2,-0.285,-15.7,-0.1,,27,NBA,5,6.4,.167,.000,1.6,0.2,0.0,0.4,0.8,DEN

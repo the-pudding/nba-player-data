@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-napiesh01,2014-15,23,Miami Heat,NBA,51,19.8,.382,.786,2.2,2.5,0.8,0.1,5.1,9.3,0.5,.024,-2.6,-0.2,,1238640,"Lawrence Academy in Groton, Massachusetts"
-napiesh01,2015-16,24,Orlando Magic,NBA,55,10.9,.338,.733,1.0,1.8,0.4,0.0,3.7,9.6,0.1,.004,-4.9,-0.4,,1294440,"Lawrence Academy in Groton, Massachusetts"
-napiesh01,2016-17,25,Portland Trail Blazers,NBA,53,9.7,.399,.776,1.2,1.3,0.6,0.0,4.1,13.6,0.6,.060,-2.2,0.0,,1350120,"Lawrence Academy in Groton, Massachusetts"
-napiesh01,2017-18,26,Portland Trail Blazers,NBA,74,20.7,.420,.841,2.3,2.0,1.1,0.2,8.7,14.2,3.2,.101,0.2,0.8,,2361360,"Lawrence Academy in Groton, Massachusetts"
-napiesh01,2018-19,27,BRK,NBA,1,15.0,.333,1.000,0.0,1.0,2.0,0.0,8.0,14.4,0.0,.031,-2.7,0.0,,,"Lawrence Academy in Groton, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Shabazz Napier,/players/n/napiesh01.html,2015,2019,University of Connecticut,true,"Lawrence Academy in Groton, Massachusetts",-1.11,0.77,napiesh01,2014-15,MIA,9.3,0.5,.024,-2.6,-0.2,,NBA,1238640,23,51,19.8,.382,.786,2.2,2.5,0.8,0.1,5.1,MIA
+Shabazz Napier,/players/n/napiesh01.html,2015,2019,University of Connecticut,true,"Lawrence Academy in Groton, Massachusetts",-1.88,0.14,napiesh01,2015-16,ORL,9.6,0.1,.004,-4.9,-0.4,,NBA,1294440,24,55,10.9,.338,.733,1.0,1.8,0.4,0.0,3.7,ORL
+Shabazz Napier,/players/n/napiesh01.html,2015,2019,University of Connecticut,true,"Lawrence Academy in Groton, Massachusetts",+0.40,1.01,napiesh01,2016-17,POR,13.6,0.6,.060,-2.2,0.0,,NBA,1350120,25,53,9.7,.399,.776,1.2,1.3,0.6,0.0,4.1,POR
+Shabazz Napier,/players/n/napiesh01.html,2015,2019,University of Connecticut,true,"Lawrence Academy in Groton, Massachusetts",-0.31,2.09,napiesh01,2017-18,POR,14.2,3.2,.101,0.2,0.8,,NBA,2361360,26,74,20.7,.420,.841,2.3,2.0,1.1,0.2,8.7,POR
+Shabazz Napier,/players/n/napiesh01.html,2015,2019,University of Connecticut,true,"Lawrence Academy in Groton, Massachusetts",,,napiesh01,2018-19,BRK,14.4,0.0,.031,-2.7,0.0,,NBA,,27,1,15.0,.333,1.000,0.0,1.0,2.0,0.0,8.0,BRK

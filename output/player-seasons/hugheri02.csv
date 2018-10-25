@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hugheri02,1999-00,26,Dallas Mavericks,NBA,21,10.7,.486,.462,2.3,0.4,0.1,0.0,3.9,10.9,0.1,.029,-5.4,-0.2,,115423,"Walnut Hills in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rick Hughes,/players/h/hugheri02.html,2000,2000,Thomas More College,false,"Walnut Hills in Cincinnati, Ohio",-2.00,0.04,hugheri02,1999-00,DAL,10.9,0.1,.029,-5.4,-0.2,,NBA,115423,26,21,10.7,.486,.462,2.3,0.4,0.1,0.0,3.9,DAL

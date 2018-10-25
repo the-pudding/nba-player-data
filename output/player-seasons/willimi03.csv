@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willimi03,1989-90,26,"SAC,ATL",NBA,21,4.9,.333,.500,1.1,0.1,0.1,0.3,0.7,3.5,0.0,.012,-5.9,-0.1,,"De La Salle Institute in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mike Williams,/players/w/willimi03.html,1990,1990,"University of Cincinnati, Bradley University",false,"De La Salle Institute in Chicago, Illinois",-0.26,0.14,willimi03,1989-90,TOT,3.5,0.0,.012,-5.9,-0.1,,26,NBA,21,4.9,.333,.500,1.1,0.1,0.1,0.3,0.7,"SAC,ATL"

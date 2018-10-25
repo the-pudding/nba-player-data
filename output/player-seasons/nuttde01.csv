@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-nuttde01,1986-87,23,DAL,NBA,25,3.6,.400,.909,0.3,0.6,0.3,0.0,2.3,20.0,0.3,.156,0.8,0.1,,"Central in Little Rock, Arkansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dennis Nutt,/players/n/nuttde01.html,1987,1987,Texas Christian University,false,"Central in Little Rock, Arkansas",-0.34,0.13,nuttde01,1986-87,DAL,20.0,0.3,.156,0.8,0.1,,23,NBA,25,3.6,.400,.909,0.3,0.6,0.3,0.0,2.3,DAL

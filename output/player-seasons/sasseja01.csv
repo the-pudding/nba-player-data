@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-sasseja01,1996-97,23,"SAS,DAL",NBA,8,8.6,.391,,1.0,0.3,0.4,0.0,2.4,5.8,0.0,-0.032,-8.1,-0.1,,"Justin F. Kimball in Dallas, Texas"
-sasseja01,1997-98,24,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Justin F. Kimball in Dallas, Texas"
-sasseja01,1998-99,25,VAN,NBA,6,6.5,.455,.500,1.2,0.3,0.3,0.0,1.8,10.7,0.0,.017,-5.0,0.0,,"Justin F. Kimball in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jason Sasser,/players/s/sasseja01.html,1997,1999,Texas Tech University,false,"Justin F. Kimball in Dallas, Texas",-0.33,0.09,sasseja01,1996-97,TOT,5.8,0.0,-0.032,-8.1,-0.1,,23,NBA,8,8.6,.391,,1.0,0.3,0.4,0.0,2.4,"SAS,DAL"
+Jason Sasser,/players/s/sasseja01.html,1997,1999,Texas Tech University,false,"Justin F. Kimball in Dallas, Texas",,,sasseja01,1997-98,Did Not Play (other pro league—CBA),,,,,,,24,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Jason Sasser,/players/s/sasseja01.html,1997,1999,Texas Tech University,false,"Justin F. Kimball in Dallas, Texas",-0.26,0.05,sasseja01,1998-99,VAN,10.7,0.0,.017,-5.0,0.0,,25,NBA,6,6.5,.455,.500,1.2,0.3,0.3,0.0,1.8,VAN

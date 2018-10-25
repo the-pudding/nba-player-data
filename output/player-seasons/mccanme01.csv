@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mccanme01,1989-90,22,LAL,NBA,13,5.0,.308,.750,0.5,0.2,0.2,0.1,1.7,5.1,0.0,-0.003,-8.5,-0.1,,"Mount Carmel in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mel McCants,/players/m/mccanme01.html,1990,1990,Purdue University,false,"Mount Carmel in Chicago, Illinois",-0.50,0.08,mccanme01,1989-90,LAL,5.1,0.0,-0.003,-8.5,-0.1,,22,NBA,13,5.0,.308,.750,0.5,0.2,0.2,0.1,1.7,LAL

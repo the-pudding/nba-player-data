@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-spaldra01,2018-19,21,DAL,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.034,-8.3,0.0,,"Trinity HS in Louisville, Kentucky"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ray Spalding,/players/s/spaldra01.html,2019,2019,University of Louisville,true,"Trinity HS in Louisville, Kentucky",,,spaldra01,2018-19,DAL,0.0,0.0,-0.034,-8.3,0.0,,21,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,DAL

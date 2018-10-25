@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kesslal01,1990-91,24,Miami Heat,NBA,78,16.1,.425,.672,4.3,0.4,0.2,0.3,6.2,8.4,-0.1,-0.005,-7.8,-1.8,,1600000,"Roswell in Roswell, Georgia"
-kesslal01,1991-92,25,Miami Heat,NBA,77,15.5,.413,.817,4.1,0.4,0.2,0.4,5.3,10.2,1.2,.049,-5.5,-1.1,,1122000,"Roswell in Roswell, Georgia"
-kesslal01,1992-93,26,Miami Heat,NBA,40,10.4,.467,.766,2.3,0.4,0.1,0.3,3.9,11.5,0.8,.088,-4.2,-0.2,,762000,"Roswell in Roswell, Georgia"
-kesslal01,1993-94,27,Miami Heat,NBA,15,4.4,.440,.750,0.7,0.1,0.1,0.1,2.2,11.8,0.1,.102,-4.3,0.0,,922000,"Roswell in Roswell, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alec Kessler,/players/k/kesslal01.html,1991,1994,University of Georgia,false,"Roswell in Roswell, Georgia",-4.12,-1.60,kesslal01,1990-91,MIA,8.4,-0.1,-0.005,-7.8,-1.8,,NBA,1600000,24,78,16.1,.425,.672,4.3,0.4,0.2,0.3,6.2,MIA
+Alec Kessler,/players/k/kesslal01.html,1991,1994,University of Georgia,false,"Roswell in Roswell, Georgia",-3.09,-0.63,kesslal01,1991-92,MIA,10.2,1.2,.049,-5.5,-1.1,,NBA,1122000,25,77,15.5,.413,.817,4.1,0.4,0.2,0.4,5.3,MIA
+Alec Kessler,/players/k/kesslal01.html,1991,1994,University of Georgia,false,"Roswell in Roswell, Georgia",-1.62,0.19,kesslal01,1992-93,MIA,11.5,0.8,.088,-4.2,-0.2,,NBA,762000,26,40,10.4,.467,.766,2.3,0.4,0.1,0.3,3.9,MIA
+Alec Kessler,/players/k/kesslal01.html,1991,1994,University of Georgia,false,"Roswell in Roswell, Georgia",+0.19,0.11,kesslal01,1993-94,MIA,11.8,0.1,.102,-4.3,0.0,,NBA,922000,27,15,4.4,.440,.750,0.7,0.1,0.1,0.1,2.2,MIA

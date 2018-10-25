@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lockro01,1988-89,22,LAC,NBA,20,5.5,.281,.800,1.6,0.2,0.2,0.2,1.5,5.3,-0.2,-0.083,-9.4,-0.2,,"Reedley in Reedley, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rob Lock,/players/l/lockro01.html,1989,1989,University of Kentucky,false,"Reedley in Reedley, California",-0.83,0.11,lockro01,1988-89,LAC,5.3,-0.2,-0.083,-9.4,-0.2,,22,NBA,20,5.5,.281,.800,1.6,0.2,0.2,0.2,1.5,LAC

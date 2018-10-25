@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-penigde01,2003-04,22,ORL,NBA,10,8.9,.500,1.000,2.4,0.3,0.2,0.2,3.2,12.9,0.1,.049,-6.1,-0.1,,"Upland in Upland, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Desmond Penigar,/players/p/penigde01.html,2004,2004,Utah State University,false,"Upland in Upland, California",+0.18,0.14,penigde01,2003-04,ORL,12.9,0.1,.049,-6.1,-0.1,,22,NBA,10,8.9,.500,1.000,2.4,0.3,0.2,0.2,3.2,ORL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-haskisc01,1993-94,23,Indiana Pacers,NBA,27,6.9,.467,.684,2.0,0.2,0.1,0.6,2.0,11.3,0.3,.087,-2.9,0.0,,833000,"Beaumont in Beaumont, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Scott Haskin,/players/h/haskisc01.html,1994,1994,Oregon State University,false,"Beaumont in Beaumont, California",-0.11,0.27,haskisc01,1993-94,IND,11.3,0.3,.087,-2.9,0.0,,NBA,833000,23,27,6.9,.467,.684,2.0,0.2,0.1,0.6,2.0,IND

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-allenlu01,1976-77,29,LAL,NBA,78,31.8,.456,.774,3.2,5.2,1.5,0.2,14.6,15.6,4.9,.094,0.3,1.4,,"Wyandotte in Kansas City, Kansas"
-allenlu01,1977-78,30,KCK,NBA,77,27.9,.441,.791,3.0,4.7,1.2,0.4,11.9,13.3,2.1,.046,-1.5,0.2,,"Wyandotte in Kansas City, Kansas"
-allenlu01,1978-79,31,KCK,NBA,31,13.3,.397,.576,1.5,1.4,0.7,0.2,5.1,8.7,0.1,.007,-3.9,-0.2,,"Wyandotte in Kansas City, Kansas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lucius Allen,/players/a/allenlu01.html,1970,1979,"University of California, Los Angeles",false,"Wyandotte in Kansas City, Kansas",+0.28,4.66,allenlu01,1976-77,LAL,15.6,4.9,.094,0.3,1.4,,29,NBA,78,31.8,.456,.774,3.2,5.2,1.5,0.2,14.6,LAL
+Lucius Allen,/players/a/allenlu01.html,1970,1979,"University of California, Los Angeles",false,"Wyandotte in Kansas City, Kansas",-1.15,1.55,allenlu01,1977-78,KCK,13.3,2.1,.046,-1.5,0.2,,30,NBA,77,27.9,.441,.791,3.0,4.7,1.2,0.4,11.9,KCK
+Lucius Allen,/players/a/allenlu01.html,1970,1979,"University of California, Los Angeles",false,"Wyandotte in Kansas City, Kansas",-1.91,0.09,allenlu01,1978-79,KCK,8.7,0.1,.007,-3.9,-0.2,,31,NBA,31,13.3,.397,.576,1.5,1.4,0.7,0.2,5.1,KCK

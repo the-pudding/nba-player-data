@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-kernejo01,1998-99,24,Orlando Magic,NBA,1,5.0,.000,,0.0,0.0,0.0,0.0,0.0,-15.2,0.0,-0.177,-14.2,0.0,,287500,"Saint Pius X in Atlanta, Georgia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jonathan Kerner,/players/k/kernejo01.html,1999,1999,"Florida State University, East Carolina University",false,"Saint Pius X in Atlanta, Georgia",+0.75,0.01,kernejo01,1998-99,ORL,-15.2,0.0,-0.177,-14.2,0.0,,NBA,287500,24,1,5.0,.000,,0.0,0.0,0.0,0.0,0.0,ORL

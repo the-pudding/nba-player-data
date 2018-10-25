@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownan02,2015-16,23,Los Angeles Lakers,NBA,29,20.7,.310,.850,2.4,0.7,0.5,0.2,4.0,4.9,-0.3,-0.024,-5.0,-0.5,,700000,"Ocean View in Huntington Beach, California"
-brownan02,2016-17,24,Los Angeles Lakers,NBA,11,14.5,.360,,3.0,0.7,0.5,0.1,3.9,7.2,0.0,.001,-4.0,-0.1,,874636,"Ocean View in Huntington Beach, California"
-brownan02,2016-17,24,Los Angeles Lakers,NBA,9,15.9,.341,,2.9,0.7,0.6,0.1,3.8,5.9,0.0,-0.007,-4.3,-0.1,,874636,"Ocean View in Huntington Beach, California"
-brownan02,2016-17,24,Los Angeles Lakers,NBA,2,8.0,.444,,3.5,1.0,0.0,0.0,4.5,18.5,0.0,.076,-0.8,0.0,,874636,"Ocean View in Huntington Beach, California"
-brownan02,2017-18,25,Minnesota Timberwolves,NBA,1,4.0,1.000,,0.0,1.0,0.0,0.0,3.0,41.9,0.0,.571,2.1,0.0,,,"Ocean View in Huntington Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Brown,/players/b/brownan02.html,2016,2018,Stanford University,true,"Ocean View in Huntington Beach, California",-1.17,0.43,brownan02,2015-16,LAL,4.9,-0.3,-0.024,-5.0,-0.5,,NBA,700000,23,29,20.7,.310,.850,2.4,0.7,0.5,0.2,4.0,LAL
+Anthony Brown,/players/b/brownan02.html,2016,2018,Stanford University,true,"Ocean View in Huntington Beach, California",-1.20,0.12,brownan02,2016-17,TOT,7.2,0.0,.001,-4.0,-0.1,,NBA,874636,24,11,14.5,.360,,3.0,0.7,0.5,0.1,3.9,"NOP,ORL"
+Anthony Brown,/players/b/brownan02.html,2016,2018,Stanford University,true,"Ocean View in Huntington Beach, California",-1.45,0.00,brownan02,2017-18,MIN,41.9,0.0,.571,2.1,0.0,,NBA,,25,1,4.0,1.000,,0.0,1.0,0.0,0.0,3.0,MIN

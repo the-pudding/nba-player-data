@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vinsofr01,1994-95,24,Atlanta Hawks,NBA,5,5.4,.143,1.000,0.0,0.2,0.0,0.0,0.8,-6.5,-0.1,-0.180,-15.0,-0.1,,150000,"Northampton County in East Conway, North Carolina"
-vinsofr01,1995-96,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Northampton County in East Conway, North Carolina"
-vinsofr01,1996-97,26,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Northampton County in East Conway, North Carolina"
-vinsofr01,1997-98,27,Did Not Play (other pro league—USBL),,,,,,,,,,,,,,,,,,"Northampton County in East Conway, North Carolina"
-vinsofr01,1998-99,28,Did Not Play (other pro league—Domincan Republic),,,,,,,,,,,,,,,,,,"Northampton County in East Conway, North Carolina"
-vinsofr01,1999-00,29,Seattle SuperSonics,NBA,8,5.0,.294,.500,0.1,0.0,0.4,0.0,1.6,1.0,-0.1,-0.178,-12.5,-0.1,,485000,"Northampton County in East Conway, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Fred Vinson,/players/v/vinsofr01.html,1995,2000,Georgia Institute of Technology,false,"Northampton County in East Conway, North Carolina",+0.28,0.05,vinsofr01,1994-95,ATL,-6.5,-0.1,-0.180,-15.0,-0.1,,NBA,150000,24,5,5.4,.143,1.000,0.0,0.2,0.0,0.0,0.8,ATL
+Fred Vinson,/players/v/vinsofr01.html,1995,2000,Georgia Institute of Technology,false,"Northampton County in East Conway, North Carolina",,,vinsofr01,1995-96,Did Not Play (other pro league—CBA),,,,,,,,,25,,,,,,,,,,Did Not Play (other pro league—CBA)
+Fred Vinson,/players/v/vinsofr01.html,1995,2000,Georgia Institute of Technology,false,"Northampton County in East Conway, North Carolina",,,vinsofr01,1996-97,Did Not Play (other pro league—Israel),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Israel)
+Fred Vinson,/players/v/vinsofr01.html,1995,2000,Georgia Institute of Technology,false,"Northampton County in East Conway, North Carolina",,,vinsofr01,1997-98,Did Not Play (other pro league—USBL),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league—USBL)
+Fred Vinson,/players/v/vinsofr01.html,1995,2000,Georgia Institute of Technology,false,"Northampton County in East Conway, North Carolina",,,vinsofr01,1998-99,Did Not Play (other pro league—Domincan Republic),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Domincan Republic)
+Fred Vinson,/players/v/vinsofr01.html,1995,2000,Georgia Institute of Technology,false,"Northampton County in East Conway, North Carolina",-0.15,0.06,vinsofr01,1999-00,SEA,1.0,-0.1,-0.178,-12.5,-0.1,,NBA,485000,29,8,5.0,.294,.500,0.1,0.0,0.4,0.0,1.6,SEA

@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-covinro01,2013-14,23,HOU,NBA,7,4.9,.429,,0.7,0.0,0.3,0.0,2.3,15.0,0.1,.122,-3.6,0.0,,"Proviso West in Hillside, Illinois",
-covinro01,2014-15,24,Philadelphia 76ers,NBA,70,27.9,.396,.820,4.5,1.5,1.4,0.4,13.5,14.7,4.0,.097,0.2,1.1,,"Proviso West in Hillside, Illinois",1000000
-covinro01,2015-16,25,Philadelphia 76ers,NBA,67,28.4,.385,.791,6.3,1.4,1.6,0.6,12.8,13.2,2.0,.050,-0.2,0.9,,"Proviso West in Hillside, Illinois",1000000
-covinro01,2016-17,26,Philadelphia 76ers,NBA,67,31.6,.399,.822,6.5,1.5,1.9,1.0,12.9,13.2,3.1,.071,1.4,1.8,,"Proviso West in Hillside, Illinois",1015696
-covinro01,2017-18,27,Philadelphia 76ers,NBA,80,31.7,.413,.853,5.4,2.0,1.7,0.9,12.6,12.9,6.1,.116,2.5,2.9,,"Proviso West in Hillside, Illinois",16698103
-covinro01,2018-19,28,PHI,NBA,5,35.2,.423,.778,5.0,1.2,1.4,1.2,12.8,10.0,0.2,.041,-2.2,0.0,,"Proviso West in Hillside, Illinois",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Robert Covington,/players/c/covinro01.html,2014,2019,Tennessee State University,true,"Proviso West in Hillside, Illinois",-0.42,0.04,covinro01,2013-14,HOU,15.0,0.1,.122,-3.6,0.0,,23,NBA,7,4.9,.429,,0.7,0.0,0.3,0.0,2.3,HOU,
+Robert Covington,/players/c/covinro01.html,2014,2019,Tennessee State University,true,"Proviso West in Hillside, Illinois",+0.84,4.20,covinro01,2014-15,PHI,14.7,4.0,.097,0.2,1.1,,24,NBA,70,27.9,.396,.820,4.5,1.5,1.4,0.4,13.5,PHI,1000000
+Robert Covington,/players/c/covinro01.html,2014,2019,Tennessee State University,true,"Proviso West in Hillside, Illinois",+0.65,3.82,covinro01,2015-16,PHI,13.2,2.0,.050,-0.2,0.9,,25,NBA,67,28.4,.385,.791,6.3,1.4,1.6,0.6,12.8,PHI,1000000
+Robert Covington,/players/c/covinro01.html,2014,2019,Tennessee State University,true,"Proviso West in Hillside, Illinois",+1.70,5.75,covinro01,2016-17,PHI,13.2,3.1,.071,1.4,1.8,,26,NBA,67,31.6,.399,.822,6.5,1.5,1.9,1.0,12.9,PHI,1015696
+Robert Covington,/players/c/covinro01.html,2014,2019,Tennessee State University,true,"Proviso West in Hillside, Illinois",+4.73,13.04,covinro01,2017-18,PHI,12.9,6.1,.116,2.5,2.9,,27,NBA,80,31.7,.413,.853,5.4,2.0,1.7,0.9,12.6,PHI,16698103
+Robert Covington,/players/c/covinro01.html,2014,2019,Tennessee State University,true,"Proviso West in Hillside, Illinois",,,covinro01,2018-19,PHI,10.0,0.2,.041,-2.2,0.0,,28,NBA,5,35.2,.423,.778,5.0,1.2,1.4,1.2,12.8,PHI,

@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-woodsmi01,1980-81,22,NYK,NBA,81,11.7,.442,.766,1.2,0.9,0.4,0.1,4.7,10.9,0.9,.044,-4.4,-0.6,,"Broad Ripple in Indianapolis, Indiana",
-woodsmi01,1981-82,23,"NJN,KCK",NBA,83,28.1,.503,.773,3.0,2.7,1.7,0.4,15.7,17.6,5.7,.117,1.8,2.3,,"Broad Ripple in Indianapolis, Indiana",
-woodsmi01,1982-83,24,KCK,NBA,81,30.0,.506,.790,3.1,3.1,1.7,0.7,18.2,18.9,7.8,.153,2.1,2.5,,"Broad Ripple in Indianapolis, Indiana",
-woodsmi01,1983-84,25,KCK,NBA,71,25.9,.477,.818,2.5,2.5,1.2,0.4,14.5,15.9,4.2,.110,-0.3,0.8,,"Broad Ripple in Indianapolis, Indiana",
-woodsmi01,1984-85,26,Kansas City Kings,NBA,78,25.6,.496,.800,2.5,1.8,1.5,0.4,17.0,17.5,4.2,.101,-0.8,0.6,,"Broad Ripple in Indianapolis, Indiana",375000
-woodsmi01,1985-86,27,Sacramento Kings,NBA,81,29.8,.475,.837,2.8,2.4,1.1,0.5,15.6,14.2,4.0,.079,-1.1,0.5,,"Broad Ripple in Indianapolis, Indiana",375000
-woodsmi01,1986-87,28,LAC,NBA,74,28.7,.437,.828,2.2,2.6,1.4,0.2,17.1,13.9,0.9,.021,-3.0,-0.5,,"Broad Ripple in Indianapolis, Indiana",
-woodsmi01,1987-88,29,Los Angeles Clippers,NBA,80,31.7,.445,.868,2.4,3.4,1.4,0.3,18.0,14.7,3.1,.058,-1.6,0.3,,"Broad Ripple in Indianapolis, Indiana",375000
-woodsmi01,1988-89,30,Houston Rockets,NBA,81,27.9,.438,.823,2.4,2.5,1.1,0.2,12.9,12.0,3.5,.074,-2.0,0.0,,"Broad Ripple in Indianapolis, Indiana",475000
-woodsmi01,1989-90,31,HOU,NBA,61,15.9,.395,.721,1.4,1.1,0.7,0.2,6.5,8.8,0.7,.032,-4.8,-0.7,,"Broad Ripple in Indianapolis, Indiana",
-woodsmi01,1990-91,32,"HOU,CLE",NBA,15,11.4,.338,.846,0.9,1.0,0.3,0.3,4.3,5.9,-0.2,-0.058,-8.8,-0.3,,"Broad Ripple in Indianapolis, Indiana",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-2.03,0.13,woodsmi01,1980-81,NYK,10.9,0.9,.044,-4.4,-0.6,,22,NBA,81,11.7,.442,.766,1.2,0.9,0.4,0.1,4.7,NYK,
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",+0.68,4.71,woodsmi01,1981-82,TOT,17.6,5.7,.117,1.8,2.3,,23,NBA,83,28.1,.503,.773,3.0,2.7,1.7,0.4,15.7,"NJN,KCK",
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",+1.93,6.94,woodsmi01,1982-83,KCK,18.9,7.8,.153,2.1,2.5,,24,NBA,81,30.0,.506,.790,3.1,3.1,1.7,0.7,18.2,KCK,
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-0.06,2.89,woodsmi01,1983-84,KCK,15.9,4.2,.110,-0.3,0.8,,25,NBA,71,25.9,.477,.818,2.5,2.5,1.2,0.4,14.5,KCK,
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-0.03,3.05,woodsmi01,1984-85,KCK,17.5,4.2,.101,-0.8,0.6,,26,NBA,78,25.6,.496,.800,2.5,1.8,1.5,0.4,17.0,KCK,375000
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-0.89,2.39,woodsmi01,1985-86,SAC,14.2,4.0,.079,-1.1,0.5,,27,NBA,81,29.8,.475,.837,2.8,2.4,1.1,0.5,15.6,SAC,375000
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-2.69,-0.56,woodsmi01,1986-87,LAC,13.9,0.9,.021,-3.0,-0.5,,28,NBA,74,28.7,.437,.828,2.2,2.6,1.4,0.2,17.1,LAC,
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-1.70,0.90,woodsmi01,1987-88,LAC,14.7,3.1,.058,-1.6,0.3,,29,NBA,80,31.7,.445,.868,2.4,3.4,1.4,0.3,18.0,LAC,375000
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-1.24,1.65,woodsmi01,1988-89,HOU,12.0,3.5,.074,-2.0,0.0,,30,NBA,81,27.9,.438,.823,2.4,2.5,1.1,0.2,12.9,HOU,475000
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-2.74,-0.36,woodsmi01,1989-90,HOU,8.8,0.7,.032,-4.8,-0.7,,31,NBA,61,15.9,.395,.721,1.4,1.1,0.7,0.2,6.5,HOU,
+Mike Woodson,/players/w/woodsmi01.html,1981,1991,Indiana University,false,"Broad Ripple in Indianapolis, Indiana",-1.06,0.14,woodsmi01,1990-91,TOT,5.9,-0.2,-0.058,-8.8,-0.3,,32,NBA,15,11.4,.338,.846,0.9,1.0,0.3,0.3,4.3,"HOU,CLE",

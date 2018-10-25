@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-kornefr01,1989-90,23,MIL,NBA,57,7.7,.368,.615,1.2,0.4,0.2,0.1,2.0,6.1,0.0,.003,-5.8,-0.4,,"Catholic in Lexington, Kentucky",
-kornefr01,1990-91,24,Milwaukee Bucks,NBA,32,4.9,.371,.538,0.8,0.3,0.2,0.0,1.8,6.2,-0.1,-0.023,-6.4,-0.2,,"Catholic in Lexington, Kentucky",225000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Frank Kornet,/players/k/kornefr01.html,1990,1991,Vanderbilt University,false,"Catholic in Lexington, Kentucky",-3.22,-0.28,kornefr01,1989-90,MIL,6.1,0.0,.003,-5.8,-0.4,,23,NBA,57,7.7,.368,.615,1.2,0.4,0.2,0.1,2.0,MIL,
+Frank Kornet,/players/k/kornefr01.html,1990,1991,Vanderbilt University,false,"Catholic in Lexington, Kentucky",-0.86,0.15,kornefr01,1990-91,MIL,6.2,-0.1,-0.023,-6.4,-0.2,,24,NBA,32,4.9,.371,.538,0.8,0.3,0.2,0.0,1.8,MIL,225000

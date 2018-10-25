@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-georgpa01,2010-11,20,Indiana Pacers,NBA,61,20.7,.453,.762,3.7,1.1,1.0,0.4,7.8,13.0,2.4,.091,0.0,0.6,,2238360,"Knight in Palmdale, California"
-georgpa01,2011-12,21,Indiana Pacers,NBA,66,29.7,.440,.802,5.6,2.4,1.6,0.6,12.1,16.5,6.0,.148,3.9,2.9,,2406240,"Knight in Palmdale, California"
-georgpa01,2012-13,22,Indiana Pacers,NBA,79,37.6,.419,.807,7.6,4.1,1.8,0.6,17.4,16.8,9.0,.145,4.7,5.0,All-NBA (3rd),2574120,"Knight in Palmdale, California"
-georgpa01,2013-14,23,Indiana Pacers,NBA,80,36.2,.424,.864,6.8,3.5,1.9,0.3,21.7,20.1,10.8,.178,4.7,4.9,All-NBA (3rd),3282003,"Knight in Palmdale, California"
-georgpa01,2014-15,24,Indiana Pacers,NBA,6,15.2,.367,.727,3.7,1.0,0.8,0.2,8.8,13.0,0.0,-0.008,-3.3,0.0,,15925680,"Knight in Palmdale, California"
-georgpa01,2015-16,25,Indiana Pacers,NBA,81,34.8,.418,.860,7.0,4.1,1.9,0.4,23.1,20.9,9.2,.157,4.5,4.6,All-NBA (3rd),17120106,"Knight in Palmdale, California"
-georgpa01,2016-17,26,Indiana Pacers,NBA,75,35.9,.461,.898,6.6,3.3,1.6,0.4,23.7,20.2,7.1,.126,2.8,3.2,,18314532,"Knight in Palmdale, California"
-georgpa01,2017-18,27,Oklahoma City Thunder,NBA,79,36.6,.430,.822,5.7,3.3,2.0,0.5,21.9,18.7,8.9,.148,2.6,3.3,All-NBA (3rd),19508958,"Knight in Palmdale, California"
-georgpa01,2018-19,28,OKC,NBA,3,36.0,.382,.824,5.3,3.7,3.0,0.0,25.3,14.8,0.1,.026,1.7,0.1,,,"Knight in Palmdale, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+0.08,2.23,georgpa01,2010-11,IND,13.0,2.4,.091,0.0,0.6,,NBA,2238360,20,61,20.7,.453,.762,3.7,1.1,1.0,0.4,7.8,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+3.74,9.60,georgpa01,2011-12,IND,16.5,6.0,.148,3.9,2.9,,NBA,2406240,21,66,29.7,.440,.802,5.6,2.4,1.6,0.6,12.1,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+3.72,15.44,georgpa01,2012-13,IND,16.8,9.0,.145,4.7,5.0,All-NBA (3rd),NBA,2574120,22,79,37.6,.419,.807,7.6,4.1,1.8,0.6,17.4,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+4.39,16.76,georgpa01,2013-14,IND,20.1,10.8,.178,4.7,4.9,All-NBA (3rd),NBA,3282003,23,80,36.2,.424,.864,6.8,3.5,1.9,0.3,21.7,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+0.76,0.19,georgpa01,2014-15,IND,13.0,0.0,-0.008,-3.3,0.0,,NBA,15925680,24,6,15.2,.367,.727,3.7,1.0,0.8,0.2,8.8,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+3.02,11.20,georgpa01,2015-16,IND,20.9,9.2,.157,4.5,4.6,All-NBA (3rd),NBA,17120106,25,81,34.8,.418,.860,7.0,4.1,1.9,0.4,23.1,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+2.74,9.56,georgpa01,2016-17,IND,20.2,7.1,.126,2.8,3.2,,NBA,18314532,26,75,35.9,.461,.898,6.6,3.3,1.6,0.4,23.7,IND
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",+2.27,9.57,georgpa01,2017-18,OKC,18.7,8.9,.148,2.6,3.3,All-NBA (3rd),NBA,19508958,27,79,36.6,.430,.822,5.7,3.3,2.0,0.5,21.9,OKC
+Paul George,/players/g/georgpa01.html,2011,2019,"California State University, Fresno",true,"Knight in Palmdale, California",,,georgpa01,2018-19,OKC,14.8,0.1,.026,1.7,0.1,,NBA,,28,3,36.0,.382,.824,5.3,3.7,3.0,0.0,25.3,OKC

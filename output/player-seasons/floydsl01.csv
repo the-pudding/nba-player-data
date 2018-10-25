@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-floydsl01,1982-83,22,"NJN,GSW",NBA,76,16.4,.429,.833,1.8,1.8,0.8,0.2,8.1,13.8,2.2,.083,-2.2,-0.1,,"Hunter Huss in Gastonia, North Carolina",
-floydsl01,1983-84,23,GSW,NBA,77,33.2,.463,.816,3.5,3.5,1.3,0.4,16.8,14.6,4.4,.084,-0.8,0.8,,"Hunter Huss in Gastonia, North Carolina",
-floydsl01,1984-85,24,Golden State Warriors,NBA,82,35.0,.445,.810,2.5,5.0,1.6,0.5,19.5,15.4,3.1,.052,-1.2,0.6,,"Hunter Huss in Gastonia, North Carolina",200000
-floydsl01,1985-86,25,Golden State Warriors,NBA,82,33.7,.506,.796,3.6,9.1,1.9,0.2,17.2,20.0,7.5,.130,2.6,3.2,,"Hunter Huss in Gastonia, North Carolina",250000
-floydsl01,1986-87,26,GSW,NBA,82,37.4,.488,.860,3.3,10.3,1.8,0.2,18.8,20.2,10.0,.157,2.7,3.6,,"Hunter Huss in Gastonia, North Carolina",
-floydsl01,1987-88,27,Houston Rockets,NBA,77,32.6,.433,.850,3.8,7.1,1.2,0.2,15.0,15.4,4.4,.084,-0.1,1.2,,"Hunter Huss in Gastonia, North Carolina",625000
-floydsl01,1987-88,27,Houston Rockets,NBA,18,37.8,.439,.835,5.1,9.9,1.5,0.1,21.2,19.5,1.3,.093,1.4,0.6,,"Hunter Huss in Gastonia, North Carolina",625000
-floydsl01,1987-88,27,Houston Rockets,NBA,59,31.1,.431,.860,3.5,6.2,1.2,0.2,13.1,14.0,3.1,.080,-0.6,0.7,,"Hunter Huss in Gastonia, North Carolina",625000
-floydsl01,1988-89,28,Houston Rockets,NBA,82,34.0,.443,.845,3.7,8.6,1.5,0.1,14.2,16.4,7.7,.133,1.5,2.5,,"Hunter Huss in Gastonia, North Carolina",675000
-floydsl01,1989-90,29,HOU,NBA,82,32.1,.451,.806,2.4,7.3,1.1,0.1,12.2,14.2,6.3,.115,-0.8,0.8,,"Hunter Huss in Gastonia, North Carolina",
-floydsl01,1990-91,30,Houston Rockets,NBA,82,22.6,.411,.752,1.9,3.9,1.2,0.2,12.3,16.1,3.7,.096,-0.7,0.6,,"Hunter Huss in Gastonia, North Carolina",1400000
-floydsl01,1991-92,31,Houston Rockets,NBA,82,20.3,.406,.794,1.8,2.9,0.7,0.3,9.1,12.1,0.9,.025,-4.2,-0.9,,"Hunter Huss in Gastonia, North Carolina",1500000
-floydsl01,1992-93,32,Houston Rockets,NBA,52,16.7,.407,.794,1.7,2.5,0.6,0.1,6.6,12.1,1.0,.056,-3.7,-0.4,,"Hunter Huss in Gastonia, North Carolina",1700000
-floydsl01,1993-94,33,Houston Rockets,NBA,53,13.9,.335,.667,1.3,1.9,0.2,0.2,3.8,6.0,-0.4,-0.025,-6.9,-0.9,,"Hunter Huss in Gastonia, North Carolina",1700000
-floydsl01,1994-95,34,New Jersey Nets,NBA,48,17.3,.335,.698,1.1,2.6,0.3,0.1,4.1,6.3,-0.2,-0.010,-6.8,-1.0,,"Hunter Huss in Gastonia, North Carolina",150000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-1.58,0.53,floydsl01,1982-83,TOT,13.8,2.2,.083,-2.2,-0.1,,22,NBA,76,16.4,.429,.833,1.8,1.8,0.8,0.2,8.1,"NJN,GSW",
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-0.62,2.87,floydsl01,1983-84,GSW,14.6,4.4,.084,-0.8,0.8,,23,NBA,77,33.2,.463,.816,3.5,3.5,1.3,0.4,16.8,GSW,
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-0.84,2.83,floydsl01,1984-85,GSW,15.4,3.1,.052,-1.2,0.6,,24,NBA,82,35.0,.445,.810,2.5,5.0,1.6,0.5,19.5,GSW,200000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",+2.26,8.34,floydsl01,1985-86,GSW,20.0,7.5,.130,2.6,3.2,,25,NBA,82,33.7,.506,.796,3.6,9.1,1.9,0.2,17.2,GSW,250000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",+3.06,12.22,floydsl01,1986-87,GSW,20.2,10.0,.157,2.7,3.6,,26,NBA,82,37.4,.488,.860,3.3,10.3,1.8,0.2,18.8,GSW,
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-0.29,3.58,floydsl01,1987-88,TOT,15.4,4.4,.084,-0.1,1.2,,27,NBA,77,32.6,.433,.850,3.8,7.1,1.2,0.2,15.0,"GSW,HOU",625000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",+1.94,8.43,floydsl01,1988-89,HOU,16.4,7.7,.133,1.5,2.5,,28,NBA,82,34.0,.443,.845,3.7,8.6,1.5,0.1,14.2,HOU,675000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",+0.22,4.74,floydsl01,1989-90,HOU,14.2,6.3,.115,-0.8,0.8,,29,NBA,82,32.1,.451,.806,2.4,7.3,1.1,0.1,12.2,HOU,
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-0.01,2.90,floydsl01,1990-91,HOU,16.1,3.7,.096,-0.7,0.6,,30,NBA,82,22.6,.411,.752,1.9,3.9,1.2,0.2,12.3,HOU,1400000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-2.51,-0.26,floydsl01,1991-92,HOU,12.1,0.9,.025,-4.2,-0.9,,31,NBA,82,20.3,.406,.794,1.8,2.9,0.7,0.3,9.1,HOU,1500000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-2.13,0.09,floydsl01,1992-93,HOU,12.1,1.0,.056,-3.7,-0.4,,32,NBA,52,16.7,.407,.794,1.7,2.5,0.6,0.1,6.6,HOU,1700000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-3.63,-0.70,floydsl01,1993-94,SAS,6.0,-0.4,-0.025,-6.9,-0.9,,33,NBA,53,13.9,.335,.667,1.3,1.9,0.2,0.2,3.8,SAS,1700000
+Sleepy Floyd,/players/f/floydsl01.html,1983,1995,Georgetown University,false,"Hunter Huss in Gastonia, North Carolina",-3.72,-0.80,floydsl01,1994-95,NJN,6.3,-0.2,-0.010,-6.8,-1.0,,34,NBA,48,17.3,.335,.698,1.1,2.6,0.3,0.1,4.1,NJN,150000

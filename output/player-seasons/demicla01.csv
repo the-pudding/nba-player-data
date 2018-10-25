@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-demicla01,1979-80,22,NYK,NBA,82,22.8,.436,.601,5.9,0.8,0.7,0.4,7.0,7.4,-0.1,-0.002,-4.7,-1.3,,"West Side in Gary, Indiana"
-demicla01,1980-81,23,NYK,NBA,76,12.7,.504,.630,3.2,0.4,0.2,0.2,4.1,10.4,1.6,.081,-3.6,-0.4,,"West Side in Gary, Indiana"
-demicla01,1981-82,24,NYK,NBA,48,7.4,.470,.359,1.6,0.3,0.1,0.1,1.9,5.7,-0.1,-0.017,-6.6,-0.4,,"West Side in Gary, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Larry Demic,/players/d/demicla01.html,1980,1982,University of Arizona,false,"West Side in Gary, Indiana",-3.93,-2.07,demicla01,1979-80,NYK,7.4,-0.1,-0.002,-4.7,-1.3,,22,NBA,82,22.8,.436,.601,5.9,0.8,0.7,0.4,7.0,NYK
+Larry Demic,/players/d/demicla01.html,1980,1982,University of Arizona,false,"West Side in Gary, Indiana",-2.41,-0.13,demicla01,1980-81,NYK,10.4,1.6,.081,-3.6,-0.4,,23,NBA,76,12.7,.504,.630,3.2,0.4,0.2,0.2,4.1,NYK
+Larry Demic,/players/d/demicla01.html,1980,1982,University of Arizona,false,"West Side in Gary, Indiana",-3.57,-0.31,demicla01,1981-82,NYK,5.7,-0.1,-0.017,-6.6,-0.4,,24,NBA,48,7.4,.470,.359,1.6,0.3,0.1,0.1,1.9,NYK

@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-dedmode01,2013-14,24,"GSW,PHI,ORL",NBA,31,12.6,.458,.656,4.1,0.2,0.2,0.7,3.1,10.7,0.6,.070,-6.0,-0.4,,"Lancaster HS in Lancaster, California",
-dedmode01,2014-15,25,Orlando Magic,NBA,59,14.3,.562,.531,5.0,0.2,0.3,0.8,3.7,13.3,1.7,.099,-3.3,-0.3,,"Lancaster HS in Lancaster, California",816482
-dedmode01,2015-16,26,Orlando Magic,NBA,58,12.2,.559,.750,3.9,0.2,0.4,0.8,4.4,17.0,2.4,.162,-1.3,0.1,,"Lancaster HS in Lancaster, California",947278
-dedmode01,2016-17,27,San Antonio Spurs,NBA,76,17.5,.622,.699,6.5,0.6,0.5,0.8,5.1,16.0,5.2,.189,1.7,1.2,,"Lancaster HS in Lancaster, California",2898000
-dedmode01,2017-18,28,Atlanta Hawks,NBA,62,24.9,.524,.779,7.9,1.5,0.6,0.8,10.0,15.8,3.7,.114,0.5,1.0,,"Lancaster HS in Lancaster, California",6000000
-dedmode01,2018-19,29,ATL,NBA,1,14.0,.250,,5.0,2.0,0.0,1.0,3.0,9.4,0.0,.083,-3.7,0.0,,"Lancaster HS in Lancaster, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dewayne Dedmon,/players/d/dedmode01.html,2014,2019,University of Southern California,true,"Lancaster HS in Lancaster, California",-1.27,0.25,dedmode01,2013-14,TOT,10.7,0.6,.070,-6.0,-0.4,,24,NBA,31,12.6,.458,.656,4.1,0.2,0.2,0.7,3.1,"GSW,PHI,ORL",
+Dewayne Dedmon,/players/d/dedmode01.html,2014,2019,University of Southern California,true,"Lancaster HS in Lancaster, California",-0.04,1.28,dedmode01,2014-15,ORL,13.3,1.7,.099,-3.3,-0.3,,25,NBA,59,14.3,.562,.531,5.0,0.2,0.3,0.8,3.7,ORL,816482
+Dewayne Dedmon,/players/d/dedmode01.html,2014,2019,University of Southern California,true,"Lancaster HS in Lancaster, California",-0.06,1.06,dedmode01,2015-16,ORL,17.0,2.4,.162,-1.3,0.1,,26,NBA,58,12.2,.559,.750,3.9,0.2,0.4,0.8,4.4,ORL,947278
+Dewayne Dedmon,/players/d/dedmode01.html,2014,2019,University of Southern California,true,"Lancaster HS in Lancaster, California",+1.69,3.86,dedmode01,2016-17,SAS,16.0,5.2,.189,1.7,1.2,,27,NBA,76,17.5,.622,.699,6.5,0.6,0.5,0.8,5.1,SAS,2898000
+Dewayne Dedmon,/players/d/dedmode01.html,2014,2019,University of Southern California,true,"Lancaster HS in Lancaster, California",+0.08,2.47,dedmode01,2017-18,ATL,15.8,3.7,.114,0.5,1.0,,28,NBA,62,24.9,.524,.779,7.9,1.5,0.6,0.8,10.0,ATL,6000000
+Dewayne Dedmon,/players/d/dedmode01.html,2014,2019,University of Southern California,true,"Lancaster HS in Lancaster, California",,,dedmode01,2018-19,ATL,9.4,0.0,.083,-3.7,0.0,,29,NBA,1,14.0,.250,,5.0,2.0,0.0,1.0,3.0,ATL,

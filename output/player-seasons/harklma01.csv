@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harklma01,2012-13,19,Orlando Magic,NBA,76,26.0,.461,.570,4.4,0.7,1.2,0.8,8.2,12.5,2.4,.059,-1.0,0.5,,1731960,"South Kent School in South Kent, Connecticut"
-harklma01,2013-14,20,Orlando Magic,NBA,80,24.4,.464,.594,3.3,1.0,1.2,0.6,7.4,11.8,2.8,.068,0.0,1.0,,1809840,"South Kent School in South Kent, Connecticut"
-harklma01,2014-15,21,Orlando Magic,NBA,45,15.0,.399,.537,2.4,0.6,0.7,0.2,3.5,8.4,0.3,.021,-2.9,-0.1,,1887840,"South Kent School in South Kent, Connecticut"
-harklma01,2015-16,22,Portland Trail Blazers,NBA,78,18.7,.474,.622,3.6,0.9,0.6,0.4,6.4,13.3,2.9,.096,-0.2,0.7,,2894059,"South Kent School in South Kent, Connecticut"
-harklma01,2016-17,23,Portland Trail Blazers,NBA,77,28.9,.503,.621,4.4,1.1,1.1,0.9,10.0,13.1,4.2,.091,0.7,1.5,,8988764,"South Kent School in South Kent, Connecticut"
-harklma01,2017-18,24,Portland Trail Blazers,NBA,59,21.4,.495,.712,2.7,0.9,0.8,0.7,6.5,12.6,3.2,.123,1.8,1.2,,10162922,"South Kent School in South Kent, Connecticut"
-harklma01,2018-19,25,POR,NBA,3,19.3,.400,1.000,6.3,1.0,0.3,1.3,5.7,12.8,0.2,.124,2.0,0.1,,,"South Kent School in South Kent, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",-3.14,-1.23,harklma01,2012-13,ORL,12.5,2.4,.059,-1.0,0.5,,NBA,1731960,19,76,26.0,.461,.570,4.4,0.7,1.2,0.8,8.2,ORL
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",-1.18,1.41,harklma01,2013-14,ORL,11.8,2.8,.068,0.0,1.0,,NBA,1809840,20,80,24.4,.464,.594,3.3,1.0,1.2,0.6,7.4,ORL
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",-0.91,0.60,harklma01,2014-15,ORL,8.4,0.3,.021,-2.9,-0.1,,NBA,1887840,21,45,15.0,.399,.537,2.4,0.6,0.7,0.2,3.5,ORL
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",-0.69,1.85,harklma01,2015-16,POR,13.3,2.9,.096,-0.2,0.7,,NBA,2894059,22,78,18.7,.474,.622,3.6,0.9,0.6,0.4,6.4,POR
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",+0.88,4.91,harklma01,2016-17,POR,13.1,4.2,.091,0.7,1.5,,NBA,8988764,23,77,28.9,.503,.621,4.4,1.1,1.1,0.9,10.0,POR
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",-0.56,1.53,harklma01,2017-18,POR,12.6,3.2,.123,1.8,1.2,,NBA,10162922,24,59,21.4,.495,.712,2.7,0.9,0.8,0.7,6.5,POR
+Maurice Harkless,/players/h/harklma01.html,2013,2019,St. John's University,true,"South Kent School in South Kent, Connecticut",,,harklma01,2018-19,POR,12.8,0.2,.124,2.0,0.1,,NBA,,25,3,19.3,.400,1.000,6.3,1.0,0.3,1.3,5.7,POR

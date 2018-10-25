@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-gondrgr01,1986-87,24,PHO,NBA,64,13.1,.450,.701,1.7,1.3,0.4,0.1,5.5,10.9,0.6,.037,-3.9,-0.4,,"Boulder in Boulder, Colorado",
-gondrgr01,1987-88,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"Boulder in Boulder, Colorado",
-gondrgr01,1988-89,26,Los Angeles Clippers,NBA,27,9.0,.400,.650,1.3,1.3,0.5,0.0,3.9,11.8,0.2,.032,-3.6,-0.1,,"Boulder in Boulder, Colorado",125000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Grant Gondrezick,/players/g/gondrgr01.html,1987,1989,Pepperdine University,false,"Boulder in Boulder, Colorado",-2.87,-0.30,gondrgr01,1986-87,PHO,10.9,0.6,.037,-3.9,-0.4,,24,NBA,64,13.1,.450,.701,1.7,1.3,0.4,0.1,5.5,PHO,
+Grant Gondrezick,/players/g/gondrgr01.html,1987,1989,Pepperdine University,false,"Boulder in Boulder, Colorado",,,gondrgr01,1987-88,Did Not Play (other pro league—France),,,,,,,25,,,,,,,,,,,Did Not Play (other pro league—France),
+Grant Gondrezick,/players/g/gondrgr01.html,1987,1989,Pepperdine University,false,"Boulder in Boulder, Colorado",-1.19,0.17,gondrgr01,1988-89,LAC,11.8,0.2,.032,-3.6,-0.1,,26,NBA,27,9.0,.400,.650,1.3,1.3,0.5,0.0,3.9,LAC,125000

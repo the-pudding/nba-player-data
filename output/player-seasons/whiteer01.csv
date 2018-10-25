@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-whiteer01,1987-88,22,Los Angeles Clippers,NBA,17,20.7,.532,.789,3.6,0.5,0.4,0.2,10.5,15.2,0.8,.115,-3.0,-0.1,,75000,"Sacred Heart in San Francisco, California"
-whiteer01,1988-89,23,"UTA,LAC",NBA,38,11.5,.517,.810,1.8,0.4,0.3,0.0,4.2,10.3,0.5,.050,-4.7,-0.3,,,"Sacred Heart in San Francisco, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Eric White,/players/w/whiteer01.html,1988,1989,Pepperdine University,false,"Sacred Heart in San Francisco, California",-2.01,0.05,whiteer01,1987-88,LAC,15.2,0.8,.115,-3.0,-0.1,,NBA,75000,22,17,20.7,.532,.789,3.6,0.5,0.4,0.2,10.5,LAC
+Eric White,/players/w/whiteer01.html,1988,1989,Pepperdine University,false,"Sacred Heart in San Francisco, California",-3.26,-0.30,whiteer01,1988-89,TOT,10.3,0.5,.050,-4.7,-0.3,,NBA,,23,38,11.5,.517,.810,1.8,0.4,0.3,0.0,4.2,"UTA,LAC"

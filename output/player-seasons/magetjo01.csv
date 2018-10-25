@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-magetjo01,2017-18,28,Atlanta Hawks,NBA,18,12.0,.326,1.000,1.1,3.2,0.4,0.1,2.6,11.9,0.4,.092,-5.4,-0.2,,,"Spain Park in Hoover, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Magette,/players/m/magetjo01.html,2018,2018,Alabama - Huntsville,true,"Spain Park in Hoover, Alabama",-0.10,0.32,magetjo01,2017-18,ATL,11.9,0.4,.092,-5.4,-0.2,,NBA,,28,18,12.0,.326,1.000,1.1,3.2,0.4,0.1,2.6,ATL

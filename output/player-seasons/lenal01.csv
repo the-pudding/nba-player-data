@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-lenal01,2013-14,20,Phoenix Suns,NBA,42,8.6,.423,.645,2.4,0.1,0.1,0.4,2.0,7.3,0.2,.024,-5.9,-0.4,,3492720,
-lenal01,2014-15,21,Phoenix Suns,NBA,69,22.0,.507,.702,6.6,0.5,0.5,1.5,6.3,13.5,3.4,.107,-1.0,0.4,,3649920,
-lenal01,2015-16,22,Phoenix Suns,NBA,78,23.3,.423,.728,7.6,1.2,0.5,0.8,9.0,12.4,1.3,.035,-3.6,-0.7,,3807120,
-lenal01,2016-17,23,Phoenix Suns,NBA,77,20.3,.497,.721,6.6,0.6,0.5,1.3,8.0,15.0,3.0,.091,-1.7,0.1,,4823621,
-lenal01,2017-18,24,Phoenix Suns,NBA,69,20.2,.566,.684,7.5,1.2,0.4,0.9,8.5,19.4,4.5,.154,0.8,1.0,,4187599,
-lenal01,2018-19,25,ATL,NBA,4,27.0,.472,.750,6.5,2.8,0.0,2.0,9.8,12.2,0.2,.072,-2.5,0.0,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Alex Len,/players/l/lenal01.html,2014,2019,University of Maryland,true,,-3.56,-0.31,lenal01,2013-14,PHO,7.3,0.2,.024,-5.9,-0.4,,NBA,3492720,20,42,8.6,.423,.645,2.4,0.1,0.1,0.4,2.0,PHO
+Alex Len,/players/l/lenal01.html,2014,2019,University of Maryland,true,,-0.46,1.85,lenal01,2014-15,PHO,13.5,3.4,.107,-1.0,0.4,,NBA,3649920,21,69,22.0,.507,.702,6.6,0.5,0.5,1.5,6.3,PHO
+Alex Len,/players/l/lenal01.html,2014,2019,University of Maryland,true,,-1.69,0.64,lenal01,2015-16,PHO,12.4,1.3,.035,-3.6,-0.7,,NBA,3807120,22,78,23.3,.423,.728,7.6,1.2,0.5,0.8,9.0,PHO
+Alex Len,/players/l/lenal01.html,2014,2019,University of Maryland,true,,-2.76,-0.48,lenal01,2016-17,PHO,15.0,3.0,.091,-1.7,0.1,,NBA,4823621,23,77,20.3,.497,.721,6.6,0.6,0.5,1.3,8.0,PHO
+Alex Len,/players/l/lenal01.html,2014,2019,University of Maryland,true,,-0.39,1.78,lenal01,2017-18,PHO,19.4,4.5,.154,0.8,1.0,,NBA,4187599,24,69,20.2,.566,.684,7.5,1.2,0.4,0.9,8.5,PHO
+Alex Len,/players/l/lenal01.html,2014,2019,University of Maryland,true,,,,lenal01,2018-19,ATL,12.2,0.2,.072,-2.5,0.0,,NBA,,25,4,27.0,.472,.750,6.5,2.8,0.0,2.0,9.8,ATL

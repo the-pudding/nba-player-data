@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hudsole01,2009-10,25,Memphis Grizzlies,NBA,25,5.2,.396,.846,0.7,0.5,0.3,0.1,2.3,13.2,0.1,.029,-2.6,0.0,,199185,"Central in Memphis, Tennessee"
-hudsole01,2009-10,25,Memphis Grizzlies,NBA,16,4.4,.389,.833,0.5,0.5,0.2,0.1,1.4,8.7,0.0,.003,-4.1,0.0,,199185,"Central in Memphis, Tennessee"
-hudsole01,2009-10,25,Memphis Grizzlies,NBA,9,6.8,.400,.857,1.1,0.6,0.6,0.1,4.0,18.3,0.1,.060,-0.9,0.0,,199185,"Central in Memphis, Tennessee"
-hudsole01,2010-11,26,Washington Wizards,NBA,11,6.6,.250,.500,0.5,1.5,0.4,0.1,1.6,6.0,-0.1,-0.082,-7.6,-0.1,,192791,"Central in Memphis, Tennessee"
-hudsole01,2011-12,27,"CLE,MEM",NBA,16,20.9,.383,.829,2.9,2.3,0.9,0.2,10.9,13.9,0.1,.012,-2.7,-0.1,,,"Central in Memphis, Tennessee"
-hudsole01,2012-13,28,Did Not Play,,,,,,,,,,,,,,,,,,"Central in Memphis, Tennessee"
-hudsole01,2013-14,29,Did Not Play,,,,,,,,,,,,,,,,,,"Central in Memphis, Tennessee"
-hudsole01,2014-15,30,Los Angeles Clippers,NBA,5,11.2,.429,.750,1.6,1.0,1.2,0.2,3.6,16.0,0.2,.141,3.3,0.1,,55774,"Central in Memphis, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lester Hudson,/players/h/hudsole01.html,2010,2015,University of Tennessee at Martin,false,"Central in Memphis, Tennessee",-0.83,0.13,hudsole01,2009-10,TOT,13.2,0.1,.029,-2.6,0.0,,NBA,199185,25,25,5.2,.396,.846,0.7,0.5,0.3,0.1,2.3,"BOS,MEM"
+Lester Hudson,/players/h/hudsole01.html,2010,2015,University of Tennessee at Martin,false,"Central in Memphis, Tennessee",-0.15,0.11,hudsole01,2010-11,WAS,6.0,-0.1,-0.082,-7.6,-0.1,,NBA,192791,26,11,6.6,.250,.500,0.5,1.5,0.4,0.1,1.6,WAS
+Lester Hudson,/players/h/hudsole01.html,2010,2015,University of Tennessee at Martin,false,"Central in Memphis, Tennessee",-1.06,0.26,hudsole01,2011-12,TOT,13.9,0.1,.012,-2.7,-0.1,,NBA,,27,16,20.9,.383,.829,2.9,2.3,0.9,0.2,10.9,"CLE,MEM"
+Lester Hudson,/players/h/hudsole01.html,2010,2015,University of Tennessee at Martin,false,"Central in Memphis, Tennessee",,,hudsole01,2012-13,Did Not Play,,,,,,,,,28,,,,,,,,,,Did Not Play
+Lester Hudson,/players/h/hudsole01.html,2010,2015,University of Tennessee at Martin,false,"Central in Memphis, Tennessee",,,hudsole01,2013-14,Did Not Play,,,,,,,,,29,,,,,,,,,,Did Not Play
+Lester Hudson,/players/h/hudsole01.html,2010,2015,University of Tennessee at Martin,false,"Central in Memphis, Tennessee",-2.63,-0.03,hudsole01,2014-15,LAC,16.0,0.2,.141,3.3,0.1,,NBA,55774,30,5,11.2,.429,.750,1.6,1.0,1.2,0.2,3.6,LAC

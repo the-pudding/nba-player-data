@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-starrke01,1976-77,22,CHI,NBA,17,3.8,.250,1.000,0.6,0.4,0.1,0.0,0.8,3.7,-0.2,-0.111,-9.8,-0.1,,"Quaker Valley in Leetsdale, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Keith Starr,/players/s/starrke01.html,1977,1977,University of Pittsburgh,false,"Quaker Valley in Leetsdale, Pennsylvania",-1.01,0.05,starrke01,1976-77,CHI,3.7,-0.2,-0.111,-9.8,-0.1,,22,NBA,17,3.8,.250,1.000,0.6,0.4,0.1,0.0,0.8,CHI

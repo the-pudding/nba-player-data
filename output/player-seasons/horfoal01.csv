@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-horfoal01,2007-08,21,Atlanta Hawks,NBA,81,31.4,.499,.731,9.7,1.5,0.7,0.9,10.1,14.7,5.5,.103,-0.2,1.2,,3745800,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2008-09,22,Atlanta Hawks,NBA,67,33.5,.525,.727,9.3,2.4,0.8,1.4,11.5,17.0,6.8,.145,2.3,2.5,,4026720,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2009-10,23,Atlanta Hawks,NBA,81,35.1,.551,.789,9.9,2.3,0.7,1.1,14.2,19.4,10.9,.183,3.3,3.8,,4307640,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2010-11,24,Atlanta Hawks,NBA,77,35.1,.557,.798,9.3,3.5,0.8,1.0,15.3,20.7,10.1,.179,4.4,4.4,All-NBA (3rd),5444857,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2011-12,25,Atlanta Hawks,NBA,11,31.6,.553,.733,7.0,2.2,0.9,1.3,12.4,19.0,1.3,.180,2.8,0.4,,12000000,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2012-13,26,Atlanta Hawks,NBA,74,37.2,.543,.644,10.2,3.2,1.1,1.1,17.4,19.8,8.8,.153,3.1,3.5,,12000000,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2013-14,27,Atlanta Hawks,NBA,29,33.0,.567,.682,8.4,2.6,0.9,1.5,18.6,22.0,2.8,.141,2.8,1.1,,12000000,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2014-15,28,Atlanta Hawks,NBA,76,30.5,.538,.759,7.2,3.2,0.9,1.3,15.2,21.4,8.7,.179,3.8,3.4,,12000000,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2015-16,29,Atlanta Hawks,NBA,82,32.1,.505,.798,7.3,3.2,0.8,1.5,15.2,19.4,9.4,.172,4.1,4.1,,12000000,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2016-17,30,Boston Celtics,NBA,68,32.3,.473,.800,6.8,5.0,0.8,1.3,14.0,17.7,6.3,.138,3.1,2.8,,26540100,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2017-18,31,Boston Celtics,NBA,72,31.6,.489,.783,7.4,4.7,0.6,1.1,12.9,17.6,7.8,.165,4.0,3.5,,27734405,"Grand Ledge in Grand Ledge, Michigan"
-horfoal01,2018-19,32,BOS,NBA,4,30.0,.436,.750,7.5,4.5,0.5,1.8,11.5,16.6,0.4,.165,4.3,0.2,,,"Grand Ledge in Grand Ledge, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",-0.77,2.88,horfoal01,2007-08,ATL,14.7,5.5,.103,-0.2,1.2,,NBA,3745800,21,81,31.4,.499,.731,9.7,1.5,0.7,0.9,10.1,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+0.23,4.23,horfoal01,2008-09,ATL,17.0,6.8,.145,2.3,2.5,,NBA,4026720,22,67,33.5,.525,.727,9.3,2.4,0.8,1.4,11.5,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+4.65,14.68,horfoal01,2009-10,ATL,19.4,10.9,.183,3.3,3.8,,NBA,4307640,23,81,35.1,.551,.789,9.9,2.3,0.7,1.1,14.2,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+1.37,7.84,horfoal01,2010-11,ATL,20.7,10.1,.179,4.4,4.4,All-NBA (3rd),NBA,5444857,24,77,35.1,.557,.798,9.3,3.5,0.8,1.0,15.3,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+1.00,1.03,horfoal01,2011-12,ATL,19.0,1.3,.180,2.8,0.4,,NBA,12000000,25,11,31.6,.553,.733,7.0,2.2,0.9,1.3,12.4,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+2.01,8.71,horfoal01,2012-13,ATL,19.8,8.8,.153,3.1,3.5,,NBA,12000000,26,74,37.2,.543,.644,10.2,3.2,1.1,1.1,17.4,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+1.22,2.28,horfoal01,2013-14,ATL,22.0,2.8,.141,2.8,1.1,,NBA,12000000,27,29,33.0,.567,.682,8.4,2.6,0.9,1.5,18.6,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+1.77,7.84,horfoal01,2014-15,ATL,21.4,8.7,.179,3.8,3.4,,NBA,12000000,28,76,30.5,.538,.759,7.2,3.2,0.9,1.3,15.2,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+1.71,8.10,horfoal01,2015-16,ATL,19.4,9.4,.172,4.1,4.1,,NBA,12000000,29,82,32.1,.505,.798,7.3,3.2,0.8,1.5,15.2,ATL
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+1.52,7.09,horfoal01,2016-17,BOS,17.7,6.3,.138,3.1,2.8,,NBA,26540100,30,68,32.3,.473,.800,6.8,5.0,0.8,1.3,14.0,BOS
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",+3.35,11.16,horfoal01,2017-18,BOS,17.6,7.8,.165,4.0,3.5,,NBA,27734405,31,72,31.6,.489,.783,7.4,4.7,0.6,1.1,12.9,BOS
+Al Horford,/players/h/horfoal01.html,2008,2019,University of Florida,true,"Grand Ledge in Grand Ledge, Michigan",,,horfoal01,2018-19,BOS,16.6,0.4,.165,4.3,0.2,,NBA,,32,4,30.0,.436,.750,7.5,4.5,0.5,1.8,11.5,BOS

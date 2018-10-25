@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dotsoda01,2017-18,23,New York Knicks,NBA,44,10.8,.447,.696,1.9,0.7,0.3,0.0,4.1,11.6,0.6,.060,-3.1,-0.1,,1100000,"Jack Yates in Houston, Texas"
-dotsoda01,2018-19,24,NYK,NBA,3,29.3,.486,.500,6.7,1.3,1.7,0.3,14.7,19.3,0.3,.185,3.9,0.1,,,"Jack Yates in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damyean Dotson,/players/d/dotsoda01.html,2018,2019,"University of Oregon, University of Houston",true,"Jack Yates in Houston, Texas",-1.36,0.28,dotsoda01,2017-18,NYK,11.6,0.6,.060,-3.1,-0.1,,NBA,1100000,23,44,10.8,.447,.696,1.9,0.7,0.3,0.0,4.1,NYK
+Damyean Dotson,/players/d/dotsoda01.html,2018,2019,"University of Oregon, University of Houston",true,"Jack Yates in Houston, Texas",,,dotsoda01,2018-19,NYK,19.3,0.3,.185,3.9,0.1,,NBA,,24,3,29.3,.486,.500,6.7,1.3,1.7,0.3,14.7,NYK

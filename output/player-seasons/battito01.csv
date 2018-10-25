@@ -1,18 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-battito01,1997-98,21,Denver Nuggets,NBA,65,23.2,.446,.702,5.4,0.9,0.8,1.1,8.4,13.3,0.5,.015,-3.3,-0.5,,1946880,"South Oak Cliff in Dallas, Texas"
-battito01,1998-99,22,Boston Celtics,NBA,50,22.4,.519,.672,6.0,1.1,0.6,1.4,6.7,15.5,3.3,.139,1.1,0.9,,2238000,"South Oak Cliff in Dallas, Texas"
-battito01,1999-00,23,Boston Celtics,NBA,82,18.4,.477,.675,5.0,0.8,0.6,0.9,6.6,15.1,3.8,.120,-0.6,0.5,,2530920,"South Oak Cliff in Dallas, Texas"
-battito01,2000-01,24,Boston Celtics,NBA,40,21.1,.537,.638,5.8,0.4,0.7,1.5,6.5,15.2,2.3,.131,-1.2,0.2,,3200000,"South Oak Cliff in Dallas, Texas"
-battito01,2001-02,25,Boston Celtics,NBA,74,24.6,.541,.677,6.5,0.5,0.8,0.9,6.9,14.5,6.2,.164,0.1,1.0,,3600000,"South Oak Cliff in Dallas, Texas"
-battito01,2002-03,26,Boston Celtics,NBA,67,25.1,.539,.746,6.5,0.7,0.5,1.2,7.3,15.2,5.8,.164,-0.1,0.8,,4000000,"South Oak Cliff in Dallas, Texas"
-battito01,2003-04,27,Cleveland Cavaliers,NBA,73,20.2,.443,.742,4.9,0.8,0.4,0.9,5.6,11.9,2.3,.074,-2.4,-0.1,,4400000,"South Oak Cliff in Dallas, Texas"
-battito01,2003-04,27,Cleveland Cavaliers,NBA,23,21.8,.479,.697,5.1,0.9,0.3,0.9,5.9,11.7,0.8,.081,-2.2,0.0,,4400000,"South Oak Cliff in Dallas, Texas"
-battito01,2003-04,27,Cleveland Cavaliers,NBA,50,19.5,.427,.768,4.8,0.7,0.4,0.9,5.4,12.0,1.4,.070,-2.5,-0.1,,4400000,"South Oak Cliff in Dallas, Texas"
-battito01,2004-05,28,Orlando Magic,NBA,81,23.4,.460,.723,5.6,0.5,0.4,1.0,4.9,8.6,2.0,.051,-2.9,-0.4,,4800000,"South Oak Cliff in Dallas, Texas"
-battito01,2005-06,29,Orlando Magic,NBA,82,27.0,.507,.664,5.6,0.6,0.6,0.8,7.9,12.2,3.8,.083,-1.3,0.4,,5200000,"South Oak Cliff in Dallas, Texas"
-battito01,2006-07,30,Orlando Magic,NBA,66,23.9,.489,.675,5.2,0.5,0.4,0.5,6.1,9.8,2.7,.081,-2.3,-0.1,,5746000,"South Oak Cliff in Dallas, Texas"
-battito01,2007-08,31,Orlando Magic,NBA,,,,,,,,,,,,,,,,5200000,"South Oak Cliff in Dallas, Texas"
-battito01,2008-09,32,Orlando Magic,NBA,77,15.6,.489,.659,3.6,0.4,0.3,0.3,4.8,11.9,2.8,.113,-2.2,0.0,,5746000,"South Oak Cliff in Dallas, Texas"
-battito01,2009-10,33,New Jersey Nets,NBA,15,8.9,.350,.700,1.5,0.2,0.3,0.1,2.4,6.1,0.0,-0.014,-8.4,-0.2,,6292000,"South Oak Cliff in Dallas, Texas"
-battito01,2010-11,34,Philadelphia 76ers,NBA,38,9.9,.469,.571,2.6,0.3,0.1,0.4,2.6,9.5,0.6,.075,-4.5,-0.2,,1352181,"South Oak Cliff in Dallas, Texas"
-battito01,2011-12,35,Philadelphia 76ers,NBA,27,10.9,.373,1.000,2.5,0.6,0.1,0.2,1.6,7.3,0.5,.076,-3.9,-0.1,,1352181,"South Oak Cliff in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-2.59,-0.37,battito01,1997-98,DEN,13.3,0.5,.015,-3.3,-0.5,,NBA,1946880,21,65,23.2,.446,.702,5.4,0.9,0.8,1.1,8.4,DEN
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",+0.40,2.05,battito01,1998-99,BOS,15.5,3.3,.139,1.1,0.9,,NBA,2238000,22,50,22.4,.519,.672,6.0,1.1,0.6,1.4,6.7,BOS
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-0.08,2.24,battito01,1999-00,BOS,15.1,3.8,.120,-0.6,0.5,,NBA,2530920,23,82,18.4,.477,.675,5.0,0.8,0.6,0.9,6.6,BOS
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",+0.23,1.45,battito01,2000-01,BOS,15.2,2.3,.131,-1.2,0.2,,NBA,3200000,24,40,21.1,.537,.638,5.8,0.4,0.7,1.5,6.5,BOS
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",+0.24,3.88,battito01,2001-02,BOS,14.5,6.2,.164,0.1,1.0,,NBA,3600000,25,74,24.6,.541,.677,6.5,0.5,0.8,0.9,6.9,BOS
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",+1.98,5.63,battito01,2002-03,BOS,15.2,5.8,.164,-0.1,0.8,,NBA,4000000,26,67,25.1,.539,.746,6.5,0.7,0.5,1.2,7.3,BOS
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-1.17,1.03,battito01,2003-04,TOT,11.9,2.3,.074,-2.4,-0.1,,NBA,4400000,27,73,20.2,.443,.742,4.9,0.8,0.4,0.9,5.6,"BOS,CLE"
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-2.22,0.03,battito01,2004-05,ORL,8.6,2.0,.051,-2.9,-0.4,,NBA,4800000,28,81,23.4,.460,.723,5.6,0.5,0.4,1.0,4.9,ORL
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-1.16,1.67,battito01,2005-06,ORL,12.2,3.8,.083,-1.3,0.4,,NBA,5200000,29,82,27.0,.507,.664,5.6,0.6,0.6,0.8,7.9,ORL
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-1.04,1.34,battito01,2006-07,ORL,9.8,2.7,.081,-2.3,-0.1,,NBA,5746000,30,66,23.9,.489,.675,5.2,0.5,0.4,0.5,6.1,ORL
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",,,battito01,2007-08,Did Not Play (injury—shoulder),,,,,,,NBA,5200000,31,,,,,,,,,,Did Not Play (injury—shoulder)
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-2.15,0.10,battito01,2008-09,ORL,11.9,2.8,.113,-2.2,0.0,,NBA,5746000,32,77,15.6,.489,.659,3.6,0.4,0.3,0.3,4.8,ORL
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-0.92,0.12,battito01,2009-10,NJN,6.1,0.0,-0.014,-8.4,-0.2,,NBA,6292000,33,15,8.9,.350,.700,1.5,0.2,0.3,0.1,2.4,NJN
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-2.48,-0.09,battito01,2010-11,PHI,9.5,0.6,.075,-4.5,-0.2,,NBA,1352181,34,38,9.9,.469,.571,2.6,0.3,0.1,0.4,2.6,PHI
+Tony Battie,/players/b/battito01.html,1998,2012,Texas Tech University,false,"South Oak Cliff in Dallas, Texas",-0.02,0.45,battito01,2011-12,PHI,7.3,0.5,.076,-3.9,-0.1,,NBA,1352181,35,27,10.9,.373,1.000,2.5,0.6,0.1,0.2,1.6,PHI

@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-colembe01,1986-87,25,NJN,NBA,68,15.1,.581,.727,4.2,0.5,0.5,0.5,6.6,13.6,2.0,.093,-1.2,0.2,,"North Community in Minneapolis, Minnesota",
-colembe01,1987-88,26,Philadelphia 76ers,NBA,70,21.4,.499,.762,5.0,0.9,0.6,0.6,8.5,12.0,1.8,.058,-2.6,-0.2,,"North Community in Minneapolis, Minnesota",275000
-colembe01,1987-88,26,Philadelphia 76ers,NBA,27,24.3,.483,.774,6.4,1.4,1.0,0.6,11.0,13.2,0.6,.041,-1.9,0.0,,"North Community in Minneapolis, Minnesota",275000
-colembe01,1987-88,26,Philadelphia 76ers,NBA,43,19.6,.516,.752,4.1,0.5,0.3,0.6,6.9,11.0,1.2,.071,-3.1,-0.2,,"North Community in Minneapolis, Minnesota",275000
-colembe01,1988-89,27,Philadelphia 76ers,NBA,58,12.1,.485,.792,3.1,0.3,0.2,0.3,5.1,11.2,0.8,.051,-5.8,-0.7,,"North Community in Minneapolis, Minnesota",300000
-colembe01,1989-90,28,MIL,NBA,22,13.9,.474,.829,4.0,0.5,0.3,0.3,5.7,12.2,0.5,.079,-4.5,-0.2,,"North Community in Minneapolis, Minnesota",
-colembe01,1990-91,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"North Community in Minneapolis, Minnesota",
-colembe01,1991-92,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"North Community in Minneapolis, Minnesota",
-colembe01,1992-93,31,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"North Community in Minneapolis, Minnesota",
-colembe01,1993-94,32,DET,NBA,9,8.6,.480,.500,2.9,0.0,0.2,0.2,3.1,11.6,0.0,-0.004,-12.7,-0.2,,"North Community in Minneapolis, Minnesota",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",-1.44,0.58,colembe01,1986-87,NJN,13.6,2.0,.093,-1.2,0.2,,25,NBA,68,15.1,.581,.727,4.2,0.5,0.5,0.5,6.6,NJN,
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",-2.50,-0.23,colembe01,1987-88,TOT,12.0,1.8,.058,-2.6,-0.2,,26,NBA,70,21.4,.499,.762,5.0,0.9,0.6,0.6,8.5,"NJN,PHI",275000
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",-2.59,-0.11,colembe01,1988-89,PHI,11.2,0.8,.051,-5.8,-0.7,,27,NBA,58,12.1,.485,.792,3.1,0.3,0.2,0.3,5.1,PHI,300000
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",-1.77,0.10,colembe01,1989-90,MIL,12.2,0.5,.079,-4.5,-0.2,,28,NBA,22,13.9,.474,.829,4.0,0.5,0.3,0.3,5.7,MIL,
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",,,colembe01,1990-91,Did Not Play (other pro league—Spain),,,,,,,29,,,,,,,,,,,Did Not Play (other pro league—Spain),
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",,,colembe01,1991-92,Did Not Play (other pro league—Spain),,,,,,,30,,,,,,,,,,,Did Not Play (other pro league—Spain),
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",,,colembe01,1992-93,Did Not Play (other pro league—Spain),,,,,,,31,,,,,,,,,,,Did Not Play (other pro league—Spain),
+Ben Coleman,/players/c/colembe01.html,1987,1994,"University of Minnesota, University of Maryland",false,"North Community in Minneapolis, Minnesota",-0.15,0.11,colembe01,1993-94,DET,11.6,0.0,-0.004,-12.7,-0.2,,32,NBA,9,8.6,.480,.500,2.9,0.0,0.2,0.2,3.1,DET,

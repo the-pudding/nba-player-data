@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-motenla01,1995-96,23,Vancouver Grizzlies,NBA,44,13.0,.453,.653,1.4,1.1,0.7,0.2,6.6,15.7,0.6,.047,-1.5,0.1,,280000,"New Hampton School in Hampton, New Hampshire"
-motenla01,1996-97,24,Vancouver Grizzlies,NBA,67,18.1,.388,.646,1.8,1.9,0.7,0.4,6.7,11.4,-0.4,-0.017,-4.6,-0.8,,321000,"New Hampton School in Hampton, New Hampshire"
-motenla01,1997-98,25,WAS,NBA,8,3.4,.231,.750,0.1,0.4,0.0,0.0,1.1,-0.2,-0.1,-0.134,-14.6,-0.1,,,"New Hampton School in Hampton, New Hampshire"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lawrence Moten,/players/m/motenla01.html,1996,1998,Syracuse University,false,"New Hampton School in Hampton, New Hampshire",-1.54,0.26,motenla01,1995-96,VAN,15.7,0.6,.047,-1.5,0.1,,NBA,280000,23,44,13.0,.453,.653,1.4,1.1,0.7,0.2,6.6,VAN
+Lawrence Moten,/players/m/motenla01.html,1996,1998,Syracuse University,false,"New Hampton School in Hampton, New Hampshire",-3.31,-0.86,motenla01,1996-97,VAN,11.4,-0.4,-0.017,-4.6,-0.8,,NBA,321000,24,67,18.1,.388,.646,1.8,1.9,0.7,0.4,6.7,VAN
+Lawrence Moten,/players/m/motenla01.html,1996,1998,Syracuse University,false,"New Hampton School in Hampton, New Hampshire",+0.02,0.04,motenla01,1997-98,WAS,-0.2,-0.1,-0.134,-14.6,-0.1,,NBA,,25,8,3.4,.231,.750,0.1,0.4,0.0,0.0,1.1,WAS

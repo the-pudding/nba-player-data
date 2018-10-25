@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-broekry01,2018-19,28,DAL,NBA,4,3.8,.250,,0.5,0.0,0.0,0.0,1.5,1.5,0.0,-0.127,-16.5,-0.1,,"The Peninsula School in Melbourne, Australia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ryan Broekhoff,/players/b/broekry01.html,2019,2019,Valparaiso University,true,"The Peninsula School in Melbourne, Australia",,,broekry01,2018-19,DAL,1.5,0.0,-0.127,-16.5,-0.1,,28,NBA,4,3.8,.250,,0.5,0.0,0.0,0.0,1.5,DAL

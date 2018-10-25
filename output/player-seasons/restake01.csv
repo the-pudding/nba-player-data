@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-restake01,1976-77,25,MIL,NBA,64,17.4,.518,.500,4.1,1.4,0.5,0.2,5.6,12.2,1.8,.079,-1.7,0.1,,"Riordan in San Francisco, California"
-restake01,1977-78,26,"MIL,KCK",NBA,54,10.1,.431,.692,2.0,0.6,0.1,0.1,2.8,9.0,0.5,.044,-4.5,-0.3,,"Riordan in San Francisco, California"
-restake01,1978-79,27,MIL,NBA,81,19.7,.495,.699,4.8,1.5,0.4,0.3,7.1,12.1,2.6,.078,-1.2,0.3,,"Riordan in San Francisco, California"
-restake01,1979-80,28,SAS,NBA,82,24.0,.508,.814,4.7,2.3,0.7,0.1,10.7,13.9,3.5,.085,-0.4,0.8,,"Riordan in San Francisco, California"
-restake01,1980-81,29,SAS,NBA,64,15.6,.520,.705,2.7,1.3,0.3,0.2,7.0,13.8,2.1,.100,-1.8,0.0,,"Riordan in San Francisco, California"
-restake01,1981-82,30,"SAS,CLE",NBA,47,10.3,.364,.625,2.4,0.5,0.2,0.2,1.6,6.4,0.0,.005,-4.1,-0.3,,"Riordan in San Francisco, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kevin Restani,/players/r/restake01.html,1975,1982,University of San Francisco,false,"Riordan in San Francisco, California",-2.08,0.06,restake01,1976-77,MIL,12.2,1.8,.079,-1.7,0.1,,25,NBA,64,17.4,.518,.500,4.1,1.4,0.5,0.2,5.6,MIL
+Kevin Restani,/players/r/restake01.html,1975,1982,University of San Francisco,false,"Riordan in San Francisco, California",-2.68,-0.20,restake01,1977-78,TOT,9.0,0.5,.044,-4.5,-0.3,,26,NBA,54,10.1,.431,.692,2.0,0.6,0.1,0.1,2.8,"MIL,KCK"
+Kevin Restani,/players/r/restake01.html,1975,1982,University of San Francisco,false,"Riordan in San Francisco, California",-1.69,0.59,restake01,1978-79,MIL,12.1,2.6,.078,-1.2,0.3,,27,NBA,81,19.7,.495,.699,4.8,1.5,0.4,0.3,7.1,MIL
+Kevin Restani,/players/r/restake01.html,1975,1982,University of San Francisco,false,"Riordan in San Francisco, California",-1.36,1.30,restake01,1979-80,SAS,13.9,3.5,.085,-0.4,0.8,,28,NBA,82,24.0,.508,.814,4.7,2.3,0.7,0.1,10.7,SAS
+Kevin Restani,/players/r/restake01.html,1975,1982,University of San Francisco,false,"Riordan in San Francisco, California",-1.70,0.39,restake01,1980-81,SAS,13.8,2.1,.100,-1.8,0.0,,29,NBA,64,15.6,.520,.705,2.7,1.3,0.3,0.2,7.0,SAS
+Kevin Restani,/players/r/restake01.html,1975,1982,University of San Francisco,false,"Riordan in San Francisco, California",-3.13,-0.28,restake01,1981-82,TOT,6.4,0.0,.005,-4.1,-0.3,,30,NBA,47,10.3,.364,.625,2.4,0.5,0.2,0.2,1.6,"SAS,CLE"

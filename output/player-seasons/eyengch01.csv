@@ -1,5 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-eyengch01,2010-11,21,Cleveland Cavaliers,NBA,44,21.5,.425,.643,2.8,0.8,0.8,0.6,6.9,9.0,-0.3,-0.016,-3.7,-0.4,,1020960,
-eyengch01,2011-12,22,Cleveland Cavaliers,NBA,7,14.6,.240,.500,2.0,0.7,0.4,0.7,2.4,4.8,-0.1,-0.061,-6.3,-0.1,,1097520,
-eyengch01,2011-12,22,Cleveland Cavaliers,NBA,6,13.8,.158,.333,2.0,0.7,0.5,0.7,1.5,2.1,-0.2,-0.103,-7.1,-0.1,,1097520,
-eyengch01,2011-12,22,Cleveland Cavaliers,NBA,1,19.0,.500,1.000,2.0,1.0,0.0,1.0,8.0,16.7,0.0,.122,-2.8,0.0,,1097520,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Christian Eyenga,/players/e/eyengch01.html,2011,2012,,false,,-2.42,-0.08,eyengch01,2010-11,CLE,9.0,-0.3,-0.016,-3.7,-0.4,,NBA,1020960,21,44,21.5,.425,.643,2.8,0.8,0.8,0.6,6.9,CLE
+Christian Eyenga,/players/e/eyengch01.html,2011,2012,,false,,-0.55,0.13,eyengch01,2011-12,TOT,4.8,-0.1,-0.061,-6.3,-0.1,,NBA,1097520,22,7,14.6,.240,.500,2.0,0.7,0.4,0.7,2.4,"CLE,LAL"

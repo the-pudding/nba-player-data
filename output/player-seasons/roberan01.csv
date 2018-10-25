@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-roberan01,1977-78,22,DEN,NBA,82,19.5,.423,.722,4.3,1.3,0.5,0.1,9.5,12.2,1.9,.057,-4.2,-0.9,,"Riverside in Chattanooga, Tennessee"
-roberan01,1978-79,23,DEN,NBA,63,19.6,.424,.691,4.1,1.7,0.3,0.0,7.9,11.2,1.7,.067,-2.9,-0.3,,"Riverside in Chattanooga, Tennessee"
-roberan01,1979-80,24,DEN,NBA,23,21.1,.381,.650,4.7,0.9,0.6,0.1,7.7,9.3,0.1,.009,-5.4,-0.4,,"Riverside in Chattanooga, Tennessee"
-roberan01,1980-81,25,WSB,NBA,26,13.5,.375,.655,2.6,0.8,0.4,0.0,4.9,6.2,-0.2,-0.032,-5.9,-0.3,,"Riverside in Chattanooga, Tennessee"
-roberan01,1981-82,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Riverside in Chattanooga, Tennessee"
-roberan01,1982-83,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Riverside in Chattanooga, Tennessee"
-roberan01,1983-84,28,DEN,NBA,19,10.4,.374,.722,2.7,0.7,0.3,0.1,4.3,6.7,-0.2,-0.058,-8.2,-0.3,,"Riverside in Chattanooga, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",-2.12,0.07,roberan01,1977-78,DEN,12.2,1.9,.057,-4.2,-0.9,,22,NBA,82,19.5,.423,.722,4.3,1.3,0.5,0.1,9.5,DEN
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",-2.37,-0.15,roberan01,1978-79,DEN,11.2,1.7,.067,-2.9,-0.3,,23,NBA,63,19.6,.424,.691,4.1,1.7,0.3,0.0,7.9,DEN
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",-3.20,-0.32,roberan01,1979-80,DEN,9.3,0.1,.009,-5.4,-0.4,,24,NBA,23,21.1,.381,.650,4.7,0.9,0.6,0.1,7.7,DEN
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",-3.15,-0.25,roberan01,1980-81,WSB,6.2,-0.2,-0.032,-5.9,-0.3,,25,NBA,26,13.5,.375,.655,2.6,0.8,0.4,0.0,4.9,WSB
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",,,roberan01,1981-82,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",,,roberan01,1982-83,Did Not Play (other pro league—CBA),,,,,,,27,,,,,,,,,,,Did Not Play (other pro league—CBA)
+Anthony Roberts,/players/r/roberan01.html,1978,1984,Oral Roberts University,false,"Riverside in Chattanooga, Tennessee",-2.31,0.00,roberan01,1983-84,DEN,6.7,-0.2,-0.058,-8.2,-0.3,,28,NBA,19,10.4,.374,.722,2.7,0.7,0.3,0.1,4.3,DEN

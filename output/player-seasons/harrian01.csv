@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-harrian01,2016-17,22,Memphis Grizzlies,NBA,72,20.5,.325,.763,1.9,2.8,0.7,0.3,5.9,8.7,1.6,.051,-2.4,-0.2,,945000,"Travis in Pecan Grove, Texas"
-harrian01,2017-18,23,Memphis Grizzlies,NBA,56,23.7,.422,.780,2.3,3.2,0.7,0.5,9.5,12.7,1.7,.062,-2.5,-0.2,,1312611,"Travis in Pecan Grove, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Andrew Harrison,/players/h/harrian01.html,2017,2018,University of Kentucky,true,"Travis in Pecan Grove, Texas",-1.85,0.47,harrian01,2016-17,MEM,8.7,1.6,.051,-2.4,-0.2,,NBA,945000,22,72,20.5,.325,.763,1.9,2.8,0.7,0.3,5.9,MEM
+Andrew Harrison,/players/h/harrian01.html,2017,2018,University of Kentucky,true,"Travis in Pecan Grove, Texas",-1.35,0.82,harrian01,2017-18,MEM,12.7,1.7,.062,-2.5,-0.2,,NBA,1312611,23,56,23.7,.422,.780,2.3,3.2,0.7,0.5,9.5,MEM

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-martija01,2015-16,21,Memphis Grizzlies,NBA,27,14.1,.466,.726,3.2,0.6,0.3,0.3,5.7,14.0,0.8,.100,-3.2,-0.1,,1230840,"Madison Prep in Baton Rouge, Louisiana"
-martija01,2016-17,22,Memphis Grizzlies,NBA,42,13.3,.384,.800,3.9,0.2,0.4,0.2,3.9,8.7,0.6,.054,-6.4,-0.6,,1286160,"Madison Prep in Baton Rouge, Louisiana"
-martija01,2017-18,23,Memphis Grizzlies,NBA,73,22.8,.446,.767,4.4,1.0,0.5,0.7,7.7,10.5,1.3,.038,-3.0,-0.4,,1471382,"Madison Prep in Baton Rouge, Louisiana"
-martija01,2018-19,24,ORL,NBA,1,12.0,.750,,2.0,1.0,0.0,0.0,6.0,21.0,0.1,.205,0.0,0.0,,,"Madison Prep in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jarell Martin,/players/m/martija01.html,2016,2019,Louisiana State University,true,"Madison Prep in Baton Rouge, Louisiana",-2.12,0.04,martija01,2015-16,MEM,14.0,0.8,.100,-3.2,-0.1,,NBA,1230840,21,27,14.1,.466,.726,3.2,0.6,0.3,0.3,5.7,MEM
+Jarell Martin,/players/m/martija01.html,2016,2019,Louisiana State University,true,"Madison Prep in Baton Rouge, Louisiana",-2.42,-0.09,martija01,2016-17,MEM,8.7,0.6,.054,-6.4,-0.6,,NBA,1286160,22,42,13.3,.384,.800,3.9,0.2,0.4,0.2,3.9,MEM
+Jarell Martin,/players/m/martija01.html,2016,2019,Louisiana State University,true,"Madison Prep in Baton Rouge, Louisiana",-2.76,-0.53,martija01,2017-18,MEM,10.5,1.3,.038,-3.0,-0.4,,NBA,1471382,23,73,22.8,.446,.767,4.4,1.0,0.5,0.7,7.7,MEM
+Jarell Martin,/players/m/martija01.html,2016,2019,Louisiana State University,true,"Madison Prep in Baton Rouge, Louisiana",,,martija01,2018-19,ORL,21.0,0.1,.205,0.0,0.0,,NBA,,24,1,12.0,.750,,2.0,1.0,0.0,0.0,6.0,ORL

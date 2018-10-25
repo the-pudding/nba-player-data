@@ -1,4 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wilsori02,1987-88,23,San Antonio Spurs,NBA,24,17.5,.391,.725,1.1,2.9,1.0,0.1,5.2,10.0,0.3,.032,-4.2,-0.2,,75000,"Phoebus in Hampton, Virginia"
-wilsori02,1987-88,23,San Antonio Spurs,NBA,6,7.8,.636,.545,0.2,1.0,1.0,0.0,3.5,17.6,0.1,.147,0.0,0.0,,75000,"Phoebus in Hampton, Virginia"
-wilsori02,1987-88,23,San Antonio Spurs,NBA,18,20.7,.364,.793,1.4,3.5,0.9,0.2,5.8,9.1,0.1,.017,-4.8,-0.3,,75000,"Phoebus in Hampton, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ricky Wilson,/players/w/wilsori02.html,1988,1988,George Mason University,false,"Phoebus in Hampton, Virginia",-2.11,0.05,wilsori02,1987-88,TOT,10.0,0.3,.032,-4.2,-0.2,,NBA,75000,23,24,17.5,.391,.725,1.1,2.9,1.0,0.1,5.2,"NJN,SAS"

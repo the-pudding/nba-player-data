@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-taftch01,2005-06,20,Golden State Warriors,NBA,17,8.5,.605,.167,2.1,0.1,0.1,0.4,2.8,15.6,0.5,.155,-1.3,0.0,,423762,"Xaverian in Brooklyn, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chris Taft,/players/t/taftch01.html,2006,2006,University of Pittsburgh,false,"Xaverian in Brooklyn, New York",-0.07,0.22,taftch01,2005-06,GSW,15.6,0.5,.155,-1.3,0.0,,NBA,423762,20,17,8.5,.605,.167,2.1,0.1,0.1,0.4,2.8,GSW

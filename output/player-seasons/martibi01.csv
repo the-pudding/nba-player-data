@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-martibi01,1985-86,23,Indiana Pacers,NBA,66,10.5,.480,.852,1.5,0.8,0.3,0.1,5.0,11.5,0.6,.045,-3.8,-0.3,,150000,"McKinley in Washington, District of Columbia"
-martibi01,1986-87,24,NYK,NBA,8,8.5,.360,.875,0.9,0.0,0.5,0.3,3.1,6.2,-0.1,-0.087,-11.1,-0.2,,,"McKinley in Washington, District of Columbia"
-martibi01,1987-88,25,PHO,NBA,10,10.1,.314,.615,2.7,0.6,0.5,0.0,4.0,5.7,-0.2,-0.117,-10.1,-0.2,,,"McKinley in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bill Martin,/players/m/martibi01.html,1986,1988,Georgetown University,false,"McKinley in Washington, District of Columbia",-2.69,-0.23,martibi01,1985-86,IND,11.5,0.6,.045,-3.8,-0.3,,NBA,150000,23,66,10.5,.480,.852,1.5,0.8,0.3,0.1,5.0,IND
+Bill Martin,/players/m/martibi01.html,1986,1988,Georgetown University,false,"McKinley in Washington, District of Columbia",-0.25,0.09,martibi01,1986-87,NYK,6.2,-0.1,-0.087,-11.1,-0.2,,NBA,,24,8,8.5,.360,.875,0.9,0.0,0.5,0.3,3.1,NYK
+Bill Martin,/players/m/martibi01.html,1986,1988,Georgetown University,false,"McKinley in Washington, District of Columbia",-0.52,0.12,martibi01,1987-88,PHO,5.7,-0.2,-0.117,-10.1,-0.2,,NBA,,25,10,10.1,.314,.615,2.7,0.6,0.5,0.0,4.0,PHO

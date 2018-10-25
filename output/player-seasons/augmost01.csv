@@ -1,18 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-augmost01,1991-92,23,Atlanta Hawks,NBA,82,30.5,.489,.666,5.1,2.5,1.5,0.3,13.3,14.4,3.7,.071,0.3,1.5,,875000,"John Muir in Pasadena, California"
-augmost01,1992-93,24,Atlanta Hawks,NBA,73,28.9,.501,.739,3.9,2.3,1.2,0.2,14.0,15.2,3.7,.084,-0.4,0.9,,1138000,"John Muir in Pasadena, California"
-augmost01,1993-94,25,Atlanta Hawks,NBA,82,31.8,.510,.764,4.8,2.3,1.8,0.5,14.8,17.9,9.7,.179,3.3,3.5,,1400000,"John Muir in Pasadena, California"
-augmost01,1994-95,26,Atlanta Hawks,NBA,76,31.1,.453,.728,4.8,2.6,1.3,0.6,13.9,16.0,5.1,.103,0.4,1.4,,1662500,"John Muir in Pasadena, California"
-augmost01,1995-96,27,Atlanta Hawks,NBA,77,29.8,.491,.792,3.9,1.8,1.4,0.4,12.7,15.9,5.6,.117,0.1,1.2,,2160000,"John Muir in Pasadena, California"
-augmost01,1996-97,28,Detroit Pistons,NBA,60,15.7,.477,.711,2.3,0.9,0.7,0.3,4.7,11.3,1.5,.076,-1.5,0.1,,2480000,"John Muir in Pasadena, California"
-augmost01,1996-97,28,Detroit Pistons,NBA,20,14.6,.403,.683,2.5,0.8,0.5,0.5,4.5,9.6,0.0,.003,-4.8,-0.2,,2480000,"John Muir in Pasadena, California"
-augmost01,1996-97,28,Detroit Pistons,NBA,40,16.3,.517,.732,2.2,1.0,0.8,0.2,4.7,12.1,1.5,.109,-0.1,0.3,,2480000,"John Muir in Pasadena, California"
-augmost01,1997-98,29,Portland Trail Blazers,NBA,71,20.4,.414,.603,3.3,1.2,0.8,0.5,5.7,10.3,1.8,.059,-1.3,0.3,,2800000,"John Muir in Pasadena, California"
-augmost01,1998-99,30,Portland Trail Blazers,NBA,48,18.2,.448,.684,2.6,1.2,1.2,0.4,4.3,13.0,2.6,.142,2.7,1.0,,3200000,"John Muir in Pasadena, California"
-augmost01,1999-00,31,Houston Rockets,NBA,59,11.7,.474,.673,2.0,0.9,0.5,0.2,3.4,12.2,1.5,.102,-0.5,0.3,,3450000,"John Muir in Pasadena, California"
-augmost01,2000-01,32,Portland Trail Blazers,NBA,66,17.9,.477,.655,2.4,1.5,0.7,0.3,4.7,12.3,2.5,.102,-0.2,0.6,,923500,"John Muir in Pasadena, California"
-augmost01,2001-02,33,Charlotte Hornets,NBA,77,17.1,.427,.762,2.9,1.3,0.7,0.2,4.6,11.5,2.3,.084,-1.3,0.2,,2400000,"John Muir in Pasadena, California"
-augmost01,2002-03,34,New Orleans Hornets,NBA,70,12.3,.411,.750,1.7,1.0,0.4,0.1,3.0,9.3,1.2,.067,-3.5,-0.3,,2400000,"John Muir in Pasadena, California"
-augmost01,2003-04,35,New Orleans Hornets,NBA,69,20.5,.412,.791,2.5,1.2,0.8,0.2,5.8,10.0,1.6,.056,-3.3,-0.5,,2400000,"John Muir in Pasadena, California"
-augmost01,2004-05,36,Orlando Magic,NBA,55,12.1,.407,.740,1.8,0.7,0.4,0.1,3.5,9.8,0.7,.053,-3.1,-0.2,,1100000,"John Muir in Pasadena, California"
-augmost01,2005-06,37,Orlando Magic,NBA,36,10.7,.342,.700,1.5,0.6,0.3,0.2,2.0,7.6,0.3,.033,-3.1,-0.1,,1138500,"John Muir in Pasadena, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-0.57,2.90,augmost01,1991-92,ATL,14.4,3.7,.071,0.3,1.5,,NBA,875000,23,82,30.5,.489,.666,5.1,2.5,1.5,0.3,13.3,ATL
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-1.10,1.79,augmost01,1992-93,ATL,15.2,3.7,.084,-0.4,0.9,,NBA,1138000,24,73,28.9,.501,.739,3.9,2.3,1.2,0.2,14.0,ATL
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",+2.18,8.90,augmost01,1993-94,ATL,17.9,9.7,.179,3.3,3.5,,NBA,1400000,25,82,31.8,.510,.764,4.8,2.3,1.8,0.5,14.8,ATL
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",+0.52,4.59,augmost01,1994-95,ATL,16.0,5.1,.103,0.4,1.4,,NBA,1662500,26,76,31.1,.453,.728,4.8,2.6,1.3,0.6,13.9,ATL
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-0.10,3.85,augmost01,1995-96,ATL,15.9,5.6,.117,0.1,1.2,,NBA,2160000,27,77,29.8,.491,.792,3.9,1.8,1.4,0.4,12.7,ATL
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-1.54,0.47,augmost01,1996-97,TOT,11.3,1.5,.076,-1.5,0.1,,NBA,2480000,28,60,15.7,.477,.711,2.3,0.9,0.7,0.3,4.7,"DET,POR"
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-1.42,0.79,augmost01,1997-98,POR,10.3,1.8,.059,-1.3,0.3,,NBA,2800000,29,71,20.4,.414,.603,3.3,1.2,0.8,0.5,5.7,POR
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",+1.13,2.48,augmost01,1998-99,POR,13.0,2.6,.142,2.7,1.0,,NBA,3200000,30,48,18.2,.448,.684,2.6,1.2,1.2,0.4,4.3,POR
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-1.30,0.45,augmost01,1999-00,POR,12.2,1.5,.102,-0.5,0.3,,NBA,3450000,31,59,11.7,.474,.673,2.0,0.9,0.5,0.2,3.4,POR
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-1.02,0.97,augmost01,2000-01,POR,12.3,2.5,.102,-0.2,0.6,,NBA,923500,32,66,17.9,.477,.655,2.4,1.5,0.7,0.3,4.7,POR
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",+0.46,2.74,augmost01,2001-02,CHH,11.5,2.3,.084,-1.3,0.2,,NBA,2400000,33,77,17.1,.427,.762,2.9,1.3,0.7,0.2,4.6,CHH
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",+0.06,1.47,augmost01,2002-03,NOH,9.3,1.2,.067,-3.5,-0.3,,NBA,2400000,34,70,12.3,.411,.750,1.7,1.0,0.4,0.1,3.0,NOH
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-2.41,-0.29,augmost01,2003-04,NOH,10.0,1.6,.056,-3.3,-0.5,,NBA,2400000,35,69,20.5,.412,.791,2.5,1.2,0.8,0.2,5.8,NOH
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",-2.36,-0.02,augmost01,2004-05,ORL,9.8,0.7,.053,-3.1,-0.2,,NBA,1100000,36,55,12.1,.407,.740,1.8,0.7,0.4,0.1,3.5,ORL
+Stacey Augmon,/players/a/augmost01.html,1992,2006,"University of Nevada, Las Vegas",false,"John Muir in Pasadena, California",+0.00,0.60,augmost01,2005-06,ORL,7.6,0.3,.033,-3.1,-0.1,,NBA,1138500,37,36,10.7,.342,.700,1.5,0.6,0.3,0.2,2.0,ORL

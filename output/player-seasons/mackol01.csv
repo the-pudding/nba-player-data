@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-mackol01,1979-80,22,"LAL,CHI",NBA,50,13.6,.492,.745,1.4,1.1,0.5,0.1,4.7,10.9,1.0,.067,-2.4,-0.1,,"William Cullen Bryant in Long Island City, New York"
-mackol01,1980-81,23,"CHI,DAL",NBA,65,25.9,.460,.640,3.5,2.5,0.9,0.1,9.8,12.8,1.6,.046,-1.3,0.3,,"William Cullen Bryant in Long Island City, New York"
-mackol01,1981-82,24,DAL,NBA,13,11.5,.322,.750,1.4,1.1,0.4,0.1,3.4,7.9,-0.1,-0.026,-6.0,-0.2,,"William Cullen Bryant in Long Island City, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ollie Mack,/players/m/mackol01.html,1980,1982,East Carolina University,false,"William Cullen Bryant in Long Island City, New York",-2.10,0.07,mackol01,1979-80,TOT,10.9,1.0,.067,-2.4,-0.1,,22,NBA,50,13.6,.492,.745,1.4,1.1,0.5,0.1,4.7,"LAL,CHI"
+Ollie Mack,/players/m/mackol01.html,1980,1982,East Carolina University,false,"William Cullen Bryant in Long Island City, New York",-2.03,0.28,mackol01,1980-81,TOT,12.8,1.6,.046,-1.3,0.3,,23,NBA,65,25.9,.460,.640,3.5,2.5,0.9,0.1,9.8,"CHI,DAL"
+Ollie Mack,/players/m/mackol01.html,1980,1982,East Carolina University,false,"William Cullen Bryant in Long Island City, New York",-0.54,0.18,mackol01,1981-82,DAL,7.9,-0.1,-0.026,-6.0,-0.2,,24,NBA,13,11.5,.322,.750,1.4,1.1,0.4,0.1,3.4,DAL

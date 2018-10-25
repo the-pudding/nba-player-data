@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-grantjo01,1993-94,26,Golden State Warriors,NBA,53,7.2,.404,.759,1.7,0.5,0.3,0.2,3.0,11.7,0.5,.060,-2.8,-0.1,,150000,"East in Salt Lake City, Utah"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Josh Grant,/players/g/grantjo01.html,1994,1994,University of Utah,false,"East in Salt Lake City, Utah",-1.38,0.23,grantjo01,1993-94,GSW,11.7,0.5,.060,-2.8,-0.1,,NBA,150000,26,53,7.2,.404,.759,1.7,0.5,0.3,0.2,3.0,GSW

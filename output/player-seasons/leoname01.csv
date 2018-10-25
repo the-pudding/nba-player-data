@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leoname01,2012-13,20,Portland Trail Blazers,NBA,69,17.5,.545,.809,3.7,0.5,0.2,0.6,5.5,12.1,2.4,.097,-2.6,-0.2,,2126520,"Robinson in Robinson, Illinois"
-leoname01,2013-14,21,Portland Trail Blazers,NBA,40,8.9,.451,.762,2.8,0.5,0.2,0.1,2.5,9.4,0.6,.086,-3.3,-0.1,,2222160,"Robinson in Robinson, Illinois"
-leoname01,2014-15,22,Portland Trail Blazers,NBA,55,15.4,.510,.938,4.5,0.6,0.2,0.3,5.9,14.8,2.8,.158,0.2,0.5,,2317920,"Robinson in Robinson, Illinois"
-leoname01,2015-16,23,Portland Trail Blazers,NBA,61,21.9,.448,.761,5.1,1.5,0.1,0.3,8.4,11.3,2.2,.078,-1.5,0.2,,3075880,"Robinson in Robinson, Illinois"
-leoname01,2016-17,24,Portland Trail Blazers,NBA,74,16.5,.386,.875,3.2,1.0,0.2,0.4,5.4,8.9,1.4,.053,-3.3,-0.4,,9213484,"Robinson in Robinson, Illinois"
-leoname01,2017-18,25,Portland Trail Blazers,NBA,33,7.7,.590,.818,2.1,0.5,0.2,0.0,3.4,17.8,1.1,.200,0.9,0.2,,9904495,"Robinson in Robinson, Illinois"
-leoname01,2018-19,26,POR,NBA,2,9.0,1.000,1.000,3.0,2.0,0.5,0.0,2.5,22.9,0.1,.295,8.3,0.0,,,"Robinson in Robinson, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",-4.04,-1.40,leoname01,2012-13,POR,12.1,2.4,.097,-2.6,-0.2,,NBA,2126520,20,69,17.5,.545,.809,3.7,0.5,0.2,0.6,5.5,POR
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",-4.25,-0.48,leoname01,2013-14,POR,9.4,0.6,.086,-3.3,-0.1,,NBA,2222160,21,40,8.9,.451,.762,2.8,0.5,0.2,0.1,2.5,POR
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",+0.05,1.50,leoname01,2014-15,POR,14.8,2.8,.158,0.2,0.5,,NBA,2317920,22,55,15.4,.510,.938,4.5,0.6,0.2,0.3,5.9,POR
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",-0.78,1.36,leoname01,2015-16,POR,11.3,2.2,.078,-1.5,0.2,,NBA,3075880,23,61,21.9,.448,.761,5.1,1.5,0.1,0.3,8.4,POR
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",-1.79,0.44,leoname01,2016-17,POR,8.9,1.4,.053,-3.3,-0.4,,NBA,9213484,24,74,16.5,.386,.875,3.2,1.0,0.2,0.4,5.4,POR
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",-0.46,0.32,leoname01,2017-18,POR,17.8,1.1,.200,0.9,0.2,,NBA,9904495,25,33,7.7,.590,.818,2.1,0.5,0.2,0.0,3.4,POR
+Meyers Leonard,/players/l/leoname01.html,2013,2019,University of Illinois at Urbana-Champaign,true,"Robinson in Robinson, Illinois",,,leoname01,2018-19,POR,22.9,0.1,.295,8.3,0.0,,NBA,,26,2,9.0,1.000,1.000,3.0,2.0,0.5,0.0,2.5,POR

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-colliky01,2017-18,26,Dallas Mavericks,NBA,32,15.0,.384,.525,3.3,1.8,0.5,0.3,3.2,10.0,0.5,.046,-1.8,0.0,,382464,"Provo in Provo, Utah"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kyle Collinsworth,/players/c/colliky01.html,2018,2018,Brigham Young University,true,"Provo in Provo, Utah",-0.18,0.68,colliky01,2017-18,DAL,10.0,0.5,.046,-1.8,0.0,,NBA,382464,26,32,15.0,.384,.525,3.3,1.8,0.5,0.3,3.2,DAL

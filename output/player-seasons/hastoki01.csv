@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hastoki01,2001-02,22,Charlotte Hornets,NBA,15,5.1,.282,.500,1.3,0.3,0.0,0.1,1.7,4.0,-0.2,-0.116,-12.1,-0.2,,1182600,"Perry County in Loblesville, Tennessee"
-hastoki01,2002-03,23,New Orleans Hornets,NBA,12,4.8,.118,.500,0.6,0.3,0.0,0.4,0.5,-9.1,-0.4,-0.307,-15.4,-0.2,,1271400,"Perry County in Loblesville, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kirk Haston,/players/h/hastoki01.html,2002,2003,Indiana University,false,"Perry County in Loblesville, Tennessee",-0.29,0.11,hastoki01,2001-02,CHH,4.0,-0.2,-0.116,-12.1,-0.2,,NBA,1182600,22,15,5.1,.282,.500,1.3,0.3,0.0,0.1,1.7,CHH
+Kirk Haston,/players/h/hastoki01.html,2002,2003,Indiana University,false,"Perry County in Loblesville, Tennessee",+0.23,0.10,hastoki01,2002-03,NOH,-9.1,-0.4,-0.307,-15.4,-0.2,,NBA,1271400,23,12,4.8,.118,.500,0.6,0.3,0.0,0.4,0.5,NOH

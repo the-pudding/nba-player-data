@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-willidu01,1979-80,23,UTA,NBA,77,23.3,.447,.700,1.4,2.4,1.3,0.1,6.6,8.6,-0.3,-0.009,-4.4,-1.1,,"Mackin in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Duck Williams,/players/w/willidu01.html,1980,1980,University of Notre Dame,false,"Mackin in Washington, District of Columbia",-2.93,-0.78,willidu01,1979-80,UTA,8.6,-0.3,-0.009,-4.4,-1.1,,23,NBA,77,23.3,.447,.700,1.4,2.4,1.3,0.1,6.6,UTA

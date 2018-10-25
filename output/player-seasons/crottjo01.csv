@@ -1,14 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-crottjo01,1992-93,23,Utah Jazz,NBA,40,6.1,.514,.684,0.4,1.4,0.3,0.0,2.6,13.2,0.3,.057,-4.4,-0.1,,140000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1993-94,24,Utah Jazz,NBA,45,7.0,.455,.861,0.7,1.7,0.3,0.0,2.9,17.5,1.0,.160,0.1,0.2,,200000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1994-95,25,Utah Jazz,NBA,80,12.7,.403,.810,1.2,2.6,0.5,0.1,3.7,12.2,2.1,.097,-1.4,0.2,,250000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1995-96,26,Cleveland Cavaliers,NBA,58,10.6,.447,.861,0.9,1.8,0.4,0.1,3.0,13.0,1.3,.101,-3.4,-0.2,,350000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1996-97,27,MIA,NBA,48,13.7,.513,.844,1.0,2.1,0.4,0.0,4.8,14.3,2.4,.176,-1.2,0.1,,,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1997-98,28,Portland Trail Blazers,NBA,26,14.6,.322,.941,1.2,2.4,0.4,0.0,3.7,7.0,-0.1,-0.013,-7.2,-0.5,,420000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1998-99,29,Seattle SuperSonics,NBA,27,14.1,.411,.860,1.1,2.3,0.4,0.0,5.9,15.1,0.8,.095,-3.9,-0.2,,600000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1998-99,29,Seattle SuperSonics,NBA,3,6.3,.500,1.000,0.3,1.7,0.7,0.0,4.0,37.0,0.2,.521,9.1,0.1,,600000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1998-99,29,Seattle SuperSonics,NBA,24,15.1,.405,.851,1.3,2.4,0.4,0.0,6.1,14.0,0.6,.073,-4.6,-0.2,,600000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,1999-00,30,Portland Trail Blazers,NBA,69,13.6,.422,.860,1.1,1.9,0.4,0.1,4.7,12.5,1.9,.099,-2.7,-0.2,,760000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,2000-01,31,Utah Jazz,NBA,31,8.5,.338,.895,0.9,1.1,0.2,0.0,2.1,7.2,0.1,.019,-4.6,-0.2,,800000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,2001-02,32,Utah Jazz,NBA,41,19.6,.471,.864,1.8,3.4,0.5,0.0,6.9,14.5,2.2,.129,-1.6,0.1,,1000000,"Christian Brothers Academy in Lincroft, New Jersey"
-crottjo01,2002-03,33,Denver Nuggets,NBA,12,15.0,.341,.600,1.3,2.4,0.3,0.0,3.4,7.6,0.1,.031,-7.0,-0.2,,138171,"Christian Brothers Academy in Lincroft, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-0.92,0.23,crottjo01,1992-93,UTA,13.2,0.3,.057,-4.4,-0.1,,NBA,140000,23,40,6.1,.514,.684,0.4,1.4,0.3,0.0,2.6,UTA
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",+0.26,0.60,crottjo01,1993-94,UTA,17.5,1.0,.160,0.1,0.2,,NBA,200000,24,45,7.0,.455,.861,0.7,1.7,0.3,0.0,2.9,UTA
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-0.82,1.04,crottjo01,1994-95,UTA,12.2,2.1,.097,-1.4,0.2,,NBA,250000,25,80,12.7,.403,.810,1.2,2.6,0.5,0.1,3.7,UTA
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-1.46,0.35,crottjo01,1995-96,CLE,13.0,1.3,.101,-3.4,-0.2,,NBA,350000,26,58,10.6,.447,.861,0.9,1.8,0.4,0.1,3.0,CLE
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-0.70,0.82,crottjo01,1996-97,MIA,14.3,2.4,.176,-1.2,0.1,,NBA,,27,48,13.7,.513,.844,1.0,2.1,0.4,0.0,4.8,MIA
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-2.83,-0.17,crottjo01,1997-98,POR,7.0,-0.1,-0.013,-7.2,-0.5,,NBA,420000,28,26,14.6,.322,.941,1.2,2.4,0.4,0.0,3.7,POR
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-1.60,0.16,crottjo01,1998-99,TOT,15.1,0.8,.095,-3.9,-0.2,,NBA,600000,29,27,14.1,.411,.860,1.1,2.3,0.4,0.0,5.9,"POR,SEA"
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-1.56,0.47,crottjo01,1999-00,DET,12.5,1.9,.099,-2.7,-0.2,,NBA,760000,30,69,13.6,.422,.860,1.1,1.9,0.4,0.1,4.7,DET
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-2.17,0.00,crottjo01,2000-01,UTA,7.2,0.1,.019,-4.6,-0.2,,NBA,800000,31,31,8.5,.338,.895,0.9,1.1,0.2,0.0,2.1,UTA
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-0.73,0.83,crottjo01,2001-02,UTA,14.5,2.2,.129,-1.6,0.1,,NBA,1000000,32,41,19.6,.471,.864,1.8,3.4,0.5,0.0,6.9,UTA
+John Crotty,/players/c/crottjo01.html,1993,2003,University of Virginia,false,"Christian Brothers Academy in Lincroft, New Jersey",-0.59,0.20,crottjo01,2002-03,DEN,7.6,0.1,.031,-7.0,-0.2,,NBA,138171,33,12,15.0,.341,.600,1.3,2.4,0.3,0.0,3.4,DEN

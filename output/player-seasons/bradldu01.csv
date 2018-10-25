@@ -1,13 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bradldu01,1979-80,22,IND,NBA,82,24.7,.452,.782,2.7,3.1,2.6,0.6,8.4,13.5,3.1,.073,0.7,1.4,,"Edgewood in Edgewood, Maryland",
-bradldu01,1980-81,23,IND,NBA,82,22.8,.474,.702,2.4,2.3,2.3,0.5,8.0,13.7,3.9,.100,1.9,1.8,,"Edgewood in Edgewood, Maryland",
-bradldu01,1981-82,24,PHO,NBA,64,14.6,.445,.740,1.4,1.3,1.2,0.2,5.1,10.9,1.4,.071,-1.4,0.1,,"Edgewood in Edgewood, Maryland",
-bradldu01,1982-83,25,CHI,NBA,58,11.8,.516,.800,1.8,1.8,0.8,0.2,3.5,12.6,1.1,.077,-0.6,0.2,,"Edgewood in Edgewood, Maryland",
-bradldu01,1983-84,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Edgewood in Edgewood, Maryland",
-bradldu01,1984-85,27,WSB,NBA,73,16.9,.475,.684,1.8,2.4,1.3,0.3,4.9,12.2,2.4,.093,0.8,0.9,,"Edgewood in Edgewood, Maryland",
-bradldu01,1985-86,28,Washington Bullets,NBA,70,12.0,.349,.571,1.4,1.5,1.2,0.0,2.8,10.2,1.0,.057,0.2,0.5,,"Edgewood in Edgewood, Maryland",100000
-bradldu01,1986-87,29,MIL,NBA,68,13.2,.357,.810,1.5,1.0,1.5,0.1,3.1,10.3,1.7,.090,2.0,0.9,,"Edgewood in Edgewood, Maryland",
-bradldu01,1987-88,30,New Jersey Nets,NBA,65,22.1,.427,.763,2.0,2.3,1.8,0.7,6.5,11.4,1.9,.064,0.6,0.9,,"Edgewood in Edgewood, Maryland",75000
-bradldu01,1987-88,30,New Jersey Nets,NBA,2,2.5,.000,,0.5,0.5,0.0,0.0,0.0,-4.0,0.0,-0.070,-8.2,0.0,,"Edgewood in Edgewood, Maryland",75000
-bradldu01,1987-88,30,New Jersey Nets,NBA,63,22.7,.429,.763,2.0,2.4,1.8,0.7,6.7,11.4,1.9,.065,0.6,1.0,,"Edgewood in Edgewood, Maryland",75000
-bradldu01,1988-89,31,Atlanta Hawks,NBA,38,7.0,.326,.500,0.8,0.6,0.4,0.1,1.9,6.1,0.0,.004,-3.4,-0.1,,"Edgewood in Edgewood, Maryland",100000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",+0.71,4.12,bradldu01,1979-80,IND,13.5,3.1,.073,0.7,1.4,,22,NBA,82,24.7,.452,.782,2.7,3.1,2.6,0.6,8.4,IND,
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",+1.24,4.53,bradldu01,1980-81,IND,13.7,3.9,.100,1.9,1.8,,23,NBA,82,22.8,.474,.702,2.4,2.3,2.3,0.5,8.0,IND,
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",-0.67,1.02,bradldu01,1981-82,PHO,10.9,1.4,.071,-1.4,0.1,,24,NBA,64,14.6,.445,.740,1.4,1.3,1.2,0.2,5.1,PHO,
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",-0.20,0.96,bradldu01,1982-83,CHI,12.6,1.1,.077,-0.6,0.2,,25,NBA,58,11.8,.516,.800,1.8,1.8,0.8,0.2,3.5,CHI,
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",,,bradldu01,1983-84,Did Not Play (other pro league—CBA),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—CBA),
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",+0.50,2.41,bradldu01,1984-85,WSB,12.2,2.4,.093,0.8,0.9,,27,NBA,73,16.9,.475,.684,1.8,2.4,1.3,0.3,4.9,WSB,
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",+0.13,1.51,bradldu01,1985-86,WSB,10.2,1.0,.057,0.2,0.5,,28,NBA,70,12.0,.349,.571,1.4,1.5,1.2,0.0,2.8,WSB,100000
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",+0.41,1.72,bradldu01,1986-87,MIL,10.3,1.7,.090,2.0,0.9,,29,NBA,68,13.2,.357,.810,1.5,1.0,1.5,0.1,3.1,MIL,
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",-0.33,1.89,bradldu01,1987-88,TOT,11.4,1.9,.064,0.6,0.9,,30,NBA,65,22.1,.427,.763,2.0,2.3,1.8,0.7,6.5,"MIL,NJN",75000
+Dudley Bradley,/players/b/bradldu01.html,1980,1989,University of North Carolina,false,"Edgewood in Edgewood, Maryland",-1.56,0.13,bradldu01,1988-89,ATL,6.1,0.0,.004,-3.4,-0.1,,31,NBA,38,7.0,.326,.500,0.8,0.6,0.4,0.1,1.9,ATL,100000

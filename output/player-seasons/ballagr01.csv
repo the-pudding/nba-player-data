@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-ballagr01,1977-78,23,WSB,NBA,76,12.3,.425,.772,3.5,0.8,0.4,0.2,4.9,14.1,2.0,.104,-1.1,0.2,,"Garey in Pomona, California",
-ballagr01,1978-79,24,WSB,NBA,82,18.9,.465,.692,5.5,1.4,0.7,0.4,7.8,14.9,3.9,.120,0.7,1.1,,"Garey in Pomona, California",
-ballagr01,1979-80,25,WSB,NBA,82,29.7,.495,.753,7.8,1.9,1.1,0.4,15.6,18.1,6.9,.136,2.5,2.7,,"Garey in Pomona, California",
-ballagr01,1980-81,26,WSB,NBA,82,31.8,.463,.847,7.1,2.4,1.4,0.5,15.5,16.7,6.9,.127,2.7,3.1,,"Garey in Pomona, California",
-ballagr01,1981-82,27,WSB,NBA,79,37.3,.475,.830,8.0,3.2,1.7,0.3,18.8,17.9,9.4,.154,3.5,4.1,,"Garey in Pomona, California",
-ballagr01,1982-83,28,WSB,NBA,78,36.4,.473,.781,6.5,3.4,1.7,0.3,18.0,16.8,7.9,.133,2.8,3.4,,"Garey in Pomona, California",
-ballagr01,1983-84,29,WSB,NBA,82,32.9,.481,.798,6.0,3.5,1.1,0.4,14.5,15.3,5.6,.099,1.2,2.2,,"Garey in Pomona, California",
-ballagr01,1984-85,30,Washington Bullets,NBA,82,32.5,.480,.795,6.5,2.5,1.2,0.4,13.1,14.3,6.0,.109,1.1,2.1,,"Garey in Pomona, California",350000
-ballagr01,1985-86,31,Golden State Warriors,NBA,75,23.9,.477,.802,5.6,1.1,0.9,0.1,8.8,13.4,3.6,.097,-0.6,0.6,,"Garey in Pomona, California",520833
-ballagr01,1986-87,32,GSW,NBA,82,19.3,.440,.747,4.1,1.3,0.6,0.2,7.1,11.5,1.7,.052,-2.2,-0.1,,"Garey in Pomona, California",
-ballagr01,1987-88,33,Did Not Play,,,,,,,,,,,,,,,,,"Garey in Pomona, California",
-ballagr01,1988-89,34,SEA,NBA,2,7.5,.125,1.000,3.5,0.0,0.0,0.0,3.0,7.1,0.0,.021,-21.9,-0.1,,"Garey in Pomona, California",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",-0.74,1.18,ballagr01,1977-78,WSB,14.1,2.0,.104,-1.1,0.2,,23,NBA,76,12.3,.425,.772,3.5,0.8,0.4,0.2,4.9,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+0.69,3.77,ballagr01,1978-79,WSB,14.9,3.9,.120,0.7,1.1,,24,NBA,82,18.9,.465,.692,5.5,1.4,0.7,0.4,7.8,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+0.52,4.77,ballagr01,1979-80,WSB,18.1,6.9,.136,2.5,2.7,,25,NBA,82,29.7,.495,.753,7.8,1.9,1.1,0.4,15.6,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+1.16,6.17,ballagr01,1980-81,WSB,16.7,6.9,.127,2.7,3.1,,26,NBA,82,31.8,.463,.847,7.1,2.4,1.4,0.5,15.5,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+2.46,10.46,ballagr01,1981-82,WSB,17.9,9.4,.154,3.5,4.1,,27,NBA,79,37.3,.475,.830,8.0,3.2,1.7,0.3,18.8,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+1.56,7.59,ballagr01,1982-83,WSB,16.8,7.9,.133,2.8,3.4,,28,NBA,78,36.4,.473,.781,6.5,3.4,1.7,0.3,18.0,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+0.19,4.81,ballagr01,1983-84,WSB,15.3,5.6,.099,1.2,2.2,,29,NBA,82,32.9,.481,.798,6.0,3.5,1.1,0.4,14.5,WSB,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",+0.39,4.95,ballagr01,1984-85,WSB,14.3,6.0,.109,1.1,2.1,,30,NBA,82,32.5,.480,.795,6.5,2.5,1.2,0.4,13.1,WSB,350000
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",-1.61,0.86,ballagr01,1985-86,GSW,13.4,3.6,.097,-0.6,0.6,,31,NBA,75,23.9,.477,.802,5.6,1.1,0.9,0.1,8.8,GSW,520833
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",-2.24,0.11,ballagr01,1986-87,GSW,11.5,1.7,.052,-2.2,-0.1,,32,NBA,82,19.3,.440,.747,4.1,1.3,0.6,0.2,7.1,GSW,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",,,ballagr01,1987-88,Did Not Play,,,,,,,33,,,,,,,,,,,Did Not Play,
+Greg Ballard,/players/b/ballagr01.html,1978,1989,University of Oregon,false,"Garey in Pomona, California",-0.16,0.02,ballagr01,1988-89,SEA,7.1,0.0,.021,-21.9,-0.1,,34,NBA,2,7.5,.125,1.000,3.5,0.0,0.0,0.0,3.0,SEA,

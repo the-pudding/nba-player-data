@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-flemial01,1977-78,23,SEA,NBA,20,4.9,.484,.588,1.5,0.4,0.0,0.3,2.0,10.7,0.0,.018,-4.5,-0.1,,"Elston in Michigan City, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Al Fleming,/players/f/flemial01.html,1978,1978,University of Arizona,false,"Elston in Michigan City, Indiana",+0.63,0.24,flemial01,1977-78,SEA,10.7,0.0,.018,-4.5,-0.1,,23,NBA,20,4.9,.484,.588,1.5,0.4,0.0,0.3,2.0,SEA

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-graysy01,1988-89,21,Miami Heat,NBA,55,22.2,.420,.673,5.2,2.1,0.7,0.5,8.0,11.2,0.7,.028,-2.1,0.0,,160000,"Bolton in Arlington, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Sylvester Gray,/players/g/graysy01.html,1989,1989,University of Memphis,false,"Bolton in Arlington, Tennessee",-2.80,-0.51,graysy01,1988-89,MIA,11.2,0.7,.028,-2.1,0.0,,NBA,160000,21,55,22.2,.420,.673,5.2,2.1,0.7,0.5,8.0,MIA

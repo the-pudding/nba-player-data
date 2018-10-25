@@ -1,11 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-burresc01,1993-94,23,Charlotte Hornets,NBA,51,15.0,.419,.657,2.6,1.2,0.7,0.3,4.8,10.4,0.5,.030,-2.3,-0.1,,650000,"Hamden in Hamden, Connecticut"
-burresc01,1994-95,24,Charlotte Hornets,NBA,65,31.0,.467,.694,5.7,2.5,1.2,0.6,11.5,15.0,5.6,.135,3.3,2.7,,845000,"Hamden in Hamden, Connecticut"
-burresc01,1995-96,25,Charlotte Hornets,NBA,20,34.7,.447,.750,4.9,2.4,1.4,0.7,13.2,13.0,1.1,.075,1.2,0.6,,1040000,"Hamden in Hamden, Connecticut"
-burresc01,1996-97,26,Charlotte Hornets,NBA,57,16.5,.362,.750,2.8,1.3,0.5,0.3,5.2,10.3,0.8,.042,-2.1,0.0,,1235000,"Hamden in Hamden, Connecticut"
-burresc01,1996-97,26,Charlotte Hornets,NBA,28,17.2,.344,.792,2.8,1.4,0.5,0.4,5.4,10.9,0.6,.065,-1.5,0.1,,1235000,"Hamden in Hamden, Connecticut"
-burresc01,1996-97,26,Charlotte Hornets,NBA,29,15.8,.379,.652,2.7,1.2,0.5,0.3,4.9,9.6,0.2,.017,-2.8,-0.1,,1235000,"Hamden in Hamden, Connecticut"
-burresc01,1997-98,27,Chicago Bulls,NBA,80,13.7,.424,.734,2.5,0.8,0.8,0.5,5.2,15.7,3.7,.163,2.8,1.3,,1430000,"Hamden in Hamden, Connecticut"
-burresc01,1998-99,28,New Jersey Nets,NBA,32,22.1,.361,.810,3.7,1.4,1.3,0.3,6.6,12.6,1.4,.092,0.4,0.4,,1000000,"Hamden in Hamden, Connecticut"
-burresc01,1999-00,29,New Jersey Nets,NBA,74,18.1,.394,.780,3.5,1.0,0.9,0.6,6.1,14.2,3.2,.115,1.4,1.1,,1000000,"Hamden in Hamden, Connecticut"
-burresc01,2000-01,30,CHH,NBA,4,10.3,.467,.250,0.8,0.3,0.8,0.0,4.3,12.8,0.1,.135,-1.0,0.0,,,"Hamden in Hamden, Connecticut"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",-1.96,0.17,burresc01,1993-94,CHH,10.4,0.5,.030,-2.3,-0.1,,NBA,650000,23,51,15.0,.419,.657,2.6,1.2,0.7,0.3,4.8,CHH
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",+1.12,4.63,burresc01,1994-95,CHH,15.0,5.6,.135,3.3,2.7,,NBA,845000,24,65,31.0,.467,.694,5.7,2.5,1.2,0.6,11.5,CHH
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",-0.47,0.85,burresc01,1995-96,CHH,13.0,1.1,.075,1.2,0.6,,NBA,1040000,25,20,34.7,.447,.750,4.9,2.4,1.4,0.7,13.2,CHH
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",-2.29,0.01,burresc01,1996-97,TOT,10.3,0.8,.042,-2.1,0.0,,NBA,1235000,26,57,16.5,.362,.750,2.8,1.3,0.5,0.3,5.2,"CHH,GSW"
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",+1.39,3.42,burresc01,1997-98,CHI,15.7,3.7,.163,2.8,1.3,,NBA,1430000,27,80,13.7,.424,.734,2.5,0.8,0.8,0.5,5.2,CHI
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",-0.92,0.62,burresc01,1998-99,NJN,12.6,1.4,.092,0.4,0.4,,NBA,1000000,28,32,22.1,.361,.810,3.7,1.4,1.3,0.3,6.6,NJN
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",+0.44,2.47,burresc01,1999-00,NJN,14.2,3.2,.115,1.4,1.1,,NBA,1000000,29,74,18.1,.394,.780,3.5,1.0,0.9,0.6,6.1,NJN
+Scott Burrell,/players/b/burresc01.html,1994,2001,University of Connecticut,false,"Hamden in Hamden, Connecticut",-0.51,0.06,burresc01,2000-01,CHH,12.8,0.1,.135,-1.0,0.0,,NBA,,30,4,10.3,.467,.250,0.8,0.3,0.8,0.0,4.3,CHH

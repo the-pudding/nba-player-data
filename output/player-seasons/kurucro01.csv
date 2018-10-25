@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-kurucro01,2018-19,20,BRK,NBA,3,14.3,.474,1.000,4.0,0.3,0.0,0.0,8.7,15.5,0.1,.059,-5.2,0.0,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rodions Kurucs,/players/k/kurucro01.html,2019,2019,,true,,,,kurucro01,2018-19,BRK,15.5,0.1,.059,-5.2,0.0,,20,NBA,3,14.3,.474,1.000,4.0,0.3,0.0,0.0,8.7,BRK

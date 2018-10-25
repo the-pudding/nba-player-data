@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-mcneaje01,2014-15,27,Phoenix Suns,NBA,6,6.0,.273,1.000,0.5,0.3,0.5,0.2,1.5,1.2,-0.1,-0.149,-8.5,-0.1,,29843,"Hillcrest in Country Club Hills, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jerel McNeal,/players/m/mcneaje01.html,2015,2015,Marquette University,false,"Hillcrest in Country Club Hills, Illinois",-0.66,0.04,mcneaje01,2014-15,PHO,1.2,-0.1,-0.149,-8.5,-0.1,,NBA,29843,27,6,6.0,.273,1.000,0.5,0.3,0.5,0.2,1.5,PHO

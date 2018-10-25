@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-vaughja01,1997-98,22,Utah Jazz,NBA,45,9.3,.361,.706,0.8,1.9,0.2,0.0,3.1,6.9,-0.4,-0.048,-8.4,-0.7,,601320,"John Muir in Pasadena, California"
-vaughja01,1998-99,23,Utah Jazz,NBA,19,4.6,.367,.833,0.6,0.6,0.3,0.0,2.3,13.3,0.1,.069,-3.1,0.0,,691560,"John Muir in Pasadena, California"
-vaughja01,1999-00,24,Utah Jazz,NBA,78,11.3,.416,.750,0.8,1.6,0.4,0.0,3.7,9.2,0.4,.022,-4.9,-0.6,,781800,"John Muir in Pasadena, California"
-vaughja01,2000-01,25,Utah Jazz,NBA,82,19.8,.433,.780,1.8,3.9,0.6,0.0,6.1,12.8,3.0,.088,-2.2,-0.1,,1500000,"John Muir in Pasadena, California"
-vaughja01,2001-02,26,Atlanta Hawks,NBA,82,22.6,.470,.825,2.0,4.3,0.8,0.0,6.6,13.1,3.5,.091,-2.8,-0.4,,590850,"John Muir in Pasadena, California"
-vaughja01,2002-03,27,Orlando Magic,NBA,80,21.1,.448,.776,1.5,2.9,0.8,0.0,5.9,10.5,2.0,.058,-4.1,-0.9,,699935,"John Muir in Pasadena, California"
-vaughja01,2003-04,28,Atlanta Hawks,NBA,71,17.9,.386,.779,1.6,2.7,0.6,0.0,3.8,8.0,0.0,-0.002,-6.2,-1.3,,813679,"John Muir in Pasadena, California"
-vaughja01,2004-05,29,New Jersey Nets,NBA,71,19.9,.449,.835,1.5,1.9,0.6,0.0,5.3,8.9,1.8,.062,-4.5,-0.9,,932546,"John Muir in Pasadena, California"
-vaughja01,2005-06,30,New Jersey Nets,NBA,80,15.4,.437,.728,1.1,1.5,0.5,0.0,3.4,7.5,1.5,.060,-4.6,-0.8,,1094550,"John Muir in Pasadena, California"
-vaughja01,2006-07,31,San Antonio Spurs,NBA,64,11.9,.425,.754,1.1,2.0,0.4,0.0,3.0,10.9,1.7,.107,-3.2,-0.2,,1071225,"John Muir in Pasadena, California"
-vaughja01,2007-08,32,San Antonio Spurs,NBA,74,15.4,.428,.763,1.0,2.1,0.3,0.0,4.1,9.2,1.6,.069,-4.8,-0.8,,1219950,"John Muir in Pasadena, California"
-vaughja01,2008-09,33,San Antonio Spurs,NBA,30,9.7,.320,.889,0.7,1.8,0.2,0.0,2.2,7.6,0.1,.020,-7.5,-0.4,,1262275,"John Muir in Pasadena, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-3.72,-0.42,vaughja01,1997-98,UTA,6.9,-0.4,-0.048,-8.4,-0.7,,NBA,601320,22,45,9.3,.361,.706,0.8,1.9,0.2,0.0,3.1,UTA
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",+0.40,0.17,vaughja01,1998-99,UTA,13.3,0.1,.069,-3.1,0.0,,NBA,691560,23,19,4.6,.367,.833,0.6,0.6,0.3,0.0,2.3,UTA
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-2.70,-0.32,vaughja01,1999-00,UTA,9.2,0.4,.022,-4.9,-0.6,,NBA,781800,24,78,11.3,.416,.750,0.8,1.6,0.4,0.0,3.7,UTA
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-4.09,-2.21,vaughja01,2000-01,UTA,12.8,3.0,.088,-2.2,-0.1,,NBA,1500000,25,82,19.8,.433,.780,1.8,3.9,0.6,0.0,6.1,UTA
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-2.40,-0.23,vaughja01,2001-02,ATL,13.1,3.5,.091,-2.8,-0.4,,NBA,590850,26,82,22.6,.470,.825,2.0,4.3,0.8,0.0,6.6,ATL
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-1.12,1.38,vaughja01,2002-03,ORL,10.5,2.0,.058,-4.1,-0.9,,NBA,699935,27,80,21.1,.448,.776,1.5,2.9,0.8,0.0,5.9,ORL
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-4.23,-1.81,vaughja01,2003-04,ATL,8.0,0.0,-0.002,-6.2,-1.3,,NBA,813679,28,71,17.9,.386,.779,1.6,2.7,0.6,0.0,3.8,ATL
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-3.60,-1.33,vaughja01,2004-05,NJN,8.9,1.8,.062,-4.5,-0.9,,NBA,932546,29,71,19.9,.449,.835,1.5,1.9,0.6,0.0,5.3,NJN
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-5.89,-3.43,vaughja01,2005-06,NJN,7.5,1.5,.060,-4.6,-0.8,,NBA,1094550,30,80,15.4,.437,.728,1.1,1.5,0.5,0.0,3.4,NJN
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-0.74,1.00,vaughja01,2006-07,SAS,10.9,1.7,.107,-3.2,-0.2,,NBA,1071225,31,64,11.9,.425,.754,1.1,2.0,0.4,0.0,3.0,SAS
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-2.35,-0.12,vaughja01,2007-08,SAS,9.2,1.6,.069,-4.8,-0.8,,NBA,1219950,32,74,15.4,.428,.763,1.0,2.1,0.3,0.0,4.1,SAS
+Jacque Vaughn,/players/v/vaughja01.html,1998,2009,University of Kansas,false,"John Muir in Pasadena, California",-1.72,0.10,vaughja01,2008-09,SAS,7.6,0.1,.020,-7.5,-0.4,,NBA,1262275,33,30,9.7,.320,.889,0.7,1.8,0.2,0.0,2.2,SAS

@@ -1,17 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-sparrro01,1980-81,22,NJN,NBA,15,14.1,.349,.750,1.2,2.1,0.9,0.2,3.7,8.2,-0.1,-0.023,-5.2,-0.2,,"Eastside in Paterson, New Jersey",
-sparrro01,1981-82,23,ATL,NBA,82,31.8,.501,.838,2.7,5.2,1.1,0.2,10.5,13.0,5.6,.104,0.3,1.5,,"Eastside in Paterson, New Jersey",
-sparrro01,1982-83,24,"ATL,NYK",NBA,81,30.0,.484,.739,2.8,4.9,1.3,0.1,11.6,13.2,4.2,.084,-0.1,1.2,,"Eastside in Paterson, New Jersey",
-sparrro01,1983-84,25,NYK,NBA,79,30.8,.474,.824,2.4,6.8,1.3,0.1,10.4,12.4,4.2,.083,-1.1,0.6,,"Eastside in Paterson, New Jersey",
-sparrro01,1984-85,26,New York Knicks,NBA,79,29.0,.492,.865,2.1,7.1,1.0,0.1,9.9,14.3,4.3,.091,-1.9,0.0,,"Eastside in Paterson, New Jersey",500000
-sparrro01,1985-86,27,New York Knicks,NBA,74,31.7,.477,.795,2.3,6.4,1.1,0.2,10.8,13.0,3.7,.077,-1.3,0.4,,"Eastside in Paterson, New Jersey",500000
-sparrro01,1986-87,28,NYK,NBA,80,24.4,.446,.798,1.4,5.4,0.8,0.1,7.6,11.2,1.0,.024,-4.6,-1.3,,"Eastside in Paterson, New Jersey",
-sparrro01,1987-88,29,Chicago Bulls,NBA,58,18.0,.399,.727,1.2,2.9,0.7,0.1,4.5,8.3,0.5,.024,-5.2,-0.8,,"Eastside in Paterson, New Jersey",325000
-sparrro01,1987-88,29,Chicago Bulls,NBA,3,17.3,.263,,0.7,1.7,1.3,0.0,3.3,-1.7,-0.2,-0.179,-10.3,-0.1,,"Eastside in Paterson, New Jersey",325000
-sparrro01,1987-88,29,Chicago Bulls,NBA,55,18.0,.409,.727,1.3,2.9,0.7,0.1,4.5,8.9,0.7,.035,-5.0,-0.7,,"Eastside in Paterson, New Jersey",325000
-sparrro01,1988-89,30,Miami Heat,NBA,80,32.7,.452,.879,2.7,5.4,1.3,0.2,12.5,11.7,1.6,.029,-2.9,-0.6,,"Eastside in Paterson, New Jersey",275000
-sparrro01,1989-90,31,MIA,NBA,82,21.4,.412,.766,1.7,3.6,0.6,0.0,5.9,8.8,0.7,.019,-5.1,-1.4,,"Eastside in Paterson, New Jersey",
-sparrro01,1990-91,32,Sacramento Kings,NBA,80,29.7,.491,.699,2.3,4.5,1.0,0.2,10.4,12.4,2.8,.057,-2.3,-0.2,,"Eastside in Paterson, New Jersey",300000
-sparrro01,1991-92,33,Chicago Bulls,NBA,46,10.6,.384,.615,0.6,1.8,0.3,0.1,2.8,6.5,-0.4,-0.037,-8.6,-0.8,,"Eastside in Paterson, New Jersey",126000
-sparrro01,1991-92,33,Chicago Bulls,NBA,4,4.5,.125,,0.3,1.0,0.0,0.0,0.8,-5.5,-0.1,-0.260,-17.9,-0.1,,"Eastside in Paterson, New Jersey",126000
-sparrro01,1991-92,33,Chicago Bulls,NBA,42,11.2,.399,.615,0.6,1.9,0.3,0.1,3.0,6.9,-0.3,-0.029,-8.3,-0.7,,"Eastside in Paterson, New Jersey",126000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-0.71,0.22,sparrro01,1980-81,NJN,8.2,-0.1,-0.023,-5.2,-0.2,,22,NBA,15,14.1,.349,.750,1.2,2.1,0.9,0.2,3.7,NJN,
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",+0.69,5.40,sparrro01,1981-82,ATL,13.0,5.6,.104,0.3,1.5,,23,NBA,82,31.8,.501,.838,2.7,5.2,1.1,0.2,10.5,ATL,
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-0.58,2.96,sparrro01,1982-83,TOT,13.2,4.2,.084,-0.1,1.2,,24,NBA,81,30.0,.484,.739,2.8,4.9,1.3,0.1,11.6,"ATL,NYK",
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",+0.25,4.85,sparrro01,1983-84,NYK,12.4,4.2,.083,-1.1,0.6,,25,NBA,79,30.8,.474,.824,2.4,6.8,1.3,0.1,10.4,NYK,
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-0.32,3.04,sparrro01,1984-85,NYK,14.3,4.3,.091,-1.9,0.0,,26,NBA,79,29.0,.492,.865,2.1,7.1,1.0,0.1,9.9,NYK,500000
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-0.59,2.64,sparrro01,1985-86,NYK,13.0,3.7,.077,-1.3,0.4,,27,NBA,74,31.7,.477,.795,2.3,6.4,1.1,0.2,10.8,NYK,500000
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-2.61,-0.39,sparrro01,1986-87,NYK,11.2,1.0,.024,-4.6,-1.3,,28,NBA,80,24.4,.446,.798,1.4,5.4,0.8,0.1,7.6,NYK,
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-2.91,-0.51,sparrro01,1987-88,TOT,8.3,0.5,.024,-5.2,-0.8,,29,NBA,58,18.0,.399,.727,1.2,2.9,0.7,0.1,4.5,"NYK,CHI",325000
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-2.50,-0.50,sparrro01,1988-89,MIA,11.7,1.6,.029,-2.9,-0.6,,30,NBA,80,32.7,.452,.879,2.7,5.4,1.3,0.2,12.5,MIA,275000
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-3.56,-1.58,sparrro01,1989-90,MIA,8.8,0.7,.019,-5.1,-1.4,,31,NBA,82,21.4,.412,.766,1.7,3.6,0.6,0.0,5.9,MIA,
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-1.84,0.67,sparrro01,1990-91,SAC,12.4,2.8,.057,-2.3,-0.2,,32,NBA,80,29.7,.491,.699,2.3,4.5,1.0,0.2,10.4,SAC,300000
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false,"Eastside in Paterson, New Jersey",-3.27,-0.32,sparrro01,1991-92,TOT,6.5,-0.4,-0.037,-8.6,-0.8,,33,NBA,46,10.6,.384,.615,0.6,1.8,0.3,0.1,2.8,"CHI,LAL",126000

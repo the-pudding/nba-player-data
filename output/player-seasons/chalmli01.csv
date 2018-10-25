@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-chalmli01,2004-05,24,Los Angeles Clippers,NBA,36,12.0,.336,.625,0.9,1.4,0.4,0.0,3.1,6.5,-0.2,-0.025,-6.3,-0.5,,450000,"Albany in Albany, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lionel Chalmers,/players/c/chalmli01.html,2005,2005,Xavier University,false,"Albany in Albany, New York",-3.16,-0.27,chalmli01,2004-05,LAC,6.5,-0.2,-0.025,-6.3,-0.5,,NBA,450000,24,36,12.0,.336,.625,0.9,1.4,0.4,0.0,3.1,LAC

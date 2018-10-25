@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-comegda01,1987-88,23,New Jersey Nets,NBA,75,15.0,.430,.707,2.9,0.9,0.5,0.9,5.6,9.5,-0.3,-0.012,-4.6,-0.7,,115000,"Roman Catholic in Philadelphia, Pennsylvania"
-comegda01,1988-89,24,San Antonio Spurs,NBA,67,16.7,.487,.658,3.5,0.4,0.6,0.9,6.5,11.9,1.4,.060,-2.9,-0.3,,175000,"Roman Catholic in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dallas Comegys,/players/c/comegda01.html,1988,1989,DePaul University,false,"Roman Catholic in Philadelphia, Pennsylvania",-2.58,-0.27,comegda01,1987-88,NJN,9.5,-0.3,-0.012,-4.6,-0.7,,NBA,115000,23,75,15.0,.430,.707,2.9,0.9,0.5,0.9,5.6,NJN
+Dallas Comegys,/players/c/comegda01.html,1988,1989,DePaul University,false,"Roman Catholic in Philadelphia, Pennsylvania",-1.95,0.20,comegda01,1988-89,SAS,11.9,1.4,.060,-2.9,-0.3,,NBA,175000,24,67,16.7,.487,.658,3.5,0.4,0.6,0.9,6.5,SAS

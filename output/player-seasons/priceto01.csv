@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-priceto01,1980-81,24,SDC,NBA,5,5.8,.286,,0.0,0.6,0.4,0.2,0.8,2.4,-0.1,-0.089,-10.6,-0.1,,"Taft in Bronx, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Price,/players/p/priceto01.html,1981,1981,University of Pennsylvania,false,"Taft in Bronx, New York",+0.49,0.05,priceto01,1980-81,SDC,2.4,-0.1,-0.089,-10.6,-0.1,,24,NBA,5,5.8,.286,,0.0,0.6,0.4,0.2,0.8,SDC

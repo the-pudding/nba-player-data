@@ -1,14 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-elsonfr01,2003-04,27,Denver Nuggets,NBA,62,14.1,.472,.667,3.3,0.5,0.6,0.6,3.5,11.2,1.8,.097,-1.0,0.2,,366931,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2004-05,28,Denver Nuggets,NBA,67,14.0,.468,.570,3.0,0.5,0.5,0.6,3.7,10.7,1.6,.081,-1.7,0.1,,620046,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2005-06,29,Denver Nuggets,NBA,72,21.9,.532,.662,4.7,0.7,0.8,0.6,4.9,10.1,2.9,.087,-0.6,0.6,,719373,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2006-07,30,San Antonio Spurs,NBA,70,19.0,.511,.775,4.8,0.8,0.4,0.8,5.0,11.2,3.1,.111,-0.3,0.6,,3000000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2007-08,31,Seattle SuperSonics,NBA,63,12.9,.390,.703,3.2,0.4,0.2,0.3,3.3,6.9,0.0,-0.001,-6.5,-0.9,,3000000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2007-08,31,Seattle SuperSonics,NBA,41,13.0,.419,.833,3.3,0.4,0.2,0.3,3.5,8.5,0.5,.043,-5.3,-0.4,,3000000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2007-08,31,Seattle SuperSonics,NBA,22,12.7,.341,.462,3.0,0.4,0.3,0.3,3.0,3.8,-0.5,-0.085,-8.8,-0.5,,3000000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2008-09,32,Milwaukee Bucks,NBA,59,16.6,.491,.846,3.9,0.5,0.6,0.6,3.4,10.3,1.8,.089,0.1,0.5,,1700000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2009-10,33,Philadelphia 76ers,NBA,12,5.5,.333,.400,1.2,0.2,0.1,0.0,1.0,5.5,0.0,.022,-6.8,-0.1,,1700000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2009-10,33,Philadelphia 76ers,NBA,11,5.6,.308,1.000,1.2,0.2,0.1,0.0,0.9,5.4,0.1,.044,-5.8,-0.1,,1700000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2009-10,33,Philadelphia 76ers,NBA,1,4.0,.500,.000,1.0,0.0,0.0,0.0,2.0,6.3,0.0,-0.326,-23.5,0.0,,1700000,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2010-11,34,Utah Jazz,NBA,62,9.8,.478,.839,1.9,0.5,0.3,0.2,2.2,8.9,0.6,.046,-3.1,-0.2,,1146337,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
-elsonfr01,2011-12,35,Philadelphia 76ers,NBA,5,3.2,.333,,0.2,0.2,0.2,0.2,0.4,6.3,0.0,-0.026,-4.3,0.0,,305792,"Maria Regina M.A.V.O. in Rotterdam, Netherlands"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-1.07,0.71,elsonfr01,2003-04,DEN,11.2,1.8,.097,-1.0,0.2,,NBA,366931,27,62,14.1,.472,.667,3.3,0.5,0.6,0.6,3.5,DEN
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-0.91,0.86,elsonfr01,2004-05,DEN,10.7,1.6,.081,-1.7,0.1,,NBA,620046,28,67,14.0,.468,.570,3.0,0.5,0.5,0.6,3.7,DEN
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-0.82,1.61,elsonfr01,2005-06,DEN,10.1,2.9,.087,-0.6,0.6,,NBA,719373,29,72,21.9,.532,.662,4.7,0.7,0.8,0.6,4.9,DEN
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-1.36,0.93,elsonfr01,2006-07,SAS,11.2,3.1,.111,-0.3,0.6,,NBA,3000000,30,70,19.0,.511,.775,4.8,0.8,0.4,0.8,5.0,SAS
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-2.23,-0.03,elsonfr01,2007-08,TOT,6.9,0.0,-0.001,-6.5,-0.9,,NBA,3000000,31,63,12.9,.390,.703,3.2,0.4,0.2,0.3,3.3,"SAS,SEA"
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-0.74,1.02,elsonfr01,2008-09,MIL,10.3,1.8,.089,0.1,0.5,,NBA,1700000,32,59,16.6,.491,.846,3.9,0.5,0.6,0.6,3.4,MIL
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",+0.12,0.11,elsonfr01,2009-10,TOT,5.5,0.0,.022,-6.8,-0.1,,NBA,1700000,33,12,5.5,.333,.400,1.2,0.2,0.1,0.0,1.0,"MIL,PHI"
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",-1.98,0.11,elsonfr01,2010-11,UTA,8.9,0.6,.046,-3.1,-0.2,,NBA,1146337,34,62,9.8,.478,.839,1.9,0.5,0.3,0.2,2.2,UTA
+Francisco Elson,/players/e/elsonfr01.html,2004,2012,University of California,false,"Maria Regina M.A.V.O. in Rotterdam, Netherlands",+0.44,0.03,elsonfr01,2011-12,PHI,6.3,0.0,-0.026,-4.3,0.0,,NBA,305792,35,5,3.2,.333,,0.2,0.2,0.2,0.2,0.4,PHI

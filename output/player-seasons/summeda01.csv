@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-summeda01,2009-10,22,Detroit Pistons,NBA,44,9.2,.354,.711,1.0,0.4,0.2,0.2,3.0,7.5,0.0,.002,-5.8,-0.4,,457588,"McDonogh School in Owings Mills, Maryland"
-summeda01,2010-11,23,Detroit Pistons,NBA,22,9.0,.406,.450,0.5,0.1,0.1,0.0,3.4,4.4,-0.3,-0.083,-10.5,-0.4,,762195,"McDonogh School in Owings Mills, Maryland"
-summeda01,2011-12,24,New Orleans Hornets,NBA,15,13.9,.431,.778,1.5,0.7,0.5,0.0,4.5,9.0,0.2,.049,-3.4,-0.1,,303137,"McDonogh School in Owings Mills, Maryland"
-summeda01,2012-13,25,LAC,NBA,2,3.5,.250,,1.0,0.5,0.0,0.0,1.0,4.3,0.0,-0.124,-12.6,0.0,,,"McDonogh School in Owings Mills, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+DaJuan Summers,/players/s/summeda01.html,2010,2013,Georgetown University,false,"McDonogh School in Owings Mills, Maryland",-3.46,-0.33,summeda01,2009-10,DET,7.5,0.0,.002,-5.8,-0.4,,NBA,457588,22,44,9.2,.354,.711,1.0,0.4,0.2,0.2,3.0,DET
+DaJuan Summers,/players/s/summeda01.html,2010,2013,Georgetown University,false,"McDonogh School in Owings Mills, Maryland",-1.71,0.08,summeda01,2010-11,DET,4.4,-0.3,-0.083,-10.5,-0.4,,NBA,762195,23,22,9.0,.406,.450,0.5,0.1,0.1,0.0,3.4,DET
+DaJuan Summers,/players/s/summeda01.html,2010,2013,Georgetown University,false,"McDonogh School in Owings Mills, Maryland",-0.92,0.18,summeda01,2011-12,NOH,9.0,0.2,.049,-3.4,-0.1,,NBA,303137,24,15,13.9,.431,.778,1.5,0.7,0.5,0.0,4.5,NOH
+DaJuan Summers,/players/s/summeda01.html,2010,2013,Georgetown University,false,"McDonogh School in Owings Mills, Maryland",+0.11,0.01,summeda01,2012-13,LAC,4.3,0.0,-0.124,-12.6,0.0,,NBA,,25,2,3.5,.250,,1.0,0.5,0.0,0.0,1.0,LAC

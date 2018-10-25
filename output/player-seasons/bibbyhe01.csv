@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-bibbyhe01,1976-77,27,PHI,NBA,81,32.6,.430,.784,3.4,4.4,1.3,0.1,10.2,11.5,4.1,.074,-1.5,0.3,,"Person-Albion in Franklinton, North Carolina"
-bibbyhe01,1977-78,28,PHI,NBA,82,30.7,.434,.781,3.1,5.7,1.1,0.1,9.1,11.7,4.7,.089,-1.1,0.6,,"Person-Albion in Franklinton, North Carolina"
-bibbyhe01,1978-79,29,PHI,NBA,82,31.0,.423,.794,3.0,4.5,0.9,0.1,12.2,11.2,3.7,.069,-2.4,-0.2,,"Person-Albion in Franklinton, North Carolina"
-bibbyhe01,1979-80,30,PHI,NBA,82,24.8,.401,.790,2.5,3.7,0.8,0.1,9.0,11.1,3.4,.079,-2.6,-0.3,,"Person-Albion in Franklinton, North Carolina"
-bibbyhe01,1980-81,31,SDC,NBA,73,15.2,.386,.684,1.0,2.7,0.6,0.0,4.6,10.6,1.0,.043,-3.7,-0.5,,"Person-Albion in Franklinton, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Henry Bibby,/players/b/bibbyhe01.html,1973,1981,"University of California, Los Angeles",false,"Person-Albion in Franklinton, North Carolina",-1.14,2.36,bibbyhe01,1976-77,PHI,11.5,4.1,.074,-1.5,0.3,,27,NBA,81,32.6,.430,.784,3.4,4.4,1.3,0.1,10.2,PHI
+Henry Bibby,/players/b/bibbyhe01.html,1973,1981,"University of California, Los Angeles",false,"Person-Albion in Franklinton, North Carolina",-0.19,3.94,bibbyhe01,1977-78,PHI,11.7,4.7,.089,-1.1,0.6,,28,NBA,82,30.7,.434,.781,3.1,5.7,1.1,0.1,9.1,PHI
+Henry Bibby,/players/b/bibbyhe01.html,1973,1981,"University of California, Los Angeles",false,"Person-Albion in Franklinton, North Carolina",-1.78,0.75,bibbyhe01,1978-79,PHI,11.2,3.7,.069,-2.4,-0.2,,29,NBA,82,31.0,.423,.794,3.0,4.5,0.9,0.1,12.2,PHI
+Henry Bibby,/players/b/bibbyhe01.html,1973,1981,"University of California, Los Angeles",false,"Person-Albion in Franklinton, North Carolina",-1.56,1.07,bibbyhe01,1979-80,PHI,11.1,3.4,.079,-2.6,-0.3,,30,NBA,82,24.8,.401,.790,2.5,3.7,0.8,0.1,9.0,PHI
+Henry Bibby,/players/b/bibbyhe01.html,1973,1981,"University of California, Los Angeles",false,"Person-Albion in Franklinton, North Carolina",-1.48,0.59,bibbyhe01,1980-81,SDC,10.6,1.0,.043,-3.7,-0.5,,31,NBA,73,15.2,.386,.684,1.0,2.7,0.6,0.0,4.6,SDC

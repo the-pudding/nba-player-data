@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-richami01,1978-79,23,NYK,NBA,72,16.9,.414,.539,3.2,3.0,1.4,0.3,6.5,12.4,0.3,.013,-0.5,0.5,,"Manual in Denver, Colorado",
-richami01,1979-80,24,NYK,NBA,82,37.3,.472,.660,6.6,10.1,3.2,0.4,15.3,17.8,6.0,.094,3.7,4.4,,"Manual in Denver, Colorado",
-richami01,1980-81,25,NYK,NBA,79,40.2,.469,.663,6.9,7.9,2.9,0.4,16.4,17.1,6.9,.104,4.5,5.2,,"Manual in Denver, Colorado",
-richami01,1981-82,26,NYK,NBA,82,37.1,.461,.700,6.9,7.0,2.6,0.5,17.9,17.7,5.5,.086,4.1,4.6,,"Manual in Denver, Colorado",
-richami01,1982-83,27,"GSW,NJN",NBA,64,32.4,.425,.650,4.6,6.8,2.8,0.4,12.6,13.9,2.0,.047,1.7,1.9,,"Manual in Denver, Colorado",
-richami01,1983-84,28,NJN,NBA,48,26.8,.460,.704,3.6,4.5,2.1,0.4,12.0,15.1,2.4,.090,2.4,1.4,,"Manual in Denver, Colorado",
-richami01,1984-85,29,New Jersey Nets,NBA,82,38.1,.469,.767,5.6,8.2,3.0,0.3,20.1,19.8,8.7,.134,5.1,5.6,,"Manual in Denver, Colorado",427000
-richami01,1985-86,30,New Jersey Nets,NBA,47,34.1,.448,.788,5.3,7.2,2.7,0.2,15.7,16.9,3.3,.099,3.5,2.2,,"Manual in Denver, Colorado",750000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",-0.36,1.57,richami01,1978-79,NYK,12.4,0.3,.013,-0.5,0.5,,23,NBA,72,16.9,.414,.539,3.2,3.0,1.4,0.3,6.5,NYK,
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",+2.31,9.48,richami01,1979-80,NYK,17.8,6.0,.094,3.7,4.4,,24,NBA,82,37.3,.472,.660,6.6,10.1,3.2,0.4,15.3,NYK,
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",+2.31,10.19,richami01,1980-81,NYK,17.1,6.9,.104,4.5,5.2,,25,NBA,79,40.2,.469,.663,6.9,7.9,2.9,0.4,16.4,NYK,
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",+1.96,8.72,richami01,1981-82,NYK,17.7,5.5,.086,4.1,4.6,,26,NBA,82,37.1,.461,.700,6.9,7.0,2.6,0.5,17.9,NYK,
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",-0.20,2.99,richami01,1982-83,TOT,13.9,2.0,.047,1.7,1.9,,27,NBA,64,32.4,.425,.650,4.6,6.8,2.8,0.4,12.6,"GSW,NJN",
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",+0.90,3.74,richami01,1983-84,NJN,15.1,2.4,.090,2.4,1.4,,28,NBA,48,26.8,.460,.704,3.6,4.5,2.1,0.4,12.0,NJN,
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",+3.26,12.04,richami01,1984-85,NJN,19.8,8.7,.134,5.1,5.6,,29,NBA,82,38.1,.469,.767,5.6,8.2,3.0,0.3,20.1,NJN,427000
+Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false,"Manual in Denver, Colorado",+1.25,3.86,richami01,1985-86,NJN,16.9,3.3,.099,3.5,2.2,,30,NBA,47,34.1,.448,.788,5.3,7.2,2.7,0.2,15.7,NJN,750000

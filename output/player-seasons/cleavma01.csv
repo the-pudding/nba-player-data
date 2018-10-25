@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-cleavma01,2000-01,23,Detroit Pistons,NBA,78,16.3,.400,.708,1.7,2.7,0.6,0.0,5.4,9.0,-0.1,-0.006,-5.2,-1.0,,1253400,"Flint Northern in Flint, Michigan"
-cleavma01,2001-02,24,Sacramento Kings,NBA,32,4.8,.441,.889,0.3,0.8,0.2,0.0,2.2,8.8,-0.3,-0.082,-9.8,-0.3,,1347480,"Flint Northern in Flint, Michigan"
-cleavma01,2002-03,25,Sacramento Kings,NBA,12,4.6,.261,.750,0.7,0.8,0.2,0.0,1.3,-3.7,-0.4,-0.325,-15.8,-0.2,,1441440,"Flint Northern in Flint, Michigan"
-cleavma01,2003-04,26,CLE,NBA,4,23.0,.304,.500,1.8,4.8,1.0,0.5,3.8,6.8,0.0,-0.024,-7.2,-0.1,,,"Flint Northern in Flint, Michigan"
-cleavma01,2004-05,27,Seattle SuperSonics,NBA,14,4.6,.357,.750,0.4,0.5,0.1,0.0,0.9,9.1,0.0,.029,-4.1,0.0,,735960,"Flint Northern in Flint, Michigan"
-cleavma01,2005-06,28,Seattle SuperSonics,NBA,27,8.5,.352,.792,0.5,1.6,0.1,0.1,2.7,9.1,0.0,-0.005,-8.1,-0.4,,305784,"Flint Northern in Flint, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mateen Cleaves,/players/c/cleavma01.html,2001,2006,Michigan State University,false,"Flint Northern in Flint, Michigan",-2.72,-0.60,cleavma01,2000-01,DET,9.0,-0.1,-0.006,-5.2,-1.0,,NBA,1253400,23,78,16.3,.400,.708,1.7,2.7,0.6,0.0,5.4,DET
+Mateen Cleaves,/players/c/cleavma01.html,2001,2006,Michigan State University,false,"Flint Northern in Flint, Michigan",-2.11,0.01,cleavma01,2001-02,SAC,8.8,-0.3,-0.082,-9.8,-0.3,,NBA,1347480,24,32,4.8,.441,.889,0.3,0.8,0.2,0.0,2.2,SAC
+Mateen Cleaves,/players/c/cleavma01.html,2001,2006,Michigan State University,false,"Flint Northern in Flint, Michigan",-0.67,0.06,cleavma01,2002-03,SAC,-3.7,-0.4,-0.325,-15.8,-0.2,,NBA,1441440,25,12,4.6,.261,.750,0.7,0.8,0.2,0.0,1.3,SAC
+Mateen Cleaves,/players/c/cleavma01.html,2001,2006,Michigan State University,false,"Flint Northern in Flint, Michigan",-0.19,0.13,cleavma01,2003-04,CLE,6.8,0.0,-0.024,-7.2,-0.1,,NBA,,26,4,23.0,.304,.500,1.8,4.8,1.0,0.5,3.8,CLE
+Mateen Cleaves,/players/c/cleavma01.html,2001,2006,Michigan State University,false,"Flint Northern in Flint, Michigan",-0.70,0.07,cleavma01,2004-05,SEA,9.1,0.0,.029,-4.1,0.0,,NBA,735960,27,14,4.6,.357,.750,0.4,0.5,0.1,0.0,0.9,SEA
+Mateen Cleaves,/players/c/cleavma01.html,2001,2006,Michigan State University,false,"Flint Northern in Flint, Michigan",-1.92,0.06,cleavma01,2005-06,SEA,9.1,0.0,-0.005,-8.1,-0.4,,NBA,305784,28,27,8.5,.352,.792,0.5,1.6,0.1,0.1,2.7,SEA

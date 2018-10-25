@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-johnsla02,1991-92,22,Charlotte Hornets,NBA,82,37.2,.490,.829,11.0,3.6,1.0,0.6,19.2,18.9,8.9,.140,2.8,3.7,,1955000,"Skyline in Dallas, Texas"
-johnsla02,1992-93,23,Charlotte Hornets,NBA,82,40.5,.526,.767,10.5,4.3,0.6,0.3,22.1,18.9,9.6,.139,3.4,4.6,All-NBA (2nd),2540000,"Skyline in Dallas, Texas"
-johnsla02,1993-94,24,Charlotte Hornets,NBA,51,34.5,.515,.695,8.8,3.6,0.6,0.3,16.4,16.8,3.9,.106,1.4,1.5,,3125000,"Skyline in Dallas, Texas"
-johnsla02,1994-95,25,Charlotte Hornets,NBA,81,39.9,.480,.774,7.2,4.6,1.0,0.3,18.8,17.1,8.5,.126,2.9,4.0,,3710000,"Skyline in Dallas, Texas"
-johnsla02,1995-96,26,Charlotte Hornets,NBA,81,40.4,.476,.757,8.4,4.4,0.7,0.5,20.5,19.8,10.1,.149,3.4,4.5,,4295000,"Skyline in Dallas, Texas"
-johnsla02,1996-97,27,New York Knicks,NBA,76,34.4,.512,.693,5.2,2.3,0.8,0.5,12.8,13.8,7.7,.141,2.4,2.9,,5004000,"Skyline in Dallas, Texas"
-johnsla02,1997-98,28,New York Knicks,NBA,70,34.5,.485,.756,5.7,2.1,0.6,0.2,15.5,15.8,6.9,.137,1.4,2.0,,8460714,"Skyline in Dallas, Texas"
-johnsla02,1998-99,29,New York Knicks,NBA,49,33.4,.459,.817,5.8,2.4,0.7,0.2,12.0,14.6,4.9,.144,2.5,1.9,,10186000,"Skyline in Dallas, Texas"
-johnsla02,1999-00,30,New York Knicks,NBA,70,32.6,.433,.766,5.4,2.5,0.6,0.1,10.7,12.4,5.1,.107,1.3,1.9,,11910714,"Skyline in Dallas, Texas"
-johnsla02,2000-01,31,New York Knicks,NBA,65,32.4,.411,.797,5.6,2.0,0.6,0.4,9.9,11.2,4.1,.093,0.7,1.4,,11000000,"Skyline in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+0.66,6.03,johnsla02,1991-92,CHH,18.9,8.9,.140,2.8,3.7,,NBA,1955000,22,82,37.2,.490,.829,11.0,3.6,1.0,0.6,19.2,CHH
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+0.73,7.42,johnsla02,1992-93,CHH,18.9,9.6,.139,3.4,4.6,All-NBA (2nd),NBA,2540000,23,82,40.5,.526,.767,10.5,4.3,0.6,0.3,22.1,CHH
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",-0.68,1.91,johnsla02,1993-94,CHH,16.8,3.9,.106,1.4,1.5,,NBA,3125000,24,51,34.5,.515,.695,8.8,3.6,0.6,0.3,16.4,CHH
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+1.04,7.62,johnsla02,1994-95,CHH,17.1,8.5,.126,2.9,4.0,,NBA,3710000,25,81,39.9,.480,.774,7.2,4.6,1.0,0.3,18.8,CHH
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+1.52,8.25,johnsla02,1995-96,CHH,19.8,10.1,.149,3.4,4.5,,NBA,4295000,26,81,40.4,.476,.757,8.4,4.4,0.7,0.5,20.5,CHH
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+0.61,5.74,johnsla02,1996-97,NYK,13.8,7.7,.141,2.4,2.9,,NBA,5004000,27,76,34.4,.512,.693,5.2,2.3,0.8,0.5,12.8,NYK
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+0.19,4.56,johnsla02,1997-98,NYK,15.8,6.9,.137,1.4,2.0,,NBA,8460714,28,70,34.5,.485,.756,5.7,2.1,0.6,0.2,15.5,NYK
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",+0.19,3.90,johnsla02,1998-99,NYK,14.6,4.9,.144,2.5,1.9,,NBA,10186000,29,49,33.4,.459,.817,5.8,2.4,0.7,0.2,12.0,NYK
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",-0.47,3.47,johnsla02,1999-00,NYK,12.4,5.1,.107,1.3,1.9,,NBA,11910714,30,70,32.6,.433,.766,5.4,2.5,0.6,0.1,10.7,NYK
+Larry Johnson,/players/j/johnsla02.html,1992,2001,"University of Nevada, Las Vegas",false,"Skyline in Dallas, Texas",-0.59,2.33,johnsla02,2000-01,NYK,11.2,4.1,.093,0.7,1.4,,NBA,11000000,31,65,32.4,.411,.797,5.6,2.0,0.6,0.4,9.9,NYK

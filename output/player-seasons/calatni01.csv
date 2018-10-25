@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-calatni01,2013-14,24,MEM,NBA,71,16.5,.457,.611,1.9,2.9,0.9,0.1,4.9,12.3,1.5,.062,-1.1,0.3,,"Lake Howell in Winter Park, Florida",
-calatni01,2014-15,25,Memphis Grizzlies,NBA,58,14.4,.421,.533,1.8,2.5,1.1,0.1,4.2,12.3,1.1,.065,-0.3,0.4,,"Lake Howell in Winter Park, Florida",816482
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Nick Calathes,/players/c/calatni01.html,2014,2015,University of Florida,false,"Lake Howell in Winter Park, Florida",-0.18,1.66,calatni01,2013-14,MEM,12.3,1.5,.062,-1.1,0.3,,24,NBA,71,16.5,.457,.611,1.9,2.9,0.9,0.1,4.9,MEM,
+Nick Calathes,/players/c/calatni01.html,2014,2015,University of Florida,false,"Lake Howell in Winter Park, Florida",+1.22,2.34,calatni01,2014-15,MEM,12.3,1.1,.065,-0.3,0.4,,25,NBA,58,14.4,.421,.533,1.8,2.5,1.1,0.1,4.2,MEM,816482

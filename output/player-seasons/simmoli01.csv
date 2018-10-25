@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-simmoli01,1990-91,22,Sacramento Kings,NBA,79,37.7,.422,.736,8.8,4.0,1.4,1.1,18.0,15.4,2.7,.044,0.1,1.6,,930000,"South Philadelphia in Philadelphia, Pennsylvania"
-simmoli01,1991-92,23,Sacramento Kings,NBA,78,37.1,.454,.770,8.1,4.3,1.7,1.7,17.1,16.5,4.3,.071,1.0,2.2,,1289000,"South Philadelphia in Philadelphia, Pennsylvania"
-simmoli01,1992-93,24,Sacramento Kings,NBA,69,36.3,.444,.819,7.2,4.5,1.4,0.6,17.9,15.5,3.8,.074,0.6,1.7,,1464000,"South Philadelphia in Philadelphia, Pennsylvania"
-simmoli01,1993-94,25,Sacramento Kings,NBA,75,36.0,.438,.777,7.5,4.1,1.4,0.7,15.1,14.8,3.8,.067,0.7,1.9,,1743000,"South Philadelphia in Philadelphia, Pennsylvania"
-simmoli01,1994-95,26,Sacramento Kings,NBA,58,18.3,.420,.702,3.4,1.5,0.5,0.4,5.6,10.0,0.9,.039,-2.3,-0.1,,2181400,"South Philadelphia in Philadelphia, Pennsylvania"
-simmoli01,1995-96,27,Sacramento Kings,NBA,54,15.0,.396,.733,2.7,1.5,0.6,0.4,4.6,11.6,1.1,.062,-0.8,0.2,,2676000,"South Philadelphia in Philadelphia, Pennsylvania"
-simmoli01,1996-97,28,Sacramento Kings,NBA,41,12.7,.331,.875,2.5,1.4,0.2,0.3,3.4,9.4,0.3,.028,-4.0,-0.3,,3194000,"South Philadelphia in Philadelphia, Pennsylvania"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",-0.74,3.07,simmoli01,1990-91,SAC,15.4,2.7,.044,0.1,1.6,,NBA,930000,22,79,37.7,.422,.736,8.8,4.0,1.4,1.1,18.0,SAC
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",+0.17,4.79,simmoli01,1991-92,SAC,16.5,4.3,.071,1.0,2.2,,NBA,1289000,23,78,37.1,.454,.770,8.1,4.3,1.7,1.7,17.1,SAC
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",-0.26,3.43,simmoli01,1992-93,SAC,15.5,3.8,.074,0.6,1.7,,NBA,1464000,24,69,36.3,.444,.819,7.2,4.5,1.4,0.6,17.9,SAC
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",-0.69,2.90,simmoli01,1993-94,SAC,14.8,3.8,.067,0.7,1.9,,NBA,1743000,25,75,36.0,.438,.777,7.5,4.1,1.4,0.7,15.1,SAC
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",-2.37,-0.10,simmoli01,1994-95,SAC,10.0,0.9,.039,-2.3,-0.1,,NBA,2181400,26,58,18.3,.420,.702,3.4,1.5,0.5,0.4,5.6,SAC
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",-1.20,0.64,simmoli01,1995-96,SAC,11.6,1.1,.062,-0.8,0.2,,NBA,2676000,27,54,15.0,.396,.733,2.7,1.5,0.6,0.4,4.6,SAC
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false,"South Philadelphia in Philadelphia, Pennsylvania",-2.29,-0.01,simmoli01,1996-97,SAC,9.4,0.3,.028,-4.0,-0.3,,NBA,3194000,28,41,12.7,.331,.875,2.5,1.4,0.2,0.3,3.4,SAC

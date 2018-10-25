@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-nixonno01,1977-78,22,LAL,NBA,81,34.3,.497,.714,3.0,6.8,1.7,0.1,13.7,14.1,4.5,.078,-0.6,1.0,,"Southwest in Macon, Georgia",
-nixonno01,1978-79,23,LAL,NBA,82,38.4,.542,.775,2.8,9.0,2.5,0.2,17.1,18.2,9.6,.146,1.9,3.1,,"Southwest in Macon, Georgia",
-nixonno01,1979-80,24,LAL,NBA,82,39.3,.516,.779,2.8,7.8,1.8,0.2,17.6,14.9,6.7,.100,-0.9,0.9,,"Southwest in Macon, Georgia",
-nixonno01,1980-81,25,LAL,NBA,79,37.5,.476,.778,2.9,8.8,1.8,0.1,17.1,15.5,5.5,.089,-1.2,0.6,,"Southwest in Macon, Georgia",
-nixonno01,1981-82,26,LAL,NBA,82,36.9,.493,.808,2.1,8.0,1.6,0.1,17.6,15.3,6.6,.104,-1.4,0.4,,"Southwest in Macon, Georgia",
-nixonno01,1982-83,27,LAL,NBA,79,34.3,.475,.744,2.6,7.2,1.3,0.1,15.1,13.9,3.9,.069,-2.2,-0.1,,"Southwest in Macon, Georgia",
-nixonno01,1983-84,28,SDC,NBA,82,37.2,.462,.760,2.5,11.1,1.1,0.0,17.0,16.9,5.4,.085,-1.2,0.6,,"Southwest in Macon, Georgia",
-nixonno01,1984-85,29,Los Angeles Clippers,NBA,81,35.7,.465,.780,2.7,8.8,1.2,0.0,17.2,15.6,3.7,.061,-1.3,0.5,,"Southwest in Macon, Georgia",408000
-nixonno01,1985-86,30,Los Angeles Clippers,NBA,67,31.9,.438,.809,2.7,8.6,1.3,0.0,14.6,15.7,2.0,.046,-1.9,0.1,,"Southwest in Macon, Georgia",650000
-nixonno01,1986-87,31,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,"Southwest in Macon, Georgia",
-nixonno01,1987-88,32,Los Angeles Clippers,NBA,,,,,,,,,,,,,,,,"Southwest in Macon, Georgia",985000
-nixonno01,1988-89,33,Los Angeles Clippers,NBA,53,24.9,.414,.738,1.5,6.4,0.9,0.0,6.8,9.8,-0.4,-0.013,-7.8,-1.9,,"Southwest in Macon, Georgia",985000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",+0.37,5.17,nixonno01,1977-78,LAL,14.1,4.5,.078,-0.6,1.0,,22,NBA,81,34.3,.497,.714,3.0,6.8,1.7,0.1,13.7,LAL,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",+2.39,11.04,nixonno01,1978-79,LAL,18.2,9.6,.146,1.9,3.1,,23,NBA,82,38.4,.542,.775,2.8,9.0,2.5,0.2,17.1,LAL,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",+0.53,7.37,nixonno01,1979-80,LAL,14.9,6.7,.100,-0.9,0.9,,24,NBA,82,39.3,.516,.779,2.8,7.8,1.8,0.2,17.6,LAL,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",+0.37,5.56,nixonno01,1980-81,LAL,15.5,5.5,.089,-1.2,0.6,,25,NBA,79,37.5,.476,.778,2.9,8.8,1.8,0.1,17.1,LAL,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",+0.63,7.02,nixonno01,1981-82,LAL,15.3,6.6,.104,-1.4,0.4,,26,NBA,82,36.9,.493,.808,2.1,8.0,1.6,0.1,17.6,LAL,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",-0.49,3.93,nixonno01,1982-83,LAL,13.9,3.9,.069,-2.2,-0.1,,27,NBA,79,34.3,.475,.744,2.6,7.2,1.3,0.1,15.1,LAL,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",+0.58,5.86,nixonno01,1983-84,SDC,16.9,5.4,.085,-1.2,0.6,,28,NBA,82,37.2,.462,.760,2.5,11.1,1.1,0.0,17.0,SDC,
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",-0.33,3.82,nixonno01,1984-85,LAC,15.6,3.7,.061,-1.3,0.5,,29,NBA,81,35.7,.465,.780,2.7,8.8,1.2,0.0,17.2,LAC,408000
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",-1.11,1.72,nixonno01,1985-86,LAC,15.7,2.0,.046,-1.9,0.1,,30,NBA,67,31.9,.438,.809,2.7,8.6,1.3,0.0,14.6,LAC,650000
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",,,nixonno01,1986-87,Did Not Play (injury—knee),,,,,,,31,,,,,,,,,,,Did Not Play (injury—knee),
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",,,nixonno01,1987-88,"Did Not Play (injury—knee, achilles)",,,,,,,32,NBA,,,,,,,,,,"Did Not Play (injury—knee, achilles)",985000
+Norm Nixon,/players/n/nixonno01.html,1978,1989,Duquesne University,false,"Southwest in Macon, Georgia",-3.67,-1.25,nixonno01,1988-89,LAC,9.8,-0.4,-0.013,-7.8,-1.9,,33,NBA,53,24.9,.414,.738,1.5,6.4,0.9,0.0,6.8,LAC,985000

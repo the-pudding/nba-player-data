@@ -1,8 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davidko01,1998-99,27,Chicago Bulls,NBA,50,18.0,.449,.811,3.5,0.8,0.5,0.3,6.2,13.6,1.7,.090,-2.9,-0.2,,287500,
-davidko01,1999-00,28,Chicago Bulls,NBA,32,14.8,.427,.804,2.5,0.5,0.5,0.1,5.6,10.7,0.3,.033,-5.9,-0.5,,175882,
-davidko01,1999-00,28,Chicago Bulls,NBA,26,17.0,.426,.808,2.8,0.6,0.5,0.1,6.5,10.2,0.2,.025,-6.5,-0.5,,175882,
-davidko01,1999-00,28,Chicago Bulls,NBA,6,5.2,.444,.750,1.3,0.2,0.7,0.2,1.8,16.9,0.1,.154,2.8,0.0,,175882,
-davidko01,2000-01,29,Toronto Raptors,NBA,27,7.7,.490,.923,1.9,0.3,0.2,0.1,2.3,12.0,0.4,.102,-3.2,-0.1,,498500,
-davidko01,2000-01,29,Toronto Raptors,NBA,17,8.2,.517,.923,1.9,0.2,0.1,0.2,2.5,11.9,0.3,.120,-3.5,-0.1,,498500,
-davidko01,2000-01,29,Toronto Raptors,NBA,10,6.9,.455,,1.9,0.3,0.4,0.1,2.0,12.2,0.1,.067,-2.6,0.0,,498500,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kornel David,/players/d/davidko01.html,1999,2001,,false,,-2.48,-0.25,davidko01,1998-99,CHI,13.6,1.7,.090,-2.9,-0.2,,NBA,287500,27,50,18.0,.449,.811,3.5,0.8,0.5,0.3,6.2,CHI
+Kornel David,/players/d/davidko01.html,1999,2001,,false,,-2.66,-0.17,davidko01,1999-00,TOT,10.7,0.3,.033,-5.9,-0.5,,NBA,175882,28,32,14.8,.427,.804,2.5,0.5,0.5,0.1,5.6,"CHI,CLE"
+Kornel David,/players/d/davidko01.html,1999,2001,,false,,-1.85,0.04,davidko01,2000-01,TOT,12.0,0.4,.102,-3.2,-0.1,,NBA,498500,29,27,7.7,.490,.923,1.9,0.3,0.2,0.1,2.3,"TOR,DET"

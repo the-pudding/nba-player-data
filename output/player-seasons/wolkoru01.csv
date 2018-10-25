@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-wolkoru01,2000-01,27,Seattle SuperSonics,NBA,34,9.0,.316,.735,1.4,0.1,0.2,0.5,2.2,6.4,-0.1,-0.012,-7.5,-0.4,,316969,
-wolkoru01,2001-02,28,Seattle SuperSonics,NBA,,,,,,,,,,,,,,,,465850,
-wolkoru01,2002-03,29,Boston Celtics,NBA,7,3.4,.500,.250,0.1,0.1,0.0,0.0,0.7,1.2,0.0,-0.051,-11.0,-0.1,,587435,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ruben Wolkowyski,/players/w/wolkoru01.html,2001,2003,,false,,-1.40,0.17,wolkoru01,2000-01,SEA,6.4,-0.1,-0.012,-7.5,-0.4,,NBA,316969,27,34,9.0,.316,.735,1.4,0.1,0.2,0.5,2.2,SEA
+Ruben Wolkowyski,/players/w/wolkoru01.html,2001,2003,,false,,,,wolkoru01,2001-02,Did Not Play (other pro league—Russia),,,,,,,NBA,465850,28,,,,,,,,,,Did Not Play (other pro league—Russia)
+Ruben Wolkowyski,/players/w/wolkoru01.html,2001,2003,,false,,-0.89,0.02,wolkoru01,2002-03,BOS,1.2,0.0,-0.051,-11.0,-0.1,,NBA,587435,29,7,3.4,.500,.250,0.1,0.1,0.0,0.0,0.7,BOS

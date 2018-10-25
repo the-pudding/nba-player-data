@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-boumtru01,2001-02,23,Portland Trail Blazers,NBA,33,7.4,.406,.520,1.7,0.1,0.1,0.5,1.2,6.5,0.2,.030,-4.3,-0.1,,332817,"Archbishop Carroll in Washington, District of Columbia"
-boumtru01,2002-03,24,Portland Trail Blazers,NBA,2,2.5,.000,,0.5,0.5,0.5,0.0,0.0,18.4,0.0,.114,9.8,0.0,,512435,"Archbishop Carroll in Washington, District of Columbia"
-boumtru01,2003-04,25,Portland Trail Blazers,NBA,9,2.9,.200,1.000,0.1,0.1,0.0,0.1,0.4,3.4,0.0,-0.014,-8.8,0.0,,663679,"Archbishop Carroll in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ruben Boumtje-Boumtje,/players/b/boumtru01.html,2002,2004,Georgetown University,false,"Archbishop Carroll in Washington, District of Columbia",-2.61,-0.07,boumtru01,2001-02,POR,6.5,0.2,.030,-4.3,-0.1,,NBA,332817,23,33,7.4,.406,.520,1.7,0.1,0.1,0.5,1.2,POR
+Ruben Boumtje-Boumtje,/players/b/boumtru01.html,2002,2004,Georgetown University,false,"Archbishop Carroll in Washington, District of Columbia",+0.17,0.01,boumtru01,2002-03,POR,18.4,0.0,.114,9.8,0.0,,NBA,512435,24,2,2.5,.000,,0.5,0.5,0.5,0.0,0.0,POR
+Ruben Boumtje-Boumtje,/players/b/boumtru01.html,2002,2004,Georgetown University,false,"Archbishop Carroll in Washington, District of Columbia",+0.03,0.04,boumtru01,2003-04,POR,3.4,0.0,-0.014,-8.8,0.0,,NBA,663679,25,9,2.9,.200,1.000,0.1,0.1,0.0,0.1,0.4,POR

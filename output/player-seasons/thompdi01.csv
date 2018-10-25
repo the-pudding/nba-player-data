@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-thompdi01,2005-06,22,Phoenix Suns,NBA,10,4.3,.440,1.000,1.1,0.1,0.3,0.1,2.8,22.0,0.1,.146,-1.1,0.0,,398762,"Redondo Union in Redondo Beach, California"
-thompdi01,2006-07,23,Atlanta Hawks,NBA,6,8.3,.400,.833,1.3,0.3,0.0,0.0,2.8,11.6,0.1,.064,-7.0,-0.1,,89101,"Redondo Union in Redondo Beach, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dijon Thompson,/players/t/thompdi01.html,2006,2007,"University of California, Los Angeles",false,"Redondo Union in Redondo Beach, California",-1.39,0.03,thompdi01,2005-06,PHO,22.0,0.1,.146,-1.1,0.0,,NBA,398762,22,10,4.3,.440,1.000,1.1,0.1,0.3,0.1,2.8,PHO
+Dijon Thompson,/players/t/thompdi01.html,2006,2007,"University of California, Los Angeles",false,"Redondo Union in Redondo Beach, California",+0.02,0.08,thompdi01,2006-07,ATL,11.6,0.1,.064,-7.0,-0.1,,NBA,89101,23,6,8.3,.400,.833,1.3,0.3,0.0,0.0,2.8,ATL

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hutchch01,2018-19,22,CHI,NBA,3,11.0,.625,.500,1.7,0.0,0.3,0.0,3.7,10.9,0.0,.036,-7.2,0.0,,"Mission Viejo HS in Mission Viejo, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Chandler Hutchison,/players/h/hutchch01.html,2019,2019,Boise State University,true,"Mission Viejo HS in Mission Viejo, California",,,hutchch01,2018-19,CHI,10.9,0.0,.036,-7.2,0.0,,22,NBA,3,11.0,.625,.500,1.7,0.0,0.3,0.0,3.7,CHI

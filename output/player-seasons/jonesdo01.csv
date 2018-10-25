@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesdo01,1997-98,22,Boston Celtics,NBA,15,6.1,.333,,0.6,0.3,0.1,0.2,2.9,3.8,-0.3,-0.175,-11.8,-0.2,,794880,"Stratford in Nashville, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dontae' Jones,/players/j/jonesdo01.html,1998,1998,"Northeast Mississippi Community College, Mississippi State University",false,"Stratford in Nashville, Tennessee",-0.31,0.12,jonesdo01,1997-98,BOS,3.8,-0.3,-0.175,-11.8,-0.2,,NBA,794880,22,15,6.1,.333,,0.6,0.3,0.1,0.2,2.9,BOS

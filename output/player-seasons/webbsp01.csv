@@ -1,16 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-webbsp01,1985-86,22,Atlanta Hawks,NBA,79,15.6,.483,.785,1.6,4.3,1.0,0.1,7.8,18.5,3.5,.137,1.0,0.9,,70000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1986-87,23,ATL,NBA,33,16.1,.438,.762,1.8,5.1,1.0,0.1,6.8,16.5,1.2,.107,-0.2,0.2,,,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1987-88,24,Atlanta Hawks,NBA,82,16.4,.475,.817,1.8,4.1,0.8,0.1,6.0,14.8,2.3,.082,-1.3,0.2,,225000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1988-89,25,Atlanta Hawks,NBA,81,15.0,.459,.867,1.5,3.5,0.9,0.1,3.9,13.0,2.2,.088,-1.7,0.1,,275000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1989-90,26,ATL,NBA,82,26.6,.477,.871,2.5,5.8,1.3,0.1,9.2,15.3,4.5,.099,-0.2,1.0,,,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1990-91,27,Atlanta Hawks,NBA,75,29.3,.447,.868,2.3,5.6,1.6,0.1,13.4,16.6,5.4,.118,0.7,1.5,,510000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1991-92,28,Sacramento Kings,NBA,77,35.4,.445,.859,2.9,7.1,1.6,0.3,16.0,15.1,4.1,.072,-1.2,0.5,,560000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1992-93,29,Sacramento Kings,NBA,69,33.8,.433,.851,2.8,7.0,1.5,0.1,14.5,14.4,3.9,.080,-1.1,0.6,,1317000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1993-94,30,Sacramento Kings,NBA,79,32.5,.460,.813,2.8,6.7,1.2,0.3,12.7,15.2,5.1,.096,-0.6,0.9,,1567000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1994-95,31,Sacramento Kings,NBA,76,32.3,.438,.934,2.3,6.2,1.0,0.1,11.6,13.7,5.1,.099,-1.5,0.3,,2071600,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1995-96,32,Atlanta Hawks,NBA,77,19.0,.433,.862,1.3,3.8,0.7,0.1,7.1,14.8,3.0,.099,-3.2,-0.4,,1800000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1995-96,32,Atlanta Hawks,NBA,51,16.0,.468,.851,1.2,2.7,0.5,0.0,5.9,15.3,2.2,.132,-2.6,-0.1,,1800000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1995-96,32,Atlanta Hawks,NBA,26,24.8,.394,.879,1.5,5.9,1.0,0.2,9.4,14.3,0.8,.058,-3.9,-0.3,,1800000,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1996-97,33,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Wilmer-Hutchins in Dallas, Texas"
-webbsp01,1997-98,34,ORL,NBA,4,8.5,.417,1.000,0.8,1.3,0.3,0.0,3.0,3.2,-0.1,-0.161,-10.1,-0.1,,,"Wilmer-Hutchins in Dallas, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",+1.79,3.89,webbsp01,1985-86,ATL,18.5,3.5,.137,1.0,0.9,,NBA,70000,22,79,15.6,.483,.785,1.6,4.3,1.0,0.1,7.8,ATL
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",+0.44,1.20,webbsp01,1986-87,ATL,16.5,1.2,.107,-0.2,0.2,,NBA,,23,33,16.1,.438,.762,1.8,5.1,1.0,0.1,6.8,ATL
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",+0.21,2.62,webbsp01,1987-88,ATL,14.8,2.3,.082,-1.3,0.2,,NBA,225000,24,82,16.4,.475,.817,1.8,4.1,0.8,0.1,6.0,ATL
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",-0.15,1.83,webbsp01,1988-89,ATL,13.0,2.2,.088,-1.7,0.1,,NBA,275000,25,81,15.0,.459,.867,1.5,3.5,0.9,0.1,3.9,ATL
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",+0.83,4.53,webbsp01,1989-90,ATL,15.3,4.5,.099,-0.2,1.0,,NBA,,26,82,26.6,.477,.871,2.5,5.8,1.3,0.1,9.2,ATL
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",+1.00,5.17,webbsp01,1990-91,ATL,16.6,5.4,.118,0.7,1.5,,NBA,510000,27,75,29.3,.447,.868,2.3,5.6,1.6,0.1,13.4,ATL
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",-0.56,3.16,webbsp01,1991-92,SAC,15.1,4.1,.072,-1.2,0.5,,NBA,560000,28,77,35.4,.445,.859,2.9,7.1,1.6,0.3,16.0,SAC
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",-0.04,3.54,webbsp01,1992-93,SAC,14.4,3.9,.080,-1.1,0.6,,NBA,1317000,29,69,33.8,.433,.851,2.8,7.0,1.5,0.1,14.5,SAC
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",-0.17,3.67,webbsp01,1993-94,SAC,15.2,5.1,.096,-0.6,0.9,,NBA,1567000,30,79,32.5,.460,.813,2.8,6.7,1.2,0.3,12.7,SAC
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",-0.12,3.58,webbsp01,1994-95,SAC,13.7,5.1,.099,-1.5,0.3,,NBA,2071600,31,76,32.3,.438,.934,2.3,6.2,1.0,0.1,11.6,SAC
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",-1.09,1.18,webbsp01,1995-96,TOT,14.8,3.0,.099,-3.2,-0.4,,NBA,1800000,32,77,19.0,.433,.862,1.3,3.8,0.7,0.1,7.1,"ATL,MIN"
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",,,webbsp01,1996-97,Did Not Play (other pro league—Italy),,,,,,,,,33,,,,,,,,,,Did Not Play (other pro league—Italy)
+Spud Webb,/players/w/webbsp01.html,1986,1998,"Midland College, North Carolina State University",false,"Wilmer-Hutchins in Dallas, Texas",+0.44,0.06,webbsp01,1997-98,ORL,3.2,-0.1,-0.161,-10.1,-0.1,,NBA,,34,4,8.5,.417,1.000,0.8,1.3,0.3,0.0,3.0,ORL

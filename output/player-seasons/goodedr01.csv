@@ -1,24 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-goodedr01,2002-03,21,Memphis Grizzlies,NBA,70,26.8,.457,.712,6.5,1.2,0.8,0.5,12.5,15.0,1.7,.043,-3.3,-0.6,,2794920,"El Cerrito in El Cerrito, California"
-goodedr01,2002-03,21,Memphis Grizzlies,NBA,51,26.1,.443,.697,5.8,1.2,0.7,0.4,12.1,13.8,0.4,.015,-3.6,-0.5,,2794920,"El Cerrito in El Cerrito, California"
-goodedr01,2002-03,21,Memphis Grizzlies,NBA,19,28.6,.498,.738,8.4,1.1,0.8,0.7,13.6,18.0,1.3,.112,-2.4,-0.1,,2794920,"El Cerrito in El Cerrito, California"
-goodedr01,2003-04,22,Orlando Magic,NBA,79,27.0,.445,.637,6.5,1.1,0.8,0.9,11.6,15.6,1.9,.043,-3.3,-0.7,,3004560,"El Cerrito in El Cerrito, California"
-goodedr01,2004-05,23,Cleveland Cavaliers,NBA,82,30.8,.492,.810,9.2,1.6,0.9,0.9,14.4,19.7,8.5,.163,0.9,1.8,,3214080,"El Cerrito in El Cerrito, California"
-goodedr01,2005-06,24,Cleveland Cavaliers,NBA,79,27.5,.512,.682,8.4,0.7,0.7,0.6,10.7,17.6,6.6,.145,-0.8,0.7,,4065811,"El Cerrito in El Cerrito, California"
-goodedr01,2006-07,25,Cleveland Cavaliers,NBA,80,28.0,.473,.714,8.5,1.1,0.9,0.4,11.1,16.5,6.5,.139,0.0,1.1,,6645402,"El Cerrito in El Cerrito, California"
-goodedr01,2007-08,26,Chicago Bulls,NBA,69,30.8,.449,.753,8.6,1.2,0.7,0.8,12.0,13.8,3.3,.074,-3.1,-0.6,,6453416,"El Cerrito in El Cerrito, California"
-goodedr01,2007-08,26,Chicago Bulls,NBA,51,30.7,.444,.728,8.3,1.0,0.7,0.6,11.3,12.5,2.0,.060,-4.2,-0.9,,6453416,"El Cerrito in El Cerrito, California"
-goodedr01,2007-08,26,Chicago Bulls,NBA,18,31.0,.461,.813,9.3,1.7,0.7,1.3,14.0,17.4,1.3,.114,0.0,0.3,,6453416,"El Cerrito in El Cerrito, California"
-goodedr01,2008-09,27,Sacramento Kings,NBA,51,24.8,.468,.840,7.1,0.9,0.6,0.4,11.9,16.3,2.7,.102,-3.5,-0.5,,7151183,"El Cerrito in El Cerrito, California"
-goodedr01,2008-09,27,Sacramento Kings,NBA,31,29.6,.457,.866,8.6,1.4,0.8,0.5,13.1,15.3,1.7,.090,-2.1,0.0,,7151183,"El Cerrito in El Cerrito, California"
-goodedr01,2008-09,27,Sacramento Kings,NBA,1,26.0,.556,1.000,13.0,2.0,0.0,0.0,12.0,18.7,0.0,.082,-5.6,0.0,,7151183,"El Cerrito in El Cerrito, California"
-goodedr01,2008-09,27,Sacramento Kings,NBA,19,16.8,.490,.789,4.4,0.2,0.2,0.2,9.8,18.8,0.9,.139,-7.5,-0.4,,7151183,"El Cerrito in El Cerrito, California"
-goodedr01,2009-10,28,Los Angeles Clippers,NBA,70,25.1,.478,.861,7.7,0.7,0.6,0.8,10.9,16.9,4.4,.121,-1.9,0.0,,4500000,"El Cerrito in El Cerrito, California"
-goodedr01,2009-10,28,Los Angeles Clippers,NBA,46,22.4,.467,.809,6.9,0.6,0.6,1.1,8.9,16.1,2.7,.125,-1.3,0.2,,4500000,"El Cerrito in El Cerrito, California"
-goodedr01,2009-10,28,Los Angeles Clippers,NBA,24,30.2,.492,.921,9.4,0.9,0.6,0.3,14.8,18.0,1.7,.114,-2.8,-0.1,,4500000,"El Cerrito in El Cerrito, California"
-goodedr01,2010-11,29,Milwaukee Bucks,NBA,35,24.6,.431,.794,6.8,1.3,0.6,0.5,11.3,15.9,1.8,.101,-1.5,0.1,,5760000,"El Cerrito in El Cerrito, California"
-goodedr01,2011-12,30,Milwaukee Bucks,NBA,56,26.2,.437,.846,6.5,2.6,0.8,0.6,13.7,18.8,3.6,.116,1.0,1.1,,6226200,"El Cerrito in El Cerrito, California"
-goodedr01,2012-13,31,Milwaukee Bucks,NBA,16,9.4,.328,.688,1.9,0.4,0.3,0.4,3.3,7.7,-0.1,-0.034,-7.2,-0.2,,6687400,"El Cerrito in El Cerrito, California"
-goodedr01,2013-14,32,WAS,NBA,22,18.0,.531,.889,5.2,0.7,0.5,0.3,8.3,18.4,1.4,.173,-0.9,0.1,,,"El Cerrito in El Cerrito, California"
-goodedr01,2014-15,33,Milwaukee Bucks,NBA,51,16.9,.399,.773,4.4,1.0,0.4,0.2,5.4,11.9,1.7,.094,-1.6,0.1,,6680000,"El Cerrito in El Cerrito, California"
-goodedr01,2015-16,34,Washington Wizards,NBA,30,10.2,.320,.643,2.8,0.4,0.3,0.4,2.7,7.5,0.0,-0.005,-5.0,-0.2,,3300000,"El Cerrito in El Cerrito, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-2.30,-0.10,goodedr01,2002-03,TOT,15.0,1.7,.043,-3.3,-0.6,,NBA,2794920,21,70,26.8,.457,.712,6.5,1.2,0.8,0.5,12.5,"MEM,ORL"
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-3.47,-1.75,goodedr01,2003-04,ORL,15.6,1.9,.043,-3.3,-0.7,,NBA,3004560,22,79,27.0,.445,.637,6.5,1.1,0.8,0.9,11.6,ORL
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",+2.01,7.33,goodedr01,2004-05,CLE,19.7,8.5,.163,0.9,1.8,,NBA,3214080,23,82,30.8,.492,.810,9.2,1.6,0.9,0.9,14.4,CLE
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-0.41,3.09,goodedr01,2005-06,CLE,17.6,6.6,.145,-0.8,0.7,,NBA,4065811,24,79,27.5,.512,.682,8.4,0.7,0.7,0.6,10.7,CLE
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-1.97,0.52,goodedr01,2006-07,CLE,16.5,6.5,.139,0.0,1.1,,NBA,6645402,25,80,28.0,.473,.714,8.5,1.1,0.9,0.4,11.1,CLE
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-1.02,1.79,goodedr01,2007-08,TOT,13.8,3.3,.074,-3.1,-0.6,,NBA,6453416,26,69,30.8,.449,.753,8.6,1.2,0.7,0.8,12.0,"CLE,CHI"
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-1.09,1.05,goodedr01,2008-09,TOT,16.3,2.7,.102,-3.5,-0.5,,NBA,7151183,27,51,24.8,.468,.840,7.1,0.9,0.6,0.4,11.9,"CHI,SAC,SAS"
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-3.02,-0.80,goodedr01,2009-10,TOT,16.9,4.4,.121,-1.9,0.0,,NBA,4500000,28,70,25.1,.478,.861,7.7,0.7,0.6,0.8,10.9,"DAL,LAC"
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-0.62,0.95,goodedr01,2010-11,MIL,15.9,1.8,.101,-1.5,0.1,,NBA,5760000,29,35,24.6,.431,.794,6.8,1.3,0.6,0.5,11.3,MIL
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-2.08,0.21,goodedr01,2011-12,MIL,18.8,3.6,.116,1.0,1.1,,NBA,6226200,30,56,26.2,.437,.846,6.5,2.6,0.8,0.6,13.7,MIL
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-0.69,0.16,goodedr01,2012-13,MIL,7.7,-0.1,-0.034,-7.2,-0.2,,NBA,6687400,31,16,9.4,.328,.688,1.9,0.4,0.3,0.4,3.3,MIL
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-1.22,0.39,goodedr01,2013-14,WAS,18.4,1.4,.173,-0.9,0.1,,NBA,,32,22,18.0,.531,.889,5.2,0.7,0.5,0.3,8.3,WAS
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-1.20,0.73,goodedr01,2014-15,WAS,11.9,1.7,.094,-1.6,0.1,,NBA,6680000,33,51,16.9,.399,.773,4.4,1.0,0.4,0.2,5.4,WAS
+Drew Gooden,/players/g/goodedr01.html,2003,2016,University of Kansas,false,"El Cerrito in El Cerrito, California",-3.06,-0.16,goodedr01,2015-16,WAS,7.5,0.0,-0.005,-5.0,-0.2,,NBA,3300000,34,30,10.2,.320,.643,2.8,0.4,0.3,0.4,2.7,WAS

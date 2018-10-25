@@ -1,18 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithjr01,2004-05,19,New Orleans Hornets,NBA,76,24.5,.394,.689,2.0,1.9,0.7,0.1,10.3,10.9,0.2,.006,-3.5,-0.7,,1206600,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2005-06,20,New Orleans/Oklahoma City Hornets,NBA,55,18.0,.393,.822,2.0,1.1,0.7,0.1,7.7,12.7,1.2,.060,-2.1,0.0,,1297080,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2006-07,21,Denver Nuggets,NBA,63,23.3,.441,.810,2.3,1.4,0.8,0.1,13.0,15.6,3.7,.120,0.6,1.0,,1387560,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2007-08,22,Denver Nuggets,NBA,74,19.2,.461,.719,2.1,1.7,0.8,0.2,12.3,18.1,3.7,.126,1.2,1.2,,2134067,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2008-09,23,Denver Nuggets,NBA,81,27.7,.446,.754,3.7,2.8,1.0,0.2,15.2,16.8,5.8,.124,1.7,2.1,,4985001,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2009-10,24,Denver Nuggets,NBA,75,27.8,.414,.706,3.1,2.4,1.3,0.3,15.4,15.0,2.7,.062,-0.3,0.9,,5508426,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2010-11,25,Denver Nuggets,NBA,79,24.9,.435,.738,4.1,2.2,1.2,0.2,12.3,16.4,5.0,.121,1.9,1.9,,6757851,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2011-12,26,New York Knicks,NBA,35,27.6,.407,.709,3.9,2.4,1.5,0.2,12.5,15.2,2.5,.122,2.3,1.0,,2382353,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2012-13,27,New York Knicks,NBA,80,33.5,.422,.762,5.3,2.7,1.3,0.3,18.1,17.6,6.7,.120,1.3,2.2,,2806452,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2013-14,28,New York Knicks,NBA,74,32.7,.415,.652,4.0,3.0,0.9,0.3,14.5,14.0,3.7,.073,0.1,1.3,,5565000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2014-15,29,Cleveland Cavaliers,NBA,70,29.7,.417,.750,3.1,2.8,1.2,0.3,12.1,13.6,3.7,.085,0.7,1.4,,6516000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2014-15,29,Cleveland Cavaliers,NBA,24,25.8,.402,.692,2.4,3.4,0.8,0.2,10.9,11.5,-0.1,-0.008,-4.3,-0.4,,6516000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2014-15,29,Cleveland Cavaliers,NBA,46,31.8,.425,.818,3.5,2.5,1.4,0.4,12.7,14.5,3.8,.124,2.9,1.8,,6516000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2015-16,30,Cleveland Cavaliers,NBA,77,30.7,.415,.634,2.8,1.7,1.1,0.3,12.4,12.4,5.5,.111,1.3,2.0,,5000000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2016-17,31,Cleveland Cavaliers,NBA,41,29.0,.346,.667,2.8,1.5,1.0,0.3,8.6,8.1,0.8,.034,-1.3,0.2,,12800000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2017-18,32,Cleveland Cavaliers,NBA,80,28.1,.403,.696,2.9,1.8,0.9,0.1,8.3,8.5,1.4,.031,-1.7,0.2,,13760000,"Saint Benedict's Preparatory School in Newark, New Jersey"
-smithjr01,2018-19,33,CLE,NBA,2,11.0,.500,1.000,0.5,0.0,0.5,0.0,3.5,6.7,0.0,-0.015,-7.5,0.0,,,"Saint Benedict's Preparatory School in Newark, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",-3.81,-1.89,smithjr01,2004-05,NOH,10.9,0.2,.006,-3.5,-0.7,,NBA,1206600,19,76,24.5,.394,.689,2.0,1.9,0.7,0.1,10.3,NOH
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",-1.79,0.30,smithjr01,2005-06,NOK,12.7,1.2,.060,-2.1,0.0,,NBA,1297080,20,55,18.0,.393,.822,2.0,1.1,0.7,0.1,7.7,NOK
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",-0.01,2.33,smithjr01,2006-07,DEN,15.6,3.7,.120,0.6,1.0,,NBA,1387560,21,63,23.3,.441,.810,2.3,1.4,0.8,0.1,13.0,DEN
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+1.12,3.49,smithjr01,2007-08,DEN,18.1,3.7,.126,1.2,1.2,,NBA,2134067,22,74,19.2,.461,.719,2.1,1.7,0.8,0.2,12.3,DEN
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+2.28,8.15,smithjr01,2008-09,DEN,16.8,5.8,.124,1.7,2.1,,NBA,4985001,23,81,27.7,.446,.754,3.7,2.8,1.0,0.2,15.2,DEN
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+0.45,4.10,smithjr01,2009-10,DEN,15.0,2.7,.062,-0.3,0.9,,NBA,5508426,24,75,27.8,.414,.706,3.1,2.4,1.3,0.3,15.4,DEN
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+1.48,5.13,smithjr01,2010-11,DEN,16.4,5.0,.121,1.9,1.9,,NBA,6757851,25,79,24.9,.435,.738,4.1,2.2,1.2,0.2,12.3,DEN
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+0.07,1.82,smithjr01,2011-12,NYK,15.2,2.5,.122,2.3,1.0,,NBA,2382353,26,35,27.6,.407,.709,3.9,2.4,1.5,0.2,12.5,NYK
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+1.44,7.64,smithjr01,2012-13,NYK,17.6,6.7,.120,1.3,2.2,,NBA,2806452,27,80,33.5,.422,.762,5.3,2.7,1.3,0.3,18.1,NYK
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",-0.32,3.22,smithjr01,2013-14,NYK,14.0,3.7,.073,0.1,1.3,,NBA,5565000,28,74,32.7,.415,.652,4.0,3.0,0.9,0.3,14.5,NYK
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+1.18,6.17,smithjr01,2014-15,TOT,13.6,3.7,.085,0.7,1.4,,NBA,6516000,29,70,29.7,.417,.750,3.1,2.8,1.2,0.3,12.1,"NYK,CLE"
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",+1.56,7.97,smithjr01,2015-16,CLE,12.4,5.5,.111,1.3,2.0,,NBA,5000000,30,77,30.7,.415,.634,2.8,1.7,1.1,0.3,12.4,CLE
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",-0.83,1.69,smithjr01,2016-17,CLE,8.1,0.8,.034,-1.3,0.2,,NBA,12800000,31,41,29.0,.346,.667,2.8,1.5,1.0,0.3,8.6,CLE
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",-2.44,-0.07,smithjr01,2017-18,CLE,8.5,1.4,.031,-1.7,0.2,,NBA,13760000,32,80,28.1,.403,.696,2.9,1.8,0.9,0.1,8.3,CLE
+J.R. Smith,/players/s/smithjr01.html,2005,2019,,true,"Saint Benedict's Preparatory School in Newark, New Jersey",,,smithjr01,2018-19,CLE,6.7,0.0,-0.015,-7.5,0.0,,NBA,,33,2,11.0,.500,1.000,0.5,0.0,0.5,0.0,3.5,CLE

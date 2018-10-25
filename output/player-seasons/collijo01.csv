@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-collijo01,2017-18,20,Atlanta Hawks,NBA,74,24.1,.576,.715,7.3,1.3,0.6,1.1,10.5,18.3,5.4,.145,1.7,1.7,,1936920,"Cardinal Newman in West Palm Beach, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+John Collins,/players/c/collijo01.html,2018,2018,Wake Forest University,true,"Cardinal Newman in West Palm Beach, Florida",-0.92,1.64,collijo01,2017-18,ATL,18.3,5.4,.145,1.7,1.7,,NBA,1936920,20,74,24.1,.576,.715,7.3,1.3,0.6,1.1,10.5,ATL

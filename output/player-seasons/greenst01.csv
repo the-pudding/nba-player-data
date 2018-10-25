@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-greenst01,1976-77,23,IND,NBA,70,13.1,.432,.743,2.5,0.7,0.7,0.2,6.4,13.3,1.1,.055,-3.8,-0.4,,"Silver Creek in Sellersburg, Indiana"
-greenst01,1977-78,24,IND,NBA,44,10.2,.438,.696,1.6,0.7,0.3,0.0,3.4,9.9,0.7,.074,-3.2,-0.1,,"Silver Creek in Sellersburg, Indiana"
-greenst01,1978-79,25,IND,NBA,39,6.8,.472,.588,1.3,0.5,0.3,0.1,2.7,12.4,0.4,.080,-2.2,0.0,,"Silver Creek in Sellersburg, Indiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Steve Green,/players/g/greenst01.html,1976,1979,Indiana University,false,"Silver Creek in Sellersburg, Indiana",-2.04,0.05,greenst01,1976-77,IND,13.3,1.1,.055,-3.8,-0.4,,23,NBA,70,13.1,.432,.743,2.5,0.7,0.7,0.2,6.4,IND
+Steve Green,/players/g/greenst01.html,1976,1979,Indiana University,false,"Silver Creek in Sellersburg, Indiana",-1.99,0.05,greenst01,1977-78,IND,9.9,0.7,.074,-3.2,-0.1,,24,NBA,44,10.2,.438,.696,1.6,0.7,0.3,0.0,3.4,IND
+Steve Green,/players/g/greenst01.html,1976,1979,Indiana University,false,"Silver Creek in Sellersburg, Indiana",-0.51,0.31,greenst01,1978-79,IND,12.4,0.4,.080,-2.2,0.0,,25,NBA,39,6.8,.472,.588,1.3,0.5,0.3,0.1,2.7,IND

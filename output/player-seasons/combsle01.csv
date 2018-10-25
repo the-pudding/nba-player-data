@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-combsle01,1983-84,23,IND,NBA,48,9.3,.497,.615,1.2,0.8,0.5,0.4,4.5,13.5,0.4,.041,-3.3,-0.1,,"Star-Spencer in Spencer, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Leroy Combs,/players/c/combsle01.html,1984,1984,Oklahoma State University,false,"Star-Spencer in Spencer, Oklahoma",-1.04,0.36,combsle01,1983-84,IND,13.5,0.4,.041,-3.3,-0.1,,23,NBA,48,9.3,.497,.615,1.2,0.8,0.5,0.4,4.5,IND

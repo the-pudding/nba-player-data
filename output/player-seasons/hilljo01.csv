@@ -1,13 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-hilljo01,2009-10,22,Houston Rockets,NBA,47,13.3,.493,.676,3.7,0.4,0.3,0.4,5.2,15.0,1.4,.105,-3.1,-0.2,,2483280,"The Patterson School in Patterson, North Carolina"
-hilljo01,2009-10,22,Houston Rockets,NBA,24,10.5,.446,.714,2.5,0.3,0.4,0.4,4.0,14.0,0.3,.059,-4.4,-0.2,,2483280,"The Patterson School in Patterson, North Carolina"
-hilljo01,2009-10,22,Houston Rockets,NBA,23,16.2,.532,.660,5.0,0.6,0.2,0.5,6.4,15.7,1.0,.135,-2.2,0.0,,2483280,"The Patterson School in Patterson, North Carolina"
-hilljo01,2010-11,23,Houston Rockets,NBA,72,15.6,.491,.706,4.3,0.4,0.2,0.7,5.6,13.0,1.8,.079,-3.4,-0.4,,2669520,"The Patterson School in Patterson, North Carolina"
-hilljo01,2011-12,24,Houston Rockets,NBA,39,14.1,.497,.638,4.8,0.4,0.4,0.7,5.0,15.8,1.4,.118,-2.1,0.0,,2855760,"The Patterson School in Patterson, North Carolina"
-hilljo01,2011-12,24,Houston Rockets,NBA,32,14.7,.504,.641,4.8,0.4,0.3,0.7,5.0,15.1,1.1,.118,-2.3,0.0,,2855760,"The Patterson School in Patterson, North Carolina"
-hilljo01,2011-12,24,Houston Rockets,NBA,7,11.7,.467,.625,4.4,0.3,0.7,0.9,4.7,19.3,0.2,.120,-0.8,0.0,,2855760,"The Patterson School in Patterson, North Carolina"
-hilljo01,2012-13,25,Los Angeles Lakers,NBA,29,15.8,.497,.656,5.7,0.4,0.3,0.7,6.7,18.5,1.4,.147,-1.6,0.0,,3632527,"The Patterson School in Patterson, North Carolina"
-hilljo01,2013-14,26,Los Angeles Lakers,NBA,72,20.8,.549,.685,7.4,0.8,0.4,0.9,9.7,19.3,4.4,.141,-0.7,0.5,,3563600,"The Patterson School in Patterson, North Carolina"
-hilljo01,2014-15,27,Los Angeles Lakers,NBA,70,26.8,.459,.738,7.9,1.5,0.5,0.7,12.0,16.2,2.2,.055,-2.6,-0.3,,9000000,"The Patterson School in Patterson, North Carolina"
-hilljo01,2015-16,28,Indiana Pacers,NBA,73,20.7,.506,.712,6.2,1.2,0.5,0.5,8.8,16.4,3.9,.124,-0.7,0.5,,4000000,"The Patterson School in Patterson, North Carolina"
-hilljo01,2016-17,29,Minnesota Timberwolves,NBA,7,6.7,.385,1.000,2.0,0.0,0.1,0.0,1.7,5.5,0.0,-0.033,-12.9,-0.1,,3911380,"The Patterson School in Patterson, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-1.40,0.39,hilljo01,2009-10,TOT,15.0,1.4,.105,-3.1,-0.2,,NBA,2483280,22,47,13.3,.493,.676,3.7,0.4,0.3,0.4,5.2,"NYK,HOU"
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-3.95,-1.17,hilljo01,2010-11,HOU,13.0,1.8,.079,-3.4,-0.4,,NBA,2669520,23,72,15.6,.491,.706,4.3,0.4,0.2,0.7,5.6,HOU
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-1.22,0.54,hilljo01,2011-12,TOT,15.8,1.4,.118,-2.1,0.0,,NBA,2855760,24,39,14.1,.497,.638,4.8,0.4,0.4,0.7,5.0,"HOU,LAL"
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-1.85,0.15,hilljo01,2012-13,LAL,18.5,1.4,.147,-1.6,0.0,,NBA,3632527,25,29,15.8,.497,.656,5.7,0.4,0.3,0.7,6.7,LAL
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-2.04,0.23,hilljo01,2013-14,LAL,19.3,4.4,.141,-0.7,0.5,,NBA,3563600,26,72,20.8,.549,.685,7.4,0.8,0.4,0.9,9.7,LAL
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-3.09,-1.04,hilljo01,2014-15,LAL,16.2,2.2,.055,-2.6,-0.3,,NBA,9000000,27,70,26.8,.459,.738,7.9,1.5,0.5,0.7,12.0,LAL
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-1.78,0.48,hilljo01,2015-16,IND,16.4,3.9,.124,-0.7,0.5,,NBA,4000000,28,73,20.7,.506,.712,6.2,1.2,0.5,0.5,8.8,IND
+Jordan Hill,/players/h/hilljo01.html,2010,2017,University of Arizona,false,"The Patterson School in Patterson, North Carolina",-0.73,0.05,hilljo01,2016-17,MIN,5.5,0.0,-0.033,-12.9,-0.1,,NBA,3911380,29,7,6.7,.385,1.000,2.0,0.0,0.1,0.0,1.7,MIN

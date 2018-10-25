@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-baglejo01,1982-83,22,CLE,NBA,68,14.6,.432,.762,1.4,2.5,0.8,0.1,5.7,11.7,-0.2,-0.011,-4.3,-0.6,,"Warren Harding in Bridgeport, Connecticut",
-baglejo01,1983-84,23,CLE,NBA,76,22.5,.423,.793,2.1,4.4,1.0,0.1,8.9,12.8,0.9,.025,-2.8,-0.3,,"Warren Harding in Bridgeport, Connecticut",
-baglejo01,1984-85,24,Cleveland Cavaliers,NBA,81,29.6,.488,.749,3.6,8.6,1.6,0.1,9.9,16.0,4.6,.092,0.5,1.5,,"Warren Harding in Bridgeport, Connecticut",209000
-baglejo01,1985-86,25,Cleveland Cavaliers,NBA,78,31.7,.423,.791,3.5,9.4,1.6,0.1,11.7,15.2,3.0,.059,-0.2,1.1,,"Warren Harding in Bridgeport, Connecticut",300000
-baglejo01,1986-87,26,CLE,NBA,72,30.3,.426,.831,3.5,5.3,1.3,0.1,10.7,12.1,2.6,.058,-1.5,0.3,,"Warren Harding in Bridgeport, Connecticut",
-baglejo01,1987-88,27,New Jersey Nets,NBA,82,33.8,.439,.822,3.1,5.8,1.3,0.1,12.0,12.4,2.6,.044,-1.4,0.4,,"Warren Harding in Bridgeport, Connecticut",475000
-baglejo01,1988-89,28,New Jersey Nets,NBA,68,24.1,.416,.724,2.1,5.8,1.1,0.1,7.4,11.3,0.4,.013,-4.0,-0.8,,"Warren Harding in Bridgeport, Connecticut",500000
-baglejo01,1989-90,29,BOS,NBA,54,20.3,.459,.744,1.6,5.5,0.7,0.1,4.3,10.8,1.1,.047,-4.2,-0.6,,"Warren Harding in Bridgeport, Connecticut",
-baglejo01,1990-91,30,Boston Celtics,NBA,,,,,,,,,,,,,,,,"Warren Harding in Bridgeport, Connecticut",550000
-baglejo01,1991-92,31,Boston Celtics,NBA,73,23.9,.441,.716,2.2,6.6,0.8,0.1,7.2,12.7,1.9,.053,-3.0,-0.4,,"Warren Harding in Bridgeport, Connecticut",550000
-baglejo01,1992-93,32,Boston Celtics,NBA,10,9.7,.360,.833,0.7,2.0,0.2,0.0,2.3,2.0,-0.3,-0.159,-11.6,-0.2,,"Warren Harding in Bridgeport, Connecticut",550000
-baglejo01,1993-94,33,Boston Celtics,NBA,3,4.3,.000,1.000,0.3,1.0,0.0,0.0,0.7,7.6,0.0,.105,-8.9,0.0,,"Warren Harding in Bridgeport, Connecticut",600000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-2.26,-0.05,baglejo01,1982-83,CLE,11.7,-0.2,-0.011,-4.3,-0.6,,22,NBA,68,14.6,.432,.762,1.4,2.5,0.8,0.1,5.7,CLE,
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-1.88,0.45,baglejo01,1983-84,CLE,12.8,0.9,.025,-2.8,-0.3,,23,NBA,76,22.5,.423,.793,2.1,4.4,1.0,0.1,8.9,CLE,
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",+0.79,5.33,baglejo01,1984-85,CLE,16.0,4.6,.092,0.5,1.5,,24,NBA,81,29.6,.488,.749,3.6,8.6,1.6,0.1,9.9,CLE,209000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",+0.28,4.27,baglejo01,1985-86,CLE,15.2,3.0,.059,-0.2,1.1,,25,NBA,78,31.7,.423,.791,3.5,9.4,1.6,0.1,11.7,CLE,300000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-1.20,1.55,baglejo01,1986-87,CLE,12.1,2.6,.058,-1.5,0.3,,26,NBA,72,30.3,.426,.831,3.5,5.3,1.3,0.1,10.7,CLE,
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-1.69,1.08,baglejo01,1987-88,NJN,12.4,2.6,.044,-1.4,0.4,,27,NBA,82,33.8,.439,.822,3.1,5.8,1.3,0.1,12.0,NJN,475000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-2.37,-0.12,baglejo01,1988-89,NJN,11.3,0.4,.013,-4.0,-0.8,,28,NBA,68,24.1,.416,.724,2.1,5.8,1.1,0.1,7.4,NJN,500000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-1.64,0.53,baglejo01,1989-90,BOS,10.8,1.1,.047,-4.2,-0.6,,29,NBA,54,20.3,.459,.744,1.6,5.5,0.7,0.1,4.3,BOS,
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",,,baglejo01,1990-91,Did Not Play (injury—knee),,,,,,,30,NBA,,,,,,,,,,Did Not Play (injury—knee),550000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-0.66,2.26,baglejo01,1991-92,BOS,12.7,1.9,.053,-3.0,-0.4,,31,NBA,73,23.9,.441,.716,2.2,6.6,0.8,0.1,7.2,BOS,550000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",-0.47,0.12,baglejo01,1992-93,BOS,2.0,-0.3,-0.159,-11.6,-0.2,,32,NBA,10,9.7,.360,.833,0.7,2.0,0.2,0.0,2.3,BOS,550000
+John Bagley,/players/b/baglejo01.html,1983,1994,Boston College,false,"Warren Harding in Bridgeport, Connecticut",+0.17,0.02,baglejo01,1993-94,ATL,7.6,0.0,.105,-8.9,0.0,,33,NBA,3,4.3,.000,1.000,0.3,1.0,0.0,0.0,0.7,ATL,600000

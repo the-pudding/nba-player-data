@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dietrco01,1976-77,28,SAS,NBA,82,21.6,.460,.717,4.5,1.8,1.1,0.7,8.4,12.8,2.3,.061,-1.2,0.4,,"Riverside Polytech in Riverside, California"
-dietrco01,1977-78,29,SAS,NBA,79,23.7,.460,.781,4.5,2.7,1.0,0.7,7.5,11.3,2.5,.063,-0.3,0.8,,"Riverside Polytech in Riverside, California"
-dietrco01,1978-79,30,SAS,NBA,76,19.6,.523,.798,4.1,2.6,0.9,0.5,6.5,13.9,4.1,.133,2.1,1.5,,"Riverside Polytech in Riverside, California"
-dietrco01,1979-80,31,CHI,NBA,79,23.2,.454,.763,4.6,2.7,1.1,0.6,6.9,12.1,2.9,.076,0.6,1.2,,"Riverside Polytech in Riverside, California"
-dietrco01,1980-81,32,CHI,NBA,82,15.2,.456,.694,3.2,1.4,0.6,0.6,4.5,11.8,2.1,.080,-0.4,0.5,,"Riverside Polytech in Riverside, California"
-dietrco01,1981-82,33,CHI,NBA,74,13.5,.460,.704,2.5,1.2,0.7,0.4,3.0,10.8,1.7,.080,0.3,0.6,,"Riverside Polytech in Riverside, California"
-dietrco01,1982-83,34,SAS,NBA,8,4.3,.200,.000,1.0,0.8,0.1,0.0,0.3,4.9,0.0,-0.004,-3.8,0.0,,"Riverside Polytech in Riverside, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",-0.91,1.63,dietrco01,1976-77,SAS,12.8,2.3,.061,-1.2,0.4,,28,NBA,82,21.6,.460,.717,4.5,1.8,1.1,0.7,8.4,SAS
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",-0.55,2.27,dietrco01,1977-78,SAS,11.3,2.5,.063,-0.3,0.8,,29,NBA,79,23.7,.460,.781,4.5,2.7,1.0,0.7,7.5,SAS
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",+0.55,3.40,dietrco01,1978-79,SAS,13.9,4.1,.133,2.1,1.5,,30,NBA,76,19.6,.523,.798,4.1,2.6,0.9,0.5,6.5,SAS
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",-0.19,2.58,dietrco01,1979-80,CHI,12.1,2.9,.076,0.6,1.2,,31,NBA,79,23.2,.454,.763,4.6,2.7,1.1,0.6,6.9,CHI
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",-0.47,1.62,dietrco01,1980-81,CHI,11.8,2.1,.080,-0.4,0.5,,32,NBA,82,15.2,.456,.694,3.2,1.4,0.6,0.6,4.5,CHI
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",-0.87,0.95,dietrco01,1981-82,CHI,10.8,1.7,.080,0.3,0.6,,33,NBA,74,13.5,.460,.704,2.5,1.2,0.7,0.4,3.0,CHI
+Coby Dietrick,/players/d/dietrco01.html,1971,1983,San Jose State University,false,"Riverside Polytech in Riverside, California",-0.33,0.04,dietrco01,1982-83,SAS,4.9,0.0,-0.004,-3.8,0.0,,34,NBA,8,4.3,.200,.000,1.0,0.8,0.1,0.0,0.3,SAS

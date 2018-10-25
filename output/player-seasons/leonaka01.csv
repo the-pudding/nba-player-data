@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-leonaka01,2011-12,20,San Antonio Spurs,NBA,64,24.0,.493,.773,5.1,1.1,1.3,0.4,7.9,16.6,5.5,.171,4.3,2.4,,1731960,"King in Riverside, California"
-leonaka01,2012-13,21,San Antonio Spurs,NBA,58,31.2,.494,.825,6.0,1.6,1.7,0.6,11.9,16.4,6.2,.166,3.9,2.7,,1861920,"King in Riverside, California"
-leonaka01,2013-14,22,San Antonio Spurs,NBA,66,29.1,.522,.802,6.2,2.0,1.7,0.8,12.8,19.4,7.7,.193,5.8,3.8,,1887840,"King in Riverside, California"
-leonaka01,2014-15,23,San Antonio Spurs,NBA,64,31.8,.479,.802,7.2,2.5,2.3,0.8,16.5,22.0,8.6,.204,6.1,4.1,,2894059,"King in Riverside, California"
-leonaka01,2015-16,24,San Antonio Spurs,NBA,72,33.1,.506,.874,6.8,2.6,1.8,1.0,21.2,26.0,13.7,.277,8.3,6.2,All-NBA (1st),16500000,"King in Riverside, California"
-leonaka01,2016-17,25,San Antonio Spurs,NBA,74,33.4,.485,.880,5.8,3.5,1.8,0.7,25.5,27.6,13.6,.264,7.9,6.2,All-NBA (1st),17638063,"King in Riverside, California"
-leonaka01,2017-18,26,San Antonio Spurs,NBA,9,23.3,.468,.816,4.7,2.3,2.0,1.0,16.2,26.0,0.9,.196,5.9,0.4,,18868625,"King in Riverside, California"
-leonaka01,2018-19,27,TOR,NBA,4,35.0,.512,.895,7.8,2.5,1.3,0.5,28.0,24.8,0.6,.209,1.5,0.1,,,"King in Riverside, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+0.96,4.22,leonaka01,2011-12,SAS,16.6,5.5,.171,4.3,2.4,,NBA,1731960,20,64,24.0,.493,.773,5.1,1.1,1.3,0.4,7.9,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+3.79,10.71,leonaka01,2012-13,SAS,16.4,6.2,.166,3.9,2.7,,NBA,1861920,21,58,31.2,.494,.825,6.0,1.6,1.7,0.6,11.9,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+4.59,12.28,leonaka01,2013-14,SAS,19.4,7.7,.193,5.8,3.8,,NBA,1887840,22,66,29.1,.522,.802,6.2,2.0,1.7,0.8,12.8,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+5.21,11.46,leonaka01,2014-15,SAS,22.0,8.6,.204,6.1,4.1,,NBA,2894059,23,64,31.8,.479,.802,7.2,2.5,2.3,0.8,16.5,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+6.59,15.98,leonaka01,2015-16,SAS,26.0,13.7,.277,8.3,6.2,All-NBA (1st),NBA,16500000,24,72,33.1,.506,.874,6.8,2.6,1.8,1.0,21.2,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+5.87,15.22,leonaka01,2016-17,SAS,27.6,13.6,.264,7.9,6.2,All-NBA (1st),NBA,17638063,25,74,33.4,.485,.880,5.8,3.5,1.8,0.7,25.5,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",+1.59,0.56,leonaka01,2017-18,SAS,26.0,0.9,.196,5.9,0.4,,NBA,18868625,26,9,23.3,.468,.816,4.7,2.3,2.0,1.0,16.2,SAS
+Kawhi Leonard,/players/l/leonaka01.html,2012,2019,San Diego State University,true,"King in Riverside, California",,,leonaka01,2018-19,TOR,24.8,0.6,.209,1.5,0.1,,NBA,,27,4,35.0,.512,.895,7.8,2.5,1.3,0.5,28.0,TOR

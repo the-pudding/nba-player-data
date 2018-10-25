@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-macklve01,2011-12,25,Detroit Pistons,NBA,23,5.9,.543,.571,1.5,0.2,0.2,0.2,2.0,18.2,0.5,.161,-0.6,0.0,,473604,"Hargrave Military Academy in Chatham, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Vernon Macklin,/players/m/macklve01.html,2012,2012,"Georgetown University, University of Florida",false,"Hargrave Military Academy in Chatham, Virginia",+0.56,0.26,macklve01,2011-12,DET,18.2,0.5,.161,-0.6,0.0,,NBA,473604,25,23,5.9,.543,.571,1.5,0.2,0.2,0.2,2.0,DET

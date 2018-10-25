@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-ellisla01,1992-93,22,Denver Nuggets,NBA,82,33.5,.504,.748,9.1,1.8,0.9,1.4,14.7,16.6,8.0,.139,1.9,2.7,,1900000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1993-94,23,Denver Nuggets,NBA,79,34.2,.502,.674,8.6,2.1,0.8,1.0,15.4,15.9,7.6,.135,1.7,2.5,,2350000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1994-95,24,Denver Nuggets,NBA,6,9.7,.360,1.000,2.8,0.7,0.2,0.8,4.0,13.1,0.0,.032,-3.7,0.0,,2731000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1995-96,25,Denver Nuggets,NBA,45,28.2,.438,.601,7.2,1.6,0.8,0.7,10.5,12.1,1.0,.039,-2.3,-0.1,,3039000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1996-97,26,Denver Nuggets,NBA,55,36.4,.439,.773,7.0,2.4,0.8,0.7,21.9,18.2,3.6,.087,0.2,1.1,,3294000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1997-98,27,Denver Nuggets,NBA,76,33.9,.407,.805,7.2,2.8,0.9,0.6,14.3,14.4,1.4,.025,-1.7,0.2,,3650000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1998-99,28,Atlanta Hawks,NBA,20,27.0,.421,.705,5.5,0.9,0.4,0.4,10.2,11.8,0.8,.074,-3.5,-0.2,,1750000,"Lincoln in East St. Louis, Illinois"
-ellisla01,1999-00,29,Atlanta Hawks,NBA,58,22.6,.450,.695,5.0,1.0,0.6,0.4,8.4,13.9,1.9,.070,-1.9,0.0,,1925000,"Lincoln in East St. Louis, Illinois"
-ellisla01,2000-01,30,Minnesota Timberwolves,NBA,82,23.8,.464,.790,6.0,1.1,0.8,0.9,9.4,16.0,5.2,.127,0.2,1.1,,1200000,"Lincoln in East St. Louis, Illinois"
-ellisla01,2001-02,31,Miami Heat,NBA,66,25.5,.418,.631,4.3,0.8,0.5,0.6,7.1,9.1,2.2,.063,-1.5,0.2,,3000000,"Lincoln in East St. Louis, Illinois"
-ellisla01,2002-03,32,Miami Heat,NBA,55,14.3,.382,.758,2.9,0.3,0.3,0.3,5.0,11.0,1.1,.065,-4.0,-0.4,,3100000,"Lincoln in East St. Louis, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",+0.82,5.78,ellisla01,1992-93,DEN,16.6,8.0,.139,1.9,2.7,,NBA,1900000,22,82,33.5,.504,.748,9.1,1.8,0.9,1.4,14.7,DEN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",+0.64,6.23,ellisla01,1993-94,DEN,15.9,7.6,.135,1.7,2.5,,NBA,2350000,23,79,34.2,.502,.674,8.6,2.1,0.8,1.0,15.4,DEN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-0.04,0.09,ellisla01,1994-95,DEN,13.1,0.0,.032,-3.7,0.0,,NBA,2731000,24,6,9.7,.360,1.000,2.8,0.7,0.2,0.8,4.0,DEN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-1.90,0.30,ellisla01,1995-96,DEN,12.1,1.0,.039,-2.3,-0.1,,NBA,3039000,25,45,28.2,.438,.601,7.2,1.6,0.8,0.7,10.5,DEN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-0.58,2.31,ellisla01,1996-97,DEN,18.2,3.6,.087,0.2,1.1,,NBA,3294000,26,55,36.4,.439,.773,7.0,2.4,0.8,0.7,21.9,DEN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-2.58,-0.55,ellisla01,1997-98,DEN,14.4,1.4,.025,-1.7,0.2,,NBA,3650000,27,76,33.9,.407,.805,7.2,2.8,0.9,0.6,14.3,DEN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-1.11,0.39,ellisla01,1998-99,ATL,11.8,0.8,.074,-3.5,-0.2,,NBA,1750000,28,20,27.0,.421,.705,5.5,0.9,0.4,0.4,10.2,ATL
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-2.05,0.16,ellisla01,1999-00,ATL,13.9,1.9,.070,-1.9,0.0,,NBA,1925000,29,58,22.6,.450,.695,5.0,1.0,0.6,0.4,8.4,ATL
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-1.55,0.95,ellisla01,2000-01,MIN,16.0,5.2,.127,0.2,1.1,,NBA,1200000,30,82,23.8,.464,.790,6.0,1.1,0.8,0.9,9.4,MIN
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",-3.91,-2.10,ellisla01,2001-02,MIA,9.1,2.2,.063,-1.5,0.2,,NBA,3000000,31,66,25.5,.418,.631,4.3,0.8,0.5,0.6,7.1,MIA
+LaPhonso Ellis,/players/e/ellisla01.html,1993,2003,University of Notre Dame,false,"Lincoln in East St. Louis, Illinois",+0.09,1.25,ellisla01,2002-03,MIA,11.0,1.1,.065,-4.0,-0.4,,NBA,3100000,32,55,14.3,.382,.758,2.9,0.3,0.3,0.3,5.0,MIA

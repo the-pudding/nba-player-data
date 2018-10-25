@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-terryca01,1980-81,24,WSB,NBA,26,19.4,.500,.667,4.5,2.7,1.0,0.5,7.2,13.7,0.8,.074,2.3,0.6,,"Lexington in Lexington, North Carolina"
-terryca01,1981-82,25,WSB,NBA,13,4.6,.200,.750,0.9,0.6,0.2,0.1,0.7,3.1,-0.1,-0.048,-3.7,0.0,,"Lexington in Lexington, North Carolina"
-terryca01,1982-83,26,WSB,NBA,55,9.3,.368,.667,1.8,0.8,0.4,0.2,1.6,7.9,0.8,.072,-1.1,0.1,,"Lexington in Lexington, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Carlos Terry,/players/t/terryca01.html,1981,1983,Winston-Salem State University,false,"Lexington in Lexington, North Carolina",-0.24,0.69,terryca01,1980-81,WSB,13.7,0.8,.074,2.3,0.6,,24,NBA,26,19.4,.500,.667,4.5,2.7,1.0,0.5,7.2,WSB
+Carlos Terry,/players/t/terryca01.html,1981,1983,Winston-Salem State University,false,"Lexington in Lexington, North Carolina",+0.61,0.13,terryca01,1981-82,WSB,3.1,-0.1,-0.048,-3.7,0.0,,25,NBA,13,4.6,.200,.750,0.9,0.6,0.2,0.1,0.7,WSB
+Carlos Terry,/players/t/terryca01.html,1981,1983,Winston-Salem State University,false,"Lexington in Lexington, North Carolina",-0.91,0.44,terryca01,1982-83,WSB,7.9,0.8,.072,-1.1,0.1,,26,NBA,55,9.3,.368,.667,1.8,0.8,0.4,0.2,1.6,WSB

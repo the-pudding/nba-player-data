@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-garlaga01,1979-80,22,DEN,NBA,78,14.2,.435,.692,1.8,1.9,0.7,0.1,4.3,10.2,0.5,.020,-3.5,-0.4,,"Clifford J. Scott in East Orange, New Jersey"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Gary Garland,/players/g/garlaga01.html,1980,1980,DePaul University,false,"Clifford J. Scott in East Orange, New Jersey",-2.44,-0.16,garlaga01,1979-80,DEN,10.2,0.5,.020,-3.5,-0.4,,22,NBA,78,14.2,.435,.692,1.8,1.9,0.7,0.1,4.3,DEN

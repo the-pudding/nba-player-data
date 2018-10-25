@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-dowdeza01,2010-11,26,Phoenix Suns,NBA,24,12.2,.408,.941,0.8,2.1,0.8,0.1,5.0,11.7,-0.1,-0.019,-4.6,-0.2,,242374,"Pahokee in Pahokee, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Zabian Dowdell,/players/d/dowdeza01.html,2011,2011,Virginia Polytechnic Institute and State University,false,"Pahokee in Pahokee, Florida",-2.36,-0.02,dowdeza01,2010-11,PHO,11.7,-0.1,-0.019,-4.6,-0.2,,NBA,242374,26,24,12.2,.408,.941,0.8,2.1,0.8,0.1,5.0,PHO

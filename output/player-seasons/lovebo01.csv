@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-lovebo01,1976-77,34,"CHI,NYN,SEA",NBA,59,19.9,.379,.826,3.4,0.8,0.4,0.1,7.3,9.8,1.0,.040,-5.8,-1.1,,"Moorehouse in Delhi, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bob Love,/players/l/lovebo01.html,1967,1977,Southern University and A&M College,false,"Moorehouse in Delhi, Louisiana",-3.98,-1.64,lovebo01,1976-77,TOT,9.8,1.0,.040,-5.8,-1.1,,34,NBA,59,19.9,.379,.826,3.4,0.8,0.4,0.1,7.3,"CHI,NYN,SEA"

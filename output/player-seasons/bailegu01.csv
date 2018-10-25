@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Award,HS,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-bailegu01,1976-77,25,Did Not Play,,"Burgess in El Paso, Texas",,,,,,,,,,,,,,,
-bailegu01,1977-78,26,NOJ,,"Burgess in El Paso, Texas",NBA,48,9.4,.424,.552,1.7,0.8,0.4,0.3,3.2,11.8,0.5,.059,-1.6,0.0
-bailegu01,1978-79,27,NOJ,,"Burgess in El Paso, Texas",NBA,2,4.5,.286,,1.0,1.0,0.0,0.0,2.0,6.1,0.0,-0.201,-6.6,0.0
-bailegu01,1979-80,28,WSB,,"Burgess in El Paso, Texas",NBA,20,9.0,.457,.385,1.4,1.3,0.4,0.2,1.9,9.3,0.2,.043,-2.4,0.0
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,Award,bbrID,Season,Age,Tm,Team,PER,WS,WS/48,BPM,VORP,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS
+Gus Bailey,/players/b/bailegu01.html,1975,1980,University of Texas at El Paso,false,"Burgess in El Paso, Texas",,,,bailegu01,1976-77,25,Did Not Play,Did Not Play,,,,,,,,,,,,,,,
+Gus Bailey,/players/b/bailegu01.html,1975,1980,University of Texas at El Paso,false,"Burgess in El Paso, Texas",-0.95,0.38,,bailegu01,1977-78,26,NOJ,NOJ,11.8,0.5,.059,-1.6,0.0,NBA,48,9.4,.424,.552,1.7,0.8,0.4,0.3,3.2
+Gus Bailey,/players/b/bailegu01.html,1975,1980,University of Texas at El Paso,false,"Burgess in El Paso, Texas",+0.43,0.02,,bailegu01,1978-79,27,NOJ,NOJ,6.1,0.0,-0.201,-6.6,0.0,NBA,2,4.5,.286,,1.0,1.0,0.0,0.0,2.0
+Gus Bailey,/players/b/bailegu01.html,1975,1980,University of Texas at El Paso,false,"Burgess in El Paso, Texas",-0.01,0.28,,bailegu01,1979-80,28,WSB,WSB,9.3,0.2,.043,-2.4,0.0,NBA,20,9.0,.457,.385,1.4,1.3,0.4,0.2,1.9

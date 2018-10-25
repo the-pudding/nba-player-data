@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-divacvl01,1989-90,21,LAL,NBA,82,19.6,.499,.708,6.2,0.9,1.0,1.4,8.5,17.5,5.0,.148,1.5,1.4,,"Belgrade in Belgrade, Serbia",
-divacvl01,1990-91,22,Los Angeles Lakers,NBA,82,28.2,.565,.703,8.1,1.1,1.3,1.5,11.2,17.7,8.3,.173,3.7,3.3,,"Belgrade in Belgrade, Serbia",770000
-divacvl01,1991-92,23,Los Angeles Lakers,NBA,36,27.2,.495,.768,6.9,1.7,1.5,1.0,11.3,15.9,1.8,.090,1.2,0.8,,"Belgrade in Belgrade, Serbia",942000
-divacvl01,1992-93,24,Los Angeles Lakers,NBA,82,30.8,.485,.689,8.9,2.8,1.6,1.7,12.8,17.1,5.6,.107,3.2,3.3,,"Belgrade in Belgrade, Serbia",3633000
-divacvl01,1993-94,25,Los Angeles Lakers,NBA,79,34.0,.506,.686,10.8,3.9,1.2,1.4,14.2,18.8,7.4,.132,3.8,3.9,,"Belgrade in Belgrade, Serbia",4133000
-divacvl01,1994-95,26,Los Angeles Lakers,NBA,80,35.1,.507,.777,10.4,4.1,1.4,2.2,16.0,20.5,9.5,.162,5.3,5.1,,"Belgrade in Belgrade, Serbia",3333300
-divacvl01,1995-96,27,Los Angeles Lakers,NBA,79,31.3,.513,.641,8.6,3.3,1.0,1.7,12.9,17.4,6.1,.119,2.8,3.0,,"Belgrade in Belgrade, Serbia",3333000
-divacvl01,1996-97,28,Charlotte Hornets,NBA,81,35.1,.494,.683,9.0,3.7,1.3,2.2,12.6,17.9,7.3,.123,4.7,4.8,,"Belgrade in Belgrade, Serbia",4718000
-divacvl01,1997-98,29,Charlotte Hornets,NBA,64,28.2,.498,.691,8.1,2.7,1.3,1.5,10.4,19.4,5.9,.157,5.2,3.3,,"Belgrade in Belgrade, Serbia",4833333
-divacvl01,1998-99,30,Sacramento Kings,NBA,50,35.2,.470,.702,10.0,4.3,0.9,1.0,14.3,18.0,5.2,.142,2.7,2.1,,"Belgrade in Belgrade, Serbia",8300000
-divacvl01,1999-00,31,Sacramento Kings,NBA,82,29.0,.503,.691,8.0,3.0,1.3,1.3,12.3,18.0,7.2,.145,3.4,3.2,,"Belgrade in Belgrade, Serbia",8837774
-divacvl01,2000-01,32,Sacramento Kings,NBA,81,29.9,.482,.691,8.3,2.9,1.1,1.1,12.0,17.7,7.4,.147,2.8,2.9,,"Belgrade in Belgrade, Serbia",9640000
-divacvl01,2001-02,33,Sacramento Kings,NBA,80,30.3,.472,.615,8.4,3.7,1.0,1.2,11.1,17.0,7.3,.145,3.3,3.3,,"Belgrade in Belgrade, Serbia",10444642
-divacvl01,2002-03,34,Sacramento Kings,NBA,80,29.8,.466,.713,7.2,3.4,1.0,1.3,9.9,15.6,7.0,.141,2.9,3.0,,"Belgrade in Belgrade, Serbia",11248076
-divacvl01,2003-04,35,Sacramento Kings,NBA,81,28.6,.470,.654,5.7,5.3,0.7,1.0,9.9,16.3,5.3,.110,1.1,1.8,,"Belgrade in Belgrade, Serbia",12051510
-divacvl01,2004-05,36,Los Angeles Lakers,NBA,15,8.7,.419,.667,2.1,1.3,0.3,0.1,2.3,10.5,0.0,.013,-2.4,0.0,,"Belgrade in Belgrade, Serbia",4903000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+2.26,5.43,divacvl01,1989-90,LAL,17.5,5.0,.148,1.5,1.4,,21,NBA,82,19.6,.499,.708,6.2,0.9,1.0,1.4,8.5,LAL,
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+3.54,11.36,divacvl01,1990-91,LAL,17.7,8.3,.173,3.7,3.3,,22,NBA,82,28.2,.565,.703,8.1,1.1,1.3,1.5,11.2,LAL,770000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",-0.89,1.05,divacvl01,1991-92,LAL,15.9,1.8,.090,1.2,0.8,,23,NBA,36,27.2,.495,.768,6.9,1.7,1.5,1.0,11.3,LAL,942000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+1.90,7.59,divacvl01,1992-93,LAL,17.1,5.6,.107,3.2,3.3,,24,NBA,82,30.8,.485,.689,8.9,2.8,1.6,1.7,12.8,LAL,3633000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+1.43,6.73,divacvl01,1993-94,LAL,18.8,7.4,.132,3.8,3.9,,25,NBA,79,34.0,.506,.686,10.8,3.9,1.2,1.4,14.2,LAL,4133000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+2.70,10.60,divacvl01,1994-95,LAL,20.5,9.5,.162,5.3,5.1,,26,NBA,80,35.1,.507,.777,10.4,4.1,1.4,2.2,16.0,LAL,3333300
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+1.69,6.90,divacvl01,1995-96,LAL,17.4,6.1,.119,2.8,3.0,,27,NBA,79,31.3,.513,.641,8.6,3.3,1.0,1.7,12.9,LAL,3333000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+2.63,9.70,divacvl01,1996-97,CHH,17.9,7.3,.123,4.7,4.8,,28,NBA,81,35.1,.494,.683,9.0,3.7,1.3,2.2,12.6,CHH,4718000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+2.17,6.51,divacvl01,1997-98,CHH,19.4,5.9,.157,5.2,3.3,,29,NBA,64,28.2,.498,.691,8.1,2.7,1.3,1.5,10.4,CHH,4833333
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+1.52,5.11,divacvl01,1998-99,SAC,18.0,5.2,.142,2.7,2.1,,30,NBA,50,35.2,.470,.702,10.0,4.3,0.9,1.0,14.3,SAC,8300000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+2.48,8.29,divacvl01,1999-00,SAC,18.0,7.2,.145,3.4,3.2,,31,NBA,82,29.0,.503,.691,8.0,3.0,1.3,1.3,12.3,SAC,8837774
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+1.67,7.21,divacvl01,2000-01,SAC,17.7,7.4,.147,2.8,2.9,,32,NBA,81,29.9,.482,.691,8.3,2.9,1.1,1.1,12.0,SAC,9640000
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+3.24,11.16,divacvl01,2001-02,SAC,17.0,7.3,.145,3.3,3.3,,33,NBA,80,30.3,.472,.615,8.4,3.7,1.0,1.2,11.1,SAC,10444642
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+3.10,10.01,divacvl01,2002-03,SAC,15.6,7.0,.141,2.9,3.0,,34,NBA,80,29.8,.466,.713,7.2,3.4,1.0,1.3,9.9,SAC,11248076
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",+1.39,6.36,divacvl01,2003-04,SAC,16.3,5.3,.110,1.1,1.8,,35,NBA,81,28.6,.470,.654,5.7,5.3,0.7,1.0,9.9,SAC,12051510
+Vlade Divac,/players/d/divacvl01.html,1990,2005,,false,"Belgrade in Belgrade, Serbia",-0.72,0.14,divacvl01,2004-05,LAL,10.5,0.0,.013,-2.4,0.0,,36,NBA,15,8.7,.419,.667,2.1,1.3,0.3,0.1,2.3,LAL,4903000

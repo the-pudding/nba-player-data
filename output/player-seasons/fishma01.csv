@@ -1,6 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-fishma01,1994-95,25,Los Angeles Clippers,NBA,26,14.2,.476,.676,3.2,0.7,0.6,0.3,4.7,10.6,0.2,.030,-3.7,-0.2,,150000,"Washington in Washington, Iowa"
-fishma01,1995-96,26,"NYK,DEN",NBA,18,7.4,.583,.526,1.2,0.4,0.2,0.4,2.9,16.5,0.4,.154,0.3,0.1,,,"Washington in Washington, Iowa"
-fishma01,1996-97,27,Washington Bullets,NBA,6,1.3,.333,,0.8,0.0,0.0,0.0,0.3,-3.2,0.0,-0.287,-31.5,-0.1,,247500,"Washington in Washington, Iowa"
-fishma01,1996-97,27,Washington Bullets,NBA,5,1.4,.333,,1.0,0.0,0.0,0.0,0.4,-3.7,0.0,-0.331,-35.3,-0.1,,247500,"Washington in Washington, Iowa"
-fishma01,1996-97,27,Washington Bullets,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,.025,-5.2,0.0,,247500,"Washington in Washington, Iowa"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Matt Fish,/players/f/fishma01.html,1995,1997,University of North Carolina at Wilmington,false,"Washington in Washington, Iowa",-2.46,-0.06,fishma01,1994-95,LAC,10.6,0.2,.030,-3.7,-0.2,,NBA,150000,25,26,14.2,.476,.676,3.2,0.7,0.6,0.3,4.7,LAC
+Matt Fish,/players/f/fishma01.html,1995,1997,University of North Carolina at Wilmington,false,"Washington in Washington, Iowa",+0.03,0.21,fishma01,1995-96,TOT,16.5,0.4,.154,0.3,0.1,,NBA,,26,18,7.4,.583,.526,1.2,0.4,0.2,0.4,2.9,"NYK,DEN"
+Matt Fish,/players/f/fishma01.html,1995,1997,University of North Carolina at Wilmington,false,"Washington in Washington, Iowa",+0.18,0.01,fishma01,1996-97,TOT,-3.2,0.0,-0.287,-31.5,-0.1,,NBA,247500,27,6,1.3,.333,,0.8,0.0,0.0,0.0,0.3,"WSB,MIA"

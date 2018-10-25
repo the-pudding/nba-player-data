@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-blackja01,1994-95,26,"CHH,BOS",NBA,13,6.2,.615,.667,0.8,0.8,0.3,0.0,1.4,11.6,0.2,.091,-1.9,0.0,,"Deerfield in Deerfield, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+James Blackwell,/players/b/blackja01.html,1995,1995,Dartmouth College,false,"Deerfield in Deerfield, New York",+0.11,0.13,blackja01,1994-95,TOT,11.6,0.2,.091,-1.9,0.0,,26,NBA,13,6.2,.615,.667,0.8,0.8,0.3,0.0,1.4,"CHH,BOS"

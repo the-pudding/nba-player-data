@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-douglle01,1976-77,22,DET,NBA,82,19.8,.479,.555,6.4,0.8,0.5,1.0,7.5,13.3,2.1,.063,-1.6,0.1,,"Colbert County in Leighton, Alabama"
-douglle01,1977-78,23,DET,NBA,79,25.2,.481,.641,7.4,1.4,0.7,0.6,10.9,13.6,3.6,.087,-1.4,0.3,,"Colbert County in Leighton, Alabama"
-douglle01,1978-79,24,DET,NBA,78,28.4,.490,.634,8.5,0.9,0.5,0.7,11.4,12.1,3.1,.068,-2.2,-0.1,,"Colbert County in Leighton, Alabama"
-douglle01,1979-80,25,DET,NBA,70,25.5,.486,.676,7.2,1.7,0.4,0.9,8.1,11.4,2.1,.057,-1.5,0.2,,"Colbert County in Leighton, Alabama"
-douglle01,1980-81,26,KCK,NBA,79,17.2,.573,.548,4.9,0.9,0.3,0.5,6.0,12.5,3.2,.112,-0.4,0.6,,"Colbert County in Leighton, Alabama"
-douglle01,1981-82,27,KCK,NBA,63,17.3,.500,.400,4.6,0.6,0.2,0.6,2.7,6.5,1.0,.044,-2.1,0.0,,"Colbert County in Leighton, Alabama"
-douglle01,1982-83,28,KCK,NBA,5,9.2,.667,.000,1.4,0.0,0.0,0.6,0.8,2.0,0.0,.036,-4.7,0.0,,"Colbert County in Leighton, Alabama"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",-0.50,1.98,douglle01,1976-77,DET,13.3,2.1,.063,-1.6,0.1,,22,NBA,82,19.8,.479,.555,6.4,0.8,0.5,1.0,7.5,DET
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",-0.47,2.40,douglle01,1977-78,DET,13.6,3.6,.087,-1.4,0.3,,23,NBA,79,25.2,.481,.641,7.4,1.4,0.7,0.6,10.9,DET
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",-2.30,-0.16,douglle01,1978-79,DET,12.1,3.1,.068,-2.2,-0.1,,24,NBA,78,28.4,.490,.634,8.5,0.9,0.5,0.7,11.4,DET
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",-2.29,-0.06,douglle01,1979-80,DET,11.4,2.1,.057,-1.5,0.2,,25,NBA,70,25.5,.486,.676,7.2,1.7,0.4,0.9,8.1,DET
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",-1.38,0.96,douglle01,1980-81,KCK,12.5,3.2,.112,-0.4,0.6,,26,NBA,79,17.2,.573,.548,4.9,0.9,0.3,0.5,6.0,KCK
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",-2.67,-0.33,douglle01,1981-82,KCK,6.5,1.0,.044,-2.1,0.0,,27,NBA,63,17.3,.500,.400,4.6,0.6,0.2,0.6,2.7,KCK
+Leon Douglas,/players/d/douglle01.html,1977,1983,University of Alabama,false,"Colbert County in Leighton, Alabama",+0.31,0.08,douglle01,1982-83,KCK,2.0,0.0,.036,-4.7,0.0,,28,NBA,5,9.2,.667,.000,1.4,0.0,0.0,0.6,0.8,KCK

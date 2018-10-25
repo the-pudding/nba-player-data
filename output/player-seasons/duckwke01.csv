@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-duckwke01,1986-87,22,"SAS,POR",NBA,65,13.5,.476,.687,3.4,0.4,0.3,0.3,5.4,9.1,0.8,.045,-5.1,-0.7,,"Thornridge in Dolton, Illinois",
-duckwke01,1987-88,23,Portland Trail Blazers,NBA,78,28.5,.496,.770,7.4,0.8,0.4,0.4,15.8,14.9,5.2,.112,-3.0,-0.5,,"Thornridge in Dolton, Illinois",175000
-duckwke01,1988-89,24,Portland Trail Blazers,NBA,79,33.7,.477,.757,8.0,0.8,0.7,0.6,18.1,13.9,4.8,.086,-3.7,-1.1,,"Thornridge in Dolton, Illinois",2000000
-duckwke01,1989-90,25,Portland Trail Blazers,NBA,82,30.0,.478,.740,6.2,1.1,0.4,0.4,16.2,13.3,4.8,.093,-2.4,-0.2,,"Thornridge in Dolton, Illinois",2100000
-duckwke01,1990-91,26,Portland Trail Blazers,NBA,81,31.0,.481,.772,6.6,1.1,0.4,0.4,15.8,12.7,4.3,.082,-3.2,-0.7,,"Thornridge in Dolton, Illinois",1710000
-duckwke01,1991-92,27,Portland Trail Blazers,NBA,82,27.1,.461,.690,6.1,1.2,0.5,0.5,10.7,10.5,3.3,.071,-3.1,-0.6,,"Thornridge in Dolton, Illinois",2013000
-duckwke01,1992-93,28,Portland Trail Blazers,NBA,74,23.8,.438,.730,5.2,0.9,0.6,0.5,9.9,11.4,2.5,.069,-3.6,-0.7,,"Thornridge in Dolton, Illinois",2213000
-duckwke01,1993-94,29,Washington Bullets,NBA,69,21.5,.417,.667,4.7,0.8,0.5,0.5,6.6,8.2,-0.5,-0.017,-5.7,-1.4,,"Thornridge in Dolton, Illinois",2313000
-duckwke01,1994-95,30,Washington Bullets,NBA,40,20.5,.442,.643,4.9,0.5,0.5,0.6,7.1,9.9,0.0,-0.002,-6.2,-0.9,,"Thornridge in Dolton, Illinois",2612500
-duckwke01,1995-96,31,Milwaukee Bucks,NBA,8,7.3,.214,.500,0.9,0.3,0.3,0.0,1.1,-2.7,-0.1,-0.110,-10.3,-0.1,,"Thornridge in Dolton, Illinois",2863000
-duckwke01,1996-97,32,Los Angeles Clippers,NBA,26,14.8,.437,.688,2.3,0.6,0.3,0.4,4.0,6.1,-0.2,-0.030,-5.5,-0.3,,"Thornridge in Dolton, Illinois",247500
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-3.22,-0.57,duckwke01,1986-87,TOT,9.1,0.8,.045,-5.1,-0.7,,22,NBA,65,13.5,.476,.687,3.4,0.4,0.3,0.3,5.4,"SAS,POR",
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-1.24,1.71,duckwke01,1987-88,POR,14.9,5.2,.112,-3.0,-0.5,,23,NBA,78,28.5,.496,.770,7.4,0.8,0.4,0.4,15.8,POR,175000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-1.27,1.90,duckwke01,1988-89,POR,13.9,4.8,.086,-3.7,-1.1,,24,NBA,79,33.7,.477,.757,8.0,0.8,0.7,0.6,18.1,POR,2000000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-1.30,1.93,duckwke01,1989-90,POR,13.3,4.8,.093,-2.4,-0.2,,25,NBA,82,30.0,.478,.740,6.2,1.1,0.4,0.4,16.2,POR,2100000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-1.22,2.19,duckwke01,1990-91,POR,12.7,4.3,.082,-3.2,-0.7,,26,NBA,81,31.0,.481,.772,6.6,1.1,0.4,0.4,15.8,POR,1710000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-1.33,1.84,duckwke01,1991-92,POR,10.5,3.3,.071,-3.1,-0.6,,27,NBA,82,27.1,.461,.690,6.1,1.2,0.5,0.5,10.7,POR,2013000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-1.65,0.75,duckwke01,1992-93,POR,11.4,2.5,.069,-3.6,-0.7,,28,NBA,74,23.8,.438,.730,5.2,0.9,0.6,0.5,9.9,POR,2213000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-3.74,-1.42,duckwke01,1993-94,WSB,8.2,-0.5,-0.017,-5.7,-1.4,,29,NBA,69,21.5,.417,.667,4.7,0.8,0.5,0.5,6.6,WSB,2313000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-3.06,-0.42,duckwke01,1994-95,WSB,9.9,0.0,-0.002,-6.2,-0.9,,30,NBA,40,20.5,.442,.643,4.9,0.5,0.5,0.6,7.1,WSB,2612500
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",+0.02,0.09,duckwke01,1995-96,MIL,-2.7,-0.1,-0.110,-10.3,-0.1,,31,NBA,8,7.3,.214,.500,0.9,0.3,0.3,0.0,1.1,MIL,2863000
+Kevin Duckworth,/players/d/duckwke01.html,1987,1997,Eastern Illinois University,false,"Thornridge in Dolton, Illinois",-3.45,-0.31,duckwke01,1996-97,LAC,6.1,-0.2,-0.030,-5.5,-0.3,,32,NBA,26,14.8,.437,.688,2.3,0.6,0.3,0.4,4.0,LAC,247500

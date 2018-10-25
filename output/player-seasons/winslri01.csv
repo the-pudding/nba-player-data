@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-winslri01,1987-88,23,MIL,NBA,7,6.4,.231,.500,1.0,0.3,0.1,0.0,1.0,-3.4,-0.2,-0.165,-11.0,-0.1,,"Jack Yates in Houston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rickie Winslow,/players/w/winslri01.html,1988,1988,University of Houston,false,"Jack Yates in Houston, Texas",-0.08,0.07,winslri01,1987-88,MIL,-3.4,-0.2,-0.165,-11.0,-0.1,,23,NBA,7,6.4,.231,.500,1.0,0.3,0.1,0.0,1.0,MIL

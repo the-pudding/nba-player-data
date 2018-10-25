@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnska01,1987-88,22,CLE,NBA,4,3.0,.333,,0.0,0.0,0.3,0.0,0.5,-4.6,-0.1,-0.238,-12.2,0.0,,"Taft in Cincinnati, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kannard Johnson,/players/j/johnska01.html,1988,1988,Western Kentucky University,false,"Taft in Cincinnati, Ohio",+0.21,0.02,johnska01,1987-88,CLE,-4.6,-0.1,-0.238,-12.2,0.0,,22,NBA,4,3.0,.333,,0.0,0.0,0.3,0.0,0.5,CLE

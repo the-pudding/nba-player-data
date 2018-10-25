@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jamisha01,1999-00,23,Miami Heat,NBA,12,6.2,.350,.222,1.8,0.3,0.2,0.1,1.5,6.6,0.0,-0.017,-4.1,0.0,,301875,"Holy-Hill Roberts in Vance, South Carolina"
-jamisha01,2000-01,24,Did Not Play (other pro league—Poland),,,,,,,,,,,,,,,,,,"Holy-Hill Roberts in Vance, South Carolina"
-jamisha01,2001-02,25,Los Angeles Clippers,NBA,25,7.0,.512,.667,1.6,0.2,0.2,0.0,2.2,13.9,0.5,.126,-1.0,0.0,,600000,"Holy-Hill Roberts in Vance, South Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Harold Jamison,/players/j/jamisha01.html,2000,2002,Clemson University,false,"Holy-Hill Roberts in Vance, South Carolina",+0.03,0.12,jamisha01,1999-00,MIA,6.6,0.0,-0.017,-4.1,0.0,,NBA,301875,23,12,6.2,.350,.222,1.8,0.3,0.2,0.1,1.5,MIA
+Harold Jamison,/players/j/jamisha01.html,2000,2002,Clemson University,false,"Holy-Hill Roberts in Vance, South Carolina",,,jamisha01,2000-01,Did Not Play (other pro league—Poland),,,,,,,,,24,,,,,,,,,,Did Not Play (other pro league—Poland)
+Harold Jamison,/players/j/jamisha01.html,2000,2002,Clemson University,false,"Holy-Hill Roberts in Vance, South Carolina",-0.52,0.21,jamisha01,2001-02,LAC,13.9,0.5,.126,-1.0,0.0,,NBA,600000,25,25,7.0,.512,.667,1.6,0.2,0.2,0.0,2.2,LAC

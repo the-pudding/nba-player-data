@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-pressdo01,1988-89,24,"WSB,CHI",NBA,13,9.5,.290,.556,1.2,2.0,0.3,0.0,1.8,5.3,-0.2,-0.069,-8.2,-0.2,,"Mackin in Washington, District of Columbia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dominic Pressley,/players/p/pressdo01.html,1989,1989,Boston College,false,"Mackin in Washington, District of Columbia",-0.41,0.16,pressdo01,1988-89,TOT,5.3,-0.2,-0.069,-8.2,-0.2,,24,NBA,13,9.5,.290,.556,1.2,2.0,0.3,0.0,1.8,"WSB,CHI"

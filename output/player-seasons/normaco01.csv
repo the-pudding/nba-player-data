@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Award,HS,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP
-normaco01,1976-77,23,Did Not Play,,"Kettering in Detroit, Michigan",,,,,,,,,,,,,,,
-normaco01,1977-78,24,Did Not Play,,"Kettering in Detroit, Michigan",,,,,,,,,,,,,,,
-normaco01,1978-79,25,SDC,,"Kettering in Detroit, Michigan",NBA,22,14.7,.430,.826,1.5,1.1,0.5,0.1,7.3,11.9,0.2,.032,-5.6,-0.3
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,Award,bbrID,Season,Age,Tm,Team,PER,WS,WS/48,BPM,VORP,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS
+Connie Norman,/players/n/normaco01.html,1975,1979,University of Arizona,false,"Kettering in Detroit, Michigan",,,,normaco01,1976-77,23,Did Not Play,Did Not Play,,,,,,,,,,,,,,,
+Connie Norman,/players/n/normaco01.html,1975,1979,University of Arizona,false,"Kettering in Detroit, Michigan",,,,normaco01,1977-78,24,Did Not Play,Did Not Play,,,,,,,,,,,,,,,
+Connie Norman,/players/n/normaco01.html,1975,1979,University of Arizona,false,"Kettering in Detroit, Michigan",-2.42,-0.03,,normaco01,1978-79,25,SDC,SDC,11.9,0.2,.032,-5.6,-0.3,NBA,22,14.7,.430,.826,1.5,1.1,0.5,0.1,7.3

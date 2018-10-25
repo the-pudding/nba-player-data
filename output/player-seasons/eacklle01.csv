@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-eacklle01,1988-89,22,Washington Bullets,NBA,80,18.2,.434,.786,2.3,1.5,0.5,0.1,11.5,15.2,2.1,.070,-3.0,-0.4,,225000,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1989-90,23,WSB,NBA,78,21.7,.439,.750,2.2,2.3,0.6,0.1,13.5,14.3,1.0,.029,-4.2,-0.9,,,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1990-91,24,Washington Bullets,NBA,67,24.1,.453,.739,1.9,2.0,0.7,0.1,13.0,12.9,1.2,.035,-4.3,-1.0,,605000,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1991-92,25,Washington Bullets,NBA,65,22.5,.468,.743,2.7,1.9,0.7,0.1,13.2,15.3,2.0,.065,-3.2,-0.5,,780000,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1992-93,26,Washington Bullets,NBA,,,,,,,,,,,,,,,,780000,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1993-94,27,Did Not Play,,,,,,,,,,,,,,,,,,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1994-95,28,Miami Heat,NBA,54,16.6,.439,.722,1.8,1.3,0.4,0.0,7.3,12.1,1.0,.055,-4.3,-0.5,,150000,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1995-96,29,WSB,NBA,55,22.5,.427,.831,2.7,1.6,0.5,0.1,8.6,12.5,2.4,.094,-1.2,0.2,,,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1996-97,30,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Broadmoor in Baton Rouge, Louisiana"
-eacklle01,1997-98,31,WAS,NBA,42,13.0,.429,.881,1.8,0.4,0.4,0.0,5.2,12.2,1.0,.088,-4.0,-0.3,,,"Broadmoor in Baton Rouge, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-2.04,0.25,eacklle01,1988-89,WSB,15.2,2.1,.070,-3.0,-0.4,,NBA,225000,22,80,18.2,.434,.786,2.3,1.5,0.5,0.1,11.5,WSB
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-2.50,-0.21,eacklle01,1989-90,WSB,14.3,1.0,.029,-4.2,-0.9,,NBA,,23,78,21.7,.439,.750,2.2,2.3,0.6,0.1,13.5,WSB
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-2.62,-0.39,eacklle01,1990-91,WSB,12.9,1.2,.035,-4.3,-1.0,,NBA,605000,24,67,24.1,.453,.739,1.9,2.0,0.7,0.1,13.0,WSB
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-1.66,0.61,eacklle01,1991-92,WSB,15.3,2.0,.065,-3.2,-0.5,,NBA,780000,25,65,22.5,.468,.743,2.7,1.9,0.7,0.1,13.2,WSB
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",,,eacklle01,1992-93,Did Not Play (other pro league—CBA),,,,,,,NBA,780000,26,,,,,,,,,,Did Not Play (other pro league—CBA)
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",,,eacklle01,1993-94,Did Not Play,,,,,,,,,27,,,,,,,,,,Did Not Play
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-2.46,-0.08,eacklle01,1994-95,MIA,12.1,1.0,.055,-4.3,-0.5,,NBA,150000,28,54,16.6,.439,.722,1.8,1.3,0.4,0.0,7.3,MIA
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-1.56,0.61,eacklle01,1995-96,WSB,12.5,2.4,.094,-1.2,0.2,,NBA,,29,55,22.5,.427,.831,2.7,1.6,0.5,0.1,8.6,WSB
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",,,eacklle01,1996-97,Did Not Play (other pro league—Israel),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league—Israel)
+Ledell Eackles,/players/e/eacklle01.html,1989,1998,University of New Orleans,false,"Broadmoor in Baton Rouge, Louisiana",-2.26,-0.01,eacklle01,1997-98,WAS,12.2,1.0,.088,-4.0,-0.3,,NBA,,31,42,13.0,.429,.881,1.8,0.4,0.4,0.0,5.2,WAS

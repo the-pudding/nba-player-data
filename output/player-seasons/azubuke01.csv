@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-azubuke01,2006-07,23,Golden State Warriors,NBA,41,16.3,.445,.782,2.3,0.7,0.5,0.2,7.1,13.4,1.2,.083,-2.7,-0.1,,251657,"Victory Christian in Tulsa, Oklahoma"
-azubuke01,2007-08,24,Golden State Warriors,NBA,81,21.4,.445,.717,4.0,0.9,0.6,0.4,8.5,13.5,3.4,.094,-1.5,0.2,,687456,"Victory Christian in Tulsa, Oklahoma"
-azubuke01,2008-09,25,Golden State Warriors,NBA,74,32.1,.464,.808,5.0,1.6,0.8,0.7,14.4,14.7,4.1,.083,-0.7,0.8,,2900000,"Victory Christian in Tulsa, Oklahoma"
-azubuke01,2009-10,26,Golden State Warriors,NBA,9,25.7,.545,.679,4.6,1.1,0.6,1.0,13.9,19.8,0.7,.148,0.0,0.1,,3132000,"Victory Christian in Tulsa, Oklahoma"
-azubuke01,2010-11,27,New York Knicks,NBA,,,,,,,,,,,,,,,,3300000,"Victory Christian in Tulsa, Oklahoma"
-azubuke01,2011-12,28,DAL,NBA,3,6.0,.375,,0.0,0.0,0.3,0.0,2.3,-3.4,-0.1,-0.325,-16.0,-0.1,,,"Victory Christian in Tulsa, Oklahoma"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Kelenna Azubuike,/players/a/azubuke01.html,2007,2012,University of Kentucky,false,"Victory Christian in Tulsa, Oklahoma",-3.16,-0.40,azubuke01,2006-07,GSW,13.4,1.2,.083,-2.7,-0.1,,NBA,251657,23,41,16.3,.445,.782,2.3,0.7,0.5,0.2,7.1,GSW
+Kelenna Azubuike,/players/a/azubuke01.html,2007,2012,University of Kentucky,false,"Victory Christian in Tulsa, Oklahoma",-2.30,0.08,azubuke01,2007-08,GSW,13.5,3.4,.094,-1.5,0.2,,NBA,687456,24,81,21.4,.445,.717,4.0,0.9,0.6,0.4,8.5,GSW
+Kelenna Azubuike,/players/a/azubuke01.html,2007,2012,University of Kentucky,false,"Victory Christian in Tulsa, Oklahoma",-0.80,2.41,azubuke01,2008-09,GSW,14.7,4.1,.083,-0.7,0.8,,NBA,2900000,25,74,32.1,.464,.808,5.0,1.6,0.8,0.7,14.4,GSW
+Kelenna Azubuike,/players/a/azubuke01.html,2007,2012,University of Kentucky,false,"Victory Christian in Tulsa, Oklahoma",-0.25,0.32,azubuke01,2009-10,GSW,19.8,0.7,.148,0.0,0.1,,NBA,3132000,26,9,25.7,.545,.679,4.6,1.1,0.6,1.0,13.9,GSW
+Kelenna Azubuike,/players/a/azubuke01.html,2007,2012,University of Kentucky,false,"Victory Christian in Tulsa, Oklahoma",,,azubuke01,2010-11,Did Not Play (injury—knee),,,,,,,NBA,3300000,27,,,,,,,,,,Did Not Play (injury—knee)
+Kelenna Azubuike,/players/a/azubuke01.html,2007,2012,University of Kentucky,false,"Victory Christian in Tulsa, Oklahoma",-0.05,0.03,azubuke01,2011-12,DAL,-3.4,-0.1,-0.325,-16.0,-0.1,,NBA,,28,3,6.0,.375,,0.0,0.0,0.3,0.0,2.3,DAL

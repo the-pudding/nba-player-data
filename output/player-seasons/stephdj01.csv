@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-stephdj01,2013-14,23,MIL,NBA,3,5.0,.429,1.000,1.7,0.0,0.0,0.0,2.3,16.1,0.0,.067,-17.7,-0.1,,"Harker Heights in Harker Heights, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+D.J. Stephens,/players/s/stephdj01.html,2014,2014,University of Memphis,false,"Harker Heights in Harker Heights, Texas",-0.22,0.02,stephdj01,2013-14,MIL,16.1,0.0,.067,-17.7,-0.1,,23,NBA,3,5.0,.429,1.000,1.7,0.0,0.0,0.0,2.3,MIL

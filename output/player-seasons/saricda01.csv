@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-saricda01,2016-17,22,Philadelphia 76ers,NBA,81,26.3,.411,.782,6.3,2.2,0.7,0.4,12.8,12.8,1.0,.023,-2.2,-0.1,,2318280,
-saricda01,2017-18,23,Philadelphia 76ers,NBA,78,29.6,.453,.860,6.7,2.6,0.7,0.3,14.6,15.8,6.6,.137,1.4,2.0,,2422560,
-saricda01,2018-19,24,PHI,NBA,5,32.0,.373,.800,8.0,2.8,0.6,0.4,12.2,9.6,0.1,.017,-3.7,-0.1,,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dario Saric,/players/s/saricda01.html,2017,2019,,true,,-2.92,-0.91,saricda01,2016-17,PHI,12.8,1.0,.023,-2.2,-0.1,,NBA,2318280,22,81,26.3,.411,.782,6.3,2.2,0.7,0.4,12.8,PHI
+Dario Saric,/players/s/saricda01.html,2017,2019,,true,,+0.99,5.81,saricda01,2017-18,PHI,15.8,6.6,.137,1.4,2.0,,NBA,2422560,23,78,29.6,.453,.860,6.7,2.6,0.7,0.3,14.6,PHI
+Dario Saric,/players/s/saricda01.html,2017,2019,,true,,,,saricda01,2018-19,PHI,9.6,0.1,.017,-3.7,-0.1,,NBA,,24,5,32.0,.373,.800,8.0,2.8,0.6,0.4,12.2,PHI

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-anderdw01,1982-83,22,DEN,NBA,5,6.6,.500,.700,0.4,0.6,0.2,0.0,4.2,10.6,0.0,.001,-9.0,-0.1,,"Roth in Dayton, Ohio"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Dwight Anderson,/players/a/anderdw01.html,1983,1983,"University of Kentucky, University of Southern California",false,"Roth in Dayton, Ohio",-0.45,0.04,anderdw01,1982-83,DEN,10.6,0.0,.001,-9.0,-0.1,,22,NBA,5,6.6,.500,.700,0.4,0.6,0.2,0.0,4.2,DEN

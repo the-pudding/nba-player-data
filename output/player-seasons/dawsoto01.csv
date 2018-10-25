@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-dawsoto01,1990-91,23,SAC,NBA,4,4.3,.571,,0.5,0.0,0.0,0.0,2.3,16.0,0.0,.060,-7.5,0.0,,"Kinston in Kinston, North Carolina"
-dawsoto01,1991-92,24,Did Not Play,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-dawsoto01,1992-93,25,"Did Not Play (other pro league—CBA, France, Italy)",,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-dawsoto01,1993-94,26,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
-dawsoto01,1994-95,27,BOS,NBA,2,6.5,.375,1.000,1.5,0.5,0.0,0.0,4.0,5.9,0.0,-0.099,-11.1,0.0,,"Kinston in Kinston, North Carolina"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tony Dawson,/players/d/dawsoto01.html,1991,1995,Florida State University,false,"Kinston in Kinston, North Carolina",+0.01,0.03,dawsoto01,1990-91,SAC,16.0,0.0,.060,-7.5,0.0,,23,NBA,4,4.3,.571,,0.5,0.0,0.0,0.0,2.3,SAC
+Tony Dawson,/players/d/dawsoto01.html,1991,1995,Florida State University,false,"Kinston in Kinston, North Carolina",,,dawsoto01,1991-92,Did Not Play,,,,,,,24,,,,,,,,,,,Did Not Play
+Tony Dawson,/players/d/dawsoto01.html,1991,1995,Florida State University,false,"Kinston in Kinston, North Carolina",,,dawsoto01,1992-93,"Did Not Play (other pro league—CBA, France, Italy)",,,,,,,25,,,,,,,,,,,"Did Not Play (other pro league—CBA, France, Italy)"
+Tony Dawson,/players/d/dawsoto01.html,1991,1995,Florida State University,false,"Kinston in Kinston, North Carolina",,,dawsoto01,1993-94,Did Not Play (other pro league—Spain),,,,,,,26,,,,,,,,,,,Did Not Play (other pro league—Spain)
+Tony Dawson,/players/d/dawsoto01.html,1991,1995,Florida State University,false,"Kinston in Kinston, North Carolina",+0.33,0.02,dawsoto01,1994-95,BOS,5.9,0.0,-0.099,-11.1,0.0,,27,NBA,2,6.5,.375,1.000,1.5,0.5,0.0,0.0,4.0,BOS

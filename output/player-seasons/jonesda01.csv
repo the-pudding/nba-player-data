@@ -1,16 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonesda01,1998-99,22,Boston Celtics,NBA,24,14.3,.361,.824,1.8,1.8,0.5,0.0,5.2,13.7,0.7,.095,-1.7,0.0,,287500,"Ball in Galveston, Texas"
-jonesda01,1998-99,22,Boston Celtics,NBA,11,11.9,.318,.846,1.2,1.2,0.6,0.0,4.5,14.4,0.3,.109,-0.9,0.0,,287500,"Ball in Galveston, Texas"
-jonesda01,1998-99,22,Boston Celtics,NBA,13,16.4,.387,.750,2.4,2.2,0.5,0.0,5.8,13.3,0.4,.087,-2.2,0.0,,287500,"Ball in Galveston, Texas"
-jonesda01,1999-00,23,Dallas Mavericks,NBA,55,11.1,.385,.667,1.0,1.7,0.3,0.0,4.2,13.1,0.7,.053,-3.7,-0.3,,106441,"Ball in Galveston, Texas"
-jonesda01,1999-00,23,Dallas Mavericks,NBA,13,15.1,.463,.778,1.2,3.0,0.5,0.0,5.2,14.0,0.3,.080,-5.1,-0.2,,106441,"Ball in Galveston, Texas"
-jonesda01,1999-00,23,Dallas Mavericks,NBA,42,9.9,.357,.641,0.9,1.4,0.3,0.0,3.9,12.7,0.3,.040,-3.0,-0.1,,106441,"Ball in Galveston, Texas"
-jonesda01,2000-01,24,Vancouver Grizzlies,NBA,71,19.9,.409,.712,1.7,3.2,0.5,0.0,6.5,13.0,1.8,.062,-2.3,-0.1,,710000,"Ball in Galveston, Texas"
-jonesda01,2001-02,25,Detroit Pistons,NBA,67,16.2,.401,.729,1.5,2.1,0.3,0.0,5.1,11.2,1.9,.084,-2.3,-0.1,,565850,"Ball in Galveston, Texas"
-jonesda01,2002-03,26,Sacramento Kings,NBA,49,14.5,.381,.741,1.4,1.6,0.4,0.1,4.6,11.5,1.5,.103,-1.4,0.1,,637435,"Ball in Galveston, Texas"
-jonesda01,2003-04,27,Milwaukee Bucks,NBA,82,24.6,.401,.764,2.1,5.8,0.4,0.0,7.0,14.2,3.9,.093,-1.9,0.1,,751179,"Ball in Galveston, Texas"
-jonesda01,2004-05,28,Miami Heat,NBA,82,31.4,.456,.791,2.8,4.3,0.5,0.1,11.6,15.5,8.7,.162,2.5,2.9,,2503000,"Ball in Galveston, Texas"
-jonesda01,2005-06,29,Cleveland Cavaliers,NBA,82,25.5,.387,.640,1.6,2.1,0.5,0.0,6.7,9.3,3.4,.077,-1.1,0.5,,3590000,"Ball in Galveston, Texas"
-jonesda01,2006-07,30,Cleveland Cavaliers,NBA,60,19.6,.386,.682,1.1,1.6,0.3,0.0,6.6,10.2,2.4,.097,-2.1,0.0,,3884678,"Ball in Galveston, Texas"
-jonesda01,2007-08,31,Cleveland Cavaliers,NBA,67,19.9,.416,.714,1.1,1.9,0.3,0.0,6.5,11.3,3.0,.108,-2.2,-0.1,,4172432,"Ball in Galveston, Texas"
-jonesda01,2008-09,32,Milwaukee Bucks,NBA,18,6.0,.324,,0.3,0.4,0.2,0.0,1.8,6.2,0.0,-0.007,-5.5,-0.1,,4460186,"Ball in Galveston, Texas"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-0.97,0.29,jonesda01,1998-99,TOT,13.7,0.7,.095,-1.7,0.0,,NBA,287500,22,24,14.3,.361,.824,1.8,1.8,0.5,0.0,5.2,"NJN,BOS"
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-1.87,0.15,jonesda01,1999-00,TOT,13.1,0.7,.053,-3.7,-0.3,,NBA,106441,23,55,11.1,.385,.667,1.0,1.7,0.3,0.0,4.2,"GSW,DAL"
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-2.07,0.11,jonesda01,2000-01,VAN,13.0,1.8,.062,-2.3,-0.1,,NBA,710000,24,71,19.9,.409,.712,1.7,3.2,0.5,0.0,6.5,VAN
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-0.01,1.95,jonesda01,2001-02,DET,11.2,1.9,.084,-2.3,-0.1,,NBA,565850,25,67,16.2,.401,.729,1.5,2.1,0.3,0.0,5.1,DET
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-1.32,0.43,jonesda01,2002-03,SAC,11.5,1.5,.103,-1.4,0.1,,NBA,637435,26,49,14.5,.381,.741,1.4,1.6,0.4,0.1,4.6,SAC
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-0.80,2.14,jonesda01,2003-04,MIL,14.2,3.9,.093,-1.9,0.1,,NBA,751179,27,82,24.6,.401,.764,2.1,5.8,0.4,0.0,7.0,MIL
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",+2.25,9.38,jonesda01,2004-05,MIA,15.5,8.7,.162,2.5,2.9,,NBA,2503000,28,82,31.4,.456,.791,2.8,4.3,0.5,0.1,11.6,MIA
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-0.19,3.21,jonesda01,2005-06,CLE,9.3,3.4,.077,-1.1,0.5,,NBA,3590000,29,82,25.5,.387,.640,1.6,2.1,0.5,0.0,6.7,CLE
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-1.12,1.02,jonesda01,2006-07,CLE,10.2,2.4,.097,-2.1,0.0,,NBA,3884678,30,60,19.6,.386,.682,1.1,1.6,0.3,0.0,6.6,CLE
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",-1.87,0.40,jonesda01,2007-08,CLE,11.3,3.0,.108,-2.2,-0.1,,NBA,4172432,31,67,19.9,.416,.714,1.1,1.9,0.3,0.0,6.5,CLE
+Damon Jones,/players/j/jonesda01.html,1999,2009,University of Houston,false,"Ball in Galveston, Texas",+0.61,0.21,jonesda01,2008-09,MIL,6.2,0.0,-0.007,-5.5,-0.1,,NBA,4460186,32,18,6.0,.324,,0.3,0.4,0.2,0.0,1.8,MIL

@@ -1,17 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-bellra01,2000-01,24,PHI,NBA,5,6.0,.286,,0.2,0.0,0.2,0.0,1.0,-0.6,-0.1,-0.091,-9.1,-0.1,,"Killian in Miami, Florida",
-bellra01,2001-02,25,Philadelphia 76ers,NBA,74,12.0,.429,.750,1.5,1.0,0.3,0.1,3.4,8.6,1.1,.059,-3.7,-0.4,,"Killian in Miami, Florida",540850
-bellra01,2002-03,26,Dallas Mavericks,NBA,75,15.6,.441,.676,1.9,0.8,0.7,0.1,3.1,7.9,1.7,.069,-0.5,0.5,,"Killian in Miami, Florida",612435
-bellra01,2003-04,27,Utah Jazz,NBA,82,24.6,.409,.786,2.9,1.3,0.8,0.2,11.2,12.7,3.7,.088,-2.5,-0.3,,"Killian in Miami, Florida",688679
-bellra01,2004-05,28,Utah Jazz,NBA,63,28.4,.454,.747,3.2,1.4,0.7,0.1,12.3,12.2,2.2,.060,-2.1,0.0,,"Killian in Miami, Florida",1320000
-bellra01,2005-06,29,Phoenix Suns,NBA,79,37.5,.457,.788,3.2,2.6,1.0,0.3,14.7,12.9,6.8,.110,1.8,2.8,,"Killian in Miami, Florida",4250000
-bellra01,2006-07,30,Phoenix Suns,NBA,78,37.4,.432,.776,3.2,2.5,0.6,0.3,14.7,12.0,5.8,.095,1.8,2.8,,"Killian in Miami, Florida",4500000
-bellra01,2007-08,31,Phoenix Suns,NBA,75,35.3,.421,.868,3.7,2.2,0.7,0.4,11.9,10.5,4.5,.082,1.3,2.2,,"Killian in Miami, Florida",4750000
-bellra01,2008-09,32,Charlotte Bobcats,NBA,67,34.6,.437,.853,3.6,2.1,0.7,0.1,11.9,10.7,3.6,.074,-0.4,0.9,,"Killian in Miami, Florida",5000000
-bellra01,2008-09,32,Charlotte Bobcats,NBA,22,32.4,.429,.762,2.9,1.3,0.6,0.1,9.6,8.5,0.8,.054,-0.9,0.2,,"Killian in Miami, Florida",5000000
-bellra01,2008-09,32,Charlotte Bobcats,NBA,45,35.6,.440,.877,4.0,2.5,0.8,0.1,13.0,11.7,2.8,.083,-0.2,0.7,,"Killian in Miami, Florida",5000000
-bellra01,2009-10,33,Golden State Warriors,NBA,6,30.0,.459,1.000,3.8,2.2,0.7,0.3,11.8,13.8,0.5,.131,-0.1,0.1,,"Killian in Miami, Florida",5250000
-bellra01,2009-10,33,Golden State Warriors,NBA,5,31.4,.436,1.000,4.2,2.0,0.8,0.4,12.0,12.8,0.4,.113,-0.2,0.1,,"Killian in Miami, Florida",5250000
-bellra01,2009-10,33,Golden State Warriors,NBA,1,23.0,.667,,2.0,3.0,0.0,0.0,11.0,20.6,0.1,.256,0.5,0.0,,"Killian in Miami, Florida",5250000
-bellra01,2010-11,34,Utah Jazz,NBA,68,30.8,.409,.892,2.6,1.7,0.8,0.2,8.0,8.2,1.7,.040,-1.9,0.1,,"Killian in Miami, Florida",3000000
-bellra01,2011-12,35,Utah Jazz,NBA,34,23.4,.466,.840,1.4,1.1,0.4,0.1,6.4,8.3,1.1,.069,-1.1,0.2,,"Killian in Miami, Florida",3240000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",+0.44,0.28,bellra01,2000-01,PHI,-0.6,-0.1,-0.091,-9.1,-0.1,,24,NBA,5,6.0,.286,,0.2,0.0,0.2,0.0,1.0,PHI,
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-4.11,-1.19,bellra01,2001-02,PHI,8.6,1.1,.059,-3.7,-0.4,,25,NBA,74,12.0,.429,.750,1.5,1.0,0.3,0.1,3.4,PHI,540850
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-2.46,-0.24,bellra01,2002-03,DAL,7.9,1.7,.069,-0.5,0.5,,26,NBA,75,15.6,.441,.676,1.9,0.8,0.7,0.1,3.1,DAL,612435
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-1.83,0.47,bellra01,2003-04,UTA,12.7,3.7,.088,-2.5,-0.3,,27,NBA,82,24.6,.409,.786,2.9,1.3,0.8,0.2,11.2,UTA,688679
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-1.97,0.39,bellra01,2004-05,UTA,12.2,2.2,.060,-2.1,0.0,,28,NBA,63,28.4,.454,.747,3.2,1.4,0.7,0.1,12.3,UTA,1320000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",+0.55,6.94,bellra01,2005-06,PHO,12.9,6.8,.110,1.8,2.8,,29,NBA,79,37.5,.457,.788,3.2,2.6,1.0,0.3,14.7,PHO,4250000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",+1.26,8.00,bellra01,2006-07,PHO,12.0,5.8,.095,1.8,2.8,,30,NBA,78,37.4,.432,.776,3.2,2.5,0.6,0.3,14.7,PHO,4500000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",+1.00,6.29,bellra01,2007-08,PHO,10.5,4.5,.082,1.3,2.2,,31,NBA,75,35.3,.421,.868,3.7,2.2,0.7,0.4,11.9,PHO,4750000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-0.52,2.76,bellra01,2008-09,TOT,10.7,3.6,.074,-0.4,0.9,,32,NBA,67,34.6,.437,.853,3.6,2.1,0.7,0.1,11.9,"PHO,CHA",5000000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",+0.44,0.33,bellra01,2009-10,TOT,13.8,0.5,.131,-0.1,0.1,,33,NBA,6,30.0,.459,1.000,3.8,2.2,0.7,0.3,11.8,"CHA,GSW",5250000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-3.38,-1.42,bellra01,2010-11,UTA,8.2,1.7,.040,-1.9,0.1,,34,NBA,68,30.8,.409,.892,2.6,1.7,0.8,0.2,8.0,UTA,3000000
+Raja Bell,/players/b/bellra01.html,2001,2012,"Boston University, Florida International University",false,"Killian in Miami, Florida",-1.88,0.21,bellra01,2011-12,UTA,8.3,1.1,.069,-1.1,0.2,,35,NBA,34,23.4,.466,.840,1.4,1.1,0.4,0.1,6.4,UTA,3240000

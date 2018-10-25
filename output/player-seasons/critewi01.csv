@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-critewi01,1987-88,22,Phoenix Suns,NBA,29,8.9,.500,.760,2.2,0.5,0.2,0.3,3.0,9.8,0.1,.025,-3.8,-0.1,,100000,"South in Bakersfield, California"
-critewi01,1988-89,23,Phoenix Suns,NBA,2,3.0,.000,,0.5,0.0,0.0,0.0,0.0,-20.3,-0.1,-0.570,-27.1,0.0,,125000,"South in Bakersfield, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Winston Crite,/players/c/critewi01.html,1988,1989,Texas A&M University,false,"South in Bakersfield, California",-1.94,0.06,critewi01,1987-88,PHO,9.8,0.1,.025,-3.8,-0.1,,NBA,100000,22,29,8.9,.500,.760,2.2,0.5,0.2,0.3,3.0,PHO
+Winston Crite,/players/c/critewi01.html,1988,1989,Texas A&M University,false,"South in Bakersfield, California",-0.17,0.01,critewi01,1988-89,PHO,-20.3,-0.1,-0.570,-27.1,0.0,,NBA,125000,23,2,3.0,.000,,0.5,0.0,0.0,0.0,0.0,PHO

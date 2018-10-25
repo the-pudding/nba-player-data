@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-elamikh01,2000-01,21,Chicago Bulls,NBA,50,18.7,.370,.778,1.6,2.9,1.0,0.0,6.3,12.2,0.6,.030,-3.8,-0.4,,316969,"North Community in Minneapolis, Minnesota"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Khalid El-Amin,/players/e/elamikh01.html,2001,2001,University of Connecticut,false,"North Community in Minneapolis, Minnesota",-2.01,0.09,elamikh01,2000-01,CHI,12.2,0.6,.030,-3.8,-0.4,,NBA,316969,21,50,18.7,.370,.778,1.6,2.9,1.0,0.0,6.3,CHI

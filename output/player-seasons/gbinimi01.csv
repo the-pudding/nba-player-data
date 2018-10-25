@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-gbinimi01,2016-17,24,Detroit Pistons,NBA,9,3.6,.100,1.000,0.3,0.2,0.0,0.0,0.4,-2.1,-0.1,-0.136,-10.5,-0.1,,650000,"Benedictine College Prep in Richmond, Virginia"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Michael Gbinije,/players/g/gbinimi01.html,2017,2017,"Duke University, Syracuse University",true,"Benedictine College Prep in Richmond, Virginia",+0.80,0.06,gbinimi01,2016-17,DET,-2.1,-0.1,-0.136,-10.5,-0.1,,NBA,650000,24,9,3.6,.100,1.000,0.3,0.2,0.0,0.0,0.4,DET

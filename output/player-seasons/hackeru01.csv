@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hackeru01,1976-77,23,"NYN,IND",NBA,6,7.7,.300,.571,2.2,0.5,0.0,0.2,2.3,8.9,0.0,-0.024,-8.9,-0.1,,"Mount Vernon in Mount Vernon, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Rudy Hackett,/players/h/hackeru01.html,1976,1977,Syracuse University,false,"Mount Vernon in Mount Vernon, New York",-1.23,0.03,hackeru01,1976-77,TOT,8.9,0.0,-0.024,-8.9,-0.1,,23,NBA,6,7.7,.300,.571,2.2,0.5,0.0,0.2,2.3,"NYN,IND"

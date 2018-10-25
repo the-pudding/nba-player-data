@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-storeaw01,2004-05,27,New Jersey Nets,NBA,9,3.6,.300,.500,0.6,0.1,0.0,0.0,0.9,6.9,0.0,.026,-7.1,0.0,,84573,"Proviso West in Hillside, Illinois"
-storeaw01,2005-06,28,Washington Wizards,NBA,25,4.6,.390,.571,0.9,0.2,0.1,0.0,1.7,9.2,0.1,.039,-6.3,-0.1,,641748,"Proviso West in Hillside, Illinois"
-storeaw01,2006-07,29,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,"Proviso West in Hillside, Illinois"
-storeaw01,2007-08,30,Milwaukee Bucks,NBA,26,10.0,.438,.483,2.1,0.6,0.3,0.0,3.5,11.5,0.2,.031,-4.0,-0.1,,711517,"Proviso West in Hillside, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Awvee Storey,/players/s/storeaw01.html,2005,2008,"University of Illinois at Urbana-Champaign, Arizona State University",false,"Proviso West in Hillside, Illinois",-0.30,0.04,storeaw01,2004-05,NJN,6.9,0.0,.026,-7.1,0.0,,NBA,84573,27,9,3.6,.300,.500,0.6,0.1,0.0,0.0,0.9,NJN
+Awvee Storey,/players/s/storeaw01.html,2005,2008,"University of Illinois at Urbana-Champaign, Arizona State University",false,"Proviso West in Hillside, Illinois",-1.12,0.09,storeaw01,2005-06,WAS,9.2,0.1,.039,-6.3,-0.1,,NBA,641748,28,25,4.6,.390,.571,0.9,0.2,0.1,0.0,1.7,WAS
+Awvee Storey,/players/s/storeaw01.html,2005,2008,"University of Illinois at Urbana-Champaign, Arizona State University",false,"Proviso West in Hillside, Illinois",,,storeaw01,2006-07,Did Not Play (other pro league—D-League),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league—D-League)
+Awvee Storey,/players/s/storeaw01.html,2005,2008,"University of Illinois at Urbana-Champaign, Arizona State University",false,"Proviso West in Hillside, Illinois",-1.64,0.11,storeaw01,2007-08,MIL,11.5,0.2,.031,-4.0,-0.1,,NBA,711517,30,26,10.0,.438,.483,2.1,0.6,0.3,0.0,3.5,MIL

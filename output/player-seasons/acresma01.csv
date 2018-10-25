@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-acresma01,1987-88,25,Boston Celtics,NBA,79,14.6,.532,.640,3.4,0.5,0.4,0.3,3.6,9.3,2.2,.090,-1.0,0.3,,75000,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1988-89,26,Boston Celtics,NBA,62,10.2,.482,.542,2.4,0.3,0.3,0.1,2.2,8.2,0.9,.066,-2.5,-0.1,,300000,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1989-90,27,ORL,NBA,80,21.1,.484,.692,5.4,0.8,0.5,0.3,4.5,8.3,1.6,.047,-2.0,0.0,,,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1990-91,28,Orlando Magic,NBA,68,19.3,.509,.653,5.3,0.4,0.4,0.4,4.2,9.2,2.5,.090,-1.8,0.1,,437000,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1991-92,29,Orlando Magic,NBA,68,13.6,.517,.761,3.7,0.3,0.4,0.2,3.1,10.1,1.9,.097,-2.2,-0.1,,547000,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1992-93,30,Houston Rockets,NBA,18,14.9,.531,.688,3.7,0.3,0.2,0.3,3.6,8.9,0.3,.056,-4.9,-0.2,,250000,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1992-93,30,Houston Rockets,NBA,6,3.8,.222,.500,1.0,0.0,0.0,0.0,1.0,-0.6,-0.1,-0.165,-19.9,-0.1,,250000,"Palos Verdes in Palos Verdes Estates, California"
-acresma01,1992-93,30,Houston Rockets,NBA,12,20.5,.600,.714,5.1,0.4,0.3,0.5,4.8,9.8,0.4,.077,-3.5,-0.1,,250000,"Palos Verdes in Palos Verdes Estates, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Acres,/players/a/acresma01.html,1988,1993,Oral Roberts University,false,"Palos Verdes in Palos Verdes Estates, California",-2.05,0.27,acresma01,1987-88,BOS,9.3,2.2,.090,-1.0,0.3,,NBA,75000,25,79,14.6,.532,.640,3.4,0.5,0.4,0.3,3.6,BOS
+Mark Acres,/players/a/acresma01.html,1988,1993,Oral Roberts University,false,"Palos Verdes in Palos Verdes Estates, California",-2.31,0.01,acresma01,1988-89,BOS,8.2,0.9,.066,-2.5,-0.1,,NBA,300000,26,62,10.2,.482,.542,2.4,0.3,0.3,0.1,2.2,BOS
+Mark Acres,/players/a/acresma01.html,1988,1993,Oral Roberts University,false,"Palos Verdes in Palos Verdes Estates, California",-3.04,-0.77,acresma01,1989-90,ORL,8.3,1.6,.047,-2.0,0.0,,NBA,,27,80,21.1,.484,.692,5.4,0.8,0.5,0.3,4.5,ORL
+Mark Acres,/players/a/acresma01.html,1988,1993,Oral Roberts University,false,"Palos Verdes in Palos Verdes Estates, California",-2.05,0.21,acresma01,1990-91,ORL,9.2,2.5,.090,-1.8,0.1,,NBA,437000,28,68,19.3,.509,.653,5.3,0.4,0.4,0.4,4.2,ORL
+Mark Acres,/players/a/acresma01.html,1988,1993,Oral Roberts University,false,"Palos Verdes in Palos Verdes Estates, California",-2.02,0.15,acresma01,1991-92,ORL,10.1,1.9,.097,-2.2,-0.1,,NBA,547000,29,68,13.6,.517,.761,3.7,0.3,0.4,0.2,3.1,ORL
+Mark Acres,/players/a/acresma01.html,1988,1993,Oral Roberts University,false,"Palos Verdes in Palos Verdes Estates, California",-2.11,0.03,acresma01,1992-93,TOT,8.9,0.3,.056,-4.9,-0.2,,NBA,250000,30,18,14.9,.531,.688,3.7,0.3,0.2,0.3,3.6,"HOU,WSB"

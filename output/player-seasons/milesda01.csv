@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-milesda01,2000-01,19,Los Angeles Clippers,NBA,81,26.3,.505,.521,5.9,1.2,0.6,1.5,9.4,14.7,3.0,.068,-0.1,1.0,,2841720,"East St. Louis in East St. Louis, Illinois"
-milesda01,2001-02,20,Los Angeles Clippers,NBA,82,27.2,.481,.620,5.5,2.2,0.9,1.3,9.5,14.4,3.4,.074,0.5,1.4,,3054840,"East St. Louis in East St. Louis, Illinois"
-milesda01,2002-03,21,Cleveland Cavaliers,NBA,67,30.0,.410,.594,5.4,2.6,1.0,1.0,9.2,9.7,-1.3,-0.032,-3.6,-0.8,,3267960,"East St. Louis in East St. Louis, Illinois"
-milesda01,2003-04,22,Cleveland Cavaliers,NBA,79,26.3,.485,.642,4.5,2.1,0.8,0.8,10.9,16.1,3.6,.083,-0.3,0.9,,4130701,"East St. Louis in East St. Louis, Illinois"
-milesda01,2003-04,22,Cleveland Cavaliers,NBA,37,24.0,.432,.542,4.5,2.2,0.7,0.7,8.9,12.7,0.6,.032,-1.8,0.0,,4130701,"East St. Louis in East St. Louis, Illinois"
-milesda01,2003-04,22,Cleveland Cavaliers,NBA,42,28.4,.526,.702,4.6,2.0,1.0,0.8,12.6,18.6,3.0,.121,0.9,0.9,,4130701,"East St. Louis in East St. Louis, Illinois"
-milesda01,2004-05,23,Portland Trail Blazers,NBA,63,27.0,.482,.600,4.7,2.0,1.2,1.2,12.8,15.5,1.3,.036,-1.1,0.4,,6750000,"East St. Louis in East St. Louis, Illinois"
-milesda01,2005-06,24,Portland Trail Blazers,NBA,40,32.2,.461,.534,4.6,1.8,1.1,1.0,14.0,12.5,-1.0,-0.037,-4.2,-0.7,,7250000,"East St. Louis in East St. Louis, Illinois"
-milesda01,2006-07,25,Portland Trail Blazers,NBA,,,,,,,,,,,,,,,,7750000,"East St. Louis in East St. Louis, Illinois"
-milesda01,2007-08,26,Portland Trail Blazers,NBA,,,,,,,,,,,,,,,,8250000,"East St. Louis in East St. Louis, Illinois"
-milesda01,2008-09,27,Portland Trail Blazers,NBA,34,8.8,.485,.742,1.7,0.5,0.3,0.6,3.5,16.1,0.5,.077,-1.2,0.1,,9000000,"East St. Louis in East St. Louis, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",+1.01,4.84,milesda01,2000-01,LAC,14.7,3.0,.068,-0.1,1.0,,NBA,2841720,19,81,26.3,.505,.521,5.9,1.2,0.6,1.5,9.4,LAC
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",+0.06,3.52,milesda01,2001-02,LAC,14.4,3.4,.074,0.5,1.4,,NBA,3054840,20,82,27.2,.481,.620,5.5,2.2,0.9,1.3,9.5,LAC
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",-2.12,0.02,milesda01,2002-03,CLE,9.7,-1.3,-0.032,-3.6,-0.8,,NBA,3267960,21,67,30.0,.410,.594,5.4,2.6,1.0,1.0,9.2,CLE
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",-1.05,1.63,milesda01,2003-04,TOT,16.1,3.6,.083,-0.3,0.9,,NBA,4130701,22,79,26.3,.485,.642,4.5,2.1,0.8,0.8,10.9,"CLE,POR"
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",-0.63,1.87,milesda01,2004-05,POR,15.5,1.3,.036,-1.1,0.4,,NBA,6750000,23,63,27.0,.482,.600,4.7,2.0,1.2,1.2,12.8,POR
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",-2.65,-0.35,milesda01,2005-06,POR,12.5,-1.0,-0.037,-4.2,-0.7,,NBA,7250000,24,40,32.2,.461,.534,4.6,1.8,1.1,1.0,14.0,POR
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",,,milesda01,2006-07,Did Not Play (injury—knee),,,,,,,NBA,7750000,25,,,,,,,,,,Did Not Play (injury—knee)
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",,,milesda01,2007-08,Did Not Play (injury—knee),,,,,,,NBA,8250000,26,,,,,,,,,,Did Not Play (injury—knee)
+Darius Miles,/players/m/milesda01.html,2001,2009,,false,"East St. Louis in East St. Louis, Illinois",-0.68,0.32,milesda01,2008-09,MEM,16.1,0.5,.077,-1.2,0.1,,NBA,9000000,27,34,8.8,.485,.742,1.7,0.5,0.3,0.6,3.5,MEM

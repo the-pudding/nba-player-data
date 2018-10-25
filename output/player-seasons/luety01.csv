@@ -1,18 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-luety01,1998-99,21,Los Angeles Lakers,NBA,15,12.5,.431,.571,0.4,1.7,0.3,0.0,5.0,11.2,0.2,.062,-5.7,-0.2,,287500,"Raytown in Kansas City, Missouri"
-luety01,1999-00,22,Los Angeles Lakers,NBA,8,18.3,.487,.750,1.5,2.1,0.4,0.0,6.0,10.5,0.3,.103,-3.2,0.0,,809280,"Raytown in Kansas City, Missouri"
-luety01,2000-01,23,Los Angeles Lakers,NBA,38,12.3,.427,.792,0.8,1.2,0.5,0.0,3.4,8.7,0.4,.042,-4.4,-0.3,,865800,"Raytown in Kansas City, Missouri"
-luety01,2001-02,24,Washington Wizards,NBA,71,20.5,.427,.762,1.7,3.5,0.7,0.0,7.8,13.7,2.0,.067,-2.0,0.0,,1700000,"Raytown in Kansas City, Missouri"
-luety01,2002-03,25,Washington Wizards,NBA,75,26.5,.433,.875,2.0,3.5,0.6,0.0,8.6,12.9,3.7,.089,-1.9,0.0,,1870000,"Raytown in Kansas City, Missouri"
-luety01,2003-04,26,Orlando Magic,NBA,76,30.7,.433,.771,2.5,4.2,0.8,0.1,10.5,12.6,2.1,.042,-2.7,-0.4,,1500000,"Raytown in Kansas City, Missouri"
-luety01,2004-05,27,Houston Rockets,NBA,70,28.7,.451,.861,2.1,4.6,0.5,0.0,11.2,14.1,3.7,.088,-2.8,-0.4,,1600000,"Raytown in Kansas City, Missouri"
-luety01,2004-05,27,Houston Rockets,NBA,21,22.8,.393,.778,1.9,2.8,0.4,0.0,6.0,7.7,0.5,.049,-3.6,-0.2,,1600000,"Raytown in Kansas City, Missouri"
-luety01,2004-05,27,Houston Rockets,NBA,49,31.2,.464,.871,2.2,5.4,0.5,0.0,13.5,16.2,3.2,.100,-2.6,-0.2,,1600000,"Raytown in Kansas City, Missouri"
-luety01,2005-06,28,Atlanta Hawks,NBA,51,24.2,.459,.855,1.6,3.1,0.5,0.1,11.0,15.5,2.7,.104,-2.8,-0.3,,3500000,"Raytown in Kansas City, Missouri"
-luety01,2006-07,29,Atlanta Hawks,NBA,56,26.6,.416,.883,1.9,3.6,0.4,0.0,11.4,14.1,2.5,.081,-3.2,-0.4,,3500000,"Raytown in Kansas City, Missouri"
-luety01,2007-08,30,Sacramento Kings,NBA,50,14.7,.447,.781,1.1,1.5,0.2,0.0,5.8,11.9,1.2,.080,-3.8,-0.3,,3500000,"Raytown in Kansas City, Missouri"
-luety01,2007-08,30,Sacramento Kings,NBA,33,17.1,.439,.857,1.2,1.8,0.3,0.0,6.8,12.7,1.0,.081,-3.7,-0.2,,3500000,"Raytown in Kansas City, Missouri"
-luety01,2007-08,30,Sacramento Kings,NBA,17,10.1,.474,.250,0.8,0.9,0.0,0.1,3.8,9.2,0.3,.078,-4.2,-0.1,,3500000,"Raytown in Kansas City, Missouri"
-luety01,2008-09,31,Orlando Magic,NBA,44,11.8,.438,.737,1.0,1.4,0.2,0.0,4.2,10.3,0.8,.078,-3.4,-0.2,,2250000,"Raytown in Kansas City, Missouri"
-luety01,2008-09,31,Orlando Magic,NBA,30,13.1,.454,.750,1.2,1.5,0.2,0.0,4.7,10.6,0.6,.073,-3.4,-0.1,,2250000,"Raytown in Kansas City, Missouri"
-luety01,2008-09,31,Orlando Magic,NBA,14,9.2,.395,.667,0.8,1.0,0.1,0.0,3.0,9.4,0.3,.093,-3.6,-0.1,,2250000,"Raytown in Kansas City, Missouri"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-1.24,0.15,luety01,1998-99,LAL,11.2,0.2,.062,-5.7,-0.2,,NBA,287500,21,15,12.5,.431,.571,0.4,1.7,0.3,0.0,5.0,LAL
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-0.47,0.18,luety01,1999-00,LAL,10.5,0.3,.103,-3.2,0.0,,NBA,809280,22,8,18.3,.487,.750,1.5,2.1,0.4,0.0,6.0,LAL
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-3.42,-0.49,luety01,2000-01,LAL,8.7,0.4,.042,-4.4,-0.3,,NBA,865800,23,38,12.3,.427,.792,0.8,1.2,0.5,0.0,3.4,LAL
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-0.67,1.57,luety01,2001-02,WAS,13.7,2.0,.067,-2.0,0.0,,NBA,1700000,24,71,20.5,.427,.762,1.7,3.5,0.7,0.0,7.8,WAS
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-1.50,0.99,luety01,2002-03,WAS,12.9,3.7,.089,-1.9,0.0,,NBA,1870000,25,75,26.5,.433,.875,2.0,3.5,0.6,0.0,8.6,WAS
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-3.18,-1.45,luety01,2003-04,ORL,12.6,2.1,.042,-2.7,-0.4,,NBA,1500000,26,76,30.7,.433,.771,2.5,4.2,0.8,0.1,10.5,ORL
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-4.06,-2.28,luety01,2004-05,TOT,14.1,3.7,.088,-2.8,-0.4,,NBA,1600000,27,70,28.7,.451,.861,2.1,4.6,0.5,0.0,11.2,"HOU,ATL"
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-1.17,0.95,luety01,2005-06,ATL,15.5,2.7,.104,-2.8,-0.3,,NBA,3500000,28,51,24.2,.459,.855,1.6,3.1,0.5,0.1,11.0,ATL
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-3.02,-0.68,luety01,2006-07,ATL,14.1,2.5,.081,-3.2,-0.4,,NBA,3500000,29,56,26.6,.416,.883,1.9,3.6,0.4,0.0,11.4,ATL
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-2.16,0.08,luety01,2007-08,TOT,11.9,1.2,.080,-3.8,-0.3,,NBA,3500000,30,50,14.7,.447,.781,1.1,1.5,0.2,0.0,5.8,"ATL,DAL"
+Tyronn Lue,/players/l/luety01.html,1999,2009,University of Nebraska,false,"Raytown in Kansas City, Missouri",-1.85,0.13,luety01,2008-09,TOT,10.3,0.8,.078,-3.4,-0.2,,NBA,2250000,31,44,11.8,.438,.737,1.0,1.4,0.2,0.0,4.2,"MIL,ORL"

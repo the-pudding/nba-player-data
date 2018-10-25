@@ -1,17 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-barrybr01,1995-96,24,Los Angeles Clippers,NBA,79,24.0,.474,.810,2.1,2.9,1.2,0.3,10.1,15.9,4.9,.124,1.7,1.8,,833000,"De La Salle Catholic in Concord, California"
-barrybr01,1996-97,25,Los Angeles Clippers,NBA,59,18.5,.409,.817,1.9,2.6,0.9,0.3,7.5,15.0,2.1,.090,0.0,0.6,,958000,"De La Salle Catholic in Concord, California"
-barrybr01,1997-98,26,Los Angeles Clippers,NBA,58,27.6,.421,.858,2.9,2.6,1.1,0.5,10.9,14.3,2.7,.080,0.2,0.9,,1082520,"De La Salle Catholic in Concord, California"
-barrybr01,1997-98,26,Los Angeles Clippers,NBA,41,32.7,.428,.844,3.5,3.2,1.2,0.6,13.7,14.9,2.0,.072,0.1,0.7,,1082520,"De La Salle Catholic in Concord, California"
-barrybr01,1997-98,26,Los Angeles Clippers,NBA,17,15.2,.371,1.000,1.6,1.2,0.8,0.2,4.1,11.2,0.7,.125,0.6,0.2,,1082520,"De La Salle Catholic in Concord, California"
-barrybr01,1998-99,27,Chicago Bulls,NBA,37,31.9,.396,.772,3.9,3.1,1.1,0.3,11.1,12.9,1.6,.065,-0.1,0.6,,3600000,"De La Salle Catholic in Concord, California"
-barrybr01,1999-00,28,Seattle SuperSonics,NBA,80,34.1,.463,.809,4.7,3.6,1.3,0.4,11.8,14.6,7.5,.131,2.4,3.0,,3960000,"De La Salle Catholic in Concord, California"
-barrybr01,2000-01,29,Seattle SuperSonics,NBA,67,26.5,.494,.816,3.1,3.4,1.2,0.2,8.8,16.6,5.8,.157,3.2,2.3,,4320000,"De La Salle Catholic in Concord, California"
-barrybr01,2001-02,30,Seattle SuperSonics,NBA,81,37.5,.508,.846,5.4,5.3,1.8,0.5,14.4,19.3,12.1,.191,5.8,6.0,,4680000,"De La Salle Catholic in Concord, California"
-barrybr01,2002-03,31,Seattle SuperSonics,NBA,75,33.1,.458,.795,4.0,5.1,1.5,0.2,10.3,15.8,7.3,.141,2.9,3.0,,5040000,"De La Salle Catholic in Concord, California"
-barrybr01,2003-04,32,Seattle SuperSonics,NBA,59,30.6,.504,.827,3.5,5.8,1.4,0.3,10.8,18.3,5.7,.151,2.9,2.3,,5400000,"De La Salle Catholic in Concord, California"
-barrybr01,2004-05,33,San Antonio Spurs,NBA,81,21.5,.423,.837,2.3,2.2,0.5,0.2,7.4,14.0,6.1,.168,2.0,1.8,,4264900,"De La Salle Catholic in Concord, California"
-barrybr01,2005-06,34,San Antonio Spurs,NBA,74,17.0,.452,.661,2.1,1.7,0.5,0.4,5.8,14.8,4.3,.162,2.7,1.5,,4691390,"De La Salle Catholic in Concord, California"
-barrybr01,2006-07,35,San Antonio Spurs,NBA,75,21.7,.475,.880,2.1,1.8,0.7,0.2,8.5,16.6,6.8,.201,3.9,2.4,,5117880,"De La Salle Catholic in Concord, California"
-barrybr01,2007-08,36,Seattle SuperSonics,NBA,31,17.9,.481,.950,1.8,1.7,0.5,0.1,7.1,16.7,2.3,.203,3.6,0.8,,5544370,"De La Salle Catholic in Concord, California"
-barrybr01,2008-09,37,Houston Rockets,NBA,56,15.3,.407,.950,1.7,1.4,0.4,0.1,3.7,9.2,1.5,.082,-0.5,0.3,,1910000,"De La Salle Catholic in Concord, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+0.40,3.44,barrybr01,1995-96,LAC,15.9,4.9,.124,1.7,1.8,,NBA,833000,24,79,24.0,.474,.810,2.1,2.9,1.2,0.3,10.1,LAC
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",-0.35,1.53,barrybr01,1996-97,LAC,15.0,2.1,.090,0.0,0.6,,NBA,958000,25,59,18.5,.409,.817,1.9,2.6,0.9,0.3,7.5,LAC
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",-0.86,1.52,barrybr01,1997-98,TOT,14.3,2.7,.080,0.2,0.9,,NBA,1082520,26,58,27.6,.421,.858,2.9,2.6,1.1,0.5,10.9,"LAC,MIA"
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",-1.74,0.30,barrybr01,1998-99,CHI,12.9,1.6,.065,-0.1,0.6,,NBA,3600000,27,37,31.9,.396,.772,3.9,3.1,1.1,0.3,11.1,CHI
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+1.03,6.49,barrybr01,1999-00,SEA,14.6,7.5,.131,2.4,3.0,,NBA,3960000,28,80,34.1,.463,.809,4.7,3.6,1.3,0.4,11.8,SEA
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+1.78,4.93,barrybr01,2000-01,SEA,16.6,5.8,.157,3.2,2.3,,NBA,4320000,29,67,26.5,.494,.816,3.1,3.4,1.2,0.2,8.8,SEA
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+1.51,8.18,barrybr01,2001-02,SEA,19.3,12.1,.191,5.8,6.0,,NBA,4680000,30,81,37.5,.508,.846,5.4,5.3,1.8,0.5,14.4,SEA
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+0.85,5.30,barrybr01,2002-03,SEA,15.8,7.3,.141,2.9,3.0,,NBA,5040000,31,75,33.1,.458,.795,4.0,5.1,1.5,0.2,10.3,SEA
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+1.92,5.14,barrybr01,2003-04,SEA,18.3,5.7,.151,2.9,2.3,,NBA,5400000,32,59,30.6,.504,.827,3.5,5.8,1.4,0.3,10.8,SEA
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",-0.43,2.83,barrybr01,2004-05,SAS,14.0,6.1,.168,2.0,1.8,,NBA,4264900,33,81,21.5,.423,.837,2.3,2.2,0.5,0.2,7.4,SAS
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+0.21,2.63,barrybr01,2005-06,SAS,14.8,4.3,.162,2.7,1.5,,NBA,4691390,34,74,17.0,.452,.661,2.1,1.7,0.5,0.4,5.8,SAS
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",-0.10,2.73,barrybr01,2006-07,SAS,16.6,6.8,.201,3.9,2.4,,NBA,5117880,35,75,21.7,.475,.880,2.1,1.8,0.7,0.2,8.5,SAS
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",+0.58,1.51,barrybr01,2007-08,SAS,16.7,2.3,.203,3.6,0.8,,NBA,5544370,36,31,17.9,.481,.950,1.8,1.7,0.5,0.1,7.1,SAS
+Brent Barry,/players/b/barrybr01.html,1996,2009,Oregon State University,false,"De La Salle Catholic in Concord, California",-1.55,0.43,barrybr01,2008-09,HOU,9.2,1.5,.082,-0.5,0.3,,NBA,1910000,37,56,15.3,.407,.950,1.7,1.4,0.4,0.1,3.7,HOU

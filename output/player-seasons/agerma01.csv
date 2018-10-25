@@ -1,8 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-agerma01,2006-07,22,Dallas Mavericks,NBA,32,6.7,.314,.606,0.7,0.2,0.1,0.1,2.2,2.9,-0.3,-0.060,-9.3,-0.4,,906480,"Crocket in Detroit, Michigan"
-agerma01,2007-08,23,New Jersey Nets,NBA,26,6.3,.323,.500,0.5,0.3,0.0,0.0,2.0,1.8,-0.4,-0.114,-11.3,-0.4,,974400,"Crocket in Detroit, Michigan"
-agerma01,2007-08,23,New Jersey Nets,NBA,12,6.4,.185,.833,0.3,0.3,0.0,0.1,1.3,-4.4,-0.3,-0.181,-13.1,-0.2,,974400,"Crocket in Detroit, Michigan"
-agerma01,2007-08,23,New Jersey Nets,NBA,14,6.3,.421,.167,0.6,0.3,0.0,0.0,2.6,7.1,-0.1,-0.056,-9.8,-0.2,,974400,"Crocket in Detroit, Michigan"
-agerma01,2008-09,24,New Jersey Nets,NBA,20,4.9,.349,.500,0.5,0.2,0.1,0.1,1.7,2.2,-0.3,-0.133,-12.8,-0.3,,1042440,"Crocket in Detroit, Michigan"
-agerma01,2009-10,25,"Did Not Play (other pro league—Spain, D-League)",,,,,,,,,,,,,,,,,,"Crocket in Detroit, Michigan"
-agerma01,2010-11,26,Minnesota Timberwolves,NBA,4,7.3,.545,,0.5,0.3,0.3,0.0,3.8,10.1,0.0,-0.015,-6.3,0.0,,83305,"Crocket in Detroit, Michigan"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Maurice Ager,/players/a/agerma01.html,2007,2011,Michigan State University,false,"Crocket in Detroit, Michigan",-3.44,-0.22,agerma01,2006-07,DAL,2.9,-0.3,-0.060,-9.3,-0.4,,NBA,906480,22,32,6.7,.314,.606,0.7,0.2,0.1,0.1,2.2,DAL
+Maurice Ager,/players/a/agerma01.html,2007,2011,Michigan State University,false,"Crocket in Detroit, Michigan",-1.80,0.05,agerma01,2007-08,TOT,1.8,-0.4,-0.114,-11.3,-0.4,,NBA,974400,23,26,6.3,.323,.500,0.5,0.3,0.0,0.0,2.0,"DAL,NJN"
+Maurice Ager,/players/a/agerma01.html,2007,2011,Michigan State University,false,"Crocket in Detroit, Michigan",-0.60,0.11,agerma01,2008-09,NJN,2.2,-0.3,-0.133,-12.8,-0.3,,NBA,1042440,24,20,4.9,.349,.500,0.5,0.2,0.1,0.1,1.7,NJN
+Maurice Ager,/players/a/agerma01.html,2007,2011,Michigan State University,false,"Crocket in Detroit, Michigan",,,agerma01,2009-10,"Did Not Play (other pro league—Spain, D-League)",,,,,,,,,25,,,,,,,,,,"Did Not Play (other pro league—Spain, D-League)"
+Maurice Ager,/players/a/agerma01.html,2007,2011,Michigan State University,false,"Crocket in Detroit, Michigan",-0.23,0.04,agerma01,2010-11,MIN,10.1,0.0,-0.015,-6.3,0.0,,NBA,83305,26,4,7.3,.545,,0.5,0.3,0.3,0.0,3.8,MIN

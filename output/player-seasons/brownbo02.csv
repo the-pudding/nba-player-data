@@ -1,15 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-brownbo02,2008-09,24,Minnesota Timberwolves,NBA,68,13.7,.392,.791,0.8,1.7,0.3,0.0,5.3,8.9,-0.6,-0.029,-7.2,-1.2,,442114,"Westchester in Los Angeles, California"
-brownbo02,2008-09,24,Minnesota Timberwolves,NBA,47,14.4,.381,.765,0.8,1.9,0.3,0.0,5.2,7.7,-0.7,-0.047,-8.1,-1.0,,442114,"Westchester in Los Angeles, California"
-brownbo02,2008-09,24,Minnesota Timberwolves,NBA,21,12.2,.416,.889,0.8,1.4,0.3,0.1,5.5,11.9,0.1,.017,-4.7,-0.2,,442114,"Westchester in Los Angeles, California"
-brownbo02,2009-10,25,Los Angeles Clippers,NBA,45,11.5,.371,.867,0.8,2.0,0.3,0.0,4.8,9.3,-0.5,-0.050,-6.6,-0.6,,736420,"Westchester in Los Angeles, California"
-brownbo02,2009-10,25,Los Angeles Clippers,NBA,22,14.9,.395,1.000,0.8,2.1,0.4,0.0,6.6,10.0,-0.2,-0.026,-6.3,-0.4,,736420,"Westchester in Los Angeles, California"
-brownbo02,2009-10,25,Los Angeles Clippers,NBA,23,8.3,.329,.714,0.9,1.8,0.3,0.0,3.0,8.2,-0.4,-0.092,-7.0,-0.2,,736420,"Westchester in Los Angeles, California"
-brownbo02,2010-11,26,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Westchester in Los Angeles, California"
-brownbo02,2011-12,27,Did Not Play (other pro league),,,,,,,,,,,,,,,,,,"Westchester in Los Angeles, California"
-brownbo02,2012-13,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Westchester in Los Angeles, California"
-brownbo02,2013-14,29,Did Not Play (other pro league),,,,,,,,,,,,,,,,,,"Westchester in Los Angeles, California"
-brownbo02,2014-15,30,Did Not Play (other pro league),,,,,,,,,,,,,,,,,,"Westchester in Los Angeles, California"
-brownbo02,2015-16,31,Did Not Play (other pro league),,,,,,,,,,,,,,,,,,"Westchester in Los Angeles, California"
-brownbo02,2016-17,32,Houston Rockets,NBA,25,4.9,.383,1.000,0.2,0.6,0.0,0.0,2.5,10.8,0.1,.040,-7.6,-0.2,,934293,"Westchester in Los Angeles, California"
-brownbo02,2017-18,33,Houston Rockets,NBA,20,5.8,.328,.500,0.4,0.6,0.2,0.0,2.5,5.5,-0.2,-0.080,-9.3,-0.2,,1230186,"Westchester in Los Angeles, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",-3.81,-0.89,brownbo02,2008-09,TOT,8.9,-0.6,-0.029,-7.2,-1.2,,NBA,442114,24,68,13.7,.392,.791,0.8,1.7,0.3,0.0,5.3,"SAC,MIN"
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",-2.92,-0.21,brownbo02,2009-10,TOT,9.3,-0.5,-0.050,-6.6,-0.6,,NBA,736420,25,45,11.5,.371,.867,0.8,2.0,0.3,0.0,4.8,"NOH,LAC"
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",,,brownbo02,2010-11,Did Not Play (other pro league—Greece),,,,,,,,,26,,,,,,,,,,Did Not Play (other pro league—Greece)
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",,,brownbo02,2011-12,Did Not Play (other pro league),,,,,,,,,27,,,,,,,,,,Did Not Play (other pro league)
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",,,brownbo02,2012-13,Did Not Play (other pro league—Italy),,,,,,,,,28,,,,,,,,,,Did Not Play (other pro league—Italy)
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",,,brownbo02,2013-14,Did Not Play (other pro league),,,,,,,,,29,,,,,,,,,,Did Not Play (other pro league)
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",,,brownbo02,2014-15,Did Not Play (other pro league),,,,,,,,,30,,,,,,,,,,Did Not Play (other pro league)
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",,,brownbo02,2015-16,Did Not Play (other pro league),,,,,,,,,31,,,,,,,,,,Did Not Play (other pro league)
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",-2.38,0.00,brownbo02,2016-17,HOU,10.8,0.1,.040,-7.6,-0.2,,NBA,934293,32,25,4.9,.383,1.000,0.2,0.6,0.0,0.0,2.5,HOU
+Bobby Brown,/players/b/brownbo02.html,2009,2018,"California State University, Fullerton",true,"Westchester in Los Angeles, California",-1.73,0.04,brownbo02,2017-18,HOU,5.5,-0.2,-0.080,-9.3,-0.2,,NBA,1230186,33,20,5.8,.328,.500,0.4,0.6,0.2,0.0,2.5,HOU

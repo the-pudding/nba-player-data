@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-johnsna01,1989-90,23,"UTA,POR",NBA,21,4.1,.375,.692,1.1,0.0,0.1,0.4,2.2,14.1,0.1,.050,-6.3,-0.1,,"Belle Glade in Belle Glade, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Nate Johnston,/players/j/johnsna01.html,1990,1990,University of Tampa,false,"Belle Glade in Belle Glade, Florida",-0.03,0.16,johnsna01,1989-90,TOT,14.1,0.1,.050,-6.3,-0.1,,23,NBA,21,4.1,.375,.692,1.1,0.0,0.1,0.4,2.2,"UTA,POR"

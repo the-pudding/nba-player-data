@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-jonesch02,1984-85,23,PHO,NBA,78,20.1,.520,.648,5.1,1.6,0.6,0.8,8.4,14.4,2.9,.089,0.0,0.8,,"East Kemper in Scooba, Mississippi",
-jonesch02,1985-86,24,Phoenix Suns,NBA,43,17.3,.457,.510,4.5,1.2,0.7,0.6,4.7,10.0,0.6,.042,-1.3,0.1,,"East Kemper in Scooba, Mississippi",150000
-jonesch02,1986-87,25,Did Not Play,,,,,,,,,,,,,,,,,"East Kemper in Scooba, Mississippi",
-jonesch02,1987-88,26,Portland Trail Blazers,NBA,37,5.0,.400,.576,0.8,0.2,0.1,0.2,1.4,5.9,0.1,.017,-5.7,-0.2,,"East Kemper in Scooba, Mississippi",200520
-jonesch02,1988-89,27,Washington Bullets,NBA,43,12.0,.463,.623,3.3,0.4,0.4,0.4,2.6,10.7,0.9,.086,-1.4,0.1,,"East Kemper in Scooba, Mississippi",300000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Charles Jones,/players/j/jonesch02.html,1985,1989,University of Louisville,false,"East Kemper in Scooba, Mississippi",,,jonesch02,1984-85,PHO,14.4,2.9,.089,0.0,0.8,,23,NBA,78,20.1,.520,.648,5.1,1.6,0.6,0.8,8.4,PHO,
+Charles Jones,/players/j/jonesch02.html,1985,1989,University of Louisville,false,"East Kemper in Scooba, Mississippi",,,jonesch02,1985-86,PHO,10.0,0.6,.042,-1.3,0.1,,24,NBA,43,17.3,.457,.510,4.5,1.2,0.7,0.6,4.7,PHO,150000
+Charles Jones,/players/j/jonesch02.html,1985,1989,University of Louisville,false,"East Kemper in Scooba, Mississippi",,,jonesch02,1986-87,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play,
+Charles Jones,/players/j/jonesch02.html,1985,1989,University of Louisville,false,"East Kemper in Scooba, Mississippi",,,jonesch02,1987-88,POR,5.9,0.1,.017,-5.7,-0.2,,26,NBA,37,5.0,.400,.576,0.8,0.2,0.1,0.2,1.4,POR,200520
+Charles Jones,/players/j/jonesch02.html,1985,1989,University of Louisville,false,"East Kemper in Scooba, Mississippi",-0.65,1.83,jonesch02,1988-89,WSB,10.7,0.9,.086,-1.4,0.1,,27,NBA,43,12.0,.463,.623,3.3,0.4,0.4,0.4,2.6,WSB,300000

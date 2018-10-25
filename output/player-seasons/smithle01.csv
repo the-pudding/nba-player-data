@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-smithle01,2001-02,21,Dallas Mavericks,NBA,14,7.1,.385,.647,2.2,0.2,0.4,0.1,2.2,14.0,0.2,.109,-4.0,-0.1,,517360,"Martin Luther King in Chicago, Illinois"
-smithle01,2002-03,22,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Martin Luther King in Chicago, Illinois"
-smithle01,2003-04,23,SEA,NBA,1,4.0,.500,,2.0,0.0,0.0,0.0,2.0,21.7,0.0,.201,-12.8,0.0,,,"Martin Luther King in Chicago, Illinois"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Leon Smith,/players/s/smithle01.html,2002,2004,,false,"Martin Luther King in Chicago, Illinois",+0.17,0.17,smithle01,2001-02,ATL,14.0,0.2,.109,-4.0,-0.1,,NBA,517360,21,14,7.1,.385,.647,2.2,0.2,0.4,0.1,2.2,ATL
+Leon Smith,/players/s/smithle01.html,2002,2004,,false,"Martin Luther King in Chicago, Illinois",,,smithle01,2002-03,Did Not Play (other pro league—CBA),,,,,,,,,22,,,,,,,,,,Did Not Play (other pro league—CBA)
+Leon Smith,/players/s/smithle01.html,2002,2004,,false,"Martin Luther King in Chicago, Illinois",-0.09,0.01,smithle01,2003-04,SEA,21.7,0.0,.201,-12.8,0.0,,NBA,,23,1,4.0,.500,,2.0,0.0,0.0,0.0,2.0,SEA

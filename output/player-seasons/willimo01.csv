@@ -1,12 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-willimo01,1994-95,23,New York Knicks,NBA,41,12.3,.451,.447,2.4,1.2,0.5,0.1,3.3,8.4,0.3,.032,-2.3,0.0,,650000,"Potomac in Oxon Hill, Maryland"
-willimo01,1995-96,24,New York Knicks,NBA,31,5.9,.397,.700,1.3,0.3,0.2,0.1,2.2,8.4,-0.1,-0.018,-6.8,-0.2,,845000,"Potomac in Oxon Hill, Maryland"
-willimo01,1995-96,24,New York Knicks,NBA,14,4.4,.318,.625,1.2,0.3,0.1,0.0,1.4,7.9,0.0,-0.025,-6.9,-0.1,,845000,"Potomac in Oxon Hill, Maryland"
-willimo01,1995-96,24,New York Knicks,NBA,17,7.2,.435,.750,1.4,0.2,0.2,0.1,2.9,8.7,0.0,-0.014,-6.7,-0.1,,845000,"Potomac in Oxon Hill, Maryland"
-willimo01,1996-97,25,San Antonio Spurs,NBA,65,20.7,.509,.645,3.2,1.4,0.8,0.8,9.0,15.6,1.2,.042,-1.0,0.3,,1040000,"Potomac in Oxon Hill, Maryland"
-willimo01,1997-98,26,San Antonio Spurs,NBA,72,18.3,.448,.670,2.5,1.2,0.5,0.3,6.3,11.3,2.3,.086,-1.8,0.1,,1235000,"Potomac in Oxon Hill, Maryland"
-willimo01,1998-99,27,DEN,NBA,1,6.0,.000,.500,0.0,0.0,0.0,0.0,1.0,-7.6,0.0,-0.341,-21.7,0.0,,,"Potomac in Oxon Hill, Maryland"
-willimo01,1999-00,28,Orlando Magic,NBA,75,20.0,.489,.741,3.3,1.4,0.6,0.2,8.7,13.8,3.1,.099,-0.6,0.5,,510000,"Potomac in Oxon Hill, Maryland"
-willimo01,2000-01,29,Orlando Magic,NBA,82,14.8,.445,.639,3.0,1.0,0.4,0.2,5.0,11.0,1.3,.051,-3.9,-0.6,,1000000,"Potomac in Oxon Hill, Maryland"
-willimo01,2001-02,30,Orlando Magic,NBA,68,18.9,.547,.657,3.5,1.4,0.7,0.3,7.1,14.7,2.9,.107,-0.7,0.4,,778350,"Potomac in Oxon Hill, Maryland"
-willimo01,2002-03,31,Philadelphia 76ers,NBA,21,13.1,.425,.750,2.1,1.2,0.6,0.2,4.4,12.5,0.5,.080,-2.0,0.0,,887435,"Potomac in Oxon Hill, Maryland"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-2.24,-0.01,willimo01,1994-95,NYK,8.4,0.3,.032,-2.3,0.0,,NBA,650000,23,41,12.3,.451,.447,2.4,1.2,0.5,0.1,3.3,NYK
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-2.14,0.01,willimo01,1995-96,TOT,8.4,-0.1,-0.018,-6.8,-0.2,,NBA,845000,24,31,5.9,.397,.700,1.3,0.3,0.2,0.1,2.2,"NYK,SAS"
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-1.98,0.28,willimo01,1996-97,SAS,15.6,1.2,.042,-1.0,0.3,,NBA,1040000,25,65,20.7,.509,.645,3.2,1.4,0.8,0.8,9.0,SAS
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-1.63,0.50,willimo01,1997-98,SAS,11.3,2.3,.086,-1.8,0.1,,NBA,1235000,26,72,18.3,.448,.670,2.5,1.2,0.5,0.3,6.3,SAS
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-0.33,0.01,willimo01,1998-99,DEN,-7.6,0.0,-0.341,-21.7,0.0,,NBA,,27,1,6.0,.000,.500,0.0,0.0,0.0,0.0,1.0,DEN
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-1.23,1.00,willimo01,1999-00,ORL,13.8,3.1,.099,-0.6,0.5,,NBA,510000,28,75,20.0,.489,.741,3.3,1.4,0.6,0.2,8.7,ORL
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-4.44,-1.98,willimo01,2000-01,ORL,11.0,1.3,.051,-3.9,-0.6,,NBA,1000000,29,82,14.8,.445,.639,3.0,1.0,0.4,0.2,5.0,ORL
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-2.98,-0.71,willimo01,2001-02,ORL,14.7,2.9,.107,-0.7,0.4,,NBA,778350,30,68,18.9,.547,.657,3.5,1.4,0.7,0.3,7.1,ORL
+Monty Williams,/players/w/willimo01.html,1995,2003,University of Notre Dame,false,"Potomac in Oxon Hill, Maryland",-1.52,0.18,willimo01,2002-03,PHI,12.5,0.5,.080,-2.0,0.0,,NBA,887435,31,21,13.1,.425,.750,2.1,1.2,0.6,0.2,4.4,PHI

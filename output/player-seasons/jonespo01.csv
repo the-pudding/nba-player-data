@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-jonespo01,1993-94,23,Dallas Mavericks,NBA,81,21.9,.479,.729,7.5,1.2,0.8,0.4,5.8,14.1,3.6,.098,0.3,1.0,,275000,"Dresden in Dresden, Tennessee"
-jonespo01,1994-95,24,Dallas Mavericks,NBA,80,29.8,.443,.645,10.6,2.0,0.4,0.3,10.3,13.8,3.6,.073,-1.2,0.5,,769000,"Dresden in Dresden, Tennessee"
-jonespo01,1995-96,25,Dallas Mavericks,NBA,68,34.1,.446,.767,10.8,1.9,0.8,0.4,11.3,13.4,3.7,.076,-1.8,0.1,,1425000,"Dresden in Dresden, Tennessee"
-jonespo01,1996-97,26,Toronto Raptors,NBA,79,30.6,.480,.818,8.6,1.1,0.7,0.5,7.8,12.0,4.2,.083,-1.5,0.3,,1581000,"Dresden in Dresden, Tennessee"
-jonespo01,1997-98,27,Toronto Raptors,NBA,14,25.1,.409,.737,7.3,1.3,0.7,0.2,8.6,13.4,0.3,.038,-4.1,-0.2,,1886538,"Dresden in Dresden, Tennessee"
-jonespo01,1998-99,28,Boston Celtics,NBA,18,11.4,.392,.824,2.9,0.8,0.3,0.0,3.0,12.4,0.5,.113,-1.5,0.0,,2381000,"Dresden in Dresden, Tennessee"
-jonespo01,1999-00,29,Denver Nuggets,NBA,40,8.3,.423,.737,2.6,0.5,0.1,0.2,2.6,12.4,0.6,.082,-3.5,-0.1,,2531250,"Dresden in Dresden, Tennessee"
-jonespo01,2000-01,30,Washington Wizards,NBA,45,14.2,.392,.745,4.9,0.7,0.4,0.2,3.6,13.1,1.2,.094,-1.6,0.1,,2812500,"Dresden in Dresden, Tennessee"
-jonespo01,2001-02,31,Washington Wizards,NBA,79,24.3,.437,.815,7.3,1.6,0.6,0.2,7.0,14.4,4.3,.107,0.8,1.3,,1500000,"Dresden in Dresden, Tennessee"
-jonespo01,2002-03,32,Dallas Mavericks,NBA,26,8.5,.387,.455,2.3,0.3,0.2,0.0,2.0,7.0,0.0,.005,-5.6,-0.2,,1030000,"Dresden in Dresden, Tennessee"
-jonespo01,2003-04,33,Golden State Warriors,NBA,5,2.0,.000,,0.2,0.0,0.0,0.0,0.0,-7.8,0.0,-0.169,-13.0,0.0,,1070000,"Dresden in Dresden, Tennessee"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-1.92,0.38,jonespo01,1993-94,DAL,14.1,3.6,.098,0.3,1.0,,NBA,275000,23,81,21.9,.479,.729,7.5,1.2,0.8,0.4,5.8,DAL
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-1.53,1.25,jonespo01,1994-95,DAL,13.8,3.6,.073,-1.2,0.5,,NBA,769000,24,80,29.8,.443,.645,10.6,2.0,0.4,0.3,10.3,DAL
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-1.75,0.86,jonespo01,1995-96,DAL,13.4,3.7,.076,-1.8,0.1,,NBA,1425000,25,68,34.1,.446,.767,10.8,1.9,0.8,0.4,11.3,DAL
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-2.40,-0.23,jonespo01,1996-97,TOR,12.0,4.2,.083,-1.5,0.3,,NBA,1581000,26,79,30.6,.480,.818,8.6,1.1,0.7,0.5,7.8,TOR
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-3.34,-0.26,jonespo01,1997-98,TOR,13.4,0.3,.038,-4.1,-0.2,,NBA,1886538,27,14,25.1,.409,.737,7.3,1.3,0.7,0.2,8.6,TOR
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-0.88,0.19,jonespo01,1998-99,BOS,12.4,0.5,.113,-1.5,0.0,,NBA,2381000,28,18,11.4,.392,.824,2.9,0.8,0.3,0.0,3.0,BOS
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-2.33,-0.03,jonespo01,1999-00,DEN,12.4,0.6,.082,-3.5,-0.1,,NBA,2531250,29,40,8.3,.423,.737,2.6,0.5,0.1,0.2,2.6,DEN
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",+0.04,1.01,jonespo01,2000-01,WAS,13.1,1.2,.094,-1.6,0.1,,NBA,2812500,30,45,14.2,.392,.745,4.9,0.7,0.4,0.2,3.6,WAS
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",+0.94,4.19,jonespo01,2001-02,WAS,14.4,4.3,.107,0.8,1.3,,NBA,1500000,31,79,24.3,.437,.815,7.3,1.6,0.6,0.2,7.0,WAS
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",-3.42,-0.19,jonespo01,2002-03,DAL,7.0,0.0,.005,-5.6,-0.2,,NBA,1030000,32,26,8.5,.387,.455,2.3,0.3,0.2,0.0,2.0,DAL
+Popeye Jones,/players/j/jonespo01.html,1994,2004,Murray State University,false,"Dresden in Dresden, Tennessee",+0.34,0.02,jonespo01,2003-04,GSW,-7.8,0.0,-0.169,-13.0,0.0,,NBA,1070000,33,5,2.0,.000,,0.2,0.0,0.0,0.0,0.0,GSW

@@ -1,9 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-knighbr03,2011-12,20,Detroit Pistons,NBA,66,32.3,.415,.759,3.2,3.8,0.7,0.2,12.8,11.7,1.3,.029,-1.9,0.0,,2563320,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2012-13,21,Detroit Pistons,NBA,75,31.5,.407,.733,3.3,4.0,0.8,0.1,13.3,12.0,1.1,.022,-2.1,-0.1,,2755560,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2013-14,22,Milwaukee Bucks,NBA,72,33.3,.422,.802,3.5,4.9,1.0,0.2,17.9,16.5,2.8,.055,-0.9,0.7,,2793960,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2014-15,23,Phoenix Suns,NBA,63,32.3,.422,.874,3.9,5.2,1.4,0.2,17.0,17.1,4.5,.106,1.1,1.6,,3553917,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2014-15,23,Phoenix Suns,NBA,52,32.5,.435,.881,4.3,5.4,1.6,0.2,17.8,18.5,4.4,.124,2.2,1.8,,3553917,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2014-15,23,Phoenix Suns,NBA,11,31.5,.357,.828,2.1,4.5,0.5,0.1,13.4,10.5,0.1,.016,-4.5,-0.2,,3553917,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2015-16,24,Phoenix Suns,NBA,52,36.0,.415,.852,3.9,5.1,1.2,0.4,19.6,14.7,1.7,.043,-0.3,0.8,,12000000,"Pine Crest School in Fort Lauderdale, Florida"
-knighbr03,2016-17,25,Phoenix Suns,NBA,54,21.1,.398,.857,2.2,2.4,0.5,0.1,11.0,12.4,0.3,.015,-4.5,-0.7,,12606250,"Pine Crest School in Fort Lauderdale, Florida"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Brandon Knight,/players/k/knighbr03.html,2012,2017,University of Kentucky,true,"Pine Crest School in Fort Lauderdale, Florida",-2.65,-0.64,knighbr03,2011-12,DET,11.7,1.3,.029,-1.9,0.0,,NBA,2563320,20,66,32.3,.415,.759,3.2,3.8,0.7,0.2,12.8,DET
+Brandon Knight,/players/k/knighbr03.html,2012,2017,University of Kentucky,true,"Pine Crest School in Fort Lauderdale, Florida",-0.86,2.22,knighbr03,2012-13,DET,12.0,1.1,.022,-2.1,-0.1,,NBA,2755560,21,75,31.5,.407,.733,3.3,4.0,0.8,0.1,13.3,DET
+Brandon Knight,/players/k/knighbr03.html,2012,2017,University of Kentucky,true,"Pine Crest School in Fort Lauderdale, Florida",-1.76,0.86,knighbr03,2013-14,MIL,16.5,2.8,.055,-0.9,0.7,,NBA,2793960,22,72,33.3,.422,.802,3.5,4.9,1.0,0.2,17.9,MIL
+Brandon Knight,/players/k/knighbr03.html,2012,2017,University of Kentucky,true,"Pine Crest School in Fort Lauderdale, Florida",-0.61,2.27,knighbr03,2014-15,TOT,17.1,4.5,.106,1.1,1.6,,NBA,3553917,23,63,32.3,.422,.874,3.9,5.2,1.4,0.2,17.0,"MIL,PHO"
+Brandon Knight,/players/k/knighbr03.html,2012,2017,University of Kentucky,true,"Pine Crest School in Fort Lauderdale, Florida",-0.95,1.66,knighbr03,2015-16,PHO,14.7,1.7,.043,-0.3,0.8,,NBA,12000000,24,52,36.0,.415,.852,3.9,5.1,1.2,0.4,19.6,PHO
+Brandon Knight,/players/k/knighbr03.html,2012,2017,University of Kentucky,true,"Pine Crest School in Fort Lauderdale, Florida",-3.72,-1.06,knighbr03,2016-17,PHO,12.4,0.3,.015,-4.5,-0.7,,NBA,12606250,25,54,21.1,.398,.857,2.2,2.4,0.5,0.1,11.0,PHO

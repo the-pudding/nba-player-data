@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-hollies01,1978-79,23,DET,NBA,25,6.2,.400,.750,1.8,0.2,0.4,0.0,2.8,11.8,0.1,.022,-4.6,-0.1,,
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Essie Hollis,/players/h/hollies01.html,1979,1979,St. Bonaventure University,false,,-0.34,0.20,hollies01,1978-79,DET,11.8,0.1,.022,-4.6,-0.1,,23,NBA,25,6.2,.400,.750,1.8,0.2,0.4,0.0,2.8,DET

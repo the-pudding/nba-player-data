@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-smithla01,1980-81,23,GSW,NBA,82,31.4,.512,.588,12.1,1.1,0.9,0.8,9.6,14.8,6.1,.113,1.4,2.2,,"Simmons in Hollandale, Mississippi",
-smithla01,1981-82,24,GSW,NBA,74,29.9,.534,.553,11.0,1.1,0.9,0.7,7.1,12.8,5.2,.113,1.4,1.9,,"Simmons in Hollandale, Mississippi",
-smithla01,1982-83,25,GSW,NBA,49,29.2,.588,.535,9.9,0.9,0.7,0.4,8.4,13.2,3.1,.102,0.4,0.9,,"Simmons in Hollandale, Mississippi",
-smithla01,1983-84,26,GSW,NBA,75,27.9,.560,.560,9.0,1.0,0.8,0.3,7.8,12.1,4.0,.091,-0.6,0.7,,"Simmons in Hollandale, Mississippi",
-smithla01,1984-85,27,Golden State Warriors,NBA,80,31.2,.530,.605,10.9,1.2,1.0,0.7,11.1,15.1,4.7,.090,0.5,1.6,,"Simmons in Hollandale, Mississippi",300000
-smithla01,1985-86,28,Golden State Warriors,NBA,77,31.7,.536,.493,11.1,1.2,0.8,0.6,9.6,13.4,4.3,.085,0.8,1.7,,"Simmons in Hollandale, Mississippi",525000
-smithla01,1986-87,29,GSW,NBA,80,29.7,.546,.574,11.5,1.2,0.9,0.7,8.8,14.2,5.4,.109,1.3,2.0,,"Simmons in Hollandale, Mississippi",
-smithla01,1987-88,30,Golden State Warriors,NBA,20,25.0,.472,.407,9.1,1.3,0.6,0.6,6.4,10.8,0.3,.025,-2.4,-0.1,,"Simmons in Hollandale, Mississippi",600000
-smithla01,1988-89,31,Golden State Warriors,NBA,80,23.7,.552,.310,8.2,1.5,0.8,0.7,5.7,11.9,3.7,.094,0.6,1.2,,"Simmons in Hollandale, Mississippi",625000
-smithla01,1989-90,32,HOU,NBA,74,17.6,.474,.364,6.1,0.9,0.8,0.4,3.0,9.8,2.6,.095,0.3,0.8,,"Simmons in Hollandale, Mississippi",
-smithla01,1990-91,33,Houston Rockets,NBA,81,23.7,.487,.240,8.8,1.1,1.0,0.3,3.3,10.3,4.4,.109,1.6,1.8,,"Simmons in Hollandale, Mississippi",800000
-smithla01,1991-92,34,Houston Rockets,NBA,45,17.8,.543,.364,5.7,0.7,0.5,0.2,2.3,8.1,1.2,.069,-1.4,0.1,,"Simmons in Hollandale, Mississippi",997000
-smithla01,1992-93,35,San Antonio Spurs,NBA,66,12.6,.437,.409,4.1,0.4,0.3,0.2,1.3,7.1,1.2,.069,-1.1,0.2,,"Simmons in Hollandale, Mississippi",500000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",+0.18,4.29,smithla01,1980-81,GSW,14.8,6.1,.113,1.4,2.2,,23,NBA,82,31.4,.512,.588,12.1,1.1,0.9,0.8,9.6,GSW,
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",+0.17,3.67,smithla01,1981-82,GSW,12.8,5.2,.113,1.4,1.9,,24,NBA,74,29.9,.534,.553,11.0,1.1,0.9,0.7,7.1,GSW,
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.53,0.70,smithla01,1982-83,GSW,13.2,3.1,.102,0.4,0.9,,25,NBA,49,29.2,.588,.535,9.9,0.9,0.7,0.4,8.4,GSW,
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.63,0.91,smithla01,1983-84,GSW,12.1,4.0,.091,-0.6,0.7,,26,NBA,75,27.9,.560,.560,9.0,1.0,0.8,0.3,7.8,GSW,
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.18,1.90,smithla01,1984-85,GSW,15.1,4.7,.090,0.5,1.6,,27,NBA,80,31.2,.530,.605,10.9,1.2,1.0,0.7,11.1,GSW,300000
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.26,1.73,smithla01,1985-86,GSW,13.4,4.3,.085,0.8,1.7,,28,NBA,77,31.7,.536,.493,11.1,1.2,0.8,0.6,9.6,GSW,525000
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-0.10,4.00,smithla01,1986-87,GSW,14.2,5.4,.109,1.3,2.0,,29,NBA,80,29.7,.546,.574,11.5,1.2,0.9,0.7,8.8,GSW,
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-2.68,-0.13,smithla01,1987-88,GSW,10.8,0.3,.025,-2.4,-0.1,,30,NBA,20,25.0,.472,.407,9.1,1.3,0.6,0.6,6.4,GSW,600000
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.10,1.62,smithla01,1988-89,GSW,11.9,3.7,.094,0.6,1.2,,31,NBA,80,23.7,.552,.310,8.2,1.5,0.8,0.7,5.7,GSW,625000
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.70,0.47,smithla01,1989-90,HOU,9.8,2.6,.095,0.3,0.8,,32,NBA,74,17.6,.474,.364,6.1,0.9,0.8,0.4,3.0,HOU,
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-1.16,1.46,smithla01,1990-91,HOU,10.3,4.4,.109,1.6,1.8,,33,NBA,81,23.7,.487,.240,8.8,1.1,1.0,0.3,3.3,HOU,800000
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-3.18,-0.49,smithla01,1991-92,HOU,8.1,1.2,.069,-1.4,0.1,,34,NBA,45,17.8,.543,.364,5.7,0.7,0.5,0.2,2.3,HOU,997000
+Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false,"Simmons in Hollandale, Mississippi",-2.28,0.00,smithla01,1992-93,SAS,7.1,1.2,.069,-1.1,0.2,,35,NBA,66,12.6,.437,.409,4.1,0.4,0.3,0.2,1.3,SAS,500000

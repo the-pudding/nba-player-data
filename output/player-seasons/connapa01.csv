@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-connapa01,2015-16,23,Portland Trail Blazers,NBA,34,4.2,.265,1.000,0.9,0.3,0.1,0.0,1.1,4.6,-0.2,-0.076,-8.2,-0.2,,525093,"St. John's Prep in Danvers, Massachusetts"
-connapa01,2016-17,24,Portland Trail Blazers,NBA,39,8.1,.514,.778,1.3,0.7,0.2,0.1,2.5,11.8,0.6,.090,-2.5,0.0,,874636,"St. John's Prep in Danvers, Massachusetts"
-connapa01,2017-18,25,Portland Trail Blazers,NBA,82,18.1,.423,.841,2.0,1.1,0.3,0.3,5.4,9.3,2.5,.080,-1.3,0.3,,1471382,"St. John's Prep in Danvers, Massachusetts"
-connapa01,2018-19,26,MIL,NBA,1,4.0,.000,,0.0,1.0,0.0,0.0,0.0,-11.1,0.0,-0.320,-23.9,0.0,,,"St. John's Prep in Danvers, Massachusetts"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Pat Connaughton,/players/c/connapa01.html,2016,2019,University of Notre Dame,true,"St. John's Prep in Danvers, Massachusetts",-1.45,0.08,connapa01,2015-16,POR,4.6,-0.2,-0.076,-8.2,-0.2,,NBA,525093,23,34,4.2,.265,1.000,0.9,0.3,0.1,0.0,1.1,POR
+Pat Connaughton,/players/c/connapa01.html,2016,2019,University of Notre Dame,true,"St. John's Prep in Danvers, Massachusetts",-1.64,0.15,connapa01,2016-17,POR,11.8,0.6,.090,-2.5,0.0,,NBA,874636,24,39,8.1,.514,.778,1.3,0.7,0.2,0.1,2.5,POR
+Pat Connaughton,/players/c/connapa01.html,2016,2019,University of Notre Dame,true,"St. John's Prep in Danvers, Massachusetts",-1.34,1.00,connapa01,2017-18,POR,9.3,2.5,.080,-1.3,0.3,,NBA,1471382,25,82,18.1,.423,.841,2.0,1.1,0.3,0.3,5.4,POR
+Pat Connaughton,/players/c/connapa01.html,2016,2019,University of Notre Dame,true,"St. John's Prep in Danvers, Massachusetts",,,connapa01,2018-19,MIL,-11.1,0.0,-0.320,-23.9,0.0,,NBA,,26,1,4.0,.000,,0.0,1.0,0.0,0.0,0.0,MIL

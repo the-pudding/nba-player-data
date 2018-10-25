@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-curryde01,1986-87,22,UTA,NBA,67,9.5,.426,.789,1.2,0.9,0.4,0.1,4.9,11.3,0.5,.035,-2.7,-0.1,,"Fort Defiance in Fort Defiance, Virginia",
-curryde01,1987-88,23,Cleveland Cavaliers,NBA,79,19.0,.458,.782,2.1,1.9,1.2,0.3,10.0,15.1,2.0,.064,-1.1,0.3,,"Fort Defiance in Fort Defiance, Virginia",250000
-curryde01,1988-89,24,Charlotte Hornets,NBA,48,16.9,.491,.870,2.2,1.0,0.9,0.1,11.9,18.3,0.9,.052,-1.4,0.1,,"Fort Defiance in Fort Defiance, Virginia",285000
-curryde01,1989-90,25,CHH,NBA,67,27.8,.466,.923,2.5,2.4,1.5,0.4,16.0,15.9,1.8,.048,-0.1,0.9,,"Fort Defiance in Fort Defiance, Virginia",
-curryde01,1990-91,26,Charlotte Hornets,NBA,76,19.9,.471,.842,2.6,2.2,1.0,0.3,10.6,17.0,2.7,.086,0.4,0.9,,"Fort Defiance in Fort Defiance, Virginia",900000
-curryde01,1991-92,27,Charlotte Hornets,NBA,77,26.2,.486,.836,3.4,2.3,1.2,0.3,15.7,16.4,3.2,.077,-0.5,0.8,,"Fort Defiance in Fort Defiance, Virginia",1006000
-curryde01,1992-93,28,Charlotte Hornets,NBA,80,26.2,.452,.866,3.6,2.3,1.1,0.3,15.3,16.0,3.4,.077,-0.8,0.6,,"Fort Defiance in Fort Defiance, Virginia",750000
-curryde01,1993-94,29,Charlotte Hornets,NBA,82,26.5,.455,.873,3.2,2.7,1.2,0.3,16.3,18.5,5.0,.110,1.8,2.1,,"Fort Defiance in Fort Defiance, Virginia",1040000
-curryde01,1994-95,30,Charlotte Hornets,NBA,69,24.9,.441,.856,2.4,1.6,0.8,0.3,13.6,15.5,3.3,.093,0.0,0.9,,"Fort Defiance in Fort Defiance, Virginia",1340000
-curryde01,1995-96,31,Charlotte Hornets,NBA,82,28.9,.453,.854,3.2,2.1,1.3,0.3,14.5,16.8,5.1,.104,1.5,2.1,,"Fort Defiance in Fort Defiance, Virginia",1570000
-curryde01,1996-97,32,Charlotte Hornets,NBA,68,30.6,.459,.803,3.1,1.7,0.9,0.2,14.8,15.0,3.8,.089,-0.7,0.7,,"Fort Defiance in Fort Defiance, Virginia",1830000
-curryde01,1997-98,33,Charlotte Hornets,NBA,52,18.7,.447,.788,1.9,1.3,0.6,0.1,9.4,15.1,1.7,.085,-1.5,0.1,,"Fort Defiance in Fort Defiance, Virginia",3660000
-curryde01,1998-99,34,Milwaukee Bucks,NBA,42,20.6,.485,.824,2.0,1.1,0.9,0.1,10.1,18.7,2.6,.144,1.9,0.8,,"Fort Defiance in Fort Defiance, Virginia",1000000
-curryde01,1999-00,35,Toronto Raptors,NBA,67,16.3,.427,.750,1.5,1.3,0.5,0.1,7.6,14.9,2.2,.098,-1.4,0.2,,"Fort Defiance in Fort Defiance, Virginia",2100000
-curryde01,2000-01,36,Toronto Raptors,NBA,71,13.5,.424,.843,1.2,1.1,0.4,0.1,6.0,14.4,2.0,.101,-1.6,0.1,,"Fort Defiance in Fort Defiance, Virginia",2000000
-curryde01,2001-02,37,Toronto Raptors,NBA,56,15.8,.406,.892,1.4,1.1,0.4,0.1,6.4,12.0,1.2,.063,-3.4,-0.3,,"Fort Defiance in Fort Defiance, Virginia",2100000
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-2.37,-0.07,curryde01,1986-87,UTA,11.3,0.5,.035,-2.7,-0.1,,22,NBA,67,9.5,.426,.789,1.2,0.9,0.4,0.1,4.9,UTA,
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-0.58,1.74,curryde01,1987-88,CLE,15.1,2.0,.064,-1.1,0.3,,23,NBA,79,19.0,.458,.782,2.1,1.9,1.2,0.3,10.0,CLE,250000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-1.15,0.62,curryde01,1988-89,CHH,18.3,0.9,.052,-1.4,0.1,,24,NBA,48,16.9,.491,.870,2.2,1.0,0.9,0.1,11.9,CHH,285000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-1.38,1.12,curryde01,1989-90,CHH,15.9,1.8,.048,-0.1,0.9,,25,NBA,67,27.8,.466,.923,2.5,2.4,1.5,0.4,16.0,CHH,
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-0.34,1.99,curryde01,1990-91,CHH,17.0,2.7,.086,0.4,0.9,,26,NBA,76,19.9,.471,.842,2.6,2.2,1.0,0.3,10.6,CHH,900000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-1.19,1.51,curryde01,1991-92,CHH,16.4,3.2,.077,-0.5,0.8,,27,NBA,77,26.2,.486,.836,3.4,2.3,1.2,0.3,15.7,CHH,1006000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-0.86,2.24,curryde01,1992-93,CHH,16.0,3.4,.077,-0.8,0.6,,28,NBA,80,26.2,.452,.866,3.6,2.3,1.1,0.3,15.3,CHH,750000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",+0.54,4.13,curryde01,1993-94,CHH,18.5,5.0,.110,1.8,2.1,,29,NBA,82,26.5,.455,.873,3.2,2.7,1.2,0.3,16.3,CHH,1040000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-0.53,2.16,curryde01,1994-95,CHH,15.5,3.3,.093,0.0,0.9,,30,NBA,69,24.9,.441,.856,2.4,1.6,0.8,0.3,13.6,CHH,1340000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",+0.45,4.35,curryde01,1995-96,CHH,16.8,5.1,.104,1.5,2.1,,31,NBA,82,28.9,.453,.854,3.2,2.1,1.3,0.3,14.5,CHH,1570000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-0.78,2.18,curryde01,1996-97,CHH,15.0,3.8,.089,-0.7,0.7,,32,NBA,68,30.6,.459,.803,3.1,1.7,0.9,0.2,14.8,CHH,1830000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-1.28,0.76,curryde01,1997-98,CHH,15.1,1.7,.085,-1.5,0.1,,33,NBA,52,18.7,.447,.788,1.9,1.3,0.6,0.1,9.4,CHH,3660000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",+0.37,1.64,curryde01,1998-99,MIL,18.7,2.6,.144,1.9,0.8,,34,NBA,42,20.6,.485,.824,2.0,1.1,0.9,0.1,10.1,MIL,1000000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-1.02,0.94,curryde01,1999-00,TOR,14.9,2.2,.098,-1.4,0.2,,35,NBA,67,16.3,.427,.750,1.5,1.3,0.5,0.1,7.6,TOR,2100000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-3.03,-0.60,curryde01,2000-01,TOR,14.4,2.0,.101,-1.6,0.1,,36,NBA,71,13.5,.424,.843,1.2,1.1,0.4,0.1,6.0,TOR,2000000
+Dell Curry,/players/c/curryde01.html,1987,2002,Virginia Polytechnic Institute and State University,false,"Fort Defiance in Fort Defiance, Virginia",-1.46,0.49,curryde01,2001-02,TOR,12.0,1.2,.063,-3.4,-0.3,,37,NBA,56,15.8,.406,.892,1.4,1.1,0.4,0.1,6.4,TOR,2100000

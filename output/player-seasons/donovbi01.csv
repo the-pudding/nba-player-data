@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
-donovbi01,1987-88,22,NYK,NBA,44,8.3,.404,.810,0.6,2.0,0.4,0.0,2.4,8.7,-0.1,-0.009,-7.4,-0.5,,"Saint Agnes in Rockville Centre, New York"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Billy Donovan,/players/d/donovbi01.html,1988,1988,Providence College,false,"Saint Agnes in Rockville Centre, New York",-2.63,-0.10,donovbi01,1987-88,NYK,8.7,-0.1,-0.009,-7.4,-0.5,,22,NBA,44,8.3,.404,.810,0.6,2.0,0.4,0.0,2.4,NYK

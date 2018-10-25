@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-davisma02,1995-96,22,Minnesota Timberwolves,NBA,57,10.0,.369,.638,2.2,0.8,0.7,0.4,3.3,10.9,-0.1,-0.005,-1.9,0.0,,200000,"Thibodaux in Thibodaux, Louisiana"
-davisma02,1996-97,23,Philadelphia 76ers,NBA,75,22.7,.469,.673,4.3,1.8,1.1,0.4,8.5,13.7,2.3,.065,-0.4,0.7,,247500,"Thibodaux in Thibodaux, Louisiana"
-davisma02,1997-98,24,Philadelphia 76ers,NBA,71,12.8,.447,.634,2.2,1.0,0.7,0.3,4.0,10.9,0.2,.010,-2.5,-0.1,,326700,"Thibodaux in Thibodaux, Louisiana"
-davisma02,1998-99,25,MIA,NBA,4,8.8,.333,.833,1.8,0.3,0.3,0.0,2.3,-3.1,-0.1,-0.122,-11.0,-0.1,,,"Thibodaux in Thibodaux, Louisiana"
-davisma02,1999-00,26,Miami Heat,NBA,23,20.2,.409,.660,3.7,1.7,1.1,0.2,6.2,9.8,-0.1,-0.012,-3.8,-0.2,,100000,"Thibodaux in Thibodaux, Louisiana"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Mark Davis,/players/d/davisma02.html,1996,2000,"Howard College, Texas Tech University",false,"Thibodaux in Thibodaux, Louisiana",-1.57,0.26,davisma02,1995-96,MIN,10.9,-0.1,-0.005,-1.9,0.0,,NBA,200000,22,57,10.0,.369,.638,2.2,0.8,0.7,0.4,3.3,MIN
+Mark Davis,/players/d/davisma02.html,1996,2000,"Howard College, Texas Tech University",false,"Thibodaux in Thibodaux, Louisiana",-1.76,0.61,davisma02,1996-97,PHI,13.7,2.3,.065,-0.4,0.7,,NBA,247500,23,75,22.7,.469,.673,4.3,1.8,1.1,0.4,8.5,PHI
+Mark Davis,/players/d/davisma02.html,1996,2000,"Howard College, Texas Tech University",false,"Thibodaux in Thibodaux, Louisiana",-2.34,-0.09,davisma02,1997-98,PHI,10.9,0.2,.010,-2.5,-0.1,,NBA,326700,24,71,12.8,.447,.634,2.2,1.0,0.7,0.3,4.0,PHI
+Mark Davis,/players/d/davisma02.html,1996,2000,"Howard College, Texas Tech University",false,"Thibodaux in Thibodaux, Louisiana",+0.41,0.06,davisma02,1998-99,MIA,-3.1,-0.1,-0.122,-11.0,-0.1,,NBA,,25,4,8.8,.333,.833,1.8,0.3,0.3,0.0,2.3,MIA
+Mark Davis,/players/d/davisma02.html,1996,2000,"Howard College, Texas Tech University",false,"Thibodaux in Thibodaux, Louisiana",-3.01,-0.26,davisma02,1999-00,GSW,9.8,-0.1,-0.012,-3.8,-0.2,,NBA,100000,26,23,20.2,.409,.660,3.7,1.7,1.1,0.2,6.2,GSW

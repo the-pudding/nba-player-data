@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
-whitero01,1982-83,23,PHO,NBA,65,9.6,.543,.642,1.6,0.5,0.2,0.0,5.0,14.7,1.5,.118,-3.0,-0.2,,"Tuskegee in Tuskegee, Alabama",
-whitero01,1983-84,24,"PHO,MIL,SDC",NBA,36,10.3,.471,.553,2.1,0.4,0.4,0.1,5.2,13.9,0.4,.050,-4.4,-0.2,,"Tuskegee in Tuskegee, Alabama",
-whitero01,1984-85,25,LAC,NBA,80,13.8,.516,.692,2.4,0.4,0.4,0.3,4.7,10.4,1.0,.045,-2.7,-0.2,,"Tuskegee in Tuskegee, Alabama",
-whitero01,1985-86,26,Los Angeles Clippers,NBA,75,23.5,.519,.739,2.4,1.0,1.0,0.1,11.7,14.0,2.6,.070,-2.1,-0.1,,"Tuskegee in Tuskegee, Alabama",70000
-whitero01,1986-87,27,LAC,NBA,68,22.7,.480,.653,2.9,1.2,0.7,0.3,9.2,10.8,1.0,.030,-3.6,-0.6,,"Tuskegee in Tuskegee, Alabama",
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+Rory White,/players/w/whitero01.html,1983,1987,University of South Alabama,false,"Tuskegee in Tuskegee, Alabama",-1.69,0.23,whitero01,1982-83,PHO,14.7,1.5,.118,-3.0,-0.2,,23,NBA,65,9.6,.543,.642,1.6,0.5,0.2,0.0,5.0,PHO,
+Rory White,/players/w/whitero01.html,1983,1987,University of South Alabama,false,"Tuskegee in Tuskegee, Alabama",-1.95,0.08,whitero01,1983-84,TOT,13.9,0.4,.050,-4.4,-0.2,,24,NBA,36,10.3,.471,.553,2.1,0.4,0.4,0.1,5.2,"PHO,MIL,SDC",
+Rory White,/players/w/whitero01.html,1983,1987,University of South Alabama,false,"Tuskegee in Tuskegee, Alabama",-2.91,-0.45,whitero01,1984-85,LAC,10.4,1.0,.045,-2.7,-0.2,,25,NBA,80,13.8,.516,.692,2.4,0.4,0.4,0.3,4.7,LAC,
+Rory White,/players/w/whitero01.html,1983,1987,University of South Alabama,false,"Tuskegee in Tuskegee, Alabama",-2.49,-0.19,whitero01,1985-86,LAC,14.0,2.6,.070,-2.1,-0.1,,26,NBA,75,23.5,.519,.739,2.4,1.0,1.0,0.1,11.7,LAC,70000
+Rory White,/players/w/whitero01.html,1983,1987,University of South Alabama,false,"Tuskegee in Tuskegee, Alabama",-3.79,-1.53,whitero01,1986-87,LAC,10.8,1.0,.030,-3.6,-0.6,,27,NBA,68,22.7,.480,.653,2.9,1.2,0.7,0.3,9.2,LAC,

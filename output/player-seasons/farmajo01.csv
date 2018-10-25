@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
-farmajo01,2006-07,20,Los Angeles Lakers,NBA,72,15.1,.422,.711,1.7,1.9,0.6,0.1,4.4,10.8,0.9,.038,-2.9,-0.3,,939120,"Taft in Woodland Hills, California"
-farmajo01,2007-08,21,Los Angeles Lakers,NBA,82,20.6,.461,.679,2.2,2.7,0.9,0.1,9.1,15.4,3.9,.111,0.7,1.2,,1009560,"Taft in Woodland Hills, California"
-farmajo01,2008-09,22,Los Angeles Lakers,NBA,65,18.3,.391,.584,1.8,2.4,0.9,0.2,6.4,9.9,0.8,.034,-2.9,-0.3,,1080000,"Taft in Woodland Hills, California"
-farmajo01,2009-10,23,Los Angeles Lakers,NBA,82,18.0,.435,.671,1.6,1.5,0.6,0.1,7.2,12.3,2.8,.093,-1.4,0.2,,1947240,"Taft in Woodland Hills, California"
-farmajo01,2010-11,24,New Jersey Nets,NBA,73,24.6,.392,.820,2.4,5.0,0.8,0.1,9.6,14.1,1.9,.050,-0.9,0.5,,3750000,"Taft in Woodland Hills, California"
-farmajo01,2011-12,25,New Jersey Nets,NBA,39,21.3,.467,.905,1.6,3.3,0.6,0.1,10.4,17.4,1.8,.104,-1.8,0.1,,4000000,"Taft in Woodland Hills, California"
-farmajo01,2012-13,26,Atlanta Hawks,NBA,,,,,,,,,,,,,,,,1500000,"Taft in Woodland Hills, California"
-farmajo01,2013-14,27,Los Angeles Lakers,NBA,41,22.2,.415,.746,2.5,4.9,0.9,0.2,10.1,15.0,0.7,.039,-1.1,0.2,,1106941,"Taft in Woodland Hills, California"
-farmajo01,2014-15,28,Los Angeles Clippers,NBA,36,14.7,.386,.909,1.2,1.9,0.6,0.1,4.6,9.9,0.6,.053,-2.0,0.0,,2077000,"Taft in Woodland Hills, California"
-farmajo01,2015-16,29,Memphis Grizzlies,NBA,12,24.3,.420,1.000,2.1,3.1,1.3,0.2,9.2,13.2,0.4,.064,-1.2,0.1,,191456,"Taft in Woodland Hills, California"
-farmajo01,2016-17,30,Los Angeles Clippers,NBA,2,17.5,.333,,1.5,4.5,1.0,0.0,6.0,14.4,0.0,.063,-3.0,0.0,,510921,"Taft in Woodland Hills, California"
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Lg,Salary,Age,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-0.97,1.07,farmajo01,2006-07,LAL,10.8,0.9,.038,-2.9,-0.3,,NBA,939120,20,72,15.1,.422,.711,1.7,1.9,0.6,0.1,4.4,LAL
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-1.48,1.13,farmajo01,2007-08,LAL,15.4,3.9,.111,0.7,1.2,,NBA,1009560,21,82,20.6,.461,.679,2.2,2.7,0.9,0.1,9.1,LAL
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-3.30,-0.96,farmajo01,2008-09,LAL,9.9,0.8,.034,-2.9,-0.3,,NBA,1080000,22,65,18.3,.391,.584,1.8,2.4,0.9,0.2,6.4,LAL
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-1.81,0.55,farmajo01,2009-10,LAL,12.3,2.8,.093,-1.4,0.2,,NBA,1947240,23,82,18.0,.435,.671,1.6,1.5,0.6,0.1,7.2,LAL
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-1.05,1.49,farmajo01,2010-11,NJN,14.1,1.9,.050,-0.9,0.5,,NBA,3750000,24,73,24.6,.392,.820,2.4,5.0,0.8,0.1,9.6,NJN
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-2.45,-0.09,farmajo01,2011-12,NJN,17.4,1.8,.104,-1.8,0.1,,NBA,4000000,25,39,21.3,.467,.905,1.6,3.3,0.6,0.1,10.4,NJN
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",,,farmajo01,2012-13,Did Not Play,,,,,,,NBA,1500000,26,,,,,,,,,,Did Not Play
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-0.93,0.83,farmajo01,2013-14,LAL,15.0,0.7,.039,-1.1,0.2,,NBA,1106941,27,41,22.2,.415,.746,2.5,4.9,0.9,0.2,10.1,LAL
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-4.94,-0.97,farmajo01,2014-15,LAC,9.9,0.6,.053,-2.0,0.0,,NBA,2077000,28,36,14.7,.386,.909,1.2,1.9,0.6,0.1,4.6,LAC
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-2.39,-0.03,farmajo01,2015-16,MEM,13.2,0.4,.064,-1.2,0.1,,NBA,191456,29,12,24.3,.420,1.000,2.1,3.1,1.3,0.2,9.2,MEM
+Jordan Farmar,/players/f/farmajo01.html,2007,2017,"University of California, Los Angeles",false,"Taft in Woodland Hills, California",-0.25,0.05,farmajo01,2016-17,SAC,14.4,0.0,.063,-3.0,0.0,,NBA,510921,30,2,17.5,.333,,1.5,4.5,1.0,0.0,6.0,SAC
