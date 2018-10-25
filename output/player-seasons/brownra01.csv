@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-brownra01,1989-90,24,UTA,NBA,16,3.5,.286,.000,0.9,0.3,0.0,0.0,1.0,-0.9,-0.2,-0.200,-11.4,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+brownra01,1989-90,24,UTA,NBA,16,3.5,.286,.000,0.9,0.3,0.0,0.0,1.0,-0.9,-0.2,-0.200,-11.4,-0.1,,"Sylvan in Atlanta, Georgia"

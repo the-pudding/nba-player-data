@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-vanbrja01,1976-77,25,NYN,NBA,72,33.3,.445,.855,6.4,1.6,1.0,0.9,10.2,12.0,4.5,.091,-0.5,0.9,
-vanbrja01,1977-78,26,NJN,NBA,68,20.9,.366,.707,3.6,1.5,0.8,0.7,4.4,7.5,1.2,.040,-1.7,0.1,
-vanbrja01,1978-79,27,NJN,NBA,80,25.0,.463,.798,4.8,2.3,1.1,0.9,6.7,10.8,3.6,.087,0.4,1.2,
-vanbrja01,1979-80,28,NJN,NBA,82,29.3,.463,.839,5.2,3.0,1.2,0.9,6.8,9.5,3.9,.078,0.4,1.5,
-vanbrja01,1980-81,29,NJN,NBA,78,18.3,.408,.838,2.6,1.7,0.5,0.6,3.8,6.5,0.6,.019,-3.1,-0.4,
-vanbrja01,1981-82,30,NJN,NBA,41,11.0,.500,.816,1.2,0.8,0.3,0.3,3.5,10.2,1.1,.119,-1.7,0.0,
-vanbrja01,1982-83,31,NJN,NBA,13,4.8,.357,.833,1.0,0.4,0.2,0.2,1.2,8.6,0.1,.095,-3.3,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+vanbrja01,1976-77,25,NYN,NBA,72,33.3,.445,.855,6.4,1.6,1.0,0.9,10.2,12.0,4.5,.091,-0.5,0.9,,"Palos Verdes in Rancho Palos Verdes, California"
+vanbrja01,1977-78,26,NJN,NBA,68,20.9,.366,.707,3.6,1.5,0.8,0.7,4.4,7.5,1.2,.040,-1.7,0.1,,"Palos Verdes in Rancho Palos Verdes, California"
+vanbrja01,1978-79,27,NJN,NBA,80,25.0,.463,.798,4.8,2.3,1.1,0.9,6.7,10.8,3.6,.087,0.4,1.2,,"Palos Verdes in Rancho Palos Verdes, California"
+vanbrja01,1979-80,28,NJN,NBA,82,29.3,.463,.839,5.2,3.0,1.2,0.9,6.8,9.5,3.9,.078,0.4,1.5,,"Palos Verdes in Rancho Palos Verdes, California"
+vanbrja01,1980-81,29,NJN,NBA,78,18.3,.408,.838,2.6,1.7,0.5,0.6,3.8,6.5,0.6,.019,-3.1,-0.4,,"Palos Verdes in Rancho Palos Verdes, California"
+vanbrja01,1981-82,30,NJN,NBA,41,11.0,.500,.816,1.2,0.8,0.3,0.3,3.5,10.2,1.1,.119,-1.7,0.0,,"Palos Verdes in Rancho Palos Verdes, California"
+vanbrja01,1982-83,31,NJN,NBA,13,4.8,.357,.833,1.0,0.4,0.2,0.2,1.2,8.6,0.1,.095,-3.3,0.0,,"Palos Verdes in Rancho Palos Verdes, California"

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-forbega01,2010-11,25,Denver Nuggets,NBA,63,12.6,.454,.678,1.8,0.8,0.4,0.1,5.2,11.7,0.9,.055,-3.0,-0.2,,473604
-forbega01,2011-12,26,Toronto Raptors,NBA,48,14.9,.413,.725,2.1,1.1,0.5,0.1,6.6,13.3,0.8,.053,-2.2,0.0,,1500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+forbega01,2010-11,25,Denver Nuggets,NBA,63,12.6,.454,.678,1.8,0.8,0.4,0.1,5.2,11.7,0.9,.055,-3.0,-0.2,,473604,"Benjamin Banneker Academy in Brooklyn, New York"
+forbega01,2011-12,26,Toronto Raptors,NBA,48,14.9,.413,.725,2.1,1.1,0.5,0.1,6.6,13.3,0.8,.053,-2.2,0.0,,1500000,"Benjamin Banneker Academy in Brooklyn, New York"

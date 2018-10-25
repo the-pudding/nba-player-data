@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-steella01,1976-77,27,POR,NBA,81,20.7,.500,.806,2.3,2.1,1.5,0.2,10.3,16.3,5.2,.148,1.5,1.5,
-steella01,1977-78,28,POR,NBA,65,17.4,.470,.820,1.7,1.3,0.9,0.1,8.0,13.8,3.0,.127,-0.8,0.3,
-steella01,1978-79,29,POR,NBA,72,20.7,.420,.824,2.4,2.0,1.0,0.1,7.2,10.1,2.0,.065,-2.2,-0.1,
-steella01,1979-80,30,POR,NBA,16,27.9,.425,.815,2.8,4.2,1.6,0.1,9.1,10.8,0.5,.052,-2.0,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+steella01,1976-77,27,POR,NBA,81,20.7,.500,.806,2.3,2.1,1.5,0.2,10.3,16.3,5.2,.148,1.5,1.5,,"Bainbridge in Bainbridge, Indiana"
+steella01,1977-78,28,POR,NBA,65,17.4,.470,.820,1.7,1.3,0.9,0.1,8.0,13.8,3.0,.127,-0.8,0.3,,"Bainbridge in Bainbridge, Indiana"
+steella01,1978-79,29,POR,NBA,72,20.7,.420,.824,2.4,2.0,1.0,0.1,7.2,10.1,2.0,.065,-2.2,-0.1,,"Bainbridge in Bainbridge, Indiana"
+steella01,1979-80,30,POR,NBA,16,27.9,.425,.815,2.8,4.2,1.6,0.1,9.1,10.8,0.5,.052,-2.0,0.0,,"Bainbridge in Bainbridge, Indiana"

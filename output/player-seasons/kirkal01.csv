@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-kirkal01,2014-15,23,New York Knicks,NBA,5,2.8,.250,1.000,0.2,0.2,0.0,0.0,0.8,8.5,0.0,.061,-7.4,0.0,,65000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+kirkal01,2014-15,23,New York Knicks,NBA,5,2.8,.250,1.000,0.2,0.2,0.0,0.0,0.8,8.5,0.0,.061,-7.4,0.0,,65000,"Los Alamos in Los Alamos, New Mexico"

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-nelsolo01,1976-77,25,SAS,NBA,4,14.3,.500,.571,1.8,0.8,0.5,0.0,4.5,8.4,0.0,.032,-5.5,0.0,
-nelsolo01,1977-78,26,"KCK,NJN",NBA,33,12.3,.403,.679,1.6,1.0,0.7,0.2,6.9,12.5,0.0,-0.001,-5.0,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+nelsolo01,1976-77,25,SAS,NBA,4,14.3,.500,.571,1.8,0.8,0.5,0.0,4.5,8.4,0.0,.032,-5.5,0.0,,"Compton in Los Angeles, California"
+nelsolo01,1977-78,26,"KCK,NJN",NBA,33,12.3,.403,.679,1.6,1.0,0.7,0.2,6.9,12.5,0.0,-0.001,-5.0,-0.3,,"Compton in Los Angeles, California"

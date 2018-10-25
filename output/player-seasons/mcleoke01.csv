@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-mcleoke01,2003-04,24,Minnesota Timberwolves,NBA,33,11.8,.329,.767,1.0,1.8,0.5,0.0,2.7,8.1,0.2,.028,-5.1,-0.3,,366931
-mcleoke01,2004-05,25,Utah Jazz,NBA,53,26.1,.350,.767,2.1,4.5,1.2,0.2,7.8,10.4,0.3,.009,-3.1,-0.4,,750000
-mcleoke01,2005-06,26,Utah Jazz,NBA,66,18.7,.353,.797,1.2,2.3,0.6,0.1,5.6,8.6,0.6,.024,-5.3,-1.0,,1250000
-mcleoke01,2006-07,27,Indiana Pacers,NBA,48,15.0,.388,.885,0.9,1.9,0.5,0.1,4.8,10.2,0.8,.051,-5.2,-0.6,,1350000
-mcleoke01,2006-07,27,Indiana Pacers,NBA,26,14.6,.390,.887,0.8,1.7,0.7,0.1,5.3,12.3,0.6,.073,-4.5,-0.2,,1350000
-mcleoke01,2006-07,27,Indiana Pacers,NBA,22,15.4,.386,.880,1.0,2.0,0.3,0.1,4.2,8.0,0.2,.027,-6.0,-0.3,,1350000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+mcleoke01,2003-04,24,Minnesota Timberwolves,NBA,33,11.8,.329,.767,1.0,1.8,0.5,0.0,2.7,8.1,0.2,.028,-5.1,-0.3,,366931,"McKinley in Canton, Ohio"
+mcleoke01,2004-05,25,Utah Jazz,NBA,53,26.1,.350,.767,2.1,4.5,1.2,0.2,7.8,10.4,0.3,.009,-3.1,-0.4,,750000,"McKinley in Canton, Ohio"
+mcleoke01,2005-06,26,Utah Jazz,NBA,66,18.7,.353,.797,1.2,2.3,0.6,0.1,5.6,8.6,0.6,.024,-5.3,-1.0,,1250000,"McKinley in Canton, Ohio"
+mcleoke01,2006-07,27,Indiana Pacers,NBA,48,15.0,.388,.885,0.9,1.9,0.5,0.1,4.8,10.2,0.8,.051,-5.2,-0.6,,1350000,"McKinley in Canton, Ohio"
+mcleoke01,2006-07,27,Indiana Pacers,NBA,26,14.6,.390,.887,0.8,1.7,0.7,0.1,5.3,12.3,0.6,.073,-4.5,-0.2,,1350000,"McKinley in Canton, Ohio"
+mcleoke01,2006-07,27,Indiana Pacers,NBA,22,15.4,.386,.880,1.0,2.0,0.3,0.1,4.2,8.0,0.2,.027,-6.0,-0.3,,1350000,"McKinley in Canton, Ohio"

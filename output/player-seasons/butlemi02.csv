@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-butlemi02,1993-94,23,Washington Bullets,NBA,75,17.6,.495,.578,3.0,1.0,0.7,0.3,6.9,13.0,1.1,.040,-2.5,-0.2,,150000
-butlemi02,1994-95,24,Washington Bullets,NBA,76,20.4,.421,.665,2.2,1.2,0.8,0.1,7.9,10.0,0.3,.010,-4.0,-0.8,,400000
-butlemi02,1995-96,25,Washington Bullets,NBA,61,14.1,.384,.578,1.9,1.1,0.7,0.2,3.9,7.4,-0.2,-0.010,-3.7,-0.4,,500000
-butlemi02,1996-97,26,Portland Trail Blazers,NBA,49,9.5,.416,.640,1.1,0.6,0.3,0.0,3.0,9.0,0.6,.063,-3.4,-0.2,,600000
-butlemi02,1997-98,27,Cleveland Cavaliers,NBA,18,11.4,.319,.600,1.2,1.0,0.4,0.0,2.1,4.8,0.1,.016,-4.4,-0.1,,272250
-butlemi02,1998-99,28,Cleveland Cavaliers,NBA,31,13.5,.482,.719,1.4,0.7,0.5,0.1,5.4,12.6,0.5,.053,-2.5,0.0,,537500
-butlemi02,1999-00,29,Indiana Pacers,NBA,,,,,,,,,,,,,,,,150000
-butlemi02,2000-01,30,Did Not Play (other pro league—ABA),,,,,,,,,,,,,,,,,
-butlemi02,2001-02,31,Portland Trail Blazers,NBA,11,8.2,.435,.667,1.3,0.5,0.0,0.1,2.6,9.4,0.1,.057,-5.4,-0.1,,715850
-butlemi02,2002-03,32,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
-butlemi02,2003-04,33,Washington Wizards,NBA,41,13.5,.435,.625,1.7,0.8,0.5,0.1,3.3,9.3,0.5,.048,-3.0,-0.1,,876179
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+butlemi02,1993-94,23,Washington Bullets,NBA,75,17.6,.495,.578,3.0,1.0,0.7,0.3,6.9,13.0,1.1,.040,-2.5,-0.2,,150000,"Oakwood in North Hollywood, California"
+butlemi02,1994-95,24,Washington Bullets,NBA,76,20.4,.421,.665,2.2,1.2,0.8,0.1,7.9,10.0,0.3,.010,-4.0,-0.8,,400000,"Oakwood in North Hollywood, California"
+butlemi02,1995-96,25,Washington Bullets,NBA,61,14.1,.384,.578,1.9,1.1,0.7,0.2,3.9,7.4,-0.2,-0.010,-3.7,-0.4,,500000,"Oakwood in North Hollywood, California"
+butlemi02,1996-97,26,Portland Trail Blazers,NBA,49,9.5,.416,.640,1.1,0.6,0.3,0.0,3.0,9.0,0.6,.063,-3.4,-0.2,,600000,"Oakwood in North Hollywood, California"
+butlemi02,1997-98,27,Cleveland Cavaliers,NBA,18,11.4,.319,.600,1.2,1.0,0.4,0.0,2.1,4.8,0.1,.016,-4.4,-0.1,,272250,"Oakwood in North Hollywood, California"
+butlemi02,1998-99,28,Cleveland Cavaliers,NBA,31,13.5,.482,.719,1.4,0.7,0.5,0.1,5.4,12.6,0.5,.053,-2.5,0.0,,537500,"Oakwood in North Hollywood, California"
+butlemi02,1999-00,29,Indiana Pacers,NBA,,,,,,,,,,,,,,,,150000,"Oakwood in North Hollywood, California"
+butlemi02,2000-01,30,Did Not Play (other pro league—ABA),,,,,,,,,,,,,,,,,,"Oakwood in North Hollywood, California"
+butlemi02,2001-02,31,Portland Trail Blazers,NBA,11,8.2,.435,.667,1.3,0.5,0.0,0.1,2.6,9.4,0.1,.057,-5.4,-0.1,,715850,"Oakwood in North Hollywood, California"
+butlemi02,2002-03,32,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Oakwood in North Hollywood, California"
+butlemi02,2003-04,33,Washington Wizards,NBA,41,13.5,.435,.625,1.7,0.8,0.5,0.1,3.3,9.3,0.5,.048,-3.0,-0.1,,876179,"Oakwood in North Hollywood, California"

@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-porzikr01,2015-16,20,New York Knicks,NBA,72,28.4,.421,.838,7.3,1.3,0.7,1.9,14.3,17.7,4.4,.102,0.2,1.1,,4131720
-porzikr01,2016-17,21,New York Knicks,NBA,66,32.8,.450,.786,7.2,1.5,0.7,2.0,18.1,17.4,4.5,.100,0.2,1.2,,4317720
-porzikr01,2017-18,22,New York Knicks,NBA,48,32.4,.439,.793,6.6,1.2,0.8,2.4,22.7,20.4,3.2,.099,-0.7,0.5,,4503600
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+porzikr01,2015-16,20,New York Knicks,NBA,72,28.4,.421,.838,7.3,1.3,0.7,1.9,14.3,17.7,4.4,.102,0.2,1.1,,4131720,
+porzikr01,2016-17,21,New York Knicks,NBA,66,32.8,.450,.786,7.2,1.5,0.7,2.0,18.1,17.4,4.5,.100,0.2,1.2,,4317720,
+porzikr01,2017-18,22,New York Knicks,NBA,48,32.4,.439,.793,6.6,1.2,0.8,2.4,22.7,20.4,3.2,.099,-0.7,0.5,,4503600,

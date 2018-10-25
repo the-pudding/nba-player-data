@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-burleto01,1976-77,24,SEA,NBA,82,22.0,.442,.731,6.7,1.1,0.9,1.4,9.7,16.3,4.4,.117,0.5,1.1,
-burleto01,1977-78,25,KCK,NBA,76,20.1,.434,.794,6.3,1.7,0.8,1.1,8.6,16.5,4.3,.134,1.9,1.5,
-burleto01,1978-79,26,KCK,NBA,56,16.6,.459,.716,5.0,0.9,0.5,1.0,7.8,15.3,2.7,.140,-0.3,0.4,
-burleto01,1979-80,27,KCK,NBA,37,7.4,.346,.575,1.9,0.5,0.2,0.4,2.6,7.8,-0.1,-0.012,-5.0,-0.2,
-burleto01,1980-81,28,ATL,NBA,31,11.7,.414,.488,3.0,0.4,0.3,0.6,3.3,8.5,0.2,.021,-3.6,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+burleto01,1976-77,24,SEA,NBA,82,22.0,.442,.731,6.7,1.1,0.9,1.4,9.7,16.3,4.4,.117,0.5,1.1,,"Avery County in Newland, North Carolina"
+burleto01,1977-78,25,KCK,NBA,76,20.1,.434,.794,6.3,1.7,0.8,1.1,8.6,16.5,4.3,.134,1.9,1.5,,"Avery County in Newland, North Carolina"
+burleto01,1978-79,26,KCK,NBA,56,16.6,.459,.716,5.0,0.9,0.5,1.0,7.8,15.3,2.7,.140,-0.3,0.4,,"Avery County in Newland, North Carolina"
+burleto01,1979-80,27,KCK,NBA,37,7.4,.346,.575,1.9,0.5,0.2,0.4,2.6,7.8,-0.1,-0.012,-5.0,-0.2,,"Avery County in Newland, North Carolina"
+burleto01,1980-81,28,ATL,NBA,31,11.7,.414,.488,3.0,0.4,0.3,0.6,3.3,8.5,0.2,.021,-3.6,-0.1,,"Avery County in Newland, North Carolina"

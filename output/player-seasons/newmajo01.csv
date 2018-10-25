@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-newmajo01,1986-87,23,CLE,NBA,59,10.7,.411,.868,1.2,0.5,0.3,0.1,5.0,9.8,0.3,.024,-6.2,-0.7,,
-newmajo01,1987-88,24,New York Knicks,NBA,77,20.6,.435,.841,2.1,0.8,0.9,0.1,10.0,12.1,3.1,.093,-1.6,0.2,,275000
-newmajo01,1988-89,25,New York Knicks,NBA,81,28.8,.475,.815,2.5,2.0,1.4,0.3,16.0,15.3,6.7,.138,1.1,1.8,,525000
-newmajo01,1989-90,26,NYK,NBA,80,28.5,.476,.799,2.4,2.3,1.2,0.3,12.9,12.7,4.5,.095,-0.7,0.7,,
-newmajo01,1990-91,27,Charlotte Hornets,NBA,81,30.6,.470,.809,3.1,2.3,1.2,0.2,16.9,15.1,4.1,.080,-0.3,1.0,,1200000
-newmajo01,1991-92,28,Charlotte Hornets,NBA,55,30.0,.477,.766,3.3,2.7,1.3,0.3,15.3,13.6,2.3,.068,-1.3,0.3,,1206000
-newmajo01,1992-93,29,Charlotte Hornets,NBA,64,23.0,.522,.808,2.2,1.8,0.7,0.3,11.9,15.5,3.7,.120,-0.2,0.7,,1175000
-newmajo01,1993-94,30,New Jersey Nets,NBA,81,21.0,.471,.809,2.2,0.9,0.9,0.3,10.3,14.1,3.7,.106,-1.2,0.4,,1435000
-newmajo01,1993-94,30,New Jersey Nets,NBA,18,23.8,.523,.814,3.2,1.6,1.0,0.3,13.0,16.9,1.0,.116,-0.2,0.2,,1435000
-newmajo01,1993-94,30,New Jersey Nets,NBA,63,20.1,.453,.807,1.9,0.7,0.8,0.3,9.5,13.2,2.7,.102,-1.5,0.2,,1435000
-newmajo01,1994-95,31,Milwaukee Bucks,NBA,82,23.1,.463,.801,2.1,1.1,0.8,0.2,7.7,10.4,2.8,.070,-1.7,0.2,,300000
-newmajo01,1995-96,32,Milwaukee Bucks,NBA,82,32.8,.495,.802,2.4,1.9,1.1,0.2,10.8,11.5,4.4,.079,0.0,1.4,,1100000
-newmajo01,1996-97,33,Milwaukee Bucks,NBA,82,25.1,.450,.765,2.3,1.4,0.9,0.2,8.7,10.8,2.8,.065,-1.6,0.2,,1225000
-newmajo01,1997-98,34,Denver Nuggets,NBA,74,29.4,.431,.820,1.9,1.9,1.0,0.3,14.7,14.9,2.7,.060,-3.5,-0.8,,1325000
-newmajo01,1998-99,35,Cleveland Cavaliers,NBA,50,19.0,.422,.810,1.5,0.8,0.6,0.2,6.1,9.2,1.2,.059,-2.7,-0.2,,1000000
-newmajo01,1999-00,36,New Jersey Nets,NBA,82,21.5,.446,.838,1.9,0.8,0.6,0.1,10.0,13.6,3.5,.095,-2.4,-0.2,,1100000
-newmajo01,2000-01,37,New Jersey Nets,NBA,82,25.0,.419,.855,2.1,1.4,0.8,0.1,10.9,13.0,3.4,.081,-2.6,-0.3,,2000000
-newmajo01,2001-02,38,Phoenix Suns,NBA,47,15.4,.453,.724,1.0,0.3,0.6,0.1,4.2,8.3,0.9,.061,-1.6,0.1,,1675000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+newmajo01,1986-87,23,CLE,NBA,59,10.7,.411,.868,1.2,0.5,0.3,0.1,5.0,9.8,0.3,.024,-6.2,-0.7,,"George Washington in Danville, Virginia",
+newmajo01,1987-88,24,New York Knicks,NBA,77,20.6,.435,.841,2.1,0.8,0.9,0.1,10.0,12.1,3.1,.093,-1.6,0.2,,"George Washington in Danville, Virginia",275000
+newmajo01,1988-89,25,New York Knicks,NBA,81,28.8,.475,.815,2.5,2.0,1.4,0.3,16.0,15.3,6.7,.138,1.1,1.8,,"George Washington in Danville, Virginia",525000
+newmajo01,1989-90,26,NYK,NBA,80,28.5,.476,.799,2.4,2.3,1.2,0.3,12.9,12.7,4.5,.095,-0.7,0.7,,"George Washington in Danville, Virginia",
+newmajo01,1990-91,27,Charlotte Hornets,NBA,81,30.6,.470,.809,3.1,2.3,1.2,0.2,16.9,15.1,4.1,.080,-0.3,1.0,,"George Washington in Danville, Virginia",1200000
+newmajo01,1991-92,28,Charlotte Hornets,NBA,55,30.0,.477,.766,3.3,2.7,1.3,0.3,15.3,13.6,2.3,.068,-1.3,0.3,,"George Washington in Danville, Virginia",1206000
+newmajo01,1992-93,29,Charlotte Hornets,NBA,64,23.0,.522,.808,2.2,1.8,0.7,0.3,11.9,15.5,3.7,.120,-0.2,0.7,,"George Washington in Danville, Virginia",1175000
+newmajo01,1993-94,30,New Jersey Nets,NBA,81,21.0,.471,.809,2.2,0.9,0.9,0.3,10.3,14.1,3.7,.106,-1.2,0.4,,"George Washington in Danville, Virginia",1435000
+newmajo01,1993-94,30,New Jersey Nets,NBA,18,23.8,.523,.814,3.2,1.6,1.0,0.3,13.0,16.9,1.0,.116,-0.2,0.2,,"George Washington in Danville, Virginia",1435000
+newmajo01,1993-94,30,New Jersey Nets,NBA,63,20.1,.453,.807,1.9,0.7,0.8,0.3,9.5,13.2,2.7,.102,-1.5,0.2,,"George Washington in Danville, Virginia",1435000
+newmajo01,1994-95,31,Milwaukee Bucks,NBA,82,23.1,.463,.801,2.1,1.1,0.8,0.2,7.7,10.4,2.8,.070,-1.7,0.2,,"George Washington in Danville, Virginia",300000
+newmajo01,1995-96,32,Milwaukee Bucks,NBA,82,32.8,.495,.802,2.4,1.9,1.1,0.2,10.8,11.5,4.4,.079,0.0,1.4,,"George Washington in Danville, Virginia",1100000
+newmajo01,1996-97,33,Milwaukee Bucks,NBA,82,25.1,.450,.765,2.3,1.4,0.9,0.2,8.7,10.8,2.8,.065,-1.6,0.2,,"George Washington in Danville, Virginia",1225000
+newmajo01,1997-98,34,Denver Nuggets,NBA,74,29.4,.431,.820,1.9,1.9,1.0,0.3,14.7,14.9,2.7,.060,-3.5,-0.8,,"George Washington in Danville, Virginia",1325000
+newmajo01,1998-99,35,Cleveland Cavaliers,NBA,50,19.0,.422,.810,1.5,0.8,0.6,0.2,6.1,9.2,1.2,.059,-2.7,-0.2,,"George Washington in Danville, Virginia",1000000
+newmajo01,1999-00,36,New Jersey Nets,NBA,82,21.5,.446,.838,1.9,0.8,0.6,0.1,10.0,13.6,3.5,.095,-2.4,-0.2,,"George Washington in Danville, Virginia",1100000
+newmajo01,2000-01,37,New Jersey Nets,NBA,82,25.0,.419,.855,2.1,1.4,0.8,0.1,10.9,13.0,3.4,.081,-2.6,-0.3,,"George Washington in Danville, Virginia",2000000
+newmajo01,2001-02,38,Phoenix Suns,NBA,47,15.4,.453,.724,1.0,0.3,0.6,0.1,4.2,8.3,0.9,.061,-1.6,0.1,,"George Washington in Danville, Virginia",1675000

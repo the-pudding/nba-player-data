@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jonesed01,1980-81,24,NJN,NBA,60,15.8,.529,.670,4.4,0.7,0.6,1.4,8.7,17.6,2.3,.116,-0.4,0.4,,
-jonesed01,1981-82,25,DET,NBA,48,16.7,.548,.698,4.3,0.8,0.6,1.9,7.8,17.5,2.4,.143,1.8,0.8,,
-jonesed01,1982-83,26,"DET,SAS",NBA,77,21.5,.495,.703,5.8,1.2,0.5,1.4,8.8,13.9,3.4,.098,-1.0,0.4,,
-jonesed01,1983-84,27,SAS,NBA,81,21.9,.500,.727,5.5,1.0,0.8,1.3,10.2,14.9,3.4,.093,0.2,1.0,,
-jonesed01,1984-85,28,San Antonio Spurs,NBA,44,17.5,.473,.739,3.9,0.7,0.5,0.7,7.8,11.7,0.9,.057,-3.6,-0.3,,205000
-jonesed01,1984-85,28,San Antonio Spurs,NBA,18,17.9,.484,.804,3.4,1.0,0.5,1.0,7.2,11.5,0.5,.072,-2.2,0.0,,205000
-jonesed01,1984-85,28,San Antonio Spurs,NBA,26,17.2,.467,.683,4.2,0.4,0.4,0.4,8.2,11.8,0.4,.046,-4.7,-0.3,,205000
-jonesed01,1985-86,29,Cleveland Cavaliers,NBA,53,19.1,.505,.742,3.9,0.8,0.6,0.7,9.7,15.8,2.6,.122,0.1,0.5,,235000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+jonesed01,1980-81,24,NJN,NBA,60,15.8,.529,.670,4.4,0.7,0.6,1.4,8.7,17.6,2.3,.116,-0.4,0.4,,"Barringer in Newark, New Jersey",
+jonesed01,1981-82,25,DET,NBA,48,16.7,.548,.698,4.3,0.8,0.6,1.9,7.8,17.5,2.4,.143,1.8,0.8,,"Barringer in Newark, New Jersey",
+jonesed01,1982-83,26,"DET,SAS",NBA,77,21.5,.495,.703,5.8,1.2,0.5,1.4,8.8,13.9,3.4,.098,-1.0,0.4,,"Barringer in Newark, New Jersey",
+jonesed01,1983-84,27,SAS,NBA,81,21.9,.500,.727,5.5,1.0,0.8,1.3,10.2,14.9,3.4,.093,0.2,1.0,,"Barringer in Newark, New Jersey",
+jonesed01,1984-85,28,San Antonio Spurs,NBA,44,17.5,.473,.739,3.9,0.7,0.5,0.7,7.8,11.7,0.9,.057,-3.6,-0.3,,"Barringer in Newark, New Jersey",205000
+jonesed01,1984-85,28,San Antonio Spurs,NBA,18,17.9,.484,.804,3.4,1.0,0.5,1.0,7.2,11.5,0.5,.072,-2.2,0.0,,"Barringer in Newark, New Jersey",205000
+jonesed01,1984-85,28,San Antonio Spurs,NBA,26,17.2,.467,.683,4.2,0.4,0.4,0.4,8.2,11.8,0.4,.046,-4.7,-0.3,,"Barringer in Newark, New Jersey",205000
+jonesed01,1985-86,29,Cleveland Cavaliers,NBA,53,19.1,.505,.742,3.9,0.8,0.6,0.7,9.7,15.8,2.6,.122,0.1,0.5,,"Barringer in Newark, New Jersey",235000

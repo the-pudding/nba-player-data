@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-greenge01,2005-06,20,Boston Celtics,NBA,32,11.7,.478,.784,1.3,0.6,0.4,0.1,5.2,13.1,0.5,.064,-4.5,-0.2,,1253040
-greenge01,2006-07,21,Boston Celtics,NBA,81,22.0,.419,.805,2.6,1.0,0.5,0.3,10.4,12.0,1.6,.042,-3.1,-0.5,,1347000
-greenge01,2007-08,22,Houston Rockets,NBA,30,12.1,.344,.829,2.1,1.0,0.3,0.1,5.1,8.7,-0.4,-0.048,-6.9,-0.4,,1440960
-greenge01,2007-08,22,Houston Rockets,NBA,29,12.3,.331,.829,2.1,1.0,0.3,0.1,5.1,7.9,-0.4,-0.058,-7.1,-0.5,,1440960
-greenge01,2007-08,22,Houston Rockets,NBA,1,4.0,1.000,,2.0,0.0,0.0,0.0,6.0,76.3,0.1,.826,17.7,0.0,,1440960
-greenge01,2008-09,23,Dallas Mavericks,NBA,38,9.9,.439,.844,1.4,0.4,0.3,0.1,5.2,11.4,0.0,-0.002,-6.4,-0.4,,854957
-greenge01,2009-10,24,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,,,,
-greenge01,2010-11,25,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,,,,
-greenge01,2011-12,26,New Jersey Nets,NBA,31,25.2,.481,.754,3.5,1.1,0.9,0.5,12.9,15.8,1.2,.072,-1.6,0.1,,443181
-greenge01,2012-13,27,Indiana Pacers,NBA,60,18.0,.366,.800,2.4,0.8,0.3,0.4,7.0,9.9,1.3,.056,-3.5,-0.4,,3500000
-greenge01,2013-14,28,Phoenix Suns,NBA,82,28.4,.445,.848,3.4,1.5,0.9,0.5,15.8,16.5,6.1,.126,1.0,1.8,,3500000
-greenge01,2014-15,29,Phoenix Suns,NBA,74,19.5,.416,.825,2.5,1.2,0.6,0.2,11.9,15.4,1.9,.065,-2.4,-0.2,,3500000
-greenge01,2015-16,30,Miami Heat,NBA,69,22.6,.392,.783,2.4,0.8,0.6,0.3,8.9,10.1,1.7,.052,-3.0,-0.4,,1356000
-greenge01,2016-17,31,Boston Celtics,NBA,47,11.4,.409,.805,1.8,0.7,0.2,0.1,5.6,11.9,0.6,.050,-4.7,-0.4,,1410598
-greenge01,2017-18,32,Houston Rockets,NBA,41,22.7,.407,.850,3.2,0.6,0.6,0.4,12.1,14.1,2.1,.107,-1.9,0.0,,872854
-greenge01,2018-19,33,HOU,NBA,4,19.5,.435,1.000,2.3,0.3,0.8,0.3,7.0,11.6,0.1,.061,-0.4,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+greenge01,2005-06,20,Boston Celtics,NBA,32,11.7,.478,.784,1.3,0.6,0.4,0.1,5.2,13.1,0.5,.064,-4.5,-0.2,,1253040,"Gulf Shores Academy in Houston, Texas"
+greenge01,2006-07,21,Boston Celtics,NBA,81,22.0,.419,.805,2.6,1.0,0.5,0.3,10.4,12.0,1.6,.042,-3.1,-0.5,,1347000,"Gulf Shores Academy in Houston, Texas"
+greenge01,2007-08,22,Houston Rockets,NBA,30,12.1,.344,.829,2.1,1.0,0.3,0.1,5.1,8.7,-0.4,-0.048,-6.9,-0.4,,1440960,"Gulf Shores Academy in Houston, Texas"
+greenge01,2007-08,22,Houston Rockets,NBA,29,12.3,.331,.829,2.1,1.0,0.3,0.1,5.1,7.9,-0.4,-0.058,-7.1,-0.5,,1440960,"Gulf Shores Academy in Houston, Texas"
+greenge01,2007-08,22,Houston Rockets,NBA,1,4.0,1.000,,2.0,0.0,0.0,0.0,6.0,76.3,0.1,.826,17.7,0.0,,1440960,"Gulf Shores Academy in Houston, Texas"
+greenge01,2008-09,23,Dallas Mavericks,NBA,38,9.9,.439,.844,1.4,0.4,0.3,0.1,5.2,11.4,0.0,-0.002,-6.4,-0.4,,854957,"Gulf Shores Academy in Houston, Texas"
+greenge01,2009-10,24,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,,,,,"Gulf Shores Academy in Houston, Texas"
+greenge01,2010-11,25,Did Not Play (other pro league—Russia),,,,,,,,,,,,,,,,,,"Gulf Shores Academy in Houston, Texas"
+greenge01,2011-12,26,New Jersey Nets,NBA,31,25.2,.481,.754,3.5,1.1,0.9,0.5,12.9,15.8,1.2,.072,-1.6,0.1,,443181,"Gulf Shores Academy in Houston, Texas"
+greenge01,2012-13,27,Indiana Pacers,NBA,60,18.0,.366,.800,2.4,0.8,0.3,0.4,7.0,9.9,1.3,.056,-3.5,-0.4,,3500000,"Gulf Shores Academy in Houston, Texas"
+greenge01,2013-14,28,Phoenix Suns,NBA,82,28.4,.445,.848,3.4,1.5,0.9,0.5,15.8,16.5,6.1,.126,1.0,1.8,,3500000,"Gulf Shores Academy in Houston, Texas"
+greenge01,2014-15,29,Phoenix Suns,NBA,74,19.5,.416,.825,2.5,1.2,0.6,0.2,11.9,15.4,1.9,.065,-2.4,-0.2,,3500000,"Gulf Shores Academy in Houston, Texas"
+greenge01,2015-16,30,Miami Heat,NBA,69,22.6,.392,.783,2.4,0.8,0.6,0.3,8.9,10.1,1.7,.052,-3.0,-0.4,,1356000,"Gulf Shores Academy in Houston, Texas"
+greenge01,2016-17,31,Boston Celtics,NBA,47,11.4,.409,.805,1.8,0.7,0.2,0.1,5.6,11.9,0.6,.050,-4.7,-0.4,,1410598,"Gulf Shores Academy in Houston, Texas"
+greenge01,2017-18,32,Houston Rockets,NBA,41,22.7,.407,.850,3.2,0.6,0.6,0.4,12.1,14.1,2.1,.107,-1.9,0.0,,872854,"Gulf Shores Academy in Houston, Texas"
+greenge01,2018-19,33,HOU,NBA,4,19.5,.435,1.000,2.3,0.3,0.8,0.3,7.0,11.6,0.1,.061,-0.4,0.0,,,"Gulf Shores Academy in Houston, Texas"

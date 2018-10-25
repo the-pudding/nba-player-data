@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-youngjo01,2015-16,23,Indiana Pacers,NBA,41,9.4,.367,.800,1.2,1.6,0.4,0.0,3.8,9.9,-0.1,-0.009,-5.4,-0.3,,1000000
-youngjo01,2016-17,24,Indiana Pacers,NBA,33,4.1,.361,.733,0.5,0.5,0.1,0.0,2.1,11.4,-0.1,-0.022,-7.3,-0.2,,1052342
-youngjo01,2017-18,25,Indiana Pacers,NBA,53,10.5,.430,.759,1.2,0.7,0.3,0.0,3.9,10.1,0.5,.043,-4.7,-0.4,,1471382
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+youngjo01,2015-16,23,Indiana Pacers,NBA,41,9.4,.367,.800,1.2,1.6,0.4,0.0,3.8,9.9,-0.1,-0.009,-5.4,-0.3,,1000000,"Yates in Houston, Texas"
+youngjo01,2016-17,24,Indiana Pacers,NBA,33,4.1,.361,.733,0.5,0.5,0.1,0.0,2.1,11.4,-0.1,-0.022,-7.3,-0.2,,1052342,"Yates in Houston, Texas"
+youngjo01,2017-18,25,Indiana Pacers,NBA,53,10.5,.430,.759,1.2,0.7,0.3,0.0,3.9,10.1,0.5,.043,-4.7,-0.4,,1471382,"Yates in Houston, Texas"

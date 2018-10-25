@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-grayaa01,2007-08,23,Chicago Bulls,NBA,61,10.0,.505,.566,2.8,0.7,0.3,0.3,4.3,13.9,0.8,.066,-2.0,0.0,,427163
-grayaa01,2008-09,24,Chicago Bulls,NBA,56,12.8,.485,.576,3.9,0.8,0.3,0.3,3.5,11.5,1.3,.086,-1.5,0.1,,711517
-grayaa01,2009-10,25,New Orleans Hornets,NBA,32,9.7,.512,.714,3.3,0.7,0.3,0.3,3.3,16.6,0.9,.142,0.7,0.2,,1000497
-grayaa01,2009-10,25,New Orleans Hornets,NBA,8,6.3,.381,.286,2.0,0.3,0.0,0.0,2.3,7.0,0.0,-0.013,-10.2,-0.1,,1000497
-grayaa01,2009-10,25,New Orleans Hornets,NBA,24,10.9,.557,.857,3.8,0.8,0.4,0.5,3.6,18.4,0.9,.172,2.8,0.3,,1000497
-grayaa01,2010-11,26,New Orleans Hornets,NBA,41,13.0,.566,.500,4.2,0.4,0.3,0.3,3.1,11.0,1.1,.100,-1.8,0.0,,1028840
-grayaa01,2011-12,27,Toronto Raptors,NBA,49,16.6,.516,.532,5.7,0.6,0.4,0.3,3.9,11.1,1.4,.082,-2.0,0.0,,2500000
-grayaa01,2012-13,28,Toronto Raptors,NBA,42,12.2,.533,.523,3.2,0.8,0.2,0.1,2.8,9.0,0.5,.050,-2.9,-0.1,,2575000
-grayaa01,2013-14,29,Toronto Raptors,NBA,37,9.6,.443,.550,3.0,0.6,0.3,0.2,1.8,7.8,0.1,.016,-2.6,-0.1,,2690875
-grayaa01,2013-14,29,Toronto Raptors,NBA,4,5.0,.667,.500,2.0,0.8,0.0,0.0,1.3,5.7,0.0,-0.007,-4.0,0.0,,2690875
-grayaa01,2013-14,29,Toronto Raptors,NBA,33,10.2,.431,.556,3.1,0.6,0.3,0.2,1.8,7.9,0.1,.018,-2.5,0.0,,2690875
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+grayaa01,2007-08,23,Chicago Bulls,NBA,61,10.0,.505,.566,2.8,0.7,0.3,0.3,4.3,13.9,0.8,.066,-2.0,0.0,,427163,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2008-09,24,Chicago Bulls,NBA,56,12.8,.485,.576,3.9,0.8,0.3,0.3,3.5,11.5,1.3,.086,-1.5,0.1,,711517,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2009-10,25,New Orleans Hornets,NBA,32,9.7,.512,.714,3.3,0.7,0.3,0.3,3.3,16.6,0.9,.142,0.7,0.2,,1000497,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2009-10,25,New Orleans Hornets,NBA,8,6.3,.381,.286,2.0,0.3,0.0,0.0,2.3,7.0,0.0,-0.013,-10.2,-0.1,,1000497,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2009-10,25,New Orleans Hornets,NBA,24,10.9,.557,.857,3.8,0.8,0.4,0.5,3.6,18.4,0.9,.172,2.8,0.3,,1000497,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2010-11,26,New Orleans Hornets,NBA,41,13.0,.566,.500,4.2,0.4,0.3,0.3,3.1,11.0,1.1,.100,-1.8,0.0,,1028840,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2011-12,27,Toronto Raptors,NBA,49,16.6,.516,.532,5.7,0.6,0.4,0.3,3.9,11.1,1.4,.082,-2.0,0.0,,2500000,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2012-13,28,Toronto Raptors,NBA,42,12.2,.533,.523,3.2,0.8,0.2,0.1,2.8,9.0,0.5,.050,-2.9,-0.1,,2575000,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2013-14,29,Toronto Raptors,NBA,37,9.6,.443,.550,3.0,0.6,0.3,0.2,1.8,7.8,0.1,.016,-2.6,-0.1,,2690875,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2013-14,29,Toronto Raptors,NBA,4,5.0,.667,.500,2.0,0.8,0.0,0.0,1.3,5.7,0.0,-0.007,-4.0,0.0,,2690875,"Emmaus in Emmaus, Pennsylvania"
+grayaa01,2013-14,29,Toronto Raptors,NBA,33,10.2,.431,.556,3.1,0.6,0.3,0.2,1.8,7.9,0.1,.018,-2.5,0.0,,2690875,"Emmaus in Emmaus, Pennsylvania"

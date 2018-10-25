@@ -1,20 +1,20 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-finlemi01,1995-96,22,Phoenix Suns,NBA,82,39.2,.476,.749,4.6,3.5,1.0,0.4,15.0,14.0,6.3,.095,1.1,2.5,,628000
-finlemi01,1996-97,23,Dallas Mavericks,NBA,83,33.6,.444,.808,4.5,2.7,0.8,0.3,15.0,14.5,3.9,.067,-0.7,0.9,,723000
-finlemi01,1996-97,23,Dallas Mavericks,NBA,27,29.5,.475,.812,4.4,2.5,0.7,0.1,13.0,14.6,1.2,.074,-1.0,0.2,,723000
-finlemi01,1996-97,23,Dallas Mavericks,NBA,56,35.6,.432,.807,4.5,2.8,0.9,0.4,16.0,14.5,2.7,.064,-0.5,0.7,,723000
-finlemi01,1997-98,24,Dallas Mavericks,NBA,82,41.4,.449,.784,5.3,4.9,1.6,0.4,21.5,19.3,7.5,.106,2.4,3.7,,816840
-finlemi01,1998-99,25,Dallas Mavericks,NBA,50,41.0,.444,.823,5.3,4.4,1.3,0.3,20.2,19.2,5.4,.126,2.6,2.4,,6000000
-finlemi01,1999-00,26,Dallas Mavericks,NBA,82,42.2,.457,.820,6.3,5.3,1.3,0.4,22.6,19.2,8.3,.114,2.4,3.8,,7200000
-finlemi01,2000-01,27,Dallas Mavericks,NBA,82,42.0,.458,.775,5.2,4.4,1.4,0.4,21.5,18.2,8.5,.119,2.3,3.7,,8400000
-finlemi01,2001-02,28,Dallas Mavericks,NBA,69,39.9,.463,.837,5.2,3.3,0.9,0.4,20.6,17.6,6.3,.110,1.0,2.1,,10625000
-finlemi01,2002-03,29,Dallas Mavericks,NBA,69,38.3,.425,.861,5.8,3.0,1.1,0.3,19.3,17.6,6.7,.123,1.6,2.4,,11953125
-finlemi01,2003-04,30,Dallas Mavericks,NBA,72,38.6,.443,.850,4.5,2.9,1.2,0.5,18.6,17.8,7.6,.131,2.3,3.0,,13281250
-finlemi01,2004-05,31,Dallas Mavericks,NBA,64,36.8,.427,.831,4.1,2.6,0.8,0.3,15.7,14.3,5.5,.112,1.0,1.8,,14609375
-finlemi01,2005-06,32,Dallas Mavericks,NBA,77,26.5,.412,.852,3.2,1.5,0.5,0.1,10.1,12.7,5.0,.117,-0.4,0.8,,15937500
-finlemi01,2006-07,33,Dallas Mavericks,NBA,82,22.2,.412,.918,2.7,1.3,0.4,0.2,9.0,13.7,4.7,.125,-0.4,0.7,,16141999
-finlemi01,2007-08,34,Dallas Mavericks,NBA,82,26.9,.414,.800,3.1,1.4,0.4,0.1,10.1,11.4,4.2,.091,-1.0,0.5,,18593750
-finlemi01,2008-09,35,San Antonio Spurs,NBA,81,28.8,.437,.823,3.3,1.4,0.5,0.2,9.7,11.4,4.4,.091,-0.5,0.9,,2500000
-finlemi01,2009-10,36,San Antonio Spurs,NBA,46,15.4,.440,.533,1.5,0.9,0.2,0.1,4.4,9.0,1.0,.066,-2.6,-0.1,,2500000
-finlemi01,2009-10,36,San Antonio Spurs,NBA,25,15.8,.381,.667,1.5,0.8,0.2,0.2,3.7,6.5,0.2,.026,-3.7,-0.2,,2500000
-finlemi01,2009-10,36,San Antonio Spurs,NBA,21,15.0,.506,.333,1.6,1.1,0.2,0.1,5.2,12.1,0.8,.115,-1.3,0.1,,2500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+finlemi01,1995-96,22,Phoenix Suns,NBA,82,39.2,.476,.749,4.6,3.5,1.0,0.4,15.0,14.0,6.3,.095,1.1,2.5,,628000,"Proviso East in Maywood, Illinois"
+finlemi01,1996-97,23,Dallas Mavericks,NBA,83,33.6,.444,.808,4.5,2.7,0.8,0.3,15.0,14.5,3.9,.067,-0.7,0.9,,723000,"Proviso East in Maywood, Illinois"
+finlemi01,1996-97,23,Dallas Mavericks,NBA,27,29.5,.475,.812,4.4,2.5,0.7,0.1,13.0,14.6,1.2,.074,-1.0,0.2,,723000,"Proviso East in Maywood, Illinois"
+finlemi01,1996-97,23,Dallas Mavericks,NBA,56,35.6,.432,.807,4.5,2.8,0.9,0.4,16.0,14.5,2.7,.064,-0.5,0.7,,723000,"Proviso East in Maywood, Illinois"
+finlemi01,1997-98,24,Dallas Mavericks,NBA,82,41.4,.449,.784,5.3,4.9,1.6,0.4,21.5,19.3,7.5,.106,2.4,3.7,,816840,"Proviso East in Maywood, Illinois"
+finlemi01,1998-99,25,Dallas Mavericks,NBA,50,41.0,.444,.823,5.3,4.4,1.3,0.3,20.2,19.2,5.4,.126,2.6,2.4,,6000000,"Proviso East in Maywood, Illinois"
+finlemi01,1999-00,26,Dallas Mavericks,NBA,82,42.2,.457,.820,6.3,5.3,1.3,0.4,22.6,19.2,8.3,.114,2.4,3.8,,7200000,"Proviso East in Maywood, Illinois"
+finlemi01,2000-01,27,Dallas Mavericks,NBA,82,42.0,.458,.775,5.2,4.4,1.4,0.4,21.5,18.2,8.5,.119,2.3,3.7,,8400000,"Proviso East in Maywood, Illinois"
+finlemi01,2001-02,28,Dallas Mavericks,NBA,69,39.9,.463,.837,5.2,3.3,0.9,0.4,20.6,17.6,6.3,.110,1.0,2.1,,10625000,"Proviso East in Maywood, Illinois"
+finlemi01,2002-03,29,Dallas Mavericks,NBA,69,38.3,.425,.861,5.8,3.0,1.1,0.3,19.3,17.6,6.7,.123,1.6,2.4,,11953125,"Proviso East in Maywood, Illinois"
+finlemi01,2003-04,30,Dallas Mavericks,NBA,72,38.6,.443,.850,4.5,2.9,1.2,0.5,18.6,17.8,7.6,.131,2.3,3.0,,13281250,"Proviso East in Maywood, Illinois"
+finlemi01,2004-05,31,Dallas Mavericks,NBA,64,36.8,.427,.831,4.1,2.6,0.8,0.3,15.7,14.3,5.5,.112,1.0,1.8,,14609375,"Proviso East in Maywood, Illinois"
+finlemi01,2005-06,32,Dallas Mavericks,NBA,77,26.5,.412,.852,3.2,1.5,0.5,0.1,10.1,12.7,5.0,.117,-0.4,0.8,,15937500,"Proviso East in Maywood, Illinois"
+finlemi01,2006-07,33,Dallas Mavericks,NBA,82,22.2,.412,.918,2.7,1.3,0.4,0.2,9.0,13.7,4.7,.125,-0.4,0.7,,16141999,"Proviso East in Maywood, Illinois"
+finlemi01,2007-08,34,Dallas Mavericks,NBA,82,26.9,.414,.800,3.1,1.4,0.4,0.1,10.1,11.4,4.2,.091,-1.0,0.5,,18593750,"Proviso East in Maywood, Illinois"
+finlemi01,2008-09,35,San Antonio Spurs,NBA,81,28.8,.437,.823,3.3,1.4,0.5,0.2,9.7,11.4,4.4,.091,-0.5,0.9,,2500000,"Proviso East in Maywood, Illinois"
+finlemi01,2009-10,36,San Antonio Spurs,NBA,46,15.4,.440,.533,1.5,0.9,0.2,0.1,4.4,9.0,1.0,.066,-2.6,-0.1,,2500000,"Proviso East in Maywood, Illinois"
+finlemi01,2009-10,36,San Antonio Spurs,NBA,25,15.8,.381,.667,1.5,0.8,0.2,0.2,3.7,6.5,0.2,.026,-3.7,-0.2,,2500000,"Proviso East in Maywood, Illinois"
+finlemi01,2009-10,36,San Antonio Spurs,NBA,21,15.0,.506,.333,1.6,1.1,0.2,0.1,5.2,12.1,0.8,.115,-1.3,0.1,,2500000,"Proviso East in Maywood, Illinois"

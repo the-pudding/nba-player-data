@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-abdelal01,1990-91,22,Portland Trail Blazers,NBA,43,6.7,.474,.568,2.1,0.3,0.1,0.3,3.1,13.1,0.5,.079,-5.0,-0.2,,395000
-abdelal01,1991-92,23,Portland Trail Blazers,NBA,71,13.2,.493,.752,3.7,0.4,0.4,0.2,6.1,13.5,2.1,.110,-3.9,-0.5,,494000
-abdelal01,1992-93,24,Boston Celtics,NBA,75,17.5,.518,.759,4.5,0.4,0.3,0.3,7.7,13.2,2.0,.074,-4.2,-0.7,,500000
-abdelal01,1992-93,24,Boston Celtics,NBA,12,13.3,.464,.750,3.1,0.8,0.5,0.3,5.3,11.9,0.1,.035,-4.3,-0.1,,500000
-abdelal01,1992-93,24,Boston Celtics,NBA,63,18.3,.525,.760,4.8,0.3,0.3,0.3,8.2,13.4,1.9,.079,-4.1,-0.6,,500000
-abdelal01,1993-94,25,Boston Celtics,NBA,13,12.2,.436,.640,3.5,0.2,0.2,0.2,4.9,9.2,-0.1,-0.032,-10.2,-0.3,,805000
-abdelal01,1994-95,26,Sacramento Kings,NBA,54,9.4,.511,.571,2.1,0.2,0.3,0.2,4.7,12.6,0.3,.027,-6.3,-0.6,,650000
-abdelal01,1994-95,26,Sacramento Kings,NBA,51,9.3,.532,.571,2.1,0.3,0.3,0.2,5.0,14.1,0.6,.058,-5.0,-0.4,,650000
-abdelal01,1994-95,26,Sacramento Kings,NBA,3,10.0,.091,,2.7,0.0,0.0,0.0,0.7,-12.5,-0.3,-0.466,-28.0,-0.2,,650000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+abdelal01,1990-91,22,Portland Trail Blazers,NBA,43,6.7,.474,.568,2.1,0.3,0.1,0.3,3.1,13.1,0.5,.079,-5.0,-0.2,,395000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1991-92,23,Portland Trail Blazers,NBA,71,13.2,.493,.752,3.7,0.4,0.4,0.2,6.1,13.5,2.1,.110,-3.9,-0.5,,494000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1992-93,24,Boston Celtics,NBA,75,17.5,.518,.759,4.5,0.4,0.3,0.3,7.7,13.2,2.0,.074,-4.2,-0.7,,500000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1992-93,24,Boston Celtics,NBA,12,13.3,.464,.750,3.1,0.8,0.5,0.3,5.3,11.9,0.1,.035,-4.3,-0.1,,500000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1992-93,24,Boston Celtics,NBA,63,18.3,.525,.760,4.8,0.3,0.3,0.3,8.2,13.4,1.9,.079,-4.1,-0.6,,500000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1993-94,25,Boston Celtics,NBA,13,12.2,.436,.640,3.5,0.2,0.2,0.2,4.9,9.2,-0.1,-0.032,-10.2,-0.3,,805000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1994-95,26,Sacramento Kings,NBA,54,9.4,.511,.571,2.1,0.2,0.3,0.2,4.7,12.6,0.3,.027,-6.3,-0.6,,650000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1994-95,26,Sacramento Kings,NBA,51,9.3,.532,.571,2.1,0.3,0.3,0.2,5.0,14.1,0.6,.058,-5.0,-0.4,,650000,"Bloomfield in Bloomfield, New Jersey"
+abdelal01,1994-95,26,Sacramento Kings,NBA,3,10.0,.091,,2.7,0.0,0.0,0.0,0.7,-12.5,-0.3,-0.466,-28.0,-0.2,,650000,"Bloomfield in Bloomfield, New Jersey"

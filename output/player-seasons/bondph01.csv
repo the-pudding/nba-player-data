@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-bondph01,1977-78,23,HOU,NBA,7,3.0,.333,,0.6,0.3,0.1,0.0,0.6,5.3,0.0,-0.092,-6.4,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+bondph01,1977-78,23,HOU,NBA,7,3.0,.333,,0.6,0.3,0.1,0.0,0.6,5.3,0.0,-0.092,-6.4,0.0,,"Manual in Louisville, Kentucky"

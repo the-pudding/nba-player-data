@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jonesas01,1994-95,23,Minnesota Timberwolves,NBA,11,12.6,.341,.813,1.0,1.5,0.5,0.0,4.1,8.3,-0.1,-0.021,-5.9,-0.1,,150000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jonesas01,1994-95,23,Minnesota Timberwolves,NBA,11,12.6,.341,.813,1.0,1.5,0.5,0.0,4.1,8.3,-0.1,-0.021,-5.9,-0.1,,150000,"Marshall in San Antonio, Texas"

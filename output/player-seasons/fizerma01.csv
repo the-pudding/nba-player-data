@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-fizerma01,2000-01,22,Chicago Bulls,NBA,72,21.9,.430,.727,4.3,1.1,0.4,0.3,9.5,11.0,-0.7,-0.022,-7.2,-2.1,,2562000
-fizerma01,2001-02,23,Chicago Bulls,NBA,76,25.8,.438,.668,5.6,1.6,0.6,0.3,12.3,14.2,1.1,.026,-3.7,-0.8,,2754120
-fizerma01,2002-03,24,Chicago Bulls,NBA,38,21.3,.465,.657,5.7,1.3,0.4,0.4,11.7,17.9,1.4,.082,-2.4,-0.1,,2946240
-fizerma01,2003-04,25,Chicago Bulls,NBA,46,16.0,.383,.750,4.4,0.9,0.3,0.2,7.8,13.4,0.5,.033,-5.6,-0.7,,3726994
-fizerma01,2004-05,26,Milwaukee Bucks,NBA,54,16.7,.455,.680,3.2,1.2,0.5,0.2,6.2,11.6,0.4,.023,-3.5,-0.3,,735960
-fizerma01,2005-06,27,NOK,NBA,3,13.0,.529,.500,2.3,0.3,0.0,0.0,6.7,14.1,0.0,.056,-7.4,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+fizerma01,2000-01,22,Chicago Bulls,NBA,72,21.9,.430,.727,4.3,1.1,0.4,0.3,9.5,11.0,-0.7,-0.022,-7.2,-2.1,,2562000,"Arcadia in Arcadia, Louisiana"
+fizerma01,2001-02,23,Chicago Bulls,NBA,76,25.8,.438,.668,5.6,1.6,0.6,0.3,12.3,14.2,1.1,.026,-3.7,-0.8,,2754120,"Arcadia in Arcadia, Louisiana"
+fizerma01,2002-03,24,Chicago Bulls,NBA,38,21.3,.465,.657,5.7,1.3,0.4,0.4,11.7,17.9,1.4,.082,-2.4,-0.1,,2946240,"Arcadia in Arcadia, Louisiana"
+fizerma01,2003-04,25,Chicago Bulls,NBA,46,16.0,.383,.750,4.4,0.9,0.3,0.2,7.8,13.4,0.5,.033,-5.6,-0.7,,3726994,"Arcadia in Arcadia, Louisiana"
+fizerma01,2004-05,26,Milwaukee Bucks,NBA,54,16.7,.455,.680,3.2,1.2,0.5,0.2,6.2,11.6,0.4,.023,-3.5,-0.3,,735960,"Arcadia in Arcadia, Louisiana"
+fizerma01,2005-06,27,NOK,NBA,3,13.0,.529,.500,2.3,0.3,0.0,0.0,6.7,14.1,0.0,.056,-7.4,-0.1,,,"Arcadia in Arcadia, Louisiana"

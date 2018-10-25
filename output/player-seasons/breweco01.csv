@@ -1,20 +1,20 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-breweco01,2007-08,21,Minnesota Timberwolves,NBA,79,22.8,.374,.800,3.7,1.4,1.0,0.3,5.8,8.3,-0.2,-0.005,-3.2,-0.5,,2535720
-breweco01,2008-09,22,Minnesota Timberwolves,NBA,15,20.5,.411,.737,3.3,1.7,1.0,0.2,6.2,11.2,0.3,.052,-0.8,0.1,,2725920
-breweco01,2009-10,23,Minnesota Timberwolves,NBA,82,30.3,.431,.648,3.4,2.4,1.4,0.4,13.0,12.1,1.0,.020,-1.6,0.2,,2916120
-breweco01,2010-11,24,New York Knicks,NBA,69,21.9,.395,.708,2.5,1.3,1.4,0.2,8.0,11.0,1.1,.036,-1.3,0.3,,3703472
-breweco01,2010-11,24,New York Knicks,NBA,56,24.3,.384,.708,2.7,1.4,1.6,0.3,8.6,10.3,0.6,.023,-1.9,0.1,,3703472
-breweco01,2010-11,24,New York Knicks,NBA,13,11.4,.490,.714,1.8,0.9,0.8,0.2,5.3,17.6,0.5,.163,3.9,0.2,,3703472
-breweco01,2011-12,25,Denver Nuggets,NBA,59,21.8,.434,.692,2.5,1.5,1.2,0.3,8.9,13.7,2.3,.085,0.3,0.8,,3059000
-breweco01,2012-13,26,Denver Nuggets,NBA,82,24.4,.425,.690,2.9,1.5,1.4,0.3,12.1,14.7,3.9,.093,0.3,1.1,,3243000
-breweco01,2013-14,27,Minnesota Timberwolves,NBA,81,32.2,.481,.718,2.6,1.7,1.9,0.4,12.3,12.7,5.2,.095,1.7,2.4,,4500000
-breweco01,2014-15,28,Houston Rockets,NBA,80,26.1,.426,.743,3.7,2.2,1.4,0.2,11.5,13.9,3.1,.071,-1.1,0.5,,4702500
-breweco01,2014-15,28,Houston Rockets,NBA,24,28.3,.418,.705,3.9,3.3,2.3,0.2,10.5,13.8,0.4,.028,-0.1,0.3,,4702500
-breweco01,2014-15,28,Houston Rockets,NBA,56,25.1,.429,.764,3.6,1.7,1.1,0.3,11.9,14.0,2.7,.091,-1.6,0.2,,4702500
-breweco01,2015-16,29,Houston Rockets,NBA,82,20.4,.384,.750,2.4,1.3,1.0,0.2,7.2,9.9,1.2,.035,-3.1,-0.5,,8200000
-breweco01,2016-17,30,Los Angeles Lakers,NBA,82,15.6,.422,.735,2.0,1.2,0.7,0.2,4.5,9.1,1.2,.045,-2.7,-0.2,,7600000
-breweco01,2016-17,30,Los Angeles Lakers,NBA,58,15.9,.414,.727,2.0,1.1,0.6,0.2,4.2,7.5,0.9,.045,-3.1,-0.3,,7600000
-breweco01,2016-17,30,Los Angeles Lakers,NBA,24,14.9,.438,.750,2.2,1.5,1.0,0.3,5.4,13.3,0.3,.047,-1.7,0.0,,7600000
-breweco01,2017-18,31,Los Angeles Lakers,NBA,72,16.8,.449,.722,2.1,0.9,1.1,0.2,5.3,11.2,2.3,.091,-0.6,0.4,,6879366
-breweco01,2017-18,31,Los Angeles Lakers,NBA,54,12.9,.453,.667,1.7,0.8,0.8,0.1,3.7,8.9,0.7,.048,-2.7,-0.1,,6879366
-breweco01,2017-18,31,Los Angeles Lakers,NBA,18,28.6,.444,.795,3.4,1.3,2.1,0.3,10.1,14.2,1.6,.150,2.1,0.5,,6879366
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+breweco01,2007-08,21,Minnesota Timberwolves,NBA,79,22.8,.374,.800,3.7,1.4,1.0,0.3,5.8,8.3,-0.2,-0.005,-3.2,-0.5,,2535720,"Portland in Portland, Tennessee"
+breweco01,2008-09,22,Minnesota Timberwolves,NBA,15,20.5,.411,.737,3.3,1.7,1.0,0.2,6.2,11.2,0.3,.052,-0.8,0.1,,2725920,"Portland in Portland, Tennessee"
+breweco01,2009-10,23,Minnesota Timberwolves,NBA,82,30.3,.431,.648,3.4,2.4,1.4,0.4,13.0,12.1,1.0,.020,-1.6,0.2,,2916120,"Portland in Portland, Tennessee"
+breweco01,2010-11,24,New York Knicks,NBA,69,21.9,.395,.708,2.5,1.3,1.4,0.2,8.0,11.0,1.1,.036,-1.3,0.3,,3703472,"Portland in Portland, Tennessee"
+breweco01,2010-11,24,New York Knicks,NBA,56,24.3,.384,.708,2.7,1.4,1.6,0.3,8.6,10.3,0.6,.023,-1.9,0.1,,3703472,"Portland in Portland, Tennessee"
+breweco01,2010-11,24,New York Knicks,NBA,13,11.4,.490,.714,1.8,0.9,0.8,0.2,5.3,17.6,0.5,.163,3.9,0.2,,3703472,"Portland in Portland, Tennessee"
+breweco01,2011-12,25,Denver Nuggets,NBA,59,21.8,.434,.692,2.5,1.5,1.2,0.3,8.9,13.7,2.3,.085,0.3,0.8,,3059000,"Portland in Portland, Tennessee"
+breweco01,2012-13,26,Denver Nuggets,NBA,82,24.4,.425,.690,2.9,1.5,1.4,0.3,12.1,14.7,3.9,.093,0.3,1.1,,3243000,"Portland in Portland, Tennessee"
+breweco01,2013-14,27,Minnesota Timberwolves,NBA,81,32.2,.481,.718,2.6,1.7,1.9,0.4,12.3,12.7,5.2,.095,1.7,2.4,,4500000,"Portland in Portland, Tennessee"
+breweco01,2014-15,28,Houston Rockets,NBA,80,26.1,.426,.743,3.7,2.2,1.4,0.2,11.5,13.9,3.1,.071,-1.1,0.5,,4702500,"Portland in Portland, Tennessee"
+breweco01,2014-15,28,Houston Rockets,NBA,24,28.3,.418,.705,3.9,3.3,2.3,0.2,10.5,13.8,0.4,.028,-0.1,0.3,,4702500,"Portland in Portland, Tennessee"
+breweco01,2014-15,28,Houston Rockets,NBA,56,25.1,.429,.764,3.6,1.7,1.1,0.3,11.9,14.0,2.7,.091,-1.6,0.2,,4702500,"Portland in Portland, Tennessee"
+breweco01,2015-16,29,Houston Rockets,NBA,82,20.4,.384,.750,2.4,1.3,1.0,0.2,7.2,9.9,1.2,.035,-3.1,-0.5,,8200000,"Portland in Portland, Tennessee"
+breweco01,2016-17,30,Los Angeles Lakers,NBA,82,15.6,.422,.735,2.0,1.2,0.7,0.2,4.5,9.1,1.2,.045,-2.7,-0.2,,7600000,"Portland in Portland, Tennessee"
+breweco01,2016-17,30,Los Angeles Lakers,NBA,58,15.9,.414,.727,2.0,1.1,0.6,0.2,4.2,7.5,0.9,.045,-3.1,-0.3,,7600000,"Portland in Portland, Tennessee"
+breweco01,2016-17,30,Los Angeles Lakers,NBA,24,14.9,.438,.750,2.2,1.5,1.0,0.3,5.4,13.3,0.3,.047,-1.7,0.0,,7600000,"Portland in Portland, Tennessee"
+breweco01,2017-18,31,Los Angeles Lakers,NBA,72,16.8,.449,.722,2.1,0.9,1.1,0.2,5.3,11.2,2.3,.091,-0.6,0.4,,6879366,"Portland in Portland, Tennessee"
+breweco01,2017-18,31,Los Angeles Lakers,NBA,54,12.9,.453,.667,1.7,0.8,0.8,0.1,3.7,8.9,0.7,.048,-2.7,-0.1,,6879366,"Portland in Portland, Tennessee"
+breweco01,2017-18,31,Los Angeles Lakers,NBA,18,28.6,.444,.795,3.4,1.3,2.1,0.3,10.1,14.2,1.6,.150,2.1,0.5,,6879366,"Portland in Portland, Tennessee"

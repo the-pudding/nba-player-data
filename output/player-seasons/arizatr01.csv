@@ -1,20 +1,20 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-arizatr01,2004-05,19,New York Knicks,NBA,80,17.3,.442,.695,3.0,1.1,0.9,0.2,5.9,13.3,2.1,.073,-1.0,0.4,,385277
-arizatr01,2005-06,20,New York Knicks,NBA,57,17.5,.412,.606,3.8,1.1,1.0,0.2,4.6,11.8,0.9,.043,-0.6,0.4,,682051
-arizatr01,2005-06,20,New York Knicks,NBA,36,19.7,.418,.545,3.8,1.3,1.2,0.3,4.6,10.2,0.3,.020,-0.3,0.3,,682051
-arizatr01,2005-06,20,New York Knicks,NBA,21,13.8,.400,.700,3.9,0.7,0.7,0.1,4.7,15.8,0.6,.101,-1.4,0.0,,682051
-arizatr01,2006-07,21,Orlando Magic,NBA,57,22.4,.539,.620,4.4,1.1,1.0,0.3,8.9,16.2,3.4,.128,1.5,1.1,,3100000
-arizatr01,2007-08,22,Los Angeles Lakers,NBA,35,15.6,.507,.653,3.1,1.3,0.9,0.3,5.5,16.1,1.8,.157,1.8,0.5,,3100000
-arizatr01,2007-08,22,Los Angeles Lakers,NBA,11,10.5,.452,.533,2.2,0.7,0.5,0.3,3.3,12.7,0.2,.085,-1.5,0.0,,3100000
-arizatr01,2007-08,22,Los Angeles Lakers,NBA,24,18.0,.524,.683,3.5,1.5,1.1,0.3,6.5,17.1,1.6,.176,2.7,0.5,,3100000
-arizatr01,2008-09,23,Los Angeles Lakers,NBA,82,24.4,.460,.710,4.3,1.8,1.7,0.3,8.9,15.5,6.1,.146,3.1,2.6,,3100000
-arizatr01,2009-10,24,Houston Rockets,NBA,72,36.5,.394,.649,5.6,3.8,1.8,0.6,14.9,13.3,3.2,.058,1.3,2.2,,5854000
-arizatr01,2010-11,25,New Orleans Hornets,NBA,75,34.7,.398,.701,5.4,2.2,1.6,0.4,11.0,11.3,3.4,.062,1.1,2.0,,6322320
-arizatr01,2011-12,26,New Orleans Hornets,NBA,41,32.9,.417,.775,5.2,3.3,1.7,0.6,10.8,14.2,2.2,.078,1.8,1.3,,6790640
-arizatr01,2012-13,27,Washington Wizards,NBA,56,26.3,.417,.821,4.8,2.0,1.3,0.4,9.5,14.0,3.1,.102,1.5,1.3,,7258960
-arizatr01,2013-14,28,Washington Wizards,NBA,77,35.4,.456,.772,6.2,2.5,1.6,0.3,14.4,15.8,8.0,.141,3.4,3.6,,7727280
-arizatr01,2014-15,29,Houston Rockets,NBA,82,35.7,.402,.853,5.6,2.5,1.9,0.2,12.8,12.7,6.6,.108,1.9,2.9,,8579089
-arizatr01,2015-16,30,Houston Rockets,NBA,81,35.3,.416,.783,4.5,2.3,2.0,0.3,12.7,12.9,5.4,.090,1.5,2.5,,8193030
-arizatr01,2016-17,31,Houston Rockets,NBA,80,34.7,.409,.738,5.7,2.2,1.8,0.3,11.7,12.4,6.0,.104,1.7,2.6,,7806971
-arizatr01,2017-18,32,Houston Rockets,NBA,67,33.9,.412,.854,4.4,1.6,1.5,0.2,11.7,11.8,5.3,.113,1.5,2.0,,7420912
-arizatr01,2018-19,33,PHO,NBA,4,33.8,.375,.857,4.5,3.5,0.3,0.3,11.5,9.6,0.0,.013,-2.4,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+arizatr01,2004-05,19,New York Knicks,NBA,80,17.3,.442,.695,3.0,1.1,0.9,0.2,5.9,13.3,2.1,.073,-1.0,0.4,,385277,"Westchester in Los Angeles, California"
+arizatr01,2005-06,20,New York Knicks,NBA,57,17.5,.412,.606,3.8,1.1,1.0,0.2,4.6,11.8,0.9,.043,-0.6,0.4,,682051,"Westchester in Los Angeles, California"
+arizatr01,2005-06,20,New York Knicks,NBA,36,19.7,.418,.545,3.8,1.3,1.2,0.3,4.6,10.2,0.3,.020,-0.3,0.3,,682051,"Westchester in Los Angeles, California"
+arizatr01,2005-06,20,New York Knicks,NBA,21,13.8,.400,.700,3.9,0.7,0.7,0.1,4.7,15.8,0.6,.101,-1.4,0.0,,682051,"Westchester in Los Angeles, California"
+arizatr01,2006-07,21,Orlando Magic,NBA,57,22.4,.539,.620,4.4,1.1,1.0,0.3,8.9,16.2,3.4,.128,1.5,1.1,,3100000,"Westchester in Los Angeles, California"
+arizatr01,2007-08,22,Los Angeles Lakers,NBA,35,15.6,.507,.653,3.1,1.3,0.9,0.3,5.5,16.1,1.8,.157,1.8,0.5,,3100000,"Westchester in Los Angeles, California"
+arizatr01,2007-08,22,Los Angeles Lakers,NBA,11,10.5,.452,.533,2.2,0.7,0.5,0.3,3.3,12.7,0.2,.085,-1.5,0.0,,3100000,"Westchester in Los Angeles, California"
+arizatr01,2007-08,22,Los Angeles Lakers,NBA,24,18.0,.524,.683,3.5,1.5,1.1,0.3,6.5,17.1,1.6,.176,2.7,0.5,,3100000,"Westchester in Los Angeles, California"
+arizatr01,2008-09,23,Los Angeles Lakers,NBA,82,24.4,.460,.710,4.3,1.8,1.7,0.3,8.9,15.5,6.1,.146,3.1,2.6,,3100000,"Westchester in Los Angeles, California"
+arizatr01,2009-10,24,Houston Rockets,NBA,72,36.5,.394,.649,5.6,3.8,1.8,0.6,14.9,13.3,3.2,.058,1.3,2.2,,5854000,"Westchester in Los Angeles, California"
+arizatr01,2010-11,25,New Orleans Hornets,NBA,75,34.7,.398,.701,5.4,2.2,1.6,0.4,11.0,11.3,3.4,.062,1.1,2.0,,6322320,"Westchester in Los Angeles, California"
+arizatr01,2011-12,26,New Orleans Hornets,NBA,41,32.9,.417,.775,5.2,3.3,1.7,0.6,10.8,14.2,2.2,.078,1.8,1.3,,6790640,"Westchester in Los Angeles, California"
+arizatr01,2012-13,27,Washington Wizards,NBA,56,26.3,.417,.821,4.8,2.0,1.3,0.4,9.5,14.0,3.1,.102,1.5,1.3,,7258960,"Westchester in Los Angeles, California"
+arizatr01,2013-14,28,Washington Wizards,NBA,77,35.4,.456,.772,6.2,2.5,1.6,0.3,14.4,15.8,8.0,.141,3.4,3.6,,7727280,"Westchester in Los Angeles, California"
+arizatr01,2014-15,29,Houston Rockets,NBA,82,35.7,.402,.853,5.6,2.5,1.9,0.2,12.8,12.7,6.6,.108,1.9,2.9,,8579089,"Westchester in Los Angeles, California"
+arizatr01,2015-16,30,Houston Rockets,NBA,81,35.3,.416,.783,4.5,2.3,2.0,0.3,12.7,12.9,5.4,.090,1.5,2.5,,8193030,"Westchester in Los Angeles, California"
+arizatr01,2016-17,31,Houston Rockets,NBA,80,34.7,.409,.738,5.7,2.2,1.8,0.3,11.7,12.4,6.0,.104,1.7,2.6,,7806971,"Westchester in Los Angeles, California"
+arizatr01,2017-18,32,Houston Rockets,NBA,67,33.9,.412,.854,4.4,1.6,1.5,0.2,11.7,11.8,5.3,.113,1.5,2.0,,7420912,"Westchester in Los Angeles, California"
+arizatr01,2018-19,33,PHO,NBA,4,33.8,.375,.857,4.5,3.5,0.3,0.3,11.5,9.6,0.0,.013,-2.4,0.0,,,"Westchester in Los Angeles, California"

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-dekkesa01,2015-16,21,Houston Rockets,NBA,3,2.0,,,0.3,0.0,0.3,0.0,0.0,10.8,0.0,.116,0.5,0.0,,1646400
-dekkesa01,2016-17,22,Houston Rockets,NBA,77,18.4,.473,.559,3.7,1.0,0.5,0.3,6.5,13.1,3.1,.104,-1.0,0.3,,1720560
-dekkesa01,2017-18,23,Los Angeles Clippers,NBA,73,12.1,.494,.661,2.4,0.5,0.3,0.1,4.2,11.5,1.2,.066,-3.1,-0.2,,1794600
-dekkesa01,2018-19,24,CLE,NBA,4,10.8,.583,.667,3.3,0.5,0.8,0.0,5.0,19.0,0.1,.130,0.4,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+dekkesa01,2015-16,21,Houston Rockets,NBA,3,2.0,,,0.3,0.0,0.3,0.0,0.0,10.8,0.0,.116,0.5,0.0,,1646400,"Sheboygan Lutheran in Sheboygan, Wisconsin"
+dekkesa01,2016-17,22,Houston Rockets,NBA,77,18.4,.473,.559,3.7,1.0,0.5,0.3,6.5,13.1,3.1,.104,-1.0,0.3,,1720560,"Sheboygan Lutheran in Sheboygan, Wisconsin"
+dekkesa01,2017-18,23,Los Angeles Clippers,NBA,73,12.1,.494,.661,2.4,0.5,0.3,0.1,4.2,11.5,1.2,.066,-3.1,-0.2,,1794600,"Sheboygan Lutheran in Sheboygan, Wisconsin"
+dekkesa01,2018-19,24,CLE,NBA,4,10.8,.583,.667,3.3,0.5,0.8,0.0,5.0,19.0,0.1,.130,0.4,0.0,,,"Sheboygan Lutheran in Sheboygan, Wisconsin"

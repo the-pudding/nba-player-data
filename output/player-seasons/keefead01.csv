@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-keefead01,1992-93,22,Atlanta Hawks,NBA,82,18.9,.500,.700,5.3,1.0,0.7,0.2,6.6,13.6,3.3,.102,-1.0,0.4,,1000000
-keefead01,1993-94,23,Atlanta Hawks,NBA,63,12.1,.451,.730,3.2,0.5,0.3,0.1,4.3,12.0,1.4,.091,-3.8,-0.3,,1200000
-keefead01,1994-95,24,Utah Jazz,NBA,75,16.9,.577,.676,4.4,0.4,0.5,0.3,6.1,15.1,4.1,.154,0.8,0.9,,1500000
-keefead01,1995-96,25,Utah Jazz,NBA,82,20.8,.520,.692,5.5,0.8,0.6,0.5,6.1,13.8,4.6,.130,1.5,1.5,,1650000
-keefead01,1996-97,26,Utah Jazz,NBA,62,14.8,.513,.689,3.5,0.5,0.5,0.2,3.8,11.7,2.3,.118,-0.2,0.4,,1950000
-keefead01,1997-98,27,Utah Jazz,NBA,80,25.6,.540,.810,5.5,1.1,0.7,0.3,7.8,14.5,6.5,.153,2.3,2.2,,2300000
-keefead01,1998-99,28,Utah Jazz,NBA,44,14.6,.452,.697,3.2,0.6,0.4,0.3,4.0,12.2,1.7,.126,-0.4,0.2,,2650000
-keefead01,1999-00,29,Utah Jazz,NBA,62,9.7,.408,.806,2.2,0.5,0.3,0.2,2.2,7.6,0.4,.030,-2.8,-0.1,,3000000
-keefead01,2000-01,30,Golden State Warriors,NBA,67,12.5,.403,.619,3.1,0.5,0.4,0.3,2.5,9.7,0.6,.032,-3.7,-0.3,,3390000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+keefead01,1992-93,22,Atlanta Hawks,NBA,82,18.9,.500,.700,5.3,1.0,0.7,0.2,6.6,13.6,3.3,.102,-1.0,0.4,,1000000,"Woodbridge in Irvine, California"
+keefead01,1993-94,23,Atlanta Hawks,NBA,63,12.1,.451,.730,3.2,0.5,0.3,0.1,4.3,12.0,1.4,.091,-3.8,-0.3,,1200000,"Woodbridge in Irvine, California"
+keefead01,1994-95,24,Utah Jazz,NBA,75,16.9,.577,.676,4.4,0.4,0.5,0.3,6.1,15.1,4.1,.154,0.8,0.9,,1500000,"Woodbridge in Irvine, California"
+keefead01,1995-96,25,Utah Jazz,NBA,82,20.8,.520,.692,5.5,0.8,0.6,0.5,6.1,13.8,4.6,.130,1.5,1.5,,1650000,"Woodbridge in Irvine, California"
+keefead01,1996-97,26,Utah Jazz,NBA,62,14.8,.513,.689,3.5,0.5,0.5,0.2,3.8,11.7,2.3,.118,-0.2,0.4,,1950000,"Woodbridge in Irvine, California"
+keefead01,1997-98,27,Utah Jazz,NBA,80,25.6,.540,.810,5.5,1.1,0.7,0.3,7.8,14.5,6.5,.153,2.3,2.2,,2300000,"Woodbridge in Irvine, California"
+keefead01,1998-99,28,Utah Jazz,NBA,44,14.6,.452,.697,3.2,0.6,0.4,0.3,4.0,12.2,1.7,.126,-0.4,0.2,,2650000,"Woodbridge in Irvine, California"
+keefead01,1999-00,29,Utah Jazz,NBA,62,9.7,.408,.806,2.2,0.5,0.3,0.2,2.2,7.6,0.4,.030,-2.8,-0.1,,3000000,"Woodbridge in Irvine, California"
+keefead01,2000-01,30,Golden State Warriors,NBA,67,12.5,.403,.619,3.1,0.5,0.4,0.3,2.5,9.7,0.6,.032,-3.7,-0.3,,3390000,"Woodbridge in Irvine, California"

@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-youngth01,2007-08,19,Philadelphia 76ers,NBA,74,21.0,.539,.738,4.2,0.8,1.0,0.1,8.2,16.5,4.5,.140,0.6,1.0,,1830720
-youngth01,2008-09,20,Philadelphia 76ers,NBA,75,34.4,.495,.735,5.0,1.1,1.3,0.3,15.3,15.3,5.5,.102,0.5,1.7,,1968120
-youngth01,2009-10,21,Philadelphia 76ers,NBA,67,32.0,.470,.691,5.2,1.4,1.2,0.2,13.8,14.0,2.1,.047,-1.8,0.1,,2105400
-youngth01,2010-11,22,Philadelphia 76ers,NBA,82,26.0,.541,.707,5.3,1.0,1.1,0.3,12.7,18.4,6.2,.139,0.3,1.2,,2901241
-youngth01,2011-12,23,Philadelphia 76ers,NBA,63,27.9,.507,.771,5.2,1.2,1.0,0.7,12.8,18.9,6.3,.171,1.6,1.6,,7478261
-youngth01,2012-13,24,Philadelphia 76ers,NBA,76,34.6,.531,.574,7.5,1.6,1.8,0.7,14.8,18.2,7.4,.136,1.7,2.5,,8289130
-youngth01,2013-14,25,Philadelphia 76ers,NBA,79,34.4,.454,.712,6.0,2.3,2.1,0.5,17.9,16.6,3.5,.062,-0.2,1.2,,8600000
-youngth01,2014-15,26,Brooklyn Nets,NBA,76,32.0,.466,.655,5.4,2.3,1.6,0.3,14.1,15.7,3.1,.061,-0.1,1.2,,9410870
-youngth01,2014-15,26,Brooklyn Nets,NBA,48,33.4,.451,.682,5.1,2.8,1.8,0.4,14.3,15.0,1.4,.043,-0.4,0.7,,9410870
-youngth01,2014-15,26,Brooklyn Nets,NBA,28,29.6,.495,.606,5.9,1.4,1.4,0.3,13.8,17.1,1.6,.095,0.3,0.5,,9410870
-youngth01,2015-16,27,Brooklyn Nets,NBA,73,33.0,.514,.644,9.0,1.8,1.5,0.5,15.1,17.5,4.1,.081,0.1,1.3,,11200000
-youngth01,2016-17,28,Indiana Pacers,NBA,74,30.2,.527,.523,6.1,1.6,1.5,0.4,11.0,14.9,4.6,.100,1.4,1.9,,14153652
-youngth01,2017-18,29,Indiana Pacers,NBA,81,32.2,.487,.598,6.3,1.9,1.7,0.4,11.8,14.8,5.5,.101,1.5,2.3,,14796348
-youngth01,2018-19,30,IND,NBA,5,29.0,.561,.429,4.4,1.0,0.8,0.4,10.0,11.4,0.3,.103,0.3,0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+youngth01,2007-08,19,Philadelphia 76ers,NBA,74,21.0,.539,.738,4.2,0.8,1.0,0.1,8.2,16.5,4.5,.140,0.6,1.0,,1830720,"Mitchell in Memphis, Tennessee"
+youngth01,2008-09,20,Philadelphia 76ers,NBA,75,34.4,.495,.735,5.0,1.1,1.3,0.3,15.3,15.3,5.5,.102,0.5,1.7,,1968120,"Mitchell in Memphis, Tennessee"
+youngth01,2009-10,21,Philadelphia 76ers,NBA,67,32.0,.470,.691,5.2,1.4,1.2,0.2,13.8,14.0,2.1,.047,-1.8,0.1,,2105400,"Mitchell in Memphis, Tennessee"
+youngth01,2010-11,22,Philadelphia 76ers,NBA,82,26.0,.541,.707,5.3,1.0,1.1,0.3,12.7,18.4,6.2,.139,0.3,1.2,,2901241,"Mitchell in Memphis, Tennessee"
+youngth01,2011-12,23,Philadelphia 76ers,NBA,63,27.9,.507,.771,5.2,1.2,1.0,0.7,12.8,18.9,6.3,.171,1.6,1.6,,7478261,"Mitchell in Memphis, Tennessee"
+youngth01,2012-13,24,Philadelphia 76ers,NBA,76,34.6,.531,.574,7.5,1.6,1.8,0.7,14.8,18.2,7.4,.136,1.7,2.5,,8289130,"Mitchell in Memphis, Tennessee"
+youngth01,2013-14,25,Philadelphia 76ers,NBA,79,34.4,.454,.712,6.0,2.3,2.1,0.5,17.9,16.6,3.5,.062,-0.2,1.2,,8600000,"Mitchell in Memphis, Tennessee"
+youngth01,2014-15,26,Brooklyn Nets,NBA,76,32.0,.466,.655,5.4,2.3,1.6,0.3,14.1,15.7,3.1,.061,-0.1,1.2,,9410870,"Mitchell in Memphis, Tennessee"
+youngth01,2014-15,26,Brooklyn Nets,NBA,48,33.4,.451,.682,5.1,2.8,1.8,0.4,14.3,15.0,1.4,.043,-0.4,0.7,,9410870,"Mitchell in Memphis, Tennessee"
+youngth01,2014-15,26,Brooklyn Nets,NBA,28,29.6,.495,.606,5.9,1.4,1.4,0.3,13.8,17.1,1.6,.095,0.3,0.5,,9410870,"Mitchell in Memphis, Tennessee"
+youngth01,2015-16,27,Brooklyn Nets,NBA,73,33.0,.514,.644,9.0,1.8,1.5,0.5,15.1,17.5,4.1,.081,0.1,1.3,,11200000,"Mitchell in Memphis, Tennessee"
+youngth01,2016-17,28,Indiana Pacers,NBA,74,30.2,.527,.523,6.1,1.6,1.5,0.4,11.0,14.9,4.6,.100,1.4,1.9,,14153652,"Mitchell in Memphis, Tennessee"
+youngth01,2017-18,29,Indiana Pacers,NBA,81,32.2,.487,.598,6.3,1.9,1.7,0.4,11.8,14.8,5.5,.101,1.5,2.3,,14796348,"Mitchell in Memphis, Tennessee"
+youngth01,2018-19,30,IND,NBA,5,29.0,.561,.429,4.4,1.0,0.8,0.4,10.0,11.4,0.3,.103,0.3,0.1,,,"Mitchell in Memphis, Tennessee"

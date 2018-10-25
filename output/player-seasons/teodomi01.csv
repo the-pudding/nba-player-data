@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-teodomi01,2017-18,30,Los Angeles Clippers,NBA,45,25.2,.419,.848,2.8,4.6,0.5,0.1,9.5,11.6,1.4,.058,-1.4,0.2,,6000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+teodomi01,2017-18,30,Los Angeles Clippers,NBA,45,25.2,.419,.848,2.8,4.6,0.5,0.1,9.5,11.6,1.4,.058,-1.4,0.2,,6000000,

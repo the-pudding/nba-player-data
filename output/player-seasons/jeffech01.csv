@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jeffech01,2002-03,22,Toronto Raptors,NBA,51,13.1,.387,.674,1.2,0.4,0.4,0.3,3.9,6.8,-0.5,-0.039,-6.7,-0.8,,781800
-jeffech01,2003-04,23,Chicago Bulls,NBA,21,9.3,.375,.650,1.4,0.3,0.2,0.3,4.0,8.4,0.0,.000,-5.0,-0.1,,840360
-jeffech01,2003-04,23,Chicago Bulls,NBA,2,4.0,.500,1.000,0.5,0.5,0.0,0.0,4.0,33.3,0.0,.160,8.9,0.0,,840360
-jeffech01,2003-04,23,Chicago Bulls,NBA,19,9.8,.364,.632,1.5,0.3,0.2,0.4,4.0,7.4,0.0,-0.007,-5.6,-0.2,,840360
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jeffech01,2002-03,22,Toronto Raptors,NBA,51,13.1,.387,.674,1.2,0.4,0.4,0.3,3.9,6.8,-0.5,-0.039,-6.7,-0.8,,781800,"Washington Union in Fresno, California"
+jeffech01,2003-04,23,Chicago Bulls,NBA,21,9.3,.375,.650,1.4,0.3,0.2,0.3,4.0,8.4,0.0,.000,-5.0,-0.1,,840360,"Washington Union in Fresno, California"
+jeffech01,2003-04,23,Chicago Bulls,NBA,2,4.0,.500,1.000,0.5,0.5,0.0,0.0,4.0,33.3,0.0,.160,8.9,0.0,,840360,"Washington Union in Fresno, California"
+jeffech01,2003-04,23,Chicago Bulls,NBA,19,9.8,.364,.632,1.5,0.3,0.2,0.4,4.0,7.4,0.0,-0.007,-5.6,-0.2,,840360,"Washington Union in Fresno, California"

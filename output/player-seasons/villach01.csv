@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-villach01,2005-06,21,Toronto Raptors,NBA,81,29.1,.463,.706,6.4,1.1,0.7,0.8,13.0,16.4,3.9,.079,-1.0,0.6,,2360880
-villach01,2006-07,22,Milwaukee Bucks,NBA,39,25.2,.470,.820,5.8,0.9,0.6,0.3,11.8,15.8,1.7,.085,-2.9,-0.2,,2537880
-villach01,2007-08,23,Milwaukee Bucks,NBA,76,24.1,.435,.783,6.1,1.0,0.4,0.5,11.7,14.9,1.7,.045,-4.0,-0.9,,2715000
-villach01,2008-09,24,Milwaukee Bucks,NBA,78,26.9,.447,.838,6.7,1.8,0.6,0.7,16.2,18.6,4.9,.112,0.7,1.4,,3448050
-villach01,2009-10,25,Detroit Pistons,NBA,78,23.7,.439,.815,4.7,0.7,0.6,0.7,11.9,16.0,3.5,.092,-1.9,0.1,,6500000
-villach01,2010-11,26,Detroit Pistons,NBA,76,21.9,.442,.767,3.9,0.6,0.6,0.6,11.1,15.9,3.1,.091,-1.8,0.1,,7020000
-villach01,2011-12,27,Detroit Pistons,NBA,13,13.8,.385,.857,3.7,0.5,0.5,0.4,7.0,16.2,0.4,.096,-2.5,0.0,,7540000
-villach01,2012-13,28,Detroit Pistons,NBA,69,15.8,.377,.551,3.5,0.8,0.4,0.6,6.8,14.0,1.6,.069,-1.5,0.1,,8060000
-villach01,2013-14,29,Detroit Pistons,NBA,20,9.0,.380,.571,1.7,0.3,0.2,0.3,4.6,12.7,0.1,.034,-5.2,-0.1,,8580000
-villach01,2014-15,30,Dallas Mavericks,NBA,64,10.6,.414,.571,2.3,0.3,0.2,0.3,6.3,17.4,1.4,.096,-1.8,0.0,,1316809
-villach01,2015-16,31,Dallas Mavericks,NBA,62,10.7,.382,.917,2.5,0.4,0.3,0.2,5.1,11.9,0.2,.016,-4.6,-0.4,,1499187
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+villach01,2005-06,21,Toronto Raptors,NBA,81,29.1,.463,.706,6.4,1.1,0.7,0.8,13.0,16.4,3.9,.079,-1.0,0.6,,2360880,"Blair Academy in Blairstown, New Jersey"
+villach01,2006-07,22,Milwaukee Bucks,NBA,39,25.2,.470,.820,5.8,0.9,0.6,0.3,11.8,15.8,1.7,.085,-2.9,-0.2,,2537880,"Blair Academy in Blairstown, New Jersey"
+villach01,2007-08,23,Milwaukee Bucks,NBA,76,24.1,.435,.783,6.1,1.0,0.4,0.5,11.7,14.9,1.7,.045,-4.0,-0.9,,2715000,"Blair Academy in Blairstown, New Jersey"
+villach01,2008-09,24,Milwaukee Bucks,NBA,78,26.9,.447,.838,6.7,1.8,0.6,0.7,16.2,18.6,4.9,.112,0.7,1.4,,3448050,"Blair Academy in Blairstown, New Jersey"
+villach01,2009-10,25,Detroit Pistons,NBA,78,23.7,.439,.815,4.7,0.7,0.6,0.7,11.9,16.0,3.5,.092,-1.9,0.1,,6500000,"Blair Academy in Blairstown, New Jersey"
+villach01,2010-11,26,Detroit Pistons,NBA,76,21.9,.442,.767,3.9,0.6,0.6,0.6,11.1,15.9,3.1,.091,-1.8,0.1,,7020000,"Blair Academy in Blairstown, New Jersey"
+villach01,2011-12,27,Detroit Pistons,NBA,13,13.8,.385,.857,3.7,0.5,0.5,0.4,7.0,16.2,0.4,.096,-2.5,0.0,,7540000,"Blair Academy in Blairstown, New Jersey"
+villach01,2012-13,28,Detroit Pistons,NBA,69,15.8,.377,.551,3.5,0.8,0.4,0.6,6.8,14.0,1.6,.069,-1.5,0.1,,8060000,"Blair Academy in Blairstown, New Jersey"
+villach01,2013-14,29,Detroit Pistons,NBA,20,9.0,.380,.571,1.7,0.3,0.2,0.3,4.6,12.7,0.1,.034,-5.2,-0.1,,8580000,"Blair Academy in Blairstown, New Jersey"
+villach01,2014-15,30,Dallas Mavericks,NBA,64,10.6,.414,.571,2.3,0.3,0.2,0.3,6.3,17.4,1.4,.096,-1.8,0.0,,1316809,"Blair Academy in Blairstown, New Jersey"
+villach01,2015-16,31,Dallas Mavericks,NBA,62,10.7,.382,.917,2.5,0.4,0.3,0.2,5.1,11.9,0.2,.016,-4.6,-0.4,,1499187,"Blair Academy in Blairstown, New Jersey"

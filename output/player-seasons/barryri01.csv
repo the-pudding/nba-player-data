@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-barryri01,1976-77,32,GSW,NBA,79,36.8,.440,.916,5.3,6.0,2.2,0.7,21.8,19.3,8.4,.139,3.0,3.7,
-barryri01,1977-78,33,GSW,NBA,82,36.9,.451,.924,5.5,5.4,1.9,0.5,23.1,20.9,9.7,.154,3.1,3.9,
-barryri01,1978-79,34,HOU,NBA,80,32.1,.461,.947,3.5,6.3,1.2,0.5,13.5,14.7,4.2,.078,-0.2,1.1,
-barryri01,1979-80,35,HOU,NBA,72,25.2,.422,.935,3.3,3.7,1.1,0.4,12.0,14.8,3.4,.090,0.6,1.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+barryri01,1976-77,32,GSW,NBA,79,36.8,.440,.916,5.3,6.0,2.2,0.7,21.8,19.3,8.4,.139,3.0,3.7,,"Roselle Park in Roselle Park, New Jersey"
+barryri01,1977-78,33,GSW,NBA,82,36.9,.451,.924,5.5,5.4,1.9,0.5,23.1,20.9,9.7,.154,3.1,3.9,,"Roselle Park in Roselle Park, New Jersey"
+barryri01,1978-79,34,HOU,NBA,80,32.1,.461,.947,3.5,6.3,1.2,0.5,13.5,14.7,4.2,.078,-0.2,1.1,,"Roselle Park in Roselle Park, New Jersey"
+barryri01,1979-80,35,HOU,NBA,72,25.2,.422,.935,3.3,3.7,1.1,0.4,12.0,14.8,3.4,.090,0.6,1.2,,"Roselle Park in Roselle Park, New Jersey"

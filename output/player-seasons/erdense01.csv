@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-erdense01,2010-11,24,Cleveland Cavaliers,NBA,41,14.5,.559,.650,2.9,0.5,0.4,0.6,4.0,10.3,1.4,.115,-0.5,0.2,,473604
-erdense01,2010-11,24,Cleveland Cavaliers,NBA,37,14.4,.598,.630,2.9,0.5,0.4,0.6,4.1,10.8,1.4,.128,0.1,0.3,,473604
-erdense01,2010-11,24,Cleveland Cavaliers,NBA,4,16.0,.286,.833,2.8,0.3,0.5,0.8,3.3,6.2,0.0,.002,-5.3,-0.1,,473604
-erdense01,2011-12,25,Cleveland Cavaliers,NBA,28,11.9,.527,.512,2.6,0.3,0.4,0.2,3.5,9.9,0.4,.057,-4.7,-0.2,,762195
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+erdense01,2010-11,24,Cleveland Cavaliers,NBA,41,14.5,.559,.650,2.9,0.5,0.4,0.6,4.0,10.3,1.4,.115,-0.5,0.2,,473604,
+erdense01,2010-11,24,Cleveland Cavaliers,NBA,37,14.4,.598,.630,2.9,0.5,0.4,0.6,4.1,10.8,1.4,.128,0.1,0.3,,473604,
+erdense01,2010-11,24,Cleveland Cavaliers,NBA,4,16.0,.286,.833,2.8,0.3,0.5,0.8,3.3,6.2,0.0,.002,-5.3,-0.1,,473604,
+erdense01,2011-12,25,Cleveland Cavaliers,NBA,28,11.9,.527,.512,2.6,0.3,0.4,0.2,3.5,9.9,0.4,.057,-4.7,-0.2,,762195,

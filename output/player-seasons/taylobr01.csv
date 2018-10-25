@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-taylobr01,1976-77,25,KCK,NBA,72,34.6,.504,.818,3.3,4.4,2.8,0.2,17.0,17.6,7.9,.152,3.7,3.6,
-taylobr01,1977-78,26,DEN,NBA,39,31.3,.452,.765,2.5,3.4,1.8,0.2,11.6,11.6,1.8,.071,-1.2,0.2,
-taylobr01,1978-79,27,SDC,NBA,20,10.6,.361,.889,1.3,1.0,1.2,0.0,3.8,11.1,0.1,.032,-1.5,0.0,
-taylobr01,1979-80,28,SDC,NBA,78,35.3,.467,.802,2.4,4.3,1.9,0.3,13.5,13.9,5.6,.098,1.1,2.2,
-taylobr01,1980-81,29,SDC,NBA,80,28.9,.525,.789,1.9,5.5,1.5,0.3,10.1,15.9,7.1,.146,1.2,1.9,
-taylobr01,1981-82,30,SDC,NBA,41,31.1,.503,.818,2.3,5.6,1.1,0.2,10.8,13.7,2.3,.085,-0.8,0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+taylobr01,1976-77,25,KCK,NBA,72,34.6,.504,.818,3.3,4.4,2.8,0.2,17.0,17.6,7.9,.152,3.7,3.6,,"Perth Amboy in Perth Amboy, New Jersey"
+taylobr01,1977-78,26,DEN,NBA,39,31.3,.452,.765,2.5,3.4,1.8,0.2,11.6,11.6,1.8,.071,-1.2,0.2,,"Perth Amboy in Perth Amboy, New Jersey"
+taylobr01,1978-79,27,SDC,NBA,20,10.6,.361,.889,1.3,1.0,1.2,0.0,3.8,11.1,0.1,.032,-1.5,0.0,,"Perth Amboy in Perth Amboy, New Jersey"
+taylobr01,1979-80,28,SDC,NBA,78,35.3,.467,.802,2.4,4.3,1.9,0.3,13.5,13.9,5.6,.098,1.1,2.2,,"Perth Amboy in Perth Amboy, New Jersey"
+taylobr01,1980-81,29,SDC,NBA,80,28.9,.525,.789,1.9,5.5,1.5,0.3,10.1,15.9,7.1,.146,1.2,1.9,,"Perth Amboy in Perth Amboy, New Jersey"
+taylobr01,1981-82,30,SDC,NBA,41,31.1,.503,.818,2.3,5.6,1.1,0.2,10.8,13.7,2.3,.085,-0.8,0.4,,"Perth Amboy in Perth Amboy, New Jersey"

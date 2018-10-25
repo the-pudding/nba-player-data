@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bakerro01,2016-17,23,New York Knicks,NBA,52,16.5,.378,.651,1.9,2.1,0.7,0.2,4.1,7.5,-0.1,-0.008,-4.4,-0.5,,543471
-bakerro01,2017-18,24,New York Knicks,NBA,29,13.3,.339,.769,1.0,1.6,0.9,0.2,2.4,9.3,0.5,.059,-1.0,0.1,,4328000
-bakerro01,2018-19,25,NYK,NBA,5,15.4,.111,.750,0.8,1.4,0.4,0.0,1.0,-0.5,-0.1,-0.037,-5.8,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+bakerro01,2016-17,23,New York Knicks,NBA,52,16.5,.378,.651,1.9,2.1,0.7,0.2,4.1,7.5,-0.1,-0.008,-4.4,-0.5,,543471,"Scott City in Scott City, Kansas"
+bakerro01,2017-18,24,New York Knicks,NBA,29,13.3,.339,.769,1.0,1.6,0.9,0.2,2.4,9.3,0.5,.059,-1.0,0.1,,4328000,"Scott City in Scott City, Kansas"
+bakerro01,2018-19,25,NYK,NBA,5,15.4,.111,.750,0.8,1.4,0.4,0.0,1.0,-0.5,-0.1,-0.037,-5.8,-0.1,,,"Scott City in Scott City, Kansas"

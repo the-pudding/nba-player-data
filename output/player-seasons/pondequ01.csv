@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-pondequ01,2010-11,22,New Orleans Hornets,NBA,66,11.1,.406,.706,1.3,0.4,0.3,0.2,2.8,8.5,0.9,.060,-2.8,-0.1,,1073280
-pondequ01,2011-12,23,Memphis Grizzlies,NBA,64,15.7,.452,.623,2.0,0.4,0.4,0.1,4.2,9.4,1.7,.082,-1.9,0.0,,1153800
-pondequ01,2012-13,24,Memphis Grizzlies,NBA,59,21.1,.428,.787,2.2,1.0,0.6,0.1,6.4,11.0,3.2,.125,0.6,0.8,,1234320
-pondequ01,2013-14,25,Memphis Grizzlies,NBA,15,18.0,.392,.808,1.7,1.3,0.3,0.1,6.3,10.3,0.4,.063,-2.6,0.0,,2225479
-pondequ01,2014-15,26,New Orleans Pelicans,NBA,75,23.9,.421,.740,2.6,1.3,0.3,0.3,7.2,9.9,2.9,.078,-0.7,0.6,,3146068
-pondequ01,2014-15,26,New Orleans Pelicans,NBA,30,18.0,.356,.700,1.9,0.9,0.2,0.2,4.5,7.1,0.6,.051,-2.4,0.0,,3146068
-pondequ01,2014-15,26,New Orleans Pelicans,NBA,45,27.8,.449,.758,3.1,1.5,0.3,0.4,9.0,11.1,2.3,.089,0.0,0.6,,3146068
-pondequ01,2015-16,27,New Orleans Pelicans,NBA,,,,,,,,,,,,,,,,3382023
-pondequ01,2016-17,28,New Orleans Pelicans,NBA,,,,,,,,,,,,,,,,3617978
-pondequ01,2017-18,29,Chicago Bulls,NBA,23,8.5,.286,.824,1.2,0.4,0.3,0.1,2.0,4.0,-0.2,-0.047,-6.7,-0.2,,3853931
-pondequ01,2018-19,30,SAS,NBA,2,4.5,.333,,1.0,0.0,1.0,0.0,1.0,13.2,0.0,-0.055,-0.3,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+pondequ01,2010-11,22,New Orleans Hornets,NBA,66,11.1,.406,.706,1.3,0.4,0.3,0.2,2.8,8.5,0.9,.060,-2.8,-0.1,,1073280,"San Joaquin Memorial in Fresno, California"
+pondequ01,2011-12,23,Memphis Grizzlies,NBA,64,15.7,.452,.623,2.0,0.4,0.4,0.1,4.2,9.4,1.7,.082,-1.9,0.0,,1153800,"San Joaquin Memorial in Fresno, California"
+pondequ01,2012-13,24,Memphis Grizzlies,NBA,59,21.1,.428,.787,2.2,1.0,0.6,0.1,6.4,11.0,3.2,.125,0.6,0.8,,1234320,"San Joaquin Memorial in Fresno, California"
+pondequ01,2013-14,25,Memphis Grizzlies,NBA,15,18.0,.392,.808,1.7,1.3,0.3,0.1,6.3,10.3,0.4,.063,-2.6,0.0,,2225479,"San Joaquin Memorial in Fresno, California"
+pondequ01,2014-15,26,New Orleans Pelicans,NBA,75,23.9,.421,.740,2.6,1.3,0.3,0.3,7.2,9.9,2.9,.078,-0.7,0.6,,3146068,"San Joaquin Memorial in Fresno, California"
+pondequ01,2014-15,26,New Orleans Pelicans,NBA,30,18.0,.356,.700,1.9,0.9,0.2,0.2,4.5,7.1,0.6,.051,-2.4,0.0,,3146068,"San Joaquin Memorial in Fresno, California"
+pondequ01,2014-15,26,New Orleans Pelicans,NBA,45,27.8,.449,.758,3.1,1.5,0.3,0.4,9.0,11.1,2.3,.089,0.0,0.6,,3146068,"San Joaquin Memorial in Fresno, California"
+pondequ01,2015-16,27,New Orleans Pelicans,NBA,,,,,,,,,,,,,,,,3382023,"San Joaquin Memorial in Fresno, California"
+pondequ01,2016-17,28,New Orleans Pelicans,NBA,,,,,,,,,,,,,,,,3617978,"San Joaquin Memorial in Fresno, California"
+pondequ01,2017-18,29,Chicago Bulls,NBA,23,8.5,.286,.824,1.2,0.4,0.3,0.1,2.0,4.0,-0.2,-0.047,-6.7,-0.2,,3853931,"San Joaquin Memorial in Fresno, California"
+pondequ01,2018-19,30,SAS,NBA,2,4.5,.333,,1.0,0.0,1.0,0.0,1.0,13.2,0.0,-0.055,-0.3,0.0,,,"San Joaquin Memorial in Fresno, California"

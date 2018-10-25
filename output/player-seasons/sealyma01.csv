@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-sealyma01,1992-93,22,Indiana Pacers,NBA,58,11.6,.426,.689,1.9,0.8,0.6,0.1,5.7,12.7,0.2,.014,-3.6,-0.3,,790000
-sealyma01,1993-94,23,Indiana Pacers,NBA,43,14.5,.405,.678,2.7,1.1,0.7,0.2,6.6,12.1,0.6,.043,-2.9,-0.1,,1023000
-sealyma01,1994-95,24,Los Angeles Clippers,NBA,60,26.7,.435,.780,3.6,1.8,1.2,0.4,13.0,14.7,2.1,.062,-1.7,0.1,,1260000
-sealyma01,1995-96,25,Los Angeles Clippers,NBA,62,25.8,.415,.799,3.9,1.9,1.4,0.5,11.5,13.8,1.2,.036,-2.1,0.0,,1495000
-sealyma01,1996-97,26,Los Angeles Clippers,NBA,80,30.7,.396,.876,3.0,2.1,1.6,0.6,13.5,13.7,3.2,.063,-0.9,0.7,,1732000
-sealyma01,1997-98,27,Detroit Pistons,NBA,77,21.3,.428,.824,2.8,1.3,0.8,0.3,7.7,12.8,3.2,.093,-1.6,0.2,,1150000
-sealyma01,1998-99,28,Minnesota Timberwolves,NBA,31,23.6,.411,.902,3.0,1.2,1.0,0.2,8.1,11.1,1.1,.074,-2.6,-0.1,,1000000
-sealyma01,1999-00,29,Minnesota Timberwolves,NBA,82,29.2,.476,.812,4.3,2.4,0.9,0.2,11.3,14.4,5.5,.111,0.1,1.3,,1100000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+sealyma01,1992-93,22,Indiana Pacers,NBA,58,11.6,.426,.689,1.9,0.8,0.6,0.1,5.7,12.7,0.2,.014,-3.6,-0.3,,790000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1993-94,23,Indiana Pacers,NBA,43,14.5,.405,.678,2.7,1.1,0.7,0.2,6.6,12.1,0.6,.043,-2.9,-0.1,,1023000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1994-95,24,Los Angeles Clippers,NBA,60,26.7,.435,.780,3.6,1.8,1.2,0.4,13.0,14.7,2.1,.062,-1.7,0.1,,1260000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1995-96,25,Los Angeles Clippers,NBA,62,25.8,.415,.799,3.9,1.9,1.4,0.5,11.5,13.8,1.2,.036,-2.1,0.0,,1495000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1996-97,26,Los Angeles Clippers,NBA,80,30.7,.396,.876,3.0,2.1,1.6,0.6,13.5,13.7,3.2,.063,-0.9,0.7,,1732000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1997-98,27,Detroit Pistons,NBA,77,21.3,.428,.824,2.8,1.3,0.8,0.3,7.7,12.8,3.2,.093,-1.6,0.2,,1150000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1998-99,28,Minnesota Timberwolves,NBA,31,23.6,.411,.902,3.0,1.2,1.0,0.2,8.1,11.1,1.1,.074,-2.6,-0.1,,1000000,"Saint Nicholas of Tolentine in Bronx, New York"
+sealyma01,1999-00,29,Minnesota Timberwolves,NBA,82,29.2,.476,.812,4.3,2.4,0.9,0.2,11.3,14.4,5.5,.111,0.1,1.3,,1100000,"Saint Nicholas of Tolentine in Bronx, New York"

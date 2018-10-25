@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jacobsa01,1998-99,23,Los Angeles Lakers,NBA,2,6.0,.600,1.000,1.5,0.0,0.0,0.0,4.0,20.6,0.0,.185,-11.7,0.0,,559000
-jacobsa01,1999-00,24,Los Angeles Lakers,NBA,52,13.1,.509,.732,1.4,0.6,0.6,0.1,4.9,11.1,0.9,.063,-3.5,-0.3,,721080
-jacobsa01,1999-00,24,Los Angeles Lakers,NBA,3,6.0,.556,.000,0.3,0.7,0.3,0.0,3.3,14.1,0.0,-0.006,-6.3,0.0,,721080
-jacobsa01,1999-00,24,Los Angeles Lakers,NBA,49,13.5,.507,.769,1.4,0.6,0.6,0.1,5.0,11.1,0.9,.065,-3.4,-0.2,,721080
-jacobsa01,2000-01,25,Minnesota Timberwolves,NBA,14,4.2,.500,.667,0.4,0.3,0.2,0.0,1.4,10.7,0.2,.147,-1.4,0.0,,498500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jacobsa01,1998-99,23,Los Angeles Lakers,NBA,2,6.0,.600,1.000,1.5,0.0,0.0,0.0,4.0,20.6,0.0,.185,-11.7,0.0,,559000,"Park-Cottage Grove in Cottage Grove, Minnesota"
+jacobsa01,1999-00,24,Los Angeles Lakers,NBA,52,13.1,.509,.732,1.4,0.6,0.6,0.1,4.9,11.1,0.9,.063,-3.5,-0.3,,721080,"Park-Cottage Grove in Cottage Grove, Minnesota"
+jacobsa01,1999-00,24,Los Angeles Lakers,NBA,3,6.0,.556,.000,0.3,0.7,0.3,0.0,3.3,14.1,0.0,-0.006,-6.3,0.0,,721080,"Park-Cottage Grove in Cottage Grove, Minnesota"
+jacobsa01,1999-00,24,Los Angeles Lakers,NBA,49,13.5,.507,.769,1.4,0.6,0.6,0.1,5.0,11.1,0.9,.065,-3.4,-0.2,,721080,"Park-Cottage Grove in Cottage Grove, Minnesota"
+jacobsa01,2000-01,25,Minnesota Timberwolves,NBA,14,4.2,.500,.667,0.4,0.3,0.2,0.0,1.4,10.7,0.2,.147,-1.4,0.0,,498500,"Park-Cottage Grove in Cottage Grove, Minnesota"

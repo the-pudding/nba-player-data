@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-richapo01,1989-90,23,MIN,NBA,82,31.5,.461,.589,2.6,6.8,1.6,0.3,11.4,15.8,4.4,.082,-0.4,1.0,,
-richapo01,1990-91,24,Minnesota Timberwolves,NBA,82,38.5,.470,.539,3.5,9.0,1.6,0.2,17.1,18.1,5.9,.089,0.8,2.3,,615000
-richapo01,1991-92,25,Minnesota Timberwolves,NBA,82,35.6,.466,.691,3.7,8.4,1.5,0.3,16.5,17.4,4.1,.068,0.8,2.1,,760000
-richapo01,1992-93,26,Indiana Pacers,NBA,74,32.4,.479,.742,3.6,7.7,1.3,0.2,10.4,14.5,4.0,.079,-0.8,0.7,,800000
-richapo01,1993-94,27,Indiana Pacers,NBA,37,27.6,.452,.610,3.0,6.4,0.9,0.1,10.0,13.3,1.4,.064,-2.1,0.0,,1694000
-richapo01,1994-95,28,Los Angeles Clippers,NBA,80,35.8,.394,.648,3.3,7.9,1.6,0.2,10.9,12.6,2.1,.036,-2.0,0.0,,2120700
-richapo01,1995-96,29,Los Angeles Clippers,NBA,63,32.0,.423,.743,2.5,5.4,1.2,0.2,11.7,14.5,3.8,.091,-0.3,0.9,,2521000
-richapo01,1996-97,30,Los Angeles Clippers,NBA,59,18.1,.381,.605,1.7,2.9,0.9,0.1,5.6,11.8,1.0,.043,-2.2,-0.1,,2721000
-richapo01,1997-98,31,Los Angeles Clippers,NBA,69,18.1,.372,.698,1.4,3.3,0.6,0.0,4.2,10.3,0.2,.006,-5.9,-1.2,,2820710
-richapo01,1998-99,32,Los Angeles Clippers,NBA,11,11.8,.333,1.000,1.2,2.7,0.4,0.0,2.5,10.7,-0.1,-0.038,-7.5,-0.2,,3030000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+richapo01,1989-90,23,MIN,NBA,82,31.5,.461,.589,2.6,6.8,1.6,0.3,11.4,15.8,4.4,.082,-0.4,1.0,,"Benjamin Franklin in Philadelphia, Pennsylvania",
+richapo01,1990-91,24,Minnesota Timberwolves,NBA,82,38.5,.470,.539,3.5,9.0,1.6,0.2,17.1,18.1,5.9,.089,0.8,2.3,,"Benjamin Franklin in Philadelphia, Pennsylvania",615000
+richapo01,1991-92,25,Minnesota Timberwolves,NBA,82,35.6,.466,.691,3.7,8.4,1.5,0.3,16.5,17.4,4.1,.068,0.8,2.1,,"Benjamin Franklin in Philadelphia, Pennsylvania",760000
+richapo01,1992-93,26,Indiana Pacers,NBA,74,32.4,.479,.742,3.6,7.7,1.3,0.2,10.4,14.5,4.0,.079,-0.8,0.7,,"Benjamin Franklin in Philadelphia, Pennsylvania",800000
+richapo01,1993-94,27,Indiana Pacers,NBA,37,27.6,.452,.610,3.0,6.4,0.9,0.1,10.0,13.3,1.4,.064,-2.1,0.0,,"Benjamin Franklin in Philadelphia, Pennsylvania",1694000
+richapo01,1994-95,28,Los Angeles Clippers,NBA,80,35.8,.394,.648,3.3,7.9,1.6,0.2,10.9,12.6,2.1,.036,-2.0,0.0,,"Benjamin Franklin in Philadelphia, Pennsylvania",2120700
+richapo01,1995-96,29,Los Angeles Clippers,NBA,63,32.0,.423,.743,2.5,5.4,1.2,0.2,11.7,14.5,3.8,.091,-0.3,0.9,,"Benjamin Franklin in Philadelphia, Pennsylvania",2521000
+richapo01,1996-97,30,Los Angeles Clippers,NBA,59,18.1,.381,.605,1.7,2.9,0.9,0.1,5.6,11.8,1.0,.043,-2.2,-0.1,,"Benjamin Franklin in Philadelphia, Pennsylvania",2721000
+richapo01,1997-98,31,Los Angeles Clippers,NBA,69,18.1,.372,.698,1.4,3.3,0.6,0.0,4.2,10.3,0.2,.006,-5.9,-1.2,,"Benjamin Franklin in Philadelphia, Pennsylvania",2820710
+richapo01,1998-99,32,Los Angeles Clippers,NBA,11,11.8,.333,1.000,1.2,2.7,0.4,0.0,2.5,10.7,-0.1,-0.038,-7.5,-0.2,,"Benjamin Franklin in Philadelphia, Pennsylvania",3030000

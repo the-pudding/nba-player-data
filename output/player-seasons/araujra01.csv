@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-araujra01,2004-05,24,Toronto Raptors,NBA,59,12.5,.434,.782,3.1,0.3,0.4,0.1,3.3,7.1,0.3,.016,-5.9,-0.7,,2082720
-araujra01,2005-06,25,Toronto Raptors,NBA,52,11.6,.366,.536,2.8,0.3,0.5,0.1,2.3,4.5,-0.8,-0.066,-7.5,-0.8,,2238960
-araujra01,2006-07,26,Utah Jazz,NBA,28,8.9,.415,.621,2.4,0.4,0.2,0.1,2.6,8.3,0.1,.027,-5.2,-0.2,,2395200
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+araujra01,2004-05,24,Toronto Raptors,NBA,59,12.5,.434,.782,3.1,0.3,0.4,0.1,3.3,7.1,0.3,.016,-5.9,-0.7,,2082720,"Padre Anacleto in San Paulo, Brazil"
+araujra01,2005-06,25,Toronto Raptors,NBA,52,11.6,.366,.536,2.8,0.3,0.5,0.1,2.3,4.5,-0.8,-0.066,-7.5,-0.8,,2238960,"Padre Anacleto in San Paulo, Brazil"
+araujra01,2006-07,26,Utah Jazz,NBA,28,8.9,.415,.621,2.4,0.4,0.2,0.1,2.6,8.3,0.1,.027,-5.2,-0.2,,2395200,"Padre Anacleto in San Paulo, Brazil"

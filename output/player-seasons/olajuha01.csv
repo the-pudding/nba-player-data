@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-olajuha01,1984-85,22,Houston Rockets,NBA,82,35.5,.538,.613,11.9,1.4,1.2,2.7,20.6,21.1,10.2,.168,3.4,4.0,,780000
-olajuha01,1985-86,23,Houston Rockets,NBA,68,36.3,.526,.645,11.5,2.0,2.0,3.4,23.5,24.2,9.5,.186,5.3,4.6,All-NBA (2nd),882500
-olajuha01,1986-87,24,HOU,NBA,75,36.8,.508,.702,11.4,2.9,1.9,3.4,23.4,23.8,10.9,.189,6.6,6.0,All-NBA (1st),
-olajuha01,1987-88,25,Houston Rockets,NBA,79,35.8,.514,.695,12.1,2.1,2.1,2.7,22.8,23.4,10.7,.182,5.0,5.0,All-NBA (1st),1452666
-olajuha01,1988-89,26,Houston Rockets,NBA,82,36.9,.508,.696,13.5,1.8,2.6,3.4,24.8,25.2,12.4,.197,5.4,5.6,All-NBA (1st),1677666
-olajuha01,1989-90,27,Houston Rockets,NBA,82,38.1,.501,.713,14.0,2.9,2.1,4.6,24.3,24.1,11.2,.173,5.9,6.3,All-NBA (2nd),2500000
-olajuha01,1990-91,28,Houston Rockets,NBA,56,36.8,.508,.769,13.8,2.3,2.2,3.9,21.2,24.3,8.6,.201,6.3,4.3,All-NBA (3rd),3175000
-olajuha01,1991-92,29,Houston Rockets,NBA,70,37.7,.502,.766,12.1,2.2,1.8,4.3,21.6,23.7,9.8,.178,5.0,4.7,,3170000
-olajuha01,1992-93,30,Houston Rockets,NBA,82,39.5,.529,.779,13.0,3.5,1.8,4.2,26.1,27.3,15.8,.234,8.4,8.5,All-NBA (1st),3170000
-olajuha01,1993-94,31,Houston Rockets,NBA,80,41.0,.528,.716,11.9,3.6,1.6,3.7,27.3,25.3,14.3,.210,7.0,7.4,All-NBA (1st),3170000
-olajuha01,1994-95,32,Houston Rockets,NBA,72,39.6,.517,.756,10.8,3.5,1.8,3.4,27.8,26.0,10.7,.181,5.3,5.3,All-NBA (3rd),3169900
-olajuha01,1995-96,33,Houston Rockets,NBA,72,38.8,.514,.724,10.9,3.6,1.6,2.9,26.9,25.5,9.7,.166,4.6,4.7,All-NBA (2nd),5305000
-olajuha01,1996-97,34,Houston Rockets,NBA,78,36.6,.510,.787,9.2,3.0,1.5,2.2,23.2,22.7,9.1,.154,3.2,3.7,All-NBA (1st),9655000
-olajuha01,1997-98,35,Houston Rockets,NBA,47,34.7,.483,.755,9.8,3.0,1.8,2.0,16.4,20.8,4.5,.131,3.6,2.3,,11156000
-olajuha01,1998-99,36,Houston Rockets,NBA,50,35.7,.514,.717,9.6,1.8,1.6,2.5,18.9,23.1,6.5,.175,2.9,2.2,All-NBA (3rd),12943000
-olajuha01,1999-00,37,Houston Rockets,NBA,44,23.8,.458,.616,6.2,1.4,0.9,1.6,10.3,16.7,1.6,.072,-1.0,0.3,,14302001
-olajuha01,2000-01,38,Houston Rockets,NBA,58,26.6,.498,.621,7.4,1.2,1.2,1.5,11.9,20.7,5.0,.155,2.0,1.6,,16700000
-olajuha01,2001-02,39,Toronto Raptors,NBA,61,22.6,.464,.560,6.0,1.1,1.2,1.5,7.1,14.4,2.1,.074,0.1,0.7,,5061539
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+olajuha01,1984-85,22,Houston Rockets,NBA,82,35.5,.538,.613,11.9,1.4,1.2,2.7,20.6,21.1,10.2,.168,3.4,4.0,,780000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1985-86,23,Houston Rockets,NBA,68,36.3,.526,.645,11.5,2.0,2.0,3.4,23.5,24.2,9.5,.186,5.3,4.6,All-NBA (2nd),882500,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1986-87,24,HOU,NBA,75,36.8,.508,.702,11.4,2.9,1.9,3.4,23.4,23.8,10.9,.189,6.6,6.0,All-NBA (1st),,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1987-88,25,Houston Rockets,NBA,79,35.8,.514,.695,12.1,2.1,2.1,2.7,22.8,23.4,10.7,.182,5.0,5.0,All-NBA (1st),1452666,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1988-89,26,Houston Rockets,NBA,82,36.9,.508,.696,13.5,1.8,2.6,3.4,24.8,25.2,12.4,.197,5.4,5.6,All-NBA (1st),1677666,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1989-90,27,Houston Rockets,NBA,82,38.1,.501,.713,14.0,2.9,2.1,4.6,24.3,24.1,11.2,.173,5.9,6.3,All-NBA (2nd),2500000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1990-91,28,Houston Rockets,NBA,56,36.8,.508,.769,13.8,2.3,2.2,3.9,21.2,24.3,8.6,.201,6.3,4.3,All-NBA (3rd),3175000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1991-92,29,Houston Rockets,NBA,70,37.7,.502,.766,12.1,2.2,1.8,4.3,21.6,23.7,9.8,.178,5.0,4.7,,3170000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1992-93,30,Houston Rockets,NBA,82,39.5,.529,.779,13.0,3.5,1.8,4.2,26.1,27.3,15.8,.234,8.4,8.5,All-NBA (1st),3170000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1993-94,31,Houston Rockets,NBA,80,41.0,.528,.716,11.9,3.6,1.6,3.7,27.3,25.3,14.3,.210,7.0,7.4,All-NBA (1st),3170000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1994-95,32,Houston Rockets,NBA,72,39.6,.517,.756,10.8,3.5,1.8,3.4,27.8,26.0,10.7,.181,5.3,5.3,All-NBA (3rd),3169900,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1995-96,33,Houston Rockets,NBA,72,38.8,.514,.724,10.9,3.6,1.6,2.9,26.9,25.5,9.7,.166,4.6,4.7,All-NBA (2nd),5305000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1996-97,34,Houston Rockets,NBA,78,36.6,.510,.787,9.2,3.0,1.5,2.2,23.2,22.7,9.1,.154,3.2,3.7,All-NBA (1st),9655000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1997-98,35,Houston Rockets,NBA,47,34.7,.483,.755,9.8,3.0,1.8,2.0,16.4,20.8,4.5,.131,3.6,2.3,,11156000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1998-99,36,Houston Rockets,NBA,50,35.7,.514,.717,9.6,1.8,1.6,2.5,18.9,23.1,6.5,.175,2.9,2.2,All-NBA (3rd),12943000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,1999-00,37,Houston Rockets,NBA,44,23.8,.458,.616,6.2,1.4,0.9,1.6,10.3,16.7,1.6,.072,-1.0,0.3,,14302001,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,2000-01,38,Houston Rockets,NBA,58,26.6,.498,.621,7.4,1.2,1.2,1.5,11.9,20.7,5.0,.155,2.0,1.6,,16700000,"Muslim Teachers College in Lagos, Nigeria"
+olajuha01,2001-02,39,Toronto Raptors,NBA,61,22.6,.464,.560,6.0,1.1,1.2,1.5,7.1,14.4,2.1,.074,0.1,0.7,,5061539,"Muslim Teachers College in Lagos, Nigeria"

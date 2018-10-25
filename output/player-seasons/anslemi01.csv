@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-anslemi01,1989-90,22,ORL,NBA,72,17.0,.497,.722,5.0,0.6,0.3,0.2,8.7,17.3,3.3,.129,-1.5,0.1,,
-anslemi01,1990-91,23,Orlando Magic,NBA,67,13.1,.548,.717,3.8,0.4,0.4,0.1,5.7,16.9,3.1,.168,0.0,0.4,,200000
-anslemi01,1991-92,24,"PHI,CHH",NBA,10,4.5,.444,.833,0.6,0.2,0.0,0.0,2.1,9.0,0.0,.013,-10.3,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+anslemi01,1989-90,22,ORL,NBA,72,17.0,.497,.722,5.0,0.6,0.3,0.2,8.7,17.3,3.3,.129,-1.5,0.1,,"Jackson-Olin in Birmingham, Alabama",
+anslemi01,1990-91,23,Orlando Magic,NBA,67,13.1,.548,.717,3.8,0.4,0.4,0.1,5.7,16.9,3.1,.168,0.0,0.4,,"Jackson-Olin in Birmingham, Alabama",200000
+anslemi01,1991-92,24,"PHI,CHH",NBA,10,4.5,.444,.833,0.6,0.2,0.0,0.0,2.1,9.0,0.0,.013,-10.3,-0.1,,"Jackson-Olin in Birmingham, Alabama",

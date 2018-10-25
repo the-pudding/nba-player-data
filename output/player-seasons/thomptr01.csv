@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-thomptr01,2011-12,20,Cleveland Cavaliers,NBA,60,23.7,.439,.552,6.5,0.5,0.5,1.0,8.2,13.3,1.1,.038,-4.2,-0.8,,3726600
-thomptr01,2012-13,21,Cleveland Cavaliers,NBA,82,31.3,.488,.608,9.4,1.3,0.7,0.9,11.7,16.1,5.2,.098,-0.5,1.0,,4006080
-thomptr01,2013-14,22,Cleveland Cavaliers,NBA,82,31.6,.477,.693,9.2,0.9,0.5,0.4,11.7,14.9,5.7,.106,-2.0,0.0,,4062000
-thomptr01,2014-15,23,Cleveland Cavaliers,NBA,82,26.8,.547,.641,8.0,0.5,0.4,0.7,8.5,15.6,6.8,.148,-0.6,0.8,,5138430
-thomptr01,2015-16,24,Cleveland Cavaliers,NBA,82,27.7,.588,.616,9.0,0.8,0.5,0.6,7.8,15.9,8.7,.185,1.5,2.0,,14260870
-thomptr01,2016-17,25,Cleveland Cavaliers,NBA,78,29.9,.600,.498,9.2,1.0,0.5,1.1,8.1,15.3,7.3,.149,1.5,2.0,,15330435
-thomptr01,2017-18,26,Cleveland Cavaliers,NBA,53,20.2,.562,.544,6.6,0.6,0.3,0.3,5.8,13.6,2.5,.113,-2.5,-0.1,,16400000
-thomptr01,2018-19,27,CLE,NBA,4,28.5,.467,.500,10.8,2.0,0.3,0.5,7.5,12.5,0.0,.018,-2.5,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+thomptr01,2011-12,20,Cleveland Cavaliers,NBA,60,23.7,.439,.552,6.5,0.5,0.5,1.0,8.2,13.3,1.1,.038,-4.2,-0.8,,3726600,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2012-13,21,Cleveland Cavaliers,NBA,82,31.3,.488,.608,9.4,1.3,0.7,0.9,11.7,16.1,5.2,.098,-0.5,1.0,,4006080,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2013-14,22,Cleveland Cavaliers,NBA,82,31.6,.477,.693,9.2,0.9,0.5,0.4,11.7,14.9,5.7,.106,-2.0,0.0,,4062000,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2014-15,23,Cleveland Cavaliers,NBA,82,26.8,.547,.641,8.0,0.5,0.4,0.7,8.5,15.6,6.8,.148,-0.6,0.8,,5138430,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2015-16,24,Cleveland Cavaliers,NBA,82,27.7,.588,.616,9.0,0.8,0.5,0.6,7.8,15.9,8.7,.185,1.5,2.0,,14260870,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2016-17,25,Cleveland Cavaliers,NBA,78,29.9,.600,.498,9.2,1.0,0.5,1.1,8.1,15.3,7.3,.149,1.5,2.0,,15330435,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2017-18,26,Cleveland Cavaliers,NBA,53,20.2,.562,.544,6.6,0.6,0.3,0.3,5.8,13.6,2.5,.113,-2.5,-0.1,,16400000,"Findlay College Prep in Henderson, Nevada"
+thomptr01,2018-19,27,CLE,NBA,4,28.5,.467,.500,10.8,2.0,0.3,0.5,7.5,12.5,0.0,.018,-2.5,0.0,,,"Findlay College Prep in Henderson, Nevada"

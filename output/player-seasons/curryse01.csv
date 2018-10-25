@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-curryse01,2013-14,23,"MEM,CLE",NBA,2,6.5,.333,,0.5,0.0,1.0,0.0,1.5,13.8,0.0,.131,1.1,0.0,,
-curryse01,2014-15,24,Orlando Magic,NBA,2,4.0,.000,,1.0,0.5,0.0,0.0,0.0,-11.4,0.0,-0.298,-15.9,0.0,,100000
-curryse01,2015-16,25,Sacramento Kings,NBA,44,15.7,.455,.833,1.4,1.5,0.5,0.1,6.8,13.8,1.4,.097,-1.5,0.1,,947276
-curryse01,2016-17,26,Dallas Mavericks,NBA,70,29.0,.481,.850,2.6,2.7,1.1,0.1,12.8,15.5,4.6,.110,1.4,1.7,,2898000
-curryse01,2017-18,27,Dallas Mavericks,NBA,,,,,,,,,,,,,,,,3028410
-curryse01,2018-19,28,POR,NBA,3,16.0,.400,1.000,1.7,0.7,0.0,0.0,5.7,7.1,0.0,.045,-3.0,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+curryse01,2013-14,23,"MEM,CLE",NBA,2,6.5,.333,,0.5,0.0,1.0,0.0,1.5,13.8,0.0,.131,1.1,0.0,,"Charlotte Christian in Charlotte, North Carolina",
+curryse01,2014-15,24,Orlando Magic,NBA,2,4.0,.000,,1.0,0.5,0.0,0.0,0.0,-11.4,0.0,-0.298,-15.9,0.0,,"Charlotte Christian in Charlotte, North Carolina",100000
+curryse01,2015-16,25,Sacramento Kings,NBA,44,15.7,.455,.833,1.4,1.5,0.5,0.1,6.8,13.8,1.4,.097,-1.5,0.1,,"Charlotte Christian in Charlotte, North Carolina",947276
+curryse01,2016-17,26,Dallas Mavericks,NBA,70,29.0,.481,.850,2.6,2.7,1.1,0.1,12.8,15.5,4.6,.110,1.4,1.7,,"Charlotte Christian in Charlotte, North Carolina",2898000
+curryse01,2017-18,27,Dallas Mavericks,NBA,,,,,,,,,,,,,,,,"Charlotte Christian in Charlotte, North Carolina",3028410
+curryse01,2018-19,28,POR,NBA,3,16.0,.400,1.000,1.7,0.7,0.0,0.0,5.7,7.1,0.0,.045,-3.0,0.0,,"Charlotte Christian in Charlotte, North Carolina",

@@ -1,20 +1,20 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-perkike01,2003-04,19,Boston Celtics,NBA,10,3.5,.533,.667,1.4,0.3,0.0,0.2,2.2,22.8,0.1,.145,-1.3,0.0,,814320
-perkike01,2004-05,20,Boston Celtics,NBA,60,9.1,.471,.638,2.9,0.4,0.2,0.6,2.5,11.2,0.7,.065,-3.2,-0.2,,875400
-perkike01,2005-06,21,Boston Celtics,NBA,68,19.6,.515,.615,5.9,1.0,0.3,1.5,5.2,13.2,2.3,.082,0.0,0.7,,936480
-perkike01,2006-07,22,Boston Celtics,NBA,72,21.9,.491,.600,5.2,1.3,0.3,1.3,4.5,9.5,1.4,.042,-0.6,0.5,,1689409
-perkike01,2007-08,23,Boston Celtics,NBA,78,24.5,.615,.623,6.1,1.1,0.4,1.5,6.9,13.3,6.2,.156,2.6,2.2,,4480912
-perkike01,2008-09,24,Boston Celtics,NBA,76,29.6,.577,.600,8.1,1.3,0.3,2.0,8.5,13.2,5.6,.119,2.2,2.4,,4578880
-perkike01,2009-10,25,Boston Celtics,NBA,78,27.6,.602,.582,7.6,1.0,0.3,1.7,10.1,15.0,5.2,.117,0.2,1.2,,4250000
-perkike01,2010-11,26,Oklahoma City Thunder,NBA,29,25.6,.515,.556,8.0,0.9,0.3,0.9,6.0,9.6,1.0,.063,-2.5,-0.1,,4640208
-perkike01,2010-11,26,Oklahoma City Thunder,NBA,12,26.1,.542,.575,8.1,0.8,0.2,0.8,7.3,10.2,0.6,.088,-2.8,-0.1,,4640208
-perkike01,2010-11,26,Oklahoma City Thunder,NBA,17,25.2,.493,.531,7.9,0.9,0.4,0.9,5.1,9.1,0.4,.046,-2.3,0.0,,4640208
-perkike01,2011-12,27,Oklahoma City Thunder,NBA,65,26.8,.489,.652,6.6,1.2,0.4,1.1,5.1,8.7,2.0,.056,-0.6,0.6,,7123626
-perkike01,2012-13,28,Oklahoma City Thunder,NBA,78,25.1,.457,.611,6.0,1.4,0.6,1.1,4.2,8.2,2.5,.062,-0.4,0.8,,7800531
-perkike01,2013-14,29,Oklahoma City Thunder,NBA,62,19.5,.451,.552,4.9,1.1,0.4,0.5,3.4,6.3,0.8,.031,-2.7,-0.2,,8477437
-perkike01,2014-15,30,Utah Jazz,NBA,68,16.9,.449,.506,4.7,0.8,0.2,0.6,3.6,7.0,0.1,.006,-4.2,-0.6,,9654342
-perkike01,2014-15,30,Utah Jazz,NBA,51,19.2,.441,.507,5.5,0.8,0.3,0.7,4.0,7.4,0.3,.017,-3.6,-0.4,,9654342
-perkike01,2014-15,30,Utah Jazz,NBA,17,9.8,.488,.500,2.4,0.5,0.1,0.2,2.6,4.7,-0.2,-0.059,-7.6,-0.2,,9654342
-perkike01,2015-16,31,New Orleans Pelicans,NBA,37,14.6,.533,.440,3.5,0.8,0.3,0.3,2.5,6.0,-0.1,-0.007,-4.3,-0.3,,1499200
-perkike01,2016-17,32,Did Not Play,,,,,,,,,,,,,,,,,
-perkike01,2017-18,33,Cleveland Cavaliers,NBA,1,15.0,.500,.500,1.0,2.0,1.0,0.0,3.0,8.4,0.0,.026,-5.7,0.0,,13156
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+perkike01,2003-04,19,Boston Celtics,NBA,10,3.5,.533,.667,1.4,0.3,0.0,0.2,2.2,22.8,0.1,.145,-1.3,0.0,,814320,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2004-05,20,Boston Celtics,NBA,60,9.1,.471,.638,2.9,0.4,0.2,0.6,2.5,11.2,0.7,.065,-3.2,-0.2,,875400,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2005-06,21,Boston Celtics,NBA,68,19.6,.515,.615,5.9,1.0,0.3,1.5,5.2,13.2,2.3,.082,0.0,0.7,,936480,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2006-07,22,Boston Celtics,NBA,72,21.9,.491,.600,5.2,1.3,0.3,1.3,4.5,9.5,1.4,.042,-0.6,0.5,,1689409,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2007-08,23,Boston Celtics,NBA,78,24.5,.615,.623,6.1,1.1,0.4,1.5,6.9,13.3,6.2,.156,2.6,2.2,,4480912,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2008-09,24,Boston Celtics,NBA,76,29.6,.577,.600,8.1,1.3,0.3,2.0,8.5,13.2,5.6,.119,2.2,2.4,,4578880,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2009-10,25,Boston Celtics,NBA,78,27.6,.602,.582,7.6,1.0,0.3,1.7,10.1,15.0,5.2,.117,0.2,1.2,,4250000,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2010-11,26,Oklahoma City Thunder,NBA,29,25.6,.515,.556,8.0,0.9,0.3,0.9,6.0,9.6,1.0,.063,-2.5,-0.1,,4640208,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2010-11,26,Oklahoma City Thunder,NBA,12,26.1,.542,.575,8.1,0.8,0.2,0.8,7.3,10.2,0.6,.088,-2.8,-0.1,,4640208,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2010-11,26,Oklahoma City Thunder,NBA,17,25.2,.493,.531,7.9,0.9,0.4,0.9,5.1,9.1,0.4,.046,-2.3,0.0,,4640208,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2011-12,27,Oklahoma City Thunder,NBA,65,26.8,.489,.652,6.6,1.2,0.4,1.1,5.1,8.7,2.0,.056,-0.6,0.6,,7123626,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2012-13,28,Oklahoma City Thunder,NBA,78,25.1,.457,.611,6.0,1.4,0.6,1.1,4.2,8.2,2.5,.062,-0.4,0.8,,7800531,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2013-14,29,Oklahoma City Thunder,NBA,62,19.5,.451,.552,4.9,1.1,0.4,0.5,3.4,6.3,0.8,.031,-2.7,-0.2,,8477437,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2014-15,30,Utah Jazz,NBA,68,16.9,.449,.506,4.7,0.8,0.2,0.6,3.6,7.0,0.1,.006,-4.2,-0.6,,9654342,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2014-15,30,Utah Jazz,NBA,51,19.2,.441,.507,5.5,0.8,0.3,0.7,4.0,7.4,0.3,.017,-3.6,-0.4,,9654342,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2014-15,30,Utah Jazz,NBA,17,9.8,.488,.500,2.4,0.5,0.1,0.2,2.6,4.7,-0.2,-0.059,-7.6,-0.2,,9654342,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2015-16,31,New Orleans Pelicans,NBA,37,14.6,.533,.440,3.5,0.8,0.3,0.3,2.5,6.0,-0.1,-0.007,-4.3,-0.3,,1499200,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2016-17,32,Did Not Play,,,,,,,,,,,,,,,,,,"Clifton J. Ozen in Beaumont, Texas"
+perkike01,2017-18,33,Cleveland Cavaliers,NBA,1,15.0,.500,.500,1.0,2.0,1.0,0.0,3.0,8.4,0.0,.026,-5.7,0.0,,13156,"Clifton J. Ozen in Beaumont, Texas"

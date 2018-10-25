@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-pricema01,1986-87,22,CLE,NBA,67,18.2,.408,.833,1.7,3.0,0.6,0.1,6.9,11.3,1.1,.043,-3.8,-0.6,,
-pricema01,1987-88,23,Cleveland Cavaliers,NBA,80,32.8,.506,.877,2.3,6.0,1.2,0.2,16.0,17.6,7.8,.143,1.2,2.1,,175000
-pricema01,1988-89,24,Cleveland Cavaliers,NBA,75,36.4,.526,.901,3.0,8.4,1.5,0.1,18.9,20.6,11.3,.199,3.5,3.8,All-NBA (3rd),1200000
-pricema01,1989-90,25,Cleveland Cavaliers,NBA,73,37.1,.459,.888,3.4,9.1,1.6,0.1,19.6,21.1,10.1,.179,3.9,4.0,,1000000
-pricema01,1990-91,26,Cleveland Cavaliers,NBA,16,35.7,.497,.952,2.8,10.4,2.6,0.1,16.9,21.7,2.0,.167,2.4,0.6,,1400000
-pricema01,1991-92,27,Cleveland Cavaliers,NBA,72,29.7,.488,.947,2.4,7.4,1.3,0.2,17.3,22.7,9.1,.205,3.8,3.1,All-NBA (3rd),1520000
-pricema01,1992-93,28,Cleveland Cavaliers,NBA,75,31.7,.484,.948,2.7,8.0,1.2,0.1,18.2,22.1,9.8,.197,3.2,3.1,All-NBA (1st),1690000
-pricema01,1993-94,29,Cleveland Cavaliers,NBA,76,31.4,.478,.888,3.0,7.8,1.4,0.1,17.3,22.7,10.0,.201,4.6,3.9,All-NBA (3rd),2850000
-pricema01,1994-95,30,Cleveland Cavaliers,NBA,48,28.6,.413,.914,2.3,7.0,0.7,0.1,15.8,20.6,4.2,.147,2.7,1.6,,3200000
-pricema01,1995-96,31,Washington Bullets,NBA,7,18.1,.300,1.000,1.0,2.6,0.9,0.0,8.0,10.3,0.0,-0.011,-5.7,-0.1,,3687000
-pricema01,1996-97,32,Golden State Warriors,NBA,70,26.8,.447,.906,2.6,4.9,1.0,0.0,11.3,16.5,4.0,.102,-0.1,0.9,,3409000
-pricema01,1997-98,33,Orlando Magic,NBA,63,22.7,.431,.845,2.0,4.7,0.8,0.1,9.5,14.9,1.7,.058,-1.6,0.1,,4090920
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+pricema01,1986-87,22,CLE,NBA,67,18.2,.408,.833,1.7,3.0,0.6,0.1,6.9,11.3,1.1,.043,-3.8,-0.6,,"Enid in Enid, Oklahoma",
+pricema01,1987-88,23,Cleveland Cavaliers,NBA,80,32.8,.506,.877,2.3,6.0,1.2,0.2,16.0,17.6,7.8,.143,1.2,2.1,,"Enid in Enid, Oklahoma",175000
+pricema01,1988-89,24,Cleveland Cavaliers,NBA,75,36.4,.526,.901,3.0,8.4,1.5,0.1,18.9,20.6,11.3,.199,3.5,3.8,All-NBA (3rd),"Enid in Enid, Oklahoma",1200000
+pricema01,1989-90,25,Cleveland Cavaliers,NBA,73,37.1,.459,.888,3.4,9.1,1.6,0.1,19.6,21.1,10.1,.179,3.9,4.0,,"Enid in Enid, Oklahoma",1000000
+pricema01,1990-91,26,Cleveland Cavaliers,NBA,16,35.7,.497,.952,2.8,10.4,2.6,0.1,16.9,21.7,2.0,.167,2.4,0.6,,"Enid in Enid, Oklahoma",1400000
+pricema01,1991-92,27,Cleveland Cavaliers,NBA,72,29.7,.488,.947,2.4,7.4,1.3,0.2,17.3,22.7,9.1,.205,3.8,3.1,All-NBA (3rd),"Enid in Enid, Oklahoma",1520000
+pricema01,1992-93,28,Cleveland Cavaliers,NBA,75,31.7,.484,.948,2.7,8.0,1.2,0.1,18.2,22.1,9.8,.197,3.2,3.1,All-NBA (1st),"Enid in Enid, Oklahoma",1690000
+pricema01,1993-94,29,Cleveland Cavaliers,NBA,76,31.4,.478,.888,3.0,7.8,1.4,0.1,17.3,22.7,10.0,.201,4.6,3.9,All-NBA (3rd),"Enid in Enid, Oklahoma",2850000
+pricema01,1994-95,30,Cleveland Cavaliers,NBA,48,28.6,.413,.914,2.3,7.0,0.7,0.1,15.8,20.6,4.2,.147,2.7,1.6,,"Enid in Enid, Oklahoma",3200000
+pricema01,1995-96,31,Washington Bullets,NBA,7,18.1,.300,1.000,1.0,2.6,0.9,0.0,8.0,10.3,0.0,-0.011,-5.7,-0.1,,"Enid in Enid, Oklahoma",3687000
+pricema01,1996-97,32,Golden State Warriors,NBA,70,26.8,.447,.906,2.6,4.9,1.0,0.0,11.3,16.5,4.0,.102,-0.1,0.9,,"Enid in Enid, Oklahoma",3409000
+pricema01,1997-98,33,Orlando Magic,NBA,63,22.7,.431,.845,2.0,4.7,0.8,0.1,9.5,14.9,1.7,.058,-1.6,0.1,,"Enid in Enid, Oklahoma",4090920

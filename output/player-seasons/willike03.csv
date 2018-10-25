@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-willike03,1990-91,21,Indiana Pacers,NBA,75,7.0,.520,.680,1.7,0.4,0.1,0.4,2.9,13.9,0.7,.068,-2.3,0.0,,175000
-willike03,1991-92,22,Indiana Pacers,NBA,60,9.4,.518,.605,2.2,0.7,0.3,0.7,4.2,16.4,1.6,.133,1.0,0.4,,275000
-willike03,1992-93,23,Indiana Pacers,NBA,57,14.8,.532,.706,4.0,0.7,0.4,0.8,6.1,17.7,2.7,.151,0.9,0.6,,325000
-willike03,1993-94,24,Indiana Pacers,NBA,68,14.4,.488,.703,3.0,0.8,0.4,0.7,6.3,15.8,2.4,.119,-0.2,0.4,,375000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+willike03,1990-91,21,Indiana Pacers,NBA,75,7.0,.520,.680,1.7,0.4,0.1,0.4,2.9,13.9,0.7,.068,-2.3,0.0,,175000,"Fork Union Military Academy in Fork Union, Virginia"
+willike03,1991-92,22,Indiana Pacers,NBA,60,9.4,.518,.605,2.2,0.7,0.3,0.7,4.2,16.4,1.6,.133,1.0,0.4,,275000,"Fork Union Military Academy in Fork Union, Virginia"
+willike03,1992-93,23,Indiana Pacers,NBA,57,14.8,.532,.706,4.0,0.7,0.4,0.8,6.1,17.7,2.7,.151,0.9,0.6,,325000,"Fork Union Military Academy in Fork Union, Virginia"
+willike03,1993-94,24,Indiana Pacers,NBA,68,14.4,.488,.703,3.0,0.8,0.4,0.7,6.3,15.8,2.4,.119,-0.2,0.4,,375000,"Fork Union Military Academy in Fork Union, Virginia"

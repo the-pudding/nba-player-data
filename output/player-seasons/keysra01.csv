@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-keysra01,1988-89,22,Cleveland Cavaliers,NBA,42,7.9,.430,.690,1.3,0.5,0.3,0.1,4.0,11.5,0.3,.037,-5.5,-0.3,,250000
-keysra01,1989-90,23,"CLE,CHH",NBA,80,20.2,.432,.721,3.2,1.1,0.9,0.1,8.8,10.9,1.0,.030,-3.4,-0.6,,
-keysra01,1990-91,24,Charlotte Hornets,NBA,44,10.8,.407,.576,2.3,0.4,0.5,0.3,3.2,7.3,-0.2,-0.018,-4.1,-0.2,,322000
-keysra01,1991-92,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
-keysra01,1992-93,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-keysra01,1993-94,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
-keysra01,1994-95,28,LAL,NBA,6,13.8,.346,1.000,2.8,0.3,0.2,0.3,3.3,5.0,0.0,-0.008,-7.5,-0.1,,
-keysra01,1995-96,29,Milwaukee Bucks,NBA,69,11.8,.418,.837,1.8,0.9,0.5,0.2,3.4,10.8,1.2,.072,-1.0,0.2,,363000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+keysra01,1988-89,22,Cleveland Cavaliers,NBA,42,7.9,.430,.690,1.3,0.5,0.3,0.1,4.0,11.5,0.3,.037,-5.5,-0.3,,250000,"Collins in Collins, Mississippi"
+keysra01,1989-90,23,"CLE,CHH",NBA,80,20.2,.432,.721,3.2,1.1,0.9,0.1,8.8,10.9,1.0,.030,-3.4,-0.6,,,"Collins in Collins, Mississippi"
+keysra01,1990-91,24,Charlotte Hornets,NBA,44,10.8,.407,.576,2.3,0.4,0.5,0.3,3.2,7.3,-0.2,-0.018,-4.1,-0.2,,322000,"Collins in Collins, Mississippi"
+keysra01,1991-92,25,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,"Collins in Collins, Mississippi"
+keysra01,1992-93,26,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Collins in Collins, Mississippi"
+keysra01,1993-94,27,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Collins in Collins, Mississippi"
+keysra01,1994-95,28,LAL,NBA,6,13.8,.346,1.000,2.8,0.3,0.2,0.3,3.3,5.0,0.0,-0.008,-7.5,-0.1,,,"Collins in Collins, Mississippi"
+keysra01,1995-96,29,Milwaukee Bucks,NBA,69,11.8,.418,.837,1.8,0.9,0.5,0.2,3.4,10.8,1.2,.072,-1.0,0.2,,363000,"Collins in Collins, Mississippi"

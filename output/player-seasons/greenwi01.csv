@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-greenwi01,2003-04,22,Philadelphia 76ers,NBA,53,14.5,.401,.728,1.2,1.0,0.5,0.1,6.9,10.8,0.0,-0.003,-5.9,-0.8,,366931
-greenwi01,2004-05,23,Philadelphia 76ers,NBA,57,18.7,.366,.776,2.3,1.8,0.6,0.1,7.7,9.6,0.1,.007,-5.3,-0.9,,620046
-greenwi01,2005-06,24,PHI,NBA,10,15.3,.424,.800,1.5,0.5,0.2,0.0,7.0,8.6,-0.1,-0.038,-9.3,-0.3,,
-greenwi01,2006-07,25,Philadelphia 76ers,NBA,74,24.9,.411,.667,2.1,1.5,0.8,0.1,11.3,10.3,-0.7,-0.018,-5.5,-1.6,,2800000
-greenwi01,2007-08,26,Philadelphia 76ers,NBA,74,26.6,.436,.757,2.5,2.0,0.7,0.3,12.4,12.8,2.1,.050,-2.8,-0.4,,3094000
-greenwi01,2008-09,27,Philadelphia 76ers,NBA,81,22.6,.435,.729,1.6,2.0,0.7,0.2,8.5,11.1,2.3,.060,-2.7,-0.3,,3388000
-greenwi01,2009-10,28,Philadelphia 76ers,NBA,73,21.3,.457,.833,1.8,2.1,0.4,0.2,8.7,12.8,2.2,.067,-3.3,-0.5,,3682000
-greenwi01,2010-11,29,New Orleans Hornets,NBA,77,21.7,.443,.780,2.1,1.0,0.5,0.2,8.7,10.8,1.8,.052,-3.1,-0.5,,3976000
-greenwi01,2011-12,30,Atlanta Hawks,NBA,53,17.4,.471,.857,1.5,0.8,0.4,0.1,7.6,13.9,2.4,.122,-1.7,0.1,,1223166
-greenwi01,2012-13,31,Los Angeles Clippers,NBA,72,16.5,.461,.719,1.3,0.8,0.4,0.2,6.3,11.8,2.5,.103,-1.5,0.2,,1475106
-greenwi01,2013-14,32,Los Angeles Clippers,NBA,55,15.8,.376,.824,1.4,0.9,0.4,0.2,5.0,7.1,0.5,.028,-3.4,-0.3,,1399507
-greenwi01,2014-15,33,Orlando Magic,NBA,52,18.3,.386,.824,1.5,1.3,0.5,0.1,5.9,7.9,-0.1,-0.003,-4.9,-0.7,,1448490
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+greenwi01,2003-04,22,Philadelphia 76ers,NBA,53,14.5,.401,.728,1.2,1.0,0.5,0.1,6.9,10.8,0.0,-0.003,-5.9,-0.8,,366931,"Cooley in Detroit, Michigan"
+greenwi01,2004-05,23,Philadelphia 76ers,NBA,57,18.7,.366,.776,2.3,1.8,0.6,0.1,7.7,9.6,0.1,.007,-5.3,-0.9,,620046,"Cooley in Detroit, Michigan"
+greenwi01,2005-06,24,PHI,NBA,10,15.3,.424,.800,1.5,0.5,0.2,0.0,7.0,8.6,-0.1,-0.038,-9.3,-0.3,,,"Cooley in Detroit, Michigan"
+greenwi01,2006-07,25,Philadelphia 76ers,NBA,74,24.9,.411,.667,2.1,1.5,0.8,0.1,11.3,10.3,-0.7,-0.018,-5.5,-1.6,,2800000,"Cooley in Detroit, Michigan"
+greenwi01,2007-08,26,Philadelphia 76ers,NBA,74,26.6,.436,.757,2.5,2.0,0.7,0.3,12.4,12.8,2.1,.050,-2.8,-0.4,,3094000,"Cooley in Detroit, Michigan"
+greenwi01,2008-09,27,Philadelphia 76ers,NBA,81,22.6,.435,.729,1.6,2.0,0.7,0.2,8.5,11.1,2.3,.060,-2.7,-0.3,,3388000,"Cooley in Detroit, Michigan"
+greenwi01,2009-10,28,Philadelphia 76ers,NBA,73,21.3,.457,.833,1.8,2.1,0.4,0.2,8.7,12.8,2.2,.067,-3.3,-0.5,,3682000,"Cooley in Detroit, Michigan"
+greenwi01,2010-11,29,New Orleans Hornets,NBA,77,21.7,.443,.780,2.1,1.0,0.5,0.2,8.7,10.8,1.8,.052,-3.1,-0.5,,3976000,"Cooley in Detroit, Michigan"
+greenwi01,2011-12,30,Atlanta Hawks,NBA,53,17.4,.471,.857,1.5,0.8,0.4,0.1,7.6,13.9,2.4,.122,-1.7,0.1,,1223166,"Cooley in Detroit, Michigan"
+greenwi01,2012-13,31,Los Angeles Clippers,NBA,72,16.5,.461,.719,1.3,0.8,0.4,0.2,6.3,11.8,2.5,.103,-1.5,0.2,,1475106,"Cooley in Detroit, Michigan"
+greenwi01,2013-14,32,Los Angeles Clippers,NBA,55,15.8,.376,.824,1.4,0.9,0.4,0.2,5.0,7.1,0.5,.028,-3.4,-0.3,,1399507,"Cooley in Detroit, Michigan"
+greenwi01,2014-15,33,Orlando Magic,NBA,52,18.3,.386,.824,1.5,1.3,0.5,0.1,5.9,7.9,-0.1,-0.003,-4.9,-0.7,,1448490,"Cooley in Detroit, Michigan"

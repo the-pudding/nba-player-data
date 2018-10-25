@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-cartemi01,2013-14,22,Philadelphia 76ers,NBA,70,34.5,.405,.703,6.2,6.3,1.9,0.6,16.7,15.5,1.3,.026,-0.2,1.1,,2200920
-cartemi01,2014-15,23,Milwaukee Bucks,NBA,66,32.6,.396,.694,5.3,6.7,1.7,0.5,14.6,14.1,0.8,.017,-0.7,0.7,,2300040
-cartemi01,2014-15,23,Milwaukee Bucks,NBA,41,33.9,.380,.643,6.2,7.4,1.5,0.4,15.0,12.8,-0.5,-0.017,-1.3,0.2,,2300040
-cartemi01,2014-15,23,Milwaukee Bucks,NBA,25,30.3,.429,.780,4.0,5.6,2.0,0.5,14.1,16.3,1.3,.080,0.4,0.5,,2300040
-cartemi01,2015-16,24,Milwaukee Bucks,NBA,54,30.5,.452,.654,5.1,5.2,1.5,0.8,11.5,13.9,1.2,.035,-0.8,0.5,,2399040
-cartemi01,2016-17,25,Chicago Bulls,NBA,45,18.8,.366,.753,3.4,2.5,0.8,0.5,6.6,9.9,0.2,.013,-2.4,-0.1,,3183526
-cartemi01,2017-18,26,Charlotte Hornets,NBA,52,16.1,.332,.820,2.7,2.2,0.8,0.4,4.6,10.8,0.9,.050,-0.6,0.3,,2700000
-cartemi01,2018-19,27,HOU,NBA,4,13.5,.348,.250,2.0,1.8,0.5,0.8,4.8,5.0,-0.2,-0.141,-5.6,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+cartemi01,2013-14,22,Philadelphia 76ers,NBA,70,34.5,.405,.703,6.2,6.3,1.9,0.6,16.7,15.5,1.3,.026,-0.2,1.1,,2200920,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2014-15,23,Milwaukee Bucks,NBA,66,32.6,.396,.694,5.3,6.7,1.7,0.5,14.6,14.1,0.8,.017,-0.7,0.7,,2300040,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2014-15,23,Milwaukee Bucks,NBA,41,33.9,.380,.643,6.2,7.4,1.5,0.4,15.0,12.8,-0.5,-0.017,-1.3,0.2,,2300040,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2014-15,23,Milwaukee Bucks,NBA,25,30.3,.429,.780,4.0,5.6,2.0,0.5,14.1,16.3,1.3,.080,0.4,0.5,,2300040,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2015-16,24,Milwaukee Bucks,NBA,54,30.5,.452,.654,5.1,5.2,1.5,0.8,11.5,13.9,1.2,.035,-0.8,0.5,,2399040,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2016-17,25,Chicago Bulls,NBA,45,18.8,.366,.753,3.4,2.5,0.8,0.5,6.6,9.9,0.2,.013,-2.4,-0.1,,3183526,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2017-18,26,Charlotte Hornets,NBA,52,16.1,.332,.820,2.7,2.2,0.8,0.4,4.6,10.8,0.9,.050,-0.6,0.3,,2700000,"St. Andrew's School in Barrington, Rhode Island"
+cartemi01,2018-19,27,HOU,NBA,4,13.5,.348,.250,2.0,1.8,0.5,0.8,4.8,5.0,-0.2,-0.141,-5.6,0.0,,,"St. Andrew's School in Barrington, Rhode Island"

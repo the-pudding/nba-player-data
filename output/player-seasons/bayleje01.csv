@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bayleje01,2008-09,20,Portland Trail Blazers,NBA,53,12.4,.365,.806,1.1,1.5,0.3,0.0,4.3,8.2,0.3,.019,-5.4,-0.6,,1993560
-bayleje01,2009-10,21,Portland Trail Blazers,NBA,74,17.6,.414,.831,1.6,2.3,0.4,0.1,8.5,14.3,2.7,.098,-2.5,-0.2,,2143080
-bayleje01,2010-11,22,Toronto Raptors,NBA,71,21.1,.422,.806,2.3,3.7,0.5,0.1,9.2,14.1,1.6,.053,-2.1,0.0,,2292600
-bayleje01,2010-11,22,Toronto Raptors,NBA,11,13.5,.347,.765,1.4,2.5,0.2,0.1,4.5,7.2,-0.2,-0.050,-7.0,-0.2,,2292600
-bayleje01,2010-11,22,Toronto Raptors,NBA,60,22.5,.429,.810,2.5,4.0,0.6,0.1,10.0,14.9,1.8,.064,-1.6,0.1,,2292600
-bayleje01,2011-12,23,Toronto Raptors,NBA,31,22.7,.424,.852,2.1,3.8,0.8,0.1,11.4,17.7,2.0,.139,1.3,0.6,,3042280
-bayleje01,2012-13,24,Memphis Grizzlies,NBA,80,22.1,.419,.836,2.2,3.3,0.7,0.2,8.7,13.5,4.0,.108,-0.2,0.8,,3000000
-bayleje01,2013-14,25,Memphis Grizzlies,NBA,72,23.4,.402,.797,2.0,2.7,0.8,0.1,9.3,12.0,2.4,.069,-1.8,0.1,,3135000
-bayleje01,2013-14,25,Memphis Grizzlies,NBA,31,21.0,.377,.789,1.9,2.1,0.6,0.2,8.1,11.3,1.0,.077,-2.0,0.0,,3135000
-bayleje01,2013-14,25,Memphis Grizzlies,NBA,41,25.3,.418,.803,2.1,3.1,1.0,0.1,10.1,12.5,1.4,.064,-1.7,0.1,,3135000
-bayleje01,2014-15,26,Milwaukee Bucks,NBA,77,22.3,.426,.883,2.7,3.0,0.8,0.2,7.8,11.1,2.4,.066,-2.6,-0.3,,3000000
-bayleje01,2015-16,27,Milwaukee Bucks,NBA,52,28.9,.423,.778,2.7,3.1,0.9,0.2,10.4,12.4,2.4,.075,-1.0,0.4,,3000000
-bayleje01,2016-17,28,Philadelphia 76ers,NBA,3,23.7,.344,.900,4.0,4.3,0.0,0.0,11.0,8.7,-0.1,-0.067,-8.2,-0.1,,9424084
-bayleje01,2017-18,29,Philadelphia 76ers,NBA,39,23.7,.416,.795,2.1,1.4,0.6,0.2,7.9,7.5,1.1,.055,-2.7,-0.2,,9000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+bayleje01,2008-09,20,Portland Trail Blazers,NBA,53,12.4,.365,.806,1.1,1.5,0.3,0.0,4.3,8.2,0.3,.019,-5.4,-0.6,,1993560,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2009-10,21,Portland Trail Blazers,NBA,74,17.6,.414,.831,1.6,2.3,0.4,0.1,8.5,14.3,2.7,.098,-2.5,-0.2,,2143080,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2010-11,22,Toronto Raptors,NBA,71,21.1,.422,.806,2.3,3.7,0.5,0.1,9.2,14.1,1.6,.053,-2.1,0.0,,2292600,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2010-11,22,Toronto Raptors,NBA,11,13.5,.347,.765,1.4,2.5,0.2,0.1,4.5,7.2,-0.2,-0.050,-7.0,-0.2,,2292600,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2010-11,22,Toronto Raptors,NBA,60,22.5,.429,.810,2.5,4.0,0.6,0.1,10.0,14.9,1.8,.064,-1.6,0.1,,2292600,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2011-12,23,Toronto Raptors,NBA,31,22.7,.424,.852,2.1,3.8,0.8,0.1,11.4,17.7,2.0,.139,1.3,0.6,,3042280,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2012-13,24,Memphis Grizzlies,NBA,80,22.1,.419,.836,2.2,3.3,0.7,0.2,8.7,13.5,4.0,.108,-0.2,0.8,,3000000,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2013-14,25,Memphis Grizzlies,NBA,72,23.4,.402,.797,2.0,2.7,0.8,0.1,9.3,12.0,2.4,.069,-1.8,0.1,,3135000,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2013-14,25,Memphis Grizzlies,NBA,31,21.0,.377,.789,1.9,2.1,0.6,0.2,8.1,11.3,1.0,.077,-2.0,0.0,,3135000,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2013-14,25,Memphis Grizzlies,NBA,41,25.3,.418,.803,2.1,3.1,1.0,0.1,10.1,12.5,1.4,.064,-1.7,0.1,,3135000,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2014-15,26,Milwaukee Bucks,NBA,77,22.3,.426,.883,2.7,3.0,0.8,0.2,7.8,11.1,2.4,.066,-2.6,-0.3,,3000000,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2015-16,27,Milwaukee Bucks,NBA,52,28.9,.423,.778,2.7,3.1,0.9,0.2,10.4,12.4,2.4,.075,-1.0,0.4,,3000000,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2016-17,28,Philadelphia 76ers,NBA,3,23.7,.344,.900,4.0,4.3,0.0,0.0,11.0,8.7,-0.1,-0.067,-8.2,-0.1,,9424084,"Saint Mary's in Phoenix, Arizona"
+bayleje01,2017-18,29,Philadelphia 76ers,NBA,39,23.7,.416,.795,2.1,1.4,0.6,0.2,7.9,7.5,1.1,.055,-2.7,-0.2,,9000000,"Saint Mary's in Phoenix, Arizona"

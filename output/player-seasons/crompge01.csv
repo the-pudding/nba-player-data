@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-crompge01,1978-79,23,DEN,NBA,20,4.4,.385,.500,1.2,0.3,0.0,0.2,1.3,2.6,-0.1,-0.081,-9.7,-0.2,
-crompge01,1979-80,24,Did Not Play (other pro league—Netherlands),,,,,,,,,,,,,,,,
-crompge01,1980-81,25,POR,NBA,6,5.5,.500,.200,3.0,0.3,0.0,0.3,1.5,11.0,0.0,-0.029,-6.3,0.0,
-crompge01,1981-82,26,MIL,NBA,35,5.8,.344,.400,1.2,0.4,0.2,0.3,0.8,3.6,0.0,-0.011,-4.5,-0.1,
-crompge01,1982-83,27,SAS,NBA,14,10.6,.412,.600,3.4,0.5,0.2,0.4,2.2,9.7,0.2,.078,-1.9,0.0,
-crompge01,1983-84,28,CLE,NBA,7,3.3,.125,.500,1.3,0.1,0.1,0.1,0.7,0.9,-0.1,-0.254,-10.7,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+crompge01,1978-79,23,DEN,NBA,20,4.4,.385,.500,1.2,0.3,0.0,0.2,1.3,2.6,-0.1,-0.081,-9.7,-0.2,,"Walter Williams in Burlington, North Carolina"
+crompge01,1979-80,24,Did Not Play (other pro league—Netherlands),,,,,,,,,,,,,,,,,"Walter Williams in Burlington, North Carolina"
+crompge01,1980-81,25,POR,NBA,6,5.5,.500,.200,3.0,0.3,0.0,0.3,1.5,11.0,0.0,-0.029,-6.3,0.0,,"Walter Williams in Burlington, North Carolina"
+crompge01,1981-82,26,MIL,NBA,35,5.8,.344,.400,1.2,0.4,0.2,0.3,0.8,3.6,0.0,-0.011,-4.5,-0.1,,"Walter Williams in Burlington, North Carolina"
+crompge01,1982-83,27,SAS,NBA,14,10.6,.412,.600,3.4,0.5,0.2,0.4,2.2,9.7,0.2,.078,-1.9,0.0,,"Walter Williams in Burlington, North Carolina"
+crompge01,1983-84,28,CLE,NBA,7,3.3,.125,.500,1.3,0.1,0.1,0.1,0.7,0.9,-0.1,-0.254,-10.7,-0.1,,"Walter Williams in Burlington, North Carolina"

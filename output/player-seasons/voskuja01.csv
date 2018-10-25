@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-voskuja01,2000-01,23,Chicago Bulls,NBA,16,8.9,.440,.571,2.1,0.3,0.3,0.4,1.9,5.8,0.0,-0.007,-5.9,-0.1,,316969
-voskuja01,2001-02,24,Phoenix Suns,NBA,59,15.3,.554,.752,4.2,0.3,0.2,0.4,5.0,13.9,2.7,.143,-2.3,-0.1,,465850
-voskuja01,2002-03,25,Phoenix Suns,NBA,65,14.6,.564,.667,3.5,0.6,0.3,0.4,3.8,11.8,2.5,.129,-0.2,0.4,,587435
-voskuja01,2003-04,26,Phoenix Suns,NBA,66,24.3,.507,.740,5.2,0.9,0.6,0.4,6.6,11.2,3.3,.097,-1.1,0.4,,1500000
-voskuja01,2004-05,27,Phoenix Suns,NBA,38,9.5,.458,.684,2.4,0.4,0.1,0.3,2.1,8.7,0.6,.075,-2.2,0.0,,1687500
-voskuja01,2005-06,28,Charlotte Bobcats,NBA,51,16.0,.437,.683,3.6,0.8,0.5,0.5,5.3,11.0,1.0,.061,-2.7,-0.1,,1937500
-voskuja01,2006-07,29,Charlotte Bobcats,NBA,73,14.3,.475,.681,3.5,0.6,0.4,0.3,4.4,10.9,1.7,.077,-2.6,-0.2,,2000000
-voskuja01,2007-08,30,Milwaukee Bucks,NBA,44,8.8,.463,.828,2.2,0.3,0.2,0.5,2.2,8.7,0.2,.025,-4.7,-0.3,,3000000
-voskuja01,2008-09,31,Toronto Raptors,NBA,38,6.3,.267,.786,1.6,0.2,0.1,0.1,0.9,0.4,-0.3,-0.064,-7.9,-0.4,,826153
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+voskuja01,2000-01,23,Chicago Bulls,NBA,16,8.9,.440,.571,2.1,0.3,0.3,0.4,1.9,5.8,0.0,-0.007,-5.9,-0.1,,316969,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2001-02,24,Phoenix Suns,NBA,59,15.3,.554,.752,4.2,0.3,0.2,0.4,5.0,13.9,2.7,.143,-2.3,-0.1,,465850,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2002-03,25,Phoenix Suns,NBA,65,14.6,.564,.667,3.5,0.6,0.3,0.4,3.8,11.8,2.5,.129,-0.2,0.4,,587435,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2003-04,26,Phoenix Suns,NBA,66,24.3,.507,.740,5.2,0.9,0.6,0.4,6.6,11.2,3.3,.097,-1.1,0.4,,1500000,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2004-05,27,Phoenix Suns,NBA,38,9.5,.458,.684,2.4,0.4,0.1,0.3,2.1,8.7,0.6,.075,-2.2,0.0,,1687500,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2005-06,28,Charlotte Bobcats,NBA,51,16.0,.437,.683,3.6,0.8,0.5,0.5,5.3,11.0,1.0,.061,-2.7,-0.1,,1937500,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2006-07,29,Charlotte Bobcats,NBA,73,14.3,.475,.681,3.5,0.6,0.4,0.3,4.4,10.9,1.7,.077,-2.6,-0.2,,2000000,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2007-08,30,Milwaukee Bucks,NBA,44,8.8,.463,.828,2.2,0.3,0.2,0.5,2.2,8.7,0.2,.025,-4.7,-0.3,,3000000,"Strake Jesuit College Prepatory in Houston, Texas"
+voskuja01,2008-09,31,Toronto Raptors,NBA,38,6.3,.267,.786,1.6,0.2,0.1,0.1,0.9,0.4,-0.3,-0.064,-7.9,-0.4,,826153,"Strake Jesuit College Prepatory in Houston, Texas"

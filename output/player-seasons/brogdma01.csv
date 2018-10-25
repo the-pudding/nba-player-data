@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-brogdma01,2016-17,24,Milwaukee Bucks,NBA,75,26.4,.457,.865,2.8,4.2,1.1,0.2,10.2,14.9,4.1,.100,-0.5,0.8,,925000
-brogdma01,2017-18,25,Milwaukee Bucks,NBA,48,29.9,.485,.882,3.3,3.2,0.9,0.3,13.0,14.3,2.7,.091,-1.3,0.2,,1312611
-brogdma01,2018-19,26,MIL,NBA,4,33.0,.410,1.000,3.5,4.8,1.0,0.3,11.3,10.3,0.3,.107,-0.8,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+brogdma01,2016-17,24,Milwaukee Bucks,NBA,75,26.4,.457,.865,2.8,4.2,1.1,0.2,10.2,14.9,4.1,.100,-0.5,0.8,,925000,"Greater Atlanta Christian in Norcross, Georgia"
+brogdma01,2017-18,25,Milwaukee Bucks,NBA,48,29.9,.485,.882,3.3,3.2,0.9,0.3,13.0,14.3,2.7,.091,-1.3,0.2,,1312611,"Greater Atlanta Christian in Norcross, Georgia"
+brogdma01,2018-19,26,MIL,NBA,4,33.0,.410,1.000,3.5,4.8,1.0,0.3,11.3,10.3,0.3,.107,-0.8,0.0,,,"Greater Atlanta Christian in Norcross, Georgia"

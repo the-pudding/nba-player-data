@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-snydeki01,2004-05,21,Utah Jazz,NBA,68,13.3,.372,.667,1.8,0.5,0.4,0.3,5.0,8.6,-0.2,-0.012,-5.0,-0.7,,1336920
-snydeki01,2005-06,22,New Orleans/Oklahoma City Hornets,NBA,68,19.3,.453,.735,2.4,1.5,0.4,0.3,8.0,14.6,2.2,.082,-0.5,0.5,,1437240
-snydeki01,2006-07,23,Houston Rockets,NBA,39,14.4,.452,.653,2.1,1.0,0.3,0.3,4.9,12.2,1.4,.117,-1.5,0.1,,1537440
-snydeki01,2007-08,24,Minnesota Timberwolves,NBA,36,21.1,.508,.727,3.5,1.8,0.6,0.4,7.3,13.3,1.1,.068,-1.2,0.2,,2358433
-snydeki01,2007-08,24,Minnesota Timberwolves,NBA,9,9.0,.464,.545,1.3,0.9,0.1,0.1,3.8,14.4,0.2,.117,-1.5,0.0,,2358433
-snydeki01,2007-08,24,Minnesota Timberwolves,NBA,27,25.2,.516,.753,4.2,2.1,0.7,0.5,8.4,13.2,0.9,.063,-1.2,0.1,,2358433
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+snydeki01,2004-05,21,Utah Jazz,NBA,68,13.3,.372,.667,1.8,0.5,0.4,0.3,5.0,8.6,-0.2,-0.012,-5.0,-0.7,,1336920,"Upland in Upland, California"
+snydeki01,2005-06,22,New Orleans/Oklahoma City Hornets,NBA,68,19.3,.453,.735,2.4,1.5,0.4,0.3,8.0,14.6,2.2,.082,-0.5,0.5,,1437240,"Upland in Upland, California"
+snydeki01,2006-07,23,Houston Rockets,NBA,39,14.4,.452,.653,2.1,1.0,0.3,0.3,4.9,12.2,1.4,.117,-1.5,0.1,,1537440,"Upland in Upland, California"
+snydeki01,2007-08,24,Minnesota Timberwolves,NBA,36,21.1,.508,.727,3.5,1.8,0.6,0.4,7.3,13.3,1.1,.068,-1.2,0.2,,2358433,"Upland in Upland, California"
+snydeki01,2007-08,24,Minnesota Timberwolves,NBA,9,9.0,.464,.545,1.3,0.9,0.1,0.1,3.8,14.4,0.2,.117,-1.5,0.0,,2358433,"Upland in Upland, California"
+snydeki01,2007-08,24,Minnesota Timberwolves,NBA,27,25.2,.516,.753,4.2,2.1,0.7,0.5,8.4,13.2,0.9,.063,-1.2,0.1,,2358433,"Upland in Upland, California"

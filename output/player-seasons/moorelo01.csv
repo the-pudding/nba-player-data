@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-moorelo01,1980-81,23,NJN,NBA,71,19.8,.444,.750,2.4,3.2,0.9,0.2,7.0,11.1,1.1,.037,-2.6,-0.2,
-moorelo01,1981-82,24,CLE,NBA,4,17.5,.500,.750,1.0,3.8,1.5,0.3,11.3,21.5,0.2,.152,2.0,0.1,
-moorelo01,1982-83,25,SDC,NBA,37,17.4,.426,.750,1.5,2.0,0.6,0.0,5.7,8.8,0.2,.017,-5.0,-0.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+moorelo01,1980-81,23,NJN,NBA,71,19.8,.444,.750,2.4,3.2,0.9,0.2,7.0,11.1,1.1,.037,-2.6,-0.2,,"Mount Vernon in Mount Vernon, New York"
+moorelo01,1981-82,24,CLE,NBA,4,17.5,.500,.750,1.0,3.8,1.5,0.3,11.3,21.5,0.2,.152,2.0,0.1,,"Mount Vernon in Mount Vernon, New York"
+moorelo01,1982-83,25,SDC,NBA,37,17.4,.426,.750,1.5,2.0,0.6,0.0,5.7,8.8,0.2,.017,-5.0,-0.5,,"Mount Vernon in Mount Vernon, New York"

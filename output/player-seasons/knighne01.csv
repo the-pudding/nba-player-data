@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-knighne01,1990-91,23,Phoenix Suns,NBA,64,12.4,.425,.602,1.1,3.0,0.3,0.1,5.3,12.1,0.6,.037,-4.5,-0.5,,468000
-knighne01,1991-92,24,Phoenix Suns,NBA,42,15.0,.475,.688,1.1,2.7,0.6,0.1,5.8,11.1,0.5,.040,-4.3,-0.4,,469000
-knighne01,1992-93,25,Phoenix Suns,NBA,52,17.1,.391,.779,1.2,2.8,0.4,0.1,6.1,8.9,0.1,.007,-6.3,-1.0,,469000
-knighne01,1993-94,26,San Antonio Spurs,NBA,65,22.1,.474,.810,1.6,3.0,0.5,0.2,9.2,13.8,3.2,.108,-2.4,-0.2,,496000
-knighne01,1993-94,26,San Antonio Spurs,NBA,1,8.0,.250,,0.0,0.0,0.0,1.0,2.0,-0.7,0.0,-0.150,-14.3,0.0,,496000
-knighne01,1993-94,26,San Antonio Spurs,NBA,64,22.3,.476,.810,1.6,3.1,0.5,0.2,9.3,13.9,3.3,.109,-2.4,-0.1,,496000
-knighne01,1994-95,27,Portland Trail Blazers,NBA,47,15.1,.397,.720,1.3,2.7,0.4,0.1,4.2,9.3,-0.2,-0.013,-6.8,-0.9,,150000
-knighne01,1994-95,27,Portland Trail Blazers,NBA,3,14.3,.467,1.000,1.0,3.7,0.3,0.0,6.0,15.0,0.1,.119,-5.6,0.0,,150000
-knighne01,1994-95,27,Portland Trail Blazers,NBA,44,15.1,.392,.667,1.3,2.6,0.5,0.1,4.1,8.9,-0.3,-0.022,-6.9,-0.8,,150000
-knighne01,1995-96,28,Did Not Play,,,,,,,,,,,,,,,,,
-knighne01,1996-97,29,Did Not Play,,,,,,,,,,,,,,,,,
-knighne01,1997-98,30,Did Not Play (other pro league—Switzerland),,,,,,,,,,,,,,,,,
-knighne01,1998-99,31,Toronto Raptors,NBA,6,9.3,.375,.500,1.0,1.3,0.2,0.0,1.3,2.4,-0.1,-0.112,-10.6,-0.1,,537500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+knighne01,1990-91,23,Phoenix Suns,NBA,64,12.4,.425,.602,1.1,3.0,0.3,0.1,5.3,12.1,0.6,.037,-4.5,-0.5,,468000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1991-92,24,Phoenix Suns,NBA,42,15.0,.475,.688,1.1,2.7,0.6,0.1,5.8,11.1,0.5,.040,-4.3,-0.4,,469000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1992-93,25,Phoenix Suns,NBA,52,17.1,.391,.779,1.2,2.8,0.4,0.1,6.1,8.9,0.1,.007,-6.3,-1.0,,469000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1993-94,26,San Antonio Spurs,NBA,65,22.1,.474,.810,1.6,3.0,0.5,0.2,9.2,13.8,3.2,.108,-2.4,-0.2,,496000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1993-94,26,San Antonio Spurs,NBA,1,8.0,.250,,0.0,0.0,0.0,1.0,2.0,-0.7,0.0,-0.150,-14.3,0.0,,496000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1993-94,26,San Antonio Spurs,NBA,64,22.3,.476,.810,1.6,3.1,0.5,0.2,9.3,13.9,3.3,.109,-2.4,-0.1,,496000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1994-95,27,Portland Trail Blazers,NBA,47,15.1,.397,.720,1.3,2.7,0.4,0.1,4.2,9.3,-0.2,-0.013,-6.8,-0.9,,150000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1994-95,27,Portland Trail Blazers,NBA,3,14.3,.467,1.000,1.0,3.7,0.3,0.0,6.0,15.0,0.1,.119,-5.6,0.0,,150000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1994-95,27,Portland Trail Blazers,NBA,44,15.1,.392,.667,1.3,2.6,0.5,0.1,4.1,8.9,-0.3,-0.022,-6.9,-0.8,,150000,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1995-96,28,Did Not Play,,,,,,,,,,,,,,,,,,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1996-97,29,Did Not Play,,,,,,,,,,,,,,,,,,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1997-98,30,Did Not Play (other pro league—Switzerland),,,,,,,,,,,,,,,,,,"Saint Martin De Porres in Detroit, Michigan"
+knighne01,1998-99,31,Toronto Raptors,NBA,6,9.3,.375,.500,1.0,1.3,0.2,0.0,1.3,2.4,-0.1,-0.112,-10.6,-0.1,,537500,"Saint Martin De Porres in Detroit, Michigan"

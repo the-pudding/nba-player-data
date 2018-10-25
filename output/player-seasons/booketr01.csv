@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-booketr01,2010-11,23,Washington Wizards,NBA,65,16.4,.549,.673,3.9,0.5,0.4,0.6,5.3,15.3,2.6,.119,-0.7,0.3,,1204560
-booketr01,2011-12,24,Washington Wizards,NBA,50,25.2,.531,.602,6.5,0.8,1.0,0.9,8.4,15.4,3.0,.113,0.3,0.7,,1294920
-booketr01,2012-13,25,Washington Wizards,NBA,48,18.5,.491,.556,5.0,0.8,0.7,0.3,5.3,13.9,2.3,.126,0.1,0.5,,1385280
-booketr01,2013-14,26,Washington Wizards,NBA,72,21.6,.551,.618,5.3,0.9,0.6,0.6,6.8,15.0,4.3,.132,0.2,0.8,,2350820
-booketr01,2014-15,27,Utah Jazz,NBA,79,19.8,.487,.581,5.0,1.1,0.5,0.5,7.2,15.3,3.6,.110,0.2,0.9,,5000000
-booketr01,2015-16,28,Utah Jazz,NBA,79,20.7,.490,.670,5.7,1.1,0.7,0.5,5.9,14.4,4.3,.128,1.4,1.4,,4775000
-booketr01,2016-17,29,Brooklyn Nets,NBA,71,24.7,.516,.673,8.0,1.9,1.1,0.4,10.0,15.7,3.1,.086,0.1,0.9,,9250000
-booketr01,2017-18,30,Philadelphia 76ers,NBA,68,17.0,.516,.710,4.7,1.2,0.4,0.3,6.3,14.9,2.9,.121,-0.5,0.4,,8725000
-booketr01,2017-18,30,Philadelphia 76ers,NBA,18,21.9,.513,.558,6.6,2.1,0.4,0.3,10.1,15.4,0.6,.072,-1.5,0.1,,8725000
-booketr01,2017-18,30,Philadelphia 76ers,NBA,33,15.0,.560,.821,3.7,0.8,0.5,0.3,4.7,14.5,1.7,.163,0.7,0.3,,8725000
-booketr01,2017-18,30,Philadelphia 76ers,NBA,17,15.8,.464,.909,4.5,1.0,0.2,0.3,5.4,14.7,0.7,.118,-1.3,0.0,,8725000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+booketr01,2010-11,23,Washington Wizards,NBA,65,16.4,.549,.673,3.9,0.5,0.4,0.6,5.3,15.3,2.6,.119,-0.7,0.3,,1204560,"Union County in Union, South Carolina"
+booketr01,2011-12,24,Washington Wizards,NBA,50,25.2,.531,.602,6.5,0.8,1.0,0.9,8.4,15.4,3.0,.113,0.3,0.7,,1294920,"Union County in Union, South Carolina"
+booketr01,2012-13,25,Washington Wizards,NBA,48,18.5,.491,.556,5.0,0.8,0.7,0.3,5.3,13.9,2.3,.126,0.1,0.5,,1385280,"Union County in Union, South Carolina"
+booketr01,2013-14,26,Washington Wizards,NBA,72,21.6,.551,.618,5.3,0.9,0.6,0.6,6.8,15.0,4.3,.132,0.2,0.8,,2350820,"Union County in Union, South Carolina"
+booketr01,2014-15,27,Utah Jazz,NBA,79,19.8,.487,.581,5.0,1.1,0.5,0.5,7.2,15.3,3.6,.110,0.2,0.9,,5000000,"Union County in Union, South Carolina"
+booketr01,2015-16,28,Utah Jazz,NBA,79,20.7,.490,.670,5.7,1.1,0.7,0.5,5.9,14.4,4.3,.128,1.4,1.4,,4775000,"Union County in Union, South Carolina"
+booketr01,2016-17,29,Brooklyn Nets,NBA,71,24.7,.516,.673,8.0,1.9,1.1,0.4,10.0,15.7,3.1,.086,0.1,0.9,,9250000,"Union County in Union, South Carolina"
+booketr01,2017-18,30,Philadelphia 76ers,NBA,68,17.0,.516,.710,4.7,1.2,0.4,0.3,6.3,14.9,2.9,.121,-0.5,0.4,,8725000,"Union County in Union, South Carolina"
+booketr01,2017-18,30,Philadelphia 76ers,NBA,18,21.9,.513,.558,6.6,2.1,0.4,0.3,10.1,15.4,0.6,.072,-1.5,0.1,,8725000,"Union County in Union, South Carolina"
+booketr01,2017-18,30,Philadelphia 76ers,NBA,33,15.0,.560,.821,3.7,0.8,0.5,0.3,4.7,14.5,1.7,.163,0.7,0.3,,8725000,"Union County in Union, South Carolina"
+booketr01,2017-18,30,Philadelphia 76ers,NBA,17,15.8,.464,.909,4.5,1.0,0.2,0.3,5.4,14.7,0.7,.118,-1.3,0.0,,8725000,"Union County in Union, South Carolina"

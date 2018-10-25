@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-hardeja01,2009-10,20,Oklahoma City Thunder,NBA,76,22.9,.403,.808,3.2,1.8,1.1,0.3,9.9,14.0,4.5,.124,1.0,1.3,,4054160
-hardeja01,2010-11,21,Oklahoma City Thunder,NBA,82,26.7,.436,.843,3.1,2.1,1.1,0.3,12.2,16.4,7.1,.156,2.3,2.4,,4304520
-hardeja01,2011-12,22,Oklahoma City Thunder,NBA,62,31.4,.491,.846,4.1,3.7,1.0,0.2,16.8,21.1,9.3,.230,4.5,3.2,,4604760
-hardeja01,2012-13,23,Houston Rockets,NBA,78,38.3,.438,.851,4.9,5.8,1.8,0.5,25.9,23.0,12.8,.206,5.5,5.7,All-NBA (3rd),5820417
-hardeja01,2013-14,24,Houston Rockets,NBA,73,38.0,.456,.866,4.7,6.1,1.6,0.4,25.4,23.5,12.8,.221,5.7,5.4,All-NBA (1st),13701250
-hardeja01,2014-15,25,Houston Rockets,NBA,81,36.8,.440,.868,5.7,7.0,1.9,0.7,27.4,26.7,16.4,.265,8.4,7.8,All-NBA (1st),14728844
-hardeja01,2015-16,26,Houston Rockets,NBA,82,38.1,.439,.860,6.1,7.5,1.7,0.6,29.0,25.3,13.3,.204,6.7,6.9,,15756438
-hardeja01,2016-17,27,Houston Rockets,NBA,81,36.4,.440,.847,8.1,11.2,1.5,0.5,29.1,27.4,15.0,.245,10.1,9.0,All-NBA (1st),26540100
-hardeja01,2017-18,28,Houston Rockets,NBA,72,35.4,.449,.858,5.4,8.8,1.8,0.7,30.4,29.8,15.4,.289,10.9,8.3,All-NBA (1st),28299399
-hardeja01,2018-19,29,HOU,NBA,4,36.0,.468,.735,6.3,9.0,2.0,0.5,28.5,26.2,0.5,.161,8.8,0.4,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+hardeja01,2009-10,20,Oklahoma City Thunder,NBA,76,22.9,.403,.808,3.2,1.8,1.1,0.3,9.9,14.0,4.5,.124,1.0,1.3,,4054160,"Artesia in Lakewood, California"
+hardeja01,2010-11,21,Oklahoma City Thunder,NBA,82,26.7,.436,.843,3.1,2.1,1.1,0.3,12.2,16.4,7.1,.156,2.3,2.4,,4304520,"Artesia in Lakewood, California"
+hardeja01,2011-12,22,Oklahoma City Thunder,NBA,62,31.4,.491,.846,4.1,3.7,1.0,0.2,16.8,21.1,9.3,.230,4.5,3.2,,4604760,"Artesia in Lakewood, California"
+hardeja01,2012-13,23,Houston Rockets,NBA,78,38.3,.438,.851,4.9,5.8,1.8,0.5,25.9,23.0,12.8,.206,5.5,5.7,All-NBA (3rd),5820417,"Artesia in Lakewood, California"
+hardeja01,2013-14,24,Houston Rockets,NBA,73,38.0,.456,.866,4.7,6.1,1.6,0.4,25.4,23.5,12.8,.221,5.7,5.4,All-NBA (1st),13701250,"Artesia in Lakewood, California"
+hardeja01,2014-15,25,Houston Rockets,NBA,81,36.8,.440,.868,5.7,7.0,1.9,0.7,27.4,26.7,16.4,.265,8.4,7.8,All-NBA (1st),14728844,"Artesia in Lakewood, California"
+hardeja01,2015-16,26,Houston Rockets,NBA,82,38.1,.439,.860,6.1,7.5,1.7,0.6,29.0,25.3,13.3,.204,6.7,6.9,,15756438,"Artesia in Lakewood, California"
+hardeja01,2016-17,27,Houston Rockets,NBA,81,36.4,.440,.847,8.1,11.2,1.5,0.5,29.1,27.4,15.0,.245,10.1,9.0,All-NBA (1st),26540100,"Artesia in Lakewood, California"
+hardeja01,2017-18,28,Houston Rockets,NBA,72,35.4,.449,.858,5.4,8.8,1.8,0.7,30.4,29.8,15.4,.289,10.9,8.3,All-NBA (1st),28299399,"Artesia in Lakewood, California"
+hardeja01,2018-19,29,HOU,NBA,4,36.0,.468,.735,6.3,9.0,2.0,0.5,28.5,26.2,0.5,.161,8.8,0.4,,,"Artesia in Lakewood, California"

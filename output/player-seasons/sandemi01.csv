@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-sandemi01,1982-83,22,SAS,NBA,26,15.1,.484,.721,3.6,0.7,0.7,0.2,7.0,14.2,0.8,.093,-2.1,0.0,,
-sandemi01,1983-84,23,PHO,NBA,50,11.7,.478,.690,2.1,0.9,0.5,0.2,4.5,10.5,0.6,.045,-2.7,-0.1,,
-sandemi01,1984-85,24,Phoenix Suns,NBA,21,19.9,.486,.763,4.2,1.4,1.1,0.2,10.2,15.0,0.8,.093,-0.4,0.2,,70000
-sandemi01,1985-86,25,Phoenix Suns,NBA,82,20.0,.513,.809,3.3,1.8,0.9,0.4,11.0,16.0,3.9,.115,0.2,0.9,,100000
-sandemi01,1986-87,26,PHO,NBA,82,20.2,.494,.781,3.3,1.5,0.7,0.3,10.5,14.4,2.7,.079,-1.7,0.1,,
-sandemi01,1987-88,27,Cleveland Cavaliers,NBA,59,15.0,.505,.776,1.8,0.9,0.5,0.2,6.2,11.1,1.2,.066,-3.1,-0.2,,240000
-sandemi01,1987-88,27,Cleveland Cavaliers,NBA,35,13.3,.480,.736,1.8,0.9,0.5,0.1,5.8,11.2,0.5,.051,-3.5,-0.2,,240000
-sandemi01,1987-88,27,Cleveland Cavaliers,NBA,24,17.4,.538,.870,2.0,1.1,0.5,0.2,6.8,10.9,0.7,.083,-2.6,-0.1,,240000
-sandemi01,1988-89,28,Cleveland Cavaliers,NBA,82,25.6,.453,.719,3.7,1.6,1.1,0.4,9.3,10.5,3.1,.071,-1.5,0.3,,260000
-sandemi01,1989-90,29,IND,NBA,82,18.7,.470,.733,2.8,1.1,0.5,0.3,6.2,9.1,1.0,.031,-3.4,-0.5,,
-sandemi01,1990-91,30,Indiana Pacers,NBA,80,17.0,.417,.825,2.3,1.3,0.5,0.3,5.8,8.4,0.1,.003,-4.6,-0.9,,760000
-sandemi01,1991-92,31,Indiana Pacers,NBA,31,20.4,.571,.766,3.1,1.7,0.8,0.3,7.1,13.6,1.8,.137,1.0,0.5,,860000
-sandemi01,1991-92,31,Indiana Pacers,NBA,10,8.1,.500,.833,0.8,1.1,0.2,0.1,2.7,9.7,0.1,.039,-6.2,-0.1,,860000
-sandemi01,1991-92,31,Indiana Pacers,NBA,21,26.3,.583,.756,4.2,2.0,1.0,0.4,9.2,14.1,1.7,.151,2.0,0.6,,860000
-sandemi01,1992-93,32,Cleveland Cavaliers,NBA,53,22.4,.497,.756,3.2,1.4,0.7,0.6,8.6,11.8,2.0,.080,-1.6,0.1,,1100000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+sandemi01,1982-83,22,SAS,NBA,26,15.1,.484,.721,3.6,0.7,0.7,0.2,7.0,14.2,0.8,.093,-2.1,0.0,,"DeRidder in DeRidder, Louisiana",
+sandemi01,1983-84,23,PHO,NBA,50,11.7,.478,.690,2.1,0.9,0.5,0.2,4.5,10.5,0.6,.045,-2.7,-0.1,,"DeRidder in DeRidder, Louisiana",
+sandemi01,1984-85,24,Phoenix Suns,NBA,21,19.9,.486,.763,4.2,1.4,1.1,0.2,10.2,15.0,0.8,.093,-0.4,0.2,,"DeRidder in DeRidder, Louisiana",70000
+sandemi01,1985-86,25,Phoenix Suns,NBA,82,20.0,.513,.809,3.3,1.8,0.9,0.4,11.0,16.0,3.9,.115,0.2,0.9,,"DeRidder in DeRidder, Louisiana",100000
+sandemi01,1986-87,26,PHO,NBA,82,20.2,.494,.781,3.3,1.5,0.7,0.3,10.5,14.4,2.7,.079,-1.7,0.1,,"DeRidder in DeRidder, Louisiana",
+sandemi01,1987-88,27,Cleveland Cavaliers,NBA,59,15.0,.505,.776,1.8,0.9,0.5,0.2,6.2,11.1,1.2,.066,-3.1,-0.2,,"DeRidder in DeRidder, Louisiana",240000
+sandemi01,1987-88,27,Cleveland Cavaliers,NBA,35,13.3,.480,.736,1.8,0.9,0.5,0.1,5.8,11.2,0.5,.051,-3.5,-0.2,,"DeRidder in DeRidder, Louisiana",240000
+sandemi01,1987-88,27,Cleveland Cavaliers,NBA,24,17.4,.538,.870,2.0,1.1,0.5,0.2,6.8,10.9,0.7,.083,-2.6,-0.1,,"DeRidder in DeRidder, Louisiana",240000
+sandemi01,1988-89,28,Cleveland Cavaliers,NBA,82,25.6,.453,.719,3.7,1.6,1.1,0.4,9.3,10.5,3.1,.071,-1.5,0.3,,"DeRidder in DeRidder, Louisiana",260000
+sandemi01,1989-90,29,IND,NBA,82,18.7,.470,.733,2.8,1.1,0.5,0.3,6.2,9.1,1.0,.031,-3.4,-0.5,,"DeRidder in DeRidder, Louisiana",
+sandemi01,1990-91,30,Indiana Pacers,NBA,80,17.0,.417,.825,2.3,1.3,0.5,0.3,5.8,8.4,0.1,.003,-4.6,-0.9,,"DeRidder in DeRidder, Louisiana",760000
+sandemi01,1991-92,31,Indiana Pacers,NBA,31,20.4,.571,.766,3.1,1.7,0.8,0.3,7.1,13.6,1.8,.137,1.0,0.5,,"DeRidder in DeRidder, Louisiana",860000
+sandemi01,1991-92,31,Indiana Pacers,NBA,10,8.1,.500,.833,0.8,1.1,0.2,0.1,2.7,9.7,0.1,.039,-6.2,-0.1,,"DeRidder in DeRidder, Louisiana",860000
+sandemi01,1991-92,31,Indiana Pacers,NBA,21,26.3,.583,.756,4.2,2.0,1.0,0.4,9.2,14.1,1.7,.151,2.0,0.6,,"DeRidder in DeRidder, Louisiana",860000
+sandemi01,1992-93,32,Cleveland Cavaliers,NBA,53,22.4,.497,.756,3.2,1.4,0.7,0.6,8.6,11.8,2.0,.080,-1.6,0.1,,"DeRidder in DeRidder, Louisiana",1100000

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-pendeje02,2009-10,22,Portland Trail Blazers,NBA,39,10.4,.662,.900,2.5,0.0,0.2,0.4,2.7,12.1,1.3,.156,-2.9,-0.1,,457588
-pendeje02,2010-11,23,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,
-pendeje02,2011-12,24,Indiana Pacers,NBA,20,5.3,.417,.571,1.7,0.2,0.2,0.1,1.7,13.4,0.3,.115,-3.2,0.0,,1500000
-pendeje02,2012-13,25,Indiana Pacers,NBA,37,10.0,.484,.913,2.8,0.4,0.2,0.3,3.9,14.5,1.0,.129,-2.9,-0.1,,1500000
-pendeje02,2013-14,26,San Antonio Spurs,NBA,73,13.0,.580,.691,3.5,0.8,0.2,0.3,3.3,11.1,2.4,.121,0.5,0.6,,1750000
-pendeje02,2014-15,27,San Antonio Spurs,NBA,51,7.5,.579,.750,2.3,0.3,0.2,0.2,2.7,14.4,1.2,.147,-1.7,0.0,,1828750
-pendeje02,2015-16,28,Los Angeles Clippers,NBA,17,6.3,.522,1.000,1.3,0.3,0.0,0.2,1.8,8.3,0.2,.077,-4.6,-0.1,,317232
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+pendeje02,2009-10,22,Portland Trail Blazers,NBA,39,10.4,.662,.900,2.5,0.0,0.2,0.4,2.7,12.1,1.3,.156,-2.9,-0.1,,457588,"Etiwanda in Rancho Cucamonga, California"
+pendeje02,2010-11,23,Did Not Play (injury—knee),,,,,,,,,,,,,,,,,,"Etiwanda in Rancho Cucamonga, California"
+pendeje02,2011-12,24,Indiana Pacers,NBA,20,5.3,.417,.571,1.7,0.2,0.2,0.1,1.7,13.4,0.3,.115,-3.2,0.0,,1500000,"Etiwanda in Rancho Cucamonga, California"
+pendeje02,2012-13,25,Indiana Pacers,NBA,37,10.0,.484,.913,2.8,0.4,0.2,0.3,3.9,14.5,1.0,.129,-2.9,-0.1,,1500000,"Etiwanda in Rancho Cucamonga, California"
+pendeje02,2013-14,26,San Antonio Spurs,NBA,73,13.0,.580,.691,3.5,0.8,0.2,0.3,3.3,11.1,2.4,.121,0.5,0.6,,1750000,"Etiwanda in Rancho Cucamonga, California"
+pendeje02,2014-15,27,San Antonio Spurs,NBA,51,7.5,.579,.750,2.3,0.3,0.2,0.2,2.7,14.4,1.2,.147,-1.7,0.0,,1828750,"Etiwanda in Rancho Cucamonga, California"
+pendeje02,2015-16,28,Los Angeles Clippers,NBA,17,6.3,.522,1.000,1.3,0.3,0.0,0.2,1.8,8.3,0.2,.077,-4.6,-0.1,,317232,"Etiwanda in Rancho Cucamonga, California"

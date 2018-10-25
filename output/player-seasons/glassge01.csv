@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-glassge01,1990-91,23,Minnesota Timberwolves,NBA,51,11.9,.438,.684,2.0,0.8,0.5,0.2,6.9,15.9,0.5,.036,-3.4,-0.2,,575000
-glassge01,1991-92,24,Minnesota Timberwolves,NBA,75,24.3,.440,.616,3.5,2.3,0.9,0.4,11.5,13.2,0.3,.008,-2.6,-0.3,,705000
-glassge01,1992-93,25,Detroit Pistons,NBA,60,14.1,.419,.641,2.4,1.3,0.6,0.3,5.3,12.1,0.9,.053,-1.6,0.1,,903000
-glassge01,1992-93,25,Detroit Pistons,NBA,4,17.8,.296,.667,0.8,2.3,0.8,0.0,5.0,3.6,-0.2,-0.141,-11.9,-0.2,,903000
-glassge01,1992-93,25,Detroit Pistons,NBA,56,13.9,.429,.636,2.5,1.2,0.5,0.3,5.3,12.9,1.2,.071,-0.6,0.3,,903000
-glassge01,1993-94,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
-glassge01,1994-95,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-glassge01,1995-96,28,New Jersey Nets,NBA,15,4.7,.364,1.000,0.5,0.3,0.2,0.1,1.7,10.4,0.1,.047,-4.2,0.0,,475000
-glassge01,1995-96,28,New Jersey Nets,NBA,10,5.6,.357,,0.6,0.4,0.2,0.1,2.1,11.0,0.0,.037,-3.6,0.0,,475000
-glassge01,1995-96,28,New Jersey Nets,NBA,5,3.0,.400,1.000,0.4,0.0,0.2,0.0,1.0,8.4,0.0,.087,-6.6,0.0,,475000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+glassge01,1990-91,23,Minnesota Timberwolves,NBA,51,11.9,.438,.684,2.0,0.8,0.5,0.2,6.9,15.9,0.5,.036,-3.4,-0.2,,575000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1991-92,24,Minnesota Timberwolves,NBA,75,24.3,.440,.616,3.5,2.3,0.9,0.4,11.5,13.2,0.3,.008,-2.6,-0.3,,705000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1992-93,25,Detroit Pistons,NBA,60,14.1,.419,.641,2.4,1.3,0.6,0.3,5.3,12.1,0.9,.053,-1.6,0.1,,903000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1992-93,25,Detroit Pistons,NBA,4,17.8,.296,.667,0.8,2.3,0.8,0.0,5.0,3.6,-0.2,-0.141,-11.9,-0.2,,903000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1992-93,25,Detroit Pistons,NBA,56,13.9,.429,.636,2.5,1.2,0.5,0.3,5.3,12.9,1.2,.071,-0.6,0.3,,903000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1993-94,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1994-95,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1995-96,28,New Jersey Nets,NBA,15,4.7,.364,1.000,0.5,0.3,0.2,0.1,1.7,10.4,0.1,.047,-4.2,0.0,,475000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1995-96,28,New Jersey Nets,NBA,10,5.6,.357,,0.6,0.4,0.2,0.1,2.1,11.0,0.0,.037,-3.6,0.0,,475000,"Amanda Elzy in Greenwood, Mississippi"
+glassge01,1995-96,28,New Jersey Nets,NBA,5,3.0,.400,1.000,0.4,0.0,0.2,0.0,1.0,8.4,0.0,.087,-6.6,0.0,,475000,"Amanda Elzy in Greenwood, Mississippi"

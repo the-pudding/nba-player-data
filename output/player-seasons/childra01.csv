@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-childra01,1995-96,23,Portland Trail Blazers,NBA,28,8.9,.316,.815,0.7,1.1,0.3,0.0,3.0,6.7,0.0,-0.009,-5.9,-0.2,,682000
-childra01,1996-97,24,Portland Trail Blazers,NBA,23,6.7,.350,.750,0.3,0.7,0.4,0.0,1.7,4.5,-0.2,-0.054,-7.2,-0.2,,784000
-childra01,1996-97,24,Portland Trail Blazers,NBA,19,6.6,.333,.750,0.3,0.8,0.4,0.0,1.5,5.0,-0.1,-0.034,-6.7,-0.1,,784000
-childra01,1996-97,24,Portland Trail Blazers,NBA,4,7.5,.400,,0.3,0.5,0.5,0.0,2.5,2.4,-0.1,-0.137,-9.4,-0.1,,784000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+childra01,1995-96,23,Portland Trail Blazers,NBA,28,8.9,.316,.815,0.7,1.1,0.3,0.0,3.0,6.7,0.0,-0.009,-5.9,-0.2,,682000,"Flint Hill School in Oakton, Virginia"
+childra01,1996-97,24,Portland Trail Blazers,NBA,23,6.7,.350,.750,0.3,0.7,0.4,0.0,1.7,4.5,-0.2,-0.054,-7.2,-0.2,,784000,"Flint Hill School in Oakton, Virginia"
+childra01,1996-97,24,Portland Trail Blazers,NBA,19,6.6,.333,.750,0.3,0.8,0.4,0.0,1.5,5.0,-0.1,-0.034,-6.7,-0.1,,784000,"Flint Hill School in Oakton, Virginia"
+childra01,1996-97,24,Portland Trail Blazers,NBA,4,7.5,.400,,0.3,0.5,0.5,0.0,2.5,2.4,-0.1,-0.137,-9.4,-0.1,,784000,"Flint Hill School in Oakton, Virginia"

@@ -1,21 +1,21 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-harrial01,1998-99,18,Indiana Pacers,NBA,21,7.6,.321,.600,1.9,0.2,0.2,0.1,2.1,6.4,-0.2,-0.049,-6.3,-0.2,,543000
-harrial01,1999-00,19,Indiana Pacers,NBA,50,17.1,.458,.703,3.2,0.8,0.5,0.2,6.6,10.8,1.0,.057,-2.6,-0.1,,745800
-harrial01,2000-01,20,Indiana Pacers,NBA,78,24.3,.444,.656,4.9,1.7,0.8,0.2,7.5,10.2,1.2,.031,-2.5,-0.2,,797880
-harrial01,2001-02,21,Indiana Pacers,NBA,44,29.8,.475,.799,6.3,1.2,0.9,0.5,13.1,14.3,2.6,.094,-1.2,0.3,,1436982
-harrial01,2002-03,22,Indiana Pacers,NBA,82,30.1,.434,.770,6.2,1.5,0.9,0.4,12.2,12.4,3.9,.075,-1.8,0.1,,5060000
-harrial01,2003-04,23,Indiana Pacers,NBA,79,30.9,.463,.734,6.4,1.7,1.0,0.3,13.3,14.9,5.9,.116,0.4,1.5,,5692500
-harrial01,2004-05,24,Atlanta Hawks,NBA,66,38.6,.459,.672,7.0,3.2,1.3,0.2,17.5,14.4,1.6,.030,-1.3,0.4,,6325000
-harrial01,2005-06,25,Atlanta Hawks,NBA,76,36.6,.452,.694,6.9,3.1,1.1,0.2,18.6,16.0,3.8,.065,-1.1,0.6,,6957500
-harrial01,2006-07,26,Golden State Warriors,NBA,78,32.9,.457,.694,6.4,1.9,0.8,0.3,16.5,14.8,4.3,.080,-0.8,0.7,,7625000
-harrial01,2006-07,26,Golden State Warriors,NBA,36,33.6,.458,.713,6.3,1.4,0.7,0.3,15.9,13.4,1.5,.059,-1.7,0.1,,7625000
-harrial01,2006-07,26,Golden State Warriors,NBA,42,32.3,.456,.681,6.4,2.3,1.0,0.3,17.0,16.1,2.8,.099,-0.1,0.7,,7625000
-harrial01,2007-08,27,Golden State Warriors,NBA,81,27.0,.434,.774,5.4,1.6,0.9,0.2,13.6,15.6,5.4,.118,-0.1,1.1,,8425625
-harrial01,2008-09,28,New York Knicks,NBA,73,34.9,.439,.793,6.2,1.4,1.2,0.3,20.1,15.9,3.9,.073,-1.1,0.6,,9226250
-harrial01,2008-09,28,New York Knicks,NBA,5,33.2,.329,.500,5.6,2.0,1.4,0.0,12.4,8.8,-0.1,-0.030,-4.6,-0.1,,9226250
-harrial01,2008-09,28,New York Knicks,NBA,68,35.0,.446,.804,6.3,1.4,1.2,0.3,20.7,16.4,4.0,.080,-0.8,0.7,,9226250
-harrial01,2009-10,29,New York Knicks,NBA,72,30.5,.435,.757,5.6,1.5,0.9,0.4,17.7,16.8,3.5,.077,-1.9,0.1,,10026875
-harrial01,2010-11,30,Denver Nuggets,NBA,73,22.8,.416,.735,4.5,1.4,0.5,0.1,10.5,12.3,2.1,.060,-1.1,0.4,,5765000
-harrial01,2011-12,31,Denver Nuggets,NBA,64,27.5,.446,.676,6.1,1.4,0.9,0.2,14.2,15.3,3.2,.088,-0.5,0.6,,6226200
-harrial01,2012-13,32,Orlando Magic,NBA,10,11.9,.351,.750,2.7,1.0,0.4,0.1,5.1,10.3,0.0,-0.012,-3.8,-0.1,,6687400
-harrial01,2013-14,33,Orlando Magic,NBA,34,15.0,.396,.771,2.4,0.8,0.4,0.0,6.6,9.7,0.4,.035,-4.6,-0.3,,3574300
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+harrial01,1998-99,18,Indiana Pacers,NBA,21,7.6,.321,.600,1.9,0.2,0.2,0.1,2.1,6.4,-0.2,-0.049,-6.3,-0.2,,543000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,1999-00,19,Indiana Pacers,NBA,50,17.1,.458,.703,3.2,0.8,0.5,0.2,6.6,10.8,1.0,.057,-2.6,-0.1,,745800,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2000-01,20,Indiana Pacers,NBA,78,24.3,.444,.656,4.9,1.7,0.8,0.2,7.5,10.2,1.2,.031,-2.5,-0.2,,797880,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2001-02,21,Indiana Pacers,NBA,44,29.8,.475,.799,6.3,1.2,0.9,0.5,13.1,14.3,2.6,.094,-1.2,0.3,,1436982,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2002-03,22,Indiana Pacers,NBA,82,30.1,.434,.770,6.2,1.5,0.9,0.4,12.2,12.4,3.9,.075,-1.8,0.1,,5060000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2003-04,23,Indiana Pacers,NBA,79,30.9,.463,.734,6.4,1.7,1.0,0.3,13.3,14.9,5.9,.116,0.4,1.5,,5692500,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2004-05,24,Atlanta Hawks,NBA,66,38.6,.459,.672,7.0,3.2,1.3,0.2,17.5,14.4,1.6,.030,-1.3,0.4,,6325000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2005-06,25,Atlanta Hawks,NBA,76,36.6,.452,.694,6.9,3.1,1.1,0.2,18.6,16.0,3.8,.065,-1.1,0.6,,6957500,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2006-07,26,Golden State Warriors,NBA,78,32.9,.457,.694,6.4,1.9,0.8,0.3,16.5,14.8,4.3,.080,-0.8,0.7,,7625000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2006-07,26,Golden State Warriors,NBA,36,33.6,.458,.713,6.3,1.4,0.7,0.3,15.9,13.4,1.5,.059,-1.7,0.1,,7625000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2006-07,26,Golden State Warriors,NBA,42,32.3,.456,.681,6.4,2.3,1.0,0.3,17.0,16.1,2.8,.099,-0.1,0.7,,7625000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2007-08,27,Golden State Warriors,NBA,81,27.0,.434,.774,5.4,1.6,0.9,0.2,13.6,15.6,5.4,.118,-0.1,1.1,,8425625,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2008-09,28,New York Knicks,NBA,73,34.9,.439,.793,6.2,1.4,1.2,0.3,20.1,15.9,3.9,.073,-1.1,0.6,,9226250,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2008-09,28,New York Knicks,NBA,5,33.2,.329,.500,5.6,2.0,1.4,0.0,12.4,8.8,-0.1,-0.030,-4.6,-0.1,,9226250,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2008-09,28,New York Knicks,NBA,68,35.0,.446,.804,6.3,1.4,1.2,0.3,20.7,16.4,4.0,.080,-0.8,0.7,,9226250,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2009-10,29,New York Knicks,NBA,72,30.5,.435,.757,5.6,1.5,0.9,0.4,17.7,16.8,3.5,.077,-1.9,0.1,,10026875,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2010-11,30,Denver Nuggets,NBA,73,22.8,.416,.735,4.5,1.4,0.5,0.1,10.5,12.3,2.1,.060,-1.1,0.4,,5765000,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2011-12,31,Denver Nuggets,NBA,64,27.5,.446,.676,6.1,1.4,0.9,0.2,14.2,15.3,3.2,.088,-0.5,0.6,,6226200,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2012-13,32,Orlando Magic,NBA,10,11.9,.351,.750,2.7,1.0,0.4,0.1,5.1,10.3,0.0,-0.012,-3.8,-0.1,,6687400,"Saint Patrick in Elizabeth, New Jersey"
+harrial01,2013-14,33,Orlando Magic,NBA,34,15.0,.396,.771,2.4,0.8,0.4,0.0,6.6,9.7,0.4,.035,-4.6,-0.3,,3574300,"Saint Patrick in Elizabeth, New Jersey"

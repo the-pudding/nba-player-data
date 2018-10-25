@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-masonde01,2000-01,23,Seattle SuperSonics,NBA,78,19.5,.431,.736,3.2,0.8,0.5,0.3,5.9,10.5,1.7,.055,-3.0,-0.4,,1074720
-masonde01,2001-02,24,Seattle SuperSonics,NBA,75,32.3,.464,.848,4.7,1.4,0.9,0.4,12.4,13.4,4.7,.093,-1.6,0.3,,1155240
-masonde01,2002-03,25,Seattle SuperSonics,NBA,80,34.5,.449,.749,6.5,2.0,0.8,0.4,14.3,15.2,5.2,.090,-1.1,0.6,,1235880
-masonde01,2002-03,25,Seattle SuperSonics,NBA,52,34.8,.436,.740,6.4,1.8,0.9,0.4,14.1,14.2,3.1,.083,-1.4,0.3,,1235880
-masonde01,2002-03,25,Seattle SuperSonics,NBA,28,34.0,.474,.765,6.7,2.4,0.7,0.4,14.8,16.9,2.0,.103,-0.6,0.3,,1235880
-masonde01,2003-04,26,Milwaukee Bucks,NBA,82,30.9,.472,.769,4.4,1.9,0.7,0.3,14.4,15.7,5.7,.107,-0.3,1.1,,1898312
-masonde01,2004-05,27,Milwaukee Bucks,NBA,80,36.2,.443,.802,3.9,2.7,0.7,0.3,17.2,14.8,4.3,.071,-1.4,0.4,,6529630
-masonde01,2005-06,28,New Orleans/Oklahoma City Hornets,NBA,70,30.0,.399,.682,4.3,0.9,0.6,0.2,10.8,9.2,-0.2,-0.005,-5.5,-1.8,,7333333
-masonde01,2006-07,29,New Orleans/Oklahoma City Hornets,NBA,75,34.3,.452,.663,4.6,1.5,0.7,0.3,13.7,10.8,0.6,.011,-3.5,-1.0,,8037037
-masonde01,2007-08,30,Milwaukee Bucks,NBA,59,28.8,.482,.659,4.3,2.1,0.7,0.5,9.7,12.3,1.5,.041,-2.6,-0.2,,5000000
-masonde01,2008-09,31,Oklahoma City Thunder,NBA,39,27.3,.435,.541,4.0,1.2,0.4,0.8,7.5,7.1,-0.3,-0.012,-4.9,-0.8,,5300000
-masonde01,2009-10,32,Sacramento Kings,NBA,5,13.2,.417,.750,2.6,0.4,0.2,0.2,2.6,6.2,0.0,-0.007,-6.5,-0.1,,76850
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+masonde01,2000-01,23,Seattle SuperSonics,NBA,78,19.5,.431,.736,3.2,0.8,0.5,0.3,5.9,10.5,1.7,.055,-3.0,-0.4,,1074720,"Waxahachie in Waxahachie, Texas"
+masonde01,2001-02,24,Seattle SuperSonics,NBA,75,32.3,.464,.848,4.7,1.4,0.9,0.4,12.4,13.4,4.7,.093,-1.6,0.3,,1155240,"Waxahachie in Waxahachie, Texas"
+masonde01,2002-03,25,Seattle SuperSonics,NBA,80,34.5,.449,.749,6.5,2.0,0.8,0.4,14.3,15.2,5.2,.090,-1.1,0.6,,1235880,"Waxahachie in Waxahachie, Texas"
+masonde01,2002-03,25,Seattle SuperSonics,NBA,52,34.8,.436,.740,6.4,1.8,0.9,0.4,14.1,14.2,3.1,.083,-1.4,0.3,,1235880,"Waxahachie in Waxahachie, Texas"
+masonde01,2002-03,25,Seattle SuperSonics,NBA,28,34.0,.474,.765,6.7,2.4,0.7,0.4,14.8,16.9,2.0,.103,-0.6,0.3,,1235880,"Waxahachie in Waxahachie, Texas"
+masonde01,2003-04,26,Milwaukee Bucks,NBA,82,30.9,.472,.769,4.4,1.9,0.7,0.3,14.4,15.7,5.7,.107,-0.3,1.1,,1898312,"Waxahachie in Waxahachie, Texas"
+masonde01,2004-05,27,Milwaukee Bucks,NBA,80,36.2,.443,.802,3.9,2.7,0.7,0.3,17.2,14.8,4.3,.071,-1.4,0.4,,6529630,"Waxahachie in Waxahachie, Texas"
+masonde01,2005-06,28,New Orleans/Oklahoma City Hornets,NBA,70,30.0,.399,.682,4.3,0.9,0.6,0.2,10.8,9.2,-0.2,-0.005,-5.5,-1.8,,7333333,"Waxahachie in Waxahachie, Texas"
+masonde01,2006-07,29,New Orleans/Oklahoma City Hornets,NBA,75,34.3,.452,.663,4.6,1.5,0.7,0.3,13.7,10.8,0.6,.011,-3.5,-1.0,,8037037,"Waxahachie in Waxahachie, Texas"
+masonde01,2007-08,30,Milwaukee Bucks,NBA,59,28.8,.482,.659,4.3,2.1,0.7,0.5,9.7,12.3,1.5,.041,-2.6,-0.2,,5000000,"Waxahachie in Waxahachie, Texas"
+masonde01,2008-09,31,Oklahoma City Thunder,NBA,39,27.3,.435,.541,4.0,1.2,0.4,0.8,7.5,7.1,-0.3,-0.012,-4.9,-0.8,,5300000,"Waxahachie in Waxahachie, Texas"
+masonde01,2009-10,32,Sacramento Kings,NBA,5,13.2,.417,.750,2.6,0.4,0.2,0.2,2.6,6.2,0.0,-0.007,-6.5,-0.1,,76850,"Waxahachie in Waxahachie, Texas"

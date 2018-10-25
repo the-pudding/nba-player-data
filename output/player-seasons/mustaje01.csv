@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-mustaje01,1990-91,21,New York Knicks,NBA,62,13.3,.465,.644,2.7,0.6,0.2,0.2,4.3,8.3,0.4,.022,-5.1,-0.6,,565000
-mustaje01,1991-92,22,Phoenix Suns,NBA,52,10.5,.477,.690,2.8,0.9,0.4,0.3,4.5,13.8,0.8,.075,-1.7,0.0,,735000
-mustaje01,1992-93,23,Phoenix Suns,NBA,32,10.5,.438,.623,2.6,0.3,0.4,0.3,4.6,12.7,0.5,.065,-4.8,-0.2,,904000
-mustaje01,1993-94,24,Phoenix Suns,NBA,33,5.9,.357,.591,1.7,0.2,0.1,0.2,2.2,8.9,0.0,.004,-8.5,-0.3,,1073000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+mustaje01,1990-91,21,New York Knicks,NBA,62,13.3,.465,.644,2.7,0.6,0.2,0.2,4.3,8.3,0.4,.022,-5.1,-0.6,,565000,"DeMatha Catholic in Hyattsville, Maryland"
+mustaje01,1991-92,22,Phoenix Suns,NBA,52,10.5,.477,.690,2.8,0.9,0.4,0.3,4.5,13.8,0.8,.075,-1.7,0.0,,735000,"DeMatha Catholic in Hyattsville, Maryland"
+mustaje01,1992-93,23,Phoenix Suns,NBA,32,10.5,.438,.623,2.6,0.3,0.4,0.3,4.6,12.7,0.5,.065,-4.8,-0.2,,904000,"DeMatha Catholic in Hyattsville, Maryland"
+mustaje01,1993-94,24,Phoenix Suns,NBA,33,5.9,.357,.591,1.7,0.2,0.1,0.2,2.2,8.9,0.0,.004,-8.5,-0.3,,1073000,"DeMatha Catholic in Hyattsville, Maryland"

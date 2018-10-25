@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-abdulta01,1997-98,23,Sacramento Kings,NBA,59,16.3,.403,.672,2.0,0.9,0.6,0.2,6.4,10.1,-0.2,-0.008,-5.9,-0.9,,1226880
-abdulta01,1998-99,24,Sacramento Kings,NBA,49,24.6,.435,.691,3.8,1.0,1.0,0.3,9.3,11.8,1.4,.058,-2.8,-0.2,,1411000
-abdulta01,1999-00,25,Denver Nuggets,NBA,61,25.9,.424,.756,4.8,1.6,1.0,0.5,11.4,13.6,2.2,.068,-1.5,0.2,,1594920
-abdulta01,1999-00,25,Denver Nuggets,NBA,46,26.2,.433,.762,5.2,1.6,1.2,0.3,12.2,14.4,2.0,.082,-0.8,0.4,,1594920
-abdulta01,1999-00,25,Denver Nuggets,NBA,15,24.9,.389,.738,3.5,1.7,0.4,0.8,8.9,10.8,0.2,.023,-3.8,-0.2,,1594920
-abdulta01,2000-01,26,Denver Nuggets,NBA,29,14.5,.387,.583,2.0,0.8,0.5,0.4,3.8,5.8,-0.4,-0.049,-5.9,-0.4,,4500000
-abdulta01,2001-02,27,Denver Nuggets,NBA,24,18.4,.374,.727,3.5,1.0,0.8,0.4,5.6,9.8,0.0,-0.003,-3.2,-0.1,,5062500
-abdulta01,2001-02,27,Denver Nuggets,NBA,20,20.9,.379,.750,3.9,1.1,0.9,0.5,6.8,10.3,0.0,.005,-3.2,-0.1,,5062500
-abdulta01,2001-02,27,Denver Nuggets,NBA,4,6.0,.000,.000,1.5,0.5,0.5,0.3,0.0,0.3,-0.1,-0.128,-3.0,0.0,,5062500
-abdulta01,2002-03,28,Dallas Mavericks,NBA,14,14.6,.466,.500,2.9,1.5,0.4,0.2,4.1,12.4,0.4,.104,-0.5,0.1,,5625000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+abdulta01,1997-98,23,Sacramento Kings,NBA,59,16.3,.403,.672,2.0,0.9,0.6,0.2,6.4,10.1,-0.2,-0.008,-5.9,-0.9,,1226880,"Lycee Aristide Briand in Evreux, France"
+abdulta01,1998-99,24,Sacramento Kings,NBA,49,24.6,.435,.691,3.8,1.0,1.0,0.3,9.3,11.8,1.4,.058,-2.8,-0.2,,1411000,"Lycee Aristide Briand in Evreux, France"
+abdulta01,1999-00,25,Denver Nuggets,NBA,61,25.9,.424,.756,4.8,1.6,1.0,0.5,11.4,13.6,2.2,.068,-1.5,0.2,,1594920,"Lycee Aristide Briand in Evreux, France"
+abdulta01,1999-00,25,Denver Nuggets,NBA,46,26.2,.433,.762,5.2,1.6,1.2,0.3,12.2,14.4,2.0,.082,-0.8,0.4,,1594920,"Lycee Aristide Briand in Evreux, France"
+abdulta01,1999-00,25,Denver Nuggets,NBA,15,24.9,.389,.738,3.5,1.7,0.4,0.8,8.9,10.8,0.2,.023,-3.8,-0.2,,1594920,"Lycee Aristide Briand in Evreux, France"
+abdulta01,2000-01,26,Denver Nuggets,NBA,29,14.5,.387,.583,2.0,0.8,0.5,0.4,3.8,5.8,-0.4,-0.049,-5.9,-0.4,,4500000,"Lycee Aristide Briand in Evreux, France"
+abdulta01,2001-02,27,Denver Nuggets,NBA,24,18.4,.374,.727,3.5,1.0,0.8,0.4,5.6,9.8,0.0,-0.003,-3.2,-0.1,,5062500,"Lycee Aristide Briand in Evreux, France"
+abdulta01,2001-02,27,Denver Nuggets,NBA,20,20.9,.379,.750,3.9,1.1,0.9,0.5,6.8,10.3,0.0,.005,-3.2,-0.1,,5062500,"Lycee Aristide Briand in Evreux, France"
+abdulta01,2001-02,27,Denver Nuggets,NBA,4,6.0,.000,.000,1.5,0.5,0.5,0.3,0.0,0.3,-0.1,-0.128,-3.0,0.0,,5062500,"Lycee Aristide Briand in Evreux, France"
+abdulta01,2002-03,28,Dallas Mavericks,NBA,14,14.6,.466,.500,2.9,1.5,0.4,0.2,4.1,12.4,0.4,.104,-0.5,0.1,,5625000,"Lycee Aristide Briand in Evreux, France"

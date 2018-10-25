@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-youngda01,1984-85,22,SEA,NBA,3,8.7,.200,,1.0,0.7,1.0,0.0,1.3,0.5,-0.1,-0.188,-9.4,0.0,,
-youngda01,1985-86,23,Seattle SuperSonics,NBA,82,23.2,.506,.849,1.5,3.7,1.3,0.1,6.9,13.7,4.8,.121,0.1,1.0,,75000
-youngda01,1986-87,24,SEA,NBA,73,20.3,.458,.831,1.5,4.8,1.0,0.0,4.8,12.8,2.9,.095,-2.1,0.0,,
-youngda01,1987-88,25,Seattle SuperSonics,NBA,77,12.3,.408,.811,1.0,2.8,0.7,0.0,3.2,13.3,2.4,.122,-1.8,0.0,,130000
-youngda01,1988-89,26,Portland Trail Blazers,NBA,48,19.8,.460,.781,1.5,2.6,1.1,0.1,6.2,11.8,1.8,.091,-1.5,0.1,,167500
-youngda01,1989-90,27,POR,NBA,82,17.0,.421,.813,1.5,2.8,1.0,0.0,4.7,11.5,3.0,.103,-0.3,0.6,,
-youngda01,1990-91,28,Portland Trail Blazers,NBA,75,12.0,.380,.911,1.0,1.9,0.7,0.1,3.8,11.7,1.8,.096,-0.9,0.2,,450000
-youngda01,1991-92,29,Portland Trail Blazers,NBA,62,16.5,.392,.851,1.2,2.8,0.7,0.1,4.5,11.3,1.9,.089,-2.3,-0.1,,550000
-youngda01,1991-92,29,Portland Trail Blazers,NBA,18,7.4,.400,.714,0.5,1.1,0.3,0.0,2.5,11.7,0.3,.109,-3.7,-0.1,,550000
-youngda01,1991-92,29,Portland Trail Blazers,NBA,44,20.2,.391,.887,1.5,3.5,0.9,0.1,5.3,11.2,1.6,.086,-2.1,0.0,,550000
-youngda01,1992-93,30,DET,NBA,65,12.9,.413,.875,0.7,1.8,0.5,0.1,2.9,10.4,1.4,.081,-2.7,-0.2,,
-youngda01,1993-94,31,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
-youngda01,1994-95,32,Milwaukee Bucks,NBA,7,11.0,.529,1.000,0.7,1.7,0.6,0.0,3.4,14.3,0.2,.141,-1.4,0.0,,150000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+youngda01,1984-85,22,SEA,NBA,3,8.7,.200,,1.0,0.7,1.0,0.0,1.3,0.5,-0.1,-0.188,-9.4,0.0,,"Enloe in Raleigh, North Carolina",
+youngda01,1985-86,23,Seattle SuperSonics,NBA,82,23.2,.506,.849,1.5,3.7,1.3,0.1,6.9,13.7,4.8,.121,0.1,1.0,,"Enloe in Raleigh, North Carolina",75000
+youngda01,1986-87,24,SEA,NBA,73,20.3,.458,.831,1.5,4.8,1.0,0.0,4.8,12.8,2.9,.095,-2.1,0.0,,"Enloe in Raleigh, North Carolina",
+youngda01,1987-88,25,Seattle SuperSonics,NBA,77,12.3,.408,.811,1.0,2.8,0.7,0.0,3.2,13.3,2.4,.122,-1.8,0.0,,"Enloe in Raleigh, North Carolina",130000
+youngda01,1988-89,26,Portland Trail Blazers,NBA,48,19.8,.460,.781,1.5,2.6,1.1,0.1,6.2,11.8,1.8,.091,-1.5,0.1,,"Enloe in Raleigh, North Carolina",167500
+youngda01,1989-90,27,POR,NBA,82,17.0,.421,.813,1.5,2.8,1.0,0.0,4.7,11.5,3.0,.103,-0.3,0.6,,"Enloe in Raleigh, North Carolina",
+youngda01,1990-91,28,Portland Trail Blazers,NBA,75,12.0,.380,.911,1.0,1.9,0.7,0.1,3.8,11.7,1.8,.096,-0.9,0.2,,"Enloe in Raleigh, North Carolina",450000
+youngda01,1991-92,29,Portland Trail Blazers,NBA,62,16.5,.392,.851,1.2,2.8,0.7,0.1,4.5,11.3,1.9,.089,-2.3,-0.1,,"Enloe in Raleigh, North Carolina",550000
+youngda01,1991-92,29,Portland Trail Blazers,NBA,18,7.4,.400,.714,0.5,1.1,0.3,0.0,2.5,11.7,0.3,.109,-3.7,-0.1,,"Enloe in Raleigh, North Carolina",550000
+youngda01,1991-92,29,Portland Trail Blazers,NBA,44,20.2,.391,.887,1.5,3.5,0.9,0.1,5.3,11.2,1.6,.086,-2.1,0.0,,"Enloe in Raleigh, North Carolina",550000
+youngda01,1992-93,30,DET,NBA,65,12.9,.413,.875,0.7,1.8,0.5,0.1,2.9,10.4,1.4,.081,-2.7,-0.2,,"Enloe in Raleigh, North Carolina",
+youngda01,1993-94,31,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,"Enloe in Raleigh, North Carolina",
+youngda01,1994-95,32,Milwaukee Bucks,NBA,7,11.0,.529,1.000,0.7,1.7,0.6,0.0,3.4,14.3,0.2,.141,-1.4,0.0,,"Enloe in Raleigh, North Carolina",150000

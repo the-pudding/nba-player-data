@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-hancoda01,1994-95,23,Charlotte Hornets,NBA,46,9.2,.562,.410,1.2,0.7,0.4,0.1,3.3,11.2,0.4,.049,-3.0,-0.1,,150000
-hancoda01,1995-96,24,Charlotte Hornets,NBA,63,13.3,.523,.644,1.6,0.7,0.4,0.1,4.3,10.0,0.5,.028,-3.7,-0.3,,225000
-hancoda01,1996-97,25,Phoenix Suns,NBA,24,5.5,.457,.714,0.8,0.5,0.4,0.0,1.8,11.9,0.2,.062,-3.4,0.0,,247500
-hancoda01,1996-97,25,Phoenix Suns,NBA,9,4.3,.333,,0.6,0.4,0.2,0.0,0.4,1.1,-0.1,-0.093,-7.1,-0.1,,247500
-hancoda01,1996-97,25,Phoenix Suns,NBA,14,6.1,.481,.667,0.9,0.5,0.5,0.1,2.4,16.2,0.2,.113,-1.2,0.0,,247500
-hancoda01,1996-97,25,Phoenix Suns,NBA,1,8.0,.500,1.000,0.0,1.0,0.0,0.0,4.0,18.3,0.0,.274,-8.6,0.0,,247500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+hancoda01,1994-95,23,Charlotte Hornets,NBA,46,9.2,.562,.410,1.2,0.7,0.4,0.1,3.3,11.2,0.4,.049,-3.0,-0.1,,150000,"Griffin in Griffin, Georgia"
+hancoda01,1995-96,24,Charlotte Hornets,NBA,63,13.3,.523,.644,1.6,0.7,0.4,0.1,4.3,10.0,0.5,.028,-3.7,-0.3,,225000,"Griffin in Griffin, Georgia"
+hancoda01,1996-97,25,Phoenix Suns,NBA,24,5.5,.457,.714,0.8,0.5,0.4,0.0,1.8,11.9,0.2,.062,-3.4,0.0,,247500,"Griffin in Griffin, Georgia"
+hancoda01,1996-97,25,Phoenix Suns,NBA,9,4.3,.333,,0.6,0.4,0.2,0.0,0.4,1.1,-0.1,-0.093,-7.1,-0.1,,247500,"Griffin in Griffin, Georgia"
+hancoda01,1996-97,25,Phoenix Suns,NBA,14,6.1,.481,.667,0.9,0.5,0.5,0.1,2.4,16.2,0.2,.113,-1.2,0.0,,247500,"Griffin in Griffin, Georgia"
+hancoda01,1996-97,25,Phoenix Suns,NBA,1,8.0,.500,1.000,0.0,1.0,0.0,0.0,4.0,18.3,0.0,.274,-8.6,0.0,,247500,"Griffin in Griffin, Georgia"

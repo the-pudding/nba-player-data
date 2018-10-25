@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-perryti01,1988-89,23,Phoenix Suns,NBA,62,9.9,.537,.615,2.1,0.3,0.3,0.5,4.1,14.4,1.4,.109,-0.6,0.2,,600000
-perryti01,1989-90,24,PHO,NBA,60,10.2,.513,.589,2.5,0.3,0.4,0.4,4.2,13.5,1.2,.094,-1.6,0.1,,
-perryti01,1990-91,25,Phoenix Suns,NBA,46,12.8,.521,.614,2.7,0.6,0.5,0.9,4.2,13.8,1.4,.116,1.5,0.5,,675000
-perryti01,1991-92,26,Phoenix Suns,NBA,80,31.0,.523,.712,6.9,1.7,0.6,1.5,12.3,13.8,5.7,.110,1.1,2.0,,675000
-perryti01,1992-93,27,Philadelphia 76ers,NBA,81,26.0,.468,.710,5.0,1.6,0.5,1.1,9.0,12.0,2.0,.046,-1.8,0.1,,900000
-perryti01,1993-94,28,Philadelphia 76ers,NBA,80,29.2,.435,.580,5.1,1.2,0.8,1.0,9.0,11.5,2.6,.054,-1.2,0.5,,1550000
-perryti01,1994-95,29,Philadelphia 76ers,NBA,42,10.6,.346,.550,2.1,0.3,0.2,0.4,1.8,6.4,-0.1,-0.006,-4.7,-0.3,,1750000
-perryti01,1995-96,30,New Jersey Nets,NBA,30,8.5,.477,.556,1.6,0.3,0.1,0.4,2.4,12.0,0.3,.062,-2.9,-0.1,,1950000
-perryti01,1995-96,30,New Jersey Nets,NBA,8,10.9,.444,.667,1.6,0.3,0.3,0.4,2.4,9.1,0.0,.015,-5.2,-0.1,,1950000
-perryti01,1995-96,30,New Jersey Nets,NBA,22,7.6,.489,.500,1.6,0.3,0.1,0.5,2.4,13.5,0.3,.087,-1.7,0.0,,1950000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+perryti01,1988-89,23,Phoenix Suns,NBA,62,9.9,.537,.615,2.1,0.3,0.3,0.5,4.1,14.4,1.4,.109,-0.6,0.2,,600000,"Freehold in Freehold, New Jersey"
+perryti01,1989-90,24,PHO,NBA,60,10.2,.513,.589,2.5,0.3,0.4,0.4,4.2,13.5,1.2,.094,-1.6,0.1,,,"Freehold in Freehold, New Jersey"
+perryti01,1990-91,25,Phoenix Suns,NBA,46,12.8,.521,.614,2.7,0.6,0.5,0.9,4.2,13.8,1.4,.116,1.5,0.5,,675000,"Freehold in Freehold, New Jersey"
+perryti01,1991-92,26,Phoenix Suns,NBA,80,31.0,.523,.712,6.9,1.7,0.6,1.5,12.3,13.8,5.7,.110,1.1,2.0,,675000,"Freehold in Freehold, New Jersey"
+perryti01,1992-93,27,Philadelphia 76ers,NBA,81,26.0,.468,.710,5.0,1.6,0.5,1.1,9.0,12.0,2.0,.046,-1.8,0.1,,900000,"Freehold in Freehold, New Jersey"
+perryti01,1993-94,28,Philadelphia 76ers,NBA,80,29.2,.435,.580,5.1,1.2,0.8,1.0,9.0,11.5,2.6,.054,-1.2,0.5,,1550000,"Freehold in Freehold, New Jersey"
+perryti01,1994-95,29,Philadelphia 76ers,NBA,42,10.6,.346,.550,2.1,0.3,0.2,0.4,1.8,6.4,-0.1,-0.006,-4.7,-0.3,,1750000,"Freehold in Freehold, New Jersey"
+perryti01,1995-96,30,New Jersey Nets,NBA,30,8.5,.477,.556,1.6,0.3,0.1,0.4,2.4,12.0,0.3,.062,-2.9,-0.1,,1950000,"Freehold in Freehold, New Jersey"
+perryti01,1995-96,30,New Jersey Nets,NBA,8,10.9,.444,.667,1.6,0.3,0.3,0.4,2.4,9.1,0.0,.015,-5.2,-0.1,,1950000,"Freehold in Freehold, New Jersey"
+perryti01,1995-96,30,New Jersey Nets,NBA,22,7.6,.489,.500,1.6,0.3,0.1,0.5,2.4,13.5,0.3,.087,-1.7,0.0,,1950000,"Freehold in Freehold, New Jersey"

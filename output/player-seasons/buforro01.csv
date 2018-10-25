@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-buforro01,1999-00,22,Miami Heat,NBA,34,11.4,.411,.727,1.4,0.6,0.3,0.2,4.3,11.2,0.6,.072,-3.9,-0.2,,301875
-buforro01,2000-01,23,Charlotte Hornets,NBA,47,12.2,.432,.828,1.6,0.4,0.4,0.1,5.3,11.3,0.8,.071,-4.3,-0.3,,423500
-buforro01,2001-02,24,Memphis Grizzlies,NBA,63,28.1,.435,.725,4.3,1.1,0.7,0.2,9.4,10.1,0.8,.022,-4.3,-1.0,,481488
-buforro01,2002-03,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
-buforro01,2003-04,26,Sacramento Kings,NBA,22,6.4,.339,.500,0.7,0.3,0.3,0.0,1.9,6.2,-0.2,-0.063,-8.8,-0.2,,145686
-buforro01,2004-05,27,New Jersey Nets,NBA,64,20.5,.382,.822,3.0,1.0,0.6,0.1,7.0,9.5,0.8,.030,-5.0,-1.0,,745046
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+buforro01,1999-00,22,Miami Heat,NBA,34,11.4,.411,.727,1.4,0.6,0.3,0.2,4.3,11.2,0.6,.072,-3.9,-0.2,,301875,"Vincent in Milwaukee, Wisconsin"
+buforro01,2000-01,23,Charlotte Hornets,NBA,47,12.2,.432,.828,1.6,0.4,0.4,0.1,5.3,11.3,0.8,.071,-4.3,-0.3,,423500,"Vincent in Milwaukee, Wisconsin"
+buforro01,2001-02,24,Memphis Grizzlies,NBA,63,28.1,.435,.725,4.3,1.1,0.7,0.2,9.4,10.1,0.8,.022,-4.3,-1.0,,481488,"Vincent in Milwaukee, Wisconsin"
+buforro01,2002-03,25,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Vincent in Milwaukee, Wisconsin"
+buforro01,2003-04,26,Sacramento Kings,NBA,22,6.4,.339,.500,0.7,0.3,0.3,0.0,1.9,6.2,-0.2,-0.063,-8.8,-0.2,,145686,"Vincent in Milwaukee, Wisconsin"
+buforro01,2004-05,27,New Jersey Nets,NBA,64,20.5,.382,.822,3.0,1.0,0.6,0.1,7.0,9.5,0.8,.030,-5.0,-1.0,,745046,"Vincent in Milwaukee, Wisconsin"

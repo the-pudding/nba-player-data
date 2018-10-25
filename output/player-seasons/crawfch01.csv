@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-crawfch01,1997-98,22,Atlanta Hawks,NBA,40,6.4,.418,.838,1.0,0.2,0.3,0.2,3.8,20.4,0.9,.170,-2.9,-0.1,,242000
-crawfch01,1998-99,23,Atlanta Hawks,NBA,42,18.7,.431,.814,2.1,0.6,0.2,0.3,6.9,10.1,1.3,.081,-2.8,-0.2,,350000
-crawfch01,1999-00,24,Atlanta Hawks,NBA,55,12.1,.397,.778,1.8,0.6,0.3,0.3,4.6,11.9,0.6,.043,-3.4,-0.2,,2000000
-crawfch01,2000-01,25,Atlanta Hawks,NBA,47,19.2,.452,.819,2.3,0.8,0.4,0.3,6.8,9.5,0.6,.031,-4.0,-0.5,,2200000
-crawfch01,2001-02,26,Atlanta Hawks,NBA,7,18.7,.467,.733,3.6,0.7,0.3,0.7,7.6,11.5,0.1,.035,-5.0,-0.1,,2500000
-crawfch01,2002-03,27,Atlanta Hawks,NBA,5,7.6,.615,.875,1.4,0.2,0.4,0.6,4.8,28.8,0.2,.316,4.8,0.1,,2750000
-crawfch01,2003-04,28,Atlanta Hawks,NBA,56,21.6,.448,.866,3.1,0.8,0.7,0.4,10.2,15.8,2.7,.107,-2.0,0.0,,3000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+crawfch01,1997-98,22,Atlanta Hawks,NBA,40,6.4,.418,.838,1.0,0.2,0.3,0.2,3.8,20.4,0.9,.170,-2.9,-0.1,,242000,"Comstock in Kalamazoo, Michigan"
+crawfch01,1998-99,23,Atlanta Hawks,NBA,42,18.7,.431,.814,2.1,0.6,0.2,0.3,6.9,10.1,1.3,.081,-2.8,-0.2,,350000,"Comstock in Kalamazoo, Michigan"
+crawfch01,1999-00,24,Atlanta Hawks,NBA,55,12.1,.397,.778,1.8,0.6,0.3,0.3,4.6,11.9,0.6,.043,-3.4,-0.2,,2000000,"Comstock in Kalamazoo, Michigan"
+crawfch01,2000-01,25,Atlanta Hawks,NBA,47,19.2,.452,.819,2.3,0.8,0.4,0.3,6.8,9.5,0.6,.031,-4.0,-0.5,,2200000,"Comstock in Kalamazoo, Michigan"
+crawfch01,2001-02,26,Atlanta Hawks,NBA,7,18.7,.467,.733,3.6,0.7,0.3,0.7,7.6,11.5,0.1,.035,-5.0,-0.1,,2500000,"Comstock in Kalamazoo, Michigan"
+crawfch01,2002-03,27,Atlanta Hawks,NBA,5,7.6,.615,.875,1.4,0.2,0.4,0.6,4.8,28.8,0.2,.316,4.8,0.1,,2750000,"Comstock in Kalamazoo, Michigan"
+crawfch01,2003-04,28,Atlanta Hawks,NBA,56,21.6,.448,.866,3.1,0.8,0.7,0.4,10.2,15.8,2.7,.107,-2.0,0.0,,3000000,"Comstock in Kalamazoo, Michigan"

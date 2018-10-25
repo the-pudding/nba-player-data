@@ -1,27 +1,27 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-smithjo02,1995-96,20,Golden State Warriors,NBA,82,34.4,.458,.773,8.7,1.0,1.0,1.6,15.3,17.2,6.8,.116,-0.2,1.3,,2473000
-smithjo02,1996-97,21,Golden State Warriors,NBA,80,38.6,.454,.814,8.5,1.6,0.9,1.1,18.7,16.0,4.4,.068,-1.9,0.1,,2794000
-smithjo02,1997-98,22,Golden State Warriors,NBA,79,29.7,.434,.775,6.0,1.2,0.8,0.6,14.6,14.4,2.6,.052,-2.7,-0.4,,3165160
-smithjo02,1997-98,22,Golden State Warriors,NBA,49,33.6,.429,.769,6.9,1.4,0.9,0.8,17.3,15.1,1.8,.053,-2.3,-0.1,,3165160
-smithjo02,1997-98,22,Golden State Warriors,NBA,30,23.3,.448,.788,4.4,0.9,0.6,0.4,10.3,12.9,0.8,.052,-3.8,-0.3,,3165160
-smithjo02,1998-99,23,Minnesota Timberwolves,NBA,43,33.0,.427,.755,8.2,1.6,0.7,1.5,13.7,16.6,3.7,.126,0.6,0.9,,1750000
-smithjo02,1999-00,24,Minnesota Timberwolves,NBA,78,25.3,.464,.756,6.2,1.1,0.6,1.1,9.9,14.4,4.7,.114,-0.7,0.7,,2100000
-smithjo02,2000-01,25,Detroit Pistons,NBA,69,28.1,.403,.805,7.1,1.1,0.7,0.7,12.3,14.6,4.4,.110,-1.8,0.1,,2250000
-smithjo02,2001-02,26,Minnesota Timberwolves,NBA,72,26.7,.511,.830,6.3,1.1,0.5,0.8,10.7,16.0,6.1,.153,0.7,1.3,,4538000
-smithjo02,2002-03,27,Minnesota Timberwolves,NBA,54,20.7,.460,.779,5.0,0.7,0.3,1.0,7.5,14.3,3.0,.131,-0.9,0.3,,4991800
-smithjo02,2003-04,28,Milwaukee Bucks,NBA,76,29.7,.439,.859,8.5,1.0,0.6,1.2,10.9,16.6,6.3,.134,0.7,1.5,,5445600
-smithjo02,2004-05,29,Milwaukee Bucks,NBA,74,30.6,.514,.768,7.3,0.9,0.6,0.5,11.0,15.0,5.5,.116,-0.2,1.1,,5899400
-smithjo02,2005-06,30,Milwaukee Bucks,NBA,44,20.2,.475,.774,5.2,0.7,0.5,0.3,8.6,16.1,2.3,.123,-2.1,0.0,,6353200
-smithjo02,2006-07,31,Philadelphia 76ers,NBA,65,23.1,.449,.845,6.2,0.8,0.6,0.4,8.5,13.9,2.8,.088,-2.9,-0.3,,6807000
-smithjo02,2006-07,31,Philadelphia 76ers,NBA,11,13.5,.479,.833,3.6,0.3,0.5,0.6,5.1,12.4,0.2,.060,-4.3,-0.1,,6807000
-smithjo02,2006-07,31,Philadelphia 76ers,NBA,54,25.1,.445,.846,6.7,0.9,0.6,0.4,9.2,14.1,2.6,.091,-2.7,-0.3,,6807000
-smithjo02,2007-08,32,Cleveland Cavaliers,NBA,77,22.4,.478,.755,5.2,0.9,0.4,0.6,10.1,16.1,4.1,.115,-2.1,0.0,,5200000
-smithjo02,2007-08,32,Cleveland Cavaliers,NBA,50,22.9,.466,.807,5.3,0.9,0.5,0.6,11.2,16.8,2.6,.109,-2.0,0.0,,5200000
-smithjo02,2007-08,32,Cleveland Cavaliers,NBA,27,21.5,.512,.652,5.0,0.7,0.3,0.6,8.1,14.9,1.5,.128,-2.1,0.0,,5200000
-smithjo02,2008-09,33,Oklahoma City Thunder,NBA,57,19.3,.468,.720,4.6,0.7,0.3,0.7,6.6,13.8,2.7,.118,-1.9,0.0,,4795000
-smithjo02,2008-09,33,Oklahoma City Thunder,NBA,36,19.2,.454,.704,4.5,0.7,0.3,0.7,6.6,13.2,1.3,.088,-3.0,-0.2,,4795000
-smithjo02,2008-09,33,Oklahoma City Thunder,NBA,21,19.6,.496,.750,4.8,0.8,0.3,0.7,6.5,14.8,1.4,.168,-0.1,0.2,,4795000
-smithjo02,2009-10,34,Atlanta Hawks,NBA,64,9.3,.399,.813,2.5,0.3,0.1,0.3,3.0,11.2,0.9,.077,-4.9,-0.4,,1306455
-smithjo02,2010-11,35,Los Angeles Lakers,NBA,16,4.3,.188,1.000,1.3,0.3,0.0,0.3,0.5,-0.1,-0.1,-0.099,-10.0,-0.1,,1352181
-smithjo02,2010-11,35,Los Angeles Lakers,NBA,4,6.3,.250,,0.8,0.3,0.0,0.0,0.5,-3.9,-0.1,-0.159,-11.4,-0.1,,1352181
-smithjo02,2010-11,35,Los Angeles Lakers,NBA,12,3.7,.167,1.000,1.5,0.3,0.0,0.3,0.5,2.1,-0.1,-0.065,-9.3,-0.1,,1352181
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+smithjo02,1995-96,20,Golden State Warriors,NBA,82,34.4,.458,.773,8.7,1.0,1.0,1.6,15.3,17.2,6.8,.116,-0.2,1.3,,2473000,"Maury in Norfolk, Virginia"
+smithjo02,1996-97,21,Golden State Warriors,NBA,80,38.6,.454,.814,8.5,1.6,0.9,1.1,18.7,16.0,4.4,.068,-1.9,0.1,,2794000,"Maury in Norfolk, Virginia"
+smithjo02,1997-98,22,Golden State Warriors,NBA,79,29.7,.434,.775,6.0,1.2,0.8,0.6,14.6,14.4,2.6,.052,-2.7,-0.4,,3165160,"Maury in Norfolk, Virginia"
+smithjo02,1997-98,22,Golden State Warriors,NBA,49,33.6,.429,.769,6.9,1.4,0.9,0.8,17.3,15.1,1.8,.053,-2.3,-0.1,,3165160,"Maury in Norfolk, Virginia"
+smithjo02,1997-98,22,Golden State Warriors,NBA,30,23.3,.448,.788,4.4,0.9,0.6,0.4,10.3,12.9,0.8,.052,-3.8,-0.3,,3165160,"Maury in Norfolk, Virginia"
+smithjo02,1998-99,23,Minnesota Timberwolves,NBA,43,33.0,.427,.755,8.2,1.6,0.7,1.5,13.7,16.6,3.7,.126,0.6,0.9,,1750000,"Maury in Norfolk, Virginia"
+smithjo02,1999-00,24,Minnesota Timberwolves,NBA,78,25.3,.464,.756,6.2,1.1,0.6,1.1,9.9,14.4,4.7,.114,-0.7,0.7,,2100000,"Maury in Norfolk, Virginia"
+smithjo02,2000-01,25,Detroit Pistons,NBA,69,28.1,.403,.805,7.1,1.1,0.7,0.7,12.3,14.6,4.4,.110,-1.8,0.1,,2250000,"Maury in Norfolk, Virginia"
+smithjo02,2001-02,26,Minnesota Timberwolves,NBA,72,26.7,.511,.830,6.3,1.1,0.5,0.8,10.7,16.0,6.1,.153,0.7,1.3,,4538000,"Maury in Norfolk, Virginia"
+smithjo02,2002-03,27,Minnesota Timberwolves,NBA,54,20.7,.460,.779,5.0,0.7,0.3,1.0,7.5,14.3,3.0,.131,-0.9,0.3,,4991800,"Maury in Norfolk, Virginia"
+smithjo02,2003-04,28,Milwaukee Bucks,NBA,76,29.7,.439,.859,8.5,1.0,0.6,1.2,10.9,16.6,6.3,.134,0.7,1.5,,5445600,"Maury in Norfolk, Virginia"
+smithjo02,2004-05,29,Milwaukee Bucks,NBA,74,30.6,.514,.768,7.3,0.9,0.6,0.5,11.0,15.0,5.5,.116,-0.2,1.1,,5899400,"Maury in Norfolk, Virginia"
+smithjo02,2005-06,30,Milwaukee Bucks,NBA,44,20.2,.475,.774,5.2,0.7,0.5,0.3,8.6,16.1,2.3,.123,-2.1,0.0,,6353200,"Maury in Norfolk, Virginia"
+smithjo02,2006-07,31,Philadelphia 76ers,NBA,65,23.1,.449,.845,6.2,0.8,0.6,0.4,8.5,13.9,2.8,.088,-2.9,-0.3,,6807000,"Maury in Norfolk, Virginia"
+smithjo02,2006-07,31,Philadelphia 76ers,NBA,11,13.5,.479,.833,3.6,0.3,0.5,0.6,5.1,12.4,0.2,.060,-4.3,-0.1,,6807000,"Maury in Norfolk, Virginia"
+smithjo02,2006-07,31,Philadelphia 76ers,NBA,54,25.1,.445,.846,6.7,0.9,0.6,0.4,9.2,14.1,2.6,.091,-2.7,-0.3,,6807000,"Maury in Norfolk, Virginia"
+smithjo02,2007-08,32,Cleveland Cavaliers,NBA,77,22.4,.478,.755,5.2,0.9,0.4,0.6,10.1,16.1,4.1,.115,-2.1,0.0,,5200000,"Maury in Norfolk, Virginia"
+smithjo02,2007-08,32,Cleveland Cavaliers,NBA,50,22.9,.466,.807,5.3,0.9,0.5,0.6,11.2,16.8,2.6,.109,-2.0,0.0,,5200000,"Maury in Norfolk, Virginia"
+smithjo02,2007-08,32,Cleveland Cavaliers,NBA,27,21.5,.512,.652,5.0,0.7,0.3,0.6,8.1,14.9,1.5,.128,-2.1,0.0,,5200000,"Maury in Norfolk, Virginia"
+smithjo02,2008-09,33,Oklahoma City Thunder,NBA,57,19.3,.468,.720,4.6,0.7,0.3,0.7,6.6,13.8,2.7,.118,-1.9,0.0,,4795000,"Maury in Norfolk, Virginia"
+smithjo02,2008-09,33,Oklahoma City Thunder,NBA,36,19.2,.454,.704,4.5,0.7,0.3,0.7,6.6,13.2,1.3,.088,-3.0,-0.2,,4795000,"Maury in Norfolk, Virginia"
+smithjo02,2008-09,33,Oklahoma City Thunder,NBA,21,19.6,.496,.750,4.8,0.8,0.3,0.7,6.5,14.8,1.4,.168,-0.1,0.2,,4795000,"Maury in Norfolk, Virginia"
+smithjo02,2009-10,34,Atlanta Hawks,NBA,64,9.3,.399,.813,2.5,0.3,0.1,0.3,3.0,11.2,0.9,.077,-4.9,-0.4,,1306455,"Maury in Norfolk, Virginia"
+smithjo02,2010-11,35,Los Angeles Lakers,NBA,16,4.3,.188,1.000,1.3,0.3,0.0,0.3,0.5,-0.1,-0.1,-0.099,-10.0,-0.1,,1352181,"Maury in Norfolk, Virginia"
+smithjo02,2010-11,35,Los Angeles Lakers,NBA,4,6.3,.250,,0.8,0.3,0.0,0.0,0.5,-3.9,-0.1,-0.159,-11.4,-0.1,,1352181,"Maury in Norfolk, Virginia"
+smithjo02,2010-11,35,Los Angeles Lakers,NBA,12,3.7,.167,1.000,1.5,0.3,0.0,0.3,0.5,2.1,-0.1,-0.065,-9.3,-0.1,,1352181,"Maury in Norfolk, Virginia"

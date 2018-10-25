@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-johnstr01,2008-09,24,Cleveland Cavaliers,NBA,4,3.5,.000,1.000,0.3,0.0,0.0,0.0,1.0,-9.3,-0.1,-0.205,-22.2,-0.1,,187258
-johnstr01,2009-10,25,Did Not Play,,,,,,,,,,,,,,,,,
-johnstr01,2010-11,26,Toronto Raptors,NBA,8,11.8,.364,.900,0.9,1.4,0.1,0.1,4.3,8.3,0.0,-0.009,-7.6,-0.1,,89670
-johnstr01,2010-11,26,Toronto Raptors,NBA,7,11.6,.333,.875,1.0,1.6,0.1,0.1,4.0,7.0,-0.1,-0.048,-8.3,-0.1,,89670
-johnstr01,2010-11,26,Toronto Raptors,NBA,1,13.0,.667,1.000,0.0,0.0,0.0,0.0,6.0,16.2,0.1,.230,-3.7,0.0,,89670
-johnstr01,2011-12,27,NOH,NBA,11,5.5,.571,1.000,1.1,0.4,0.1,0.0,1.9,11.8,0.1,.096,-3.6,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+johnstr01,2008-09,24,Cleveland Cavaliers,NBA,4,3.5,.000,1.000,0.3,0.0,0.0,0.0,1.0,-9.3,-0.1,-0.205,-22.2,-0.1,,187258,"Murrah in Jackson, Mississippi"
+johnstr01,2009-10,25,Did Not Play,,,,,,,,,,,,,,,,,,"Murrah in Jackson, Mississippi"
+johnstr01,2010-11,26,Toronto Raptors,NBA,8,11.8,.364,.900,0.9,1.4,0.1,0.1,4.3,8.3,0.0,-0.009,-7.6,-0.1,,89670,"Murrah in Jackson, Mississippi"
+johnstr01,2010-11,26,Toronto Raptors,NBA,7,11.6,.333,.875,1.0,1.6,0.1,0.1,4.0,7.0,-0.1,-0.048,-8.3,-0.1,,89670,"Murrah in Jackson, Mississippi"
+johnstr01,2010-11,26,Toronto Raptors,NBA,1,13.0,.667,1.000,0.0,0.0,0.0,0.0,6.0,16.2,0.1,.230,-3.7,0.0,,89670,"Murrah in Jackson, Mississippi"
+johnstr01,2011-12,27,NOH,NBA,11,5.5,.571,1.000,1.1,0.4,0.1,0.0,1.9,11.8,0.1,.096,-3.6,0.0,,,"Murrah in Jackson, Mississippi"

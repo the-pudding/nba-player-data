@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-gordobe01,2004-05,21,Chicago Bulls,NBA,82,24.4,.411,.863,2.6,2.0,0.6,0.1,15.1,14.9,3.5,.084,-0.6,0.7,,3358320
-gordobe01,2005-06,22,Chicago Bulls,NBA,80,31.0,.422,.787,2.7,3.0,0.9,0.1,16.9,14.5,4.4,.086,0.2,1.4,,3610200
-gordobe01,2006-07,23,Chicago Bulls,NBA,82,33.0,.455,.864,3.1,3.6,0.8,0.2,21.4,18.2,8.6,.152,1.4,2.4,,3862080
-gordobe01,2007-08,24,Chicago Bulls,NBA,72,31.8,.434,.908,3.1,3.0,0.8,0.1,18.6,16.4,5.1,.106,-0.1,1.1,,4881669
-gordobe01,2008-09,25,Chicago Bulls,NBA,82,36.6,.455,.864,3.5,3.4,0.9,0.3,20.7,17.0,6.9,.110,0.6,1.9,,6404750
-gordobe01,2009-10,26,Detroit Pistons,NBA,62,27.9,.416,.861,1.9,2.7,0.8,0.1,13.8,14.0,2.1,.059,-2.1,-0.1,,10000000
-gordobe01,2010-11,27,Detroit Pistons,NBA,82,26.0,.440,.850,2.4,2.1,0.6,0.2,11.2,12.4,1.7,.037,-2.5,-0.3,,10800000
-gordobe01,2011-12,28,Detroit Pistons,NBA,52,26.9,.442,.860,2.3,2.4,0.7,0.2,12.5,13.5,1.7,.058,-2.4,-0.1,,11600000
-gordobe01,2012-13,29,Charlotte Bobcats,NBA,75,20.8,.408,.843,1.7,1.9,0.5,0.2,11.2,12.7,-0.6,-0.018,-5.1,-1.2,,12400000
-gordobe01,2013-14,30,Charlotte Bobcats,NBA,19,14.7,.343,.810,1.4,1.1,0.5,0.1,5.2,6.4,-0.3,-0.058,-6.8,-0.3,,13200000
-gordobe01,2014-15,31,Orlando Magic,NBA,56,14.1,.437,.836,1.1,0.9,0.3,0.0,6.2,10.6,0.3,.015,-6.1,-0.8,,4500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+gordobe01,2004-05,21,Chicago Bulls,NBA,82,24.4,.411,.863,2.6,2.0,0.6,0.1,15.1,14.9,3.5,.084,-0.6,0.7,,3358320,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2005-06,22,Chicago Bulls,NBA,80,31.0,.422,.787,2.7,3.0,0.9,0.1,16.9,14.5,4.4,.086,0.2,1.4,,3610200,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2006-07,23,Chicago Bulls,NBA,82,33.0,.455,.864,3.1,3.6,0.8,0.2,21.4,18.2,8.6,.152,1.4,2.4,,3862080,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2007-08,24,Chicago Bulls,NBA,72,31.8,.434,.908,3.1,3.0,0.8,0.1,18.6,16.4,5.1,.106,-0.1,1.1,,4881669,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2008-09,25,Chicago Bulls,NBA,82,36.6,.455,.864,3.5,3.4,0.9,0.3,20.7,17.0,6.9,.110,0.6,1.9,,6404750,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2009-10,26,Detroit Pistons,NBA,62,27.9,.416,.861,1.9,2.7,0.8,0.1,13.8,14.0,2.1,.059,-2.1,-0.1,,10000000,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2010-11,27,Detroit Pistons,NBA,82,26.0,.440,.850,2.4,2.1,0.6,0.2,11.2,12.4,1.7,.037,-2.5,-0.3,,10800000,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2011-12,28,Detroit Pistons,NBA,52,26.9,.442,.860,2.3,2.4,0.7,0.2,12.5,13.5,1.7,.058,-2.4,-0.1,,11600000,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2012-13,29,Charlotte Bobcats,NBA,75,20.8,.408,.843,1.7,1.9,0.5,0.2,11.2,12.7,-0.6,-0.018,-5.1,-1.2,,12400000,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2013-14,30,Charlotte Bobcats,NBA,19,14.7,.343,.810,1.4,1.1,0.5,0.1,5.2,6.4,-0.3,-0.058,-6.8,-0.3,,13200000,"Mount Vernon in Mount Vernon, New York"
+gordobe01,2014-15,31,Orlando Magic,NBA,56,14.1,.437,.836,1.1,0.9,0.3,0.0,6.2,10.6,0.3,.015,-6.1,-0.8,,4500000,"Mount Vernon in Mount Vernon, New York"

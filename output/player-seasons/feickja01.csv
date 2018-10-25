@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-feickja01,1996-97,22,"CHH,SAS",NBA,41,15.2,.357,.507,5.2,0.6,0.4,0.3,3.7,11.1,0.2,.016,-4.6,-0.4,,
-feickja01,1997-98,23,Milwaukee Bucks,NBA,45,10.0,.433,.488,2.8,0.4,0.6,0.4,2.3,12.1,0.9,.091,-0.4,0.2,,272250
-feickja01,1998-99,24,New Jersey Nets,NBA,28,30.4,.500,.717,10.3,0.9,0.9,0.6,6.3,14.2,2.2,.123,0.2,0.5,,425000
-feickja01,1998-99,24,New Jersey Nets,NBA,2,1.5,.000,,1.0,0.0,0.0,0.0,0.0,-1.7,0.0,-0.196,-32.2,0.0,,425000
-feickja01,1998-99,24,New Jersey Nets,NBA,26,32.7,.504,.717,11.0,0.9,1.0,0.7,6.8,14.2,2.2,.124,0.3,0.5,,425000
-feickja01,1999-00,25,New Jersey Nets,NBA,81,27.7,.428,.707,9.3,0.8,0.5,0.5,5.7,12.3,4.8,.103,-1.7,0.2,,2000000
-feickja01,2000-01,26,New Jersey Nets,NBA,6,24.8,.348,.500,9.3,0.8,1.3,0.5,3.7,10.2,0.2,.050,-3.8,-0.1,,2200000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+feickja01,1996-97,22,"CHH,SAS",NBA,41,15.2,.357,.507,5.2,0.6,0.4,0.3,3.7,11.1,0.2,.016,-4.6,-0.4,,"Lexington in Lexington, Ohio",
+feickja01,1997-98,23,Milwaukee Bucks,NBA,45,10.0,.433,.488,2.8,0.4,0.6,0.4,2.3,12.1,0.9,.091,-0.4,0.2,,"Lexington in Lexington, Ohio",272250
+feickja01,1998-99,24,New Jersey Nets,NBA,28,30.4,.500,.717,10.3,0.9,0.9,0.6,6.3,14.2,2.2,.123,0.2,0.5,,"Lexington in Lexington, Ohio",425000
+feickja01,1998-99,24,New Jersey Nets,NBA,2,1.5,.000,,1.0,0.0,0.0,0.0,0.0,-1.7,0.0,-0.196,-32.2,0.0,,"Lexington in Lexington, Ohio",425000
+feickja01,1998-99,24,New Jersey Nets,NBA,26,32.7,.504,.717,11.0,0.9,1.0,0.7,6.8,14.2,2.2,.124,0.3,0.5,,"Lexington in Lexington, Ohio",425000
+feickja01,1999-00,25,New Jersey Nets,NBA,81,27.7,.428,.707,9.3,0.8,0.5,0.5,5.7,12.3,4.8,.103,-1.7,0.2,,"Lexington in Lexington, Ohio",2000000
+feickja01,2000-01,26,New Jersey Nets,NBA,6,24.8,.348,.500,9.3,0.8,1.3,0.5,3.7,10.2,0.2,.050,-3.8,-0.1,,"Lexington in Lexington, Ohio",2200000

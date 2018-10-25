@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-wingada01,1986-87,23,PHI,NBA,77,20.9,.430,.741,2.0,2.0,1.2,0.2,8.8,11.9,1.4,.041,-2.6,-0.2,,
-wingada01,1987-88,24,Philadelphia 76ers,NBA,61,23.3,.400,.750,1.7,2.0,0.8,0.4,8.9,8.5,-0.5,-0.018,-5.2,-1.1,,258333
-wingada01,1988-89,25,Philadelphia 76ers,NBA,33,11.3,.470,.794,1.1,2.2,0.3,0.1,4.2,11.5,0.2,.032,-4.4,-0.2,,308333
-wingada01,1989-90,26,SAS,NBA,78,23.8,.448,.777,2.5,2.7,1.1,0.2,6.8,9.4,1.9,.050,-1.8,0.1,,
-wingada01,1990-91,27,San Antonio Spurs,NBA,25,22.5,.384,.707,3.0,1.8,0.8,0.2,5.4,5.6,0.1,.007,-3.4,-0.2,,750000
-wingada01,1991-92,28,Washington Bullets,NBA,81,26.3,.465,.719,3.3,3.0,1.5,0.3,7.9,11.5,2.4,.054,-1.0,0.5,,250000
-wingada01,1992-93,29,Charlotte Hornets,NBA,72,20.4,.536,.738,2.4,2.5,0.9,0.1,6.1,11.5,2.3,.075,-0.7,0.5,,129000
-wingada01,1993-94,30,Charlotte Hornets,NBA,50,20.1,.481,.667,2.7,2.1,0.8,0.1,6.2,10.8,1.0,.046,-1.9,0.0,,570000
-wingada01,1994-95,31,Charlotte Hornets,NBA,52,9.9,.410,.750,1.2,1.1,0.4,0.1,2.3,8.1,0.4,.037,-3.8,-0.2,,570000
-wingada01,1995-96,32,Seattle SuperSonics,NBA,60,11.6,.415,.780,0.9,1.0,0.3,0.1,3.7,8.1,0.6,.041,-5.2,-0.6,,560000
-wingada01,1996-97,33,Seattle SuperSonics,NBA,65,14.3,.416,.825,1.1,1.2,0.7,0.1,3.6,9.3,1.7,.087,-2.0,0.0,,560000
-wingada01,1997-98,34,Seattle SuperSonics,NBA,58,9.4,.471,.517,1.4,0.6,0.4,0.1,2.6,8.6,0.3,.026,-4.6,-0.4,,570000
-wingada01,1998-99,35,New York Knicks,NBA,20,4.6,.438,,0.4,0.3,0.2,0.0,0.7,4.2,0.0,-0.001,-4.3,-0.1,,1000000
-wingada01,1999-00,36,New York Knicks,NBA,7,4.6,.111,,0.3,0.4,0.1,0.3,0.3,-5.0,-0.1,-0.209,-9.7,-0.1,,510000
-wingada01,2000-01,37,Seattle SuperSonics,NBA,1,9.0,1.000,,0.0,2.0,0.0,0.0,6.0,35.8,0.1,.448,-5.2,0.0,,1000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+wingada01,1986-87,23,PHI,NBA,77,20.9,.430,.741,2.0,2.0,1.2,0.2,8.8,11.9,1.4,.041,-2.6,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",
+wingada01,1987-88,24,Philadelphia 76ers,NBA,61,23.3,.400,.750,1.7,2.0,0.8,0.4,8.9,8.5,-0.5,-0.018,-5.2,-1.1,,"Paul Laurence Dunbar in Baltimore, Maryland",258333
+wingada01,1988-89,25,Philadelphia 76ers,NBA,33,11.3,.470,.794,1.1,2.2,0.3,0.1,4.2,11.5,0.2,.032,-4.4,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",308333
+wingada01,1989-90,26,SAS,NBA,78,23.8,.448,.777,2.5,2.7,1.1,0.2,6.8,9.4,1.9,.050,-1.8,0.1,,"Paul Laurence Dunbar in Baltimore, Maryland",
+wingada01,1990-91,27,San Antonio Spurs,NBA,25,22.5,.384,.707,3.0,1.8,0.8,0.2,5.4,5.6,0.1,.007,-3.4,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",750000
+wingada01,1991-92,28,Washington Bullets,NBA,81,26.3,.465,.719,3.3,3.0,1.5,0.3,7.9,11.5,2.4,.054,-1.0,0.5,,"Paul Laurence Dunbar in Baltimore, Maryland",250000
+wingada01,1992-93,29,Charlotte Hornets,NBA,72,20.4,.536,.738,2.4,2.5,0.9,0.1,6.1,11.5,2.3,.075,-0.7,0.5,,"Paul Laurence Dunbar in Baltimore, Maryland",129000
+wingada01,1993-94,30,Charlotte Hornets,NBA,50,20.1,.481,.667,2.7,2.1,0.8,0.1,6.2,10.8,1.0,.046,-1.9,0.0,,"Paul Laurence Dunbar in Baltimore, Maryland",570000
+wingada01,1994-95,31,Charlotte Hornets,NBA,52,9.9,.410,.750,1.2,1.1,0.4,0.1,2.3,8.1,0.4,.037,-3.8,-0.2,,"Paul Laurence Dunbar in Baltimore, Maryland",570000
+wingada01,1995-96,32,Seattle SuperSonics,NBA,60,11.6,.415,.780,0.9,1.0,0.3,0.1,3.7,8.1,0.6,.041,-5.2,-0.6,,"Paul Laurence Dunbar in Baltimore, Maryland",560000
+wingada01,1996-97,33,Seattle SuperSonics,NBA,65,14.3,.416,.825,1.1,1.2,0.7,0.1,3.6,9.3,1.7,.087,-2.0,0.0,,"Paul Laurence Dunbar in Baltimore, Maryland",560000
+wingada01,1997-98,34,Seattle SuperSonics,NBA,58,9.4,.471,.517,1.4,0.6,0.4,0.1,2.6,8.6,0.3,.026,-4.6,-0.4,,"Paul Laurence Dunbar in Baltimore, Maryland",570000
+wingada01,1998-99,35,New York Knicks,NBA,20,4.6,.438,,0.4,0.3,0.2,0.0,0.7,4.2,0.0,-0.001,-4.3,-0.1,,"Paul Laurence Dunbar in Baltimore, Maryland",1000000
+wingada01,1999-00,36,New York Knicks,NBA,7,4.6,.111,,0.3,0.4,0.1,0.3,0.3,-5.0,-0.1,-0.209,-9.7,-0.1,,"Paul Laurence Dunbar in Baltimore, Maryland",510000
+wingada01,2000-01,37,Seattle SuperSonics,NBA,1,9.0,1.000,,0.0,2.0,0.0,0.0,6.0,35.8,0.1,.448,-5.2,0.0,,"Paul Laurence Dunbar in Baltimore, Maryland",1000000

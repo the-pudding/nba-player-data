@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-kutluib01,2004-05,30,Seattle SuperSonics,NBA,5,2.4,.000,,0.2,0.0,0.0,0.0,0.0,-12.9,-0.1,-0.348,-17.1,0.0,,1600000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+kutluib01,2004-05,30,Seattle SuperSonics,NBA,5,2.4,.000,,0.2,0.0,0.0,0.0,0.0,-12.9,-0.1,-0.348,-17.1,0.0,,1600000,

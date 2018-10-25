@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-townsra01,1978-79,23,GSW,NBA,65,11.9,.439,.735,0.8,1.4,0.4,0.1,4.7,10.8,0.8,.048,-4.7,-0.5,
-townsra01,1979-80,24,GSW,NBA,75,15.5,.406,.714,1.2,1.5,0.8,0.1,5.4,9.6,0.4,.015,-4.2,-0.6,
-townsra01,1980-81,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-townsra01,1981-82,26,IND,NBA,14,6.8,.268,.550,0.9,0.7,0.2,0.0,2.5,4.4,-0.2,-0.078,-8.4,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+townsra01,1978-79,23,GSW,NBA,65,11.9,.439,.735,0.8,1.4,0.4,0.1,4.7,10.8,0.8,.048,-4.7,-0.5,,"Camden in San Jose, California"
+townsra01,1979-80,24,GSW,NBA,75,15.5,.406,.714,1.2,1.5,0.8,0.1,5.4,9.6,0.4,.015,-4.2,-0.6,,"Camden in San Jose, California"
+townsra01,1980-81,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Camden in San Jose, California"
+townsra01,1981-82,26,IND,NBA,14,6.8,.268,.550,0.9,0.7,0.2,0.0,2.5,4.4,-0.2,-0.078,-8.4,-0.2,,"Camden in San Jose, California"

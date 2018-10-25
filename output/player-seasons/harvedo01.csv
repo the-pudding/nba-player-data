@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-harvedo01,2000-01,20,Dallas Mavericks,NBA,18,3.6,.571,.375,1.1,0.1,0.2,0.1,1.2,9.8,0.1,.039,-5.2,-0.1,,862560
-harvedo01,2001-02,21,Dallas Mavericks,NBA,47,17.9,.498,.600,4.8,0.8,0.4,0.5,5.7,14.1,1.8,.105,-1.0,0.2,,927360
-harvedo01,2001-02,21,Dallas Mavericks,NBA,18,9.0,.538,.455,2.6,0.3,0.2,0.3,2.1,10.1,0.3,.075,-3.0,0.0,,927360
-harvedo01,2001-02,21,Dallas Mavericks,NBA,29,23.4,.492,.647,6.2,1.1,0.6,0.7,8.0,15.0,1.6,.112,-0.6,0.2,,927360
-harvedo01,2002-03,22,Denver Nuggets,NBA,77,20.9,.446,.670,5.3,1.3,0.6,0.4,7.9,12.5,2.0,.059,-2.5,-0.2,,992040
-harvedo01,2003-04,23,Phoenix Suns,NBA,60,13.1,.443,.735,2.7,0.4,0.4,0.5,4.0,10.4,0.7,.043,-4.8,-0.6,,663679
-harvedo01,2003-04,23,Phoenix Suns,NBA,24,14.4,.404,.667,3.0,0.3,0.4,0.5,4.1,9.5,0.0,-0.005,-6.0,-0.4,,663679
-harvedo01,2003-04,23,Phoenix Suns,NBA,36,12.2,.473,.795,2.6,0.4,0.4,0.4,3.9,11.1,0.7,.081,-3.8,-0.2,,663679
-harvedo01,2004-05,24,NJN,NBA,3,5.3,1.000,1.000,2.3,0.3,0.3,0.3,2.7,35.2,0.2,.484,10.2,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+harvedo01,2000-01,20,Dallas Mavericks,NBA,18,3.6,.571,.375,1.1,0.1,0.2,0.1,1.2,9.8,0.1,.039,-5.2,-0.1,,862560,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2001-02,21,Dallas Mavericks,NBA,47,17.9,.498,.600,4.8,0.8,0.4,0.5,5.7,14.1,1.8,.105,-1.0,0.2,,927360,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2001-02,21,Dallas Mavericks,NBA,18,9.0,.538,.455,2.6,0.3,0.2,0.3,2.1,10.1,0.3,.075,-3.0,0.0,,927360,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2001-02,21,Dallas Mavericks,NBA,29,23.4,.492,.647,6.2,1.1,0.6,0.7,8.0,15.0,1.6,.112,-0.6,0.2,,927360,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2002-03,22,Denver Nuggets,NBA,77,20.9,.446,.670,5.3,1.3,0.6,0.4,7.9,12.5,2.0,.059,-2.5,-0.2,,992040,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2003-04,23,Phoenix Suns,NBA,60,13.1,.443,.735,2.7,0.4,0.4,0.5,4.0,10.4,0.7,.043,-4.8,-0.6,,663679,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2003-04,23,Phoenix Suns,NBA,24,14.4,.404,.667,3.0,0.3,0.4,0.5,4.1,9.5,0.0,-0.005,-6.0,-0.4,,663679,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2003-04,23,Phoenix Suns,NBA,36,12.2,.473,.795,2.6,0.4,0.4,0.4,3.9,11.1,0.7,.081,-3.8,-0.2,,663679,"Randolph-Clay in Cuthbert, Georgia"
+harvedo01,2004-05,24,NJN,NBA,3,5.3,1.000,1.000,2.3,0.3,0.3,0.3,2.7,35.2,0.2,.484,10.2,0.0,,,"Randolph-Clay in Cuthbert, Georgia"

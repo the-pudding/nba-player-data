@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-eberhal01,1976-77,24,DET,NBA,68,17.9,.476,.790,3.3,0.7,0.7,0.2,6.9,11.5,1.8,.069,-2.4,-0.1,
-eberhal01,1977-78,25,DET,NBA,37,15.6,.444,.672,2.8,0.7,0.4,0.1,4.9,10.0,0.9,.078,-3.0,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+eberhal01,1976-77,24,DET,NBA,68,17.9,.476,.790,3.3,0.7,0.7,0.2,6.9,11.5,1.8,.069,-2.4,-0.1,,"Springville in Springville, Iowa"
+eberhal01,1977-78,25,DET,NBA,37,15.6,.444,.672,2.8,0.7,0.4,0.1,4.9,10.0,0.9,.078,-3.0,-0.1,,"Springville in Springville, Iowa"

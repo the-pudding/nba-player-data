@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-dawsoto01,1990-91,23,SAC,NBA,4,4.3,.571,,0.5,0.0,0.0,0.0,2.3,16.0,0.0,.060,-7.5,0.0,
-dawsoto01,1991-92,24,Did Not Play,,,,,,,,,,,,,,,,
-dawsoto01,1992-93,25,"Did Not Play (other pro league—CBA, France, Italy)",,,,,,,,,,,,,,,,
-dawsoto01,1993-94,26,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,
-dawsoto01,1994-95,27,BOS,NBA,2,6.5,.375,1.000,1.5,0.5,0.0,0.0,4.0,5.9,0.0,-0.099,-11.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+dawsoto01,1990-91,23,SAC,NBA,4,4.3,.571,,0.5,0.0,0.0,0.0,2.3,16.0,0.0,.060,-7.5,0.0,,"Kinston in Kinston, North Carolina"
+dawsoto01,1991-92,24,Did Not Play,,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
+dawsoto01,1992-93,25,"Did Not Play (other pro league—CBA, France, Italy)",,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
+dawsoto01,1993-94,26,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"Kinston in Kinston, North Carolina"
+dawsoto01,1994-95,27,BOS,NBA,2,6.5,.375,1.000,1.5,0.5,0.0,0.0,4.0,5.9,0.0,-0.099,-11.1,0.0,,"Kinston in Kinston, North Carolina"

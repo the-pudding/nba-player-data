@@ -1,23 +1,23 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-cassesa01,1993-94,24,Houston Rockets,NBA,66,17.0,.418,.841,2.0,2.9,0.9,0.1,6.7,13.1,2.2,.093,-1.3,0.2,,650000
-cassesa01,1994-95,25,Houston Rockets,NBA,82,23.0,.427,.843,2.6,4.9,1.1,0.2,9.5,15.9,4.7,.120,-0.4,0.8,,845000
-cassesa01,1995-96,26,Houston Rockets,NBA,61,27.6,.439,.825,3.1,4.6,0.9,0.1,14.5,16.8,3.9,.110,-0.4,0.7,,1040000
-cassesa01,1996-97,27,Dallas Mavericks,NBA,61,28.1,.430,.845,3.0,5.0,1.3,0.3,15.9,18.4,3.9,.108,1.2,1.4,,1235000
-cassesa01,1996-97,27,Dallas Mavericks,NBA,22,24.5,.415,.855,2.3,4.5,1.0,0.3,14.8,18.3,1.2,.103,-0.2,0.2,,1235000
-cassesa01,1996-97,27,Dallas Mavericks,NBA,16,24.9,.424,.840,3.1,3.6,1.1,0.4,12.3,15.8,0.5,.062,-0.1,0.2,,1235000
-cassesa01,1996-97,27,Dallas Mavericks,NBA,23,33.8,.443,.831,3.6,6.5,1.6,0.3,19.3,19.7,2.2,.136,2.8,0.9,,1235000
-cassesa01,1997-98,28,New Jersey Nets,NBA,75,34.7,.441,.860,3.0,8.0,1.6,0.3,19.6,21.0,8.3,.152,2.6,3.0,,2500000
-cassesa01,1998-99,29,Milwaukee Bucks,NBA,8,24.9,.419,.940,1.9,4.5,1.1,0.0,15.9,23.1,0.8,.187,0.3,0.1,,3000000
-cassesa01,1998-99,29,Milwaukee Bucks,NBA,4,25.0,.429,.935,1.5,4.8,0.8,0.0,18.0,23.7,0.4,.194,-0.9,0.0,,3000000
-cassesa01,1998-99,29,Milwaukee Bucks,NBA,4,24.8,.409,.947,2.3,4.3,1.5,0.0,13.8,22.5,0.4,.179,1.4,0.1,,3000000
-cassesa01,1999-00,30,Milwaukee Bucks,NBA,81,35.8,.466,.876,3.7,9.0,1.3,0.1,18.6,21.1,9.2,.152,1.8,2.7,,3500000
-cassesa01,2000-01,31,Milwaukee Bucks,NBA,76,35.6,.474,.858,3.8,7.6,1.2,0.1,18.2,20.1,8.5,.150,1.1,2.1,,4000000
-cassesa01,2001-02,32,Milwaukee Bucks,NBA,74,35.2,.463,.860,4.2,6.7,1.2,0.2,19.7,21.3,8.6,.158,2.3,2.8,,4350000
-cassesa01,2002-03,33,Milwaukee Bucks,NBA,78,34.6,.470,.861,4.4,5.8,1.1,0.2,19.7,22.3,9.6,.171,2.6,3.1,,4850000
-cassesa01,2003-04,34,Minnesota Timberwolves,NBA,81,35.0,.488,.873,3.3,7.3,1.3,0.2,19.8,22.8,12.1,.205,4.3,4.5,All-NBA (2nd),5062500
-cassesa01,2004-05,35,Minnesota Timberwolves,NBA,59,25.8,.464,.865,2.7,5.1,0.6,0.2,13.5,18.6,3.8,.119,0.6,1.0,,6250000
-cassesa01,2005-06,36,Los Angeles Clippers,NBA,78,34.0,.443,.863,3.7,6.3,0.9,0.1,17.2,18.5,7.6,.137,1.8,2.5,,6875000
-cassesa01,2006-07,37,Los Angeles Clippers,NBA,58,24.3,.418,.879,2.9,4.7,0.5,0.1,12.3,17.1,2.8,.095,-0.9,0.4,,6850000
-cassesa01,2007-08,38,Los Angeles Clippers,NBA,55,23.2,.438,.882,2.5,3.9,0.7,0.1,11.2,15.4,1.8,.067,-1.9,0.0,,6150000
-cassesa01,2007-08,38,Los Angeles Clippers,NBA,38,25.7,.455,.891,2.8,4.7,0.7,0.1,12.8,16.8,1.4,.069,-1.3,0.2,,6150000
-cassesa01,2007-08,38,Los Angeles Clippers,NBA,17,17.6,.385,.840,1.8,2.1,0.5,0.2,7.6,11.0,0.4,.061,-4.0,-0.1,,6150000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+cassesa01,1993-94,24,Houston Rockets,NBA,66,17.0,.418,.841,2.0,2.9,0.9,0.1,6.7,13.1,2.2,.093,-1.3,0.2,,650000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1994-95,25,Houston Rockets,NBA,82,23.0,.427,.843,2.6,4.9,1.1,0.2,9.5,15.9,4.7,.120,-0.4,0.8,,845000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1995-96,26,Houston Rockets,NBA,61,27.6,.439,.825,3.1,4.6,0.9,0.1,14.5,16.8,3.9,.110,-0.4,0.7,,1040000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1996-97,27,Dallas Mavericks,NBA,61,28.1,.430,.845,3.0,5.0,1.3,0.3,15.9,18.4,3.9,.108,1.2,1.4,,1235000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1996-97,27,Dallas Mavericks,NBA,22,24.5,.415,.855,2.3,4.5,1.0,0.3,14.8,18.3,1.2,.103,-0.2,0.2,,1235000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1996-97,27,Dallas Mavericks,NBA,16,24.9,.424,.840,3.1,3.6,1.1,0.4,12.3,15.8,0.5,.062,-0.1,0.2,,1235000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1996-97,27,Dallas Mavericks,NBA,23,33.8,.443,.831,3.6,6.5,1.6,0.3,19.3,19.7,2.2,.136,2.8,0.9,,1235000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1997-98,28,New Jersey Nets,NBA,75,34.7,.441,.860,3.0,8.0,1.6,0.3,19.6,21.0,8.3,.152,2.6,3.0,,2500000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1998-99,29,Milwaukee Bucks,NBA,8,24.9,.419,.940,1.9,4.5,1.1,0.0,15.9,23.1,0.8,.187,0.3,0.1,,3000000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1998-99,29,Milwaukee Bucks,NBA,4,25.0,.429,.935,1.5,4.8,0.8,0.0,18.0,23.7,0.4,.194,-0.9,0.0,,3000000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1998-99,29,Milwaukee Bucks,NBA,4,24.8,.409,.947,2.3,4.3,1.5,0.0,13.8,22.5,0.4,.179,1.4,0.1,,3000000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,1999-00,30,Milwaukee Bucks,NBA,81,35.8,.466,.876,3.7,9.0,1.3,0.1,18.6,21.1,9.2,.152,1.8,2.7,,3500000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2000-01,31,Milwaukee Bucks,NBA,76,35.6,.474,.858,3.8,7.6,1.2,0.1,18.2,20.1,8.5,.150,1.1,2.1,,4000000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2001-02,32,Milwaukee Bucks,NBA,74,35.2,.463,.860,4.2,6.7,1.2,0.2,19.7,21.3,8.6,.158,2.3,2.8,,4350000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2002-03,33,Milwaukee Bucks,NBA,78,34.6,.470,.861,4.4,5.8,1.1,0.2,19.7,22.3,9.6,.171,2.6,3.1,,4850000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2003-04,34,Minnesota Timberwolves,NBA,81,35.0,.488,.873,3.3,7.3,1.3,0.2,19.8,22.8,12.1,.205,4.3,4.5,All-NBA (2nd),5062500,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2004-05,35,Minnesota Timberwolves,NBA,59,25.8,.464,.865,2.7,5.1,0.6,0.2,13.5,18.6,3.8,.119,0.6,1.0,,6250000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2005-06,36,Los Angeles Clippers,NBA,78,34.0,.443,.863,3.7,6.3,0.9,0.1,17.2,18.5,7.6,.137,1.8,2.5,,6875000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2006-07,37,Los Angeles Clippers,NBA,58,24.3,.418,.879,2.9,4.7,0.5,0.1,12.3,17.1,2.8,.095,-0.9,0.4,,6850000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2007-08,38,Los Angeles Clippers,NBA,55,23.2,.438,.882,2.5,3.9,0.7,0.1,11.2,15.4,1.8,.067,-1.9,0.0,,6150000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2007-08,38,Los Angeles Clippers,NBA,38,25.7,.455,.891,2.8,4.7,0.7,0.1,12.8,16.8,1.4,.069,-1.3,0.2,,6150000,"Paul Laurence Dunbar in Baltimore, Maryland"
+cassesa01,2007-08,38,Los Angeles Clippers,NBA,17,17.6,.385,.840,1.8,2.1,0.5,0.2,7.6,11.0,0.4,.061,-4.0,-0.1,,6150000,"Paul Laurence Dunbar in Baltimore, Maryland"

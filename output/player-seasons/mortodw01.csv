@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-mortodw01,1994-95,23,Golden State Warriors,NBA,41,9.6,.388,.682,1.4,0.4,0.3,0.4,4.1,11.0,0.2,.025,-5.1,-0.3,,150000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+mortodw01,1994-95,23,Golden State Warriors,NBA,41,9.6,.388,.682,1.4,0.4,0.3,0.4,4.1,11.0,0.2,.025,-5.1,-0.3,,150000,"Central in Louisville, Kentucky"

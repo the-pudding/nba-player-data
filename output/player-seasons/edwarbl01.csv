@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-edwarbl01,1989-90,24,UTA,NBA,82,23.0,.507,.719,3.1,1.8,0.9,0.4,8.9,10.7,2.7,.068,0.0,1.0,,
-edwarbl01,1990-91,25,Utah Jazz,NBA,62,26.0,.526,.701,3.2,1.7,0.9,0.5,9.3,10.4,2.2,.065,-0.3,0.7,,360000
-edwarbl01,1991-92,26,Utah Jazz,NBA,81,28.2,.522,.774,3.7,1.7,1.0,0.6,12.6,13.7,5.2,.110,1.3,1.9,,390000
-edwarbl01,1992-93,27,Milwaukee Bucks,NBA,82,33.3,.512,.790,4.7,2.6,1.6,0.5,16.9,16.4,5.7,.101,1.0,2.1,,475000
-edwarbl01,1993-94,28,Milwaukee Bucks,NBA,82,28.3,.478,.799,4.0,2.1,1.0,0.3,11.6,12.9,2.9,.060,-1.8,0.1,,1500000
-edwarbl01,1994-95,29,Boston Celtics,NBA,67,16.6,.461,.833,1.9,1.1,0.6,0.2,6.9,11.6,1.2,.053,-1.5,0.1,,1700000
-edwarbl01,1994-95,29,Boston Celtics,NBA,31,16.4,.426,.896,2.1,1.5,0.6,0.3,7.1,12.7,0.5,.051,-1.7,0.0,,1700000
-edwarbl01,1994-95,29,Boston Celtics,NBA,36,16.8,.495,.762,1.8,0.8,0.7,0.2,6.6,10.6,0.7,.055,-1.3,0.1,,1700000
-edwarbl01,1995-96,30,Vancouver Grizzlies,NBA,82,33.8,.419,.755,4.2,2.6,1.4,0.6,12.7,11.9,1.9,.032,-0.9,0.8,,1900000
-edwarbl01,1996-97,31,Vancouver Grizzlies,NBA,61,23.6,.397,.817,3.1,1.9,0.6,0.3,7.8,10.0,-0.1,-0.003,-5.0,-1.1,,2100000
-edwarbl01,1997-98,32,Vancouver Grizzlies,NBA,81,24.3,.439,.837,2.7,2.5,1.1,0.3,10.8,14.5,2.1,.052,-1.7,0.1,,2300000
-edwarbl01,1998-99,33,Miami Heat,NBA,24,11.8,.444,.692,1.4,1.3,0.7,0.2,3.2,12.2,0.4,.074,-0.5,0.1,,850000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+edwarbl01,1989-90,24,UTA,NBA,82,23.0,.507,.719,3.1,1.8,0.9,0.4,8.9,10.7,2.7,.068,0.0,1.0,,"Greene Central in Snow Hill, North Carolina",
+edwarbl01,1990-91,25,Utah Jazz,NBA,62,26.0,.526,.701,3.2,1.7,0.9,0.5,9.3,10.4,2.2,.065,-0.3,0.7,,"Greene Central in Snow Hill, North Carolina",360000
+edwarbl01,1991-92,26,Utah Jazz,NBA,81,28.2,.522,.774,3.7,1.7,1.0,0.6,12.6,13.7,5.2,.110,1.3,1.9,,"Greene Central in Snow Hill, North Carolina",390000
+edwarbl01,1992-93,27,Milwaukee Bucks,NBA,82,33.3,.512,.790,4.7,2.6,1.6,0.5,16.9,16.4,5.7,.101,1.0,2.1,,"Greene Central in Snow Hill, North Carolina",475000
+edwarbl01,1993-94,28,Milwaukee Bucks,NBA,82,28.3,.478,.799,4.0,2.1,1.0,0.3,11.6,12.9,2.9,.060,-1.8,0.1,,"Greene Central in Snow Hill, North Carolina",1500000
+edwarbl01,1994-95,29,Boston Celtics,NBA,67,16.6,.461,.833,1.9,1.1,0.6,0.2,6.9,11.6,1.2,.053,-1.5,0.1,,"Greene Central in Snow Hill, North Carolina",1700000
+edwarbl01,1994-95,29,Boston Celtics,NBA,31,16.4,.426,.896,2.1,1.5,0.6,0.3,7.1,12.7,0.5,.051,-1.7,0.0,,"Greene Central in Snow Hill, North Carolina",1700000
+edwarbl01,1994-95,29,Boston Celtics,NBA,36,16.8,.495,.762,1.8,0.8,0.7,0.2,6.6,10.6,0.7,.055,-1.3,0.1,,"Greene Central in Snow Hill, North Carolina",1700000
+edwarbl01,1995-96,30,Vancouver Grizzlies,NBA,82,33.8,.419,.755,4.2,2.6,1.4,0.6,12.7,11.9,1.9,.032,-0.9,0.8,,"Greene Central in Snow Hill, North Carolina",1900000
+edwarbl01,1996-97,31,Vancouver Grizzlies,NBA,61,23.6,.397,.817,3.1,1.9,0.6,0.3,7.8,10.0,-0.1,-0.003,-5.0,-1.1,,"Greene Central in Snow Hill, North Carolina",2100000
+edwarbl01,1997-98,32,Vancouver Grizzlies,NBA,81,24.3,.439,.837,2.7,2.5,1.1,0.3,10.8,14.5,2.1,.052,-1.7,0.1,,"Greene Central in Snow Hill, North Carolina",2300000
+edwarbl01,1998-99,33,Miami Heat,NBA,24,11.8,.444,.692,1.4,1.3,0.7,0.2,3.2,12.2,0.4,.074,-0.5,0.1,,"Greene Central in Snow Hill, North Carolina",850000

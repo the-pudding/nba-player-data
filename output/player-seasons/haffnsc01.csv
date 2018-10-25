@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-haffnsc01,1989-90,23,MIA,NBA,43,13.0,.406,.680,1.2,1.9,0.3,0.0,4.6,8.3,-0.1,-0.008,-6.7,-0.7,,
-haffnsc01,1990-91,24,Charlotte Hornets,NBA,7,7.1,.381,.500,0.6,1.3,0.4,0.1,2.4,9.9,-0.1,-0.058,-5.3,0.0,,75000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+haffnsc01,1989-90,23,MIA,NBA,43,13.0,.406,.680,1.2,1.9,0.3,0.0,4.6,8.3,-0.1,-0.008,-6.7,-0.7,,"Noblesville in Noblesville, Indiana",
+haffnsc01,1990-91,24,Charlotte Hornets,NBA,7,7.1,.381,.500,0.6,1.3,0.4,0.1,2.4,9.9,-0.1,-0.058,-5.3,0.0,,"Noblesville in Noblesville, Indiana",75000

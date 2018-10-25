@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-waltoll01,1976-77,23,MIL,NBA,53,12.8,.468,.815,1.0,2.7,0.8,0.0,4.3,14.5,1.1,.078,-2.2,0.0,
-waltoll01,1977-78,24,MIL,NBA,76,16.6,.448,.651,1.0,3.3,1.0,0.2,4.8,11.3,1.1,.040,-4.1,-0.7,
-waltoll01,1978-79,25,MIL,NBA,75,18.4,.480,.678,1.4,4.7,1.0,0.1,5.0,12.4,1.9,.067,-3.4,-0.5,
-waltoll01,1979-80,26,MIL,NBA,76,16.4,.455,.690,1.2,3.8,0.6,0.0,3.6,9.6,1.1,.041,-5.1,-1.0,
-waltoll01,1980-81,27,KCK,NBA,61,13.5,.413,.788,0.8,3.4,0.5,0.0,3.4,9.9,0.1,.005,-7.4,-1.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+waltoll01,1976-77,23,MIL,NBA,53,12.8,.468,.815,1.0,2.7,0.8,0.0,4.3,14.5,1.1,.078,-2.2,0.0,,"Mount Carmel in Chicago, Illinois"
+waltoll01,1977-78,24,MIL,NBA,76,16.6,.448,.651,1.0,3.3,1.0,0.2,4.8,11.3,1.1,.040,-4.1,-0.7,,"Mount Carmel in Chicago, Illinois"
+waltoll01,1978-79,25,MIL,NBA,75,18.4,.480,.678,1.4,4.7,1.0,0.1,5.0,12.4,1.9,.067,-3.4,-0.5,,"Mount Carmel in Chicago, Illinois"
+waltoll01,1979-80,26,MIL,NBA,76,16.4,.455,.690,1.2,3.8,0.6,0.0,3.6,9.6,1.1,.041,-5.1,-1.0,,"Mount Carmel in Chicago, Illinois"
+waltoll01,1980-81,27,KCK,NBA,61,13.5,.413,.788,0.8,3.4,0.5,0.0,3.4,9.9,0.1,.005,-7.4,-1.1,,"Mount Carmel in Chicago, Illinois"

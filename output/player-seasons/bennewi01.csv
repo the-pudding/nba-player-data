@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bennewi01,1989-90,24,CLE,NBA,55,18.0,.479,.667,3.4,1.0,0.4,0.2,6.1,10.0,1.1,.055,-3.2,-0.3,,
-bennewi01,1990-91,25,Cleveland Cavaliers,NBA,27,12.4,.374,.745,2.4,1.0,0.3,0.1,4.3,9.2,0.2,.026,-4.6,-0.2,,525000
-bennewi01,1991-92,26,Cleveland Cavaliers,NBA,54,15.4,.379,.700,3.0,0.7,0.4,0.2,3.6,6.3,0.3,.020,-4.3,-0.5,,525000
-bennewi01,1991-92,26,Cleveland Cavaliers,NBA,52,16.0,.378,.700,3.1,0.7,0.4,0.2,3.7,6.3,0.3,.019,-4.3,-0.5,,525000
-bennewi01,1991-92,26,Cleveland Cavaliers,NBA,2,1.0,.500,,0.5,0.0,0.0,0.0,1.0,29.9,0.0,.238,-9.2,0.0,,525000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+bennewi01,1989-90,24,CLE,NBA,55,18.0,.479,.667,3.4,1.0,0.4,0.2,6.1,10.0,1.1,.055,-3.2,-0.3,,"Male in Louisville, Kentucky",
+bennewi01,1990-91,25,Cleveland Cavaliers,NBA,27,12.4,.374,.745,2.4,1.0,0.3,0.1,4.3,9.2,0.2,.026,-4.6,-0.2,,"Male in Louisville, Kentucky",525000
+bennewi01,1991-92,26,Cleveland Cavaliers,NBA,54,15.4,.379,.700,3.0,0.7,0.4,0.2,3.6,6.3,0.3,.020,-4.3,-0.5,,"Male in Louisville, Kentucky",525000
+bennewi01,1991-92,26,Cleveland Cavaliers,NBA,52,16.0,.378,.700,3.1,0.7,0.4,0.2,3.7,6.3,0.3,.019,-4.3,-0.5,,"Male in Louisville, Kentucky",525000
+bennewi01,1991-92,26,Cleveland Cavaliers,NBA,2,1.0,.500,,0.5,0.0,0.0,0.0,1.0,29.9,0.0,.238,-9.2,0.0,,"Male in Louisville, Kentucky",525000

@@ -1,26 +1,26 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-howarju01,1994-95,21,Washington Bullets,NBA,65,36.1,.489,.664,8.4,2.5,0.8,0.2,17.0,15.0,2.8,.057,-1.5,0.3,,1309000
-howarju01,1995-96,22,Washington Bullets,NBA,81,40.7,.489,.749,8.1,4.4,0.8,0.5,22.1,17.0,5.6,.082,0.2,1.8,All-NBA (3rd),1702000
-howarju01,1996-97,23,Washington Bullets,NBA,82,40.5,.486,.756,8.0,3.8,1.1,0.3,19.1,16.1,7.0,.101,0.5,2.1,,9750000
-howarju01,1997-98,24,Washington Wizards,NBA,64,40.0,.467,.721,7.0,3.3,1.3,0.4,18.5,15.2,4.6,.086,0.2,1.5,,11250000
-howarju01,1998-99,25,Washington Wizards,NBA,36,39.7,.474,.753,8.1,3.0,1.2,0.4,18.9,17.1,2.8,.093,1.0,1.1,,13125000
-howarju01,1999-00,26,Washington Wizards,NBA,82,35.5,.459,.735,5.7,3.0,0.8,0.3,14.9,12.3,1.9,.031,-1.4,0.4,,15000000
-howarju01,2000-01,27,Washington Wizards,NBA,81,36.7,.479,.773,7.1,2.8,0.9,0.5,18.0,16.0,4.4,.071,-0.4,1.2,,16875000
-howarju01,2000-01,27,Washington Wizards,NBA,54,36.7,.474,.770,7.0,2.9,0.9,0.4,18.2,15.8,2.2,.053,-0.7,0.7,,16875000
-howarju01,2000-01,27,Washington Wizards,NBA,27,36.8,.488,.780,7.1,2.6,1.1,0.6,17.8,16.6,2.2,.106,0.2,0.6,,16875000
-howarju01,2001-02,28,Dallas Mavericks,NBA,81,32.5,.460,.761,7.6,2.1,0.6,0.6,14.6,15.8,4.9,.090,-0.6,0.9,,18750000
-howarju01,2001-02,28,Dallas Mavericks,NBA,53,31.3,.462,.754,7.4,1.8,0.5,0.6,12.9,15.1,3.4,.097,-0.7,0.5,,18750000
-howarju01,2001-02,28,Dallas Mavericks,NBA,28,34.9,.457,.770,7.9,2.7,0.6,0.6,17.9,17.1,1.6,.078,-0.4,0.4,,18750000
-howarju01,2002-03,29,Denver Nuggets,NBA,77,35.5,.450,.803,7.6,3.0,1.0,0.4,18.4,17.2,6.0,.106,1.2,2.2,,20625000
-howarju01,2003-04,30,Orlando Magic,NBA,81,35.5,.453,.809,7.0,2.0,0.7,0.3,17.0,15.6,3.6,.059,-2.8,-0.6,,4917000
-howarju01,2004-05,31,Houston Rockets,NBA,61,26.6,.451,.843,5.7,1.5,0.5,0.1,9.6,13.0,3.2,.094,-1.2,0.3,,5408700
-howarju01,2005-06,32,Houston Rockets,NBA,80,31.7,.459,.806,6.7,1.4,0.6,0.1,11.8,12.5,3.7,.069,-2.3,-0.2,,5900400
-howarju01,2006-07,33,Houston Rockets,NBA,80,26.5,.465,.824,5.9,1.6,0.4,0.1,9.7,12.8,4.9,.110,-1.8,0.1,,6392100
-howarju01,2007-08,34,Minnesota Timberwolves,NBA,50,7.1,.359,.786,1.6,0.3,0.1,0.0,1.1,4.1,0.1,.016,-4.9,-0.3,,6883800
-howarju01,2008-09,35,Minnesota Timberwolves,NBA,42,11.2,.510,.676,1.8,0.6,0.2,0.1,4.1,10.9,0.7,.067,-3.9,-0.2,,7375500
-howarju01,2008-09,35,Minnesota Timberwolves,NBA,3,7.3,.500,,1.3,0.7,0.3,0.3,0.7,9.6,0.1,.141,1.8,0.0,,7375500
-howarju01,2008-09,35,Minnesota Timberwolves,NBA,39,11.5,.510,.676,1.8,0.6,0.2,0.1,4.4,10.9,0.6,.064,-4.2,-0.2,,7375500
-howarju01,2009-10,36,Portland Trail Blazers,NBA,73,22.4,.509,.786,4.6,0.8,0.4,0.1,6.0,10.0,2.6,.077,-1.7,0.1,,1306455
-howarju01,2010-11,37,Miami Heat,NBA,57,10.4,.440,.829,2.1,0.4,0.2,0.1,2.4,8.4,0.9,.074,-4.1,-0.3,,1352181
-howarju01,2011-12,38,Miami Heat,NBA,28,6.8,.309,.800,1.7,0.4,0.1,0.0,1.5,3.6,-0.3,-0.076,-8.9,-0.3,,1352181
-howarju01,2012-13,39,MIA,NBA,7,7.3,.526,1.000,1.1,0.9,0.0,0.0,3.0,9.9,0.0,.039,-7.7,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+howarju01,1994-95,21,Washington Bullets,NBA,65,36.1,.489,.664,8.4,2.5,0.8,0.2,17.0,15.0,2.8,.057,-1.5,0.3,,1309000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,1995-96,22,Washington Bullets,NBA,81,40.7,.489,.749,8.1,4.4,0.8,0.5,22.1,17.0,5.6,.082,0.2,1.8,All-NBA (3rd),1702000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,1996-97,23,Washington Bullets,NBA,82,40.5,.486,.756,8.0,3.8,1.1,0.3,19.1,16.1,7.0,.101,0.5,2.1,,9750000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,1997-98,24,Washington Wizards,NBA,64,40.0,.467,.721,7.0,3.3,1.3,0.4,18.5,15.2,4.6,.086,0.2,1.5,,11250000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,1998-99,25,Washington Wizards,NBA,36,39.7,.474,.753,8.1,3.0,1.2,0.4,18.9,17.1,2.8,.093,1.0,1.1,,13125000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,1999-00,26,Washington Wizards,NBA,82,35.5,.459,.735,5.7,3.0,0.8,0.3,14.9,12.3,1.9,.031,-1.4,0.4,,15000000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2000-01,27,Washington Wizards,NBA,81,36.7,.479,.773,7.1,2.8,0.9,0.5,18.0,16.0,4.4,.071,-0.4,1.2,,16875000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2000-01,27,Washington Wizards,NBA,54,36.7,.474,.770,7.0,2.9,0.9,0.4,18.2,15.8,2.2,.053,-0.7,0.7,,16875000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2000-01,27,Washington Wizards,NBA,27,36.8,.488,.780,7.1,2.6,1.1,0.6,17.8,16.6,2.2,.106,0.2,0.6,,16875000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2001-02,28,Dallas Mavericks,NBA,81,32.5,.460,.761,7.6,2.1,0.6,0.6,14.6,15.8,4.9,.090,-0.6,0.9,,18750000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2001-02,28,Dallas Mavericks,NBA,53,31.3,.462,.754,7.4,1.8,0.5,0.6,12.9,15.1,3.4,.097,-0.7,0.5,,18750000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2001-02,28,Dallas Mavericks,NBA,28,34.9,.457,.770,7.9,2.7,0.6,0.6,17.9,17.1,1.6,.078,-0.4,0.4,,18750000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2002-03,29,Denver Nuggets,NBA,77,35.5,.450,.803,7.6,3.0,1.0,0.4,18.4,17.2,6.0,.106,1.2,2.2,,20625000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2003-04,30,Orlando Magic,NBA,81,35.5,.453,.809,7.0,2.0,0.7,0.3,17.0,15.6,3.6,.059,-2.8,-0.6,,4917000,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2004-05,31,Houston Rockets,NBA,61,26.6,.451,.843,5.7,1.5,0.5,0.1,9.6,13.0,3.2,.094,-1.2,0.3,,5408700,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2005-06,32,Houston Rockets,NBA,80,31.7,.459,.806,6.7,1.4,0.6,0.1,11.8,12.5,3.7,.069,-2.3,-0.2,,5900400,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2006-07,33,Houston Rockets,NBA,80,26.5,.465,.824,5.9,1.6,0.4,0.1,9.7,12.8,4.9,.110,-1.8,0.1,,6392100,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2007-08,34,Minnesota Timberwolves,NBA,50,7.1,.359,.786,1.6,0.3,0.1,0.0,1.1,4.1,0.1,.016,-4.9,-0.3,,6883800,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2008-09,35,Minnesota Timberwolves,NBA,42,11.2,.510,.676,1.8,0.6,0.2,0.1,4.1,10.9,0.7,.067,-3.9,-0.2,,7375500,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2008-09,35,Minnesota Timberwolves,NBA,3,7.3,.500,,1.3,0.7,0.3,0.3,0.7,9.6,0.1,.141,1.8,0.0,,7375500,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2008-09,35,Minnesota Timberwolves,NBA,39,11.5,.510,.676,1.8,0.6,0.2,0.1,4.4,10.9,0.6,.064,-4.2,-0.2,,7375500,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2009-10,36,Portland Trail Blazers,NBA,73,22.4,.509,.786,4.6,0.8,0.4,0.1,6.0,10.0,2.6,.077,-1.7,0.1,,1306455,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2010-11,37,Miami Heat,NBA,57,10.4,.440,.829,2.1,0.4,0.2,0.1,2.4,8.4,0.9,.074,-4.1,-0.3,,1352181,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2011-12,38,Miami Heat,NBA,28,6.8,.309,.800,1.7,0.4,0.1,0.0,1.5,3.6,-0.3,-0.076,-8.9,-0.3,,1352181,"Chicago Vocational Career Academy in Chicago, Illinois"
+howarju01,2012-13,39,MIA,NBA,7,7.3,.526,1.000,1.1,0.9,0.0,0.0,3.0,9.9,0.0,.039,-7.7,-0.1,,,"Chicago Vocational Career Academy in Chicago, Illinois"

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-lambje01,2012-13,20,Oklahoma City Thunder,NBA,23,6.4,.353,1.000,0.8,0.2,0.1,0.1,3.1,11.2,0.2,.058,-7.1,-0.2,,2020200
-lambje01,2013-14,21,Oklahoma City Thunder,NBA,78,19.7,.432,.797,2.4,1.5,0.7,0.3,8.5,13.4,3.3,.102,-1.2,0.3,,2111160
-lambje01,2014-15,22,Oklahoma City Thunder,NBA,47,13.5,.416,.891,2.3,0.9,0.4,0.1,6.3,14.9,1.6,.123,-1.6,0.1,,2202000
-lambje01,2015-16,23,Charlotte Hornets,NBA,66,18.6,.451,.727,3.8,1.2,0.6,0.5,8.8,15.9,2.7,.107,-0.5,0.4,,3034356
-lambje01,2016-17,24,Charlotte Hornets,NBA,62,18.4,.460,.853,4.3,1.2,0.4,0.4,9.7,17.0,2.7,.115,-1.7,0.1,,6511628
-lambje01,2017-18,25,Charlotte Hornets,NBA,80,24.6,.457,.861,4.1,2.3,0.8,0.4,12.9,17.0,4.9,.120,0.9,1.5,,7000000
-lambje01,2018-19,26,CHO,NBA,5,25.0,.377,.917,4.2,1.8,1.2,1.0,11.6,16.0,0.3,.110,0.7,0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+lambje01,2012-13,20,Oklahoma City Thunder,NBA,23,6.4,.353,1.000,0.8,0.2,0.1,0.1,3.1,11.2,0.2,.058,-7.1,-0.2,,2020200,"Norcross in Norcross, Georgia"
+lambje01,2013-14,21,Oklahoma City Thunder,NBA,78,19.7,.432,.797,2.4,1.5,0.7,0.3,8.5,13.4,3.3,.102,-1.2,0.3,,2111160,"Norcross in Norcross, Georgia"
+lambje01,2014-15,22,Oklahoma City Thunder,NBA,47,13.5,.416,.891,2.3,0.9,0.4,0.1,6.3,14.9,1.6,.123,-1.6,0.1,,2202000,"Norcross in Norcross, Georgia"
+lambje01,2015-16,23,Charlotte Hornets,NBA,66,18.6,.451,.727,3.8,1.2,0.6,0.5,8.8,15.9,2.7,.107,-0.5,0.4,,3034356,"Norcross in Norcross, Georgia"
+lambje01,2016-17,24,Charlotte Hornets,NBA,62,18.4,.460,.853,4.3,1.2,0.4,0.4,9.7,17.0,2.7,.115,-1.7,0.1,,6511628,"Norcross in Norcross, Georgia"
+lambje01,2017-18,25,Charlotte Hornets,NBA,80,24.6,.457,.861,4.1,2.3,0.8,0.4,12.9,17.0,4.9,.120,0.9,1.5,,7000000,"Norcross in Norcross, Georgia"
+lambje01,2018-19,26,CHO,NBA,5,25.0,.377,.917,4.2,1.8,1.2,1.0,11.6,16.0,0.3,.110,0.7,0.1,,,"Norcross in Norcross, Georgia"

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-minerha01,1992-93,21,Miami Heat,NBA,73,18.9,.475,.762,2.0,1.0,0.5,0.1,10.3,14.3,2.0,.069,-3.9,-0.7,,912000
-minerha01,1993-94,22,Miami Heat,NBA,63,21.6,.477,.828,2.5,1.5,0.5,0.2,10.5,14.0,2.7,.094,-2.6,-0.2,,1186000
-minerha01,1994-95,23,Miami Heat,NBA,45,19.4,.403,.726,2.6,1.5,0.3,0.1,7.3,8.5,-0.4,-0.023,-5.8,-0.8,,1459000
-minerha01,1995-96,24,Cleveland Cavaliers,NBA,19,7.2,.442,1.000,0.6,0.4,0.0,0.0,3.2,7.6,-0.1,-0.029,-10.3,-0.3,,1733000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+minerha01,1992-93,21,Miami Heat,NBA,73,18.9,.475,.762,2.0,1.0,0.5,0.1,10.3,14.3,2.0,.069,-3.9,-0.7,,912000,"Inglewood in Inglewood, California"
+minerha01,1993-94,22,Miami Heat,NBA,63,21.6,.477,.828,2.5,1.5,0.5,0.2,10.5,14.0,2.7,.094,-2.6,-0.2,,1186000,"Inglewood in Inglewood, California"
+minerha01,1994-95,23,Miami Heat,NBA,45,19.4,.403,.726,2.6,1.5,0.3,0.1,7.3,8.5,-0.4,-0.023,-5.8,-0.8,,1459000,"Inglewood in Inglewood, California"
+minerha01,1995-96,24,Cleveland Cavaliers,NBA,19,7.2,.442,1.000,0.6,0.4,0.0,0.0,3.2,7.6,-0.1,-0.029,-10.3,-0.3,,1733000,"Inglewood in Inglewood, California"

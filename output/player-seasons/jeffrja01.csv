@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jeffrja01,2002-03,21,Washington Wizards,NBA,20,14.6,.476,.552,2.9,0.8,0.4,0.3,4.0,11.1,0.3,.049,-2.4,0.0,,1594920
-jeffrja01,2003-04,22,Washington Wizards,NBA,82,23.3,.377,.614,5.2,1.1,0.6,0.3,5.7,8.7,0.6,.014,-3.5,-0.7,,1714440
-jeffrja01,2004-05,23,Washington Wizards,NBA,77,26.1,.468,.584,4.9,2.0,0.9,0.5,6.8,11.2,2.6,.063,-0.7,0.7,,1834080
-jeffrja01,2005-06,24,Washington Wizards,NBA,77,25.3,.451,.589,4.9,1.9,0.8,0.6,6.4,11.6,3.1,.076,0.8,1.4,,2433824
-jeffrja01,2006-07,25,New York Knicks,NBA,55,23.8,.461,.456,4.3,1.2,0.8,0.5,4.1,8.6,1.2,.043,0.3,0.8,,5215000
-jeffrja01,2007-08,26,New York Knicks,NBA,73,18.2,.400,.527,3.3,0.9,0.5,0.3,3.7,7.9,0.1,.002,-2.8,-0.3,,5632200
-jeffrja01,2008-09,27,New York Knicks,NBA,56,23.4,.440,.611,4.1,1.4,0.8,0.6,5.3,9.4,1.2,.045,-0.4,0.5,,6049400
-jeffrja01,2009-10,28,Houston Rockets,NBA,70,25.6,.439,.625,4.1,1.4,0.9,1.0,5.3,9.8,2.2,.058,0.3,1.0,,6466600
-jeffrja01,2009-10,28,Houston Rockets,NBA,52,28.1,.443,.645,4.3,1.6,1.0,1.1,5.5,9.7,1.7,.057,0.6,1.0,,6466600
-jeffrja01,2009-10,28,Houston Rockets,NBA,18,18.4,.429,.556,3.6,1.0,0.5,0.7,4.9,10.1,0.4,.058,-1.2,0.1,,6466600
-jeffrja01,2010-11,29,Houston Rockets,NBA,42,14.3,.349,.414,2.8,0.9,0.7,0.4,1.8,8.0,0.6,.045,0.2,0.3,,6883800
-jeffrja01,2010-11,29,Houston Rockets,NBA,18,7.7,.306,.400,1.9,0.6,0.4,0.2,1.5,9.5,0.1,.042,-0.6,0.0,,6883800
-jeffrja01,2010-11,29,Houston Rockets,NBA,24,19.3,.380,.421,3.4,1.0,1.0,0.6,2.0,7.6,0.4,.046,0.4,0.3,,6883800
-jeffrja01,2011-12,30,New York Knicks,NBA,39,18.7,.410,.681,3.9,0.7,0.7,0.6,4.4,10.9,1.7,.109,0.4,0.4,,1229255
-jeffrja01,2012-13,31,Portland Trail Blazers,NBA,38,9.2,.296,.522,1.6,0.4,0.2,0.2,1.2,2.4,-0.3,-0.042,-6.0,-0.4,,1475106
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jeffrja01,2002-03,21,Washington Wizards,NBA,20,14.6,.476,.552,2.9,0.8,0.4,0.3,4.0,11.1,0.3,.049,-2.4,0.0,,1594920,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2003-04,22,Washington Wizards,NBA,82,23.3,.377,.614,5.2,1.1,0.6,0.3,5.7,8.7,0.6,.014,-3.5,-0.7,,1714440,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2004-05,23,Washington Wizards,NBA,77,26.1,.468,.584,4.9,2.0,0.9,0.5,6.8,11.2,2.6,.063,-0.7,0.7,,1834080,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2005-06,24,Washington Wizards,NBA,77,25.3,.451,.589,4.9,1.9,0.8,0.6,6.4,11.6,3.1,.076,0.8,1.4,,2433824,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2006-07,25,New York Knicks,NBA,55,23.8,.461,.456,4.3,1.2,0.8,0.5,4.1,8.6,1.2,.043,0.3,0.8,,5215000,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2007-08,26,New York Knicks,NBA,73,18.2,.400,.527,3.3,0.9,0.5,0.3,3.7,7.9,0.1,.002,-2.8,-0.3,,5632200,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2008-09,27,New York Knicks,NBA,56,23.4,.440,.611,4.1,1.4,0.8,0.6,5.3,9.4,1.2,.045,-0.4,0.5,,6049400,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2009-10,28,Houston Rockets,NBA,70,25.6,.439,.625,4.1,1.4,0.9,1.0,5.3,9.8,2.2,.058,0.3,1.0,,6466600,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2009-10,28,Houston Rockets,NBA,52,28.1,.443,.645,4.3,1.6,1.0,1.1,5.5,9.7,1.7,.057,0.6,1.0,,6466600,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2009-10,28,Houston Rockets,NBA,18,18.4,.429,.556,3.6,1.0,0.5,0.7,4.9,10.1,0.4,.058,-1.2,0.1,,6466600,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2010-11,29,Houston Rockets,NBA,42,14.3,.349,.414,2.8,0.9,0.7,0.4,1.8,8.0,0.6,.045,0.2,0.3,,6883800,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2010-11,29,Houston Rockets,NBA,18,7.7,.306,.400,1.9,0.6,0.4,0.2,1.5,9.5,0.1,.042,-0.6,0.0,,6883800,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2010-11,29,Houston Rockets,NBA,24,19.3,.380,.421,3.4,1.0,1.0,0.6,2.0,7.6,0.4,.046,0.4,0.3,,6883800,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2011-12,30,New York Knicks,NBA,39,18.7,.410,.681,3.9,0.7,0.7,0.6,4.4,10.9,1.7,.109,0.4,0.4,,1229255,"Bloomington North in Bloomington, Indiana"
+jeffrja01,2012-13,31,Portland Trail Blazers,NBA,38,9.2,.296,.522,1.6,0.4,0.2,0.2,1.2,2.4,-0.3,-0.042,-6.0,-0.4,,1475106,"Bloomington North in Bloomington, Indiana"

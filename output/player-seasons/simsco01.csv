@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-simsco01,2007-08,24,Indiana Pacers,NBA,3,3.7,.000,,0.7,0.3,0.0,0.0,0.0,1.1,0.0,.008,-5.7,0.0,,112130
-simsco01,2008-09,25,Phoenix Suns,NBA,2,6.5,.500,,2.0,0.0,0.0,0.0,3.0,12.8,0.0,-0.013,-14.9,0.0,,184648
-simsco01,2008-09,25,Phoenix Suns,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,-26.0,0.0,-0.735,-25.2,0.0,,184648
-simsco01,2008-09,25,Phoenix Suns,NBA,1,11.0,.500,,4.0,0.0,0.0,0.0,6.0,19.8,0.0,.118,-13.0,0.0,,184648
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+simsco01,2007-08,24,Indiana Pacers,NBA,3,3.7,.000,,0.7,0.3,0.0,0.0,0.0,1.1,0.0,.008,-5.7,0.0,,112130,"Noble and Greenough School in Dedham, Massachusetts"
+simsco01,2008-09,25,Phoenix Suns,NBA,2,6.5,.500,,2.0,0.0,0.0,0.0,3.0,12.8,0.0,-0.013,-14.9,0.0,,184648,"Noble and Greenough School in Dedham, Massachusetts"
+simsco01,2008-09,25,Phoenix Suns,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,-26.0,0.0,-0.735,-25.2,0.0,,184648,"Noble and Greenough School in Dedham, Massachusetts"
+simsco01,2008-09,25,Phoenix Suns,NBA,1,11.0,.500,,4.0,0.0,0.0,0.0,6.0,19.8,0.0,.118,-13.0,0.0,,184648,"Noble and Greenough School in Dedham, Massachusetts"

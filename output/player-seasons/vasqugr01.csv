@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-vasqugr01,2010-11,24,Memphis Grizzlies,NBA,70,12.3,.408,.773,1.0,2.2,0.3,0.1,3.6,9.4,0.5,.030,-4.6,-0.6,,1035960
-vasqugr01,2011-12,25,New Orleans Hornets,NBA,66,25.8,.430,.821,2.6,5.4,0.9,0.1,8.9,14.2,2.3,.064,-1.6,0.2,,1113600
-vasqugr01,2012-13,26,New Orleans Hornets,NBA,78,34.4,.433,.805,4.3,9.0,0.8,0.1,13.9,16.3,3.8,.067,0.1,1.4,,1191240
-vasqugr01,2013-14,27,Sacramento Kings,NBA,79,22.5,.421,.880,2.2,4.1,0.4,0.1,9.6,14.1,3.6,.097,-1.4,0.3,,2150188
-vasqugr01,2013-14,27,Sacramento Kings,NBA,18,25.8,.433,.938,1.9,5.3,0.3,0.1,9.8,14.1,0.9,.097,-3.0,-0.1,,2150188
-vasqugr01,2013-14,27,Sacramento Kings,NBA,61,21.5,.417,.855,2.3,3.7,0.4,0.1,9.5,14.2,2.6,.096,-0.8,0.4,,2150188
-vasqugr01,2014-15,28,Toronto Raptors,NBA,82,24.3,.408,.758,2.6,3.7,0.6,0.1,9.5,12.6,2.8,.066,-1.1,0.4,,6400000
-vasqugr01,2015-16,29,Milwaukee Bucks,NBA,23,20.0,.326,.846,2.0,4.0,0.4,0.0,5.7,7.4,-0.3,-0.033,-6.9,-0.6,,6600000
-vasqugr01,2016-17,30,Brooklyn Nets,NBA,3,13.0,.250,.667,0.7,1.7,0.3,0.3,2.3,4.1,0.0,-0.006,-7.5,-0.1,,4347826
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+vasqugr01,2010-11,24,Memphis Grizzlies,NBA,70,12.3,.408,.773,1.0,2.2,0.3,0.1,3.6,9.4,0.5,.030,-4.6,-0.6,,1035960,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2011-12,25,New Orleans Hornets,NBA,66,25.8,.430,.821,2.6,5.4,0.9,0.1,8.9,14.2,2.3,.064,-1.6,0.2,,1113600,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2012-13,26,New Orleans Hornets,NBA,78,34.4,.433,.805,4.3,9.0,0.8,0.1,13.9,16.3,3.8,.067,0.1,1.4,,1191240,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2013-14,27,Sacramento Kings,NBA,79,22.5,.421,.880,2.2,4.1,0.4,0.1,9.6,14.1,3.6,.097,-1.4,0.3,,2150188,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2013-14,27,Sacramento Kings,NBA,18,25.8,.433,.938,1.9,5.3,0.3,0.1,9.8,14.1,0.9,.097,-3.0,-0.1,,2150188,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2013-14,27,Sacramento Kings,NBA,61,21.5,.417,.855,2.3,3.7,0.4,0.1,9.5,14.2,2.6,.096,-0.8,0.4,,2150188,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2014-15,28,Toronto Raptors,NBA,82,24.3,.408,.758,2.6,3.7,0.6,0.1,9.5,12.6,2.8,.066,-1.1,0.4,,6400000,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2015-16,29,Milwaukee Bucks,NBA,23,20.0,.326,.846,2.0,4.0,0.4,0.0,5.7,7.4,-0.3,-0.033,-6.9,-0.6,,6600000,"Montrose Christian School in Rockville, Maryland"
+vasqugr01,2016-17,30,Brooklyn Nets,NBA,3,13.0,.250,.667,0.7,1.7,0.3,0.3,2.3,4.1,0.0,-0.006,-7.5,-0.1,,4347826,"Montrose Christian School in Rockville, Maryland"

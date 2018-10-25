@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jacksma02,2000-01,26,Golden State Warriors,NBA,48,29.4,.467,.802,7.5,1.2,0.7,0.6,13.2,16.1,2.6,.089,-2.4,-0.1,,316969
-jacksma02,2001-02,27,Golden State Warriors,NBA,39,12.7,.366,.825,3.3,0.4,0.3,0.2,4.8,11.1,0.6,.059,-6.2,-0.5,,3250000
-jacksma02,2001-02,27,Golden State Warriors,NBA,17,9.9,.338,.833,2.5,0.4,0.3,0.2,4.9,14.9,0.3,.093,-5.7,-0.2,,3250000
-jacksma02,2001-02,27,Golden State Warriors,NBA,22,14.8,.384,.813,3.9,0.3,0.3,0.1,4.6,9.2,0.3,.042,-6.5,-0.4,,3250000
-jacksma02,2002-03,28,Minnesota Timberwolves,NBA,77,13.5,.438,.765,2.9,0.5,0.3,0.4,5.5,13.4,2.0,.092,-3.7,-0.4,,3575000
-jacksma02,2003-04,29,Philadelphia 76ers,NBA,22,27.2,.415,.790,5.7,0.8,0.5,0.3,9.4,13.2,1.3,.100,-2.9,-0.1,,3900000
-jacksma02,2004-05,30,Philadelphia 76ers,NBA,81,24.4,.465,.828,5.0,1.0,0.4,0.2,12.0,15.9,4.6,.111,-3.1,-0.6,,4225000
-jacksma02,2005-06,31,New Jersey Nets,NBA,64,16.0,.472,.805,3.4,0.7,0.2,0.1,6.5,12.5,1.2,.057,-4.4,-0.6,,4550000
-jacksma02,2005-06,31,New Jersey Nets,NBA,37,11.7,.446,.792,2.4,0.6,0.1,0.2,4.6,10.7,0.6,.061,-5.6,-0.4,,4550000
-jacksma02,2005-06,31,New Jersey Nets,NBA,27,22.0,.489,.824,4.7,0.8,0.3,0.1,9.1,13.9,0.7,.054,-3.5,-0.2,,4550000
-jacksma02,2006-07,32,New Orleans/Oklahoma City Hornets,NBA,56,18.3,.410,.874,3.4,1.0,0.4,0.1,7.3,11.9,0.7,.033,-4.6,-0.7,,4875000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jacksma02,2000-01,26,Golden State Warriors,NBA,48,29.4,.467,.802,7.5,1.2,0.7,0.6,13.2,16.1,2.6,.089,-2.4,-0.1,,316969,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2001-02,27,Golden State Warriors,NBA,39,12.7,.366,.825,3.3,0.4,0.3,0.2,4.8,11.1,0.6,.059,-6.2,-0.5,,3250000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2001-02,27,Golden State Warriors,NBA,17,9.9,.338,.833,2.5,0.4,0.3,0.2,4.9,14.9,0.3,.093,-5.7,-0.2,,3250000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2001-02,27,Golden State Warriors,NBA,22,14.8,.384,.813,3.9,0.3,0.3,0.1,4.6,9.2,0.3,.042,-6.5,-0.4,,3250000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2002-03,28,Minnesota Timberwolves,NBA,77,13.5,.438,.765,2.9,0.5,0.3,0.4,5.5,13.4,2.0,.092,-3.7,-0.4,,3575000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2003-04,29,Philadelphia 76ers,NBA,22,27.2,.415,.790,5.7,0.8,0.5,0.3,9.4,13.2,1.3,.100,-2.9,-0.1,,3900000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2004-05,30,Philadelphia 76ers,NBA,81,24.4,.465,.828,5.0,1.0,0.4,0.2,12.0,15.9,4.6,.111,-3.1,-0.6,,4225000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2005-06,31,New Jersey Nets,NBA,64,16.0,.472,.805,3.4,0.7,0.2,0.1,6.5,12.5,1.2,.057,-4.4,-0.6,,4550000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2005-06,31,New Jersey Nets,NBA,37,11.7,.446,.792,2.4,0.6,0.1,0.2,4.6,10.7,0.6,.061,-5.6,-0.4,,4550000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2005-06,31,New Jersey Nets,NBA,27,22.0,.489,.824,4.7,0.8,0.3,0.1,9.1,13.9,0.7,.054,-3.5,-0.2,,4550000,"Roman Catholic in Philadelphia, Pennsylvania"
+jacksma02,2006-07,32,New Orleans/Oklahoma City Hornets,NBA,56,18.3,.410,.874,3.4,1.0,0.4,0.1,7.3,11.9,0.7,.033,-4.6,-0.7,,4875000,"Roman Catholic in Philadelphia, Pennsylvania"

@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-mckieaa01,1994-95,22,Portland Trail Blazers,NBA,45,18.4,.444,.685,2.9,2.0,0.8,0.4,6.5,13.3,2.0,.115,0.1,0.4,,650000
-mckieaa01,1995-96,23,Portland Trail Blazers,NBA,81,27.9,.467,.764,3.8,2.5,1.1,0.3,10.7,13.4,5.3,.113,1.0,1.7,,845000
-mckieaa01,1996-97,24,Portland Trail Blazers,NBA,83,19.6,.411,.836,2.7,1.9,0.9,0.3,5.2,12.1,3.5,.103,0.3,0.9,,1040000
-mckieaa01,1996-97,24,Portland Trail Blazers,NBA,41,18.9,.340,.837,2.3,2.0,0.8,0.4,4.1,9.1,1.1,.066,-1.1,0.2,,1040000
-mckieaa01,1996-97,24,Portland Trail Blazers,NBA,42,20.2,.464,.836,3.0,1.8,1.0,0.2,6.3,14.8,2.4,.137,1.5,0.8,,1040000
-mckieaa01,1997-98,25,Detroit Pistons,NBA,81,22.4,.365,.764,2.9,2.2,1.2,0.2,4.1,8.6,1.4,.036,-1.3,0.3,,1235000
-mckieaa01,1997-98,25,Detroit Pistons,NBA,24,19.7,.413,.870,2.8,1.6,1.0,0.0,4.5,10.1,0.7,.069,-0.6,0.2,,1235000
-mckieaa01,1997-98,25,Detroit Pistons,NBA,57,23.5,.347,.688,2.9,2.4,1.4,0.2,3.9,8.1,0.7,.024,-1.6,0.1,,1235000
-mckieaa01,1998-99,26,Philadelphia 76ers,NBA,50,19.2,.401,.710,2.8,2.0,1.3,0.1,4.8,11.4,1.6,.082,-0.3,0.4,,1430000
-mckieaa01,1999-00,27,Philadelphia 76ers,NBA,82,23.8,.411,.829,3.0,2.9,1.3,0.2,8.0,13.2,4.3,.105,1.1,1.5,,1624000
-mckieaa01,2000-01,28,Philadelphia 76ers,NBA,76,31.5,.473,.768,4.1,5.0,1.4,0.1,11.6,15.1,5.9,.118,1.9,2.4,,1818000
-mckieaa01,2001-02,29,Philadelphia 76ers,NBA,48,30.6,.449,.787,4.0,3.7,1.2,0.3,12.2,15.8,3.9,.128,1.4,1.3,,4000000
-mckieaa01,2002-03,30,Philadelphia 76ers,NBA,80,29.7,.429,.836,4.4,3.5,1.6,0.1,9.0,13.7,5.1,.104,1.4,2.0,,4500000
-mckieaa01,2003-04,31,Philadelphia 76ers,NBA,75,28.2,.459,.757,3.4,2.6,1.1,0.3,9.2,13.9,4.8,.108,1.3,1.7,,5000000
-mckieaa01,2004-05,32,Philadelphia 76ers,NBA,68,16.4,.430,.625,2.5,1.5,0.7,0.3,2.2,8.4,2.0,.085,-0.9,0.3,,5500000
-mckieaa01,2005-06,33,Philadelphia 76ers,NBA,14,8.6,.250,.500,1.4,0.8,0.4,0.0,0.5,6.1,0.1,.041,-3.7,-0.1,,6000000
-mckieaa01,2006-07,34,Philadelphia 76ers,NBA,10,13.1,.647,,1.8,1.3,0.4,0.0,2.2,7.5,0.1,.039,-4.2,-0.1,,5570874
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+mckieaa01,1994-95,22,Portland Trail Blazers,NBA,45,18.4,.444,.685,2.9,2.0,0.8,0.4,6.5,13.3,2.0,.115,0.1,0.4,,650000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1995-96,23,Portland Trail Blazers,NBA,81,27.9,.467,.764,3.8,2.5,1.1,0.3,10.7,13.4,5.3,.113,1.0,1.7,,845000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1996-97,24,Portland Trail Blazers,NBA,83,19.6,.411,.836,2.7,1.9,0.9,0.3,5.2,12.1,3.5,.103,0.3,0.9,,1040000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1996-97,24,Portland Trail Blazers,NBA,41,18.9,.340,.837,2.3,2.0,0.8,0.4,4.1,9.1,1.1,.066,-1.1,0.2,,1040000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1996-97,24,Portland Trail Blazers,NBA,42,20.2,.464,.836,3.0,1.8,1.0,0.2,6.3,14.8,2.4,.137,1.5,0.8,,1040000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1997-98,25,Detroit Pistons,NBA,81,22.4,.365,.764,2.9,2.2,1.2,0.2,4.1,8.6,1.4,.036,-1.3,0.3,,1235000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1997-98,25,Detroit Pistons,NBA,24,19.7,.413,.870,2.8,1.6,1.0,0.0,4.5,10.1,0.7,.069,-0.6,0.2,,1235000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1997-98,25,Detroit Pistons,NBA,57,23.5,.347,.688,2.9,2.4,1.4,0.2,3.9,8.1,0.7,.024,-1.6,0.1,,1235000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1998-99,26,Philadelphia 76ers,NBA,50,19.2,.401,.710,2.8,2.0,1.3,0.1,4.8,11.4,1.6,.082,-0.3,0.4,,1430000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,1999-00,27,Philadelphia 76ers,NBA,82,23.8,.411,.829,3.0,2.9,1.3,0.2,8.0,13.2,4.3,.105,1.1,1.5,,1624000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2000-01,28,Philadelphia 76ers,NBA,76,31.5,.473,.768,4.1,5.0,1.4,0.1,11.6,15.1,5.9,.118,1.9,2.4,,1818000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2001-02,29,Philadelphia 76ers,NBA,48,30.6,.449,.787,4.0,3.7,1.2,0.3,12.2,15.8,3.9,.128,1.4,1.3,,4000000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2002-03,30,Philadelphia 76ers,NBA,80,29.7,.429,.836,4.4,3.5,1.6,0.1,9.0,13.7,5.1,.104,1.4,2.0,,4500000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2003-04,31,Philadelphia 76ers,NBA,75,28.2,.459,.757,3.4,2.6,1.1,0.3,9.2,13.9,4.8,.108,1.3,1.7,,5000000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2004-05,32,Philadelphia 76ers,NBA,68,16.4,.430,.625,2.5,1.5,0.7,0.3,2.2,8.4,2.0,.085,-0.9,0.3,,5500000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2005-06,33,Philadelphia 76ers,NBA,14,8.6,.250,.500,1.4,0.8,0.4,0.0,0.5,6.1,0.1,.041,-3.7,-0.1,,6000000,"Simon Gratz in Philadelphia, Pennsylvania"
+mckieaa01,2006-07,34,Philadelphia 76ers,NBA,10,13.1,.647,,1.8,1.3,0.4,0.0,2.2,7.5,0.1,.039,-4.2,-0.1,,5570874,"Simon Gratz in Philadelphia, Pennsylvania"

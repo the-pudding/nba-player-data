@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-roberbr01,2012-13,27,New Orleans Hornets,NBA,78,17.0,.417,.909,1.2,2.8,0.5,0.0,7.1,14.6,2.2,.078,-2.5,-0.2,,473604
-roberbr01,2013-14,28,New Orleans Pelicans,NBA,72,23.2,.420,.940,1.9,3.3,0.6,0.1,9.4,13.4,2.2,.063,-2.9,-0.4,,788872
-roberbr01,2014-15,29,Charlotte Hornets,NBA,72,18.5,.389,.892,1.5,2.3,0.5,0.1,6.7,11.7,1.8,.064,-2.5,-0.2,,2732000
-roberbr01,2015-16,30,Portland Trail Blazers,NBA,51,9.2,.448,.894,0.8,1.1,0.2,0.0,4.0,13.8,1.0,.105,-3.9,-0.2,,2854940
-roberbr01,2015-16,30,Portland Trail Blazers,NBA,30,11.1,.443,.919,1.0,1.3,0.2,0.0,4.8,13.9,0.8,.108,-3.8,-0.2,,2854940
-roberbr01,2015-16,30,Portland Trail Blazers,NBA,21,6.5,.460,.800,0.6,0.8,0.1,0.0,2.9,13.7,0.3,.096,-4.0,-0.1,,2854940
-roberbr01,2016-17,31,Charlotte Hornets,NBA,41,10.1,.377,.846,1.0,1.3,0.2,0.0,3.5,9.8,0.2,.028,-5.9,-0.4,,1050961
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+roberbr01,2012-13,27,New Orleans Hornets,NBA,78,17.0,.417,.909,1.2,2.8,0.5,0.0,7.1,14.6,2.2,.078,-2.5,-0.2,,473604,"Saint John's in Toledo, Ohio"
+roberbr01,2013-14,28,New Orleans Pelicans,NBA,72,23.2,.420,.940,1.9,3.3,0.6,0.1,9.4,13.4,2.2,.063,-2.9,-0.4,,788872,"Saint John's in Toledo, Ohio"
+roberbr01,2014-15,29,Charlotte Hornets,NBA,72,18.5,.389,.892,1.5,2.3,0.5,0.1,6.7,11.7,1.8,.064,-2.5,-0.2,,2732000,"Saint John's in Toledo, Ohio"
+roberbr01,2015-16,30,Portland Trail Blazers,NBA,51,9.2,.448,.894,0.8,1.1,0.2,0.0,4.0,13.8,1.0,.105,-3.9,-0.2,,2854940,"Saint John's in Toledo, Ohio"
+roberbr01,2015-16,30,Portland Trail Blazers,NBA,30,11.1,.443,.919,1.0,1.3,0.2,0.0,4.8,13.9,0.8,.108,-3.8,-0.2,,2854940,"Saint John's in Toledo, Ohio"
+roberbr01,2015-16,30,Portland Trail Blazers,NBA,21,6.5,.460,.800,0.6,0.8,0.1,0.0,2.9,13.7,0.3,.096,-4.0,-0.1,,2854940,"Saint John's in Toledo, Ohio"
+roberbr01,2016-17,31,Charlotte Hornets,NBA,41,10.1,.377,.846,1.0,1.3,0.2,0.0,3.5,9.8,0.2,.028,-5.9,-0.4,,1050961,"Saint John's in Toledo, Ohio"

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bullore01,2013-14,22,Los Angeles Clippers,NBA,43,9.2,.355,.778,1.3,0.3,0.2,0.0,2.7,6.7,0.2,.019,-4.7,-0.3,,1149000
-bullore01,2014-15,23,Phoenix Suns,NBA,36,9.4,.343,.667,1.4,0.2,0.3,0.1,1.9,6.2,0.1,.019,-4.0,-0.2,,1200720
-bullore01,2014-15,23,Phoenix Suns,NBA,25,10.5,.426,.800,1.6,0.2,0.4,0.1,2.6,8.8,0.4,.074,-2.1,0.0,,1200720
-bullore01,2014-15,23,Phoenix Suns,NBA,11,6.8,.063,.500,0.9,0.2,0.1,0.2,0.4,-3.1,-0.3,-0.173,-10.8,-0.2,,1200720
-bullore01,2015-16,24,Detroit Pistons,NBA,37,11.6,.439,.933,1.8,0.7,0.3,0.1,3.3,12.0,1.2,.134,0.0,0.2,,1252440
-bullore01,2016-17,25,Detroit Pistons,NBA,31,15.1,.422,.714,2.1,0.9,0.6,0.1,4.5,11.7,1.0,.101,0.1,0.2,,2255644
-bullore01,2017-18,26,Detroit Pistons,NBA,62,27.9,.489,.796,2.5,1.5,0.8,0.2,11.3,13.6,4.2,.117,0.7,1.2,,2500000
-bullore01,2018-19,27,DET,NBA,2,35.5,.407,1.000,1.5,2.0,0.5,0.5,16.5,12.5,0.1,.100,-3.8,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+bullore01,2013-14,22,Los Angeles Clippers,NBA,43,9.2,.355,.778,1.3,0.3,0.2,0.0,2.7,6.7,0.2,.019,-4.7,-0.3,,1149000,"Kinston in Kinston, North Carolina"
+bullore01,2014-15,23,Phoenix Suns,NBA,36,9.4,.343,.667,1.4,0.2,0.3,0.1,1.9,6.2,0.1,.019,-4.0,-0.2,,1200720,"Kinston in Kinston, North Carolina"
+bullore01,2014-15,23,Phoenix Suns,NBA,25,10.5,.426,.800,1.6,0.2,0.4,0.1,2.6,8.8,0.4,.074,-2.1,0.0,,1200720,"Kinston in Kinston, North Carolina"
+bullore01,2014-15,23,Phoenix Suns,NBA,11,6.8,.063,.500,0.9,0.2,0.1,0.2,0.4,-3.1,-0.3,-0.173,-10.8,-0.2,,1200720,"Kinston in Kinston, North Carolina"
+bullore01,2015-16,24,Detroit Pistons,NBA,37,11.6,.439,.933,1.8,0.7,0.3,0.1,3.3,12.0,1.2,.134,0.0,0.2,,1252440,"Kinston in Kinston, North Carolina"
+bullore01,2016-17,25,Detroit Pistons,NBA,31,15.1,.422,.714,2.1,0.9,0.6,0.1,4.5,11.7,1.0,.101,0.1,0.2,,2255644,"Kinston in Kinston, North Carolina"
+bullore01,2017-18,26,Detroit Pistons,NBA,62,27.9,.489,.796,2.5,1.5,0.8,0.2,11.3,13.6,4.2,.117,0.7,1.2,,2500000,"Kinston in Kinston, North Carolina"
+bullore01,2018-19,27,DET,NBA,2,35.5,.407,1.000,1.5,2.0,0.5,0.5,16.5,12.5,0.1,.100,-3.8,0.0,,,"Kinston in Kinston, North Carolina"

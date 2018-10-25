@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-myerspe01,1986-87,23,CHI,NBA,29,5.3,.365,.651,0.6,0.7,0.5,0.1,2.3,14.0,0.3,.092,-1.0,0.0,,
-myerspe01,1987-88,24,San Antonio Spurs,NBA,22,14.9,.453,.667,1.7,2.2,0.8,0.3,5.1,10.1,-0.1,-0.009,-4.4,-0.2,,75000
-myerspe01,1988-89,25,"PHI,NYK",NBA,33,8.2,.425,.688,1.0,1.5,0.6,0.1,2.9,12.4,0.5,.087,-1.8,0.0,,
-myerspe01,1989-90,26,"NYK,NJN",NBA,52,14.4,.396,.660,1.8,2.6,0.7,0.2,4.7,9.8,0.0,.003,-3.6,-0.3,,
-myerspe01,1990-91,27,SAS,NBA,8,12.9,.435,.818,2.3,1.8,0.4,0.4,3.6,7.1,0.0,-0.002,-4.8,-0.1,,
-myerspe01,1991-92,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-myerspe01,1992-93,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-myerspe01,1993-94,30,Chicago Bulls,NBA,82,24.8,.455,.701,2.2,3.0,1.0,0.2,7.9,10.6,3.0,.072,-2.3,-0.1,,150000
-myerspe01,1994-95,31,Chicago Bulls,NBA,71,17.9,.415,.614,2.0,2.1,0.8,0.2,4.5,9.1,1.3,.049,-2.3,-0.1,,545000
-myerspe01,1995-96,32,Miami Heat,NBA,71,15.4,.368,.656,2.0,2.0,0.5,0.2,3.9,8.4,0.6,.026,-3.2,-0.3,,600000
-myerspe01,1995-96,32,Miami Heat,NBA,39,16.4,.388,.645,1.9,2.5,0.4,0.3,4.7,8.9,0.5,.035,-3.3,-0.2,,600000
-myerspe01,1995-96,32,Miami Heat,NBA,32,14.2,.333,.674,2.1,1.5,0.6,0.2,2.9,7.8,0.1,.013,-3.0,-0.1,,600000
-myerspe01,1996-97,33,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-myerspe01,1997-98,34,New York Knicks,NBA,9,4.4,.500,.667,1.1,0.3,0.4,0.0,1.6,16.3,0.1,.149,3.4,0.1,,272250
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+myerspe01,1986-87,23,CHI,NBA,29,5.3,.365,.651,0.6,0.7,0.5,0.1,2.3,14.0,0.3,.092,-1.0,0.0,,"Williamson in Mobile, Alabama",
+myerspe01,1987-88,24,San Antonio Spurs,NBA,22,14.9,.453,.667,1.7,2.2,0.8,0.3,5.1,10.1,-0.1,-0.009,-4.4,-0.2,,"Williamson in Mobile, Alabama",75000
+myerspe01,1988-89,25,"PHI,NYK",NBA,33,8.2,.425,.688,1.0,1.5,0.6,0.1,2.9,12.4,0.5,.087,-1.8,0.0,,"Williamson in Mobile, Alabama",
+myerspe01,1989-90,26,"NYK,NJN",NBA,52,14.4,.396,.660,1.8,2.6,0.7,0.2,4.7,9.8,0.0,.003,-3.6,-0.3,,"Williamson in Mobile, Alabama",
+myerspe01,1990-91,27,SAS,NBA,8,12.9,.435,.818,2.3,1.8,0.4,0.4,3.6,7.1,0.0,-0.002,-4.8,-0.1,,"Williamson in Mobile, Alabama",
+myerspe01,1991-92,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Williamson in Mobile, Alabama",
+myerspe01,1992-93,29,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Williamson in Mobile, Alabama",
+myerspe01,1993-94,30,Chicago Bulls,NBA,82,24.8,.455,.701,2.2,3.0,1.0,0.2,7.9,10.6,3.0,.072,-2.3,-0.1,,"Williamson in Mobile, Alabama",150000
+myerspe01,1994-95,31,Chicago Bulls,NBA,71,17.9,.415,.614,2.0,2.1,0.8,0.2,4.5,9.1,1.3,.049,-2.3,-0.1,,"Williamson in Mobile, Alabama",545000
+myerspe01,1995-96,32,Miami Heat,NBA,71,15.4,.368,.656,2.0,2.0,0.5,0.2,3.9,8.4,0.6,.026,-3.2,-0.3,,"Williamson in Mobile, Alabama",600000
+myerspe01,1995-96,32,Miami Heat,NBA,39,16.4,.388,.645,1.9,2.5,0.4,0.3,4.7,8.9,0.5,.035,-3.3,-0.2,,"Williamson in Mobile, Alabama",600000
+myerspe01,1995-96,32,Miami Heat,NBA,32,14.2,.333,.674,2.1,1.5,0.6,0.2,2.9,7.8,0.1,.013,-3.0,-0.1,,"Williamson in Mobile, Alabama",600000
+myerspe01,1996-97,33,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Williamson in Mobile, Alabama",
+myerspe01,1997-98,34,New York Knicks,NBA,9,4.4,.500,.667,1.1,0.3,0.4,0.0,1.6,16.3,0.1,.149,3.4,0.1,,"Williamson in Mobile, Alabama",272250

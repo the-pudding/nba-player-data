@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-tylerje01,2011-12,20,Golden State Warriors,NBA,42,13.5,.421,.558,3.3,0.4,0.4,0.5,4.9,10.4,-0.2,-0.014,-7.0,-0.7,,650000
-tylerje01,2012-13,21,Atlanta Hawks,NBA,21,3.2,.375,.667,1.0,0.0,0.0,0.1,1.0,6.2,-0.1,-0.049,-11.9,-0.2,,762195
-tylerje01,2012-13,21,Atlanta Hawks,NBA,20,3.2,.375,.667,0.9,0.1,0.1,0.1,1.1,6.1,-0.1,-0.063,-11.5,-0.2,,762195
-tylerje01,2012-13,21,Atlanta Hawks,NBA,1,5.0,,,3.0,0.0,0.0,0.0,0.0,8.5,0.0,.122,-16.4,0.0,,762195
-tylerje01,2013-14,22,New York Knicks,NBA,41,9.7,.517,.542,2.7,0.2,0.1,0.5,3.6,13.0,0.5,.064,-5.1,-0.3,,884293
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+tylerje01,2011-12,20,Golden State Warriors,NBA,42,13.5,.421,.558,3.3,0.4,0.4,0.5,4.9,10.4,-0.2,-0.014,-7.0,-0.7,,650000,"San Diego in San Diego, California"
+tylerje01,2012-13,21,Atlanta Hawks,NBA,21,3.2,.375,.667,1.0,0.0,0.0,0.1,1.0,6.2,-0.1,-0.049,-11.9,-0.2,,762195,"San Diego in San Diego, California"
+tylerje01,2012-13,21,Atlanta Hawks,NBA,20,3.2,.375,.667,0.9,0.1,0.1,0.1,1.1,6.1,-0.1,-0.063,-11.5,-0.2,,762195,"San Diego in San Diego, California"
+tylerje01,2012-13,21,Atlanta Hawks,NBA,1,5.0,,,3.0,0.0,0.0,0.0,0.0,8.5,0.0,.122,-16.4,0.0,,762195,"San Diego in San Diego, California"
+tylerje01,2013-14,22,New York Knicks,NBA,41,9.7,.517,.542,2.7,0.2,0.1,0.5,3.6,13.0,0.5,.064,-5.1,-0.3,,884293,"San Diego in San Diego, California"

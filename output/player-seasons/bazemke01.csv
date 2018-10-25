@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bazemke01,2012-13,23,Golden State Warriors,NBA,61,4.4,.371,.614,0.4,0.4,0.3,0.1,2.0,11.3,0.1,.014,-4.9,-0.2,,473604
-bazemke01,2013-14,24,Golden State Warriors,NBA,67,13.6,.429,.606,1.7,1.4,0.6,0.2,6.0,11.2,0.2,.011,-2.5,-0.1,,788872
-bazemke01,2013-14,24,Golden State Warriors,NBA,44,6.1,.371,.528,0.9,0.5,0.3,0.1,2.3,6.2,-0.2,-0.034,-5.7,-0.3,,788872
-bazemke01,2013-14,24,Golden State Warriors,NBA,23,28.0,.451,.644,3.3,3.1,1.3,0.3,13.1,13.3,0.4,.029,-1.2,0.1,,788872
-bazemke01,2014-15,25,Atlanta Hawks,NBA,75,17.7,.426,.600,3.0,1.0,0.7,0.4,5.2,9.7,1.6,.057,-1.8,0.1,,2000000
-bazemke01,2015-16,26,Atlanta Hawks,NBA,75,27.8,.441,.815,5.1,2.3,1.3,0.5,11.6,13.4,4.1,.094,0.3,1.2,,2000000
-bazemke01,2016-17,27,Atlanta Hawks,NBA,73,26.9,.409,.708,3.2,2.4,1.2,0.7,11.0,11.5,2.1,.052,-0.8,0.6,,15730338
-bazemke01,2017-18,28,Atlanta Hawks,NBA,65,27.5,.420,.796,3.8,3.5,1.5,0.7,12.9,14.5,2.2,.059,0.4,1.1,,16910113
-bazemke01,2018-19,29,ATL,NBA,4,29.5,.520,.733,5.5,3.0,2.0,0.8,18.0,20.8,0.5,.189,3.1,0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+bazemke01,2012-13,23,Golden State Warriors,NBA,61,4.4,.371,.614,0.4,0.4,0.3,0.1,2.0,11.3,0.1,.014,-4.9,-0.2,,473604,"Bertie in Windsor, North Carolina"
+bazemke01,2013-14,24,Golden State Warriors,NBA,67,13.6,.429,.606,1.7,1.4,0.6,0.2,6.0,11.2,0.2,.011,-2.5,-0.1,,788872,"Bertie in Windsor, North Carolina"
+bazemke01,2013-14,24,Golden State Warriors,NBA,44,6.1,.371,.528,0.9,0.5,0.3,0.1,2.3,6.2,-0.2,-0.034,-5.7,-0.3,,788872,"Bertie in Windsor, North Carolina"
+bazemke01,2013-14,24,Golden State Warriors,NBA,23,28.0,.451,.644,3.3,3.1,1.3,0.3,13.1,13.3,0.4,.029,-1.2,0.1,,788872,"Bertie in Windsor, North Carolina"
+bazemke01,2014-15,25,Atlanta Hawks,NBA,75,17.7,.426,.600,3.0,1.0,0.7,0.4,5.2,9.7,1.6,.057,-1.8,0.1,,2000000,"Bertie in Windsor, North Carolina"
+bazemke01,2015-16,26,Atlanta Hawks,NBA,75,27.8,.441,.815,5.1,2.3,1.3,0.5,11.6,13.4,4.1,.094,0.3,1.2,,2000000,"Bertie in Windsor, North Carolina"
+bazemke01,2016-17,27,Atlanta Hawks,NBA,73,26.9,.409,.708,3.2,2.4,1.2,0.7,11.0,11.5,2.1,.052,-0.8,0.6,,15730338,"Bertie in Windsor, North Carolina"
+bazemke01,2017-18,28,Atlanta Hawks,NBA,65,27.5,.420,.796,3.8,3.5,1.5,0.7,12.9,14.5,2.2,.059,0.4,1.1,,16910113,"Bertie in Windsor, North Carolina"
+bazemke01,2018-19,29,ATL,NBA,4,29.5,.520,.733,5.5,3.0,2.0,0.8,18.0,20.8,0.5,.189,3.1,0.2,,,"Bertie in Windsor, North Carolina"

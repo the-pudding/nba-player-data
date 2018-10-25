@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-hillge01,2008-09,22,San Antonio Spurs,NBA,77,16.5,.403,.781,2.1,1.8,0.6,0.3,5.7,11.6,2.1,.080,-1.8,0.1,,1006200
-hillge01,2009-10,23,San Antonio Spurs,NBA,78,29.2,.478,.772,2.6,2.9,0.9,0.3,12.4,14.7,6.7,.142,1.5,2.0,,1081680
-hillge01,2010-11,24,San Antonio Spurs,NBA,76,28.3,.453,.863,2.6,2.5,0.9,0.3,11.6,14.6,6.1,.136,1.1,1.7,,1157160
-hillge01,2011-12,25,Indiana Pacers,NBA,50,25.5,.442,.778,3.0,2.9,0.8,0.3,9.6,15.7,4.0,.152,2.3,1.4,,2086360
-hillge01,2012-13,26,Indiana Pacers,NBA,76,34.5,.443,.817,3.7,4.7,1.1,0.3,14.2,16.6,9.7,.177,3.1,3.4,,8000000
-hillge01,2013-14,27,Indiana Pacers,NBA,76,32.0,.442,.807,3.7,3.5,1.0,0.3,10.3,13.4,7.8,.154,2.4,2.7,,8000000
-hillge01,2014-15,28,Indiana Pacers,NBA,43,29.5,.477,.790,4.2,5.1,1.0,0.3,16.1,21.5,5.4,.203,5.6,2.4,,8000000
-hillge01,2015-16,29,Indiana Pacers,NBA,74,34.1,.441,.760,4.0,3.5,1.1,0.2,12.1,13.2,6.2,.118,1.5,2.2,,8000000
-hillge01,2016-17,30,Utah Jazz,NBA,49,31.5,.477,.801,3.4,4.2,1.0,0.2,16.9,19.3,5.9,.182,3.6,2.2,,8000000
-hillge01,2017-18,31,Cleveland Cavaliers,NBA,67,27.0,.460,.786,2.7,2.8,0.9,0.4,10.0,13.3,3.2,.085,-0.6,0.6,,20000000
-hillge01,2017-18,31,Cleveland Cavaliers,NBA,43,26.6,.469,.778,2.7,2.8,0.9,0.3,10.3,14.0,2.1,.090,-0.6,0.4,,20000000
-hillge01,2017-18,31,Cleveland Cavaliers,NBA,24,27.9,.444,.805,2.7,2.8,0.9,0.6,9.4,12.2,1.1,.077,-0.6,0.2,,20000000
-hillge01,2018-19,32,CLE,NBA,4,27.0,.514,.667,1.5,3.0,0.3,0.0,11.3,13.2,0.2,.071,-3.3,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+hillge01,2008-09,22,San Antonio Spurs,NBA,77,16.5,.403,.781,2.1,1.8,0.6,0.3,5.7,11.6,2.1,.080,-1.8,0.1,,1006200,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2009-10,23,San Antonio Spurs,NBA,78,29.2,.478,.772,2.6,2.9,0.9,0.3,12.4,14.7,6.7,.142,1.5,2.0,,1081680,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2010-11,24,San Antonio Spurs,NBA,76,28.3,.453,.863,2.6,2.5,0.9,0.3,11.6,14.6,6.1,.136,1.1,1.7,,1157160,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2011-12,25,Indiana Pacers,NBA,50,25.5,.442,.778,3.0,2.9,0.8,0.3,9.6,15.7,4.0,.152,2.3,1.4,,2086360,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2012-13,26,Indiana Pacers,NBA,76,34.5,.443,.817,3.7,4.7,1.1,0.3,14.2,16.6,9.7,.177,3.1,3.4,,8000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2013-14,27,Indiana Pacers,NBA,76,32.0,.442,.807,3.7,3.5,1.0,0.3,10.3,13.4,7.8,.154,2.4,2.7,,8000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2014-15,28,Indiana Pacers,NBA,43,29.5,.477,.790,4.2,5.1,1.0,0.3,16.1,21.5,5.4,.203,5.6,2.4,,8000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2015-16,29,Indiana Pacers,NBA,74,34.1,.441,.760,4.0,3.5,1.1,0.2,12.1,13.2,6.2,.118,1.5,2.2,,8000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2016-17,30,Utah Jazz,NBA,49,31.5,.477,.801,3.4,4.2,1.0,0.2,16.9,19.3,5.9,.182,3.6,2.2,,8000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2017-18,31,Cleveland Cavaliers,NBA,67,27.0,.460,.786,2.7,2.8,0.9,0.4,10.0,13.3,3.2,.085,-0.6,0.6,,20000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2017-18,31,Cleveland Cavaliers,NBA,43,26.6,.469,.778,2.7,2.8,0.9,0.3,10.3,14.0,2.1,.090,-0.6,0.4,,20000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2017-18,31,Cleveland Cavaliers,NBA,24,27.9,.444,.805,2.7,2.8,0.9,0.6,9.4,12.2,1.1,.077,-0.6,0.2,,20000000,"Broad Ripple in Indianapolis, Indiana"
+hillge01,2018-19,32,CLE,NBA,4,27.0,.514,.667,1.5,3.0,0.3,0.0,11.3,13.2,0.2,.071,-3.3,0.0,,,"Broad Ripple in Indianapolis, Indiana"

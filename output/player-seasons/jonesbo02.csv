@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jonesbo02,2006-07,23,Philadelphia 76ers,NBA,44,7.6,.462,.561,1.3,0.4,0.3,0.0,2.5,9.4,0.3,.045,-4.1,-0.2,,412718
-jonesbo02,2007-08,24,Denver Nuggets,NBA,47,11.3,.429,.784,2.0,0.6,0.3,0.1,3.8,9.9,0.8,.070,-3.1,-0.2,,687456
-jonesbo02,2007-08,24,Denver Nuggets,NBA,25,8.9,.406,.821,1.5,0.4,0.2,0.0,3.4,8.5,0.3,.071,-4.4,-0.1,,687456
-jonesbo02,2007-08,24,Denver Nuggets,NBA,9,15.2,.389,.900,3.0,1.2,0.6,0.2,4.4,12.1,0.2,.079,-0.9,0.0,,687456
-jonesbo02,2007-08,24,Denver Nuggets,NBA,4,2.3,.500,,0.3,0.0,0.3,0.0,1.0,5.9,0.0,-0.018,-9.3,0.0,,687456
-jonesbo02,2007-08,24,Denver Nuggets,NBA,6,23.8,.531,.615,4.0,0.8,0.3,0.0,8.0,11.2,0.2,.080,-2.9,0.0,,687456
-jonesbo02,2007-08,24,Denver Nuggets,NBA,3,6.7,.250,,0.7,0.3,0.7,0.0,0.7,3.4,0.0,-0.042,-3.2,0.0,,687456
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jonesbo02,2006-07,23,Philadelphia 76ers,NBA,44,7.6,.462,.561,1.3,0.4,0.3,0.0,2.5,9.4,0.3,.045,-4.1,-0.2,,412718,"Long Beach Polytechnic in Long Beach, California"
+jonesbo02,2007-08,24,Denver Nuggets,NBA,47,11.3,.429,.784,2.0,0.6,0.3,0.1,3.8,9.9,0.8,.070,-3.1,-0.2,,687456,"Long Beach Polytechnic in Long Beach, California"
+jonesbo02,2007-08,24,Denver Nuggets,NBA,25,8.9,.406,.821,1.5,0.4,0.2,0.0,3.4,8.5,0.3,.071,-4.4,-0.1,,687456,"Long Beach Polytechnic in Long Beach, California"
+jonesbo02,2007-08,24,Denver Nuggets,NBA,9,15.2,.389,.900,3.0,1.2,0.6,0.2,4.4,12.1,0.2,.079,-0.9,0.0,,687456,"Long Beach Polytechnic in Long Beach, California"
+jonesbo02,2007-08,24,Denver Nuggets,NBA,4,2.3,.500,,0.3,0.0,0.3,0.0,1.0,5.9,0.0,-0.018,-9.3,0.0,,687456,"Long Beach Polytechnic in Long Beach, California"
+jonesbo02,2007-08,24,Denver Nuggets,NBA,6,23.8,.531,.615,4.0,0.8,0.3,0.0,8.0,11.2,0.2,.080,-2.9,0.0,,687456,"Long Beach Polytechnic in Long Beach, California"
+jonesbo02,2007-08,24,Denver Nuggets,NBA,3,6.7,.250,,0.7,0.3,0.7,0.0,0.7,3.4,0.0,-0.042,-3.2,0.0,,687456,"Long Beach Polytechnic in Long Beach, California"

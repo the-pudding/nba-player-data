@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-houstby01,1992-93,23,Golden State Warriors,NBA,79,16.1,.446,.665,4.0,0.9,0.6,0.5,5.3,10.6,1.8,.068,-1.8,0.1,,500000
-houstby01,1993-94,24,Golden State Warriors,NBA,71,12.2,.458,.611,2.7,0.5,0.5,0.4,2.8,7.5,0.9,.050,-3.0,-0.2,,600000
-houstby01,1994-95,25,Seattle SuperSonics,NBA,39,6.6,.458,.737,1.4,0.2,0.3,0.1,3.4,13.8,0.5,.091,-4.7,-0.2,,700000
-houstby01,1995-96,26,Sacramento Kings,NBA,25,11.0,.500,.808,3.4,0.3,0.5,0.3,3.4,13.1,0.7,.117,-1.5,0.0,,800000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+houstby01,1992-93,23,Golden State Warriors,NBA,79,16.1,.446,.665,4.0,0.9,0.6,0.5,5.3,10.6,1.8,.068,-1.8,0.1,,500000,"Star-Spencer in Oklahoma City, Oklahoma"
+houstby01,1993-94,24,Golden State Warriors,NBA,71,12.2,.458,.611,2.7,0.5,0.5,0.4,2.8,7.5,0.9,.050,-3.0,-0.2,,600000,"Star-Spencer in Oklahoma City, Oklahoma"
+houstby01,1994-95,25,Seattle SuperSonics,NBA,39,6.6,.458,.737,1.4,0.2,0.3,0.1,3.4,13.8,0.5,.091,-4.7,-0.2,,700000,"Star-Spencer in Oklahoma City, Oklahoma"
+houstby01,1995-96,26,Sacramento Kings,NBA,25,11.0,.500,.808,3.4,0.3,0.5,0.3,3.4,13.1,0.7,.117,-1.5,0.0,,800000,"Star-Spencer in Oklahoma City, Oklahoma"

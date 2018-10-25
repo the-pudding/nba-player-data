@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-farmajo01,2006-07,20,Los Angeles Lakers,NBA,72,15.1,.422,.711,1.7,1.9,0.6,0.1,4.4,10.8,0.9,.038,-2.9,-0.3,,939120
-farmajo01,2007-08,21,Los Angeles Lakers,NBA,82,20.6,.461,.679,2.2,2.7,0.9,0.1,9.1,15.4,3.9,.111,0.7,1.2,,1009560
-farmajo01,2008-09,22,Los Angeles Lakers,NBA,65,18.3,.391,.584,1.8,2.4,0.9,0.2,6.4,9.9,0.8,.034,-2.9,-0.3,,1080000
-farmajo01,2009-10,23,Los Angeles Lakers,NBA,82,18.0,.435,.671,1.6,1.5,0.6,0.1,7.2,12.3,2.8,.093,-1.4,0.2,,1947240
-farmajo01,2010-11,24,New Jersey Nets,NBA,73,24.6,.392,.820,2.4,5.0,0.8,0.1,9.6,14.1,1.9,.050,-0.9,0.5,,3750000
-farmajo01,2011-12,25,New Jersey Nets,NBA,39,21.3,.467,.905,1.6,3.3,0.6,0.1,10.4,17.4,1.8,.104,-1.8,0.1,,4000000
-farmajo01,2012-13,26,Atlanta Hawks,NBA,,,,,,,,,,,,,,,,1500000
-farmajo01,2013-14,27,Los Angeles Lakers,NBA,41,22.2,.415,.746,2.5,4.9,0.9,0.2,10.1,15.0,0.7,.039,-1.1,0.2,,1106941
-farmajo01,2014-15,28,Los Angeles Clippers,NBA,36,14.7,.386,.909,1.2,1.9,0.6,0.1,4.6,9.9,0.6,.053,-2.0,0.0,,2077000
-farmajo01,2015-16,29,Memphis Grizzlies,NBA,12,24.3,.420,1.000,2.1,3.1,1.3,0.2,9.2,13.2,0.4,.064,-1.2,0.1,,191456
-farmajo01,2016-17,30,Los Angeles Clippers,NBA,2,17.5,.333,,1.5,4.5,1.0,0.0,6.0,14.4,0.0,.063,-3.0,0.0,,510921
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+farmajo01,2006-07,20,Los Angeles Lakers,NBA,72,15.1,.422,.711,1.7,1.9,0.6,0.1,4.4,10.8,0.9,.038,-2.9,-0.3,,939120,"Taft in Woodland Hills, California"
+farmajo01,2007-08,21,Los Angeles Lakers,NBA,82,20.6,.461,.679,2.2,2.7,0.9,0.1,9.1,15.4,3.9,.111,0.7,1.2,,1009560,"Taft in Woodland Hills, California"
+farmajo01,2008-09,22,Los Angeles Lakers,NBA,65,18.3,.391,.584,1.8,2.4,0.9,0.2,6.4,9.9,0.8,.034,-2.9,-0.3,,1080000,"Taft in Woodland Hills, California"
+farmajo01,2009-10,23,Los Angeles Lakers,NBA,82,18.0,.435,.671,1.6,1.5,0.6,0.1,7.2,12.3,2.8,.093,-1.4,0.2,,1947240,"Taft in Woodland Hills, California"
+farmajo01,2010-11,24,New Jersey Nets,NBA,73,24.6,.392,.820,2.4,5.0,0.8,0.1,9.6,14.1,1.9,.050,-0.9,0.5,,3750000,"Taft in Woodland Hills, California"
+farmajo01,2011-12,25,New Jersey Nets,NBA,39,21.3,.467,.905,1.6,3.3,0.6,0.1,10.4,17.4,1.8,.104,-1.8,0.1,,4000000,"Taft in Woodland Hills, California"
+farmajo01,2012-13,26,Atlanta Hawks,NBA,,,,,,,,,,,,,,,,1500000,"Taft in Woodland Hills, California"
+farmajo01,2013-14,27,Los Angeles Lakers,NBA,41,22.2,.415,.746,2.5,4.9,0.9,0.2,10.1,15.0,0.7,.039,-1.1,0.2,,1106941,"Taft in Woodland Hills, California"
+farmajo01,2014-15,28,Los Angeles Clippers,NBA,36,14.7,.386,.909,1.2,1.9,0.6,0.1,4.6,9.9,0.6,.053,-2.0,0.0,,2077000,"Taft in Woodland Hills, California"
+farmajo01,2015-16,29,Memphis Grizzlies,NBA,12,24.3,.420,1.000,2.1,3.1,1.3,0.2,9.2,13.2,0.4,.064,-1.2,0.1,,191456,"Taft in Woodland Hills, California"
+farmajo01,2016-17,30,Los Angeles Clippers,NBA,2,17.5,.333,,1.5,4.5,1.0,0.0,6.0,14.4,0.0,.063,-3.0,0.0,,510921,"Taft in Woodland Hills, California"

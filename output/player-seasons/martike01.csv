@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-martike01,2000-01,23,New Jersey Nets,NBA,68,33.4,.445,.630,7.4,1.9,1.1,1.7,12.0,13.4,2.1,.044,-0.7,0.8,,3536640
-martike01,2001-02,24,New Jersey Nets,NBA,73,34.3,.463,.678,5.3,2.6,1.2,1.7,14.9,14.5,4.9,.093,0.9,1.8,,3801960
-martike01,2002-03,25,New Jersey Nets,NBA,77,34.1,.470,.653,8.3,2.4,1.3,0.9,16.7,16.9,7.1,.129,1.2,2.1,,4067160
-martike01,2003-04,26,New Jersey Nets,NBA,65,34.6,.488,.684,9.5,2.5,1.5,1.3,16.7,18.7,6.7,.142,1.9,2.2,,5128689
-martike01,2004-05,27,Denver Nuggets,NBA,70,32.5,.490,.646,7.3,2.4,1.4,1.1,15.5,17.5,5.3,.111,1.6,2.1,,9454546
-martike01,2005-06,28,Denver Nuggets,NBA,56,27.6,.495,.712,6.3,1.4,0.8,0.9,12.9,16.7,3.8,.117,-0.2,0.7,,10636364
-martike01,2006-07,29,Denver Nuggets,NBA,2,31.5,.500,.250,10.0,0.5,0.0,0.0,9.5,5.4,0.0,-0.036,-10.2,-0.1,,12068182
-martike01,2007-08,30,Denver Nuggets,NBA,71,30.4,.538,.580,6.5,1.3,1.2,1.2,12.4,14.7,5.0,.111,0.1,1.1,,13250000
-martike01,2008-09,31,Denver Nuggets,NBA,66,32.0,.491,.604,6.0,2.0,1.5,1.1,11.7,13.6,4.0,.090,0.9,1.6,,14431816
-martike01,2009-10,32,Denver Nuggets,NBA,58,34.2,.456,.557,9.4,1.9,1.2,1.1,11.5,13.4,3.3,.079,0.2,1.1,,15363636
-martike01,2010-11,33,Denver Nuggets,NBA,48,25.7,.511,.583,6.2,2.3,0.9,0.7,8.6,14.1,2.7,.104,1.8,1.2,,16545454
-martike01,2011-12,34,Los Angeles Clippers,NBA,42,22.4,.441,.370,4.3,0.4,1.0,1.0,5.2,9.9,0.9,.048,-1.5,0.1,,2500000
-martike01,2012-13,35,New York Knicks,NBA,18,23.9,.602,.425,5.3,0.4,0.9,0.9,7.2,13.9,1.2,.128,0.5,0.3,,437470
-martike01,2013-14,36,New York Knicks,NBA,32,19.8,.512,.579,4.2,1.6,0.8,0.8,4.3,12.2,1.2,.090,1.1,0.5,,1399507
-martike01,2014-15,37,Milwaukee Bucks,NBA,11,9.5,.409,1.000,1.7,0.5,0.5,0.5,1.8,10.0,0.2,.086,-0.8,0.0,,414551
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+martike01,2000-01,23,New Jersey Nets,NBA,68,33.4,.445,.630,7.4,1.9,1.1,1.7,12.0,13.4,2.1,.044,-0.7,0.8,,3536640,"Bryan Adams in Dallas, Texas"
+martike01,2001-02,24,New Jersey Nets,NBA,73,34.3,.463,.678,5.3,2.6,1.2,1.7,14.9,14.5,4.9,.093,0.9,1.8,,3801960,"Bryan Adams in Dallas, Texas"
+martike01,2002-03,25,New Jersey Nets,NBA,77,34.1,.470,.653,8.3,2.4,1.3,0.9,16.7,16.9,7.1,.129,1.2,2.1,,4067160,"Bryan Adams in Dallas, Texas"
+martike01,2003-04,26,New Jersey Nets,NBA,65,34.6,.488,.684,9.5,2.5,1.5,1.3,16.7,18.7,6.7,.142,1.9,2.2,,5128689,"Bryan Adams in Dallas, Texas"
+martike01,2004-05,27,Denver Nuggets,NBA,70,32.5,.490,.646,7.3,2.4,1.4,1.1,15.5,17.5,5.3,.111,1.6,2.1,,9454546,"Bryan Adams in Dallas, Texas"
+martike01,2005-06,28,Denver Nuggets,NBA,56,27.6,.495,.712,6.3,1.4,0.8,0.9,12.9,16.7,3.8,.117,-0.2,0.7,,10636364,"Bryan Adams in Dallas, Texas"
+martike01,2006-07,29,Denver Nuggets,NBA,2,31.5,.500,.250,10.0,0.5,0.0,0.0,9.5,5.4,0.0,-0.036,-10.2,-0.1,,12068182,"Bryan Adams in Dallas, Texas"
+martike01,2007-08,30,Denver Nuggets,NBA,71,30.4,.538,.580,6.5,1.3,1.2,1.2,12.4,14.7,5.0,.111,0.1,1.1,,13250000,"Bryan Adams in Dallas, Texas"
+martike01,2008-09,31,Denver Nuggets,NBA,66,32.0,.491,.604,6.0,2.0,1.5,1.1,11.7,13.6,4.0,.090,0.9,1.6,,14431816,"Bryan Adams in Dallas, Texas"
+martike01,2009-10,32,Denver Nuggets,NBA,58,34.2,.456,.557,9.4,1.9,1.2,1.1,11.5,13.4,3.3,.079,0.2,1.1,,15363636,"Bryan Adams in Dallas, Texas"
+martike01,2010-11,33,Denver Nuggets,NBA,48,25.7,.511,.583,6.2,2.3,0.9,0.7,8.6,14.1,2.7,.104,1.8,1.2,,16545454,"Bryan Adams in Dallas, Texas"
+martike01,2011-12,34,Los Angeles Clippers,NBA,42,22.4,.441,.370,4.3,0.4,1.0,1.0,5.2,9.9,0.9,.048,-1.5,0.1,,2500000,"Bryan Adams in Dallas, Texas"
+martike01,2012-13,35,New York Knicks,NBA,18,23.9,.602,.425,5.3,0.4,0.9,0.9,7.2,13.9,1.2,.128,0.5,0.3,,437470,"Bryan Adams in Dallas, Texas"
+martike01,2013-14,36,New York Knicks,NBA,32,19.8,.512,.579,4.2,1.6,0.8,0.8,4.3,12.2,1.2,.090,1.1,0.5,,1399507,"Bryan Adams in Dallas, Texas"
+martike01,2014-15,37,Milwaukee Bucks,NBA,11,9.5,.409,1.000,1.7,0.5,0.5,0.5,1.8,10.0,0.2,.086,-0.8,0.0,,414551,"Bryan Adams in Dallas, Texas"

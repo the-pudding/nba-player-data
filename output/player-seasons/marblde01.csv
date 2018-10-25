@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-marblde01,2014-15,22,Orlando Magic,NBA,16,13.0,.318,.313,1.9,1.1,0.6,0.1,2.3,5.9,-0.1,-0.031,-4.5,-0.1,,884879
-marblde01,2015-16,23,Orlando Magic,NBA,28,8.9,.296,.417,1.4,0.4,0.5,0.0,2.1,5.2,-0.1,-0.026,-5.5,-0.2,,845059
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+marblde01,2014-15,22,Orlando Magic,NBA,16,13.0,.318,.313,1.9,1.1,0.6,0.1,2.3,5.9,-0.1,-0.031,-4.5,-0.1,,884879,"Lathrup in Southfield, Michigan"
+marblde01,2015-16,23,Orlando Magic,NBA,28,8.9,.296,.417,1.4,0.4,0.5,0.0,2.1,5.2,-0.1,-0.026,-5.5,-0.2,,845059,"Lathrup in Southfield, Michigan"

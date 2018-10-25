@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-udohek01,2010-11,23,Golden State Warriors,NBA,58,17.8,.437,.656,3.1,0.7,0.4,1.5,4.1,9.7,0.7,.032,-2.0,0.0,,3065040
-udohek01,2011-12,24,Golden State Warriors,NBA,61,21.1,.431,.754,4.2,0.9,0.7,1.7,5.6,12.5,2.1,.077,0.2,0.7,,3294960
-udohek01,2011-12,24,Golden State Warriors,NBA,38,21.8,.443,.719,3.9,0.8,0.7,1.7,5.5,11.5,0.9,.054,-0.5,0.3,,3294960
-udohek01,2011-12,24,Golden State Warriors,NBA,23,20.1,.409,.800,4.7,1.1,0.7,1.6,5.7,14.3,1.1,.119,1.5,0.4,,3294960
-udohek01,2012-13,25,Milwaukee Bucks,NBA,76,17.3,.435,.748,3.3,0.6,0.5,1.1,4.3,12.0,2.7,.098,-0.5,0.5,,3524880
-udohek01,2013-14,26,Milwaukee Bucks,NBA,42,19.1,.399,.638,3.5,0.7,0.4,1.0,3.4,7.6,0.0,.000,-3.5,-0.3,,4469548
-udohek01,2014-15,27,Los Angeles Clippers,NBA,33,3.9,.458,.778,0.8,0.2,0.2,0.2,0.9,11.6,0.3,.101,0.7,0.1,,981084
-udohek01,2015-16,28,Did Not Play,,,,,,,,,,,,,,,,,
-udohek01,2016-17,29,Did Not Play,,,,,,,,,,,,,,,,,
-udohek01,2017-18,30,Utah Jazz,NBA,63,12.9,.500,.750,2.4,0.8,0.7,1.2,2.6,15.2,3.2,.187,5.7,1.6,,3200000
-udohek01,2018-19,31,UTA,NBA,2,3.5,,,1.0,0.5,0.0,0.5,0.0,8.1,0.0,.046,5.0,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+udohek01,2010-11,23,Golden State Warriors,NBA,58,17.8,.437,.656,3.1,0.7,0.4,1.5,4.1,9.7,0.7,.032,-2.0,0.0,,3065040,"Sante Fe in Edmond, Oklahoma"
+udohek01,2011-12,24,Golden State Warriors,NBA,61,21.1,.431,.754,4.2,0.9,0.7,1.7,5.6,12.5,2.1,.077,0.2,0.7,,3294960,"Sante Fe in Edmond, Oklahoma"
+udohek01,2011-12,24,Golden State Warriors,NBA,38,21.8,.443,.719,3.9,0.8,0.7,1.7,5.5,11.5,0.9,.054,-0.5,0.3,,3294960,"Sante Fe in Edmond, Oklahoma"
+udohek01,2011-12,24,Golden State Warriors,NBA,23,20.1,.409,.800,4.7,1.1,0.7,1.6,5.7,14.3,1.1,.119,1.5,0.4,,3294960,"Sante Fe in Edmond, Oklahoma"
+udohek01,2012-13,25,Milwaukee Bucks,NBA,76,17.3,.435,.748,3.3,0.6,0.5,1.1,4.3,12.0,2.7,.098,-0.5,0.5,,3524880,"Sante Fe in Edmond, Oklahoma"
+udohek01,2013-14,26,Milwaukee Bucks,NBA,42,19.1,.399,.638,3.5,0.7,0.4,1.0,3.4,7.6,0.0,.000,-3.5,-0.3,,4469548,"Sante Fe in Edmond, Oklahoma"
+udohek01,2014-15,27,Los Angeles Clippers,NBA,33,3.9,.458,.778,0.8,0.2,0.2,0.2,0.9,11.6,0.3,.101,0.7,0.1,,981084,"Sante Fe in Edmond, Oklahoma"
+udohek01,2015-16,28,Did Not Play,,,,,,,,,,,,,,,,,,"Sante Fe in Edmond, Oklahoma"
+udohek01,2016-17,29,Did Not Play,,,,,,,,,,,,,,,,,,"Sante Fe in Edmond, Oklahoma"
+udohek01,2017-18,30,Utah Jazz,NBA,63,12.9,.500,.750,2.4,0.8,0.7,1.2,2.6,15.2,3.2,.187,5.7,1.6,,3200000,"Sante Fe in Edmond, Oklahoma"
+udohek01,2018-19,31,UTA,NBA,2,3.5,,,1.0,0.5,0.0,0.5,0.0,8.1,0.0,.046,5.0,0.0,,,"Sante Fe in Edmond, Oklahoma"

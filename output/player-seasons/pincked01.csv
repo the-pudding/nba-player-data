@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-pincked01,1985-86,22,Phoenix Suns,NBA,80,20.0,.558,.673,3.9,1.1,0.9,0.5,8.5,12.8,2.7,.080,-1.1,0.4,,300000
-pincked01,1986-87,23,PHO,NBA,80,28.1,.584,.739,7.3,1.5,1.1,0.7,10.5,15.2,6.2,.132,1.6,2.1,,
-pincked01,1987-88,24,Sacramento Kings,NBA,79,14.9,.522,.747,2.9,0.8,0.5,0.4,6.2,14.3,2.3,.092,-1.3,0.2,,347500
-pincked01,1988-89,25,Sacramento Kings,NBA,80,25.2,.513,.800,5.6,1.5,1.0,0.8,11.5,17.2,6.1,.145,1.5,1.8,,347500
-pincked01,1988-89,25,Sacramento Kings,NBA,51,26.2,.502,.801,5.9,1.5,1.1,0.8,12.3,17.0,3.6,.130,0.7,0.9,,347500
-pincked01,1988-89,25,Sacramento Kings,NBA,29,23.4,.540,.798,5.1,1.5,1.0,0.8,10.1,17.7,2.5,.176,3.0,0.9,,347500
-pincked01,1989-90,26,BOS,NBA,77,14.1,.542,.773,2.9,0.9,0.4,0.5,4.7,13.7,2.9,.131,1.2,0.9,,
-pincked01,1990-91,27,Boston Celtics,NBA,70,16.6,.539,.897,4.9,0.6,0.9,0.6,5.2,16.6,4.7,.195,3.8,1.7,,750000
-pincked01,1991-92,28,Boston Celtics,NBA,81,23.7,.537,.812,7.0,0.8,0.9,0.7,7.6,16.5,7.5,.187,3.4,2.6,,900000
-pincked01,1992-93,29,Boston Celtics,NBA,7,21.6,.417,.923,6.1,0.1,0.6,1.0,4.6,10.5,0.3,.084,-3.3,-0.1,,1150000
-pincked01,1993-94,30,Boston Celtics,NBA,76,20.1,.522,.736,6.3,0.8,0.8,0.6,5.2,14.5,4.0,.126,0.7,1.0,,1470000
-pincked01,1994-95,31,Milwaukee Bucks,NBA,62,13.5,.495,.710,3.4,0.3,0.5,0.3,2.3,10.9,1.6,.092,-2.0,0.0,,1485000
-pincked01,1995-96,32,Toronto Raptors,NBA,74,23.1,.510,.760,6.2,1.0,0.9,0.4,6.5,14.3,3.7,.105,-0.8,0.5,,1926000
-pincked01,1995-96,32,Toronto Raptors,NBA,47,21.9,.502,.758,6.0,1.1,0.7,0.4,7.0,14.6,2.2,.101,-1.6,0.1,,1926000
-pincked01,1995-96,32,Toronto Raptors,NBA,27,25.1,.529,.764,6.5,0.8,1.2,0.4,5.6,13.9,1.6,.110,0.3,0.4,,1926000
-pincked01,1996-97,33,Miami Heat,NBA,27,10.1,.535,.800,2.4,0.2,0.3,0.3,2.4,11.4,0.7,.121,-1.5,0.0,,300000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+pincked01,1985-86,22,Phoenix Suns,NBA,80,20.0,.558,.673,3.9,1.1,0.9,0.5,8.5,12.8,2.7,.080,-1.1,0.4,,300000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1986-87,23,PHO,NBA,80,28.1,.584,.739,7.3,1.5,1.1,0.7,10.5,15.2,6.2,.132,1.6,2.1,,,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1987-88,24,Sacramento Kings,NBA,79,14.9,.522,.747,2.9,0.8,0.5,0.4,6.2,14.3,2.3,.092,-1.3,0.2,,347500,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1988-89,25,Sacramento Kings,NBA,80,25.2,.513,.800,5.6,1.5,1.0,0.8,11.5,17.2,6.1,.145,1.5,1.8,,347500,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1988-89,25,Sacramento Kings,NBA,51,26.2,.502,.801,5.9,1.5,1.1,0.8,12.3,17.0,3.6,.130,0.7,0.9,,347500,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1988-89,25,Sacramento Kings,NBA,29,23.4,.540,.798,5.1,1.5,1.0,0.8,10.1,17.7,2.5,.176,3.0,0.9,,347500,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1989-90,26,BOS,NBA,77,14.1,.542,.773,2.9,0.9,0.4,0.5,4.7,13.7,2.9,.131,1.2,0.9,,,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1990-91,27,Boston Celtics,NBA,70,16.6,.539,.897,4.9,0.6,0.9,0.6,5.2,16.6,4.7,.195,3.8,1.7,,750000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1991-92,28,Boston Celtics,NBA,81,23.7,.537,.812,7.0,0.8,0.9,0.7,7.6,16.5,7.5,.187,3.4,2.6,,900000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1992-93,29,Boston Celtics,NBA,7,21.6,.417,.923,6.1,0.1,0.6,1.0,4.6,10.5,0.3,.084,-3.3,-0.1,,1150000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1993-94,30,Boston Celtics,NBA,76,20.1,.522,.736,6.3,0.8,0.8,0.6,5.2,14.5,4.0,.126,0.7,1.0,,1470000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1994-95,31,Milwaukee Bucks,NBA,62,13.5,.495,.710,3.4,0.3,0.5,0.3,2.3,10.9,1.6,.092,-2.0,0.0,,1485000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1995-96,32,Toronto Raptors,NBA,74,23.1,.510,.760,6.2,1.0,0.9,0.4,6.5,14.3,3.7,.105,-0.8,0.5,,1926000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1995-96,32,Toronto Raptors,NBA,47,21.9,.502,.758,6.0,1.1,0.7,0.4,7.0,14.6,2.2,.101,-1.6,0.1,,1926000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1995-96,32,Toronto Raptors,NBA,27,25.1,.529,.764,6.5,0.8,1.2,0.4,5.6,13.9,1.6,.110,0.3,0.4,,1926000,"Adlai E. Stevenson in Bronx, New York"
+pincked01,1996-97,33,Miami Heat,NBA,27,10.1,.535,.800,2.4,0.2,0.3,0.3,2.4,11.4,0.7,.121,-1.5,0.0,,300000,"Adlai E. Stevenson in Bronx, New York"

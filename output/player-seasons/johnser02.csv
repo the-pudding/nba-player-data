@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-johnser02,1993-94,26,Seattle SuperSonics,NBA,45,6.2,.415,.630,2.6,0.2,0.2,0.5,2.6,16.1,0.7,.114,-4.4,-0.2,,617000
-johnser02,1994-95,27,Seattle SuperSonics,NBA,64,14.2,.443,.630,4.5,0.3,0.3,1.0,3.1,9.6,1.3,.067,-3.1,-0.3,,716600
-johnser02,1995-96,28,Seattle SuperSonics,NBA,81,18.8,.511,.669,5.3,0.6,0.5,1.6,5.5,13.1,3.9,.123,0.1,0.8,,767000
-johnser02,1996-97,29,Denver Nuggets,NBA,82,31.7,.520,.615,11.1,0.9,0.8,2.8,7.1,14.3,5.2,.096,0.8,1.8,,1636000
-johnser02,1997-98,30,Milwaukee Bucks,NBA,81,27.9,.537,.601,8.5,0.7,1.0,2.0,8.0,15.6,6.4,.136,1.9,2.2,,2281128
-johnser02,1998-99,31,Milwaukee Bucks,NBA,50,20.5,.508,.610,6.4,0.4,0.6,1.1,5.1,14.5,3.0,.140,0.7,0.7,,2594000
-johnser02,1999-00,32,Milwaukee Bucks,NBA,80,26.6,.516,.605,8.1,0.6,1.0,1.6,4.8,12.7,4.9,.111,1.7,2.0,,2951029
-johnser02,2000-01,33,Milwaukee Bucks,NBA,82,24.2,.545,.538,7.5,0.5,0.5,1.2,3.2,11.2,5.1,.123,0.6,1.3,,2700000
-johnser02,2001-02,34,Milwaukee Bucks,NBA,81,20.5,.461,.455,5.8,0.3,0.5,1.0,2.6,8.6,2.3,.067,-2.5,-0.2,,3670929
-johnser02,2002-03,35,Milwaukee Bucks,NBA,69,17.0,.452,.682,4.3,0.3,0.5,0.9,2.2,9.4,1.9,.079,-0.8,0.4,,3998679
-johnser02,2003-04,36,Minnesota Timberwolves,NBA,66,14.6,.534,.607,3.5,0.4,0.4,0.7,1.9,8.5,2.3,.115,-0.2,0.4,,4418156
-johnser02,2004-05,37,Minnesota Timberwolves,NBA,46,8.9,.519,.640,2.5,0.1,0.2,0.3,1.6,8.3,0.8,.091,-3.0,-0.1,,4837633
-johnser02,2005-06,38,Milwaukee Bucks,NBA,18,4.5,.412,.500,1.3,0.1,0.1,0.1,0.8,3.1,0.0,-0.010,-8.3,-0.1,,1138500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+johnser02,1993-94,26,Seattle SuperSonics,NBA,45,6.2,.415,.630,2.6,0.2,0.2,0.5,2.6,16.1,0.7,.114,-4.4,-0.2,,617000,"Block in Jonesville, Louisiana"
+johnser02,1994-95,27,Seattle SuperSonics,NBA,64,14.2,.443,.630,4.5,0.3,0.3,1.0,3.1,9.6,1.3,.067,-3.1,-0.3,,716600,"Block in Jonesville, Louisiana"
+johnser02,1995-96,28,Seattle SuperSonics,NBA,81,18.8,.511,.669,5.3,0.6,0.5,1.6,5.5,13.1,3.9,.123,0.1,0.8,,767000,"Block in Jonesville, Louisiana"
+johnser02,1996-97,29,Denver Nuggets,NBA,82,31.7,.520,.615,11.1,0.9,0.8,2.8,7.1,14.3,5.2,.096,0.8,1.8,,1636000,"Block in Jonesville, Louisiana"
+johnser02,1997-98,30,Milwaukee Bucks,NBA,81,27.9,.537,.601,8.5,0.7,1.0,2.0,8.0,15.6,6.4,.136,1.9,2.2,,2281128,"Block in Jonesville, Louisiana"
+johnser02,1998-99,31,Milwaukee Bucks,NBA,50,20.5,.508,.610,6.4,0.4,0.6,1.1,5.1,14.5,3.0,.140,0.7,0.7,,2594000,"Block in Jonesville, Louisiana"
+johnser02,1999-00,32,Milwaukee Bucks,NBA,80,26.6,.516,.605,8.1,0.6,1.0,1.6,4.8,12.7,4.9,.111,1.7,2.0,,2951029,"Block in Jonesville, Louisiana"
+johnser02,2000-01,33,Milwaukee Bucks,NBA,82,24.2,.545,.538,7.5,0.5,0.5,1.2,3.2,11.2,5.1,.123,0.6,1.3,,2700000,"Block in Jonesville, Louisiana"
+johnser02,2001-02,34,Milwaukee Bucks,NBA,81,20.5,.461,.455,5.8,0.3,0.5,1.0,2.6,8.6,2.3,.067,-2.5,-0.2,,3670929,"Block in Jonesville, Louisiana"
+johnser02,2002-03,35,Milwaukee Bucks,NBA,69,17.0,.452,.682,4.3,0.3,0.5,0.9,2.2,9.4,1.9,.079,-0.8,0.4,,3998679,"Block in Jonesville, Louisiana"
+johnser02,2003-04,36,Minnesota Timberwolves,NBA,66,14.6,.534,.607,3.5,0.4,0.4,0.7,1.9,8.5,2.3,.115,-0.2,0.4,,4418156,"Block in Jonesville, Louisiana"
+johnser02,2004-05,37,Minnesota Timberwolves,NBA,46,8.9,.519,.640,2.5,0.1,0.2,0.3,1.6,8.3,0.8,.091,-3.0,-0.1,,4837633,"Block in Jonesville, Louisiana"
+johnser02,2005-06,38,Milwaukee Bucks,NBA,18,4.5,.412,.500,1.3,0.1,0.1,0.1,0.8,3.1,0.0,-0.010,-8.3,-0.1,,1138500,"Block in Jonesville, Louisiana"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-dembofe01,1988-89,23,Detroit Pistons,NBA,31,2.4,.333,.800,0.7,0.2,0.0,0.0,1.2,7.8,-0.1,-0.037,-8.8,-0.1,,100000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+dembofe01,1988-89,23,Detroit Pistons,NBA,31,2.4,.333,.800,0.7,0.2,0.0,0.0,1.2,7.8,-0.1,-0.037,-8.8,-0.1,,100000,"Fox Tech in San Antonio, Texas"

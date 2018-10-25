@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-rodmade01,1986-87,25,DET,NBA,77,15.0,.545,.587,4.3,0.7,0.5,0.6,6.5,15.5,2.9,.120,1.4,1.0,,
-rodmade01,1987-88,26,Detroit Pistons,NBA,82,26.2,.561,.535,8.7,1.3,0.9,0.5,11.6,17.4,6.8,.153,3.3,2.9,,160000
-rodmade01,1988-89,27,Detroit Pistons,NBA,82,26.9,.595,.626,9.4,1.2,0.7,0.9,9.0,16.3,8.1,.175,4.7,3.8,,550000
-rodmade01,1989-90,28,DET,NBA,82,29.0,.581,.654,9.7,0.9,0.6,0.7,8.8,15.4,9.3,.189,3.4,3.2,,
-rodmade01,1990-91,29,Detroit Pistons,NBA,82,33.5,.493,.631,12.5,1.0,0.8,0.7,8.2,13.9,8.7,.151,2.1,2.9,,880000
-rodmade01,1991-92,30,Detroit Pistons,NBA,82,40.3,.539,.600,18.7,2.3,0.8,0.9,9.8,17.0,12.6,.183,4.9,5.8,All-NBA (3rd),1075000
-rodmade01,1992-93,31,Detroit Pistons,NBA,62,38.9,.427,.534,18.3,1.6,0.8,0.7,7.5,13.6,5.5,.110,0.8,1.7,,2350000
-rodmade01,1993-94,32,San Antonio Spurs,NBA,79,37.8,.534,.520,17.3,2.3,0.7,0.4,4.7,13.4,8.7,.140,3.5,4.2,,2450000
-rodmade01,1994-95,33,San Antonio Spurs,NBA,49,32.0,.571,.676,16.8,2.0,0.6,0.5,7.1,16.6,5.8,.178,3.8,2.3,All-NBA (3rd),2500000
-rodmade01,1995-96,34,Chicago Bulls,NBA,64,32.6,.480,.528,14.9,2.5,0.6,0.4,5.5,13.6,6.2,.143,3.2,2.8,,2500000
-rodmade01,1996-97,35,Chicago Bulls,NBA,55,35.4,.448,.568,16.1,3.1,0.6,0.3,5.7,13.9,6.0,.148,3.2,2.6,,9000000
-rodmade01,1997-98,36,Chicago Bulls,NBA,80,35.7,.431,.550,15.0,2.9,0.6,0.2,4.7,12.4,7.8,.131,2.7,3.4,,4500000
-rodmade01,1998-99,37,Los Angeles Lakers,NBA,23,28.6,.348,.436,11.2,1.3,0.4,0.5,2.1,8.0,0.8,.056,-1.2,0.1,,1000000
-rodmade01,1999-00,38,DAL,NBA,12,32.4,.387,.714,14.3,1.2,0.2,0.1,2.8,8.4,0.6,.074,-3.0,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+rodmade01,1986-87,25,DET,NBA,77,15.0,.545,.587,4.3,0.7,0.5,0.6,6.5,15.5,2.9,.120,1.4,1.0,,"South Oak Cliff in Dallas, Texas",
+rodmade01,1987-88,26,Detroit Pistons,NBA,82,26.2,.561,.535,8.7,1.3,0.9,0.5,11.6,17.4,6.8,.153,3.3,2.9,,"South Oak Cliff in Dallas, Texas",160000
+rodmade01,1988-89,27,Detroit Pistons,NBA,82,26.9,.595,.626,9.4,1.2,0.7,0.9,9.0,16.3,8.1,.175,4.7,3.8,,"South Oak Cliff in Dallas, Texas",550000
+rodmade01,1989-90,28,DET,NBA,82,29.0,.581,.654,9.7,0.9,0.6,0.7,8.8,15.4,9.3,.189,3.4,3.2,,"South Oak Cliff in Dallas, Texas",
+rodmade01,1990-91,29,Detroit Pistons,NBA,82,33.5,.493,.631,12.5,1.0,0.8,0.7,8.2,13.9,8.7,.151,2.1,2.9,,"South Oak Cliff in Dallas, Texas",880000
+rodmade01,1991-92,30,Detroit Pistons,NBA,82,40.3,.539,.600,18.7,2.3,0.8,0.9,9.8,17.0,12.6,.183,4.9,5.8,All-NBA (3rd),"South Oak Cliff in Dallas, Texas",1075000
+rodmade01,1992-93,31,Detroit Pistons,NBA,62,38.9,.427,.534,18.3,1.6,0.8,0.7,7.5,13.6,5.5,.110,0.8,1.7,,"South Oak Cliff in Dallas, Texas",2350000
+rodmade01,1993-94,32,San Antonio Spurs,NBA,79,37.8,.534,.520,17.3,2.3,0.7,0.4,4.7,13.4,8.7,.140,3.5,4.2,,"South Oak Cliff in Dallas, Texas",2450000
+rodmade01,1994-95,33,San Antonio Spurs,NBA,49,32.0,.571,.676,16.8,2.0,0.6,0.5,7.1,16.6,5.8,.178,3.8,2.3,All-NBA (3rd),"South Oak Cliff in Dallas, Texas",2500000
+rodmade01,1995-96,34,Chicago Bulls,NBA,64,32.6,.480,.528,14.9,2.5,0.6,0.4,5.5,13.6,6.2,.143,3.2,2.8,,"South Oak Cliff in Dallas, Texas",2500000
+rodmade01,1996-97,35,Chicago Bulls,NBA,55,35.4,.448,.568,16.1,3.1,0.6,0.3,5.7,13.9,6.0,.148,3.2,2.6,,"South Oak Cliff in Dallas, Texas",9000000
+rodmade01,1997-98,36,Chicago Bulls,NBA,80,35.7,.431,.550,15.0,2.9,0.6,0.2,4.7,12.4,7.8,.131,2.7,3.4,,"South Oak Cliff in Dallas, Texas",4500000
+rodmade01,1998-99,37,Los Angeles Lakers,NBA,23,28.6,.348,.436,11.2,1.3,0.4,0.5,2.1,8.0,0.8,.056,-1.2,0.1,,"South Oak Cliff in Dallas, Texas",1000000
+rodmade01,1999-00,38,DAL,NBA,12,32.4,.387,.714,14.3,1.2,0.2,0.1,2.8,8.4,0.6,.074,-3.0,-0.1,,"South Oak Cliff in Dallas, Texas",

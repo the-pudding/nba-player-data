@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-collish01,2010-11,23,Charlotte Bobcats,NBA,20,3.3,.280,1.000,0.3,0.4,0.1,0.0,0.9,3.6,-0.2,-0.121,-10.2,-0.1,,473604
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+collish01,2010-11,23,Charlotte Bobcats,NBA,20,3.3,.280,1.000,0.3,0.4,0.1,0.0,0.9,3.6,-0.2,-0.121,-10.2,-0.1,,473604,"Crane Technical Preparatory in Chicago, Illinois"

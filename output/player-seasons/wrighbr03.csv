@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-wrighbr03,2007-08,20,Golden State Warriors,NBA,38,9.9,.554,.675,2.6,0.2,0.2,0.6,4.0,17.2,1.1,.142,-2.4,0.0,,2323080
-wrighbr03,2008-09,21,Golden State Warriors,NBA,39,17.6,.528,.741,4.0,0.5,0.6,0.9,8.3,18.7,1.9,.131,-1.2,0.1,,2497320
-wrighbr03,2009-10,22,Golden State Warriors,NBA,,,,,,,,,,,,,,,,2671440
-wrighbr03,2010-11,23,New Jersey Nets,NBA,37,10.2,.513,.677,2.4,0.3,0.3,0.5,3.8,15.9,0.8,.099,-2.8,-0.1,,3398072
-wrighbr03,2010-11,23,New Jersey Nets,NBA,21,9.3,.603,.500,2.0,0.2,0.1,0.5,4.0,16.2,0.4,.091,-4.1,-0.1,,3398072
-wrighbr03,2010-11,23,New Jersey Nets,NBA,16,11.5,.407,.824,3.0,0.4,0.5,0.4,3.6,15.5,0.4,.107,-1.5,0.0,,3398072
-wrighbr03,2011-12,24,DAL,NBA,49,16.1,.618,.634,3.6,0.3,0.4,1.3,6.9,21.6,3.5,.215,2.6,0.9,,
-wrighbr03,2012-13,25,DAL,NBA,64,18.0,.597,.615,4.1,0.6,0.4,1.2,8.5,21.0,4.1,.172,1.6,1.0,,
-wrighbr03,2013-14,26,Dallas Mavericks,NBA,58,18.6,.677,.726,4.2,0.5,0.6,0.9,9.1,23.5,5.1,.227,3.6,1.5,,5000000
-wrighbr03,2014-15,27,Phoenix Suns,NBA,75,19.3,.642,.696,4.3,0.5,0.7,1.3,7.3,20.4,6.1,.202,3.6,2.0,,5000000
-wrighbr03,2014-15,27,Phoenix Suns,NBA,27,18.7,.748,.750,4.1,0.4,0.6,1.6,8.8,25.7,2.9,.274,6.8,1.1,,5000000
-wrighbr03,2014-15,27,Phoenix Suns,NBA,8,10.8,.571,.500,2.1,1.0,0.1,0.6,3.3,15.0,0.2,.106,-0.4,0.0,,5000000
-wrighbr03,2014-15,27,Phoenix Suns,NBA,40,21.5,.580,.667,4.9,0.6,0.8,1.2,7.0,17.8,3.0,.170,2.1,0.9,,5000000
-wrighbr03,2015-16,28,Memphis Grizzlies,NBA,12,17.7,.673,.542,3.6,0.5,0.4,1.3,6.9,18.3,0.7,.147,0.9,0.2,,5500000
-wrighbr03,2016-17,29,Memphis Grizzlies,NBA,28,16.0,.615,.657,2.8,0.5,0.4,0.7,6.8,18.5,1.6,.177,1.3,0.4,,5700000
-wrighbr03,2017-18,30,Memphis Grizzlies,NBA,28,13.6,.578,.636,3.4,0.5,0.5,0.9,5.0,19.0,1.3,.163,0.9,0.3,,5179760
-wrighbr03,2017-18,30,Memphis Grizzlies,NBA,27,13.6,.576,.636,3.4,0.5,0.5,0.9,5.0,19.3,1.2,.163,1.1,0.3,,5179760
-wrighbr03,2017-18,30,Memphis Grizzlies,NBA,1,15.0,.667,,2.0,0.0,0.0,1.0,4.0,11.3,0.0,.157,-3.2,0.0,,5179760
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+wrighbr03,2007-08,20,Golden State Warriors,NBA,38,9.9,.554,.675,2.6,0.2,0.2,0.6,4.0,17.2,1.1,.142,-2.4,0.0,,2323080,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2008-09,21,Golden State Warriors,NBA,39,17.6,.528,.741,4.0,0.5,0.6,0.9,8.3,18.7,1.9,.131,-1.2,0.1,,2497320,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2009-10,22,Golden State Warriors,NBA,,,,,,,,,,,,,,,,2671440,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2010-11,23,New Jersey Nets,NBA,37,10.2,.513,.677,2.4,0.3,0.3,0.5,3.8,15.9,0.8,.099,-2.8,-0.1,,3398072,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2010-11,23,New Jersey Nets,NBA,21,9.3,.603,.500,2.0,0.2,0.1,0.5,4.0,16.2,0.4,.091,-4.1,-0.1,,3398072,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2010-11,23,New Jersey Nets,NBA,16,11.5,.407,.824,3.0,0.4,0.5,0.4,3.6,15.5,0.4,.107,-1.5,0.0,,3398072,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2011-12,24,DAL,NBA,49,16.1,.618,.634,3.6,0.3,0.4,1.3,6.9,21.6,3.5,.215,2.6,0.9,,,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2012-13,25,DAL,NBA,64,18.0,.597,.615,4.1,0.6,0.4,1.2,8.5,21.0,4.1,.172,1.6,1.0,,,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2013-14,26,Dallas Mavericks,NBA,58,18.6,.677,.726,4.2,0.5,0.6,0.9,9.1,23.5,5.1,.227,3.6,1.5,,5000000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2014-15,27,Phoenix Suns,NBA,75,19.3,.642,.696,4.3,0.5,0.7,1.3,7.3,20.4,6.1,.202,3.6,2.0,,5000000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2014-15,27,Phoenix Suns,NBA,27,18.7,.748,.750,4.1,0.4,0.6,1.6,8.8,25.7,2.9,.274,6.8,1.1,,5000000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2014-15,27,Phoenix Suns,NBA,8,10.8,.571,.500,2.1,1.0,0.1,0.6,3.3,15.0,0.2,.106,-0.4,0.0,,5000000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2014-15,27,Phoenix Suns,NBA,40,21.5,.580,.667,4.9,0.6,0.8,1.2,7.0,17.8,3.0,.170,2.1,0.9,,5000000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2015-16,28,Memphis Grizzlies,NBA,12,17.7,.673,.542,3.6,0.5,0.4,1.3,6.9,18.3,0.7,.147,0.9,0.2,,5500000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2016-17,29,Memphis Grizzlies,NBA,28,16.0,.615,.657,2.8,0.5,0.4,0.7,6.8,18.5,1.6,.177,1.3,0.4,,5700000,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2017-18,30,Memphis Grizzlies,NBA,28,13.6,.578,.636,3.4,0.5,0.5,0.9,5.0,19.0,1.3,.163,0.9,0.3,,5179760,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2017-18,30,Memphis Grizzlies,NBA,27,13.6,.576,.636,3.4,0.5,0.5,0.9,5.0,19.3,1.2,.163,1.1,0.3,,5179760,"Brentwood Academy in Brentwood, Tennessee"
+wrighbr03,2017-18,30,Memphis Grizzlies,NBA,1,15.0,.667,,2.0,0.0,0.0,1.0,4.0,11.3,0.0,.157,-3.2,0.0,,5179760,"Brentwood Academy in Brentwood, Tennessee"

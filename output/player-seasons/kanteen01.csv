@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-kanteen01,2011-12,19,Utah Jazz,NBA,66,13.2,.496,.667,4.2,0.1,0.3,0.3,4.6,14.5,1.7,.095,-4.7,-0.6,,4133280
-kanteen01,2012-13,20,Utah Jazz,NBA,70,15.4,.544,.795,4.3,0.4,0.4,0.5,7.2,17.6,2.3,.101,-2.1,0.0,,4443360
-kanteen01,2013-14,21,Utah Jazz,NBA,80,26.7,.491,.730,7.5,0.9,0.4,0.5,12.3,15.6,2.2,.050,-3.9,-1.0,,4505280
-kanteen01,2014-15,22,Oklahoma City Thunder,NBA,75,28.5,.519,.782,8.9,0.7,0.5,0.4,15.5,20.3,6.4,.145,-2.1,-0.1,,5694674
-kanteen01,2014-15,22,Oklahoma City Thunder,NBA,49,27.1,.491,.788,7.8,0.5,0.5,0.3,13.8,17.5,2.7,.099,-4.1,-0.7,,5694674
-kanteen01,2014-15,22,Oklahoma City Thunder,NBA,26,31.1,.566,.776,11.0,1.1,0.5,0.5,18.7,24.9,3.7,.220,1.2,0.7,,5694674
-kanteen01,2015-16,23,Oklahoma City Thunder,NBA,82,21.0,.576,.797,8.1,0.4,0.3,0.4,12.7,24.0,8.1,.226,-1.7,0.1,,16400000
-kanteen01,2016-17,24,Oklahoma City Thunder,NBA,72,21.3,.545,.786,6.7,0.9,0.4,0.5,14.3,23.7,5.8,.183,-1.2,0.3,,17145838
-kanteen01,2017-18,25,New York Knicks,NBA,71,25.8,.592,.848,11.0,1.5,0.5,0.5,14.1,24.0,7.6,.198,2.5,2.1,,20566802
-kanteen01,2018-19,26,NYK,NBA,5,29.0,.574,.929,10.8,2.4,0.8,0.4,16.8,24.0,0.7,.215,4.0,0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+kanteen01,2011-12,19,Utah Jazz,NBA,66,13.2,.496,.667,4.2,0.1,0.3,0.3,4.6,14.5,1.7,.095,-4.7,-0.6,,4133280,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2012-13,20,Utah Jazz,NBA,70,15.4,.544,.795,4.3,0.4,0.4,0.5,7.2,17.6,2.3,.101,-2.1,0.0,,4443360,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2013-14,21,Utah Jazz,NBA,80,26.7,.491,.730,7.5,0.9,0.4,0.5,12.3,15.6,2.2,.050,-3.9,-1.0,,4505280,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2014-15,22,Oklahoma City Thunder,NBA,75,28.5,.519,.782,8.9,0.7,0.5,0.4,15.5,20.3,6.4,.145,-2.1,-0.1,,5694674,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2014-15,22,Oklahoma City Thunder,NBA,49,27.1,.491,.788,7.8,0.5,0.5,0.3,13.8,17.5,2.7,.099,-4.1,-0.7,,5694674,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2014-15,22,Oklahoma City Thunder,NBA,26,31.1,.566,.776,11.0,1.1,0.5,0.5,18.7,24.9,3.7,.220,1.2,0.7,,5694674,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2015-16,23,Oklahoma City Thunder,NBA,82,21.0,.576,.797,8.1,0.4,0.3,0.4,12.7,24.0,8.1,.226,-1.7,0.1,,16400000,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2016-17,24,Oklahoma City Thunder,NBA,72,21.3,.545,.786,6.7,0.9,0.4,0.5,14.3,23.7,5.8,.183,-1.2,0.3,,17145838,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2017-18,25,New York Knicks,NBA,71,25.8,.592,.848,11.0,1.5,0.5,0.5,14.1,24.0,7.6,.198,2.5,2.1,,20566802,"Stoneridge Preparatory School in Simi Valley, California"
+kanteen01,2018-19,26,NYK,NBA,5,29.0,.574,.929,10.8,2.4,0.8,0.4,16.8,24.0,0.7,.215,4.0,0.2,,,"Stoneridge Preparatory School in Simi Valley, California"

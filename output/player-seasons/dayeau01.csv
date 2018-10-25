@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-dayeau01,2009-10,21,Detroit Pistons,NBA,69,13.3,.464,.821,2.5,0.5,0.4,0.4,5.1,12.8,1.3,.067,-2.7,-0.2,,1677840
-dayeau01,2010-11,22,Detroit Pistons,NBA,72,20.1,.410,.759,3.8,1.1,0.5,0.5,7.5,13.0,2.1,.070,-1.3,0.3,,1803720
-dayeau01,2011-12,23,Detroit Pistons,NBA,41,14.7,.322,.814,2.2,0.8,0.5,0.5,4.7,7.1,-0.6,-0.050,-5.9,-0.6,,1929600
-dayeau01,2012-13,24,Memphis Grizzlies,NBA,55,12.3,.433,.765,2.2,0.8,0.3,0.4,4.5,12.9,1.6,.117,-0.7,0.2,,2958077
-dayeau01,2012-13,24,Memphis Grizzlies,NBA,24,14.5,.443,.833,2.6,0.9,0.2,0.3,5.1,12.6,0.8,.108,-1.6,0.0,,2958077
-dayeau01,2012-13,24,Memphis Grizzlies,NBA,31,10.6,.423,.688,1.9,0.7,0.3,0.5,4.0,13.3,0.9,.127,0.3,0.2,,2958077
-dayeau01,2013-14,25,Toronto Raptors,NBA,22,6.7,.353,.600,1.2,0.4,0.2,0.2,3.0,11.0,0.1,.047,-3.2,0.0,,947907
-dayeau01,2013-14,25,Toronto Raptors,NBA,8,4.1,.231,.667,0.9,0.3,0.0,0.0,1.0,2.4,0.0,-0.067,-8.6,-0.1,,947907
-dayeau01,2013-14,25,Toronto Raptors,NBA,14,8.2,.382,.571,1.4,0.4,0.3,0.3,4.1,13.5,0.2,.080,-1.6,0.0,,947907
-dayeau01,2014-15,26,San Antonio Spurs,NBA,34,10.1,.355,.833,2.2,0.5,0.4,0.1,3.8,8.2,0.0,-0.001,-5.4,-0.3,,1063384
-dayeau01,2014-15,26,San Antonio Spurs,NBA,26,10.3,.348,1.000,2.3,0.3,0.3,0.1,4.0,7.1,-0.1,-0.021,-6.8,-0.3,,1063384
-dayeau01,2014-15,26,San Antonio Spurs,NBA,8,9.5,.385,.500,1.8,1.0,0.5,0.3,3.3,12.1,0.1,.068,-0.3,0.0,,1063384
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+dayeau01,2009-10,21,Detroit Pistons,NBA,69,13.3,.464,.821,2.5,0.5,0.4,0.4,5.1,12.8,1.3,.067,-2.7,-0.2,,1677840,"Woodbridge in Irvine, California"
+dayeau01,2010-11,22,Detroit Pistons,NBA,72,20.1,.410,.759,3.8,1.1,0.5,0.5,7.5,13.0,2.1,.070,-1.3,0.3,,1803720,"Woodbridge in Irvine, California"
+dayeau01,2011-12,23,Detroit Pistons,NBA,41,14.7,.322,.814,2.2,0.8,0.5,0.5,4.7,7.1,-0.6,-0.050,-5.9,-0.6,,1929600,"Woodbridge in Irvine, California"
+dayeau01,2012-13,24,Memphis Grizzlies,NBA,55,12.3,.433,.765,2.2,0.8,0.3,0.4,4.5,12.9,1.6,.117,-0.7,0.2,,2958077,"Woodbridge in Irvine, California"
+dayeau01,2012-13,24,Memphis Grizzlies,NBA,24,14.5,.443,.833,2.6,0.9,0.2,0.3,5.1,12.6,0.8,.108,-1.6,0.0,,2958077,"Woodbridge in Irvine, California"
+dayeau01,2012-13,24,Memphis Grizzlies,NBA,31,10.6,.423,.688,1.9,0.7,0.3,0.5,4.0,13.3,0.9,.127,0.3,0.2,,2958077,"Woodbridge in Irvine, California"
+dayeau01,2013-14,25,Toronto Raptors,NBA,22,6.7,.353,.600,1.2,0.4,0.2,0.2,3.0,11.0,0.1,.047,-3.2,0.0,,947907,"Woodbridge in Irvine, California"
+dayeau01,2013-14,25,Toronto Raptors,NBA,8,4.1,.231,.667,0.9,0.3,0.0,0.0,1.0,2.4,0.0,-0.067,-8.6,-0.1,,947907,"Woodbridge in Irvine, California"
+dayeau01,2013-14,25,Toronto Raptors,NBA,14,8.2,.382,.571,1.4,0.4,0.3,0.3,4.1,13.5,0.2,.080,-1.6,0.0,,947907,"Woodbridge in Irvine, California"
+dayeau01,2014-15,26,San Antonio Spurs,NBA,34,10.1,.355,.833,2.2,0.5,0.4,0.1,3.8,8.2,0.0,-0.001,-5.4,-0.3,,1063384,"Woodbridge in Irvine, California"
+dayeau01,2014-15,26,San Antonio Spurs,NBA,26,10.3,.348,1.000,2.3,0.3,0.3,0.1,4.0,7.1,-0.1,-0.021,-6.8,-0.3,,1063384,"Woodbridge in Irvine, California"
+dayeau01,2014-15,26,San Antonio Spurs,NBA,8,9.5,.385,.500,1.8,1.0,0.5,0.3,3.3,12.1,0.1,.068,-0.3,0.0,,1063384,"Woodbridge in Irvine, California"

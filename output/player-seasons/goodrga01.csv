@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-goodrga01,1976-77,33,NOJ,NBA,27,22.6,.446,.800,2.3,2.7,0.8,0.1,12.6,16.1,1.2,.091,-1.7,0.0,
-goodrga01,1977-78,34,NOJ,NBA,81,31.5,.495,.795,2.2,4.8,1.0,0.3,16.1,16.2,6.3,.118,-0.6,0.9,
-goodrga01,1978-79,35,NOJ,NBA,74,28.8,.449,.853,2.5,4.8,1.2,0.2,12.7,13.1,2.2,.049,-2.6,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+goodrga01,1976-77,33,NOJ,NBA,27,22.6,.446,.800,2.3,2.7,0.8,0.1,12.6,16.1,1.2,.091,-1.7,0.0,,"Polytechnic in Sun Valley, California"
+goodrga01,1977-78,34,NOJ,NBA,81,31.5,.495,.795,2.2,4.8,1.0,0.3,16.1,16.2,6.3,.118,-0.6,0.9,,"Polytechnic in Sun Valley, California"
+goodrga01,1978-79,35,NOJ,NBA,74,28.8,.449,.853,2.5,4.8,1.2,0.2,12.7,13.1,2.2,.049,-2.6,-0.3,,"Polytechnic in Sun Valley, California"

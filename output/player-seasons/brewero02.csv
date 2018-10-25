@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-brewero02,2006-07,21,Utah Jazz,NBA,56,12.1,.528,.675,1.3,0.4,0.7,0.1,4.6,15.2,1.7,.124,-0.2,0.3,,1595400
-brewero02,2007-08,22,Utah Jazz,NBA,76,27.5,.558,.759,2.9,1.8,1.7,0.3,12.0,18.4,7.8,.178,3.9,3.1,,1715040
-brewero02,2008-09,23,Utah Jazz,NBA,81,32.2,.508,.702,3.7,2.2,1.7,0.4,13.7,16.1,6.8,.126,2.0,2.7,,1834680
-brewero02,2009-10,24,Memphis Grizzlies,NBA,58,30.0,.487,.639,3.2,2.7,1.6,0.3,8.8,12.5,3.7,.103,1.1,1.4,,2717161
-brewero02,2009-10,24,Memphis Grizzlies,NBA,53,31.4,.495,.633,3.4,2.8,1.6,0.3,9.5,12.8,3.8,.108,1.3,1.4,,2717161
-brewero02,2009-10,24,Memphis Grizzlies,NBA,5,16.0,.231,.800,1.4,0.6,1.2,0.0,2.0,5.9,0.0,-0.010,-3.7,0.0,,2717161
-brewero02,2010-11,25,Chicago Bulls,NBA,81,22.0,.480,.654,3.2,1.7,1.3,0.3,6.2,13.8,5.4,.147,1.8,1.7,,4790000
-brewero02,2011-12,26,Chicago Bulls,NBA,66,24.8,.427,.560,3.5,2.1,1.1,0.3,6.9,12.3,3.9,.113,1.2,1.3,,4710000
-brewero02,2012-13,27,Oklahoma City Thunder,NBA,60,14.2,.354,.410,2.3,0.8,0.7,0.1,3.0,10.0,1.1,.060,-0.8,0.3,,1069509
-brewero02,2012-13,27,Oklahoma City Thunder,NBA,46,15.5,.366,.410,2.2,0.9,0.7,0.1,3.6,10.2,0.8,.057,-0.9,0.2,,1069509
-brewero02,2012-13,27,Oklahoma City Thunder,NBA,14,10.1,.261,,2.9,0.7,0.6,0.0,0.9,9.1,0.2,.072,-0.1,0.1,,1069509
-brewero02,2013-14,28,Houston Rockets,NBA,24,6.7,.200,.000,0.6,0.4,0.3,0.0,0.3,3.4,0.0,.004,-3.4,-0.1,,1186459
-brewero02,2013-14,28,Houston Rockets,NBA,23,6.9,.200,.000,0.6,0.4,0.3,0.0,0.3,3.5,0.0,.004,-3.4,-0.1,,1186459
-brewero02,2013-14,28,Houston Rockets,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,.029,-6.3,0.0,,1186459
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+brewero02,2006-07,21,Utah Jazz,NBA,56,12.1,.528,.675,1.3,0.4,0.7,0.1,4.6,15.2,1.7,.124,-0.2,0.3,,1595400,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2007-08,22,Utah Jazz,NBA,76,27.5,.558,.759,2.9,1.8,1.7,0.3,12.0,18.4,7.8,.178,3.9,3.1,,1715040,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2008-09,23,Utah Jazz,NBA,81,32.2,.508,.702,3.7,2.2,1.7,0.4,13.7,16.1,6.8,.126,2.0,2.7,,1834680,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2009-10,24,Memphis Grizzlies,NBA,58,30.0,.487,.639,3.2,2.7,1.6,0.3,8.8,12.5,3.7,.103,1.1,1.4,,2717161,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2009-10,24,Memphis Grizzlies,NBA,53,31.4,.495,.633,3.4,2.8,1.6,0.3,9.5,12.8,3.8,.108,1.3,1.4,,2717161,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2009-10,24,Memphis Grizzlies,NBA,5,16.0,.231,.800,1.4,0.6,1.2,0.0,2.0,5.9,0.0,-0.010,-3.7,0.0,,2717161,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2010-11,25,Chicago Bulls,NBA,81,22.0,.480,.654,3.2,1.7,1.3,0.3,6.2,13.8,5.4,.147,1.8,1.7,,4790000,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2011-12,26,Chicago Bulls,NBA,66,24.8,.427,.560,3.5,2.1,1.1,0.3,6.9,12.3,3.9,.113,1.2,1.3,,4710000,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2012-13,27,Oklahoma City Thunder,NBA,60,14.2,.354,.410,2.3,0.8,0.7,0.1,3.0,10.0,1.1,.060,-0.8,0.3,,1069509,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2012-13,27,Oklahoma City Thunder,NBA,46,15.5,.366,.410,2.2,0.9,0.7,0.1,3.6,10.2,0.8,.057,-0.9,0.2,,1069509,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2012-13,27,Oklahoma City Thunder,NBA,14,10.1,.261,,2.9,0.7,0.6,0.0,0.9,9.1,0.2,.072,-0.1,0.1,,1069509,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2013-14,28,Houston Rockets,NBA,24,6.7,.200,.000,0.6,0.4,0.3,0.0,0.3,3.4,0.0,.004,-3.4,-0.1,,1186459,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2013-14,28,Houston Rockets,NBA,23,6.9,.200,.000,0.6,0.4,0.3,0.0,0.3,3.5,0.0,.004,-3.4,-0.1,,1186459,"Fayetteville in Fayetteville, Arkansas"
+brewero02,2013-14,28,Houston Rockets,NBA,1,2.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,.029,-6.3,0.0,,1186459,"Fayetteville in Fayetteville, Arkansas"

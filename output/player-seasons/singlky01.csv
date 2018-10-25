@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-singlky01,2012-13,24,Detroit Pistons,NBA,82,28.0,.428,.806,4.0,0.9,0.7,0.5,8.8,10.0,2.3,.048,-1.9,0.1,,1000000
-singlky01,2013-14,25,Detroit Pistons,NBA,82,28.5,.447,.826,3.7,0.9,0.7,0.5,9.6,11.8,4.4,.090,-0.1,1.1,,1045000
-singlky01,2014-15,26,Oklahoma City Thunder,NBA,80,21.8,.386,.769,2.4,1.1,0.6,0.3,6.0,8.5,2.0,.056,-1.6,0.2,,1090000
-singlky01,2014-15,26,Oklahoma City Thunder,NBA,54,23.8,.400,.806,2.6,1.2,0.6,0.3,7.1,9.4,1.6,.061,-1.2,0.3,,1090000
-singlky01,2014-15,26,Oklahoma City Thunder,NBA,26,17.5,.333,.688,2.1,0.7,0.5,0.3,3.7,5.8,0.4,.041,-2.6,-0.1,,1090000
-singlky01,2015-16,27,Oklahoma City Thunder,NBA,68,14.4,.389,.659,2.1,0.4,0.4,0.1,3.4,6.6,1.1,.054,-2.5,-0.1,,5000000
-singlky01,2016-17,28,Oklahoma City Thunder,NBA,32,12.0,.410,.765,1.5,0.3,0.2,0.2,2.8,5.9,0.3,.034,-5.9,-0.4,,4837500
-singlky01,2017-18,29,Oklahoma City Thunder,NBA,12,4.9,.333,.538,0.8,0.2,0.1,0.0,1.9,5.9,0.0,-0.031,-11.8,-0.1,,4666500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+singlky01,2012-13,24,Detroit Pistons,NBA,82,28.0,.428,.806,4.0,0.9,0.7,0.5,8.8,10.0,2.3,.048,-1.9,0.1,,1000000,"South Medford in Medford, Oregon"
+singlky01,2013-14,25,Detroit Pistons,NBA,82,28.5,.447,.826,3.7,0.9,0.7,0.5,9.6,11.8,4.4,.090,-0.1,1.1,,1045000,"South Medford in Medford, Oregon"
+singlky01,2014-15,26,Oklahoma City Thunder,NBA,80,21.8,.386,.769,2.4,1.1,0.6,0.3,6.0,8.5,2.0,.056,-1.6,0.2,,1090000,"South Medford in Medford, Oregon"
+singlky01,2014-15,26,Oklahoma City Thunder,NBA,54,23.8,.400,.806,2.6,1.2,0.6,0.3,7.1,9.4,1.6,.061,-1.2,0.3,,1090000,"South Medford in Medford, Oregon"
+singlky01,2014-15,26,Oklahoma City Thunder,NBA,26,17.5,.333,.688,2.1,0.7,0.5,0.3,3.7,5.8,0.4,.041,-2.6,-0.1,,1090000,"South Medford in Medford, Oregon"
+singlky01,2015-16,27,Oklahoma City Thunder,NBA,68,14.4,.389,.659,2.1,0.4,0.4,0.1,3.4,6.6,1.1,.054,-2.5,-0.1,,5000000,"South Medford in Medford, Oregon"
+singlky01,2016-17,28,Oklahoma City Thunder,NBA,32,12.0,.410,.765,1.5,0.3,0.2,0.2,2.8,5.9,0.3,.034,-5.9,-0.4,,4837500,"South Medford in Medford, Oregon"
+singlky01,2017-18,29,Oklahoma City Thunder,NBA,12,4.9,.333,.538,0.8,0.2,0.1,0.0,1.9,5.9,0.0,-0.031,-11.8,-0.1,,4666500,"South Medford in Medford, Oregon"

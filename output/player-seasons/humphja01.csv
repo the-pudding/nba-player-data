@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-humphja01,1984-85,22,PHO,NBA,80,25.8,.446,.829,2.1,4.4,1.3,0.1,8.8,10.6,1.9,.044,-2.7,-0.4,,
-humphja01,1985-86,23,Phoenix Suns,NBA,82,33.3,.479,.767,3.2,6.4,1.6,0.1,11.0,12.6,4.8,.084,-0.6,0.9,,222500
-humphja01,1986-87,24,PHO,NBA,82,31.5,.477,.769,3.2,7.7,1.4,0.1,11.3,14.2,4.5,.084,-1.0,0.6,,
-humphja01,1987-88,25,Milwaukee Bucks,NBA,68,26.6,.528,.732,2.6,5.8,1.2,0.1,10.0,14.8,3.5,.093,-0.5,0.7,,290000
-humphja01,1987-88,25,Milwaukee Bucks,NBA,50,31.1,.545,.741,3.0,7.1,1.2,0.1,12.7,15.8,3.5,.107,0.0,0.8,,290000
-humphja01,1987-88,25,Milwaukee Bucks,NBA,18,14.0,.370,.643,1.3,2.3,1.1,0.1,2.7,8.2,0.0,.007,-3.2,-0.1,,290000
-humphja01,1988-89,26,Milwaukee Bucks,NBA,73,30.4,.483,.816,2.6,5.5,1.9,0.1,11.6,14.6,4.9,.105,1.3,1.9,,410000
-humphja01,1989-90,27,MIL,NBA,81,34.8,.494,.786,3.3,5.8,1.9,0.1,15.3,16.4,7.6,.130,1.5,2.5,,
-humphja01,1990-91,28,Milwaukee Bucks,NBA,80,34.1,.502,.799,2.8,6.7,1.6,0.1,15.2,17.4,8.6,.152,2.0,2.7,,650000
-humphja01,1991-92,29,Milwaukee Bucks,NBA,71,31.8,.469,.783,2.6,6.6,1.7,0.2,14.0,16.5,5.8,.123,0.7,1.5,,760000
-humphja01,1992-93,30,Utah Jazz,NBA,78,26.1,.436,.777,1.8,4.1,1.3,0.1,8.8,10.5,1.8,.043,-1.9,0.0,,1800000
-humphja01,1993-94,31,Utah Jazz,NBA,75,21.6,.436,.750,1.7,2.9,0.9,0.1,7.5,10.9,2.0,.061,-1.4,0.2,,1800000
-humphja01,1994-95,32,Utah Jazz,NBA,18,11.2,.235,.500,0.7,1.1,0.5,0.0,1.1,-0.9,-0.4,-0.100,-6.8,-0.2,,1900000
-humphja01,1994-95,32,Utah Jazz,NBA,12,12.4,.160,,0.8,0.8,0.6,0.0,0.8,-3.2,-0.4,-0.128,-6.7,-0.2,,1900000
-humphja01,1994-95,32,Utah Jazz,NBA,6,8.7,.444,.500,0.5,1.7,0.3,0.0,1.7,5.8,0.0,-0.019,-7.1,-0.1,,1900000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+humphja01,1984-85,22,PHO,NBA,80,25.8,.446,.829,2.1,4.4,1.3,0.1,8.8,10.6,1.9,.044,-2.7,-0.4,,"Inglewood in Inglewood, California",
+humphja01,1985-86,23,Phoenix Suns,NBA,82,33.3,.479,.767,3.2,6.4,1.6,0.1,11.0,12.6,4.8,.084,-0.6,0.9,,"Inglewood in Inglewood, California",222500
+humphja01,1986-87,24,PHO,NBA,82,31.5,.477,.769,3.2,7.7,1.4,0.1,11.3,14.2,4.5,.084,-1.0,0.6,,"Inglewood in Inglewood, California",
+humphja01,1987-88,25,Milwaukee Bucks,NBA,68,26.6,.528,.732,2.6,5.8,1.2,0.1,10.0,14.8,3.5,.093,-0.5,0.7,,"Inglewood in Inglewood, California",290000
+humphja01,1987-88,25,Milwaukee Bucks,NBA,50,31.1,.545,.741,3.0,7.1,1.2,0.1,12.7,15.8,3.5,.107,0.0,0.8,,"Inglewood in Inglewood, California",290000
+humphja01,1987-88,25,Milwaukee Bucks,NBA,18,14.0,.370,.643,1.3,2.3,1.1,0.1,2.7,8.2,0.0,.007,-3.2,-0.1,,"Inglewood in Inglewood, California",290000
+humphja01,1988-89,26,Milwaukee Bucks,NBA,73,30.4,.483,.816,2.6,5.5,1.9,0.1,11.6,14.6,4.9,.105,1.3,1.9,,"Inglewood in Inglewood, California",410000
+humphja01,1989-90,27,MIL,NBA,81,34.8,.494,.786,3.3,5.8,1.9,0.1,15.3,16.4,7.6,.130,1.5,2.5,,"Inglewood in Inglewood, California",
+humphja01,1990-91,28,Milwaukee Bucks,NBA,80,34.1,.502,.799,2.8,6.7,1.6,0.1,15.2,17.4,8.6,.152,2.0,2.7,,"Inglewood in Inglewood, California",650000
+humphja01,1991-92,29,Milwaukee Bucks,NBA,71,31.8,.469,.783,2.6,6.6,1.7,0.2,14.0,16.5,5.8,.123,0.7,1.5,,"Inglewood in Inglewood, California",760000
+humphja01,1992-93,30,Utah Jazz,NBA,78,26.1,.436,.777,1.8,4.1,1.3,0.1,8.8,10.5,1.8,.043,-1.9,0.0,,"Inglewood in Inglewood, California",1800000
+humphja01,1993-94,31,Utah Jazz,NBA,75,21.6,.436,.750,1.7,2.9,0.9,0.1,7.5,10.9,2.0,.061,-1.4,0.2,,"Inglewood in Inglewood, California",1800000
+humphja01,1994-95,32,Utah Jazz,NBA,18,11.2,.235,.500,0.7,1.1,0.5,0.0,1.1,-0.9,-0.4,-0.100,-6.8,-0.2,,"Inglewood in Inglewood, California",1900000
+humphja01,1994-95,32,Utah Jazz,NBA,12,12.4,.160,,0.8,0.8,0.6,0.0,0.8,-3.2,-0.4,-0.128,-6.7,-0.2,,"Inglewood in Inglewood, California",1900000
+humphja01,1994-95,32,Utah Jazz,NBA,6,8.7,.444,.500,0.5,1.7,0.3,0.0,1.7,5.8,0.0,-0.019,-7.1,-0.1,,"Inglewood in Inglewood, California",1900000

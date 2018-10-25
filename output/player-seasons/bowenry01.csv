@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bowenry01,1999-00,24,Denver Nuggets,NBA,52,11.3,.393,.717,2.2,0.4,0.8,0.3,2.5,11.8,1.4,.111,1.1,0.5,,301875
-bowenry01,2000-01,25,Denver Nuggets,NBA,57,12.2,.556,.614,2.0,0.5,0.6,0.2,3.4,13.3,1.7,.114,0.9,0.5,,510000
-bowenry01,2001-02,26,Denver Nuggets,NBA,75,22.5,.479,.750,4.0,0.7,1.0,0.5,4.9,11.4,3.1,.088,0.3,1.0,,630850
-bowenry01,2002-03,27,Denver Nuggets,NBA,62,16.1,.492,.659,2.5,0.9,1.0,0.5,3.6,12.7,2.1,.102,1.1,0.8,,1111111
-bowenry01,2003-04,28,Denver Nuggets,NBA,52,7.5,.340,.833,1.7,0.3,0.3,0.3,0.9,9.9,0.8,.097,0.3,0.2,,1250000
-bowenry01,2004-05,29,Houston Rockets,NBA,66,9.2,.423,.667,1.2,0.3,0.3,0.1,1.7,7.7,1.1,.087,-2.1,0.0,,807046
-bowenry01,2005-06,30,Houston Rockets,NBA,68,9.6,.298,.786,1.3,0.4,0.3,0.1,1.3,4.0,0.2,.012,-4.4,-0.4,,900498
-bowenry01,2006-07,31,Houston Rockets,NBA,,,,,,,,,,,,,,,,998967
-bowenry01,2007-08,32,New Orleans Hornets,NBA,53,12.5,.490,.552,1.9,0.5,0.6,0.2,2.2,9.9,1.5,.107,1.2,0.5,,1033930
-bowenry01,2008-09,33,New Orleans Hornets,NBA,21,10.4,.579,.600,1.1,0.4,0.7,0.2,2.2,10.8,0.6,.125,1.1,0.2,,1141838
-bowenry01,2009-10,34,Oklahoma City Thunder,NBA,1,8.0,1.000,1.000,2.0,0.0,1.0,0.0,4.0,31.3,0.1,.509,8.1,0.0,,209592
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+bowenry01,1999-00,24,Denver Nuggets,NBA,52,11.3,.393,.717,2.2,0.4,0.8,0.3,2.5,11.8,1.4,.111,1.1,0.5,,301875,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2000-01,25,Denver Nuggets,NBA,57,12.2,.556,.614,2.0,0.5,0.6,0.2,3.4,13.3,1.7,.114,0.9,0.5,,510000,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2001-02,26,Denver Nuggets,NBA,75,22.5,.479,.750,4.0,0.7,1.0,0.5,4.9,11.4,3.1,.088,0.3,1.0,,630850,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2002-03,27,Denver Nuggets,NBA,62,16.1,.492,.659,2.5,0.9,1.0,0.5,3.6,12.7,2.1,.102,1.1,0.8,,1111111,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2003-04,28,Denver Nuggets,NBA,52,7.5,.340,.833,1.7,0.3,0.3,0.3,0.9,9.9,0.8,.097,0.3,0.2,,1250000,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2004-05,29,Houston Rockets,NBA,66,9.2,.423,.667,1.2,0.3,0.3,0.1,1.7,7.7,1.1,.087,-2.1,0.0,,807046,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2005-06,30,Houston Rockets,NBA,68,9.6,.298,.786,1.3,0.4,0.3,0.1,1.3,4.0,0.2,.012,-4.4,-0.4,,900498,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2006-07,31,Houston Rockets,NBA,,,,,,,,,,,,,,,,998967,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2007-08,32,New Orleans Hornets,NBA,53,12.5,.490,.552,1.9,0.5,0.6,0.2,2.2,9.9,1.5,.107,1.2,0.5,,1033930,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2008-09,33,New Orleans Hornets,NBA,21,10.4,.579,.600,1.1,0.4,0.7,0.2,2.2,10.8,0.6,.125,1.1,0.2,,1141838,"Fort Madison in Fort Madison, Iowa"
+bowenry01,2009-10,34,Oklahoma City Thunder,NBA,1,8.0,1.000,1.000,2.0,0.0,1.0,0.0,4.0,31.3,0.1,.509,8.1,0.0,,209592,"Fort Madison in Fort Madison, Iowa"

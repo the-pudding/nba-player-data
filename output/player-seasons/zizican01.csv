@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-zizican01,2017-18,21,Cleveland Cavaliers,NBA,32,6.7,.731,.724,1.9,0.2,0.1,0.4,3.7,24.2,1.0,.231,0.1,0.1,,1645200
-zizican01,2018-19,22,CLE,NBA,4,8.3,.667,.667,2.3,1.0,0.3,0.0,4.0,19.6,0.1,.120,-0.2,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+zizican01,2017-18,21,Cleveland Cavaliers,NBA,32,6.7,.731,.724,1.9,0.2,0.1,0.4,3.7,24.2,1.0,.231,0.1,0.1,,1645200,
+zizican01,2018-19,22,CLE,NBA,4,8.3,.667,.667,2.3,1.0,0.3,0.0,4.0,19.6,0.1,.120,-0.2,0.0,,,

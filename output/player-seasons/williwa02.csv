@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-williwa02,1992-93,22,Sacramento Kings,NBA,59,28.4,.435,.742,4.5,3.0,1.1,0.5,17.0,15.0,1.6,.047,-0.1,0.8,,1275000
-williwa02,1993-94,23,Sacramento Kings,NBA,57,23.8,.390,.635,4.1,2.3,0.9,0.4,11.2,10.4,-0.7,-0.024,-3.3,-0.5,,1658000
-williwa02,1994-95,24,Sacramento Kings,NBA,77,35.6,.446,.731,4.5,4.1,1.6,0.8,16.4,15.0,5.1,.089,2.5,3.1,,2040000
-williwa02,1995-96,25,Sacramento Kings,NBA,73,29.7,.444,.703,4.4,3.2,1.2,0.8,13.6,15.8,5.1,.112,2.7,2.6,,2423000
-williwa02,1995-96,25,Sacramento Kings,NBA,45,30.7,.435,.756,4.6,3.7,1.2,0.9,14.6,16.2,2.9,.101,2.4,1.6,,2423000
-williwa02,1995-96,25,Sacramento Kings,NBA,28,28.1,.463,.550,4.0,2.3,1.1,0.6,12.0,15.1,2.2,.132,3.3,1.0,,2423000
-williwa02,1996-97,26,Toronto Raptors,NBA,73,36.3,.427,.765,5.0,2.7,1.3,0.8,16.4,14.9,5.4,.098,1.2,2.1,,247500
-williwa02,1997-98,27,Toronto Raptors,NBA,59,24.9,.386,.864,3.4,2.1,1.0,0.6,10.3,13.4,2.2,.071,-1.1,0.3,,3750000
-williwa02,1997-98,27,Toronto Raptors,NBA,28,31.3,.392,.817,4.2,2.5,1.4,0.8,12.4,13.0,0.8,.044,-1.5,0.1,,3750000
-williwa02,1997-98,27,Toronto Raptors,NBA,31,19.2,.378,.908,2.6,1.7,0.6,0.4,8.4,14.0,1.4,.112,-0.4,0.2,,3750000
-williwa02,1998-99,28,Portland Trail Blazers,NBA,48,21.8,.424,.832,3.0,1.7,0.8,0.6,9.3,16.3,3.7,.169,2.8,1.2,,3000000
-williwa02,1999-00,29,Houston Rockets,NBA,76,24.5,.458,.821,4.0,2.1,0.6,0.6,10.9,15.6,4.4,.114,0.8,1.3,,3750000
-williwa02,2000-01,30,Houston Rockets,NBA,72,22.0,.394,.770,3.4,1.3,0.4,0.4,8.3,12.6,3.0,.090,-0.9,0.4,,4250000
-williwa02,2001-02,31,Houston Rockets,NBA,48,23.3,.419,.784,3.4,1.4,0.4,0.2,9.4,13.1,1.7,.073,-1.5,0.1,,5000000
-williwa02,2002-03,32,Dallas Mavericks,NBA,66,17.6,.393,.620,3.1,0.9,0.6,0.4,5.5,11.7,2.5,.103,0.6,0.8,,1030000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+williwa02,1992-93,22,Sacramento Kings,NBA,59,28.4,.435,.742,4.5,3.0,1.1,0.5,17.0,15.0,1.6,.047,-0.1,0.8,,1275000,"Crossland in Temple Hills, Maryland"
+williwa02,1993-94,23,Sacramento Kings,NBA,57,23.8,.390,.635,4.1,2.3,0.9,0.4,11.2,10.4,-0.7,-0.024,-3.3,-0.5,,1658000,"Crossland in Temple Hills, Maryland"
+williwa02,1994-95,24,Sacramento Kings,NBA,77,35.6,.446,.731,4.5,4.1,1.6,0.8,16.4,15.0,5.1,.089,2.5,3.1,,2040000,"Crossland in Temple Hills, Maryland"
+williwa02,1995-96,25,Sacramento Kings,NBA,73,29.7,.444,.703,4.4,3.2,1.2,0.8,13.6,15.8,5.1,.112,2.7,2.6,,2423000,"Crossland in Temple Hills, Maryland"
+williwa02,1995-96,25,Sacramento Kings,NBA,45,30.7,.435,.756,4.6,3.7,1.2,0.9,14.6,16.2,2.9,.101,2.4,1.6,,2423000,"Crossland in Temple Hills, Maryland"
+williwa02,1995-96,25,Sacramento Kings,NBA,28,28.1,.463,.550,4.0,2.3,1.1,0.6,12.0,15.1,2.2,.132,3.3,1.0,,2423000,"Crossland in Temple Hills, Maryland"
+williwa02,1996-97,26,Toronto Raptors,NBA,73,36.3,.427,.765,5.0,2.7,1.3,0.8,16.4,14.9,5.4,.098,1.2,2.1,,247500,"Crossland in Temple Hills, Maryland"
+williwa02,1997-98,27,Toronto Raptors,NBA,59,24.9,.386,.864,3.4,2.1,1.0,0.6,10.3,13.4,2.2,.071,-1.1,0.3,,3750000,"Crossland in Temple Hills, Maryland"
+williwa02,1997-98,27,Toronto Raptors,NBA,28,31.3,.392,.817,4.2,2.5,1.4,0.8,12.4,13.0,0.8,.044,-1.5,0.1,,3750000,"Crossland in Temple Hills, Maryland"
+williwa02,1997-98,27,Toronto Raptors,NBA,31,19.2,.378,.908,2.6,1.7,0.6,0.4,8.4,14.0,1.4,.112,-0.4,0.2,,3750000,"Crossland in Temple Hills, Maryland"
+williwa02,1998-99,28,Portland Trail Blazers,NBA,48,21.8,.424,.832,3.0,1.7,0.8,0.6,9.3,16.3,3.7,.169,2.8,1.2,,3000000,"Crossland in Temple Hills, Maryland"
+williwa02,1999-00,29,Houston Rockets,NBA,76,24.5,.458,.821,4.0,2.1,0.6,0.6,10.9,15.6,4.4,.114,0.8,1.3,,3750000,"Crossland in Temple Hills, Maryland"
+williwa02,2000-01,30,Houston Rockets,NBA,72,22.0,.394,.770,3.4,1.3,0.4,0.4,8.3,12.6,3.0,.090,-0.9,0.4,,4250000,"Crossland in Temple Hills, Maryland"
+williwa02,2001-02,31,Houston Rockets,NBA,48,23.3,.419,.784,3.4,1.4,0.4,0.2,9.4,13.1,1.7,.073,-1.5,0.1,,5000000,"Crossland in Temple Hills, Maryland"
+williwa02,2002-03,32,Dallas Mavericks,NBA,66,17.6,.393,.620,3.1,0.9,0.6,0.4,5.5,11.7,2.5,.103,0.6,0.8,,1030000,"Crossland in Temple Hills, Maryland"

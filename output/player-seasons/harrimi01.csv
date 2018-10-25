@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-harrimi01,2007-08,24,HOU,NBA,17,9.4,.500,.615,3.2,0.2,0.4,0.2,3.6,17.1,0.5,.143,-2.8,0.0,,
-harrimi01,2008-09,25,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,
-harrimi01,2009-10,26,Houston Rockets,NBA,13,7.4,.367,.636,1.8,0.2,0.4,0.1,2.2,7.2,-0.1,-0.037,-7.5,-0.1,,64978
-harrimi01,2009-10,26,Houston Rockets,NBA,8,10.3,.370,.556,2.5,0.4,0.5,0.1,3.1,6.4,-0.1,-0.073,-7.6,-0.1,,64978
-harrimi01,2009-10,26,Houston Rockets,NBA,5,2.8,.333,1.000,0.8,0.0,0.2,0.0,0.8,11.9,0.1,.179,-6.7,0.0,,64978
-harrimi01,2010-11,27,HOU,NBA,4,4.0,.500,.500,1.3,0.3,0.0,0.3,2.0,17.9,0.0,.102,-3.4,0.0,,
-harrimi01,2011-12,28,Did Not Play,,,,,,,,,,,,,,,,,
-harrimi01,2012-13,29,Did Not Play,,,,,,,,,,,,,,,,,
-harrimi01,2013-14,30,UTA,NBA,20,11.3,.475,.963,1.7,0.3,0.8,0.4,4.2,15.3,0.5,.116,-0.7,0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+harrimi01,2007-08,24,HOU,NBA,17,9.4,.500,.615,3.2,0.2,0.4,0.2,3.6,17.1,0.5,.143,-2.8,0.0,,"Hillsboro in Hillsboro, Texas",
+harrimi01,2008-09,25,Did Not Play (other pro league—China),,,,,,,,,,,,,,,,,"Hillsboro in Hillsboro, Texas",
+harrimi01,2009-10,26,Houston Rockets,NBA,13,7.4,.367,.636,1.8,0.2,0.4,0.1,2.2,7.2,-0.1,-0.037,-7.5,-0.1,,"Hillsboro in Hillsboro, Texas",64978
+harrimi01,2009-10,26,Houston Rockets,NBA,8,10.3,.370,.556,2.5,0.4,0.5,0.1,3.1,6.4,-0.1,-0.073,-7.6,-0.1,,"Hillsboro in Hillsboro, Texas",64978
+harrimi01,2009-10,26,Houston Rockets,NBA,5,2.8,.333,1.000,0.8,0.0,0.2,0.0,0.8,11.9,0.1,.179,-6.7,0.0,,"Hillsboro in Hillsboro, Texas",64978
+harrimi01,2010-11,27,HOU,NBA,4,4.0,.500,.500,1.3,0.3,0.0,0.3,2.0,17.9,0.0,.102,-3.4,0.0,,"Hillsboro in Hillsboro, Texas",
+harrimi01,2011-12,28,Did Not Play,,,,,,,,,,,,,,,,,"Hillsboro in Hillsboro, Texas",
+harrimi01,2012-13,29,Did Not Play,,,,,,,,,,,,,,,,,"Hillsboro in Hillsboro, Texas",
+harrimi01,2013-14,30,UTA,NBA,20,11.3,.475,.963,1.7,0.3,0.8,0.4,4.2,15.3,0.5,.116,-0.7,0.1,,"Hillsboro in Hillsboro, Texas",

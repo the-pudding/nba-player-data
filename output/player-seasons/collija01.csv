@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-collija01,1997-98,24,Los Angeles Clippers,NBA,23,4.5,.382,.571,0.6,0.1,0.3,0.1,2.6,15.3,0.0,.008,-5.2,-0.1,,242000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+collija01,1997-98,24,Los Angeles Clippers,NBA,23,4.5,.382,.571,0.6,0.1,0.3,0.1,2.6,15.3,0.0,.008,-5.2,-0.1,,242000,"Jackson in Jacksonville, Florida"

@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-burtowi01,1990-91,22,Miami Heat,NBA,76,25.4,.441,.782,3.4,1.4,0.9,0.3,12.0,11.5,2.1,.052,-2.8,-0.4,,2000000
-burtowi01,1991-92,23,Miami Heat,NBA,68,23.3,.450,.800,3.6,1.8,0.7,0.5,11.2,13.5,2.0,.062,-2.6,-0.2,,1402000
-burtowi01,1992-93,24,Miami Heat,NBA,26,17.3,.383,.717,2.7,0.6,0.5,0.6,7.8,10.3,0.1,.012,-5.4,-0.4,,802000
-burtowi01,1993-94,25,Miami Heat,NBA,53,13.2,.438,.759,2.6,0.7,0.3,0.4,7.0,15.6,1.6,.113,-3.1,-0.2,,1002000
-burtowi01,1994-95,26,Miami Heat,NBA,53,29.5,.401,.824,3.1,1.8,0.6,0.4,15.3,13.9,2.6,.079,-1.2,0.3,,1052000
-burtowi01,1995-96,27,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,,,,,,,,,
-burtowi01,1996-97,28,Atlanta Hawks,NBA,24,15.8,.336,.838,1.7,0.5,0.3,0.1,6.2,8.6,0.5,.060,-5.7,-0.4,,247500
-burtowi01,1997-98,29,SAS,NBA,13,3.3,.381,.667,0.7,0.1,0.2,0.2,2.1,21.4,0.2,.229,-0.1,0.0,,
-burtowi01,1998-99,30,CHH,NBA,3,6.0,.143,.500,2.0,0.0,0.0,0.0,1.3,0.6,-0.1,-0.193,-20.6,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+burtowi01,1990-91,22,Miami Heat,NBA,76,25.4,.441,.782,3.4,1.4,0.9,0.3,12.0,11.5,2.1,.052,-2.8,-0.4,,2000000,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1991-92,23,Miami Heat,NBA,68,23.3,.450,.800,3.6,1.8,0.7,0.5,11.2,13.5,2.0,.062,-2.6,-0.2,,1402000,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1992-93,24,Miami Heat,NBA,26,17.3,.383,.717,2.7,0.6,0.5,0.6,7.8,10.3,0.1,.012,-5.4,-0.4,,802000,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1993-94,25,Miami Heat,NBA,53,13.2,.438,.759,2.6,0.7,0.3,0.4,7.0,15.6,1.6,.113,-3.1,-0.2,,1002000,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1994-95,26,Miami Heat,NBA,53,29.5,.401,.824,3.1,1.8,0.6,0.4,15.3,13.9,2.6,.079,-1.2,0.3,,1052000,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1995-96,27,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,,,,,,,,,,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1996-97,28,Atlanta Hawks,NBA,24,15.8,.336,.838,1.7,0.5,0.3,0.1,6.2,8.6,0.5,.060,-5.7,-0.4,,247500,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1997-98,29,SAS,NBA,13,3.3,.381,.667,0.7,0.1,0.2,0.2,2.1,21.4,0.2,.229,-0.1,0.0,,,"Saint Martin De Porres in Detroit, Michigan"
+burtowi01,1998-99,30,CHH,NBA,3,6.0,.143,.500,2.0,0.0,0.0,0.0,1.3,0.6,-0.1,-0.193,-20.6,-0.1,,,"Saint Martin De Porres in Detroit, Michigan"

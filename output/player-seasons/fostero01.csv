@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-fostero01,1983-84,23,PHO,NBA,80,17.8,.448,.787,1.5,2.2,0.7,0.1,8.3,11.9,1.6,.054,-3.1,-0.4,,
-fostero01,1984-85,24,Phoenix Suns,NBA,79,16.7,.450,.755,1.0,2.4,0.8,0.0,8.8,12.1,0.9,.034,-3.7,-0.6,,125000
-fostero01,1985-86,25,Phoenix Suns,NBA,48,14.7,.390,.719,1.2,2.5,0.5,0.0,4.2,6.6,-0.3,-0.020,-6.8,-0.8,,137000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+fostero01,1983-84,23,PHO,NBA,80,17.8,.448,.787,1.5,2.2,0.7,0.1,8.3,11.9,1.6,.054,-3.1,-0.4,,"Saint Thomas Aquinas in New Britain, Connecticut",
+fostero01,1984-85,24,Phoenix Suns,NBA,79,16.7,.450,.755,1.0,2.4,0.8,0.0,8.8,12.1,0.9,.034,-3.7,-0.6,,"Saint Thomas Aquinas in New Britain, Connecticut",125000
+fostero01,1985-86,25,Phoenix Suns,NBA,48,14.7,.390,.719,1.2,2.5,0.5,0.0,4.2,6.6,-0.3,-0.020,-6.8,-0.8,,"Saint Thomas Aquinas in New Britain, Connecticut",137000

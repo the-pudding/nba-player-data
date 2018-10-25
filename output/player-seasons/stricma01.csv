@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-stricma01,1994-95,24,IND,NBA,4,2.3,.333,.500,1.0,0.0,0.0,0.3,0.8,13.8,0.0,-0.024,-14.0,0.0,,
-stricma01,1995-96,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
-stricma01,1996-97,26,Miami Heat,NBA,31,4.9,.417,.571,1.2,0.0,0.1,0.3,2.0,11.1,0.0,-0.003,-9.5,-0.3,,247500
-stricma01,1997-98,27,Miami Heat,NBA,51,16.6,.539,.720,4.2,0.5,0.4,0.7,6.8,17.4,2.8,.157,-0.5,0.3,,272250
-stricma01,1998-99,28,Miami Heat,NBA,32,11.2,.495,.731,2.4,0.3,0.2,0.3,3.7,14.7,1.0,.136,-2.4,0.0,,2100000
-stricma01,1999-00,29,Miami Heat,NBA,58,11.4,.545,.714,2.4,0.4,0.3,0.3,4.9,17.2,2.2,.161,-1.6,0.1,,2302400
-stricma01,2000-01,30,Denver Nuggets,NBA,55,13.1,.431,.643,2.9,0.4,0.3,0.4,4.6,11.9,0.6,.037,-5.3,-0.6,,2400000
-stricma01,2000-01,30,Denver Nuggets,NBA,46,11.2,.443,.627,2.6,0.4,0.3,0.4,4.4,13.3,0.6,.054,-4.9,-0.4,,2400000
-stricma01,2000-01,30,Denver Nuggets,NBA,9,22.4,.389,.727,4.6,0.8,0.4,0.3,5.7,8.2,0.0,-0.006,-6.4,-0.2,,2400000
-stricma01,2001-02,31,Atlanta Hawks,NBA,46,14.2,.446,.568,2.8,0.4,0.4,0.4,4.5,11.4,0.5,.034,-4.7,-0.4,,715850
-stricma01,2002-03,32,Dallas Mavericks,NBA,4,3.3,.400,,1.8,0.0,0.0,0.0,1.0,16.3,0.0,.101,-12.4,0.0,,60361
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+stricma01,1994-95,24,IND,NBA,4,2.3,.333,.500,1.0,0.0,0.0,0.3,0.8,13.8,0.0,-0.024,-14.0,0.0,,"McNair in Atlanta, Georgia",
+stricma01,1995-96,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"McNair in Atlanta, Georgia",
+stricma01,1996-97,26,Miami Heat,NBA,31,4.9,.417,.571,1.2,0.0,0.1,0.3,2.0,11.1,0.0,-0.003,-9.5,-0.3,,"McNair in Atlanta, Georgia",247500
+stricma01,1997-98,27,Miami Heat,NBA,51,16.6,.539,.720,4.2,0.5,0.4,0.7,6.8,17.4,2.8,.157,-0.5,0.3,,"McNair in Atlanta, Georgia",272250
+stricma01,1998-99,28,Miami Heat,NBA,32,11.2,.495,.731,2.4,0.3,0.2,0.3,3.7,14.7,1.0,.136,-2.4,0.0,,"McNair in Atlanta, Georgia",2100000
+stricma01,1999-00,29,Miami Heat,NBA,58,11.4,.545,.714,2.4,0.4,0.3,0.3,4.9,17.2,2.2,.161,-1.6,0.1,,"McNair in Atlanta, Georgia",2302400
+stricma01,2000-01,30,Denver Nuggets,NBA,55,13.1,.431,.643,2.9,0.4,0.3,0.4,4.6,11.9,0.6,.037,-5.3,-0.6,,"McNair in Atlanta, Georgia",2400000
+stricma01,2000-01,30,Denver Nuggets,NBA,46,11.2,.443,.627,2.6,0.4,0.3,0.4,4.4,13.3,0.6,.054,-4.9,-0.4,,"McNair in Atlanta, Georgia",2400000
+stricma01,2000-01,30,Denver Nuggets,NBA,9,22.4,.389,.727,4.6,0.8,0.4,0.3,5.7,8.2,0.0,-0.006,-6.4,-0.2,,"McNair in Atlanta, Georgia",2400000
+stricma01,2001-02,31,Atlanta Hawks,NBA,46,14.2,.446,.568,2.8,0.4,0.4,0.4,4.5,11.4,0.5,.034,-4.7,-0.4,,"McNair in Atlanta, Georgia",715850
+stricma01,2002-03,32,Dallas Mavericks,NBA,4,3.3,.400,,1.8,0.0,0.0,0.0,1.0,16.3,0.0,.101,-12.4,0.0,,"McNair in Atlanta, Georgia",60361

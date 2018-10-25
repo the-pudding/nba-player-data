@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-tayloma01,1997-98,21,Los Angeles Clippers,NBA,71,21.3,.476,.709,4.2,0.7,0.5,0.6,11.5,16.1,1.8,.057,-4.6,-1.0,,1051800
-tayloma01,1998-99,22,Los Angeles Clippers,NBA,46,32.7,.461,.728,5.3,1.5,0.3,0.6,16.8,15.2,0.7,.024,-3.7,-0.6,,1209000
-tayloma01,1999-00,23,Los Angeles Clippers,NBA,62,35.9,.464,.711,6.5,1.6,0.8,0.8,17.1,13.4,-0.3,-0.007,-4.5,-1.4,,1367400
-tayloma01,2000-01,24,Houston Rockets,NBA,69,28.6,.489,.735,5.5,1.5,0.4,0.6,13.0,14.9,3.2,.077,-2.2,-0.1,,2250000
-tayloma01,2001-02,25,Houston Rockets,NBA,,,,,,,,,,,,,,,,6500000
-tayloma01,2002-03,26,Houston Rockets,NBA,67,20.6,.432,.725,3.6,1.0,0.3,0.3,8.4,11.5,0.9,.030,-4.8,-1.0,,7150000
-tayloma01,2003-04,27,Houston Rockets,NBA,75,27.7,.480,.736,5.1,1.4,0.6,0.6,11.5,13.6,3.7,.085,-1.7,0.1,,7800000
-tayloma01,2004-05,28,Houston Rockets,NBA,65,20.6,.455,.612,4.0,1.0,0.4,0.3,7.3,9.4,0.5,.020,-4.3,-0.8,,8450000
-tayloma01,2004-05,28,Houston Rockets,NBA,38,23.8,.435,.650,4.3,1.4,0.4,0.3,7.8,8.2,0.3,.018,-3.8,-0.4,,8450000
-tayloma01,2004-05,28,Houston Rockets,NBA,27,16.0,.494,.558,3.4,0.5,0.4,0.3,6.5,12.1,0.2,.022,-5.4,-0.4,,8450000
-tayloma01,2005-06,29,New York Knicks,NBA,67,18.1,.468,.699,3.4,0.8,0.3,0.2,6.3,8.5,-0.5,-0.021,-5.4,-1.0,,9100000
-tayloma01,2006-07,30,New York Knicks,NBA,12,8.6,.286,.615,2.3,0.4,0.3,0.1,2.0,6.3,-0.1,-0.030,-6.8,-0.1,,7500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+tayloma01,1997-98,21,Los Angeles Clippers,NBA,71,21.3,.476,.709,4.2,0.7,0.5,0.6,11.5,16.1,1.8,.057,-4.6,-1.0,,1051800,"Henry Ford in Detroit, Michigan"
+tayloma01,1998-99,22,Los Angeles Clippers,NBA,46,32.7,.461,.728,5.3,1.5,0.3,0.6,16.8,15.2,0.7,.024,-3.7,-0.6,,1209000,"Henry Ford in Detroit, Michigan"
+tayloma01,1999-00,23,Los Angeles Clippers,NBA,62,35.9,.464,.711,6.5,1.6,0.8,0.8,17.1,13.4,-0.3,-0.007,-4.5,-1.4,,1367400,"Henry Ford in Detroit, Michigan"
+tayloma01,2000-01,24,Houston Rockets,NBA,69,28.6,.489,.735,5.5,1.5,0.4,0.6,13.0,14.9,3.2,.077,-2.2,-0.1,,2250000,"Henry Ford in Detroit, Michigan"
+tayloma01,2001-02,25,Houston Rockets,NBA,,,,,,,,,,,,,,,,6500000,"Henry Ford in Detroit, Michigan"
+tayloma01,2002-03,26,Houston Rockets,NBA,67,20.6,.432,.725,3.6,1.0,0.3,0.3,8.4,11.5,0.9,.030,-4.8,-1.0,,7150000,"Henry Ford in Detroit, Michigan"
+tayloma01,2003-04,27,Houston Rockets,NBA,75,27.7,.480,.736,5.1,1.4,0.6,0.6,11.5,13.6,3.7,.085,-1.7,0.1,,7800000,"Henry Ford in Detroit, Michigan"
+tayloma01,2004-05,28,Houston Rockets,NBA,65,20.6,.455,.612,4.0,1.0,0.4,0.3,7.3,9.4,0.5,.020,-4.3,-0.8,,8450000,"Henry Ford in Detroit, Michigan"
+tayloma01,2004-05,28,Houston Rockets,NBA,38,23.8,.435,.650,4.3,1.4,0.4,0.3,7.8,8.2,0.3,.018,-3.8,-0.4,,8450000,"Henry Ford in Detroit, Michigan"
+tayloma01,2004-05,28,Houston Rockets,NBA,27,16.0,.494,.558,3.4,0.5,0.4,0.3,6.5,12.1,0.2,.022,-5.4,-0.4,,8450000,"Henry Ford in Detroit, Michigan"
+tayloma01,2005-06,29,New York Knicks,NBA,67,18.1,.468,.699,3.4,0.8,0.3,0.2,6.3,8.5,-0.5,-0.021,-5.4,-1.0,,9100000,"Henry Ford in Detroit, Michigan"
+tayloma01,2006-07,30,New York Knicks,NBA,12,8.6,.286,.615,2.3,0.4,0.3,0.1,2.0,6.3,-0.1,-0.030,-6.8,-0.1,,7500000,"Henry Ford in Detroit, Michigan"

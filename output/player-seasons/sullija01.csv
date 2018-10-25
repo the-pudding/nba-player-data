@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-sullija01,2012-13,20,Boston Celtics,NBA,45,19.8,.493,.746,5.9,0.8,0.5,0.5,6.0,13.5,2.7,.146,-0.6,0.3,,1306920
-sullija01,2013-14,21,Boston Celtics,NBA,74,27.6,.427,.778,8.1,1.6,0.5,0.7,13.3,16.4,3.9,.091,-0.3,0.9,,1365720
-sullija01,2014-15,22,Boston Celtics,NBA,58,27.0,.439,.744,7.6,2.3,0.8,0.7,13.3,17.9,4.0,.123,2.0,1.6,,1424520
-sullija01,2015-16,23,Boston Celtics,NBA,81,23.6,.435,.640,8.3,2.3,0.9,0.6,10.3,16.7,4.8,.121,1.1,1.5,,2269260
-sullija01,2016-17,24,Phoenix Suns,NBA,11,10.7,.319,.500,2.5,0.3,0.4,0.1,3.4,6.0,-0.1,-0.031,-7.5,-0.2,,5628000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+sullija01,2012-13,20,Boston Celtics,NBA,45,19.8,.493,.746,5.9,0.8,0.5,0.5,6.0,13.5,2.7,.146,-0.6,0.3,,1306920,"Northland in Columbus, Ohio"
+sullija01,2013-14,21,Boston Celtics,NBA,74,27.6,.427,.778,8.1,1.6,0.5,0.7,13.3,16.4,3.9,.091,-0.3,0.9,,1365720,"Northland in Columbus, Ohio"
+sullija01,2014-15,22,Boston Celtics,NBA,58,27.0,.439,.744,7.6,2.3,0.8,0.7,13.3,17.9,4.0,.123,2.0,1.6,,1424520,"Northland in Columbus, Ohio"
+sullija01,2015-16,23,Boston Celtics,NBA,81,23.6,.435,.640,8.3,2.3,0.9,0.6,10.3,16.7,4.8,.121,1.1,1.5,,2269260,"Northland in Columbus, Ohio"
+sullija01,2016-17,24,Phoenix Suns,NBA,11,10.7,.319,.500,2.5,0.3,0.4,0.1,3.4,6.0,-0.1,-0.031,-7.5,-0.2,,5628000,"Northland in Columbus, Ohio"

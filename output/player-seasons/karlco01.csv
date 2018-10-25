@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-karlco01,2007-08,24,Los Angeles Lakers,NBA,17,4.2,.346,.800,0.8,0.5,0.2,0.1,1.8,15.8,0.2,.106,-0.1,0.0,,427163
-karlco01,2008-09,25,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,
-karlco01,2009-10,26,Cleveland Cavaliers,NBA,7,16.1,.344,.667,2.6,2.1,0.4,0.1,4.0,5.1,-0.2,-0.076,-7.1,-0.1,,311896
-karlco01,2009-10,26,Cleveland Cavaliers,NBA,3,1.7,,,0.7,0.0,0.0,0.0,0.0,-38.1,-0.1,-1.112,-46.2,-0.1,,311896
-karlco01,2009-10,26,Cleveland Cavaliers,NBA,4,27.0,.344,.667,4.0,3.8,0.8,0.3,7.0,7.1,-0.1,-0.028,-5.3,-0.1,,311896
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+karlco01,2007-08,24,Los Angeles Lakers,NBA,17,4.2,.346,.800,0.8,0.5,0.2,0.1,1.8,15.8,0.2,.106,-0.1,0.0,,427163,"Homestead in Mequon, Wisconsin"
+karlco01,2008-09,25,Did Not Play (other pro league—D-League),,,,,,,,,,,,,,,,,,"Homestead in Mequon, Wisconsin"
+karlco01,2009-10,26,Cleveland Cavaliers,NBA,7,16.1,.344,.667,2.6,2.1,0.4,0.1,4.0,5.1,-0.2,-0.076,-7.1,-0.1,,311896,"Homestead in Mequon, Wisconsin"
+karlco01,2009-10,26,Cleveland Cavaliers,NBA,3,1.7,,,0.7,0.0,0.0,0.0,0.0,-38.1,-0.1,-1.112,-46.2,-0.1,,311896,"Homestead in Mequon, Wisconsin"
+karlco01,2009-10,26,Cleveland Cavaliers,NBA,4,27.0,.344,.667,4.0,3.8,0.8,0.3,7.0,7.1,-0.1,-0.028,-5.3,-0.1,,311896,"Homestead in Mequon, Wisconsin"

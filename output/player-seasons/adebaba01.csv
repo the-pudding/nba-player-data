@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-adebaba01,2017-18,20,Miami Heat,NBA,69,19.8,.512,.721,5.5,1.5,0.5,0.6,6.9,15.7,4.2,.148,0.2,0.8,,2490360
-adebaba01,2018-19,21,MIA,NBA,4,19.0,.409,.688,6.8,1.3,0.5,0.5,7.3,13.0,0.2,.111,0.1,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+adebaba01,2017-18,20,Miami Heat,NBA,69,19.8,.512,.721,5.5,1.5,0.5,0.6,6.9,15.7,4.2,.148,0.2,0.8,,2490360,"High Point Christian Academy in High Point, North Carolina"
+adebaba01,2018-19,21,MIA,NBA,4,19.0,.409,.688,6.8,1.3,0.5,0.5,7.3,13.0,0.2,.111,0.1,0.0,,,"High Point Christian Academy in High Point, North Carolina"

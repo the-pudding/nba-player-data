@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-josepco01,2011-12,20,San Antonio Spurs,NBA,29,9.2,.314,.647,0.9,1.2,0.2,0.1,2.0,6.9,0.0,.001,-4.8,-0.2,,1028400
-josepco01,2012-13,21,San Antonio Spurs,NBA,28,13.9,.464,.857,1.9,1.9,0.5,0.1,4.5,13.5,0.9,.113,-0.5,0.1,,1105560
-josepco01,2013-14,22,San Antonio Spurs,NBA,68,13.8,.475,.823,1.6,1.7,0.5,0.2,5.0,14.7,2.9,.148,0.6,0.6,,1120920
-josepco01,2014-15,23,San Antonio Spurs,NBA,79,18.3,.504,.734,2.4,2.4,0.6,0.2,6.8,15.5,4.5,.149,0.7,1.0,,2023261
-josepco01,2015-16,24,Toronto Raptors,NBA,80,25.6,.439,.764,2.6,3.1,0.8,0.3,8.5,12.4,3.5,.082,-1.0,0.5,,7000000
-josepco01,2016-17,25,Toronto Raptors,NBA,80,25.0,.452,.770,2.9,3.3,0.8,0.2,9.3,13.2,3.4,.082,-0.8,0.6,,7330000
-josepco01,2017-18,26,Indiana Pacers,NBA,82,27.0,.424,.745,3.2,3.2,1.0,0.2,7.9,11.0,3.1,.068,-1.2,0.5,,7630000
-josepco01,2018-19,27,IND,NBA,5,24.4,.545,.500,3.8,3.6,1.0,0.4,9.0,15.9,0.4,.177,4.2,0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+josepco01,2011-12,20,San Antonio Spurs,NBA,29,9.2,.314,.647,0.9,1.2,0.2,0.1,2.0,6.9,0.0,.001,-4.8,-0.2,,1028400,"Findlay College Prep in Henderson, Nevada"
+josepco01,2012-13,21,San Antonio Spurs,NBA,28,13.9,.464,.857,1.9,1.9,0.5,0.1,4.5,13.5,0.9,.113,-0.5,0.1,,1105560,"Findlay College Prep in Henderson, Nevada"
+josepco01,2013-14,22,San Antonio Spurs,NBA,68,13.8,.475,.823,1.6,1.7,0.5,0.2,5.0,14.7,2.9,.148,0.6,0.6,,1120920,"Findlay College Prep in Henderson, Nevada"
+josepco01,2014-15,23,San Antonio Spurs,NBA,79,18.3,.504,.734,2.4,2.4,0.6,0.2,6.8,15.5,4.5,.149,0.7,1.0,,2023261,"Findlay College Prep in Henderson, Nevada"
+josepco01,2015-16,24,Toronto Raptors,NBA,80,25.6,.439,.764,2.6,3.1,0.8,0.3,8.5,12.4,3.5,.082,-1.0,0.5,,7000000,"Findlay College Prep in Henderson, Nevada"
+josepco01,2016-17,25,Toronto Raptors,NBA,80,25.0,.452,.770,2.9,3.3,0.8,0.2,9.3,13.2,3.4,.082,-0.8,0.6,,7330000,"Findlay College Prep in Henderson, Nevada"
+josepco01,2017-18,26,Indiana Pacers,NBA,82,27.0,.424,.745,3.2,3.2,1.0,0.2,7.9,11.0,3.1,.068,-1.2,0.5,,7630000,"Findlay College Prep in Henderson, Nevada"
+josepco01,2018-19,27,IND,NBA,5,24.4,.545,.500,3.8,3.6,1.0,0.4,9.0,15.9,0.4,.177,4.2,0.2,,,"Findlay College Prep in Henderson, Nevada"

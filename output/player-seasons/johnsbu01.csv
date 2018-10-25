@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-johnsbu01,1986-87,23,HOU,NBA,60,8.7,.468,.690,1.5,0.7,0.3,0.3,3.8,11.8,0.7,.068,-2.9,-0.1,,
-johnsbu01,1987-88,24,Houston Rockets,NBA,70,12.6,.520,.736,2.4,0.7,0.4,0.4,5.4,13.9,2.1,.116,-0.3,0.4,,195000
-johnsbu01,1988-89,25,Houston Rockets,NBA,67,27.6,.524,.754,4.3,1.9,1.0,0.5,9.6,11.4,3.6,.094,0.5,1.1,,220000
-johnsbu01,1989-90,26,HOU,NBA,82,34.5,.495,.759,4.6,3.1,1.3,0.8,14.8,12.9,6.2,.104,0.5,1.8,,
-johnsbu01,1990-91,27,Houston Rockets,NBA,73,31.2,.477,.727,4.5,1.9,1.1,0.6,13.6,12.9,4.6,.097,-0.5,0.9,,675000
-johnsbu01,1991-92,28,Houston Rockets,NBA,80,27.5,.458,.727,3.9,2.0,0.9,0.6,8.6,10.0,2.3,.050,-1.8,0.1,,775000
-johnsbu01,1992-93,29,Washington Bullets,NBA,73,17.6,.479,.730,2.7,1.2,0.5,0.2,6.5,10.7,1.2,.046,-3.4,-0.4,,550000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+johnsbu01,1986-87,23,HOU,NBA,60,8.7,.468,.690,1.5,0.7,0.3,0.3,3.8,11.8,0.7,.068,-2.9,-0.1,,"Hayes in Birmingham, Alabama",
+johnsbu01,1987-88,24,Houston Rockets,NBA,70,12.6,.520,.736,2.4,0.7,0.4,0.4,5.4,13.9,2.1,.116,-0.3,0.4,,"Hayes in Birmingham, Alabama",195000
+johnsbu01,1988-89,25,Houston Rockets,NBA,67,27.6,.524,.754,4.3,1.9,1.0,0.5,9.6,11.4,3.6,.094,0.5,1.1,,"Hayes in Birmingham, Alabama",220000
+johnsbu01,1989-90,26,HOU,NBA,82,34.5,.495,.759,4.6,3.1,1.3,0.8,14.8,12.9,6.2,.104,0.5,1.8,,"Hayes in Birmingham, Alabama",
+johnsbu01,1990-91,27,Houston Rockets,NBA,73,31.2,.477,.727,4.5,1.9,1.1,0.6,13.6,12.9,4.6,.097,-0.5,0.9,,"Hayes in Birmingham, Alabama",675000
+johnsbu01,1991-92,28,Houston Rockets,NBA,80,27.5,.458,.727,3.9,2.0,0.9,0.6,8.6,10.0,2.3,.050,-1.8,0.1,,"Hayes in Birmingham, Alabama",775000
+johnsbu01,1992-93,29,Washington Bullets,NBA,73,17.6,.479,.730,2.7,1.2,0.5,0.2,6.5,10.7,1.2,.046,-3.4,-0.4,,"Hayes in Birmingham, Alabama",550000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-perovko01,2007-08,22,Golden State Warriors,NBA,7,5.4,.300,.667,1.9,0.1,0.0,0.3,1.4,10.3,0.0,.060,-6.7,0.0,,1800000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+perovko01,2007-08,22,Golden State Warriors,NBA,7,5.4,.300,.667,1.9,0.1,0.0,0.3,1.4,10.3,0.0,.060,-6.7,0.0,,1800000,

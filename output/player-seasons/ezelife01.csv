@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-ezelife01,2012-13,23,Golden State Warriors,NBA,78,14.4,.438,.531,4.0,0.3,0.3,0.9,2.4,9.3,1.5,.066,-1.4,0.2,,1020960
-ezelife01,2013-14,24,Golden State Warriors,NBA,,,,,,,,,,,,,,,,1066920
-ezelife01,2014-15,25,Golden State Warriors,NBA,46,11.0,.547,.628,3.4,0.2,0.2,0.9,4.4,16.2,1.7,.159,-1.8,0.0,,1112880
-ezelife01,2015-16,26,Golden State Warriors,NBA,46,16.7,.548,.530,5.6,0.7,0.4,1.1,7.0,17.7,2.7,.171,-0.1,0.4,,2008748
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+ezelife01,2012-13,23,Golden State Warriors,NBA,78,14.4,.438,.531,4.0,0.3,0.3,0.9,2.4,9.3,1.5,.066,-1.4,0.2,,1020960,"Jesuit in Sacramento, California"
+ezelife01,2013-14,24,Golden State Warriors,NBA,,,,,,,,,,,,,,,,1066920,"Jesuit in Sacramento, California"
+ezelife01,2014-15,25,Golden State Warriors,NBA,46,11.0,.547,.628,3.4,0.2,0.2,0.9,4.4,16.2,1.7,.159,-1.8,0.0,,1112880,"Jesuit in Sacramento, California"
+ezelife01,2015-16,26,Golden State Warriors,NBA,46,16.7,.548,.530,5.6,0.7,0.4,1.1,7.0,17.7,2.7,.171,-0.1,0.4,,2008748,"Jesuit in Sacramento, California"

@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-crabbal01,2013-14,21,POR,NBA,15,6.7,.364,.750,0.6,0.4,0.1,0.1,2.2,7.7,0.1,.037,-4.7,-0.1,,
-crabbal01,2014-15,22,Portland Trail Blazers,NBA,51,13.4,.412,.750,1.4,0.8,0.4,0.3,3.3,8.7,1.3,.088,-0.3,0.3,,862000
-crabbal01,2015-16,23,Portland Trail Blazers,NBA,81,26.0,.459,.867,2.7,1.2,0.8,0.2,10.3,12.2,4.3,.098,-0.7,0.7,,947276
-crabbal01,2016-17,24,Portland Trail Blazers,NBA,79,28.5,.468,.847,2.9,1.2,0.7,0.3,10.7,11.6,4.2,.089,-1.0,0.6,,18500000
-crabbal01,2017-18,25,Brooklyn Nets,NBA,75,29.3,.407,.852,4.3,1.6,0.6,0.5,13.2,12.3,3.2,.070,-0.8,0.7,,19332500
-crabbal01,2018-19,26,BRK,NBA,3,20.7,.200,.800,2.7,0.7,0.0,0.3,5.0,-3.5,-0.2,-0.170,-11.6,-0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+crabbal01,2013-14,21,POR,NBA,15,6.7,.364,.750,0.6,0.4,0.1,0.1,2.2,7.7,0.1,.037,-4.7,-0.1,,"Price in Los Angeles, California",
+crabbal01,2014-15,22,Portland Trail Blazers,NBA,51,13.4,.412,.750,1.4,0.8,0.4,0.3,3.3,8.7,1.3,.088,-0.3,0.3,,"Price in Los Angeles, California",862000
+crabbal01,2015-16,23,Portland Trail Blazers,NBA,81,26.0,.459,.867,2.7,1.2,0.8,0.2,10.3,12.2,4.3,.098,-0.7,0.7,,"Price in Los Angeles, California",947276
+crabbal01,2016-17,24,Portland Trail Blazers,NBA,79,28.5,.468,.847,2.9,1.2,0.7,0.3,10.7,11.6,4.2,.089,-1.0,0.6,,"Price in Los Angeles, California",18500000
+crabbal01,2017-18,25,Brooklyn Nets,NBA,75,29.3,.407,.852,4.3,1.6,0.6,0.5,13.2,12.3,3.2,.070,-0.8,0.7,,"Price in Los Angeles, California",19332500
+crabbal01,2018-19,26,BRK,NBA,3,20.7,.200,.800,2.7,0.7,0.0,0.3,5.0,-3.5,-0.2,-0.170,-11.6,-0.2,,"Price in Los Angeles, California",

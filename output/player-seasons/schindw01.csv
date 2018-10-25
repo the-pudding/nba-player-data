@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-schindw01,1990-91,22,San Antonio Spurs,NBA,42,9.5,.439,.550,2.9,0.4,0.0,0.7,3.8,10.1,0.2,.027,-6.2,-0.4,,520000
-schindw01,1991-92,23,Sacramento Kings,NBA,33,12.1,.427,.833,3.6,0.6,0.2,0.8,3.3,10.6,0.4,.045,-3.8,-0.2,,650000
-schindw01,1992-93,24,New Jersey Nets,NBA,5,7.0,.286,1.000,1.6,0.4,0.4,0.4,1.4,12.5,0.1,.149,0.5,0.0,,140000
-schindw01,1993-94,25,New Jersey Nets,NBA,30,10.6,.345,.588,3.0,0.4,0.2,0.6,2.3,7.8,0.2,.029,-4.4,-0.2,,921000
-schindw01,1994-95,26,New Jersey Nets,NBA,43,7.4,.380,.545,1.9,0.3,0.1,0.4,2.0,8.2,-0.1,-0.012,-6.3,-0.3,,1197000
-schindw01,1995-96,27,Indiana Pacers,NBA,33,9.0,.445,.619,2.4,0.4,0.3,0.4,3.4,11.9,0.3,.054,-3.2,-0.1,,225000
-schindw01,1996-97,28,Los Angeles Clippers,NBA,15,7.7,.361,.875,1.5,0.3,0.1,0.6,2.3,8.1,0.0,.002,-5.3,-0.1,,625000
-schindw01,1997-98,29,Did Not Play (injury),,,,,,,,,,,,,,,,,
-schindw01,1998-99,30,Boston Celtics,NBA,16,4.2,.250,.750,1.2,0.5,0.0,0.2,0.7,0.7,-0.2,-0.138,-9.0,-0.1,,662500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+schindw01,1990-91,22,San Antonio Spurs,NBA,42,9.5,.439,.550,2.9,0.4,0.0,0.7,3.8,10.1,0.2,.027,-6.2,-0.4,,520000,"Brandon in Brandon, Florida"
+schindw01,1991-92,23,Sacramento Kings,NBA,33,12.1,.427,.833,3.6,0.6,0.2,0.8,3.3,10.6,0.4,.045,-3.8,-0.2,,650000,"Brandon in Brandon, Florida"
+schindw01,1992-93,24,New Jersey Nets,NBA,5,7.0,.286,1.000,1.6,0.4,0.4,0.4,1.4,12.5,0.1,.149,0.5,0.0,,140000,"Brandon in Brandon, Florida"
+schindw01,1993-94,25,New Jersey Nets,NBA,30,10.6,.345,.588,3.0,0.4,0.2,0.6,2.3,7.8,0.2,.029,-4.4,-0.2,,921000,"Brandon in Brandon, Florida"
+schindw01,1994-95,26,New Jersey Nets,NBA,43,7.4,.380,.545,1.9,0.3,0.1,0.4,2.0,8.2,-0.1,-0.012,-6.3,-0.3,,1197000,"Brandon in Brandon, Florida"
+schindw01,1995-96,27,Indiana Pacers,NBA,33,9.0,.445,.619,2.4,0.4,0.3,0.4,3.4,11.9,0.3,.054,-3.2,-0.1,,225000,"Brandon in Brandon, Florida"
+schindw01,1996-97,28,Los Angeles Clippers,NBA,15,7.7,.361,.875,1.5,0.3,0.1,0.6,2.3,8.1,0.0,.002,-5.3,-0.1,,625000,"Brandon in Brandon, Florida"
+schindw01,1997-98,29,Did Not Play (injury),,,,,,,,,,,,,,,,,,"Brandon in Brandon, Florida"
+schindw01,1998-99,30,Boston Celtics,NBA,16,4.2,.250,.750,1.2,0.5,0.0,0.2,0.7,0.7,-0.2,-0.138,-9.0,-0.1,,662500,"Brandon in Brandon, Florida"

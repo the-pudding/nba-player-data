@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-willish02,2006-07,23,Atlanta Hawks,NBA,81,18.7,.455,.764,5.4,0.5,0.6,0.5,5.5,12.3,2.2,.070,-3.6,-0.6,,2952840
-willish02,2007-08,24,Sacramento Kings,NBA,64,12.1,.434,.676,3.2,0.3,0.3,0.3,4.0,11.9,1.2,.072,-5.0,-0.6,,3174240
-willish02,2007-08,24,Sacramento Kings,NBA,36,11.5,.370,.686,3.0,0.3,0.4,0.3,3.0,9.8,0.5,.060,-5.1,-0.3,,3174240
-willish02,2007-08,24,Sacramento Kings,NBA,28,12.9,.491,.667,3.5,0.3,0.3,0.4,5.2,14.2,0.7,.087,-4.9,-0.3,,3174240
-willish02,2008-09,25,Minnesota Timberwolves,NBA,45,11.4,.446,.730,3.4,0.3,0.5,0.4,4.1,13.7,0.5,.048,-5.4,-0.4,,3395760
-willish02,2008-09,25,Minnesota Timberwolves,NBA,30,10.2,.449,.762,2.6,0.3,0.4,0.3,3.7,12.2,0.1,.014,-6.5,-0.3,,3395760
-willish02,2008-09,25,Minnesota Timberwolves,NBA,15,13.8,.441,.667,5.0,0.3,0.7,0.5,4.9,16.0,0.4,.098,-3.7,-0.1,,3395760
-willish02,2009-10,26,Boston Celtics,NBA,54,11.1,.521,.765,2.7,0.4,0.2,0.4,3.7,14.1,2.0,.162,-1.1,0.1,,825497
-willish02,2010-11,27,New York Knicks,NBA,59,15.4,.468,.773,4.6,0.5,0.4,0.4,4.5,12.3,1.9,.102,-1.9,0.0,,915852
-willish02,2010-11,27,New York Knicks,NBA,42,17.0,.453,.739,5.3,0.5,0.4,0.5,4.7,11.3,1.2,.078,-2.5,-0.1,,915852
-willish02,2010-11,27,New York Knicks,NBA,17,11.6,.538,.828,2.9,0.8,0.3,0.2,3.9,15.9,0.8,.188,0.3,0.1,,915852
-willish02,2011-12,28,New Jersey Nets,NBA,58,22.0,.478,.731,6.0,0.6,0.8,0.7,4.6,11.9,2.1,.078,-1.1,0.3,,992680
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+willish02,2006-07,23,Atlanta Hawks,NBA,81,18.7,.455,.764,5.4,0.5,0.6,0.5,5.5,12.3,2.2,.070,-3.6,-0.6,,2952840,"Midwest City in Midwest City, Oklahoma"
+willish02,2007-08,24,Sacramento Kings,NBA,64,12.1,.434,.676,3.2,0.3,0.3,0.3,4.0,11.9,1.2,.072,-5.0,-0.6,,3174240,"Midwest City in Midwest City, Oklahoma"
+willish02,2007-08,24,Sacramento Kings,NBA,36,11.5,.370,.686,3.0,0.3,0.4,0.3,3.0,9.8,0.5,.060,-5.1,-0.3,,3174240,"Midwest City in Midwest City, Oklahoma"
+willish02,2007-08,24,Sacramento Kings,NBA,28,12.9,.491,.667,3.5,0.3,0.3,0.4,5.2,14.2,0.7,.087,-4.9,-0.3,,3174240,"Midwest City in Midwest City, Oklahoma"
+willish02,2008-09,25,Minnesota Timberwolves,NBA,45,11.4,.446,.730,3.4,0.3,0.5,0.4,4.1,13.7,0.5,.048,-5.4,-0.4,,3395760,"Midwest City in Midwest City, Oklahoma"
+willish02,2008-09,25,Minnesota Timberwolves,NBA,30,10.2,.449,.762,2.6,0.3,0.4,0.3,3.7,12.2,0.1,.014,-6.5,-0.3,,3395760,"Midwest City in Midwest City, Oklahoma"
+willish02,2008-09,25,Minnesota Timberwolves,NBA,15,13.8,.441,.667,5.0,0.3,0.7,0.5,4.9,16.0,0.4,.098,-3.7,-0.1,,3395760,"Midwest City in Midwest City, Oklahoma"
+willish02,2009-10,26,Boston Celtics,NBA,54,11.1,.521,.765,2.7,0.4,0.2,0.4,3.7,14.1,2.0,.162,-1.1,0.1,,825497,"Midwest City in Midwest City, Oklahoma"
+willish02,2010-11,27,New York Knicks,NBA,59,15.4,.468,.773,4.6,0.5,0.4,0.4,4.5,12.3,1.9,.102,-1.9,0.0,,915852,"Midwest City in Midwest City, Oklahoma"
+willish02,2010-11,27,New York Knicks,NBA,42,17.0,.453,.739,5.3,0.5,0.4,0.5,4.7,11.3,1.2,.078,-2.5,-0.1,,915852,"Midwest City in Midwest City, Oklahoma"
+willish02,2010-11,27,New York Knicks,NBA,17,11.6,.538,.828,2.9,0.8,0.3,0.2,3.9,15.9,0.8,.188,0.3,0.1,,915852,"Midwest City in Midwest City, Oklahoma"
+willish02,2011-12,28,New Jersey Nets,NBA,58,22.0,.478,.731,6.0,0.6,0.8,0.7,4.6,11.9,2.1,.078,-1.1,0.3,,992680,"Midwest City in Midwest City, Oklahoma"

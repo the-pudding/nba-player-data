@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-wallajo01,1996-97,22,New York Knicks,NBA,68,11.6,.517,.718,2.3,0.5,0.3,0.4,4.8,13.0,1.6,.095,-2.4,-0.1,,785000
-wallajo01,1997-98,23,Toronto Raptors,NBA,82,28.8,.478,.717,4.5,1.3,0.8,1.2,14.0,14.8,1.5,.031,-4.3,-1.4,,903120
-wallajo01,1998-99,24,Toronto Raptors,NBA,48,16.9,.432,.700,3.6,1.0,0.3,0.9,8.6,15.9,1.0,.061,-4.3,-0.5,,1021000
-wallajo01,1999-00,25,New York Knicks,NBA,60,13.3,.467,.804,2.3,0.4,0.2,0.2,6.5,13.3,1.0,.061,-5.7,-0.7,,2000000
-wallajo01,2000-01,26,Detroit Pistons,NBA,40,13.2,.424,.778,2.1,0.6,0.3,0.4,5.9,11.2,0.3,.027,-5.1,-0.4,,2200000
-wallajo01,2001-02,27,Phoenix Suns,NBA,46,10.7,.435,.870,1.8,0.6,0.2,0.2,5.0,13.7,0.7,.071,-4.3,-0.3,,2630000
-wallajo01,2002-03,28,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
-wallajo01,2003-04,29,Miami Heat,NBA,37,9.9,.421,.775,1.6,0.4,0.1,0.2,4.3,11.6,0.3,.039,-7.0,-0.5,,813679
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+wallajo01,1996-97,22,New York Knicks,NBA,68,11.6,.517,.718,2.3,0.5,0.3,0.4,4.8,13.0,1.6,.095,-2.4,-0.1,,785000,"Greece Athena in Rochester, New York"
+wallajo01,1997-98,23,Toronto Raptors,NBA,82,28.8,.478,.717,4.5,1.3,0.8,1.2,14.0,14.8,1.5,.031,-4.3,-1.4,,903120,"Greece Athena in Rochester, New York"
+wallajo01,1998-99,24,Toronto Raptors,NBA,48,16.9,.432,.700,3.6,1.0,0.3,0.9,8.6,15.9,1.0,.061,-4.3,-0.5,,1021000,"Greece Athena in Rochester, New York"
+wallajo01,1999-00,25,New York Knicks,NBA,60,13.3,.467,.804,2.3,0.4,0.2,0.2,6.5,13.3,1.0,.061,-5.7,-0.7,,2000000,"Greece Athena in Rochester, New York"
+wallajo01,2000-01,26,Detroit Pistons,NBA,40,13.2,.424,.778,2.1,0.6,0.3,0.4,5.9,11.2,0.3,.027,-5.1,-0.4,,2200000,"Greece Athena in Rochester, New York"
+wallajo01,2001-02,27,Phoenix Suns,NBA,46,10.7,.435,.870,1.8,0.6,0.2,0.2,5.0,13.7,0.7,.071,-4.3,-0.3,,2630000,"Greece Athena in Rochester, New York"
+wallajo01,2002-03,28,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Greece Athena in Rochester, New York"
+wallajo01,2003-04,29,Miami Heat,NBA,37,9.9,.421,.775,1.6,0.4,0.1,0.2,4.3,11.6,0.3,.039,-7.0,-0.5,,813679,"Greece Athena in Rochester, New York"

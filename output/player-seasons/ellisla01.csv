@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-ellisla01,1992-93,22,Denver Nuggets,NBA,82,33.5,.504,.748,9.1,1.8,0.9,1.4,14.7,16.6,8.0,.139,1.9,2.7,,1900000
-ellisla01,1993-94,23,Denver Nuggets,NBA,79,34.2,.502,.674,8.6,2.1,0.8,1.0,15.4,15.9,7.6,.135,1.7,2.5,,2350000
-ellisla01,1994-95,24,Denver Nuggets,NBA,6,9.7,.360,1.000,2.8,0.7,0.2,0.8,4.0,13.1,0.0,.032,-3.7,0.0,,2731000
-ellisla01,1995-96,25,Denver Nuggets,NBA,45,28.2,.438,.601,7.2,1.6,0.8,0.7,10.5,12.1,1.0,.039,-2.3,-0.1,,3039000
-ellisla01,1996-97,26,Denver Nuggets,NBA,55,36.4,.439,.773,7.0,2.4,0.8,0.7,21.9,18.2,3.6,.087,0.2,1.1,,3294000
-ellisla01,1997-98,27,Denver Nuggets,NBA,76,33.9,.407,.805,7.2,2.8,0.9,0.6,14.3,14.4,1.4,.025,-1.7,0.2,,3650000
-ellisla01,1998-99,28,Atlanta Hawks,NBA,20,27.0,.421,.705,5.5,0.9,0.4,0.4,10.2,11.8,0.8,.074,-3.5,-0.2,,1750000
-ellisla01,1999-00,29,Atlanta Hawks,NBA,58,22.6,.450,.695,5.0,1.0,0.6,0.4,8.4,13.9,1.9,.070,-1.9,0.0,,1925000
-ellisla01,2000-01,30,Minnesota Timberwolves,NBA,82,23.8,.464,.790,6.0,1.1,0.8,0.9,9.4,16.0,5.2,.127,0.2,1.1,,1200000
-ellisla01,2001-02,31,Miami Heat,NBA,66,25.5,.418,.631,4.3,0.8,0.5,0.6,7.1,9.1,2.2,.063,-1.5,0.2,,3000000
-ellisla01,2002-03,32,Miami Heat,NBA,55,14.3,.382,.758,2.9,0.3,0.3,0.3,5.0,11.0,1.1,.065,-4.0,-0.4,,3100000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+ellisla01,1992-93,22,Denver Nuggets,NBA,82,33.5,.504,.748,9.1,1.8,0.9,1.4,14.7,16.6,8.0,.139,1.9,2.7,,1900000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1993-94,23,Denver Nuggets,NBA,79,34.2,.502,.674,8.6,2.1,0.8,1.0,15.4,15.9,7.6,.135,1.7,2.5,,2350000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1994-95,24,Denver Nuggets,NBA,6,9.7,.360,1.000,2.8,0.7,0.2,0.8,4.0,13.1,0.0,.032,-3.7,0.0,,2731000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1995-96,25,Denver Nuggets,NBA,45,28.2,.438,.601,7.2,1.6,0.8,0.7,10.5,12.1,1.0,.039,-2.3,-0.1,,3039000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1996-97,26,Denver Nuggets,NBA,55,36.4,.439,.773,7.0,2.4,0.8,0.7,21.9,18.2,3.6,.087,0.2,1.1,,3294000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1997-98,27,Denver Nuggets,NBA,76,33.9,.407,.805,7.2,2.8,0.9,0.6,14.3,14.4,1.4,.025,-1.7,0.2,,3650000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1998-99,28,Atlanta Hawks,NBA,20,27.0,.421,.705,5.5,0.9,0.4,0.4,10.2,11.8,0.8,.074,-3.5,-0.2,,1750000,"Lincoln in East St. Louis, Illinois"
+ellisla01,1999-00,29,Atlanta Hawks,NBA,58,22.6,.450,.695,5.0,1.0,0.6,0.4,8.4,13.9,1.9,.070,-1.9,0.0,,1925000,"Lincoln in East St. Louis, Illinois"
+ellisla01,2000-01,30,Minnesota Timberwolves,NBA,82,23.8,.464,.790,6.0,1.1,0.8,0.9,9.4,16.0,5.2,.127,0.2,1.1,,1200000,"Lincoln in East St. Louis, Illinois"
+ellisla01,2001-02,31,Miami Heat,NBA,66,25.5,.418,.631,4.3,0.8,0.5,0.6,7.1,9.1,2.2,.063,-1.5,0.2,,3000000,"Lincoln in East St. Louis, Illinois"
+ellisla01,2002-03,32,Miami Heat,NBA,55,14.3,.382,.758,2.9,0.3,0.3,0.3,5.0,11.0,1.1,.065,-4.0,-0.4,,3100000,"Lincoln in East St. Louis, Illinois"

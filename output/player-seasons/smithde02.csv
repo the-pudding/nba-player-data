@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-smithde02,1982-83,21,GSW,NBA,27,5.7,.412,.680,1.4,0.1,0.0,0.1,2.2,6.9,0.0,.014,-10.0,-0.3,,
-smithde02,1983-84,22,SDC,NBA,61,21.3,.546,.755,2.8,1.3,0.5,0.4,9.8,14.0,2.6,.098,-0.6,0.5,,
-smithde02,1984-85,23,Los Angeles Clippers,NBA,80,34.5,.537,.794,5.3,2.7,1.0,0.7,22.1,19.1,8.0,.139,2.1,2.8,,400000
-smithde02,1985-86,24,Los Angeles Clippers,NBA,11,30.8,.552,.690,3.7,2.8,0.8,1.2,23.5,21.8,0.8,.115,0.5,0.2,,375000
-smithde02,1986-87,25,SAC,NBA,52,31.9,.446,.781,3.5,3.9,0.9,0.4,16.6,13.1,1.6,.045,-1.9,0.0,,
-smithde02,1987-88,26,Sacramento Kings,NBA,35,25.7,.478,.770,2.9,2.5,0.6,0.5,12.7,13.9,1.5,.078,-1.8,0.1,,900000
-smithde02,1988-89,27,Sacramento Kings,NBA,65,19.9,.435,.686,2.6,2.0,0.7,0.4,8.7,11.7,0.9,.033,-2.8,-0.3,,925000
-smithde02,1988-89,27,Sacramento Kings,NBA,29,20.7,.402,.674,2.8,2.1,0.7,0.3,10.0,11.3,0.0,-0.002,-4.6,-0.4,,925000
-smithde02,1988-89,27,Sacramento Kings,NBA,36,19.3,.477,.699,2.4,1.9,0.7,0.4,7.8,12.0,0.9,.063,-1.2,0.1,,925000
-smithde02,1989-90,28,PHI,NBA,75,18.7,.508,.699,2.3,1.5,0.5,0.3,8.9,13.7,2.9,.098,-1.5,0.2,,
-smithde02,1990-91,29,Boston Celtics,NBA,2,8.0,.250,.750,0.0,2.5,0.5,0.5,2.5,13.7,0.0,.102,-10.5,0.0,,315000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+smithde02,1982-83,21,GSW,NBA,27,5.7,.412,.680,1.4,0.1,0.0,0.1,2.2,6.9,0.0,.014,-10.0,-0.3,,"Hogansville in Hogansville, Georgia",
+smithde02,1983-84,22,SDC,NBA,61,21.3,.546,.755,2.8,1.3,0.5,0.4,9.8,14.0,2.6,.098,-0.6,0.5,,"Hogansville in Hogansville, Georgia",
+smithde02,1984-85,23,Los Angeles Clippers,NBA,80,34.5,.537,.794,5.3,2.7,1.0,0.7,22.1,19.1,8.0,.139,2.1,2.8,,"Hogansville in Hogansville, Georgia",400000
+smithde02,1985-86,24,Los Angeles Clippers,NBA,11,30.8,.552,.690,3.7,2.8,0.8,1.2,23.5,21.8,0.8,.115,0.5,0.2,,"Hogansville in Hogansville, Georgia",375000
+smithde02,1986-87,25,SAC,NBA,52,31.9,.446,.781,3.5,3.9,0.9,0.4,16.6,13.1,1.6,.045,-1.9,0.0,,"Hogansville in Hogansville, Georgia",
+smithde02,1987-88,26,Sacramento Kings,NBA,35,25.7,.478,.770,2.9,2.5,0.6,0.5,12.7,13.9,1.5,.078,-1.8,0.1,,"Hogansville in Hogansville, Georgia",900000
+smithde02,1988-89,27,Sacramento Kings,NBA,65,19.9,.435,.686,2.6,2.0,0.7,0.4,8.7,11.7,0.9,.033,-2.8,-0.3,,"Hogansville in Hogansville, Georgia",925000
+smithde02,1988-89,27,Sacramento Kings,NBA,29,20.7,.402,.674,2.8,2.1,0.7,0.3,10.0,11.3,0.0,-0.002,-4.6,-0.4,,"Hogansville in Hogansville, Georgia",925000
+smithde02,1988-89,27,Sacramento Kings,NBA,36,19.3,.477,.699,2.4,1.9,0.7,0.4,7.8,12.0,0.9,.063,-1.2,0.1,,"Hogansville in Hogansville, Georgia",925000
+smithde02,1989-90,28,PHI,NBA,75,18.7,.508,.699,2.3,1.5,0.5,0.3,8.9,13.7,2.9,.098,-1.5,0.2,,"Hogansville in Hogansville, Georgia",
+smithde02,1990-91,29,Boston Celtics,NBA,2,8.0,.250,.750,0.0,2.5,0.5,0.5,2.5,13.7,0.0,.102,-10.5,0.0,,"Hogansville in Hogansville, Georgia",315000

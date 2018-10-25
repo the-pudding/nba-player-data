@@ -1,21 +1,21 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-mooremi01,1998-99,23,DET,NBA,2,3.0,1.000,1.000,0.5,0.0,0.0,0.0,2.0,35.7,0.1,.527,0.1,0.0,,
-mooremi01,1999-00,24,Detroit Pistons,NBA,29,16.8,.621,.794,3.9,0.6,0.3,1.1,7.9,19.6,2.2,.218,2.1,0.5,,460000
-mooremi01,2000-01,25,Detroit Pistons,NBA,81,14.2,.493,.731,3.9,0.4,0.3,0.8,4.4,12.9,2.8,.116,-1.2,0.2,,2850000
-mooremi01,2001-02,26,Detroit Pistons,NBA,30,7.2,.475,.769,1.8,0.4,0.2,0.3,2.6,14.9,0.6,.133,-1.4,0.0,,2531250
-mooremi01,2002-03,27,Detroit Pistons,NBA,8,5.4,.385,.800,1.0,0.4,0.0,0.5,2.3,17.9,0.1,.157,-0.2,0.0,,2412500
-mooremi01,2002-03,27,Detroit Pistons,NBA,3,4.0,.000,,0.3,0.0,0.0,0.7,0.0,-3.1,0.0,.018,-3.0,0.0,,2412500
-mooremi01,2002-03,27,Detroit Pistons,NBA,5,6.2,.417,.800,1.4,0.6,0.0,0.4,3.6,26.1,0.1,.211,1.0,0.0,,2412500
-mooremi01,2003-04,28,New Jersey Nets,NBA,32,12.3,.505,.857,2.6,0.6,0.2,0.4,4.1,13.3,1.0,.122,-1.4,0.1,,513000
-mooremi01,2003-04,28,New Jersey Nets,NBA,4,2.5,.200,,0.5,0.0,0.0,0.0,0.5,-3.5,0.0,-0.202,-22.2,-0.1,,513000
-mooremi01,2003-04,28,New Jersey Nets,NBA,28,13.8,.521,.857,2.9,0.7,0.3,0.5,4.6,13.7,1.0,.131,-0.8,0.1,,513000
-mooremi01,2004-05,29,Los Angeles Clippers,NBA,74,15.9,.502,.787,3.3,0.6,0.3,0.4,5.4,12.7,2.6,.106,-1.5,0.1,,870046
-mooremi01,2005-06,30,Seattle SuperSonics,NBA,47,12.4,.435,.742,2.8,0.6,0.1,0.3,3.3,8.6,0.1,.006,-4.8,-0.4,,1020000
-mooremi01,2006-07,31,New Jersey Nets,NBA,79,26.4,.609,.681,5.1,0.9,0.6,0.8,9.8,14.8,5.7,.131,0.1,1.1,,1071225
-mooremi01,2007-08,32,Sacramento Kings,NBA,82,29.1,.577,.736,6.0,1.0,0.4,0.6,8.5,11.5,4.6,.092,-0.8,0.7,,5356000
-mooremi01,2008-09,33,Sacramento Kings,NBA,70,17.2,.553,.787,3.7,0.8,0.2,0.3,3.9,8.9,2.1,.083,-2.2,-0.1,,5632200
-mooremi01,2008-09,33,Sacramento Kings,NBA,46,16.2,.521,.810,3.3,0.6,0.3,0.3,3.5,8.6,0.8,.052,-3.6,-0.3,,5632200
-mooremi01,2008-09,33,Sacramento Kings,NBA,24,19.0,.600,.737,4.4,1.0,0.2,0.2,4.8,9.3,1.3,.135,0.1,0.2,,5632200
-mooremi01,2009-10,34,Sacramento Kings,NBA,23,17.7,.600,.636,3.0,1.6,0.2,0.6,5.0,11.2,0.6,.071,-1.9,0.0,,2000000
-mooremi01,2010-11,35,Did Not Play,,,,,,,,,,,,,,,,,
-mooremi01,2011-12,36,GSW,NBA,7,16.9,.450,.857,3.1,0.7,0.4,0.4,3.4,6.3,0.1,.022,-4.1,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+mooremi01,1998-99,23,DET,NBA,2,3.0,1.000,1.000,0.5,0.0,0.0,0.0,2.0,35.7,0.1,.527,0.1,0.0,,"Blacksburg in Blacksburg, South Carolina",
+mooremi01,1999-00,24,Detroit Pistons,NBA,29,16.8,.621,.794,3.9,0.6,0.3,1.1,7.9,19.6,2.2,.218,2.1,0.5,,"Blacksburg in Blacksburg, South Carolina",460000
+mooremi01,2000-01,25,Detroit Pistons,NBA,81,14.2,.493,.731,3.9,0.4,0.3,0.8,4.4,12.9,2.8,.116,-1.2,0.2,,"Blacksburg in Blacksburg, South Carolina",2850000
+mooremi01,2001-02,26,Detroit Pistons,NBA,30,7.2,.475,.769,1.8,0.4,0.2,0.3,2.6,14.9,0.6,.133,-1.4,0.0,,"Blacksburg in Blacksburg, South Carolina",2531250
+mooremi01,2002-03,27,Detroit Pistons,NBA,8,5.4,.385,.800,1.0,0.4,0.0,0.5,2.3,17.9,0.1,.157,-0.2,0.0,,"Blacksburg in Blacksburg, South Carolina",2412500
+mooremi01,2002-03,27,Detroit Pistons,NBA,3,4.0,.000,,0.3,0.0,0.0,0.7,0.0,-3.1,0.0,.018,-3.0,0.0,,"Blacksburg in Blacksburg, South Carolina",2412500
+mooremi01,2002-03,27,Detroit Pistons,NBA,5,6.2,.417,.800,1.4,0.6,0.0,0.4,3.6,26.1,0.1,.211,1.0,0.0,,"Blacksburg in Blacksburg, South Carolina",2412500
+mooremi01,2003-04,28,New Jersey Nets,NBA,32,12.3,.505,.857,2.6,0.6,0.2,0.4,4.1,13.3,1.0,.122,-1.4,0.1,,"Blacksburg in Blacksburg, South Carolina",513000
+mooremi01,2003-04,28,New Jersey Nets,NBA,4,2.5,.200,,0.5,0.0,0.0,0.0,0.5,-3.5,0.0,-0.202,-22.2,-0.1,,"Blacksburg in Blacksburg, South Carolina",513000
+mooremi01,2003-04,28,New Jersey Nets,NBA,28,13.8,.521,.857,2.9,0.7,0.3,0.5,4.6,13.7,1.0,.131,-0.8,0.1,,"Blacksburg in Blacksburg, South Carolina",513000
+mooremi01,2004-05,29,Los Angeles Clippers,NBA,74,15.9,.502,.787,3.3,0.6,0.3,0.4,5.4,12.7,2.6,.106,-1.5,0.1,,"Blacksburg in Blacksburg, South Carolina",870046
+mooremi01,2005-06,30,Seattle SuperSonics,NBA,47,12.4,.435,.742,2.8,0.6,0.1,0.3,3.3,8.6,0.1,.006,-4.8,-0.4,,"Blacksburg in Blacksburg, South Carolina",1020000
+mooremi01,2006-07,31,New Jersey Nets,NBA,79,26.4,.609,.681,5.1,0.9,0.6,0.8,9.8,14.8,5.7,.131,0.1,1.1,,"Blacksburg in Blacksburg, South Carolina",1071225
+mooremi01,2007-08,32,Sacramento Kings,NBA,82,29.1,.577,.736,6.0,1.0,0.4,0.6,8.5,11.5,4.6,.092,-0.8,0.7,,"Blacksburg in Blacksburg, South Carolina",5356000
+mooremi01,2008-09,33,Sacramento Kings,NBA,70,17.2,.553,.787,3.7,0.8,0.2,0.3,3.9,8.9,2.1,.083,-2.2,-0.1,,"Blacksburg in Blacksburg, South Carolina",5632200
+mooremi01,2008-09,33,Sacramento Kings,NBA,46,16.2,.521,.810,3.3,0.6,0.3,0.3,3.5,8.6,0.8,.052,-3.6,-0.3,,"Blacksburg in Blacksburg, South Carolina",5632200
+mooremi01,2008-09,33,Sacramento Kings,NBA,24,19.0,.600,.737,4.4,1.0,0.2,0.2,4.8,9.3,1.3,.135,0.1,0.2,,"Blacksburg in Blacksburg, South Carolina",5632200
+mooremi01,2009-10,34,Sacramento Kings,NBA,23,17.7,.600,.636,3.0,1.6,0.2,0.6,5.0,11.2,0.6,.071,-1.9,0.0,,"Blacksburg in Blacksburg, South Carolina",2000000
+mooremi01,2010-11,35,Did Not Play,,,,,,,,,,,,,,,,,"Blacksburg in Blacksburg, South Carolina",
+mooremi01,2011-12,36,GSW,NBA,7,16.9,.450,.857,3.1,0.7,0.4,0.4,3.4,6.3,0.1,.022,-4.1,-0.1,,"Blacksburg in Blacksburg, South Carolina",

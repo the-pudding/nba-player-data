@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jeffeot01,2009-10,24,UTA,NBA,14,5.2,.414,.684,1.4,0.1,0.3,0.0,2.6,13.6,0.1,.067,-8.5,-0.1,
-jeffeot01,2010-11,25,"SAS,WAS",NBA,17,18.9,.477,.652,3.9,1.2,1.0,0.0,5.5,13.3,0.7,.097,-0.5,0.1,
-jeffeot01,2011-12,26,Did Not Play,,,,,,,,,,,,,,,,
-jeffeot01,2012-13,27,Did Not Play,,,,,,,,,,,,,,,,
-jeffeot01,2013-14,28,"SAS,MIN",NBA,6,7.8,.500,.750,1.5,0.2,0.0,0.0,1.5,6.9,0.1,.082,-5.2,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+jeffeot01,2009-10,24,UTA,NBA,14,5.2,.414,.684,1.4,0.1,0.3,0.0,2.6,13.6,0.1,.067,-8.5,-0.1,,"Hubbard in Chicago, Illinois"
+jeffeot01,2010-11,25,"SAS,WAS",NBA,17,18.9,.477,.652,3.9,1.2,1.0,0.0,5.5,13.3,0.7,.097,-0.5,0.1,,"Hubbard in Chicago, Illinois"
+jeffeot01,2011-12,26,Did Not Play,,,,,,,,,,,,,,,,,"Hubbard in Chicago, Illinois"
+jeffeot01,2012-13,27,Did Not Play,,,,,,,,,,,,,,,,,"Hubbard in Chicago, Illinois"
+jeffeot01,2013-14,28,"SAS,MIN",NBA,6,7.8,.500,.750,1.5,0.2,0.0,0.0,1.5,6.9,0.1,.082,-5.2,0.0,,"Hubbard in Chicago, Illinois"

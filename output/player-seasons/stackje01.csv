@@ -1,21 +1,21 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-stackje01,1995-96,21,Philadelphia 76ers,NBA,72,37.5,.414,.747,3.7,3.9,1.1,1.1,19.2,14.8,1.2,.021,-1.4,0.4,,1987000
-stackje01,1996-97,22,Philadelphia 76ers,NBA,81,39.1,.407,.766,4.2,3.1,1.1,0.8,20.7,14.1,2.1,.032,-2.0,0.0,,2286000
-stackje01,1997-98,23,Philadelphia 76ers,NBA,79,32.2,.435,.787,3.4,3.1,1.1,0.7,15.8,16.2,4.7,.089,0.4,1.5,,2583360
-stackje01,1997-98,23,Philadelphia 76ers,NBA,22,34.0,.452,.802,3.5,3.0,1.4,1.0,16.0,14.9,0.9,.056,-0.5,0.3,,2583360
-stackje01,1997-98,23,Philadelphia 76ers,NBA,57,31.5,.428,.782,3.3,3.1,1.0,0.7,15.7,16.8,3.8,.103,0.7,1.2,,2583360
-stackje01,1998-99,24,Detroit Pistons,NBA,42,28.3,.371,.850,2.5,2.8,0.8,0.5,14.5,15.2,1.9,.076,-1.9,0.0,,3887000
-stackje01,1999-00,25,Detroit Pistons,NBA,82,38.4,.428,.815,3.8,4.5,1.3,0.4,23.6,18.9,7.3,.111,0.6,2.0,,4781250
-stackje01,2000-01,26,Detroit Pistons,NBA,80,40.2,.402,.822,3.9,5.1,1.2,0.7,29.8,21.8,9.2,.137,3.7,4.6,,5310000
-stackje01,2001-02,27,Detroit Pistons,NBA,76,35.3,.397,.858,4.1,5.3,1.0,0.5,21.4,19.0,5.8,.104,0.7,1.9,,5843750
-stackje01,2002-03,28,Washington Wizards,NBA,70,39.2,.409,.878,3.7,4.5,0.9,0.4,21.5,18.7,6.5,.114,0.7,1.9,,6375000
-stackje01,2003-04,29,Washington Wizards,NBA,26,29.8,.399,.806,3.6,4.0,0.9,0.1,13.9,13.2,0.2,.013,-3.5,-0.3,,6906250
-stackje01,2004-05,30,Dallas Mavericks,NBA,56,28.9,.414,.849,3.3,2.3,0.9,0.2,14.9,15.9,3.5,.103,-1.0,0.4,,7437500
-stackje01,2005-06,31,Dallas Mavericks,NBA,55,27.7,.401,.882,2.8,2.9,0.7,0.2,13.0,14.5,2.4,.076,-1.8,0.1,,8367187
-stackje01,2006-07,32,Dallas Mavericks,NBA,67,24.1,.428,.847,2.2,2.8,0.8,0.1,12.0,16.8,4.1,.122,0.1,0.9,,9296874
-stackje01,2007-08,33,Dallas Mavericks,NBA,58,24.3,.405,.892,2.3,2.5,0.5,0.2,10.7,13.3,2.3,.077,-1.3,0.2,,6750000
-stackje01,2008-09,34,Dallas Mavericks,NBA,10,16.2,.267,1.000,1.7,1.2,0.4,0.1,4.2,3.4,-0.4,-0.110,-8.3,-0.3,,7000000
-stackje01,2009-10,35,Memphis Grizzlies,NBA,42,20.4,.408,.797,2.4,1.7,0.5,0.2,8.5,11.1,0.9,.048,-2.2,0.0,,2000000
-stackje01,2010-11,36,Miami Heat,NBA,7,7.1,.250,.714,1.0,0.4,0.0,0.3,1.7,6.0,0.0,.005,-6.6,-0.1,,222712
-stackje01,2011-12,37,Atlanta Hawks,NBA,30,9.1,.370,.913,0.8,0.5,0.3,0.1,3.6,11.5,0.3,.060,-4.2,-0.2,,1352181
-stackje01,2012-13,38,Brooklyn Nets,NBA,37,14.7,.384,.870,0.9,0.9,0.2,0.1,4.9,8.5,0.4,.037,-4.1,-0.3,,1352181
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+stackje01,1995-96,21,Philadelphia 76ers,NBA,72,37.5,.414,.747,3.7,3.9,1.1,1.1,19.2,14.8,1.2,.021,-1.4,0.4,,1987000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,1996-97,22,Philadelphia 76ers,NBA,81,39.1,.407,.766,4.2,3.1,1.1,0.8,20.7,14.1,2.1,.032,-2.0,0.0,,2286000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,1997-98,23,Philadelphia 76ers,NBA,79,32.2,.435,.787,3.4,3.1,1.1,0.7,15.8,16.2,4.7,.089,0.4,1.5,,2583360,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,1997-98,23,Philadelphia 76ers,NBA,22,34.0,.452,.802,3.5,3.0,1.4,1.0,16.0,14.9,0.9,.056,-0.5,0.3,,2583360,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,1997-98,23,Philadelphia 76ers,NBA,57,31.5,.428,.782,3.3,3.1,1.0,0.7,15.7,16.8,3.8,.103,0.7,1.2,,2583360,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,1998-99,24,Detroit Pistons,NBA,42,28.3,.371,.850,2.5,2.8,0.8,0.5,14.5,15.2,1.9,.076,-1.9,0.0,,3887000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,1999-00,25,Detroit Pistons,NBA,82,38.4,.428,.815,3.8,4.5,1.3,0.4,23.6,18.9,7.3,.111,0.6,2.0,,4781250,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2000-01,26,Detroit Pistons,NBA,80,40.2,.402,.822,3.9,5.1,1.2,0.7,29.8,21.8,9.2,.137,3.7,4.6,,5310000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2001-02,27,Detroit Pistons,NBA,76,35.3,.397,.858,4.1,5.3,1.0,0.5,21.4,19.0,5.8,.104,0.7,1.9,,5843750,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2002-03,28,Washington Wizards,NBA,70,39.2,.409,.878,3.7,4.5,0.9,0.4,21.5,18.7,6.5,.114,0.7,1.9,,6375000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2003-04,29,Washington Wizards,NBA,26,29.8,.399,.806,3.6,4.0,0.9,0.1,13.9,13.2,0.2,.013,-3.5,-0.3,,6906250,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2004-05,30,Dallas Mavericks,NBA,56,28.9,.414,.849,3.3,2.3,0.9,0.2,14.9,15.9,3.5,.103,-1.0,0.4,,7437500,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2005-06,31,Dallas Mavericks,NBA,55,27.7,.401,.882,2.8,2.9,0.7,0.2,13.0,14.5,2.4,.076,-1.8,0.1,,8367187,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2006-07,32,Dallas Mavericks,NBA,67,24.1,.428,.847,2.2,2.8,0.8,0.1,12.0,16.8,4.1,.122,0.1,0.9,,9296874,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2007-08,33,Dallas Mavericks,NBA,58,24.3,.405,.892,2.3,2.5,0.5,0.2,10.7,13.3,2.3,.077,-1.3,0.2,,6750000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2008-09,34,Dallas Mavericks,NBA,10,16.2,.267,1.000,1.7,1.2,0.4,0.1,4.2,3.4,-0.4,-0.110,-8.3,-0.3,,7000000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2009-10,35,Memphis Grizzlies,NBA,42,20.4,.408,.797,2.4,1.7,0.5,0.2,8.5,11.1,0.9,.048,-2.2,0.0,,2000000,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2010-11,36,Miami Heat,NBA,7,7.1,.250,.714,1.0,0.4,0.0,0.3,1.7,6.0,0.0,.005,-6.6,-0.1,,222712,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2011-12,37,Atlanta Hawks,NBA,30,9.1,.370,.913,0.8,0.5,0.3,0.1,3.6,11.5,0.3,.060,-4.2,-0.2,,1352181,"Oak Hill Academy in Mouth of Wilson, Virginia"
+stackje01,2012-13,38,Brooklyn Nets,NBA,37,14.7,.384,.870,0.9,0.9,0.2,0.1,4.9,8.5,0.4,.037,-4.1,-0.3,,1352181,"Oak Hill Academy in Mouth of Wilson, Virginia"

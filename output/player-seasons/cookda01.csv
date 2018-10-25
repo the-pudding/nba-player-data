@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-cookda01,1980-81,22,NJN,NBA,81,24.4,.468,.733,2.9,3.7,1.7,0.4,11.2,15.0,2.7,.065,0.4,1.2,,
-cookda01,1981-82,23,NJN,NBA,82,25.5,.482,.728,1.9,3.9,1.8,0.3,11.0,13.7,3.9,.089,-0.1,1.0,,
-cookda01,1982-83,24,NJN,NBA,82,32.0,.449,.769,2.9,5.5,2.4,0.6,13.2,14.3,6.0,.110,1.2,2.1,,
-cookda01,1983-84,25,NJN,NBA,82,22.8,.443,.754,1.9,4.3,2.0,0.4,8.7,14.5,3.6,.092,1.0,1.4,,
-cookda01,1984-85,26,New Jersey Nets,NBA,58,18.3,.468,.870,1.6,2.8,1.3,0.2,8.2,14.3,1.6,.071,-1.5,0.1,,255000
-cookda01,1985-86,27,New Jersey Nets,NBA,79,24.9,.426,.757,2.2,4.9,2.0,0.3,8.0,13.1,3.0,.074,0.1,1.0,,275000
-cookda01,1986-87,28,WSB,NBA,82,17.3,.426,.796,1.8,1.8,1.2,0.2,7.5,12.5,1.2,.040,-1.7,0.1,,
-cookda01,1987-88,29,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,,,,,,,,,
-cookda01,1988-89,30,San Antonio Spurs,NBA,66,17.3,.456,.808,1.6,1.9,1.1,0.2,7.7,11.8,0.9,.039,-3.3,-0.4,,400000
-cookda01,1988-89,30,San Antonio Spurs,NBA,36,21.0,.467,.821,1.6,2.3,1.2,0.1,9.6,11.8,0.6,.039,-3.5,-0.3,,400000
-cookda01,1988-89,30,San Antonio Spurs,NBA,30,12.9,.436,.773,1.6,1.4,0.9,0.2,5.4,11.7,0.3,.039,-3.0,-0.1,,400000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+cookda01,1980-81,22,NJN,NBA,81,24.4,.468,.733,2.9,3.7,1.7,0.4,11.2,15.0,2.7,.065,0.4,1.2,,"Crenshaw in Los Angeles, California",
+cookda01,1981-82,23,NJN,NBA,82,25.5,.482,.728,1.9,3.9,1.8,0.3,11.0,13.7,3.9,.089,-0.1,1.0,,"Crenshaw in Los Angeles, California",
+cookda01,1982-83,24,NJN,NBA,82,32.0,.449,.769,2.9,5.5,2.4,0.6,13.2,14.3,6.0,.110,1.2,2.1,,"Crenshaw in Los Angeles, California",
+cookda01,1983-84,25,NJN,NBA,82,22.8,.443,.754,1.9,4.3,2.0,0.4,8.7,14.5,3.6,.092,1.0,1.4,,"Crenshaw in Los Angeles, California",
+cookda01,1984-85,26,New Jersey Nets,NBA,58,18.3,.468,.870,1.6,2.8,1.3,0.2,8.2,14.3,1.6,.071,-1.5,0.1,,"Crenshaw in Los Angeles, California",255000
+cookda01,1985-86,27,New Jersey Nets,NBA,79,24.9,.426,.757,2.2,4.9,2.0,0.3,8.0,13.1,3.0,.074,0.1,1.0,,"Crenshaw in Los Angeles, California",275000
+cookda01,1986-87,28,WSB,NBA,82,17.3,.426,.796,1.8,1.8,1.2,0.2,7.5,12.5,1.2,.040,-1.7,0.1,,"Crenshaw in Los Angeles, California",
+cookda01,1987-88,29,"Did Not Play (other pro league—CBA, Italy)",,,,,,,,,,,,,,,,,"Crenshaw in Los Angeles, California",
+cookda01,1988-89,30,San Antonio Spurs,NBA,66,17.3,.456,.808,1.6,1.9,1.1,0.2,7.7,11.8,0.9,.039,-3.3,-0.4,,"Crenshaw in Los Angeles, California",400000
+cookda01,1988-89,30,San Antonio Spurs,NBA,36,21.0,.467,.821,1.6,2.3,1.2,0.1,9.6,11.8,0.6,.039,-3.5,-0.3,,"Crenshaw in Los Angeles, California",400000
+cookda01,1988-89,30,San Antonio Spurs,NBA,30,12.9,.436,.773,1.6,1.4,0.9,0.2,5.4,11.7,0.3,.039,-3.0,-0.1,,"Crenshaw in Los Angeles, California",400000

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-roberan03,2013-14,22,Oklahoma City Thunder,NBA,40,10.0,.485,.700,2.4,0.4,0.5,0.3,1.9,9.0,0.8,.099,-0.3,0.2,,1110840
-roberan03,2014-15,23,Oklahoma City Thunder,NBA,67,19.2,.458,.479,3.8,1.0,0.8,0.4,3.4,9.1,2.1,.079,0.3,0.7,,1160880
-roberan03,2015-16,24,Oklahoma City Thunder,NBA,70,22.2,.496,.611,3.6,0.7,0.8,0.6,4.8,10.2,3.4,.105,1.4,1.3,,1210800
-roberan03,2016-17,25,Oklahoma City Thunder,NBA,79,30.1,.464,.423,5.1,1.0,1.2,1.0,6.6,9.6,4.2,.085,0.0,1.2,,2183072
-roberan03,2017-18,26,Oklahoma City Thunder,NBA,39,26.6,.537,.316,4.7,1.2,1.2,0.9,5.0,10.9,2.2,.100,1.5,0.9,,9259259
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+roberan03,2013-14,22,Oklahoma City Thunder,NBA,40,10.0,.485,.700,2.4,0.4,0.5,0.3,1.9,9.0,0.8,.099,-0.3,0.2,,1110840,"Wagner in San Antonio, Texas"
+roberan03,2014-15,23,Oklahoma City Thunder,NBA,67,19.2,.458,.479,3.8,1.0,0.8,0.4,3.4,9.1,2.1,.079,0.3,0.7,,1160880,"Wagner in San Antonio, Texas"
+roberan03,2015-16,24,Oklahoma City Thunder,NBA,70,22.2,.496,.611,3.6,0.7,0.8,0.6,4.8,10.2,3.4,.105,1.4,1.3,,1210800,"Wagner in San Antonio, Texas"
+roberan03,2016-17,25,Oklahoma City Thunder,NBA,79,30.1,.464,.423,5.1,1.0,1.2,1.0,6.6,9.6,4.2,.085,0.0,1.2,,2183072,"Wagner in San Antonio, Texas"
+roberan03,2017-18,26,Oklahoma City Thunder,NBA,39,26.6,.537,.316,4.7,1.2,1.2,0.9,5.0,10.9,2.2,.100,1.5,0.9,,9259259,"Wagner in San Antonio, Texas"

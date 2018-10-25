@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-bogutan01,2005-06,21,Milwaukee Bucks,NBA,82,28.6,.533,.629,7.0,2.3,0.6,0.8,9.4,15.2,5.5,.113,1.8,2.3,,4340520
-bogutan01,2006-07,22,Milwaukee Bucks,NBA,66,34.2,.553,.577,8.8,3.0,0.7,0.5,12.3,15.5,4.0,.085,0.5,1.4,,4665960
-bogutan01,2007-08,23,Milwaukee Bucks,NBA,78,34.9,.511,.587,9.8,2.6,0.8,1.7,14.3,17.5,4.8,.085,1.2,2.2,,4991520
-bogutan01,2008-09,24,Milwaukee Bucks,NBA,36,31.2,.577,.571,10.3,2.0,0.6,1.0,11.7,16.2,2.6,.112,1.7,1.0,,6294310
-bogutan01,2009-10,25,Milwaukee Bucks,NBA,69,32.3,.520,.629,10.2,1.8,0.6,2.5,15.9,20.7,7.5,.161,3.4,3.0,All-NBA (3rd),10000000
-bogutan01,2010-11,26,Milwaukee Bucks,NBA,65,35.3,.495,.442,11.1,2.0,0.7,2.6,12.8,16.7,5.4,.112,2.4,2.6,,11000000
-bogutan01,2011-12,27,Milwaukee Bucks,NBA,12,30.3,.449,.609,8.3,2.6,1.0,2.0,11.3,14.9,0.5,.062,0.0,0.2,,12000000
-bogutan01,2012-13,28,Golden State Warriors,NBA,32,24.6,.451,.500,7.7,2.1,0.6,1.7,5.8,13.8,1.7,.106,2.3,0.9,,13000000
-bogutan01,2013-14,29,Golden State Warriors,NBA,67,26.4,.627,.344,10.0,1.7,0.7,1.8,7.3,17.0,6.5,.176,4.4,2.8,,14000000
-bogutan01,2014-15,30,Golden State Warriors,NBA,67,23.6,.563,.524,8.1,2.7,0.6,1.7,6.3,15.8,5.2,.159,4.1,2.4,,12972973
-bogutan01,2015-16,31,Golden State Warriors,NBA,70,20.7,.627,.480,7.0,2.3,0.5,1.6,5.4,15.9,5.4,.180,4.5,2.4,,12000000
-bogutan01,2016-17,32,Philadelphia 76ers,NBA,27,21.6,.469,.273,8.1,1.8,0.5,0.9,2.9,9.3,0.7,.055,-0.3,0.3,,11027027
-bogutan01,2016-17,32,Philadelphia 76ers,NBA,26,22.4,.469,.273,8.4,1.9,0.5,1.0,3.0,9.4,0.7,.055,-0.3,0.3,,11027027
-bogutan01,2016-17,32,Philadelphia 76ers,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,-35.3,0.0,.020,-5.7,0.0,,11027027
-bogutan01,2017-18,33,Los Angeles Lakers,NBA,23,9.4,.680,1.000,3.4,0.7,0.2,0.6,1.6,10.9,0.4,.094,0.0,0.1,,1105123
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+bogutan01,2005-06,21,Milwaukee Bucks,NBA,82,28.6,.533,.629,7.0,2.3,0.6,0.8,9.4,15.2,5.5,.113,1.8,2.3,,4340520,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2006-07,22,Milwaukee Bucks,NBA,66,34.2,.553,.577,8.8,3.0,0.7,0.5,12.3,15.5,4.0,.085,0.5,1.4,,4665960,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2007-08,23,Milwaukee Bucks,NBA,78,34.9,.511,.587,9.8,2.6,0.8,1.7,14.3,17.5,4.8,.085,1.2,2.2,,4991520,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2008-09,24,Milwaukee Bucks,NBA,36,31.2,.577,.571,10.3,2.0,0.6,1.0,11.7,16.2,2.6,.112,1.7,1.0,,6294310,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2009-10,25,Milwaukee Bucks,NBA,69,32.3,.520,.629,10.2,1.8,0.6,2.5,15.9,20.7,7.5,.161,3.4,3.0,All-NBA (3rd),10000000,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2010-11,26,Milwaukee Bucks,NBA,65,35.3,.495,.442,11.1,2.0,0.7,2.6,12.8,16.7,5.4,.112,2.4,2.6,,11000000,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2011-12,27,Milwaukee Bucks,NBA,12,30.3,.449,.609,8.3,2.6,1.0,2.0,11.3,14.9,0.5,.062,0.0,0.2,,12000000,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2012-13,28,Golden State Warriors,NBA,32,24.6,.451,.500,7.7,2.1,0.6,1.7,5.8,13.8,1.7,.106,2.3,0.9,,13000000,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2013-14,29,Golden State Warriors,NBA,67,26.4,.627,.344,10.0,1.7,0.7,1.8,7.3,17.0,6.5,.176,4.4,2.8,,14000000,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2014-15,30,Golden State Warriors,NBA,67,23.6,.563,.524,8.1,2.7,0.6,1.7,6.3,15.8,5.2,.159,4.1,2.4,,12972973,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2015-16,31,Golden State Warriors,NBA,70,20.7,.627,.480,7.0,2.3,0.5,1.6,5.4,15.9,5.4,.180,4.5,2.4,,12000000,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2016-17,32,Philadelphia 76ers,NBA,27,21.6,.469,.273,8.1,1.8,0.5,0.9,2.9,9.3,0.7,.055,-0.3,0.3,,11027027,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2016-17,32,Philadelphia 76ers,NBA,26,22.4,.469,.273,8.4,1.9,0.5,1.0,3.0,9.4,0.7,.055,-0.3,0.3,,11027027,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2016-17,32,Philadelphia 76ers,NBA,1,1.0,,,0.0,0.0,0.0,0.0,0.0,-35.3,0.0,.020,-5.7,0.0,,11027027,"Australian Institute of Sport in Melbourne, Australia"
+bogutan01,2017-18,33,Los Angeles Lakers,NBA,23,9.4,.680,1.000,3.4,0.7,0.2,0.6,1.6,10.9,0.4,.094,0.0,0.1,,1105123,"Australian Institute of Sport in Melbourne, Australia"

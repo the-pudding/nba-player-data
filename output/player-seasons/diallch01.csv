@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-diallch01,2016-17,20,New Orleans Pelicans,NBA,17,11.7,.474,.714,4.3,0.2,0.2,0.4,5.1,16.8,0.5,.111,-5.6,-0.2,,543471
-diallch01,2017-18,21,New Orleans Pelicans,NBA,52,11.2,.580,.758,4.1,0.4,0.2,0.4,4.9,17.0,1.9,.157,-3.1,-0.2,,1312611
-diallch01,2018-19,22,NOP,NBA,2,3.0,1.000,,2.0,0.0,0.0,0.0,2.0,24.0,0.0,.071,-11.8,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+diallch01,2016-17,20,New Orleans Pelicans,NBA,17,11.7,.474,.714,4.3,0.2,0.2,0.4,5.1,16.8,0.5,.111,-5.6,-0.2,,543471,"New American in Centereach, New York"
+diallch01,2017-18,21,New Orleans Pelicans,NBA,52,11.2,.580,.758,4.1,0.4,0.2,0.4,4.9,17.0,1.9,.157,-3.1,-0.2,,1312611,"New American in Centereach, New York"
+diallch01,2018-19,22,NOP,NBA,2,3.0,1.000,,2.0,0.0,0.0,0.0,2.0,24.0,0.0,.071,-11.8,0.0,,,"New American in Centereach, New York"

@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-levincl01,1982-83,22,DET,NBA,62,14.2,.485,.571,3.7,0.8,0.4,0.6,5.6,12.9,1.3,.072,-2.1,0.0,,
-levincl01,1983-84,23,DET,NBA,80,21.8,.525,.672,6.8,1.4,0.6,1.0,7.3,14.8,5.3,.144,2.5,2.0,,
-levincl01,1984-85,24,Atlanta Hawks,NBA,74,27.3,.527,.653,7.6,1.4,0.9,0.9,9.8,14.6,4.7,.113,2.1,2.1,,200000
-levincl01,1985-86,25,Atlanta Hawks,NBA,81,24.0,.534,.678,6.6,0.9,0.9,0.5,9.3,14.7,5.5,.136,1.8,1.9,,200000
-levincl01,1986-87,26,ATL,NBA,82,22.5,.506,.731,6.5,0.5,0.6,0.8,8.0,14.3,6.1,.157,1.6,1.7,,
-levincl01,1987-88,27,Atlanta Hawks,NBA,82,26.0,.557,.772,6.1,0.9,0.6,1.0,10.0,15.5,7.0,.157,2.9,2.6,,350000
-levincl01,1988-89,28,Atlanta Hawks,NBA,80,27.3,.528,.696,6.2,0.9,1.2,0.9,9.2,13.4,5.5,.121,2.0,2.2,,425000
-levincl01,1989-90,29,ATL,NBA,75,22.7,.509,.680,4.3,1.1,0.7,0.5,6.9,12.1,3.4,.096,0.5,1.1,,
-levincl01,1990-91,30,Chicago Bulls,NBA,78,13.0,.450,.648,2.9,0.7,0.4,0.6,4.0,11.5,2.0,.095,-1.2,0.2,,750000
-levincl01,1991-92,31,Chicago Bulls,NBA,79,12.9,.498,.625,2.9,0.8,0.3,0.6,3.9,13.1,2.9,.139,1.0,0.8,,1350000
-levincl01,1992-93,32,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
-levincl01,1993-94,33,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-levincl01,1994-95,34,Denver Nuggets,NBA,57,8.2,.423,.422,2.2,0.5,0.2,0.4,2.3,10.5,0.5,.052,-2.5,-0.1,,650000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+levincl01,1982-83,22,DET,NBA,62,14.2,.485,.571,3.7,0.8,0.4,0.6,5.6,12.9,1.3,.072,-2.1,0.0,,"Samuel F.B. Morse in San Diego, California",
+levincl01,1983-84,23,DET,NBA,80,21.8,.525,.672,6.8,1.4,0.6,1.0,7.3,14.8,5.3,.144,2.5,2.0,,"Samuel F.B. Morse in San Diego, California",
+levincl01,1984-85,24,Atlanta Hawks,NBA,74,27.3,.527,.653,7.6,1.4,0.9,0.9,9.8,14.6,4.7,.113,2.1,2.1,,"Samuel F.B. Morse in San Diego, California",200000
+levincl01,1985-86,25,Atlanta Hawks,NBA,81,24.0,.534,.678,6.6,0.9,0.9,0.5,9.3,14.7,5.5,.136,1.8,1.9,,"Samuel F.B. Morse in San Diego, California",200000
+levincl01,1986-87,26,ATL,NBA,82,22.5,.506,.731,6.5,0.5,0.6,0.8,8.0,14.3,6.1,.157,1.6,1.7,,"Samuel F.B. Morse in San Diego, California",
+levincl01,1987-88,27,Atlanta Hawks,NBA,82,26.0,.557,.772,6.1,0.9,0.6,1.0,10.0,15.5,7.0,.157,2.9,2.6,,"Samuel F.B. Morse in San Diego, California",350000
+levincl01,1988-89,28,Atlanta Hawks,NBA,80,27.3,.528,.696,6.2,0.9,1.2,0.9,9.2,13.4,5.5,.121,2.0,2.2,,"Samuel F.B. Morse in San Diego, California",425000
+levincl01,1989-90,29,ATL,NBA,75,22.7,.509,.680,4.3,1.1,0.7,0.5,6.9,12.1,3.4,.096,0.5,1.1,,"Samuel F.B. Morse in San Diego, California",
+levincl01,1990-91,30,Chicago Bulls,NBA,78,13.0,.450,.648,2.9,0.7,0.4,0.6,4.0,11.5,2.0,.095,-1.2,0.2,,"Samuel F.B. Morse in San Diego, California",750000
+levincl01,1991-92,31,Chicago Bulls,NBA,79,12.9,.498,.625,2.9,0.8,0.3,0.6,3.9,13.1,2.9,.139,1.0,0.8,,"Samuel F.B. Morse in San Diego, California",1350000
+levincl01,1992-93,32,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,"Samuel F.B. Morse in San Diego, California",
+levincl01,1993-94,33,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Samuel F.B. Morse in San Diego, California",
+levincl01,1994-95,34,Denver Nuggets,NBA,57,8.2,.423,.422,2.2,0.5,0.2,0.4,2.3,10.5,0.5,.052,-2.5,-0.1,,"Samuel F.B. Morse in San Diego, California",650000

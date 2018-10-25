@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-stanste01,1984-85,23,IND,NBA,74,17.3,.459,.810,1.5,1.7,0.6,0.2,7.1,10.3,1.5,.056,-3.4,-0.4,,
-stanste01,1985-86,24,Indiana Pacers,NBA,74,18.0,.433,.811,1.9,2.8,0.8,0.1,6.7,9.5,0.6,.020,-3.5,-0.5,,160000
-stanste01,1986-87,25,SEA,NBA,44,8.5,.429,.620,0.5,1.3,0.3,0.0,4.0,9.7,0.3,.042,-5.4,-0.3,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+stanste01,1984-85,23,IND,NBA,74,17.3,.459,.810,1.5,1.7,0.6,0.2,7.1,10.3,1.5,.056,-3.4,-0.4,,"Newark in Newark, Delaware",
+stanste01,1985-86,24,Indiana Pacers,NBA,74,18.0,.433,.811,1.9,2.8,0.8,0.1,6.7,9.5,0.6,.020,-3.5,-0.5,,"Newark in Newark, Delaware",160000
+stanste01,1986-87,25,SEA,NBA,44,8.5,.429,.620,0.5,1.3,0.3,0.0,4.0,9.7,0.3,.042,-5.4,-0.3,,"Newark in Newark, Delaware",

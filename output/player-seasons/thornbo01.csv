@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-thornbo01,1985-86,23,New York Knicks,NBA,71,18.6,.456,.531,4.1,0.6,0.4,0.1,4.7,6.9,0.9,.034,-3.7,-0.6,,70000
-thornbo01,1986-87,24,NYK,NBA,33,8.5,.433,.650,1.7,0.2,0.1,0.1,2.2,4.1,-0.3,-0.044,-7.7,-0.4,,
-thornbo01,1987-88,25,Philadelphia 76ers,NBA,48,12.4,.500,.618,2.3,0.3,0.2,0.1,3.4,7.0,0.4,.034,-4.8,-0.4,,125000
-thornbo01,1987-88,25,Philadelphia 76ers,NBA,7,12.1,.316,.625,1.9,0.6,0.3,0.0,2.4,-0.9,-0.1,-0.070,-7.8,-0.1,,125000
-thornbo01,1987-88,25,Philadelphia 76ers,NBA,41,12.4,.532,.617,2.4,0.3,0.2,0.1,3.6,8.3,0.5,.051,-4.3,-0.3,,125000
-thornbo01,1988-89,26,Philadelphia 76ers,NBA,54,8.3,.423,.533,1.7,0.3,0.1,0.1,2.4,6.4,0.1,.010,-5.3,-0.4,,200000
-thornbo01,1989-90,27,PHI,NBA,56,10.6,.429,.510,2.4,0.3,0.4,0.2,2.2,6.1,0.3,.022,-3.8,-0.3,,
-thornbo01,1990-91,28,Minnesota Timberwolves,NBA,12,9.2,.308,.800,1.3,0.1,0.0,0.3,1.3,-0.5,-0.2,-0.079,-11.3,-0.3,,335000
-thornbo01,1991-92,29,Minnesota Timberwolves,NBA,2,3.0,.143,1.000,1.0,0.0,0.0,0.0,2.0,1.7,0.0,-0.288,-34.0,0.0,,335000
-thornbo01,1992-93,30,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-thornbo01,1993-94,31,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-thornbo01,1994-95,32,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-thornbo01,1995-96,33,WSB,NBA,7,4.4,.167,.500,1.7,0.0,0.1,0.0,0.4,4.1,0.0,.001,-11.7,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+thornbo01,1985-86,23,New York Knicks,NBA,71,18.6,.456,.531,4.1,0.6,0.4,0.1,4.7,6.9,0.9,.034,-3.7,-0.6,,70000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1986-87,24,NYK,NBA,33,8.5,.433,.650,1.7,0.2,0.1,0.1,2.2,4.1,-0.3,-0.044,-7.7,-0.4,,,"Mission Viejo in Mission Viejo, California"
+thornbo01,1987-88,25,Philadelphia 76ers,NBA,48,12.4,.500,.618,2.3,0.3,0.2,0.1,3.4,7.0,0.4,.034,-4.8,-0.4,,125000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1987-88,25,Philadelphia 76ers,NBA,7,12.1,.316,.625,1.9,0.6,0.3,0.0,2.4,-0.9,-0.1,-0.070,-7.8,-0.1,,125000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1987-88,25,Philadelphia 76ers,NBA,41,12.4,.532,.617,2.4,0.3,0.2,0.1,3.6,8.3,0.5,.051,-4.3,-0.3,,125000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1988-89,26,Philadelphia 76ers,NBA,54,8.3,.423,.533,1.7,0.3,0.1,0.1,2.4,6.4,0.1,.010,-5.3,-0.4,,200000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1989-90,27,PHI,NBA,56,10.6,.429,.510,2.4,0.3,0.4,0.2,2.2,6.1,0.3,.022,-3.8,-0.3,,,"Mission Viejo in Mission Viejo, California"
+thornbo01,1990-91,28,Minnesota Timberwolves,NBA,12,9.2,.308,.800,1.3,0.1,0.0,0.3,1.3,-0.5,-0.2,-0.079,-11.3,-0.3,,335000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1991-92,29,Minnesota Timberwolves,NBA,2,3.0,.143,1.000,1.0,0.0,0.0,0.0,2.0,1.7,0.0,-0.288,-34.0,0.0,,335000,"Mission Viejo in Mission Viejo, California"
+thornbo01,1992-93,30,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Mission Viejo in Mission Viejo, California"
+thornbo01,1993-94,31,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Mission Viejo in Mission Viejo, California"
+thornbo01,1994-95,32,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Mission Viejo in Mission Viejo, California"
+thornbo01,1995-96,33,WSB,NBA,7,4.4,.167,.500,1.7,0.0,0.1,0.0,0.4,4.1,0.0,.001,-11.7,-0.1,,,"Mission Viejo in Mission Viejo, California"

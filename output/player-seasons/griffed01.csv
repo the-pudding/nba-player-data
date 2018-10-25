@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-griffed01,2001-02,19,Houston Rockets,NBA,73,26.0,.366,.744,5.7,0.7,0.2,1.8,8.8,13.8,2.4,.061,-2.0,0.0,,2011080
-griffed01,2002-03,20,Houston Rockets,NBA,77,24.5,.400,.617,6.0,1.1,0.7,1.4,8.6,15.4,3.9,.100,0.4,1.1,,2161920
-griffed01,2003-04,21,Houston Rockets,NBA,,,,,,,,,,,,,,,,2312760
-griffed01,2004-05,22,Minnesota Timberwolves,NBA,70,21.3,.387,.718,6.5,0.8,0.3,1.7,7.5,15.9,3.2,.102,-0.1,0.7,,695046
-griffed01,2005-06,23,Minnesota Timberwolves,NBA,70,19.4,.351,.595,5.6,0.6,0.2,2.1,4.6,12.2,1.5,.055,-2.0,0.0,,2500000
-griffed01,2006-07,24,Minnesota Timberwolves,NBA,13,7.1,.259,.800,1.9,0.3,0.0,0.5,1.4,5.2,-0.2,-0.088,-8.7,-0.2,,2700000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+griffed01,2001-02,19,Houston Rockets,NBA,73,26.0,.366,.744,5.7,0.7,0.2,1.8,8.8,13.8,2.4,.061,-2.0,0.0,,2011080,"Roman Catholic in Philadelphia, Pennsylvania"
+griffed01,2002-03,20,Houston Rockets,NBA,77,24.5,.400,.617,6.0,1.1,0.7,1.4,8.6,15.4,3.9,.100,0.4,1.1,,2161920,"Roman Catholic in Philadelphia, Pennsylvania"
+griffed01,2003-04,21,Houston Rockets,NBA,,,,,,,,,,,,,,,,2312760,"Roman Catholic in Philadelphia, Pennsylvania"
+griffed01,2004-05,22,Minnesota Timberwolves,NBA,70,21.3,.387,.718,6.5,0.8,0.3,1.7,7.5,15.9,3.2,.102,-0.1,0.7,,695046,"Roman Catholic in Philadelphia, Pennsylvania"
+griffed01,2005-06,23,Minnesota Timberwolves,NBA,70,19.4,.351,.595,5.6,0.6,0.2,2.1,4.6,12.2,1.5,.055,-2.0,0.0,,2500000,"Roman Catholic in Philadelphia, Pennsylvania"
+griffed01,2006-07,24,Minnesota Timberwolves,NBA,13,7.1,.259,.800,1.9,0.3,0.0,0.5,1.4,5.2,-0.2,-0.088,-8.7,-0.2,,2700000,"Roman Catholic in Philadelphia, Pennsylvania"

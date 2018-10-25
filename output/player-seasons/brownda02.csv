@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-brownda02,2001-02,22,Philadelphia 76ers,NBA,17,3.9,.381,.875,0.2,0.1,0.1,0.1,1.4,1.6,-0.1,-0.096,-11.6,-0.2,,332817
-brownda02,2002-03,23,TOR,NBA,5,23.0,.314,.750,3.0,0.6,0.2,0.0,5.6,1.6,-0.2,-0.102,-11.3,-0.3,,
-brownda02,2003-04,24,New Jersey Nets,NBA,3,5.7,.100,.500,1.7,0.0,0.7,0.0,1.0,-4.3,-0.1,-0.345,-22.7,-0.1,,202508
-brownda02,2004-05,25,WAS,NBA,14,10.9,.371,.444,2.0,1.0,0.1,0.4,3.9,7.4,-0.2,-0.073,-7.5,-0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+brownda02,2001-02,22,Philadelphia 76ers,NBA,17,3.9,.381,.875,0.2,0.1,0.1,0.1,1.4,1.6,-0.1,-0.096,-11.6,-0.2,,332817,"Seneca Vocational in Buffalo, New York"
+brownda02,2002-03,23,TOR,NBA,5,23.0,.314,.750,3.0,0.6,0.2,0.0,5.6,1.6,-0.2,-0.102,-11.3,-0.3,,,"Seneca Vocational in Buffalo, New York"
+brownda02,2003-04,24,New Jersey Nets,NBA,3,5.7,.100,.500,1.7,0.0,0.7,0.0,1.0,-4.3,-0.1,-0.345,-22.7,-0.1,,202508,"Seneca Vocational in Buffalo, New York"
+brownda02,2004-05,25,WAS,NBA,14,10.9,.371,.444,2.0,1.0,0.1,0.4,3.9,7.4,-0.2,-0.073,-7.5,-0.2,,,"Seneca Vocational in Buffalo, New York"

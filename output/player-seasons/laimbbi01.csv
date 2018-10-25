@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-laimbbi01,1980-81,23,CLE,NBA,81,30.4,.503,.765,8.6,2.7,0.7,1.0,9.8,14.2,5.4,.104,2.0,2.5,,
-laimbbi01,1981-82,24,"CLE,DET",NBA,80,22.9,.494,.793,7.7,1.3,0.5,0.8,9.0,15.4,4.7,.122,0.4,1.1,,
-laimbbi01,1982-83,25,DET,NBA,82,35.0,.497,.790,12.1,3.2,0.6,1.4,13.6,16.6,8.5,.142,2.3,3.1,,
-laimbbi01,1983-84,26,DET,NBA,82,34.9,.530,.866,12.2,1.8,0.6,1.0,17.3,19.2,10.8,.181,2.4,3.2,,
-laimbbi01,1984-85,27,Detroit Pistons,NBA,82,35.3,.506,.797,12.4,1.9,0.8,0.9,17.5,18.0,9.8,.162,1.9,2.9,,500000
-laimbbi01,1985-86,28,Detroit Pistons,NBA,82,35.3,.492,.834,13.1,1.8,0.7,0.8,16.6,17.6,9.2,.153,1.1,2.3,,630000
-laimbbi01,1986-87,29,DET,NBA,82,34.8,.501,.894,11.6,1.8,0.9,0.8,15.4,17.4,10.5,.176,2.6,3.3,,
-laimbbi01,1987-88,30,Detroit Pistons,NBA,82,35.3,.493,.874,10.1,2.4,0.8,1.0,13.5,15.1,8.8,.146,2.5,3.3,,630000
-laimbbi01,1988-89,31,Detroit Pistons,NBA,81,32.6,.499,.840,9.6,2.2,0.6,1.2,13.7,16.6,9.0,.164,3.0,3.4,,630000
-laimbbi01,1989-90,32,DET,NBA,81,33.0,.484,.854,9.6,2.1,0.7,1.0,12.1,15.8,10.1,.182,3.8,3.9,,
-laimbbi01,1990-91,33,Detroit Pistons,NBA,82,32.5,.478,.837,9.0,1.9,0.5,0.7,11.0,14.2,8.0,.144,2.1,2.7,,1510000
-laimbbi01,1991-92,34,Detroit Pistons,NBA,81,27.6,.470,.893,5.6,2.0,0.6,0.7,9.7,12.6,4.9,.105,0.4,1.4,,1369000
-laimbbi01,1992-93,35,Detroit Pistons,NBA,79,24.5,.509,.894,5.3,1.6,0.6,0.5,8.7,14.3,5.4,.133,0.8,1.4,,1319000
-laimbbi01,1993-94,36,Detroit Pistons,NBA,11,22.5,.522,.846,5.1,1.3,0.5,0.4,9.8,15.6,0.5,.106,-1.9,0.0,,1300000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+laimbbi01,1980-81,23,CLE,NBA,81,30.4,.503,.765,8.6,2.7,0.7,1.0,9.8,14.2,5.4,.104,2.0,2.5,,"Palos Verdes in Palos Verdes, California",
+laimbbi01,1981-82,24,"CLE,DET",NBA,80,22.9,.494,.793,7.7,1.3,0.5,0.8,9.0,15.4,4.7,.122,0.4,1.1,,"Palos Verdes in Palos Verdes, California",
+laimbbi01,1982-83,25,DET,NBA,82,35.0,.497,.790,12.1,3.2,0.6,1.4,13.6,16.6,8.5,.142,2.3,3.1,,"Palos Verdes in Palos Verdes, California",
+laimbbi01,1983-84,26,DET,NBA,82,34.9,.530,.866,12.2,1.8,0.6,1.0,17.3,19.2,10.8,.181,2.4,3.2,,"Palos Verdes in Palos Verdes, California",
+laimbbi01,1984-85,27,Detroit Pistons,NBA,82,35.3,.506,.797,12.4,1.9,0.8,0.9,17.5,18.0,9.8,.162,1.9,2.9,,"Palos Verdes in Palos Verdes, California",500000
+laimbbi01,1985-86,28,Detroit Pistons,NBA,82,35.3,.492,.834,13.1,1.8,0.7,0.8,16.6,17.6,9.2,.153,1.1,2.3,,"Palos Verdes in Palos Verdes, California",630000
+laimbbi01,1986-87,29,DET,NBA,82,34.8,.501,.894,11.6,1.8,0.9,0.8,15.4,17.4,10.5,.176,2.6,3.3,,"Palos Verdes in Palos Verdes, California",
+laimbbi01,1987-88,30,Detroit Pistons,NBA,82,35.3,.493,.874,10.1,2.4,0.8,1.0,13.5,15.1,8.8,.146,2.5,3.3,,"Palos Verdes in Palos Verdes, California",630000
+laimbbi01,1988-89,31,Detroit Pistons,NBA,81,32.6,.499,.840,9.6,2.2,0.6,1.2,13.7,16.6,9.0,.164,3.0,3.4,,"Palos Verdes in Palos Verdes, California",630000
+laimbbi01,1989-90,32,DET,NBA,81,33.0,.484,.854,9.6,2.1,0.7,1.0,12.1,15.8,10.1,.182,3.8,3.9,,"Palos Verdes in Palos Verdes, California",
+laimbbi01,1990-91,33,Detroit Pistons,NBA,82,32.5,.478,.837,9.0,1.9,0.5,0.7,11.0,14.2,8.0,.144,2.1,2.7,,"Palos Verdes in Palos Verdes, California",1510000
+laimbbi01,1991-92,34,Detroit Pistons,NBA,81,27.6,.470,.893,5.6,2.0,0.6,0.7,9.7,12.6,4.9,.105,0.4,1.4,,"Palos Verdes in Palos Verdes, California",1369000
+laimbbi01,1992-93,35,Detroit Pistons,NBA,79,24.5,.509,.894,5.3,1.6,0.6,0.5,8.7,14.3,5.4,.133,0.8,1.4,,"Palos Verdes in Palos Verdes, California",1319000
+laimbbi01,1993-94,36,Detroit Pistons,NBA,11,22.5,.522,.846,5.1,1.3,0.5,0.4,9.8,15.6,0.5,.106,-1.9,0.0,,"Palos Verdes in Palos Verdes, California",1300000

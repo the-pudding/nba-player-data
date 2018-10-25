@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-battish01,2001-02,23,Memphis Grizzlies,NBA,78,39.7,.429,.700,5.4,2.8,1.6,1.0,14.4,13.9,4.8,.074,1.9,3.0,,2203080
-battish01,2002-03,24,Memphis Grizzlies,NBA,78,30.6,.483,.828,4.4,1.3,1.3,1.1,9.7,15.0,6.2,.126,3.6,3.4,,2368200
-battish01,2003-04,25,Memphis Grizzlies,NBA,79,24.6,.446,.732,3.8,1.3,1.3,0.7,8.5,15.3,5.9,.145,3.3,2.6,,2533440
-battish01,2004-05,26,Memphis Grizzlies,NBA,80,31.5,.442,.789,5.2,1.6,1.1,1.0,9.9,14.8,7.8,.149,3.7,3.6,,3212402
-battish01,2005-06,27,Memphis Grizzlies,NBA,81,35.0,.488,.707,5.3,1.7,1.1,1.4,10.1,14.7,9.1,.153,4.0,4.3,,4903000
-battish01,2006-07,28,Houston Rockets,NBA,82,36.4,.446,.779,4.1,2.1,1.0,0.7,10.1,12.0,9.0,.144,3.3,4.0,,5393300
-battish01,2007-08,29,Houston Rockets,NBA,80,36.3,.428,.743,5.1,1.9,1.0,1.1,9.3,11.7,8.2,.135,3.8,4.3,,5883600
-battish01,2008-09,30,Houston Rockets,NBA,60,33.9,.410,.821,4.8,2.3,0.8,0.9,7.3,10.7,5.2,.123,3.4,2.8,,6448900
-battish01,2009-10,31,Houston Rockets,NBA,67,32.4,.398,.726,4.7,2.4,0.8,1.1,8.0,11.1,4.3,.095,2.1,2.2,,6864200
-battish01,2010-11,32,Memphis Grizzlies,NBA,82,29.0,.450,.688,4.5,2.3,0.8,1.0,7.6,12.3,5.1,.103,2.5,2.7,,7354500
-battish01,2010-11,32,Memphis Grizzlies,NBA,59,30.8,.456,.645,4.8,2.6,0.9,1.2,8.6,12.9,4.0,.105,2.9,2.2,,7354500
-battish01,2010-11,32,Memphis Grizzlies,NBA,23,24.2,.426,.882,4.0,1.4,0.7,0.4,5.0,10.6,1.1,.097,1.2,0.4,,7354500
-battish01,2011-12,33,Miami Heat,NBA,65,23.1,.387,.622,2.4,1.3,1.0,0.5,4.8,9.7,3.3,.104,1.7,1.4,,3000000
-battish01,2012-13,34,Miami Heat,NBA,72,24.8,.420,.842,2.3,1.0,0.6,0.8,6.6,10.7,4.4,.119,2.0,1.8,,3135000
-battish01,2013-14,35,Miami Heat,NBA,73,20.1,.382,.652,1.9,0.9,0.7,0.5,4.1,8.7,2.4,.078,0.8,1.1,,3270000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+battish01,2001-02,23,Memphis Grizzlies,NBA,78,39.7,.429,.700,5.4,2.8,1.6,1.0,14.4,13.9,4.8,.074,1.9,3.0,,2203080,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2002-03,24,Memphis Grizzlies,NBA,78,30.6,.483,.828,4.4,1.3,1.3,1.1,9.7,15.0,6.2,.126,3.6,3.4,,2368200,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2003-04,25,Memphis Grizzlies,NBA,79,24.6,.446,.732,3.8,1.3,1.3,0.7,8.5,15.3,5.9,.145,3.3,2.6,,2533440,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2004-05,26,Memphis Grizzlies,NBA,80,31.5,.442,.789,5.2,1.6,1.1,1.0,9.9,14.8,7.8,.149,3.7,3.6,,3212402,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2005-06,27,Memphis Grizzlies,NBA,81,35.0,.488,.707,5.3,1.7,1.1,1.4,10.1,14.7,9.1,.153,4.0,4.3,,4903000,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2006-07,28,Houston Rockets,NBA,82,36.4,.446,.779,4.1,2.1,1.0,0.7,10.1,12.0,9.0,.144,3.3,4.0,,5393300,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2007-08,29,Houston Rockets,NBA,80,36.3,.428,.743,5.1,1.9,1.0,1.1,9.3,11.7,8.2,.135,3.8,4.3,,5883600,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2008-09,30,Houston Rockets,NBA,60,33.9,.410,.821,4.8,2.3,0.8,0.9,7.3,10.7,5.2,.123,3.4,2.8,,6448900,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2009-10,31,Houston Rockets,NBA,67,32.4,.398,.726,4.7,2.4,0.8,1.1,8.0,11.1,4.3,.095,2.1,2.2,,6864200,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2010-11,32,Memphis Grizzlies,NBA,82,29.0,.450,.688,4.5,2.3,0.8,1.0,7.6,12.3,5.1,.103,2.5,2.7,,7354500,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2010-11,32,Memphis Grizzlies,NBA,59,30.8,.456,.645,4.8,2.6,0.9,1.2,8.6,12.9,4.0,.105,2.9,2.2,,7354500,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2010-11,32,Memphis Grizzlies,NBA,23,24.2,.426,.882,4.0,1.4,0.7,0.4,5.0,10.6,1.1,.097,1.2,0.4,,7354500,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2011-12,33,Miami Heat,NBA,65,23.1,.387,.622,2.4,1.3,1.0,0.5,4.8,9.7,3.3,.104,1.7,1.4,,3000000,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2012-13,34,Miami Heat,NBA,72,24.8,.420,.842,2.3,1.0,0.6,0.8,6.6,10.7,4.4,.119,2.0,1.8,,3135000,"Detroit Country Day School in Beverly Hills, Michigan"
+battish01,2013-14,35,Miami Heat,NBA,73,20.1,.382,.652,1.9,0.9,0.7,0.5,4.1,8.7,2.4,.078,0.8,1.1,,3270000,"Detroit Country Day School in Beverly Hills, Michigan"

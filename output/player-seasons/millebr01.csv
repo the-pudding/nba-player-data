@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-millebr01,1998-99,22,Charlotte Hornets,NBA,38,12.3,.565,.794,3.1,0.6,0.2,0.5,6.3,21.2,2.1,.220,0.5,0.3,,287500
-millebr01,1999-00,23,Charlotte Hornets,NBA,55,17.5,.461,.785,5.3,0.8,0.4,0.6,7.7,18.9,3.8,.192,0.0,0.5,,385000
-millebr01,2000-01,24,Chicago Bulls,NBA,57,25.2,.435,.743,7.4,1.9,0.6,0.7,8.9,16.4,3.4,.114,-0.7,0.5,,4000000
-millebr01,2001-02,25,Chicago Bulls,NBA,76,29.8,.499,.775,8.2,2.0,1.0,0.5,13.6,20.1,8.3,.176,2.9,2.8,,4400000
-millebr01,2001-02,25,Chicago Bulls,NBA,48,29.0,.460,.751,8.4,2.1,1.1,0.6,12.7,19.6,4.4,.152,2.6,1.6,,4400000
-millebr01,2001-02,25,Chicago Bulls,NBA,28,31.1,.562,.823,7.9,1.8,0.9,0.4,15.1,20.8,3.9,.214,3.3,1.2,,4400000
-millebr01,2002-03,26,Indiana Pacers,NBA,73,31.1,.493,.818,8.3,2.6,0.9,0.6,13.1,19.3,9.6,.202,3.8,3.3,,4800000
-millebr01,2003-04,27,Sacramento Kings,NBA,72,36.4,.510,.778,10.3,4.3,0.9,1.2,14.1,19.4,10.0,.184,4.3,4.2,,7000000
-millebr01,2004-05,28,Sacramento Kings,NBA,56,37.3,.524,.812,9.3,3.9,1.2,1.2,15.6,20.7,8.6,.198,4.5,3.4,,7875000
-millebr01,2005-06,29,Sacramento Kings,NBA,79,37.0,.495,.828,7.8,4.7,0.8,0.8,15.0,17.5,9.1,.150,2.8,3.5,,8750000
-millebr01,2006-07,30,Sacramento Kings,NBA,63,28.3,.453,.772,6.4,3.6,0.6,0.6,9.0,13.5,2.7,.072,-0.1,0.8,,9625000
-millebr01,2007-08,31,Sacramento Kings,NBA,72,34.9,.463,.848,9.5,3.7,1.0,1.0,13.4,16.8,6.5,.125,2.6,2.9,,10500000
-millebr01,2008-09,32,Chicago Bulls,NBA,70,30.0,.476,.824,7.8,3.3,0.7,0.5,11.9,16.7,5.1,.117,1.2,1.7,,11375000
-millebr01,2008-09,32,Chicago Bulls,NBA,43,31.5,.474,.801,8.0,3.4,0.7,0.6,11.9,15.7,2.6,.091,0.3,0.8,,11375000
-millebr01,2008-09,32,Chicago Bulls,NBA,27,27.6,.478,.853,7.4,3.2,0.8,0.4,11.8,18.6,2.6,.165,2.8,0.9,,11375000
-millebr01,2009-10,33,Chicago Bulls,NBA,82,23.8,.430,.827,4.9,1.9,0.5,0.4,8.8,12.9,4.0,.098,-0.8,0.6,,12250000
-millebr01,2010-11,34,Houston Rockets,NBA,60,16.9,.446,.830,3.7,2.4,0.5,0.4,6.4,16.3,3.0,.142,1.7,0.9,,4400000
-millebr01,2011-12,35,Minnesota Timberwolves,NBA,15,9.7,.333,.833,1.3,1.6,0.3,0.1,2.3,10.7,0.2,.060,-2.2,0.0,,4752000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+millebr01,1998-99,22,Charlotte Hornets,NBA,38,12.3,.565,.794,3.1,0.6,0.2,0.5,6.3,21.2,2.1,.220,0.5,0.3,,287500,"Maine Central Institute in Pittsfield, Maine"
+millebr01,1999-00,23,Charlotte Hornets,NBA,55,17.5,.461,.785,5.3,0.8,0.4,0.6,7.7,18.9,3.8,.192,0.0,0.5,,385000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2000-01,24,Chicago Bulls,NBA,57,25.2,.435,.743,7.4,1.9,0.6,0.7,8.9,16.4,3.4,.114,-0.7,0.5,,4000000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2001-02,25,Chicago Bulls,NBA,76,29.8,.499,.775,8.2,2.0,1.0,0.5,13.6,20.1,8.3,.176,2.9,2.8,,4400000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2001-02,25,Chicago Bulls,NBA,48,29.0,.460,.751,8.4,2.1,1.1,0.6,12.7,19.6,4.4,.152,2.6,1.6,,4400000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2001-02,25,Chicago Bulls,NBA,28,31.1,.562,.823,7.9,1.8,0.9,0.4,15.1,20.8,3.9,.214,3.3,1.2,,4400000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2002-03,26,Indiana Pacers,NBA,73,31.1,.493,.818,8.3,2.6,0.9,0.6,13.1,19.3,9.6,.202,3.8,3.3,,4800000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2003-04,27,Sacramento Kings,NBA,72,36.4,.510,.778,10.3,4.3,0.9,1.2,14.1,19.4,10.0,.184,4.3,4.2,,7000000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2004-05,28,Sacramento Kings,NBA,56,37.3,.524,.812,9.3,3.9,1.2,1.2,15.6,20.7,8.6,.198,4.5,3.4,,7875000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2005-06,29,Sacramento Kings,NBA,79,37.0,.495,.828,7.8,4.7,0.8,0.8,15.0,17.5,9.1,.150,2.8,3.5,,8750000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2006-07,30,Sacramento Kings,NBA,63,28.3,.453,.772,6.4,3.6,0.6,0.6,9.0,13.5,2.7,.072,-0.1,0.8,,9625000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2007-08,31,Sacramento Kings,NBA,72,34.9,.463,.848,9.5,3.7,1.0,1.0,13.4,16.8,6.5,.125,2.6,2.9,,10500000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2008-09,32,Chicago Bulls,NBA,70,30.0,.476,.824,7.8,3.3,0.7,0.5,11.9,16.7,5.1,.117,1.2,1.7,,11375000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2008-09,32,Chicago Bulls,NBA,43,31.5,.474,.801,8.0,3.4,0.7,0.6,11.9,15.7,2.6,.091,0.3,0.8,,11375000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2008-09,32,Chicago Bulls,NBA,27,27.6,.478,.853,7.4,3.2,0.8,0.4,11.8,18.6,2.6,.165,2.8,0.9,,11375000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2009-10,33,Chicago Bulls,NBA,82,23.8,.430,.827,4.9,1.9,0.5,0.4,8.8,12.9,4.0,.098,-0.8,0.6,,12250000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2010-11,34,Houston Rockets,NBA,60,16.9,.446,.830,3.7,2.4,0.5,0.4,6.4,16.3,3.0,.142,1.7,0.9,,4400000,"Maine Central Institute in Pittsfield, Maine"
+millebr01,2011-12,35,Minnesota Timberwolves,NBA,15,9.7,.333,.833,1.3,1.6,0.3,0.1,2.3,10.7,0.2,.060,-2.2,0.0,,4752000,"Maine Central Institute in Pittsfield, Maine"

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-leaftj01,2017-18,20,Indiana Pacers,NBA,53,8.7,.471,.625,1.5,0.2,0.1,0.1,2.9,10.7,0.8,.082,-4.8,-0.3,,2028360
-leaftj01,2018-19,21,IND,NBA,2,7.0,.000,,1.0,1.0,0.0,0.5,0.0,-4.1,-0.1,-0.200,-8.3,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+leaftj01,2017-18,20,Indiana Pacers,NBA,53,8.7,.471,.625,1.5,0.2,0.1,0.1,2.9,10.7,0.8,.082,-4.8,-0.3,,2028360,"Foothills Christian in El Cajon, California"
+leaftj01,2018-19,21,IND,NBA,2,7.0,.000,,1.0,1.0,0.0,0.5,0.0,-4.1,-0.1,-0.200,-8.3,0.0,,,"Foothills Christian in El Cajon, California"

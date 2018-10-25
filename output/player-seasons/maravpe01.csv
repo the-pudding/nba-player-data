@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-maravpe01,1976-77,29,NOJ,NBA,73,41.7,.433,.835,5.1,5.4,1.2,0.3,31.1,19.8,6.4,.101,1.8,2.9,All-NBA (1st)
-maravpe01,1977-78,30,NOJ,NBA,50,40.8,.444,.870,3.6,6.7,2.0,0.2,27.0,17.6,2.9,.069,0.0,1.0,All-NBA (2nd)
-maravpe01,1978-79,31,NOJ,NBA,49,37.2,.421,.841,2.5,5.0,1.2,0.4,22.6,13.4,0.1,.004,-4.5,-1.1,
-maravpe01,1979-80,32,"UTA,BOS",NBA,43,22.4,.449,.867,1.8,1.9,0.6,0.1,13.7,13.8,0.5,.027,-5.8,-0.9,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+maravpe01,1976-77,29,NOJ,NBA,73,41.7,.433,.835,5.1,5.4,1.2,0.3,31.1,19.8,6.4,.101,1.8,2.9,All-NBA (1st),"Edward Military Institute in Salemberg, North Carolina"
+maravpe01,1977-78,30,NOJ,NBA,50,40.8,.444,.870,3.6,6.7,2.0,0.2,27.0,17.6,2.9,.069,0.0,1.0,All-NBA (2nd),"Edward Military Institute in Salemberg, North Carolina"
+maravpe01,1978-79,31,NOJ,NBA,49,37.2,.421,.841,2.5,5.0,1.2,0.4,22.6,13.4,0.1,.004,-4.5,-1.1,,"Edward Military Institute in Salemberg, North Carolina"
+maravpe01,1979-80,32,"UTA,BOS",NBA,43,22.4,.449,.867,1.8,1.9,0.6,0.1,13.7,13.8,0.5,.027,-5.8,-0.9,,"Edward Military Institute in Salemberg, North Carolina"

@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-sallejo01,1986-87,22,DET,NBA,82,17.8,.562,.614,3.6,0.7,0.5,1.5,5.3,11.9,3.8,.124,2.2,1.5,,
-sallejo01,1987-88,23,Detroit Pistons,NBA,82,24.4,.566,.709,4.9,1.4,0.6,1.7,8.5,14.2,6.2,.148,3.8,2.9,,335000
-sallejo01,1988-89,24,Detroit Pistons,NBA,67,21.8,.498,.692,5.0,1.1,0.6,1.1,7.0,12.4,3.5,.115,2.0,1.5,,380000
-sallejo01,1989-90,25,DET,NBA,82,23.3,.512,.713,5.4,0.8,0.6,1.9,7.2,13.5,6.1,.152,2.9,2.4,,
-sallejo01,1990-91,26,Detroit Pistons,NBA,74,22.3,.475,.727,4.4,0.9,0.7,1.5,7.4,13.6,4.8,.139,2.5,1.9,,575000
-sallejo01,1991-92,27,Detroit Pistons,NBA,72,24.6,.512,.715,4.1,1.6,0.7,1.5,9.5,14.7,5.1,.138,2.0,1.8,,2000000
-sallejo01,1992-93,28,Miami Heat,NBA,51,27.9,.502,.799,6.1,1.6,0.6,1.4,8.3,11.9,2.5,.085,0.7,1.0,,2002000
-sallejo01,1993-94,29,Miami Heat,NBA,76,25.1,.477,.729,5.4,1.8,0.7,1.0,7.7,13.0,4.8,.122,1.2,1.6,,2452000
-sallejo01,1994-95,30,Miami Heat,NBA,75,26.1,.499,.739,4.5,1.6,0.6,1.1,7.3,11.4,3.6,.089,0.4,1.2,,2652000
-sallejo01,1995-96,31,Toronto Raptors,NBA,42,16.0,.450,.694,3.3,1.3,0.5,0.6,4.4,10.0,0.6,.045,-2.6,-0.1,,2402000
-sallejo01,1995-96,31,Toronto Raptors,NBA,25,19.3,.486,.723,3.9,1.6,0.4,0.5,6.0,10.6,0.4,.038,-4.0,-0.2,,2402000
-sallejo01,1995-96,31,Toronto Raptors,NBA,17,11.2,.343,.600,2.5,0.9,0.5,0.9,2.1,8.7,0.2,.062,0.8,0.1,,2402000
-sallejo01,1996-97,32,Toronto Raptors,NBA,,,,,,,,,,,,,,,,2225000
-sallejo01,1997-98,33,Did Not Play (retired),,,,,,,,,,,,,,,,,
-sallejo01,1998-99,34,Did Not Play (retired),,,,,,,,,,,,,,,,,
-sallejo01,1999-00,35,Los Angeles Lakers,NBA,45,6.7,.362,.750,1.4,0.6,0.2,0.3,1.6,8.3,0.5,.083,-2.1,0.0,,510000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+sallejo01,1986-87,22,DET,NBA,82,17.8,.562,.614,3.6,0.7,0.5,1.5,5.3,11.9,3.8,.124,2.2,1.5,,"Canarsie in Brooklyn, New York",
+sallejo01,1987-88,23,Detroit Pistons,NBA,82,24.4,.566,.709,4.9,1.4,0.6,1.7,8.5,14.2,6.2,.148,3.8,2.9,,"Canarsie in Brooklyn, New York",335000
+sallejo01,1988-89,24,Detroit Pistons,NBA,67,21.8,.498,.692,5.0,1.1,0.6,1.1,7.0,12.4,3.5,.115,2.0,1.5,,"Canarsie in Brooklyn, New York",380000
+sallejo01,1989-90,25,DET,NBA,82,23.3,.512,.713,5.4,0.8,0.6,1.9,7.2,13.5,6.1,.152,2.9,2.4,,"Canarsie in Brooklyn, New York",
+sallejo01,1990-91,26,Detroit Pistons,NBA,74,22.3,.475,.727,4.4,0.9,0.7,1.5,7.4,13.6,4.8,.139,2.5,1.9,,"Canarsie in Brooklyn, New York",575000
+sallejo01,1991-92,27,Detroit Pistons,NBA,72,24.6,.512,.715,4.1,1.6,0.7,1.5,9.5,14.7,5.1,.138,2.0,1.8,,"Canarsie in Brooklyn, New York",2000000
+sallejo01,1992-93,28,Miami Heat,NBA,51,27.9,.502,.799,6.1,1.6,0.6,1.4,8.3,11.9,2.5,.085,0.7,1.0,,"Canarsie in Brooklyn, New York",2002000
+sallejo01,1993-94,29,Miami Heat,NBA,76,25.1,.477,.729,5.4,1.8,0.7,1.0,7.7,13.0,4.8,.122,1.2,1.6,,"Canarsie in Brooklyn, New York",2452000
+sallejo01,1994-95,30,Miami Heat,NBA,75,26.1,.499,.739,4.5,1.6,0.6,1.1,7.3,11.4,3.6,.089,0.4,1.2,,"Canarsie in Brooklyn, New York",2652000
+sallejo01,1995-96,31,Toronto Raptors,NBA,42,16.0,.450,.694,3.3,1.3,0.5,0.6,4.4,10.0,0.6,.045,-2.6,-0.1,,"Canarsie in Brooklyn, New York",2402000
+sallejo01,1995-96,31,Toronto Raptors,NBA,25,19.3,.486,.723,3.9,1.6,0.4,0.5,6.0,10.6,0.4,.038,-4.0,-0.2,,"Canarsie in Brooklyn, New York",2402000
+sallejo01,1995-96,31,Toronto Raptors,NBA,17,11.2,.343,.600,2.5,0.9,0.5,0.9,2.1,8.7,0.2,.062,0.8,0.1,,"Canarsie in Brooklyn, New York",2402000
+sallejo01,1996-97,32,Toronto Raptors,NBA,,,,,,,,,,,,,,,,"Canarsie in Brooklyn, New York",2225000
+sallejo01,1997-98,33,Did Not Play (retired),,,,,,,,,,,,,,,,,"Canarsie in Brooklyn, New York",
+sallejo01,1998-99,34,Did Not Play (retired),,,,,,,,,,,,,,,,,"Canarsie in Brooklyn, New York",
+sallejo01,1999-00,35,Los Angeles Lakers,NBA,45,6.7,.362,.750,1.4,0.6,0.2,0.3,1.6,8.3,0.5,.083,-2.1,0.0,,"Canarsie in Brooklyn, New York",510000

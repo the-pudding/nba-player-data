@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-roberfr01,1983-84,23,SAS,NBA,79,19.4,.536,.837,3.8,1.2,0.7,0.5,7.3,12.6,3.0,.093,0.5,1.0,,
-roberfr01,1984-85,24,San Antonio Spurs,NBA,74,15.9,.498,.824,2.5,1.2,0.4,0.3,7.7,13.5,2.6,.106,-1.5,0.1,,86000
-roberfr01,1984-85,24,San Antonio Spurs,NBA,22,13.9,.449,.763,1.6,1.0,0.5,0.5,5.3,9.7,0.3,.043,-3.7,-0.1,,86000
-roberfr01,1984-85,24,San Antonio Spurs,NBA,52,16.8,.513,.840,2.9,1.3,0.3,0.2,8.7,14.8,2.3,.128,-0.8,0.3,,86000
-roberfr01,1985-86,25,Utah Jazz,NBA,58,8.1,.443,.770,1.4,0.5,0.1,0.1,3.7,9.1,0.2,.020,-6.2,-0.5,,100000
-roberfr01,1986-87,26,BOS,NBA,73,14.8,.515,.810,2.6,0.8,0.3,0.3,5.5,10.7,1.8,.078,-2.9,-0.3,,
-roberfr01,1987-88,27,Boston Celtics,NBA,74,13.9,.488,.776,2.2,1.1,0.2,0.2,6.1,12.6,1.9,.087,-2.8,-0.2,,200000
-roberfr01,1988-89,28,Milwaukee Bucks,NBA,71,17.6,.486,.806,2.9,0.9,0.5,0.3,5.9,10.6,2.0,.077,-1.7,0.1,,262000
-roberfr01,1989-90,29,MIL,NBA,82,27.3,.495,.783,3.8,1.8,0.7,0.3,10.5,11.6,3.5,.075,-1.9,0.0,,
-roberfr01,1990-91,30,Milwaukee Bucks,NBA,82,25.8,.533,.813,3.4,1.6,0.8,0.4,10.8,13.4,4.2,.096,-0.6,0.8,,690000
-roberfr01,1991-92,31,Milwaukee Bucks,NBA,80,21.8,.482,.749,3.2,1.5,0.7,0.5,9.6,12.9,2.2,.060,-1.9,0.0,,791000
-roberfr01,1992-93,32,Milwaukee Bucks,NBA,79,18.8,.528,.799,3.0,1.5,0.7,0.3,7.6,15.5,3.9,.127,0.1,0.8,,866000
-roberfr01,1993-94,33,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,
-roberfr01,1994-95,34,CLE,NBA,21,10.6,.389,.769,1.6,0.4,0.3,0.1,3.8,11.6,0.4,.092,-3.8,-0.1,,
-roberfr01,1995-96,35,Los Angeles Lakers,NBA,33,9.6,.495,.786,1.4,0.8,0.5,0.1,3.7,14.1,0.6,.086,-1.4,0.0,,225000
-roberfr01,1996-97,36,Dallas Mavericks,NBA,12,3.3,.400,.714,0.8,0.0,0.0,0.1,1.8,12.8,0.0,-0.015,-18.5,-0.2,,247500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+roberfr01,1983-84,23,SAS,NBA,79,19.4,.536,.837,3.8,1.2,0.7,0.5,7.3,12.6,3.0,.093,0.5,1.0,,"Bingham in South Jordan, Utah",
+roberfr01,1984-85,24,San Antonio Spurs,NBA,74,15.9,.498,.824,2.5,1.2,0.4,0.3,7.7,13.5,2.6,.106,-1.5,0.1,,"Bingham in South Jordan, Utah",86000
+roberfr01,1984-85,24,San Antonio Spurs,NBA,22,13.9,.449,.763,1.6,1.0,0.5,0.5,5.3,9.7,0.3,.043,-3.7,-0.1,,"Bingham in South Jordan, Utah",86000
+roberfr01,1984-85,24,San Antonio Spurs,NBA,52,16.8,.513,.840,2.9,1.3,0.3,0.2,8.7,14.8,2.3,.128,-0.8,0.3,,"Bingham in South Jordan, Utah",86000
+roberfr01,1985-86,25,Utah Jazz,NBA,58,8.1,.443,.770,1.4,0.5,0.1,0.1,3.7,9.1,0.2,.020,-6.2,-0.5,,"Bingham in South Jordan, Utah",100000
+roberfr01,1986-87,26,BOS,NBA,73,14.8,.515,.810,2.6,0.8,0.3,0.3,5.5,10.7,1.8,.078,-2.9,-0.3,,"Bingham in South Jordan, Utah",
+roberfr01,1987-88,27,Boston Celtics,NBA,74,13.9,.488,.776,2.2,1.1,0.2,0.2,6.1,12.6,1.9,.087,-2.8,-0.2,,"Bingham in South Jordan, Utah",200000
+roberfr01,1988-89,28,Milwaukee Bucks,NBA,71,17.6,.486,.806,2.9,0.9,0.5,0.3,5.9,10.6,2.0,.077,-1.7,0.1,,"Bingham in South Jordan, Utah",262000
+roberfr01,1989-90,29,MIL,NBA,82,27.3,.495,.783,3.8,1.8,0.7,0.3,10.5,11.6,3.5,.075,-1.9,0.0,,"Bingham in South Jordan, Utah",
+roberfr01,1990-91,30,Milwaukee Bucks,NBA,82,25.8,.533,.813,3.4,1.6,0.8,0.4,10.8,13.4,4.2,.096,-0.6,0.8,,"Bingham in South Jordan, Utah",690000
+roberfr01,1991-92,31,Milwaukee Bucks,NBA,80,21.8,.482,.749,3.2,1.5,0.7,0.5,9.6,12.9,2.2,.060,-1.9,0.0,,"Bingham in South Jordan, Utah",791000
+roberfr01,1992-93,32,Milwaukee Bucks,NBA,79,18.8,.528,.799,3.0,1.5,0.7,0.3,7.6,15.5,3.9,.127,0.1,0.8,,"Bingham in South Jordan, Utah",866000
+roberfr01,1993-94,33,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"Bingham in South Jordan, Utah",
+roberfr01,1994-95,34,CLE,NBA,21,10.6,.389,.769,1.6,0.4,0.3,0.1,3.8,11.6,0.4,.092,-3.8,-0.1,,"Bingham in South Jordan, Utah",
+roberfr01,1995-96,35,Los Angeles Lakers,NBA,33,9.6,.495,.786,1.4,0.8,0.5,0.1,3.7,14.1,0.6,.086,-1.4,0.0,,"Bingham in South Jordan, Utah",225000
+roberfr01,1996-97,36,Dallas Mavericks,NBA,12,3.3,.400,.714,0.8,0.0,0.0,0.1,1.8,12.8,0.0,-0.015,-18.5,-0.2,,"Bingham in South Jordan, Utah",247500

@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mcdowha01,1981-82,22,GSW,NBA,30,11.2,.405,.659,3.3,0.7,0.2,0.3,3.2,10.5,0.4,.062,-2.5,0.0,
-mcdowha01,1982-83,23,"GSW,POR",NBA,56,9.0,.460,.770,2.1,0.4,0.1,0.2,2.9,10.0,0.7,.067,-3.2,-0.2,
-mcdowha01,1983-84,24,SDC,NBA,57,10.7,.431,.679,2.7,0.6,0.2,0.0,3.6,9.6,0.1,.009,-3.9,-0.3,
-mcdowha01,1984-85,25,HOU,NBA,34,3.9,.476,.700,0.6,0.3,0.1,0.1,1.4,9.8,0.2,.069,-3.6,-0.1,
-mcdowha01,1985-86,26,HOU,NBA,22,9.3,.571,.680,2.2,0.3,0.0,0.1,3.0,10.3,0.4,.094,-4.8,-0.1,
-mcdowha01,1986-87,27,MIL,NBA,7,10.0,.471,.857,2.7,0.3,0.3,0.0,3.1,10.7,0.2,.130,-2.4,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+mcdowha01,1981-82,22,GSW,NBA,30,11.2,.405,.659,3.3,0.7,0.2,0.3,3.2,10.5,0.4,.062,-2.5,0.0,,"Treadwell in Memphis, Tennessee"
+mcdowha01,1982-83,23,"GSW,POR",NBA,56,9.0,.460,.770,2.1,0.4,0.1,0.2,2.9,10.0,0.7,.067,-3.2,-0.2,,"Treadwell in Memphis, Tennessee"
+mcdowha01,1983-84,24,SDC,NBA,57,10.7,.431,.679,2.7,0.6,0.2,0.0,3.6,9.6,0.1,.009,-3.9,-0.3,,"Treadwell in Memphis, Tennessee"
+mcdowha01,1984-85,25,HOU,NBA,34,3.9,.476,.700,0.6,0.3,0.1,0.1,1.4,9.8,0.2,.069,-3.6,-0.1,,"Treadwell in Memphis, Tennessee"
+mcdowha01,1985-86,26,HOU,NBA,22,9.3,.571,.680,2.2,0.3,0.0,0.1,3.0,10.3,0.4,.094,-4.8,-0.1,,"Treadwell in Memphis, Tennessee"
+mcdowha01,1986-87,27,MIL,NBA,7,10.0,.471,.857,2.7,0.3,0.3,0.0,3.1,10.7,0.2,.130,-2.4,0.0,,"Treadwell in Memphis, Tennessee"

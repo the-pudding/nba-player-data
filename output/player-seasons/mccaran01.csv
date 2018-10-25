@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mccaran01,1976-77,23,KCK,NBA,59,12.3,.463,.711,0.9,1.7,0.4,0.0,4.6,11.6,0.8,.055,-4.8,-0.5,
-mccaran01,1977-78,24,KCK,NBA,1,9.0,.000,,1.0,0.0,0.0,0.0,0.0,-7.2,0.0,-0.177,-14.8,0.0,
-mccaran01,1978-79,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-mccaran01,1979-80,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-mccaran01,1980-81,27,WSB,NBA,43,10.4,.378,.750,0.9,1.7,0.3,0.0,2.8,8.8,0.3,.034,-3.7,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+mccaran01,1976-77,23,KCK,NBA,59,12.3,.463,.711,0.9,1.7,0.4,0.0,4.6,11.6,0.8,.055,-4.8,-0.5,,"Overbrook in Philadelphia, Pennsylvania"
+mccaran01,1977-78,24,KCK,NBA,1,9.0,.000,,1.0,0.0,0.0,0.0,0.0,-7.2,0.0,-0.177,-14.8,0.0,,"Overbrook in Philadelphia, Pennsylvania"
+mccaran01,1978-79,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Overbrook in Philadelphia, Pennsylvania"
+mccaran01,1979-80,26,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Overbrook in Philadelphia, Pennsylvania"
+mccaran01,1980-81,27,WSB,NBA,43,10.4,.378,.750,0.9,1.7,0.3,0.0,2.8,8.8,0.3,.034,-3.7,-0.2,,"Overbrook in Philadelphia, Pennsylvania"

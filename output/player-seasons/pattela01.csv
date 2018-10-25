@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-pattela01,2015-16,24,Atlanta Hawks,NBA,35,11.3,.350,.727,1.4,1.1,0.3,0.1,2.4,5.1,0.2,.025,-4.9,-0.3,,525093
-pattela01,2016-17,25,Atlanta Hawks,NBA,5,8.0,.200,.667,1.4,1.2,0.2,0.0,1.8,-1.9,-0.1,-0.176,-11.2,-0.1,,128623
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+pattela01,2015-16,24,Atlanta Hawks,NBA,35,11.3,.350,.727,1.4,1.1,0.3,0.1,2.4,5.1,0.2,.025,-4.9,-0.3,,525093,"Saint Benedict's Preparatory School in Newark, New Jersey"
+pattela01,2016-17,25,Atlanta Hawks,NBA,5,8.0,.200,.667,1.4,1.2,0.2,0.0,1.8,-1.9,-0.1,-0.176,-11.2,-0.1,,128623,"Saint Benedict's Preparatory School in Newark, New Jersey"

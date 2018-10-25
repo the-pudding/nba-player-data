@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-harprma01,1998-99,22,Orlando Magic,NBA,50,22.3,.463,.713,4.3,0.9,0.6,0.1,8.2,13.0,2.6,.113,-1.4,0.2,,900000
-harprma01,1999-00,23,Orlando Magic,NBA,4,15.8,.235,.857,3.0,2.0,1.3,0.3,4.0,14.2,0.2,.146,2.7,0.1,,1163760
-harprma01,2000-01,24,Cleveland Cavaliers,NBA,56,28.8,.454,.812,4.3,1.8,0.8,0.3,11.1,13.3,2.6,.077,-0.6,0.6,,1244880
-harprma01,2001-02,25,Philadelphia 76ers,NBA,81,31.4,.461,.743,7.1,1.3,0.9,0.1,11.8,14.1,6.1,.115,-0.6,0.9,,1908401
-harprma01,2002-03,26,Utah Jazz,NBA,78,32.8,.511,.792,6.6,1.7,0.9,0.2,17.6,19.3,8.8,.166,2.4,2.9,,4000000
-harprma01,2003-04,27,Utah Jazz,NBA,31,36.6,.471,.688,8.0,2.0,0.7,0.1,16.2,16.1,2.8,.116,0.1,0.6,,4290000
-harprma01,2004-05,28,Utah Jazz,NBA,78,33.1,.489,.778,6.2,1.8,0.9,0.2,14.0,15.5,5.5,.102,0.7,1.8,,4690000
-harprma01,2005-06,29,Utah Jazz,NBA,71,27.4,.475,.725,5.2,1.4,0.8,0.2,12.5,16.3,4.7,.115,-0.6,0.7,,5020000
-harprma01,2006-07,30,Utah Jazz,NBA,77,25.5,.491,.767,4.6,1.3,0.7,0.1,11.6,14.7,4.7,.115,-0.8,0.6,,6500000
-harprma01,2007-08,31,Utah Jazz,NBA,76,18.1,.500,.712,3.2,1.1,0.6,0.2,8.2,14.1,2.8,.096,-1.5,0.2,,6000000
-harprma01,2008-09,32,Utah Jazz,NBA,63,11.0,.461,.764,2.0,0.4,0.5,0.1,4.4,12.3,1.2,.086,-3.0,-0.2,,6000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+harprma01,1998-99,22,Orlando Magic,NBA,50,22.3,.463,.713,4.3,0.9,0.6,0.1,8.2,13.0,2.6,.113,-1.4,0.2,,900000,"Marist School in Atlanta, Georgia"
+harprma01,1999-00,23,Orlando Magic,NBA,4,15.8,.235,.857,3.0,2.0,1.3,0.3,4.0,14.2,0.2,.146,2.7,0.1,,1163760,"Marist School in Atlanta, Georgia"
+harprma01,2000-01,24,Cleveland Cavaliers,NBA,56,28.8,.454,.812,4.3,1.8,0.8,0.3,11.1,13.3,2.6,.077,-0.6,0.6,,1244880,"Marist School in Atlanta, Georgia"
+harprma01,2001-02,25,Philadelphia 76ers,NBA,81,31.4,.461,.743,7.1,1.3,0.9,0.1,11.8,14.1,6.1,.115,-0.6,0.9,,1908401,"Marist School in Atlanta, Georgia"
+harprma01,2002-03,26,Utah Jazz,NBA,78,32.8,.511,.792,6.6,1.7,0.9,0.2,17.6,19.3,8.8,.166,2.4,2.9,,4000000,"Marist School in Atlanta, Georgia"
+harprma01,2003-04,27,Utah Jazz,NBA,31,36.6,.471,.688,8.0,2.0,0.7,0.1,16.2,16.1,2.8,.116,0.1,0.6,,4290000,"Marist School in Atlanta, Georgia"
+harprma01,2004-05,28,Utah Jazz,NBA,78,33.1,.489,.778,6.2,1.8,0.9,0.2,14.0,15.5,5.5,.102,0.7,1.8,,4690000,"Marist School in Atlanta, Georgia"
+harprma01,2005-06,29,Utah Jazz,NBA,71,27.4,.475,.725,5.2,1.4,0.8,0.2,12.5,16.3,4.7,.115,-0.6,0.7,,5020000,"Marist School in Atlanta, Georgia"
+harprma01,2006-07,30,Utah Jazz,NBA,77,25.5,.491,.767,4.6,1.3,0.7,0.1,11.6,14.7,4.7,.115,-0.8,0.6,,6500000,"Marist School in Atlanta, Georgia"
+harprma01,2007-08,31,Utah Jazz,NBA,76,18.1,.500,.712,3.2,1.1,0.6,0.2,8.2,14.1,2.8,.096,-1.5,0.2,,6000000,"Marist School in Atlanta, Georgia"
+harprma01,2008-09,32,Utah Jazz,NBA,63,11.0,.461,.764,2.0,0.4,0.5,0.1,4.4,12.3,1.2,.086,-3.0,-0.2,,6000000,"Marist School in Atlanta, Georgia"

@@ -1,24 +1,24 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-garneke01,1995-96,19,Minnesota Timberwolves,NBA,80,28.7,.491,.705,6.3,1.8,1.1,1.6,10.4,15.8,4.4,.092,1.7,2.1,,1622000
-garneke01,1996-97,20,Minnesota Timberwolves,NBA,77,38.9,.499,.754,8.0,3.1,1.4,2.1,17.0,18.2,7.3,.116,2.9,3.7,,1666000
-garneke01,1997-98,21,Minnesota Timberwolves,NBA,82,39.3,.491,.738,9.6,4.2,1.7,1.8,18.5,20.4,9.6,.143,4.8,5.5,,2109120
-garneke01,1998-99,22,Minnesota Timberwolves,NBA,47,37.9,.460,.704,10.4,4.3,1.7,1.8,20.8,22.4,5.4,.146,5.7,3.5,All-NBA (3rd),14000000
-garneke01,1999-00,23,Minnesota Timberwolves,NBA,81,40.0,.497,.765,11.8,5.0,1.5,1.6,22.9,23.6,11.6,.172,6.1,6.6,All-NBA (1st),16806300
-garneke01,2000-01,24,Minnesota Timberwolves,NBA,81,39.5,.477,.764,11.4,5.0,1.4,1.8,22.0,23.9,11.8,.176,5.7,6.2,All-NBA (2nd),19610000
-garneke01,2001-02,25,Minnesota Timberwolves,NBA,81,39.2,.470,.801,12.1,5.2,1.2,1.6,21.2,23.8,12.8,.194,6.7,7.0,All-NBA (2nd),22400000
-garneke01,2002-03,26,Minnesota Timberwolves,NBA,82,40.5,.502,.751,13.4,6.0,1.4,1.6,23.0,26.4,15.6,.225,8.7,9.0,All-NBA (1st),25200000
-garneke01,2003-04,27,Minnesota Timberwolves,NBA,82,39.4,.499,.791,13.9,5.0,1.5,2.2,24.2,29.4,18.3,.272,9.9,9.8,All-NBA (1st),28000000
-garneke01,2004-05,28,Minnesota Timberwolves,NBA,82,38.1,.502,.811,13.5,5.7,1.5,1.4,22.2,28.2,16.1,.248,9.7,9.3,All-NBA (2nd),16000000
-garneke01,2005-06,29,Minnesota Timberwolves,NBA,76,38.9,.526,.810,12.7,4.1,1.4,1.4,21.8,26.8,14.9,.242,7.9,7.4,,18000000
-garneke01,2006-07,30,Minnesota Timberwolves,NBA,76,39.4,.476,.835,12.8,4.1,1.2,1.7,22.4,24.1,10.7,.171,5.0,5.2,All-NBA (3rd),21000000
-garneke01,2007-08,31,Boston Celtics,NBA,71,32.8,.539,.801,9.2,3.4,1.4,1.3,18.8,25.3,12.9,.265,7.4,5.5,All-NBA (1st),23750000
-garneke01,2008-09,32,Boston Celtics,NBA,57,31.1,.531,.841,8.5,2.5,1.1,1.2,15.8,21.2,7.1,.193,4.0,2.7,,24751934
-garneke01,2009-10,33,Boston Celtics,NBA,69,29.9,.521,.837,7.3,2.7,1.0,0.8,14.3,19.4,7.3,.171,2.6,2.4,,16400000
-garneke01,2010-11,34,Boston Celtics,NBA,71,31.3,.528,.862,8.9,2.4,1.3,0.8,14.9,20.6,9.0,.194,4.0,3.4,,18800000
-garneke01,2011-12,35,Boston Celtics,NBA,60,31.1,.503,.857,8.2,2.9,0.9,1.0,15.8,20.4,6.9,.178,3.6,2.6,,21247044
-garneke01,2012-13,36,Boston Celtics,NBA,68,29.7,.496,.786,7.8,2.3,1.1,0.9,14.8,19.2,5.6,.133,1.0,1.5,,11566265
-garneke01,2013-14,37,Brooklyn Nets,NBA,54,20.5,.441,.809,6.6,1.5,0.8,0.7,6.5,13.3,1.2,.054,-1.9,0.0,,12443735
-garneke01,2014-15,38,Minnesota Timberwolves,NBA,47,20.3,.467,.800,6.6,1.6,1.0,0.4,6.9,15.2,1.9,.096,-0.2,0.4,,12000000
-garneke01,2014-15,38,Minnesota Timberwolves,NBA,42,20.3,.455,.829,6.8,1.6,1.0,0.3,6.8,14.8,1.6,.089,-0.4,0.3,,12000000
-garneke01,2014-15,38,Minnesota Timberwolves,NBA,5,19.6,.581,.500,5.2,1.6,1.0,0.8,7.6,19.3,0.3,.161,1.4,0.1,,12000000
-garneke01,2015-16,39,Minnesota Timberwolves,NBA,38,14.6,.470,.667,3.9,1.6,0.7,0.3,3.2,12.3,1.1,.092,0.0,0.3,,8500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+garneke01,1995-96,19,Minnesota Timberwolves,NBA,80,28.7,.491,.705,6.3,1.8,1.1,1.6,10.4,15.8,4.4,.092,1.7,2.1,,1622000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,1996-97,20,Minnesota Timberwolves,NBA,77,38.9,.499,.754,8.0,3.1,1.4,2.1,17.0,18.2,7.3,.116,2.9,3.7,,1666000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,1997-98,21,Minnesota Timberwolves,NBA,82,39.3,.491,.738,9.6,4.2,1.7,1.8,18.5,20.4,9.6,.143,4.8,5.5,,2109120,"Farragut Career Academy in Chicago, Illinois"
+garneke01,1998-99,22,Minnesota Timberwolves,NBA,47,37.9,.460,.704,10.4,4.3,1.7,1.8,20.8,22.4,5.4,.146,5.7,3.5,All-NBA (3rd),14000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,1999-00,23,Minnesota Timberwolves,NBA,81,40.0,.497,.765,11.8,5.0,1.5,1.6,22.9,23.6,11.6,.172,6.1,6.6,All-NBA (1st),16806300,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2000-01,24,Minnesota Timberwolves,NBA,81,39.5,.477,.764,11.4,5.0,1.4,1.8,22.0,23.9,11.8,.176,5.7,6.2,All-NBA (2nd),19610000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2001-02,25,Minnesota Timberwolves,NBA,81,39.2,.470,.801,12.1,5.2,1.2,1.6,21.2,23.8,12.8,.194,6.7,7.0,All-NBA (2nd),22400000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2002-03,26,Minnesota Timberwolves,NBA,82,40.5,.502,.751,13.4,6.0,1.4,1.6,23.0,26.4,15.6,.225,8.7,9.0,All-NBA (1st),25200000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2003-04,27,Minnesota Timberwolves,NBA,82,39.4,.499,.791,13.9,5.0,1.5,2.2,24.2,29.4,18.3,.272,9.9,9.8,All-NBA (1st),28000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2004-05,28,Minnesota Timberwolves,NBA,82,38.1,.502,.811,13.5,5.7,1.5,1.4,22.2,28.2,16.1,.248,9.7,9.3,All-NBA (2nd),16000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2005-06,29,Minnesota Timberwolves,NBA,76,38.9,.526,.810,12.7,4.1,1.4,1.4,21.8,26.8,14.9,.242,7.9,7.4,,18000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2006-07,30,Minnesota Timberwolves,NBA,76,39.4,.476,.835,12.8,4.1,1.2,1.7,22.4,24.1,10.7,.171,5.0,5.2,All-NBA (3rd),21000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2007-08,31,Boston Celtics,NBA,71,32.8,.539,.801,9.2,3.4,1.4,1.3,18.8,25.3,12.9,.265,7.4,5.5,All-NBA (1st),23750000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2008-09,32,Boston Celtics,NBA,57,31.1,.531,.841,8.5,2.5,1.1,1.2,15.8,21.2,7.1,.193,4.0,2.7,,24751934,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2009-10,33,Boston Celtics,NBA,69,29.9,.521,.837,7.3,2.7,1.0,0.8,14.3,19.4,7.3,.171,2.6,2.4,,16400000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2010-11,34,Boston Celtics,NBA,71,31.3,.528,.862,8.9,2.4,1.3,0.8,14.9,20.6,9.0,.194,4.0,3.4,,18800000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2011-12,35,Boston Celtics,NBA,60,31.1,.503,.857,8.2,2.9,0.9,1.0,15.8,20.4,6.9,.178,3.6,2.6,,21247044,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2012-13,36,Boston Celtics,NBA,68,29.7,.496,.786,7.8,2.3,1.1,0.9,14.8,19.2,5.6,.133,1.0,1.5,,11566265,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2013-14,37,Brooklyn Nets,NBA,54,20.5,.441,.809,6.6,1.5,0.8,0.7,6.5,13.3,1.2,.054,-1.9,0.0,,12443735,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2014-15,38,Minnesota Timberwolves,NBA,47,20.3,.467,.800,6.6,1.6,1.0,0.4,6.9,15.2,1.9,.096,-0.2,0.4,,12000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2014-15,38,Minnesota Timberwolves,NBA,42,20.3,.455,.829,6.8,1.6,1.0,0.3,6.8,14.8,1.6,.089,-0.4,0.3,,12000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2014-15,38,Minnesota Timberwolves,NBA,5,19.6,.581,.500,5.2,1.6,1.0,0.8,7.6,19.3,0.3,.161,1.4,0.1,,12000000,"Farragut Career Academy in Chicago, Illinois"
+garneke01,2015-16,39,Minnesota Timberwolves,NBA,38,14.6,.470,.667,3.9,1.6,0.7,0.3,3.2,12.3,1.1,.092,0.0,0.3,,8500000,"Farragut Career Academy in Chicago, Illinois"

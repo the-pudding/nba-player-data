@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-mcdanxa01,1985-86,22,Seattle SuperSonics,NBA,82,33.0,.490,.687,8.0,2.4,1.2,0.5,17.1,16.3,5.1,.091,1.5,2.4,,525000
-mcdanxa01,1986-87,23,SEA,NBA,82,37.0,.509,.696,8.6,2.5,1.4,0.6,23.0,18.7,7.4,.117,2.0,3.1,,
-mcdanxa01,1987-88,24,Seattle SuperSonics,NBA,78,34.7,.488,.715,6.6,3.4,1.2,0.7,21.4,18.2,6.2,.110,1.8,2.6,,875000
-mcdanxa01,1988-89,25,Seattle SuperSonics,NBA,82,29.1,.489,.732,5.3,1.6,1.0,0.5,20.5,18.6,5.3,.107,-1.5,0.3,,875000
-mcdanxa01,1989-90,26,SEA,NBA,69,35.2,.496,.733,6.5,2.5,1.1,0.5,21.3,17.9,5.4,.106,1.0,1.9,,
-mcdanxa01,1990-91,27,Phoenix Suns,NBA,81,32.5,.497,.723,6.9,2.3,0.9,0.6,17.0,15.2,5.1,.094,0.0,1.3,,1400000
-mcdanxa01,1990-91,27,Phoenix Suns,NBA,15,35.3,.479,.710,5.4,2.5,1.7,0.3,21.8,17.3,0.9,.082,-0.3,0.2,,1400000
-mcdanxa01,1990-91,27,Phoenix Suns,NBA,66,31.9,.503,.727,7.2,2.3,0.8,0.6,15.8,14.7,4.2,.096,0.1,1.1,,1400000
-mcdanxa01,1991-92,28,New York Knicks,NBA,82,28.6,.478,.714,5.6,1.8,0.7,0.3,13.7,13.9,4.6,.093,-0.4,0.9,,1625000
-mcdanxa01,1992-93,29,Boston Celtics,NBA,82,27.0,.495,.793,6.0,2.0,0.9,0.6,13.5,16.3,4.4,.096,0.9,1.6,,1869000
-mcdanxa01,1993-94,30,Boston Celtics,NBA,82,24.0,.461,.676,4.9,1.5,0.6,0.5,11.3,14.5,2.3,.055,-2.0,0.0,,2145000
-mcdanxa01,1994-95,31,Boston Celtics,NBA,68,21.0,.451,.712,4.4,1.6,0.4,0.3,8.6,12.8,1.4,.046,-2.4,-0.2,,2640000
-mcdanxa01,1995-96,32,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
-mcdanxa01,1996-97,33,New Jersey Nets,NBA,62,18.9,.389,.730,5.1,1.0,0.6,0.3,5.6,10.8,0.7,.030,-3.5,-0.5,,254000
-mcdanxa01,1997-98,34,NJN,NBA,20,9.0,.333,.625,1.6,0.5,0.2,0.1,1.3,4.3,0.0,-0.007,-5.0,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+mcdanxa01,1985-86,22,Seattle SuperSonics,NBA,82,33.0,.490,.687,8.0,2.4,1.2,0.5,17.1,16.3,5.1,.091,1.5,2.4,,525000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1986-87,23,SEA,NBA,82,37.0,.509,.696,8.6,2.5,1.4,0.6,23.0,18.7,7.4,.117,2.0,3.1,,,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1987-88,24,Seattle SuperSonics,NBA,78,34.7,.488,.715,6.6,3.4,1.2,0.7,21.4,18.2,6.2,.110,1.8,2.6,,875000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1988-89,25,Seattle SuperSonics,NBA,82,29.1,.489,.732,5.3,1.6,1.0,0.5,20.5,18.6,5.3,.107,-1.5,0.3,,875000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1989-90,26,SEA,NBA,69,35.2,.496,.733,6.5,2.5,1.1,0.5,21.3,17.9,5.4,.106,1.0,1.9,,,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1990-91,27,Phoenix Suns,NBA,81,32.5,.497,.723,6.9,2.3,0.9,0.6,17.0,15.2,5.1,.094,0.0,1.3,,1400000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1990-91,27,Phoenix Suns,NBA,15,35.3,.479,.710,5.4,2.5,1.7,0.3,21.8,17.3,0.9,.082,-0.3,0.2,,1400000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1990-91,27,Phoenix Suns,NBA,66,31.9,.503,.727,7.2,2.3,0.8,0.6,15.8,14.7,4.2,.096,0.1,1.1,,1400000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1991-92,28,New York Knicks,NBA,82,28.6,.478,.714,5.6,1.8,0.7,0.3,13.7,13.9,4.6,.093,-0.4,0.9,,1625000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1992-93,29,Boston Celtics,NBA,82,27.0,.495,.793,6.0,2.0,0.9,0.6,13.5,16.3,4.4,.096,0.9,1.6,,1869000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1993-94,30,Boston Celtics,NBA,82,24.0,.461,.676,4.9,1.5,0.6,0.5,11.3,14.5,2.3,.055,-2.0,0.0,,2145000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1994-95,31,Boston Celtics,NBA,68,21.0,.451,.712,4.4,1.6,0.4,0.3,8.6,12.8,1.4,.046,-2.4,-0.2,,2640000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1995-96,32,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1996-97,33,New Jersey Nets,NBA,62,18.9,.389,.730,5.1,1.0,0.6,0.3,5.6,10.8,0.7,.030,-3.5,-0.5,,254000,"A.C. Flora in Columbia, South Carolina"
+mcdanxa01,1997-98,34,NJN,NBA,20,9.0,.333,.625,1.6,0.5,0.2,0.1,1.3,4.3,0.0,-0.007,-5.0,-0.1,,,"A.C. Flora in Columbia, South Carolina"

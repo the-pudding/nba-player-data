@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-cartean01,1999-00,24,Miami Heat,NBA,79,23.5,.395,.750,2.5,4.8,1.2,0.1,6.3,11.0,1.4,.036,-3.1,-0.5,,385000
-cartean01,2000-01,25,Miami Heat,NBA,72,22.6,.406,.631,2.5,3.7,1.0,0.1,6.4,11.3,1.7,.050,-2.1,0.0,,1200000
-cartean01,2001-02,26,Miami Heat,NBA,46,22.8,.342,.528,2.5,4.7,1.1,0.1,4.3,8.9,0.2,.008,-3.8,-0.5,,3250000
-cartean01,2002-03,27,Miami Heat,NBA,49,18.6,.356,.660,1.7,4.1,0.9,0.1,4.1,9.9,-0.2,-0.012,-5.3,-0.8,,3656250
-cartean01,2003-04,28,San Antonio Spurs,NBA,5,17.4,.297,,2.2,2.4,0.8,0.0,4.4,0.3,-0.3,-0.176,-9.5,-0.2,,751179
-cartean01,2004-05,29,Minnesota Timberwolves,NBA,66,11.2,.407,.686,1.0,2.4,0.5,0.3,2.7,11.3,0.5,.034,-4.2,-0.4,,807546
-cartean01,2005-06,30,Minnesota Timberwolves,NBA,45,13.1,.387,.727,1.4,2.2,0.5,0.2,3.3,10.6,0.6,.047,-3.8,-0.3,,900498
-cartean01,2006-07,31,DEN,NBA,2,18.5,.375,,1.5,5.5,0.0,0.5,3.0,3.3,-0.1,-0.115,-13.2,-0.1,,
-cartean01,2007-08,32,Denver Nuggets,NBA,70,28.0,.458,.753,2.9,5.5,1.5,0.4,7.8,12.8,3.8,.092,-0.6,0.7,,1103225
-cartean01,2008-09,33,Denver Nuggets,NBA,78,22.9,.433,.731,2.6,4.7,1.2,0.2,5.3,10.8,1.8,.047,-1.8,0.1,,1147533
-cartean01,2009-10,34,Denver Nuggets,NBA,54,15.9,.420,.846,1.6,3.0,0.7,0.2,3.3,10.3,0.9,.051,-2.2,0.0,,1306455
-cartean01,2010-11,35,New York Knicks,NBA,33,14.0,.425,1.000,1.5,2.1,0.8,0.2,3.3,9.2,0.2,.023,-2.8,-0.1,,1352181
-cartean01,2010-11,35,New York Knicks,NBA,14,10.9,.333,1.000,0.9,1.9,0.6,0.1,1.9,5.4,-0.1,-0.018,-4.7,-0.1,,1352181
-cartean01,2010-11,35,New York Knicks,NBA,19,16.3,.461,1.000,2.1,2.3,0.9,0.3,4.4,11.1,0.3,.044,-1.8,0.0,,1352181
-cartean01,2011-12,36,Toronto Raptors,NBA,24,8.7,.321,.800,1.4,1.4,0.3,0.2,2.0,8.7,0.0,.001,-3.3,-0.1,,1352181
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+cartean01,1999-00,24,Miami Heat,NBA,79,23.5,.395,.750,2.5,4.8,1.2,0.1,6.3,11.0,1.4,.036,-3.1,-0.5,,385000,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2000-01,25,Miami Heat,NBA,72,22.6,.406,.631,2.5,3.7,1.0,0.1,6.4,11.3,1.7,.050,-2.1,0.0,,1200000,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2001-02,26,Miami Heat,NBA,46,22.8,.342,.528,2.5,4.7,1.1,0.1,4.3,8.9,0.2,.008,-3.8,-0.5,,3250000,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2002-03,27,Miami Heat,NBA,49,18.6,.356,.660,1.7,4.1,0.9,0.1,4.1,9.9,-0.2,-0.012,-5.3,-0.8,,3656250,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2003-04,28,San Antonio Spurs,NBA,5,17.4,.297,,2.2,2.4,0.8,0.0,4.4,0.3,-0.3,-0.176,-9.5,-0.2,,751179,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2004-05,29,Minnesota Timberwolves,NBA,66,11.2,.407,.686,1.0,2.4,0.5,0.3,2.7,11.3,0.5,.034,-4.2,-0.4,,807546,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2005-06,30,Minnesota Timberwolves,NBA,45,13.1,.387,.727,1.4,2.2,0.5,0.2,3.3,10.6,0.6,.047,-3.8,-0.3,,900498,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2006-07,31,DEN,NBA,2,18.5,.375,,1.5,5.5,0.0,0.5,3.0,3.3,-0.1,-0.115,-13.2,-0.1,,,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2007-08,32,Denver Nuggets,NBA,70,28.0,.458,.753,2.9,5.5,1.5,0.4,7.8,12.8,3.8,.092,-0.6,0.7,,1103225,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2008-09,33,Denver Nuggets,NBA,78,22.9,.433,.731,2.6,4.7,1.2,0.2,5.3,10.8,1.8,.047,-1.8,0.1,,1147533,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2009-10,34,Denver Nuggets,NBA,54,15.9,.420,.846,1.6,3.0,0.7,0.2,3.3,10.3,0.9,.051,-2.2,0.0,,1306455,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2010-11,35,New York Knicks,NBA,33,14.0,.425,1.000,1.5,2.1,0.8,0.2,3.3,9.2,0.2,.023,-2.8,-0.1,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2010-11,35,New York Knicks,NBA,14,10.9,.333,1.000,0.9,1.9,0.6,0.1,1.9,5.4,-0.1,-0.018,-4.7,-0.1,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2010-11,35,New York Knicks,NBA,19,16.3,.461,1.000,2.1,2.3,0.9,0.3,4.4,11.1,0.3,.044,-1.8,0.0,,1352181,"Alonzo A. Crim in Atlanta, Georgia"
+cartean01,2011-12,36,Toronto Raptors,NBA,24,8.7,.321,.800,1.4,1.4,0.3,0.2,2.0,8.7,0.0,.001,-3.3,-0.1,,1352181,"Alonzo A. Crim in Atlanta, Georgia"

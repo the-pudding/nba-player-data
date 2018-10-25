@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-toupaax01,2015-16,23,Denver Nuggets,NBA,21,14.5,.357,.765,1.5,0.7,0.3,0.3,3.6,7.1,0.3,.049,-2.8,-0.1,,123552
-toupaax01,2016-17,24,Milwaukee Bucks,NBA,4,11.8,.556,,0.3,0.0,0.3,0.3,2.8,6.2,0.1,.061,-3.8,0.0,,51449
-toupaax01,2016-17,24,Milwaukee Bucks,NBA,2,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-9.9,0.0,-0.191,-12.7,0.0,,51449
-toupaax01,2016-17,24,Milwaukee Bucks,NBA,2,20.5,.625,,0.5,0.0,0.5,0.5,5.5,8.6,0.1,.098,-2.5,0.0,,51449
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+toupaax01,2015-16,23,Denver Nuggets,NBA,21,14.5,.357,.765,1.5,0.7,0.3,0.3,3.6,7.1,0.3,.049,-2.8,-0.1,,123552,
+toupaax01,2016-17,24,Milwaukee Bucks,NBA,4,11.8,.556,,0.3,0.0,0.3,0.3,2.8,6.2,0.1,.061,-3.8,0.0,,51449,
+toupaax01,2016-17,24,Milwaukee Bucks,NBA,2,3.0,.000,,0.0,0.0,0.0,0.0,0.0,-9.9,0.0,-0.191,-12.7,0.0,,51449,
+toupaax01,2016-17,24,Milwaukee Bucks,NBA,2,20.5,.625,,0.5,0.0,0.5,0.5,5.5,8.6,0.1,.098,-2.5,0.0,,51449,

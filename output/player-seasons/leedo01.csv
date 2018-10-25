@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-leedo01,1991-92,27,New Jersey Nets,NBA,46,6.7,.431,.526,0.8,0.5,0.2,0.0,2.6,10.4,0.4,.067,-3.7,-0.1,,150000
-leedo01,1992-93,28,New Jersey Nets,NBA,5,6.6,.286,,0.4,1.0,0.0,0.2,1.0,-0.2,0.0,-0.067,-9.7,-0.1,,125000
-leedo01,1993-94,29,Did Not Play (other pro league—Croatia),,,,,,,,,,,,,,,,,
-leedo01,1994-95,30,Sacramento Kings,NBA,22,3.4,.360,.857,0.2,0.2,0.3,0.1,2.0,18.1,0.4,.229,3.4,0.1,,150000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+leedo01,1991-92,27,New Jersey Nets,NBA,46,6.7,.431,.526,0.8,0.5,0.2,0.0,2.6,10.4,0.4,.067,-3.7,-0.1,,150000,"Washington in Washington, Illinois"
+leedo01,1992-93,28,New Jersey Nets,NBA,5,6.6,.286,,0.4,1.0,0.0,0.2,1.0,-0.2,0.0,-0.067,-9.7,-0.1,,125000,"Washington in Washington, Illinois"
+leedo01,1993-94,29,Did Not Play (other pro league—Croatia),,,,,,,,,,,,,,,,,,"Washington in Washington, Illinois"
+leedo01,1994-95,30,Sacramento Kings,NBA,22,3.4,.360,.857,0.2,0.2,0.3,0.1,2.0,18.1,0.4,.229,3.4,0.1,,150000,"Washington in Washington, Illinois"

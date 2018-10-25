@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-kaminfr01,2015-16,22,Charlotte Hornets,NBA,81,21.1,.410,.730,4.1,1.2,0.5,0.5,7.5,12.5,3.3,.093,-1.2,0.3,,2612500
-kaminfr01,2016-17,23,Charlotte Hornets,NBA,75,26.1,.399,.756,4.5,2.2,0.6,0.5,11.7,13.0,2.3,.056,-1.5,0.2,,2730000
-kaminfr01,2017-18,24,Charlotte Hornets,NBA,79,23.2,.429,.799,3.6,1.6,0.5,0.2,11.1,14.4,3.6,.094,-0.9,0.5,,2847600
-kaminfr01,2018-19,25,CHO,NBA,2,6.5,.400,,1.5,0.5,0.0,0.0,2.0,-0.8,-0.1,-0.220,-13.5,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+kaminfr01,2015-16,22,Charlotte Hornets,NBA,81,21.1,.410,.730,4.1,1.2,0.5,0.5,7.5,12.5,3.3,.093,-1.2,0.3,,2612500,"Benet Academy in Lisle, Illinois"
+kaminfr01,2016-17,23,Charlotte Hornets,NBA,75,26.1,.399,.756,4.5,2.2,0.6,0.5,11.7,13.0,2.3,.056,-1.5,0.2,,2730000,"Benet Academy in Lisle, Illinois"
+kaminfr01,2017-18,24,Charlotte Hornets,NBA,79,23.2,.429,.799,3.6,1.6,0.5,0.2,11.1,14.4,3.6,.094,-0.9,0.5,,2847600,"Benet Academy in Lisle, Illinois"
+kaminfr01,2018-19,25,CHO,NBA,2,6.5,.400,,1.5,0.5,0.0,0.0,2.0,-0.8,-0.1,-0.220,-13.5,0.0,,,"Benet Academy in Lisle, Illinois"

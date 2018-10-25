@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-laettch01,1992-93,23,Minnesota Timberwolves,NBA,81,34.9,.474,.835,8.7,2.8,1.3,1.0,18.2,17.3,5.0,.085,0.3,1.6,,2100000
-laettch01,1993-94,24,Minnesota Timberwolves,NBA,70,34.7,.448,.783,8.6,4.4,1.2,1.2,16.8,16.8,4.1,.081,2.2,2.6,,2730000
-laettch01,1994-95,25,Minnesota Timberwolves,NBA,81,34.2,.489,.818,7.6,2.9,1.2,1.1,16.3,17.7,6.2,.108,1.8,2.7,,3360000
-laettch01,1995-96,26,Minnesota Timberwolves,NBA,74,33.7,.487,.818,7.3,2.7,1.0,1.0,16.4,17.7,6.2,.120,1.2,2.0,,3910000
-laettch01,1995-96,26,Minnesota Timberwolves,NBA,44,34.5,.486,.816,6.9,2.9,0.9,1.0,18.0,18.0,3.7,.116,1.3,1.3,,3910000
-laettch01,1995-96,26,Minnesota Timberwolves,NBA,30,32.6,.489,.823,7.9,2.3,1.0,0.9,14.2,17.2,2.5,.125,0.9,0.7,,3910000
-laettch01,1996-97,27,Atlanta Hawks,NBA,82,38.3,.486,.816,8.8,2.7,1.2,0.8,18.1,19.1,11.6,.177,2.8,3.8,,4500000
-laettch01,1997-98,28,Atlanta Hawks,NBA,74,30.8,.485,.864,6.6,2.6,1.0,1.0,13.8,18.5,7.5,.159,2.6,2.6,,5050000
-laettch01,1998-99,29,Detroit Pistons,NBA,16,21.1,.358,.772,3.4,1.5,0.9,0.8,7.6,14.6,0.7,.101,-0.3,0.1,,5360000
-laettch01,1999-00,30,Detroit Pistons,NBA,82,29.8,.473,.812,6.7,2.3,1.0,0.5,12.2,14.8,5.1,.100,0.4,1.5,,6062500
-laettch01,2000-01,31,Dallas Mavericks,NBA,78,21.3,.503,.833,4.7,1.6,0.9,0.6,9.3,17.0,4.3,.124,1.2,1.4,,6625000
-laettch01,2000-01,31,Dallas Mavericks,NBA,53,17.5,.511,.817,4.0,1.3,0.8,0.5,7.5,16.7,2.6,.134,1.2,0.8,,6625000
-laettch01,2000-01,31,Dallas Mavericks,NBA,25,29.3,.491,.844,6.1,2.3,1.2,0.8,13.2,17.6,1.7,.112,1.3,0.6,,6625000
-laettch01,2001-02,32,Washington Wizards,NBA,57,25.3,.464,.868,5.3,2.6,1.1,0.4,7.1,13.7,2.6,.086,1.2,1.2,,4500000
-laettch01,2002-03,33,Washington Wizards,NBA,76,29.1,.494,.833,6.6,3.1,1.1,0.5,8.3,16.1,6.6,.143,2.6,2.6,,5062500
-laettch01,2003-04,34,Washington Wizards,NBA,48,20.5,.465,.800,4.8,1.9,0.8,0.6,5.9,14.5,2.3,.111,0.1,0.5,,5625000
-laettch01,2004-05,35,Golden State Warriors,NBA,49,15.1,.582,.763,2.7,0.8,0.7,0.3,5.3,16.3,2.7,.174,1.6,0.7,,5500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+laettch01,1992-93,23,Minnesota Timberwolves,NBA,81,34.9,.474,.835,8.7,2.8,1.3,1.0,18.2,17.3,5.0,.085,0.3,1.6,,2100000,"Nichols School in Buffalo, New York"
+laettch01,1993-94,24,Minnesota Timberwolves,NBA,70,34.7,.448,.783,8.6,4.4,1.2,1.2,16.8,16.8,4.1,.081,2.2,2.6,,2730000,"Nichols School in Buffalo, New York"
+laettch01,1994-95,25,Minnesota Timberwolves,NBA,81,34.2,.489,.818,7.6,2.9,1.2,1.1,16.3,17.7,6.2,.108,1.8,2.7,,3360000,"Nichols School in Buffalo, New York"
+laettch01,1995-96,26,Minnesota Timberwolves,NBA,74,33.7,.487,.818,7.3,2.7,1.0,1.0,16.4,17.7,6.2,.120,1.2,2.0,,3910000,"Nichols School in Buffalo, New York"
+laettch01,1995-96,26,Minnesota Timberwolves,NBA,44,34.5,.486,.816,6.9,2.9,0.9,1.0,18.0,18.0,3.7,.116,1.3,1.3,,3910000,"Nichols School in Buffalo, New York"
+laettch01,1995-96,26,Minnesota Timberwolves,NBA,30,32.6,.489,.823,7.9,2.3,1.0,0.9,14.2,17.2,2.5,.125,0.9,0.7,,3910000,"Nichols School in Buffalo, New York"
+laettch01,1996-97,27,Atlanta Hawks,NBA,82,38.3,.486,.816,8.8,2.7,1.2,0.8,18.1,19.1,11.6,.177,2.8,3.8,,4500000,"Nichols School in Buffalo, New York"
+laettch01,1997-98,28,Atlanta Hawks,NBA,74,30.8,.485,.864,6.6,2.6,1.0,1.0,13.8,18.5,7.5,.159,2.6,2.6,,5050000,"Nichols School in Buffalo, New York"
+laettch01,1998-99,29,Detroit Pistons,NBA,16,21.1,.358,.772,3.4,1.5,0.9,0.8,7.6,14.6,0.7,.101,-0.3,0.1,,5360000,"Nichols School in Buffalo, New York"
+laettch01,1999-00,30,Detroit Pistons,NBA,82,29.8,.473,.812,6.7,2.3,1.0,0.5,12.2,14.8,5.1,.100,0.4,1.5,,6062500,"Nichols School in Buffalo, New York"
+laettch01,2000-01,31,Dallas Mavericks,NBA,78,21.3,.503,.833,4.7,1.6,0.9,0.6,9.3,17.0,4.3,.124,1.2,1.4,,6625000,"Nichols School in Buffalo, New York"
+laettch01,2000-01,31,Dallas Mavericks,NBA,53,17.5,.511,.817,4.0,1.3,0.8,0.5,7.5,16.7,2.6,.134,1.2,0.8,,6625000,"Nichols School in Buffalo, New York"
+laettch01,2000-01,31,Dallas Mavericks,NBA,25,29.3,.491,.844,6.1,2.3,1.2,0.8,13.2,17.6,1.7,.112,1.3,0.6,,6625000,"Nichols School in Buffalo, New York"
+laettch01,2001-02,32,Washington Wizards,NBA,57,25.3,.464,.868,5.3,2.6,1.1,0.4,7.1,13.7,2.6,.086,1.2,1.2,,4500000,"Nichols School in Buffalo, New York"
+laettch01,2002-03,33,Washington Wizards,NBA,76,29.1,.494,.833,6.6,3.1,1.1,0.5,8.3,16.1,6.6,.143,2.6,2.6,,5062500,"Nichols School in Buffalo, New York"
+laettch01,2003-04,34,Washington Wizards,NBA,48,20.5,.465,.800,4.8,1.9,0.8,0.6,5.9,14.5,2.3,.111,0.1,0.5,,5625000,"Nichols School in Buffalo, New York"
+laettch01,2004-05,35,Golden State Warriors,NBA,49,15.1,.582,.763,2.7,0.8,0.7,0.3,5.3,16.3,2.7,.174,1.6,0.7,,5500000,"Nichols School in Buffalo, New York"

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-weathni01,1976-77,26,"WSB,SEA",NBA,62,26.7,.449,.632,6.9,0.9,0.8,0.5,11.5,12.8,2.6,.076,-3.7,-0.7,
-weathni01,1977-78,27,CHI,NBA,41,14.9,.443,.881,3.0,0.8,0.5,0.2,5.1,10.5,0.6,.049,-2.7,-0.1,
-weathni01,1978-79,28,SDC,NBA,82,32.2,.480,.739,5.5,1.6,1.0,0.5,13.8,12.7,3.7,.068,-1.2,0.5,
-weathni01,1979-80,29,SDC,NBA,57,19.7,.434,.692,3.6,0.9,0.6,0.3,6.9,9.3,0.1,.002,-4.6,-0.7,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+weathni01,1976-77,26,"WSB,SEA",NBA,62,26.7,.449,.632,6.9,0.9,0.8,0.5,11.5,12.8,2.6,.076,-3.7,-0.7,,"McKinley in Canton, Ohio"
+weathni01,1977-78,27,CHI,NBA,41,14.9,.443,.881,3.0,0.8,0.5,0.2,5.1,10.5,0.6,.049,-2.7,-0.1,,"McKinley in Canton, Ohio"
+weathni01,1978-79,28,SDC,NBA,82,32.2,.480,.739,5.5,1.6,1.0,0.5,13.8,12.7,3.7,.068,-1.2,0.5,,"McKinley in Canton, Ohio"
+weathni01,1979-80,29,SDC,NBA,57,19.7,.434,.692,3.6,0.9,0.6,0.3,6.9,9.3,0.1,.002,-4.6,-0.7,,"McKinley in Canton, Ohio"

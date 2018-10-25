@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-schwejo01,1984-85,24,SEA,NBA,19,5.8,.338,.700,1.1,0.9,0.0,0.1,3.0,5.8,-0.4,-0.191,-10.2,-0.2,
-schwejo01,1985-86,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,
-schwejo01,1986-87,26,DET,NBA,3,2.3,.000,,0.3,0.0,0.0,0.0,0.0,-20.3,-0.1,-0.463,-22.9,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+schwejo01,1984-85,24,SEA,NBA,19,5.8,.338,.700,1.1,0.9,0.0,0.1,3.0,5.8,-0.4,-0.191,-10.2,-0.2,,"Waterloo in Waterloo, New York"
+schwejo01,1985-86,25,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,"Waterloo in Waterloo, New York"
+schwejo01,1986-87,26,DET,NBA,3,2.3,.000,,0.3,0.0,0.0,0.0,0.0,-20.3,-0.1,-0.463,-22.9,0.0,,"Waterloo in Waterloo, New York"

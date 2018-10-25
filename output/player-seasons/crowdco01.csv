@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-crowdco01,1991-92,22,Utah Jazz,NBA,51,6.4,.384,.833,0.8,0.3,0.1,0.0,2.2,8.4,0.4,.053,-3.9,-0.2,,130000
-crowdco01,1992-93,23,Utah Jazz,NBA,,,,,,,,,,,,,,,,250000
-crowdco01,1993-94,24,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,
-crowdco01,1994-95,25,San Antonio Spurs,NBA,7,4.1,.200,.333,0.4,0.1,0.1,0.0,0.9,-2.5,-0.1,-0.224,-13.0,-0.1,,142982
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+crowdco01,1991-92,22,Utah Jazz,NBA,51,6.4,.384,.833,0.8,0.3,0.1,0.0,2.2,8.4,0.4,.053,-3.9,-0.2,,130000,"Carrollton in Carrollton, Georgia"
+crowdco01,1992-93,23,Utah Jazz,NBA,,,,,,,,,,,,,,,,250000,"Carrollton in Carrollton, Georgia"
+crowdco01,1993-94,24,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Carrollton in Carrollton, Georgia"
+crowdco01,1994-95,25,San Antonio Spurs,NBA,7,4.1,.200,.333,0.4,0.1,0.1,0.0,0.9,-2.5,-0.1,-0.224,-13.0,-0.1,,142982,"Carrollton in Carrollton, Georgia"

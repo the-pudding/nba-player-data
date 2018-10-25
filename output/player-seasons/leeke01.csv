@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-leeke01,1985-86,23,Cleveland Cavaliers,NBA,58,20.6,.466,.781,6.1,1.2,0.5,0.6,7.4,12.0,1.9,.075,-0.7,0.4,,271666
-leeke01,1986-87,24,CLE,NBA,67,13.0,.455,.713,3.7,1.0,0.4,0.6,6.1,13.8,1.1,.060,-2.1,0.0,,
-leeke01,1987-88,25,New Jersey Nets,NBA,,,,,,,,,,,,,,,,301666
-leeke01,1988-89,26,New Jersey Nets,NBA,57,14.7,.422,.746,4.5,0.7,0.4,0.6,4.8,10.8,0.8,.045,-3.7,-0.4,,400000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+leeke01,1985-86,23,Cleveland Cavaliers,NBA,58,20.6,.466,.781,6.1,1.2,0.5,0.6,7.4,12.0,1.9,.075,-0.7,0.4,,271666,"West Memphis in West Memphis, Arkansas"
+leeke01,1986-87,24,CLE,NBA,67,13.0,.455,.713,3.7,1.0,0.4,0.6,6.1,13.8,1.1,.060,-2.1,0.0,,,"West Memphis in West Memphis, Arkansas"
+leeke01,1987-88,25,New Jersey Nets,NBA,,,,,,,,,,,,,,,,301666,"West Memphis in West Memphis, Arkansas"
+leeke01,1988-89,26,New Jersey Nets,NBA,57,14.7,.422,.746,4.5,0.7,0.4,0.6,4.8,10.8,0.8,.045,-3.7,-0.4,,400000,"West Memphis in West Memphis, Arkansas"

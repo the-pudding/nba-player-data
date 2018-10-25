@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-herreca01,1991-92,25,Houston Rockets,NBA,43,13.2,.516,.568,2.3,0.6,0.4,0.6,4.4,10.9,0.5,.045,-3.4,-0.2,,325000
-herreca01,1992-93,26,Houston Rockets,NBA,81,22.2,.541,.710,5.6,0.8,0.6,0.4,7.5,13.1,4.6,.123,-1.0,0.4,,800000
-herreca01,1993-94,27,Houston Rockets,NBA,75,17.2,.458,.711,3.8,0.5,0.4,0.3,4.7,9.1,2.0,.075,-3.3,-0.4,,1000000
-herreca01,1994-95,28,Houston Rockets,NBA,61,21.8,.523,.624,4.6,0.7,0.7,0.6,6.8,11.7,2.1,.076,-2.2,-0.1,,1350000
-herreca01,1995-96,29,San Antonio Spurs,NBA,44,8.9,.412,.294,1.8,0.4,0.2,0.2,1.9,4.7,-0.2,-0.020,-5.4,-0.3,,1300000
-herreca01,1996-97,30,San Antonio Spurs,NBA,75,24.5,.433,.686,4.5,0.7,0.8,0.7,8.0,10.6,0.1,.002,-4.4,-1.1,,1550000
-herreca01,1997-98,31,San Antonio Spurs,NBA,58,8.9,.434,.409,1.6,0.4,0.3,0.2,2.9,8.1,0.1,.006,-5.4,-0.4,,1820000
-herreca01,1998-99,32,Vancouver Grizzlies,NBA,28,11.0,.395,.455,2.2,0.1,0.4,0.3,2.3,6.8,-0.3,-0.042,-7.6,-0.4,,2080000
-herreca01,1998-99,32,Vancouver Grizzlies,NBA,4,10.5,.231,.000,2.0,0.8,0.0,0.0,1.5,-1.7,-0.2,-0.255,-12.9,-0.1,,2080000
-herreca01,1998-99,32,Vancouver Grizzlies,NBA,24,11.0,.429,.556,2.3,0.0,0.5,0.3,2.5,8.2,0.0,-0.008,-6.8,-0.3,,2080000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+herreca01,1991-92,25,Houston Rockets,NBA,43,13.2,.516,.568,2.3,0.6,0.4,0.6,4.4,10.9,0.5,.045,-3.4,-0.2,,325000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1992-93,26,Houston Rockets,NBA,81,22.2,.541,.710,5.6,0.8,0.6,0.4,7.5,13.1,4.6,.123,-1.0,0.4,,800000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1993-94,27,Houston Rockets,NBA,75,17.2,.458,.711,3.8,0.5,0.4,0.3,4.7,9.1,2.0,.075,-3.3,-0.4,,1000000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1994-95,28,Houston Rockets,NBA,61,21.8,.523,.624,4.6,0.7,0.7,0.6,6.8,11.7,2.1,.076,-2.2,-0.1,,1350000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1995-96,29,San Antonio Spurs,NBA,44,8.9,.412,.294,1.8,0.4,0.2,0.2,1.9,4.7,-0.2,-0.020,-5.4,-0.3,,1300000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1996-97,30,San Antonio Spurs,NBA,75,24.5,.433,.686,4.5,0.7,0.8,0.7,8.0,10.6,0.1,.002,-4.4,-1.1,,1550000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1997-98,31,San Antonio Spurs,NBA,58,8.9,.434,.409,1.6,0.4,0.3,0.2,2.9,8.1,0.1,.006,-5.4,-0.4,,1820000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1998-99,32,Vancouver Grizzlies,NBA,28,11.0,.395,.455,2.2,0.1,0.4,0.3,2.3,6.8,-0.3,-0.042,-7.6,-0.4,,2080000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1998-99,32,Vancouver Grizzlies,NBA,4,10.5,.231,.000,2.0,0.8,0.0,0.0,1.5,-1.7,-0.2,-0.255,-12.9,-0.1,,2080000,"Simon Bolivar in Caracas, Venezuela"
+herreca01,1998-99,32,Vancouver Grizzlies,NBA,24,11.0,.429,.556,2.3,0.0,0.5,0.3,2.5,8.2,0.0,-0.008,-6.8,-0.3,,2080000,"Simon Bolivar in Caracas, Venezuela"

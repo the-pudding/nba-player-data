@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-plumlma02,2016-17,24,New York Knicks,NBA,21,8.1,.533,.421,2.4,0.5,0.2,0.2,1.9,10.9,0.2,.048,-2.8,0.0,,543471
-plumlma02,2017-18,25,New York Knicks,NBA,8,6.5,.333,.750,2.1,0.3,0.0,0.1,1.8,10.9,0.2,.143,-5.7,0.0,,100000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+plumlma02,2016-17,24,New York Knicks,NBA,21,8.1,.533,.421,2.4,0.5,0.2,0.2,1.9,10.9,0.2,.048,-2.8,0.0,,543471,"Christ School in Arden, North Carolina"
+plumlma02,2017-18,25,New York Knicks,NBA,8,6.5,.333,.750,2.1,0.3,0.0,0.1,1.8,10.9,0.2,.143,-5.7,0.0,,100000,"Christ School in Arden, North Carolina"

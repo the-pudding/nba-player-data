@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-hutchch01,2018-19,22,CHI,NBA,3,11.0,.625,.500,1.7,0.0,0.3,0.0,3.7,10.9,0.0,.036,-7.2,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+hutchch01,2018-19,22,CHI,NBA,3,11.0,.625,.500,1.7,0.0,0.3,0.0,3.7,10.9,0.0,.036,-7.2,0.0,,"Mission Viejo HS in Mission Viejo, California"

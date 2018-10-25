@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-malonma01,1996-97,25,Houston Rockets,NBA,82,29.1,.441,.763,2.0,3.7,1.0,0.0,9.4,12.3,5.3,.107,-0.1,1.1,,247500
-malonma01,1997-98,26,Houston Rockets,NBA,78,28.4,.408,.833,1.8,2.8,0.8,0.1,8.6,10.5,2.2,.047,-1.9,0.1,,326700
-malonma01,1998-99,27,HOU,NBA,15,12.4,.179,.909,0.7,1.4,0.3,0.0,1.4,2.2,-0.3,-0.083,-8.5,-0.3,,
-malonma01,1999-00,28,Houston Rockets,NBA,51,23.0,.358,.822,1.3,2.7,0.6,0.1,6.4,9.4,0.7,.028,-4.8,-0.8,,2081250
-malonma01,2000-01,29,Houston Rockets,NBA,55,25.5,.420,.765,2.1,2.8,1.0,0.1,6.7,10.4,1.5,.053,-1.2,0.3,,1790000
-malonma01,2001-02,30,Houston Rockets,NBA,,,,,,,,,,,,,,,,2543750
-malonma01,2002-03,31,Houston Rockets,NBA,14,7.4,.320,.600,0.5,1.2,0.3,0.0,1.7,9.2,0.1,.031,-5.9,-0.1,,2775000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+malonma01,1996-97,25,Houston Rockets,NBA,82,29.1,.441,.763,2.0,3.7,1.0,0.0,9.4,12.3,5.3,.107,-0.1,1.1,,247500,"Memorial in Haddonfield, New Jersey"
+malonma01,1997-98,26,Houston Rockets,NBA,78,28.4,.408,.833,1.8,2.8,0.8,0.1,8.6,10.5,2.2,.047,-1.9,0.1,,326700,"Memorial in Haddonfield, New Jersey"
+malonma01,1998-99,27,HOU,NBA,15,12.4,.179,.909,0.7,1.4,0.3,0.0,1.4,2.2,-0.3,-0.083,-8.5,-0.3,,,"Memorial in Haddonfield, New Jersey"
+malonma01,1999-00,28,Houston Rockets,NBA,51,23.0,.358,.822,1.3,2.7,0.6,0.1,6.4,9.4,0.7,.028,-4.8,-0.8,,2081250,"Memorial in Haddonfield, New Jersey"
+malonma01,2000-01,29,Houston Rockets,NBA,55,25.5,.420,.765,2.1,2.8,1.0,0.1,6.7,10.4,1.5,.053,-1.2,0.3,,1790000,"Memorial in Haddonfield, New Jersey"
+malonma01,2001-02,30,Houston Rockets,NBA,,,,,,,,,,,,,,,,2543750,"Memorial in Haddonfield, New Jersey"
+malonma01,2002-03,31,Houston Rockets,NBA,14,7.4,.320,.600,0.5,1.2,0.3,0.0,1.7,9.2,0.1,.031,-5.9,-0.1,,2775000,"Memorial in Haddonfield, New Jersey"

@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-martica01,2008-09,24,Charlotte Bobcats,NBA,33,8.1,.364,.800,1.0,0.4,0.2,0.1,2.6,9.2,0.4,.070,-3.5,-0.1,,200252
-martica01,2009-10,25,Golden State Warriors,NBA,18,21.7,.368,.800,3.8,0.9,0.6,0.1,7.8,9.0,0.1,.011,-4.6,-0.3,,86638
-martica01,2009-10,25,Golden State Warriors,NBA,10,27.6,.364,.762,4.7,0.9,0.8,0.0,9.0,7.3,-0.1,-0.010,-5.5,-0.2,,86638
-martica01,2009-10,25,Golden State Warriors,NBA,8,14.3,.375,.889,2.6,0.9,0.4,0.1,6.4,13.2,0.1,.061,-2.5,0.0,,86638
-martica01,2010-11,26,Washington Wizards,NBA,52,10.4,.390,.700,1.4,0.3,0.3,0.1,4.0,11.7,0.8,.071,-3.0,-0.1,,854389
-martica01,2011-12,27,WAS,NBA,17,23.0,.440,.579,3.4,0.6,0.6,0.1,9.3,12.8,0.7,.090,-1.7,0.0,,
-martica01,2012-13,28,Washington Wizards,NBA,41,16.9,.381,.714,2.4,0.5,0.5,0.1,6.6,9.7,0.7,.047,-3.6,-0.3,,915852
-martica01,2013-14,29,"ATL,CHI",NBA,59,14.7,.420,.738,1.9,0.6,0.5,0.1,5.6,11.0,1.3,.070,-2.8,-0.2,,
-martica01,2014-15,30,Detroit Pistons,NBA,23,8.6,.283,,0.9,0.5,0.1,0.0,1.6,1.6,-0.2,-0.053,-7.1,-0.3,,1145685
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+martica01,2008-09,24,Charlotte Bobcats,NBA,33,8.1,.364,.800,1.0,0.4,0.2,0.1,2.6,9.2,0.4,.070,-3.5,-0.1,,200252,"Aldine Nimitz in Houston, Texas"
+martica01,2009-10,25,Golden State Warriors,NBA,18,21.7,.368,.800,3.8,0.9,0.6,0.1,7.8,9.0,0.1,.011,-4.6,-0.3,,86638,"Aldine Nimitz in Houston, Texas"
+martica01,2009-10,25,Golden State Warriors,NBA,10,27.6,.364,.762,4.7,0.9,0.8,0.0,9.0,7.3,-0.1,-0.010,-5.5,-0.2,,86638,"Aldine Nimitz in Houston, Texas"
+martica01,2009-10,25,Golden State Warriors,NBA,8,14.3,.375,.889,2.6,0.9,0.4,0.1,6.4,13.2,0.1,.061,-2.5,0.0,,86638,"Aldine Nimitz in Houston, Texas"
+martica01,2010-11,26,Washington Wizards,NBA,52,10.4,.390,.700,1.4,0.3,0.3,0.1,4.0,11.7,0.8,.071,-3.0,-0.1,,854389,"Aldine Nimitz in Houston, Texas"
+martica01,2011-12,27,WAS,NBA,17,23.0,.440,.579,3.4,0.6,0.6,0.1,9.3,12.8,0.7,.090,-1.7,0.0,,,"Aldine Nimitz in Houston, Texas"
+martica01,2012-13,28,Washington Wizards,NBA,41,16.9,.381,.714,2.4,0.5,0.5,0.1,6.6,9.7,0.7,.047,-3.6,-0.3,,915852,"Aldine Nimitz in Houston, Texas"
+martica01,2013-14,29,"ATL,CHI",NBA,59,14.7,.420,.738,1.9,0.6,0.5,0.1,5.6,11.0,1.3,.070,-2.8,-0.2,,,"Aldine Nimitz in Houston, Texas"
+martica01,2014-15,30,Detroit Pistons,NBA,23,8.6,.283,,0.9,0.5,0.1,0.0,1.6,1.6,-0.2,-0.053,-7.1,-0.3,,1145685,"Aldine Nimitz in Houston, Texas"

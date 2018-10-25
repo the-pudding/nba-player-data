@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-moonja01,2007-08,27,Toronto Raptors,NBA,78,27.8,.485,.741,6.2,1.2,1.0,1.4,8.5,15.0,5.7,.126,2.8,2.6,,427163
-moonja01,2008-09,28,Miami Heat,NBA,80,25.9,.468,.850,4.6,1.2,1.1,0.8,7.2,13.3,4.9,.114,1.6,1.9,,711517
-moonja01,2008-09,28,Miami Heat,NBA,54,25.5,.473,.846,4.6,1.3,1.2,0.8,7.3,14.2,3.4,.119,2.8,1.7,,711517
-moonja01,2008-09,28,Miami Heat,NBA,26,26.5,.459,.867,4.5,1.0,0.8,0.6,7.1,11.6,1.5,.103,-0.7,0.2,,711517
-moonja01,2009-10,29,Cleveland Cavaliers,NBA,61,17.2,.462,.800,3.1,0.8,0.6,0.5,4.9,12.6,2.9,.131,0.6,0.7,,2750000
-moonja01,2010-11,30,Los Angeles Clippers,NBA,59,17.7,.407,.882,2.8,0.9,0.5,0.6,4.3,10.1,1.1,.050,-1.9,0.0,,3000000
-moonja01,2010-11,30,Los Angeles Clippers,NBA,40,19.1,.402,.909,3.0,1.1,0.6,0.7,4.7,10.7,0.7,.043,-1.4,0.1,,3000000
-moonja01,2010-11,30,Los Angeles Clippers,NBA,19,14.6,.424,.833,2.5,0.4,0.2,0.3,3.5,8.4,0.4,.068,-3.3,-0.1,,3000000
-moonja01,2011-12,31,CHA,NBA,8,15.4,.292,1.000,2.8,0.6,0.1,0.6,2.3,3.4,-0.3,-0.100,-8.6,-0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+moonja01,2007-08,27,Toronto Raptors,NBA,78,27.8,.485,.741,6.2,1.2,1.0,1.4,8.5,15.0,5.7,.126,2.8,2.6,,427163,"Coosa Central in Rockford, Alabama"
+moonja01,2008-09,28,Miami Heat,NBA,80,25.9,.468,.850,4.6,1.2,1.1,0.8,7.2,13.3,4.9,.114,1.6,1.9,,711517,"Coosa Central in Rockford, Alabama"
+moonja01,2008-09,28,Miami Heat,NBA,54,25.5,.473,.846,4.6,1.3,1.2,0.8,7.3,14.2,3.4,.119,2.8,1.7,,711517,"Coosa Central in Rockford, Alabama"
+moonja01,2008-09,28,Miami Heat,NBA,26,26.5,.459,.867,4.5,1.0,0.8,0.6,7.1,11.6,1.5,.103,-0.7,0.2,,711517,"Coosa Central in Rockford, Alabama"
+moonja01,2009-10,29,Cleveland Cavaliers,NBA,61,17.2,.462,.800,3.1,0.8,0.6,0.5,4.9,12.6,2.9,.131,0.6,0.7,,2750000,"Coosa Central in Rockford, Alabama"
+moonja01,2010-11,30,Los Angeles Clippers,NBA,59,17.7,.407,.882,2.8,0.9,0.5,0.6,4.3,10.1,1.1,.050,-1.9,0.0,,3000000,"Coosa Central in Rockford, Alabama"
+moonja01,2010-11,30,Los Angeles Clippers,NBA,40,19.1,.402,.909,3.0,1.1,0.6,0.7,4.7,10.7,0.7,.043,-1.4,0.1,,3000000,"Coosa Central in Rockford, Alabama"
+moonja01,2010-11,30,Los Angeles Clippers,NBA,19,14.6,.424,.833,2.5,0.4,0.2,0.3,3.5,8.4,0.4,.068,-3.3,-0.1,,3000000,"Coosa Central in Rockford, Alabama"
+moonja01,2011-12,31,CHA,NBA,8,15.4,.292,1.000,2.8,0.6,0.1,0.6,2.3,3.4,-0.3,-0.100,-8.6,-0.2,,,"Coosa Central in Rockford, Alabama"

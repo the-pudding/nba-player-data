@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-benoida01,1991-92,23,Utah Jazz,NBA,77,15.1,.467,.810,3.8,0.4,0.2,0.6,5.6,12.1,2.0,.085,-2.9,-0.3,,230000
-benoida01,1992-93,24,Utah Jazz,NBA,82,20.9,.436,.750,4.8,0.5,0.5,0.5,8.1,11.3,2.3,.065,-3.1,-0.5,,300000
-benoida01,1993-94,25,Utah Jazz,NBA,55,19.5,.385,.773,4.7,0.4,0.4,0.7,6.5,10.9,1.6,.072,-3.3,-0.3,,810000
-benoida01,1994-95,26,Utah Jazz,NBA,71,25.9,.486,.841,5.2,0.8,0.6,0.7,10.4,13.9,4.6,.121,0.5,1.2,,1000000
-benoida01,1995-96,27,Utah Jazz,NBA,81,24.2,.439,.777,4.7,1.0,0.5,0.6,8.2,12.2,3.9,.096,0.3,1.2,,1200000
-benoida01,1996-97,28,New Jersey Nets,NBA,,,,,,,,,,,,,,,,508000
-benoida01,1997-98,29,New Jersey Nets,NBA,77,14.6,.373,.824,2.6,0.3,0.5,0.3,5.5,10.5,1.6,.067,-3.7,-0.5,,609096
-benoida01,1997-98,29,New Jersey Nets,NBA,53,15.1,.379,.841,2.7,0.3,0.5,0.3,5.3,10.0,1.1,.067,-3.1,-0.2,,609096
-benoida01,1997-98,29,New Jersey Nets,NBA,24,13.5,.360,.800,2.6,0.3,0.4,0.2,5.8,11.8,0.5,.068,-4.9,-0.2,,609096
-benoida01,1998-99,30,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,
-benoida01,1999-00,31,Did Not Play,,,,,,,,,,,,,,,,,
-benoida01,2000-01,32,Utah Jazz,NBA,49,9.1,.483,.795,1.7,0.4,0.1,0.1,3.6,11.1,0.7,.080,-3.7,-0.2,,736000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+benoida01,1991-92,23,Utah Jazz,NBA,77,15.1,.467,.810,3.8,0.4,0.2,0.6,5.6,12.1,2.0,.085,-2.9,-0.3,,230000,"Lafayette in Lafayette, Louisiana"
+benoida01,1992-93,24,Utah Jazz,NBA,82,20.9,.436,.750,4.8,0.5,0.5,0.5,8.1,11.3,2.3,.065,-3.1,-0.5,,300000,"Lafayette in Lafayette, Louisiana"
+benoida01,1993-94,25,Utah Jazz,NBA,55,19.5,.385,.773,4.7,0.4,0.4,0.7,6.5,10.9,1.6,.072,-3.3,-0.3,,810000,"Lafayette in Lafayette, Louisiana"
+benoida01,1994-95,26,Utah Jazz,NBA,71,25.9,.486,.841,5.2,0.8,0.6,0.7,10.4,13.9,4.6,.121,0.5,1.2,,1000000,"Lafayette in Lafayette, Louisiana"
+benoida01,1995-96,27,Utah Jazz,NBA,81,24.2,.439,.777,4.7,1.0,0.5,0.6,8.2,12.2,3.9,.096,0.3,1.2,,1200000,"Lafayette in Lafayette, Louisiana"
+benoida01,1996-97,28,New Jersey Nets,NBA,,,,,,,,,,,,,,,,508000,"Lafayette in Lafayette, Louisiana"
+benoida01,1997-98,29,New Jersey Nets,NBA,77,14.6,.373,.824,2.6,0.3,0.5,0.3,5.5,10.5,1.6,.067,-3.7,-0.5,,609096,"Lafayette in Lafayette, Louisiana"
+benoida01,1997-98,29,New Jersey Nets,NBA,53,15.1,.379,.841,2.7,0.3,0.5,0.3,5.3,10.0,1.1,.067,-3.1,-0.2,,609096,"Lafayette in Lafayette, Louisiana"
+benoida01,1997-98,29,New Jersey Nets,NBA,24,13.5,.360,.800,2.6,0.3,0.4,0.2,5.8,11.8,0.5,.068,-4.9,-0.2,,609096,"Lafayette in Lafayette, Louisiana"
+benoida01,1998-99,30,Did Not Play (other pro league—Israel),,,,,,,,,,,,,,,,,,"Lafayette in Lafayette, Louisiana"
+benoida01,1999-00,31,Did Not Play,,,,,,,,,,,,,,,,,,"Lafayette in Lafayette, Louisiana"
+benoida01,2000-01,32,Utah Jazz,NBA,49,9.1,.483,.795,1.7,0.4,0.1,0.1,3.6,11.1,0.7,.080,-3.7,-0.2,,736000,"Lafayette in Lafayette, Louisiana"

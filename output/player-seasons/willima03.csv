@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-willima03,2006-07,21,New Jersey Nets,NBA,79,16.6,.395,.847,2.1,3.3,0.4,0.0,6.8,11.5,-0.1,-0.004,-4.8,-0.9,,1097880
-willima03,2007-08,22,New Jersey Nets,NBA,53,16.1,.379,.787,1.9,2.6,0.5,0.1,5.9,11.0,0.2,.009,-3.9,-0.4,,1180200
-willima03,2008-09,23,Golden State Warriors,NBA,9,6.0,.235,.333,0.4,1.4,0.1,0.1,1.3,3.7,-0.1,-0.127,-11.7,-0.1,,1262520
-willima03,2009-10,24,Memphis Grizzlies,NBA,62,14.1,.384,.673,1.5,2.6,0.5,0.0,4.3,10.6,0.0,.002,-4.5,-0.5,,855189
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+willima03,2006-07,21,New Jersey Nets,NBA,79,16.6,.395,.847,2.1,3.3,0.4,0.0,6.8,11.5,-0.1,-0.004,-4.8,-0.9,,1097880,"Oak Hill Academy in Mouth of Wilson, Virginia"
+willima03,2007-08,22,New Jersey Nets,NBA,53,16.1,.379,.787,1.9,2.6,0.5,0.1,5.9,11.0,0.2,.009,-3.9,-0.4,,1180200,"Oak Hill Academy in Mouth of Wilson, Virginia"
+willima03,2008-09,23,Golden State Warriors,NBA,9,6.0,.235,.333,0.4,1.4,0.1,0.1,1.3,3.7,-0.1,-0.127,-11.7,-0.1,,1262520,"Oak Hill Academy in Mouth of Wilson, Virginia"
+willima03,2009-10,24,Memphis Grizzlies,NBA,62,14.1,.384,.673,1.5,2.6,0.5,0.0,4.3,10.6,0.0,.002,-4.5,-0.5,,855189,"Oak Hill Academy in Mouth of Wilson, Virginia"

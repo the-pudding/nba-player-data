@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-thomach01,1991-92,22,Detroit Pistons,NBA,36,4.3,.353,.667,0.6,0.6,0.1,0.0,1.3,6.1,-0.1,-0.042,-6.0,-0.2,,130000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+thomach01,1991-92,22,Detroit Pistons,NBA,36,4.3,.353,.667,0.6,0.6,0.1,0.0,1.3,6.1,-0.1,-0.042,-6.0,-0.2,,130000,"Everett in Lansing, Michigan"

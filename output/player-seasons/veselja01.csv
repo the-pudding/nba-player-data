@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-veselja01,2011-12,21,Washington Wizards,NBA,57,18.9,.537,.532,4.4,0.8,0.7,0.6,4.7,11.5,1.7,.076,-0.2,0.5,,3065040
-veselja01,2012-13,22,Washington Wizards,NBA,51,11.8,.500,.308,2.4,0.5,0.3,0.3,2.5,7.6,0.7,.059,-2.5,-0.1,,3294960
-veselja01,2013-14,23,Washington Wizards,NBA,54,14.4,.514,.339,3.5,0.4,1.0,0.6,3.6,12.7,1.6,.097,0.5,0.5,,3340920
-veselja01,2013-14,23,Washington Wizards,NBA,33,14.2,.522,.267,3.4,0.3,0.8,0.6,3.2,11.5,0.9,.090,-0.6,0.2,,3340920
-veselja01,2013-14,23,Washington Wizards,NBA,21,14.6,.506,.423,3.7,0.5,1.3,0.8,4.4,14.5,0.7,.109,2.2,0.3,,3340920
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+veselja01,2011-12,21,Washington Wizards,NBA,57,18.9,.537,.532,4.4,0.8,0.7,0.6,4.7,11.5,1.7,.076,-0.2,0.5,,3065040,
+veselja01,2012-13,22,Washington Wizards,NBA,51,11.8,.500,.308,2.4,0.5,0.3,0.3,2.5,7.6,0.7,.059,-2.5,-0.1,,3294960,
+veselja01,2013-14,23,Washington Wizards,NBA,54,14.4,.514,.339,3.5,0.4,1.0,0.6,3.6,12.7,1.6,.097,0.5,0.5,,3340920,
+veselja01,2013-14,23,Washington Wizards,NBA,33,14.2,.522,.267,3.4,0.3,0.8,0.6,3.2,11.5,0.9,.090,-0.6,0.2,,3340920,
+veselja01,2013-14,23,Washington Wizards,NBA,21,14.6,.506,.423,3.7,0.5,1.3,0.8,4.4,14.5,0.7,.109,2.2,0.3,,3340920,

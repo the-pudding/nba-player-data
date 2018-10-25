@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-planizo01,2003-04,21,New Jersey Nets,NBA,49,9.7,.411,.633,1.1,1.4,0.3,0.1,3.1,10.0,0.7,.068,-4.3,-0.3,,980280
-planizo01,2004-05,22,New Jersey Nets,NBA,43,12.0,.448,.697,1.6,1.0,0.6,0.0,5.0,12.5,0.8,.073,-2.6,-0.1,,1053720
-planizo01,2005-06,23,New Jersey Nets,NBA,56,10.6,.361,.697,1.3,0.9,0.4,0.1,3.4,6.9,0.1,.005,-5.5,-0.5,,1127280
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+planizo01,2003-04,21,New Jersey Nets,NBA,49,9.7,.411,.633,1.1,1.4,0.3,0.1,3.1,10.0,0.7,.068,-4.3,-0.3,,980280,
+planizo01,2004-05,22,New Jersey Nets,NBA,43,12.0,.448,.697,1.6,1.0,0.6,0.0,5.0,12.5,0.8,.073,-2.6,-0.1,,1053720,
+planizo01,2005-06,23,New Jersey Nets,NBA,56,10.6,.361,.697,1.3,0.9,0.4,0.1,3.4,6.9,0.1,.005,-5.5,-0.5,,1127280,

@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-thompbr01,1994-95,24,Orlando Magic,NBA,38,6.5,.395,.667,0.6,1.1,0.3,0.1,3.1,10.5,0.1,.022,-4.2,-0.1,,650000
-thompbr01,1995-96,25,Orlando Magic,NBA,33,7.5,.466,.704,0.7,0.9,0.4,0.0,4.2,16.9,0.6,.121,-0.4,0.1,,825000
-thompbr01,1996-97,26,Utah Jazz,NBA,67,15.7,.399,.632,1.4,2.7,0.8,0.0,6.6,13.6,1.1,.051,-1.1,0.2,,1118000
-thompbr01,1996-97,26,Utah Jazz,NBA,2,4.0,.000,,0.0,0.5,0.0,0.0,0.0,-9.1,0.0,-0.260,-19.2,0.0,,1118000
-thompbr01,1996-97,26,Utah Jazz,NBA,65,16.1,.400,.632,1.5,2.8,0.8,0.0,6.8,13.7,1.2,.054,-1.0,0.3,,1118000
-thompbr01,1997-98,27,"PHO,NYK",NBA,30,5.6,.411,.500,0.5,0.9,0.3,0.0,2.0,11.2,0.2,.051,-3.2,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+thompbr01,1994-95,24,Orlando Magic,NBA,38,6.5,.395,.667,0.6,1.1,0.3,0.1,3.1,10.5,0.1,.022,-4.2,-0.1,,650000,"Littleton in Littleton, Colorado"
+thompbr01,1995-96,25,Orlando Magic,NBA,33,7.5,.466,.704,0.7,0.9,0.4,0.0,4.2,16.9,0.6,.121,-0.4,0.1,,825000,"Littleton in Littleton, Colorado"
+thompbr01,1996-97,26,Utah Jazz,NBA,67,15.7,.399,.632,1.4,2.7,0.8,0.0,6.6,13.6,1.1,.051,-1.1,0.2,,1118000,"Littleton in Littleton, Colorado"
+thompbr01,1996-97,26,Utah Jazz,NBA,2,4.0,.000,,0.0,0.5,0.0,0.0,0.0,-9.1,0.0,-0.260,-19.2,0.0,,1118000,"Littleton in Littleton, Colorado"
+thompbr01,1996-97,26,Utah Jazz,NBA,65,16.1,.400,.632,1.5,2.8,0.8,0.0,6.8,13.7,1.2,.054,-1.0,0.3,,1118000,"Littleton in Littleton, Colorado"
+thompbr01,1997-98,27,"PHO,NYK",NBA,30,5.6,.411,.500,0.5,0.9,0.3,0.0,2.0,11.2,0.2,.051,-3.2,-0.1,,,"Littleton in Littleton, Colorado"

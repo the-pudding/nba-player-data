@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-butleji01,2011-12,22,Chicago Bulls,NBA,42,8.5,.405,.768,1.3,0.3,0.3,0.1,2.6,12.5,1.1,.144,-1.3,0.1,,1020960
-butleji01,2012-13,23,Chicago Bulls,NBA,82,26.0,.467,.803,4.0,1.4,1.0,0.4,8.6,15.2,7.0,.158,1.9,2.1,,1097520
-butleji01,2013-14,24,Chicago Bulls,NBA,67,38.7,.397,.769,4.9,2.6,1.9,0.5,13.1,13.5,7.1,.131,2.4,2.9,,1112880
-butleji01,2014-15,25,Chicago Bulls,NBA,65,38.7,.462,.834,5.8,3.3,1.8,0.6,20.0,21.3,11.2,.214,4.7,4.2,,2008748
-butleji01,2015-16,26,Chicago Bulls,NBA,67,36.9,.454,.832,5.3,4.8,1.6,0.6,20.9,21.3,9.1,.177,4.0,3.7,,15260000
-butleji01,2016-17,27,Chicago Bulls,NBA,76,37.0,.455,.865,6.2,5.5,1.9,0.4,23.9,25.1,13.8,.236,6.9,6.3,All-NBA (3rd),17552209
-butleji01,2017-18,28,Minnesota Timberwolves,NBA,59,36.7,.474,.854,5.3,4.9,2.0,0.4,22.2,23.7,8.9,.198,5.0,3.8,All-NBA (3rd),19301070
-butleji01,2018-19,29,MIN,NBA,4,35.5,.533,.829,5.3,3.5,3.8,1.0,24.8,28.7,0.7,.248,7.9,0.4,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+butleji01,2011-12,22,Chicago Bulls,NBA,42,8.5,.405,.768,1.3,0.3,0.3,0.1,2.6,12.5,1.1,.144,-1.3,0.1,,1020960,"Tomball in Tomball, Texas"
+butleji01,2012-13,23,Chicago Bulls,NBA,82,26.0,.467,.803,4.0,1.4,1.0,0.4,8.6,15.2,7.0,.158,1.9,2.1,,1097520,"Tomball in Tomball, Texas"
+butleji01,2013-14,24,Chicago Bulls,NBA,67,38.7,.397,.769,4.9,2.6,1.9,0.5,13.1,13.5,7.1,.131,2.4,2.9,,1112880,"Tomball in Tomball, Texas"
+butleji01,2014-15,25,Chicago Bulls,NBA,65,38.7,.462,.834,5.8,3.3,1.8,0.6,20.0,21.3,11.2,.214,4.7,4.2,,2008748,"Tomball in Tomball, Texas"
+butleji01,2015-16,26,Chicago Bulls,NBA,67,36.9,.454,.832,5.3,4.8,1.6,0.6,20.9,21.3,9.1,.177,4.0,3.7,,15260000,"Tomball in Tomball, Texas"
+butleji01,2016-17,27,Chicago Bulls,NBA,76,37.0,.455,.865,6.2,5.5,1.9,0.4,23.9,25.1,13.8,.236,6.9,6.3,All-NBA (3rd),17552209,"Tomball in Tomball, Texas"
+butleji01,2017-18,28,Minnesota Timberwolves,NBA,59,36.7,.474,.854,5.3,4.9,2.0,0.4,22.2,23.7,8.9,.198,5.0,3.8,All-NBA (3rd),19301070,"Tomball in Tomball, Texas"
+butleji01,2018-19,29,MIN,NBA,4,35.5,.533,.829,5.3,3.5,3.8,1.0,24.8,28.7,0.7,.248,7.9,0.4,,,"Tomball in Tomball, Texas"

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-amaecjo01,1995-96,25,Cleveland Cavaliers,NBA,28,12.8,.414,.576,1.9,0.3,0.2,0.4,2.8,3.1,-0.6,-0.075,-9.0,-0.6,,200000
-amaecjo01,1996-97,26,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
-amaecjo01,1997-98,27,"Did Not Play (other pro league—United Kingdom, Italy)",,,,,,,,,,,,,,,,,
-amaecjo01,1998-99,28,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
-amaecjo01,1999-00,29,Orlando Magic,NBA,80,21.1,.437,.766,3.3,1.2,0.4,0.5,10.5,13.2,2.4,.067,-3.6,-0.7,,385000
-amaecjo01,2000-01,30,Orlando Magic,NBA,82,20.9,.400,.631,3.3,0.9,0.3,0.4,7.9,8.7,0.0,.001,-6.9,-2.1,,600000
-amaecjo01,2001-02,31,Utah Jazz,NBA,54,10.9,.325,.638,2.0,0.5,0.1,0.2,3.2,5.4,-0.7,-0.056,-8.3,-0.9,,2175000
-amaecjo01,2002-03,32,Utah Jazz,NBA,50,9.5,.314,.481,1.5,0.4,0.3,0.1,2.0,3.1,-0.7,-0.070,-7.5,-0.7,,2392500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+amaecjo01,1995-96,25,Cleveland Cavaliers,NBA,28,12.8,.414,.576,1.9,0.3,0.2,0.4,2.8,3.1,-0.6,-0.075,-9.0,-0.6,,200000,"Saint John's in Toledo, Ohio"
+amaecjo01,1996-97,26,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Saint John's in Toledo, Ohio"
+amaecjo01,1997-98,27,"Did Not Play (other pro league—United Kingdom, Italy)",,,,,,,,,,,,,,,,,,"Saint John's in Toledo, Ohio"
+amaecjo01,1998-99,28,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,"Saint John's in Toledo, Ohio"
+amaecjo01,1999-00,29,Orlando Magic,NBA,80,21.1,.437,.766,3.3,1.2,0.4,0.5,10.5,13.2,2.4,.067,-3.6,-0.7,,385000,"Saint John's in Toledo, Ohio"
+amaecjo01,2000-01,30,Orlando Magic,NBA,82,20.9,.400,.631,3.3,0.9,0.3,0.4,7.9,8.7,0.0,.001,-6.9,-2.1,,600000,"Saint John's in Toledo, Ohio"
+amaecjo01,2001-02,31,Utah Jazz,NBA,54,10.9,.325,.638,2.0,0.5,0.1,0.2,3.2,5.4,-0.7,-0.056,-8.3,-0.9,,2175000,"Saint John's in Toledo, Ohio"
+amaecjo01,2002-03,32,Utah Jazz,NBA,50,9.5,.314,.481,1.5,0.4,0.3,0.1,2.0,3.1,-0.7,-0.070,-7.5,-0.7,,2392500,"Saint John's in Toledo, Ohio"

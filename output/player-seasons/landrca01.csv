@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-landrca01,2007-08,24,Houston Rockets,NBA,42,16.9,.616,.661,4.9,0.5,0.4,0.2,8.1,21.4,3.7,.251,1.8,0.7,,427163
-landrca01,2008-09,25,Houston Rockets,NBA,69,21.3,.574,.813,5.0,0.6,0.4,0.4,9.2,17.7,5.9,.193,0.4,0.9,,3000000
-landrca01,2009-10,26,Sacramento Kings,NBA,80,30.9,.536,.806,5.9,0.8,0.7,0.8,16.8,19.0,7.7,.150,-0.7,0.8,,3000000
-landrca01,2009-10,26,Sacramento Kings,NBA,52,27.2,.547,.839,5.5,0.8,0.5,0.9,16.1,21.1,5.4,.184,0.0,0.7,,3000000
-landrca01,2009-10,26,Sacramento Kings,NBA,28,37.6,.520,.741,6.5,0.9,1.0,0.6,18.0,16.0,2.3,.105,-1.5,0.1,,3000000
-landrca01,2010-11,27,New Orleans Hornets,NBA,76,26.4,.502,.740,4.6,0.8,0.5,0.4,11.9,14.8,4.1,.098,-2.0,0.0,,3000000
-landrca01,2010-11,27,New Orleans Hornets,NBA,53,26.5,.492,.721,4.8,0.9,0.6,0.4,11.9,14.7,2.5,.086,-2.0,0.0,,3000000
-landrca01,2010-11,27,New Orleans Hornets,NBA,23,26.2,.527,.795,4.1,0.6,0.4,0.5,11.8,15.2,1.6,.125,-1.7,0.0,,3000000
-landrca01,2011-12,28,New Orleans Hornets,NBA,41,24.4,.503,.799,5.2,0.9,0.3,0.3,12.5,18.2,2.9,.139,-1.8,0.1,,8500000
-landrca01,2012-13,29,Golden State Warriors,NBA,81,23.2,.540,.817,6.0,0.8,0.4,0.4,10.8,17.5,6.2,.159,-0.7,0.6,,4000000
-landrca01,2013-14,30,Sacramento Kings,NBA,18,12.9,.517,.824,3.2,0.3,0.2,0.1,4.2,11.2,0.4,.088,-4.9,-0.2,,6500000
-landrca01,2014-15,31,Sacramento Kings,NBA,70,17.0,.515,.820,3.8,0.4,0.2,0.2,7.2,14.9,2.8,.112,-3.6,-0.5,,6500000
-landrca01,2015-16,32,Philadelphia 76ers,NBA,36,15.8,.556,.736,4.1,0.9,0.3,0.3,9.8,22.4,2.1,.176,-0.7,0.2,,6500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+landrca01,2007-08,24,Houston Rockets,NBA,42,16.9,.616,.661,4.9,0.5,0.4,0.2,8.1,21.4,3.7,.251,1.8,0.7,,427163,"Vincent in Milwaukee, Wisconsin"
+landrca01,2008-09,25,Houston Rockets,NBA,69,21.3,.574,.813,5.0,0.6,0.4,0.4,9.2,17.7,5.9,.193,0.4,0.9,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2009-10,26,Sacramento Kings,NBA,80,30.9,.536,.806,5.9,0.8,0.7,0.8,16.8,19.0,7.7,.150,-0.7,0.8,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2009-10,26,Sacramento Kings,NBA,52,27.2,.547,.839,5.5,0.8,0.5,0.9,16.1,21.1,5.4,.184,0.0,0.7,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2009-10,26,Sacramento Kings,NBA,28,37.6,.520,.741,6.5,0.9,1.0,0.6,18.0,16.0,2.3,.105,-1.5,0.1,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2010-11,27,New Orleans Hornets,NBA,76,26.4,.502,.740,4.6,0.8,0.5,0.4,11.9,14.8,4.1,.098,-2.0,0.0,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2010-11,27,New Orleans Hornets,NBA,53,26.5,.492,.721,4.8,0.9,0.6,0.4,11.9,14.7,2.5,.086,-2.0,0.0,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2010-11,27,New Orleans Hornets,NBA,23,26.2,.527,.795,4.1,0.6,0.4,0.5,11.8,15.2,1.6,.125,-1.7,0.0,,3000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2011-12,28,New Orleans Hornets,NBA,41,24.4,.503,.799,5.2,0.9,0.3,0.3,12.5,18.2,2.9,.139,-1.8,0.1,,8500000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2012-13,29,Golden State Warriors,NBA,81,23.2,.540,.817,6.0,0.8,0.4,0.4,10.8,17.5,6.2,.159,-0.7,0.6,,4000000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2013-14,30,Sacramento Kings,NBA,18,12.9,.517,.824,3.2,0.3,0.2,0.1,4.2,11.2,0.4,.088,-4.9,-0.2,,6500000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2014-15,31,Sacramento Kings,NBA,70,17.0,.515,.820,3.8,0.4,0.2,0.2,7.2,14.9,2.8,.112,-3.6,-0.5,,6500000,"Vincent in Milwaukee, Wisconsin"
+landrca01,2015-16,32,Philadelphia 76ers,NBA,36,15.8,.556,.736,4.1,0.9,0.3,0.3,9.8,22.4,2.1,.176,-0.7,0.2,,6500000,"Vincent in Milwaukee, Wisconsin"

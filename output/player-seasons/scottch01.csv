@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-scottch01,1976-77,28,BOS,NBA,43,36.8,.444,.746,4.4,4.6,1.4,0.3,18.2,14.1,2.5,.075,0.2,0.9,
-scottch01,1977-78,29,"BOS,LAL",NBA,79,31.3,.438,.746,3.2,4.8,1.4,0.2,13.5,12.3,2.4,.046,-1.8,0.1,
-scottch01,1978-79,30,DEN,NBA,79,33.1,.460,.749,2.7,5.4,1.0,0.4,12.0,9.8,1.9,.035,-3.0,-0.7,
-scottch01,1979-80,31,DEN,NBA,69,27.0,.401,.720,2.4,3.6,0.7,0.3,9.3,7.4,-1.4,-0.037,-5.9,-1.8,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+scottch01,1976-77,28,BOS,NBA,43,36.8,.444,.746,4.4,4.6,1.4,0.3,18.2,14.1,2.5,.075,0.2,0.9,,"Laurinburg Institute in Laurinburg, North Carolina"
+scottch01,1977-78,29,"BOS,LAL",NBA,79,31.3,.438,.746,3.2,4.8,1.4,0.2,13.5,12.3,2.4,.046,-1.8,0.1,,"Laurinburg Institute in Laurinburg, North Carolina"
+scottch01,1978-79,30,DEN,NBA,79,33.1,.460,.749,2.7,5.4,1.0,0.4,12.0,9.8,1.9,.035,-3.0,-0.7,,"Laurinburg Institute in Laurinburg, North Carolina"
+scottch01,1979-80,31,DEN,NBA,69,27.0,.401,.720,2.4,3.6,0.7,0.3,9.3,7.4,-1.4,-0.037,-5.9,-1.8,,"Laurinburg Institute in Laurinburg, North Carolina"

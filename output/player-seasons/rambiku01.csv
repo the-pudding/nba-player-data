@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-rambiku01,1981-82,23,LAL,NBA,64,17.7,.518,.504,5.4,0.9,0.9,1.2,4.6,12.8,2.3,.100,1.2,0.9,,
-rambiku01,1982-83,24,LAL,NBA,78,23.2,.569,.687,6.8,1.2,1.3,0.8,7.5,14.1,4.3,.116,1.8,1.7,,
-rambiku01,1983-84,25,LAL,NBA,47,15.8,.558,.636,5.7,0.7,0.6,0.3,3.6,10.9,1.5,.095,-0.4,0.3,,
-rambiku01,1984-85,26,Los Angeles Lakers,NBA,82,19.7,.554,.660,6.4,0.8,1.0,0.6,5.2,12.7,4.1,.120,1.7,1.5,,200000
-rambiku01,1985-86,27,Los Angeles Lakers,NBA,74,21.3,.595,.721,7.0,0.9,0.9,0.4,5.5,12.7,4.3,.131,2.1,1.6,,450000
-rambiku01,1986-87,28,LAL,NBA,78,19.4,.521,.764,5.8,0.8,0.9,0.5,5.7,12.6,3.9,.123,0.8,1.1,,
-rambiku01,1987-88,29,Los Angeles Lakers,NBA,70,12.1,.548,.785,3.8,0.8,0.6,0.2,4.0,15.0,2.6,.147,1.3,0.7,,525000
-rambiku01,1988-89,30,Charlotte Hornets,NBA,75,29.8,.518,.734,9.4,2.1,1.3,0.8,11.1,16.1,4.8,.104,2.8,2.7,,625000
-rambiku01,1989-90,31,"CHH,PHO",NBA,74,25.7,.509,.646,7.1,1.8,1.4,0.5,6.2,12.1,4.1,.103,2.6,2.2,,
-rambiku01,1990-91,32,Phoenix Suns,NBA,62,14.5,.497,.706,4.3,1.0,0.4,0.2,3.6,11.4,2.2,.115,0.2,0.5,,900000
-rambiku01,1991-92,33,Phoenix Suns,NBA,28,13.6,.463,.778,3.8,1.3,0.4,0.5,3.2,10.6,0.6,.079,-0.8,0.1,,950000
-rambiku01,1992-93,34,Phoenix Suns,NBA,72,11.4,.519,.662,3.2,0.7,0.6,0.3,2.5,11.2,1.7,.098,-0.1,0.4,,1100000
-rambiku01,1992-93,34,Phoenix Suns,NBA,5,8.2,.571,.500,1.2,0.2,0.6,0.0,1.8,4.6,-0.1,-0.061,-5.1,0.0,,1100000
-rambiku01,1992-93,34,Phoenix Suns,NBA,67,11.7,.516,.667,3.3,0.8,0.6,0.3,2.5,11.6,1.7,.107,0.1,0.4,,1100000
-rambiku01,1993-94,35,Los Angeles Lakers,NBA,50,12.7,.518,.648,3.8,0.6,0.4,0.5,3.3,14.0,1.7,.125,-0.1,0.3,,400000
-rambiku01,1994-95,36,LAL,NBA,26,7.5,.514,.667,1.3,0.6,0.1,0.3,1.7,9.4,0.3,.076,-2.8,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+rambiku01,1981-82,23,LAL,NBA,64,17.7,.518,.504,5.4,0.9,0.9,1.2,4.6,12.8,2.3,.100,1.2,0.9,,"Cupertino in Cupertino, California",
+rambiku01,1982-83,24,LAL,NBA,78,23.2,.569,.687,6.8,1.2,1.3,0.8,7.5,14.1,4.3,.116,1.8,1.7,,"Cupertino in Cupertino, California",
+rambiku01,1983-84,25,LAL,NBA,47,15.8,.558,.636,5.7,0.7,0.6,0.3,3.6,10.9,1.5,.095,-0.4,0.3,,"Cupertino in Cupertino, California",
+rambiku01,1984-85,26,Los Angeles Lakers,NBA,82,19.7,.554,.660,6.4,0.8,1.0,0.6,5.2,12.7,4.1,.120,1.7,1.5,,"Cupertino in Cupertino, California",200000
+rambiku01,1985-86,27,Los Angeles Lakers,NBA,74,21.3,.595,.721,7.0,0.9,0.9,0.4,5.5,12.7,4.3,.131,2.1,1.6,,"Cupertino in Cupertino, California",450000
+rambiku01,1986-87,28,LAL,NBA,78,19.4,.521,.764,5.8,0.8,0.9,0.5,5.7,12.6,3.9,.123,0.8,1.1,,"Cupertino in Cupertino, California",
+rambiku01,1987-88,29,Los Angeles Lakers,NBA,70,12.1,.548,.785,3.8,0.8,0.6,0.2,4.0,15.0,2.6,.147,1.3,0.7,,"Cupertino in Cupertino, California",525000
+rambiku01,1988-89,30,Charlotte Hornets,NBA,75,29.8,.518,.734,9.4,2.1,1.3,0.8,11.1,16.1,4.8,.104,2.8,2.7,,"Cupertino in Cupertino, California",625000
+rambiku01,1989-90,31,"CHH,PHO",NBA,74,25.7,.509,.646,7.1,1.8,1.4,0.5,6.2,12.1,4.1,.103,2.6,2.2,,"Cupertino in Cupertino, California",
+rambiku01,1990-91,32,Phoenix Suns,NBA,62,14.5,.497,.706,4.3,1.0,0.4,0.2,3.6,11.4,2.2,.115,0.2,0.5,,"Cupertino in Cupertino, California",900000
+rambiku01,1991-92,33,Phoenix Suns,NBA,28,13.6,.463,.778,3.8,1.3,0.4,0.5,3.2,10.6,0.6,.079,-0.8,0.1,,"Cupertino in Cupertino, California",950000
+rambiku01,1992-93,34,Phoenix Suns,NBA,72,11.4,.519,.662,3.2,0.7,0.6,0.3,2.5,11.2,1.7,.098,-0.1,0.4,,"Cupertino in Cupertino, California",1100000
+rambiku01,1992-93,34,Phoenix Suns,NBA,5,8.2,.571,.500,1.2,0.2,0.6,0.0,1.8,4.6,-0.1,-0.061,-5.1,0.0,,"Cupertino in Cupertino, California",1100000
+rambiku01,1992-93,34,Phoenix Suns,NBA,67,11.7,.516,.667,3.3,0.8,0.6,0.3,2.5,11.6,1.7,.107,0.1,0.4,,"Cupertino in Cupertino, California",1100000
+rambiku01,1993-94,35,Los Angeles Lakers,NBA,50,12.7,.518,.648,3.8,0.6,0.4,0.5,3.3,14.0,1.7,.125,-0.1,0.3,,"Cupertino in Cupertino, California",400000
+rambiku01,1994-95,36,LAL,NBA,26,7.5,.514,.667,1.3,0.6,0.1,0.3,1.7,9.4,0.3,.076,-2.8,0.0,,"Cupertino in Cupertino, California",

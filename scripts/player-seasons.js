@@ -193,7 +193,7 @@ function getAwardHTML($) {
 		.get()[0];
 }
 
-function joinStats(basic, advanced, award, salary) {
+function joinStats(basic, advanced, award, salary, hs) {
 	const joined = basic.map(b => {
 		const advancedMatch = advanced.find(
 			a => a.Season === b.Season && a.Tm === b.Tm
@@ -205,7 +205,8 @@ function joinStats(basic, advanced, award, salary) {
 			...advancedMatch,
 			Award: '',
 			...awardMatch,
-			...salaryMatch
+			...salaryMatch,
+			HS: hs
 		};
 	});
 
@@ -232,6 +233,23 @@ function joinStats(basic, advanced, award, salary) {
 	return withOthers;
 }
 
+function getHighSchool($) {
+	let hs = null;
+	$('#meta')
+		.find('p')
+		.each((i, el) => {
+			const t = $(el).text();
+			if (t.includes('High School:')) {
+				hs = t
+					.replace(/\n/g, '')
+					.replace(/\s{2,}/g, ' ')
+					.replace('High School:', '')
+					.trim();
+			}
+		});
+	return hs;
+}
+
 function getSeasons(player, i) {
 	const tempID = player.link.replace('/players/', '').replace('.html', '');
 	const bbrID = tempID.split('/')[1];
@@ -239,6 +257,8 @@ function getSeasons(player, i) {
 	console.log(d3.format('.1%')(i / data.length), i, bbrID);
 	const file = fs.readFileSync(`./output/player-pages/${bbrID}.html`, 'utf-8');
 	const $ = cheerio.load(file);
+
+	const hs = getHighSchool($);
 
 	const basic = $.html('#all_per_game');
 	const basicStats = getSeasonStats(bbrID, basic, 'basic');
@@ -266,7 +286,8 @@ function getSeasons(player, i) {
 		basicStats,
 		advancedStats,
 		awardStats,
-		salaryStats
+		salaryStats,
+		hs
 	);
 
 	// filter out pre merger

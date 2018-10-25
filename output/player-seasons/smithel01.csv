@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-smithel01,1976-77,27,"MIL,CLE",NBA,70,20.9,.475,.549,6.3,0.6,0.5,2.1,8.6,14.9,2.9,.094,-2.1,0.0,
-smithel01,1977-78,28,CLE,NBA,81,24.6,.497,.663,8.4,0.7,0.6,2.2,12.5,19.9,6.8,.164,0.5,1.2,
-smithel01,1978-79,29,CLE,NBA,24,13.8,.531,.692,4.4,0.5,0.3,0.7,6.5,14.5,0.3,.046,-3.4,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+smithel01,1976-77,27,"MIL,CLE",NBA,70,20.9,.475,.549,6.3,0.6,0.5,2.1,8.6,14.9,2.9,.094,-2.1,0.0,,"Ballard-Hudson in Macon, Georgia"
+smithel01,1977-78,28,CLE,NBA,81,24.6,.497,.663,8.4,0.7,0.6,2.2,12.5,19.9,6.8,.164,0.5,1.2,,"Ballard-Hudson in Macon, Georgia"
+smithel01,1978-79,29,CLE,NBA,24,13.8,.531,.692,4.4,0.5,0.3,0.7,6.5,14.5,0.3,.046,-3.4,-0.1,,"Ballard-Hudson in Macon, Georgia"

@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-pargoje01,2011-12,25,Memphis Grizzlies,NBA,44,9.6,.333,.593,0.8,1.3,0.3,0.0,2.9,4.4,-0.8,-0.085,-7.7,-0.6,,1000000
-pargoje01,2012-13,26,Cleveland Cavaliers,NBA,39,16.8,.396,.677,1.3,2.4,0.3,0.1,6.8,10.4,0.0,-0.002,-6.3,-0.7,,762195
-pargoje01,2012-13,26,Cleveland Cavaliers,NBA,25,17.9,.401,.683,1.3,2.6,0.5,0.1,7.8,11.3,-0.1,-0.006,-5.6,-0.4,,762195
-pargoje01,2012-13,26,Cleveland Cavaliers,NBA,14,14.9,.381,.667,1.2,2.0,0.1,0.0,4.9,8.4,0.0,.006,-7.8,-0.3,,762195
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+pargoje01,2011-12,25,Memphis Grizzlies,NBA,44,9.6,.333,.593,0.8,1.3,0.3,0.0,2.9,4.4,-0.8,-0.085,-7.7,-0.6,,1000000,"Paul Robeson in Chicago, Illinois"
+pargoje01,2012-13,26,Cleveland Cavaliers,NBA,39,16.8,.396,.677,1.3,2.4,0.3,0.1,6.8,10.4,0.0,-0.002,-6.3,-0.7,,762195,"Paul Robeson in Chicago, Illinois"
+pargoje01,2012-13,26,Cleveland Cavaliers,NBA,25,17.9,.401,.683,1.3,2.6,0.5,0.1,7.8,11.3,-0.1,-0.006,-5.6,-0.4,,762195,"Paul Robeson in Chicago, Illinois"
+pargoje01,2012-13,26,Cleveland Cavaliers,NBA,14,14.9,.381,.667,1.2,2.0,0.1,0.0,4.9,8.4,0.0,.006,-7.8,-0.3,,762195,"Paul Robeson in Chicago, Illinois"

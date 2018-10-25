@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-iwundwe01,2017-18,23,Orlando Magic,NBA,62,16.5,.427,.723,2.2,0.9,0.5,0.2,3.7,7.8,0.7,.032,-3.5,-0.4,,1050000
-iwundwe01,2018-19,24,ORL,NBA,2,16.5,.267,.600,4.0,0.0,0.5,0.0,5.5,5.9,0.0,-0.070,-13.8,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+iwundwe01,2017-18,23,Orlando Magic,NBA,62,16.5,.427,.723,2.2,0.9,0.5,0.2,3.7,7.8,0.7,.032,-3.5,-0.4,,1050000,"Spring Westfield in Houston, Texas"
+iwundwe01,2018-19,24,ORL,NBA,2,16.5,.267,.600,4.0,0.0,0.5,0.0,5.5,5.9,0.0,-0.070,-13.8,-0.1,,,"Spring Westfield in Houston, Texas"

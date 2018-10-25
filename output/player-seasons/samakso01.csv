@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-samakso01,2000-01,22,New Jersey Nets,NBA,34,6.6,.375,.417,1.6,0.0,0.1,0.4,1.4,9.0,0.1,.028,-7.5,-0.3,,316969
-samakso01,2001-02,23,Chicago Bulls,NBA,,,,,,,,,,,,,,,,465850
-samakso01,2002-03,24,Los Angeles Lakers,NBA,13,5.9,.417,1.000,1.8,0.3,0.0,0.4,1.7,12.9,0.2,.102,-3.3,0.0,,124984
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+samakso01,2000-01,22,New Jersey Nets,NBA,34,6.6,.375,.417,1.6,0.0,0.1,0.4,1.4,9.0,0.1,.028,-7.5,-0.3,,316969,
+samakso01,2001-02,23,Chicago Bulls,NBA,,,,,,,,,,,,,,,,465850,
+samakso01,2002-03,24,Los Angeles Lakers,NBA,13,5.9,.417,1.000,1.8,0.3,0.0,0.4,1.7,12.9,0.2,.102,-3.3,0.0,,124984,

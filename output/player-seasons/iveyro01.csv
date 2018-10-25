@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-iveyro01,2004-05,23,Atlanta Hawks,NBA,62,13.0,.429,.701,1.4,1.7,0.6,0.1,3.5,8.9,0.2,.009,-5.0,-0.6,,425000
-iveyro01,2005-06,24,Atlanta Hawks,NBA,73,13.4,.439,.727,1.3,1.0,0.3,0.1,3.6,8.4,0.7,.034,-5.1,-0.8,,641748
-iveyro01,2006-07,25,Atlanta Hawks,NBA,53,10.2,.448,.686,1.0,0.8,0.5,0.1,3.0,9.6,0.3,.030,-4.4,-0.3,,744551
-iveyro01,2007-08,26,Milwaukee Bucks,NBA,75,19.2,.394,.726,1.6,2.1,0.6,0.1,5.6,8.8,0.5,.018,-4.4,-0.9,,826046
-iveyro01,2008-09,27,Philadelphia 76ers,NBA,71,12.1,.332,.791,1.1,0.6,0.5,0.1,3.0,7.6,0.9,.052,-2.2,0.0,,854957
-iveyro01,2009-10,28,Milwaukee Bucks,NBA,44,7.4,.422,.750,0.8,0.6,0.4,0.0,2.1,11.0,0.6,.086,-1.4,0.0,,1050000
-iveyro01,2009-10,28,Milwaukee Bucks,NBA,26,9.1,.473,.857,1.0,0.7,0.4,0.1,2.7,12.6,0.6,.117,-1.0,0.1,,1050000
-iveyro01,2009-10,28,Milwaukee Bucks,NBA,18,5.0,.321,.600,0.4,0.6,0.5,0.0,1.3,6.8,0.0,.003,-2.7,0.0,,1050000
-iveyro01,2010-11,29,Oklahoma City Thunder,NBA,25,6.2,.421,1.000,0.6,0.3,0.2,0.0,1.6,8.2,0.2,.060,-3.0,0.0,,1200000
-iveyro01,2011-12,30,Oklahoma City Thunder,NBA,34,10.4,.356,.125,0.7,0.3,0.4,0.0,2.1,4.7,0.2,.025,-3.1,-0.1,,1200000
-iveyro01,2012-13,31,Philadelphia 76ers,NBA,53,13.2,.431,.563,1.1,0.6,0.4,0.1,3.2,8.1,1.0,.066,-2.6,-0.1,,1223166
-iveyro01,2013-14,32,OKC,NBA,2,2.5,.000,,0.5,0.0,0.0,0.0,0.0,-16.5,0.0,-0.362,-24.7,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+iveyro01,2004-05,23,Atlanta Hawks,NBA,62,13.0,.429,.701,1.4,1.7,0.6,0.1,3.5,8.9,0.2,.009,-5.0,-0.6,,425000,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2005-06,24,Atlanta Hawks,NBA,73,13.4,.439,.727,1.3,1.0,0.3,0.1,3.6,8.4,0.7,.034,-5.1,-0.8,,641748,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2006-07,25,Atlanta Hawks,NBA,53,10.2,.448,.686,1.0,0.8,0.5,0.1,3.0,9.6,0.3,.030,-4.4,-0.3,,744551,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2007-08,26,Milwaukee Bucks,NBA,75,19.2,.394,.726,1.6,2.1,0.6,0.1,5.6,8.8,0.5,.018,-4.4,-0.9,,826046,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2008-09,27,Philadelphia 76ers,NBA,71,12.1,.332,.791,1.1,0.6,0.5,0.1,3.0,7.6,0.9,.052,-2.2,0.0,,854957,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2009-10,28,Milwaukee Bucks,NBA,44,7.4,.422,.750,0.8,0.6,0.4,0.0,2.1,11.0,0.6,.086,-1.4,0.0,,1050000,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2009-10,28,Milwaukee Bucks,NBA,26,9.1,.473,.857,1.0,0.7,0.4,0.1,2.7,12.6,0.6,.117,-1.0,0.1,,1050000,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2009-10,28,Milwaukee Bucks,NBA,18,5.0,.321,.600,0.4,0.6,0.5,0.0,1.3,6.8,0.0,.003,-2.7,0.0,,1050000,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2010-11,29,Oklahoma City Thunder,NBA,25,6.2,.421,1.000,0.6,0.3,0.2,0.0,1.6,8.2,0.2,.060,-3.0,0.0,,1200000,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2011-12,30,Oklahoma City Thunder,NBA,34,10.4,.356,.125,0.7,0.3,0.4,0.0,2.1,4.7,0.2,.025,-3.1,-0.1,,1200000,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2012-13,31,Philadelphia 76ers,NBA,53,13.2,.431,.563,1.1,0.6,0.4,0.1,3.2,8.1,1.0,.066,-2.6,-0.1,,1223166,"Blair Academy in Blairstown, New Jersey"
+iveyro01,2013-14,32,OKC,NBA,2,2.5,.000,,0.5,0.0,0.0,0.0,0.0,-16.5,0.0,-0.362,-24.7,0.0,,,"Blair Academy in Blairstown, New Jersey"

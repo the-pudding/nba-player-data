@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-hicksjj01,2008-09,20,Cleveland Cavaliers,NBA,62,11.4,.515,.672,2.7,0.1,0.2,0.5,4.0,12.5,1.5,.101,-4.5,-0.4,,1329480
-hicksjj01,2009-10,21,Cleveland Cavaliers,NBA,81,20.9,.554,.681,4.9,0.5,0.4,0.5,8.5,15.2,4.3,.123,-2.6,-0.2,,1429200
-hicksjj01,2010-11,22,Cleveland Cavaliers,NBA,80,28.2,.458,.673,8.7,1.1,0.6,0.7,13.8,15.6,1.5,.032,-4.3,-1.3,,1528920
-hicksjj01,2011-12,23,Sacramento Kings,NBA,54,23.0,.467,.642,6.2,0.8,0.6,0.6,8.4,14.9,1.7,.066,-2.4,-0.1,,2354537
-hicksjj01,2011-12,23,Sacramento Kings,NBA,35,18.4,.370,.638,5.1,0.6,0.5,0.5,4.7,9.9,-0.1,-0.009,-5.3,-0.5,,2354537
-hicksjj01,2011-12,23,Sacramento Kings,NBA,19,31.6,.543,.645,8.3,1.2,0.6,0.9,15.1,20.2,1.8,.147,0.6,0.4,,2354537
-hicksjj01,2012-13,24,Portland Trail Blazers,NBA,80,29.0,.562,.679,10.4,1.1,0.6,0.6,12.7,19.7,6.9,.142,-0.3,1.0,,4000000
-hicksjj01,2013-14,25,Denver Nuggets,NBA,69,26.9,.508,.517,9.2,1.4,0.7,0.7,11.8,16.2,3.3,.086,-0.8,0.6,,5150000
-hicksjj01,2014-15,26,Denver Nuggets,NBA,73,19.3,.475,.577,6.2,0.8,0.5,0.5,7.6,14.3,1.8,.062,-2.7,-0.3,,5381750
-hicksjj01,2015-16,27,Denver Nuggets,NBA,35,12.5,.516,.447,3.8,0.7,0.4,0.4,5.9,16.8,0.8,.088,-3.0,-0.1,,5613500
-hicksjj01,2015-16,27,Denver Nuggets,NBA,20,15.3,.505,.458,4.4,0.8,0.5,0.6,6.9,15.8,0.5,.077,-3.0,-0.1,,5613500
-hicksjj01,2015-16,27,Denver Nuggets,NBA,15,8.7,.543,.432,3.0,0.5,0.3,0.1,4.6,18.9,0.3,.114,-3.0,0.0,,5613500
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+hicksjj01,2008-09,20,Cleveland Cavaliers,NBA,62,11.4,.515,.672,2.7,0.1,0.2,0.5,4.0,12.5,1.5,.101,-4.5,-0.4,,1329480,"Wheeler in Marietta, Georgia"
+hicksjj01,2009-10,21,Cleveland Cavaliers,NBA,81,20.9,.554,.681,4.9,0.5,0.4,0.5,8.5,15.2,4.3,.123,-2.6,-0.2,,1429200,"Wheeler in Marietta, Georgia"
+hicksjj01,2010-11,22,Cleveland Cavaliers,NBA,80,28.2,.458,.673,8.7,1.1,0.6,0.7,13.8,15.6,1.5,.032,-4.3,-1.3,,1528920,"Wheeler in Marietta, Georgia"
+hicksjj01,2011-12,23,Sacramento Kings,NBA,54,23.0,.467,.642,6.2,0.8,0.6,0.6,8.4,14.9,1.7,.066,-2.4,-0.1,,2354537,"Wheeler in Marietta, Georgia"
+hicksjj01,2011-12,23,Sacramento Kings,NBA,35,18.4,.370,.638,5.1,0.6,0.5,0.5,4.7,9.9,-0.1,-0.009,-5.3,-0.5,,2354537,"Wheeler in Marietta, Georgia"
+hicksjj01,2011-12,23,Sacramento Kings,NBA,19,31.6,.543,.645,8.3,1.2,0.6,0.9,15.1,20.2,1.8,.147,0.6,0.4,,2354537,"Wheeler in Marietta, Georgia"
+hicksjj01,2012-13,24,Portland Trail Blazers,NBA,80,29.0,.562,.679,10.4,1.1,0.6,0.6,12.7,19.7,6.9,.142,-0.3,1.0,,4000000,"Wheeler in Marietta, Georgia"
+hicksjj01,2013-14,25,Denver Nuggets,NBA,69,26.9,.508,.517,9.2,1.4,0.7,0.7,11.8,16.2,3.3,.086,-0.8,0.6,,5150000,"Wheeler in Marietta, Georgia"
+hicksjj01,2014-15,26,Denver Nuggets,NBA,73,19.3,.475,.577,6.2,0.8,0.5,0.5,7.6,14.3,1.8,.062,-2.7,-0.3,,5381750,"Wheeler in Marietta, Georgia"
+hicksjj01,2015-16,27,Denver Nuggets,NBA,35,12.5,.516,.447,3.8,0.7,0.4,0.4,5.9,16.8,0.8,.088,-3.0,-0.1,,5613500,"Wheeler in Marietta, Georgia"
+hicksjj01,2015-16,27,Denver Nuggets,NBA,20,15.3,.505,.458,4.4,0.8,0.5,0.6,6.9,15.8,0.5,.077,-3.0,-0.1,,5613500,"Wheeler in Marietta, Georgia"
+hicksjj01,2015-16,27,Denver Nuggets,NBA,15,8.7,.543,.432,3.0,0.5,0.3,0.1,4.6,18.9,0.3,.114,-3.0,0.0,,5613500,"Wheeler in Marietta, Georgia"

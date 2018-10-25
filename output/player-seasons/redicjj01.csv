@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-redicjj01,2006-07,22,Orlando Magic,NBA,42,14.8,.410,.900,1.2,0.9,0.3,0.0,6.0,13.0,1.7,.134,-1.4,0.1,,1860720
-redicjj01,2007-08,23,Orlando Magic,NBA,34,8.1,.444,.794,0.7,0.5,0.1,0.0,4.1,12.7,0.5,.091,-4.3,-0.2,,2000160
-redicjj01,2008-09,24,Orlando Magic,NBA,64,17.4,.391,.871,1.7,1.1,0.3,0.0,6.0,9.9,2.3,.098,-1.3,0.2,,2139720
-redicjj01,2009-10,25,Orlando Magic,NBA,82,22.0,.439,.860,1.9,1.9,0.3,0.0,9.6,15.0,6.5,.173,1.4,1.5,,2839408
-redicjj01,2010-11,26,Orlando Magic,NBA,59,25.6,.441,.875,1.9,1.7,0.5,0.1,10.1,12.8,4.5,.142,0.6,1.0,,7250000
-redicjj01,2011-12,27,Orlando Magic,NBA,65,27.2,.425,.911,2.3,2.5,0.4,0.1,11.6,15.1,5.2,.142,0.3,1.0,,6750000
-redicjj01,2012-13,28,Milwaukee Bucks,NBA,78,30.5,.434,.900,2.2,3.8,0.5,0.1,14.1,14.7,4.5,.091,-1.1,0.6,,6190000
-redicjj01,2012-13,28,Milwaukee Bucks,NBA,50,31.5,.450,.891,2.4,4.4,0.6,0.1,15.1,16.1,3.2,.097,-0.3,0.7,,6190000
-redicjj01,2012-13,28,Milwaukee Bucks,NBA,28,28.7,.403,.918,1.9,2.7,0.3,0.1,12.3,11.9,1.3,.078,-2.5,-0.1,,6190000
-redicjj01,2013-14,29,Los Angeles Clippers,NBA,35,28.2,.455,.915,2.1,2.2,0.8,0.1,15.2,16.6,3.0,.147,0.8,0.7,,6300000
-redicjj01,2014-15,30,Los Angeles Clippers,NBA,78,30.9,.477,.901,2.1,1.8,0.5,0.1,16.4,16.2,6.7,.134,0.7,1.6,,6583500
-redicjj01,2015-16,31,Los Angeles Clippers,NBA,75,28.0,.480,.888,1.9,1.4,0.6,0.1,16.3,17.5,6.7,.154,0.8,1.5,,6867000
-redicjj01,2016-17,32,Los Angeles Clippers,NBA,78,28.2,.445,.891,2.2,1.4,0.7,0.2,15.0,14.8,4.8,.105,-0.1,1.1,,7377500
-redicjj01,2017-18,33,Philadelphia 76ers,NBA,70,30.2,.460,.904,2.5,3.0,0.5,0.1,17.1,15.9,6.6,.150,0.0,1.1,,23000000
-redicjj01,2018-19,34,PHI,NBA,5,31.2,.439,.933,3.4,3.6,0.4,0.0,21.2,19.1,0.5,.142,-0.2,0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+redicjj01,2006-07,22,Orlando Magic,NBA,42,14.8,.410,.900,1.2,0.9,0.3,0.0,6.0,13.0,1.7,.134,-1.4,0.1,,1860720,"Cave Spring in Roanoke, Virginia"
+redicjj01,2007-08,23,Orlando Magic,NBA,34,8.1,.444,.794,0.7,0.5,0.1,0.0,4.1,12.7,0.5,.091,-4.3,-0.2,,2000160,"Cave Spring in Roanoke, Virginia"
+redicjj01,2008-09,24,Orlando Magic,NBA,64,17.4,.391,.871,1.7,1.1,0.3,0.0,6.0,9.9,2.3,.098,-1.3,0.2,,2139720,"Cave Spring in Roanoke, Virginia"
+redicjj01,2009-10,25,Orlando Magic,NBA,82,22.0,.439,.860,1.9,1.9,0.3,0.0,9.6,15.0,6.5,.173,1.4,1.5,,2839408,"Cave Spring in Roanoke, Virginia"
+redicjj01,2010-11,26,Orlando Magic,NBA,59,25.6,.441,.875,1.9,1.7,0.5,0.1,10.1,12.8,4.5,.142,0.6,1.0,,7250000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2011-12,27,Orlando Magic,NBA,65,27.2,.425,.911,2.3,2.5,0.4,0.1,11.6,15.1,5.2,.142,0.3,1.0,,6750000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2012-13,28,Milwaukee Bucks,NBA,78,30.5,.434,.900,2.2,3.8,0.5,0.1,14.1,14.7,4.5,.091,-1.1,0.6,,6190000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2012-13,28,Milwaukee Bucks,NBA,50,31.5,.450,.891,2.4,4.4,0.6,0.1,15.1,16.1,3.2,.097,-0.3,0.7,,6190000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2012-13,28,Milwaukee Bucks,NBA,28,28.7,.403,.918,1.9,2.7,0.3,0.1,12.3,11.9,1.3,.078,-2.5,-0.1,,6190000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2013-14,29,Los Angeles Clippers,NBA,35,28.2,.455,.915,2.1,2.2,0.8,0.1,15.2,16.6,3.0,.147,0.8,0.7,,6300000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2014-15,30,Los Angeles Clippers,NBA,78,30.9,.477,.901,2.1,1.8,0.5,0.1,16.4,16.2,6.7,.134,0.7,1.6,,6583500,"Cave Spring in Roanoke, Virginia"
+redicjj01,2015-16,31,Los Angeles Clippers,NBA,75,28.0,.480,.888,1.9,1.4,0.6,0.1,16.3,17.5,6.7,.154,0.8,1.5,,6867000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2016-17,32,Los Angeles Clippers,NBA,78,28.2,.445,.891,2.2,1.4,0.7,0.2,15.0,14.8,4.8,.105,-0.1,1.1,,7377500,"Cave Spring in Roanoke, Virginia"
+redicjj01,2017-18,33,Philadelphia 76ers,NBA,70,30.2,.460,.904,2.5,3.0,0.5,0.1,17.1,15.9,6.6,.150,0.0,1.1,,23000000,"Cave Spring in Roanoke, Virginia"
+redicjj01,2018-19,34,PHI,NBA,5,31.2,.439,.933,3.4,3.6,0.4,0.0,21.2,19.1,0.5,.142,-0.2,0.1,,,"Cave Spring in Roanoke, Virginia"

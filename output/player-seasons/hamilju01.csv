@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-hamilju01,2013-14,23,"CHA,MIA",NBA,8,9.0,.450,1.000,0.9,0.0,0.6,0.0,3.3,11.9,0.1,.089,-4.0,0.0,,
-hamilju01,2014-15,24,Minnesota Timberwolves,NBA,41,17.4,.478,.830,3.3,0.9,0.7,0.7,5.3,14.6,1.5,.102,0.7,0.5,,816482
-hamilju01,2014-15,24,Minnesota Timberwolves,NBA,24,12.0,.415,.857,2.0,0.5,0.3,0.2,2.8,9.7,0.4,.069,-1.6,0.0,,816482
-hamilju01,2014-15,24,Minnesota Timberwolves,NBA,17,24.9,.513,.825,5.1,1.4,1.1,1.5,9.0,18.0,1.1,.125,2.3,0.5,,816482
-hamilju01,2015-16,25,Did Not Play,,,,,,,,,,,,,,,,,
-hamilju01,2016-17,26,Brooklyn Nets,NBA,64,18.4,.459,.750,4.1,0.9,0.5,0.7,6.9,13.6,2.1,.084,-0.8,0.4,,3000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+hamilju01,2013-14,23,"CHA,MIA",NBA,8,9.0,.450,1.000,0.9,0.0,0.6,0.0,3.3,11.9,0.1,.089,-4.0,0.0,,"Lone Peak in Highland, Utah",
+hamilju01,2014-15,24,Minnesota Timberwolves,NBA,41,17.4,.478,.830,3.3,0.9,0.7,0.7,5.3,14.6,1.5,.102,0.7,0.5,,"Lone Peak in Highland, Utah",816482
+hamilju01,2014-15,24,Minnesota Timberwolves,NBA,24,12.0,.415,.857,2.0,0.5,0.3,0.2,2.8,9.7,0.4,.069,-1.6,0.0,,"Lone Peak in Highland, Utah",816482
+hamilju01,2014-15,24,Minnesota Timberwolves,NBA,17,24.9,.513,.825,5.1,1.4,1.1,1.5,9.0,18.0,1.1,.125,2.3,0.5,,"Lone Peak in Highland, Utah",816482
+hamilju01,2015-16,25,Did Not Play,,,,,,,,,,,,,,,,,"Lone Peak in Highland, Utah",
+hamilju01,2016-17,26,Brooklyn Nets,NBA,64,18.4,.459,.750,4.1,0.9,0.5,0.7,6.9,13.6,2.1,.084,-0.8,0.4,,"Lone Peak in Highland, Utah",3000000

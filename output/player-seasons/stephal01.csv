@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-stephal01,2015-16,28,Los Angeles Clippers,NBA,8,9.1,.333,.333,3.5,0.3,0.1,0.6,2.8,14.8,0.1,.068,-3.2,0.0,,61776
-stephal01,2015-16,28,Los Angeles Clippers,NBA,4,3.0,1.000,.000,0.5,0.0,0.0,0.5,0.5,8.9,0.0,.113,0.0,0.0,,61776
-stephal01,2015-16,28,Los Angeles Clippers,NBA,4,15.3,.308,.400,6.5,0.5,0.3,0.8,5.0,16.0,0.1,.059,-3.8,0.0,,61776
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+stephal01,2015-16,28,Los Angeles Clippers,NBA,8,9.1,.333,.333,3.5,0.3,0.1,0.6,2.8,14.8,0.1,.068,-3.2,0.0,,61776,"Harvard-Westlake in North Hollywood, California"
+stephal01,2015-16,28,Los Angeles Clippers,NBA,4,3.0,1.000,.000,0.5,0.0,0.0,0.5,0.5,8.9,0.0,.113,0.0,0.0,,61776,"Harvard-Westlake in North Hollywood, California"
+stephal01,2015-16,28,Los Angeles Clippers,NBA,4,15.3,.308,.400,6.5,0.5,0.3,0.8,5.0,16.0,0.1,.059,-3.8,0.0,,61776,"Harvard-Westlake in North Hollywood, California"

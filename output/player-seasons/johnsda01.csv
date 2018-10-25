@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-johnsda01,1992-93,22,Portland Trail Blazers,NBA,42,8.5,.383,.678,1.1,0.3,0.2,0.0,3.7,8.1,-0.1,-0.018,-8.6,-0.6,,500000
-johnsda01,1993-94,23,Portland Trail Blazers,NBA,17,7.0,.315,.619,0.9,0.2,0.2,0.0,2.8,5.8,-0.2,-0.077,-11.3,-0.3,,650000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+johnsda01,1992-93,22,Portland Trail Blazers,NBA,42,8.5,.383,.678,1.1,0.3,0.2,0.0,3.7,8.1,-0.1,-0.018,-8.6,-0.6,,500000,"Maine Central Institute in Pittsfield, Maine"
+johnsda01,1993-94,23,Portland Trail Blazers,NBA,17,7.0,.315,.619,0.9,0.2,0.2,0.0,2.8,5.8,-0.2,-0.077,-11.3,-0.3,,650000,"Maine Central Institute in Pittsfield, Maine"

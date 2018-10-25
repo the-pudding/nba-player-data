@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-willial03,2015-16,23,Phoenix Suns,NBA,10,6.8,.417,.643,3.8,0.5,0.4,0.5,2.9,21.1,0.2,.146,1.5,0.1,,114285
-willial03,2016-17,24,Phoenix Suns,NBA,47,15.1,.517,.625,6.2,0.5,0.6,0.7,7.4,19.5,2.1,.142,-1.7,0.1,,874636
-willial03,2017-18,25,Phoenix Suns,NBA,5,14.0,.389,.667,4.4,1.6,1.0,0.2,4.0,9.3,0.0,-0.004,-3.7,0.0,,6000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+willial03,2015-16,23,Phoenix Suns,NBA,10,6.8,.417,.643,3.8,0.5,0.4,0.5,2.9,21.1,0.2,.146,1.5,0.1,,114285,"North in Phoenix, Arizona"
+willial03,2016-17,24,Phoenix Suns,NBA,47,15.1,.517,.625,6.2,0.5,0.6,0.7,7.4,19.5,2.1,.142,-1.7,0.1,,874636,"North in Phoenix, Arizona"
+willial03,2017-18,25,Phoenix Suns,NBA,5,14.0,.389,.667,4.4,1.6,1.0,0.2,4.0,9.3,0.0,-0.004,-3.7,0.0,,6000000,"North in Phoenix, Arizona"

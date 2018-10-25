@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-paxsoji02,1979-80,22,POR,NBA,72,17.6,.411,.711,1.5,2.0,0.7,0.1,6.2,9.1,0.3,.011,-5.2,-1.0,,
-paxsoji02,1980-81,23,POR,NBA,79,34.2,.536,.734,2.7,3.8,1.8,0.1,17.1,16.9,7.7,.136,1.4,2.3,,
-paxsoji02,1981-82,24,POR,NBA,82,33.6,.526,.767,2.7,3.4,1.6,0.1,18.9,18.0,7.5,.130,0.9,2.1,,
-paxsoji02,1982-83,25,POR,NBA,81,33.8,.515,.812,2.1,2.9,1.7,0.2,21.7,20.1,10.2,.178,1.8,2.6,,
-paxsoji02,1983-84,26,POR,NBA,81,33.2,.514,.841,2.1,3.1,1.5,0.1,21.3,19.5,9.5,.170,1.1,2.1,All-NBA (2nd),
-paxsoji02,1984-85,27,POR,NBA,68,33.1,.514,.790,3.3,3.9,1.5,0.1,17.9,17.3,6.5,.138,1.0,1.7,,
-paxsoji02,1985-86,28,Portland Trail Blazers,NBA,75,25.7,.470,.889,2.0,3.7,1.3,0.1,13.1,15.9,4.8,.120,-0.7,0.6,,500000
-paxsoji02,1986-87,29,POR,NBA,72,25.0,.460,.806,1.9,3.3,1.1,0.2,12.1,13.8,3.4,.091,-1.8,0.1,,
-paxsoji02,1987-88,30,Boston Celtics,NBA,45,17.8,.460,.861,1.0,1.7,0.7,0.1,7.7,11.7,1.2,.071,-3.7,-0.3,,875000
-paxsoji02,1987-88,30,Boston Celtics,NBA,17,15.5,.402,.778,1.1,1.6,0.4,0.1,6.1,8.6,0.2,.033,-5.6,-0.2,,875000
-paxsoji02,1987-88,30,Boston Celtics,NBA,28,19.2,.492,.885,1.0,1.8,0.8,0.1,8.7,13.3,1.0,.090,-2.7,-0.1,,875000
-paxsoji02,1988-89,31,Boston Celtics,NBA,57,20.0,.454,.816,1.3,1.9,0.7,0.1,8.6,11.5,1.3,.053,-4.0,-0.6,,400000
-paxsoji02,1989-90,32,BOS,NBA,72,17.8,.453,.811,1.1,1.9,0.5,0.1,6.4,9.7,1.4,.052,-3.9,-0.6,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+paxsoji02,1979-80,22,POR,NBA,72,17.6,.411,.711,1.5,2.0,0.7,0.1,6.2,9.1,0.3,.011,-5.2,-1.0,,"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1980-81,23,POR,NBA,79,34.2,.536,.734,2.7,3.8,1.8,0.1,17.1,16.9,7.7,.136,1.4,2.3,,"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1981-82,24,POR,NBA,82,33.6,.526,.767,2.7,3.4,1.6,0.1,18.9,18.0,7.5,.130,0.9,2.1,,"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1982-83,25,POR,NBA,81,33.8,.515,.812,2.1,2.9,1.7,0.2,21.7,20.1,10.2,.178,1.8,2.6,,"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1983-84,26,POR,NBA,81,33.2,.514,.841,2.1,3.1,1.5,0.1,21.3,19.5,9.5,.170,1.1,2.1,All-NBA (2nd),"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1984-85,27,POR,NBA,68,33.1,.514,.790,3.3,3.9,1.5,0.1,17.9,17.3,6.5,.138,1.0,1.7,,"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1985-86,28,Portland Trail Blazers,NBA,75,25.7,.470,.889,2.0,3.7,1.3,0.1,13.1,15.9,4.8,.120,-0.7,0.6,,"Archbishop Alter in Kettering, Ohio",500000
+paxsoji02,1986-87,29,POR,NBA,72,25.0,.460,.806,1.9,3.3,1.1,0.2,12.1,13.8,3.4,.091,-1.8,0.1,,"Archbishop Alter in Kettering, Ohio",
+paxsoji02,1987-88,30,Boston Celtics,NBA,45,17.8,.460,.861,1.0,1.7,0.7,0.1,7.7,11.7,1.2,.071,-3.7,-0.3,,"Archbishop Alter in Kettering, Ohio",875000
+paxsoji02,1987-88,30,Boston Celtics,NBA,17,15.5,.402,.778,1.1,1.6,0.4,0.1,6.1,8.6,0.2,.033,-5.6,-0.2,,"Archbishop Alter in Kettering, Ohio",875000
+paxsoji02,1987-88,30,Boston Celtics,NBA,28,19.2,.492,.885,1.0,1.8,0.8,0.1,8.7,13.3,1.0,.090,-2.7,-0.1,,"Archbishop Alter in Kettering, Ohio",875000
+paxsoji02,1988-89,31,Boston Celtics,NBA,57,20.0,.454,.816,1.3,1.9,0.7,0.1,8.6,11.5,1.3,.053,-4.0,-0.6,,"Archbishop Alter in Kettering, Ohio",400000
+paxsoji02,1989-90,32,BOS,NBA,72,17.8,.453,.811,1.1,1.9,0.5,0.1,6.4,9.7,1.4,.052,-3.9,-0.6,,"Archbishop Alter in Kettering, Ohio",

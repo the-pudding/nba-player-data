@@ -1,20 +1,20 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jefferi01,2001-02,21,New Jersey Nets,NBA,79,24.3,.457,.713,3.7,1.8,0.8,0.6,9.4,13.4,4.7,.117,-0.4,0.8,,1379400
-jefferi01,2002-03,22,New Jersey Nets,NBA,80,36.0,.501,.743,6.4,2.5,1.0,0.6,15.5,16.6,9.9,.164,1.9,2.9,,1482840
-jefferi01,2003-04,23,New Jersey Nets,NBA,82,38.2,.498,.763,5.7,3.8,1.1,0.3,18.5,18.1,11.0,.168,2.5,3.5,,1586280
-jefferi01,2004-05,24,New Jersey Nets,NBA,33,41.1,.422,.844,7.3,4.0,1.0,0.5,22.2,16.6,2.4,.086,0.1,0.7,,2266794
-jefferi01,2005-06,25,New Jersey Nets,NBA,78,39.2,.493,.812,6.8,3.8,0.8,0.2,19.5,18.9,11.7,.184,3.0,3.9,,10200000
-jefferi01,2006-07,26,New Jersey Nets,NBA,55,35.6,.456,.733,4.4,2.7,0.6,0.1,16.3,13.8,3.4,.082,-1.8,0.1,,11200000
-jefferi01,2007-08,27,New Jersey Nets,NBA,82,39.0,.466,.798,4.2,3.1,0.9,0.3,22.6,17.4,7.6,.114,0.0,1.6,,12200000
-jefferi01,2008-09,28,Milwaukee Bucks,NBA,82,35.8,.439,.805,4.6,2.4,0.8,0.2,19.6,15.4,6.6,.109,-0.2,1.3,,13200000
-jefferi01,2009-10,29,San Antonio Spurs,NBA,81,31.1,.467,.735,4.4,2.0,0.6,0.5,12.3,13.1,6.0,.113,0.3,1.5,,14200000
-jefferi01,2010-11,30,San Antonio Spurs,NBA,81,30.4,.474,.759,3.8,1.3,0.5,0.4,11.0,12.4,5.9,.115,1.2,2.0,,8400000
-jefferi01,2011-12,31,San Antonio Spurs,NBA,63,27.7,.416,.694,3.5,1.4,0.6,0.3,9.2,11.1,3.1,.085,0.1,0.9,,9282000
-jefferi01,2011-12,31,San Antonio Spurs,NBA,41,28.5,.414,.700,3.5,1.3,0.6,0.3,9.2,10.9,2.4,.100,1.2,0.9,,9282000
-jefferi01,2011-12,31,San Antonio Spurs,NBA,22,26.4,.420,.686,3.5,1.5,0.5,0.3,9.0,11.6,0.7,.056,-2.1,0.0,,9282000
-jefferi01,2012-13,32,Golden State Warriors,NBA,56,10.1,.456,.717,1.5,0.6,0.3,0.1,3.1,10.3,1.0,.081,-2.9,-0.1,,10164000
-jefferi01,2013-14,33,Utah Jazz,NBA,82,27.0,.450,.741,2.7,1.6,0.7,0.2,10.1,11.8,2.7,.058,-1.4,0.3,,11046000
-jefferi01,2014-15,34,Dallas Mavericks,NBA,74,16.8,.444,.684,2.5,0.8,0.4,0.1,5.8,11.3,2.3,.088,-0.7,0.4,,1448490
-jefferi01,2015-16,35,Cleveland Cavaliers,NBA,74,17.9,.458,.667,1.7,0.8,0.4,0.2,5.5,9.7,2.7,.099,-0.8,0.4,,1499000
-jefferi01,2016-17,36,Cleveland Cavaliers,NBA,79,20.4,.446,.741,2.6,1.0,0.3,0.1,5.7,8.3,2.1,.063,-2.4,-0.2,,2500000
-jefferi01,2017-18,37,Atlanta Hawks,NBA,20,8.2,.444,.571,0.9,0.8,0.1,0.1,1.5,6.4,0.1,.029,-5.9,-0.2,,2500000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jefferi01,2001-02,21,New Jersey Nets,NBA,79,24.3,.457,.713,3.7,1.8,0.8,0.6,9.4,13.4,4.7,.117,-0.4,0.8,,1379400,"Moon Valley in Phoenix, Arizona"
+jefferi01,2002-03,22,New Jersey Nets,NBA,80,36.0,.501,.743,6.4,2.5,1.0,0.6,15.5,16.6,9.9,.164,1.9,2.9,,1482840,"Moon Valley in Phoenix, Arizona"
+jefferi01,2003-04,23,New Jersey Nets,NBA,82,38.2,.498,.763,5.7,3.8,1.1,0.3,18.5,18.1,11.0,.168,2.5,3.5,,1586280,"Moon Valley in Phoenix, Arizona"
+jefferi01,2004-05,24,New Jersey Nets,NBA,33,41.1,.422,.844,7.3,4.0,1.0,0.5,22.2,16.6,2.4,.086,0.1,0.7,,2266794,"Moon Valley in Phoenix, Arizona"
+jefferi01,2005-06,25,New Jersey Nets,NBA,78,39.2,.493,.812,6.8,3.8,0.8,0.2,19.5,18.9,11.7,.184,3.0,3.9,,10200000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2006-07,26,New Jersey Nets,NBA,55,35.6,.456,.733,4.4,2.7,0.6,0.1,16.3,13.8,3.4,.082,-1.8,0.1,,11200000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2007-08,27,New Jersey Nets,NBA,82,39.0,.466,.798,4.2,3.1,0.9,0.3,22.6,17.4,7.6,.114,0.0,1.6,,12200000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2008-09,28,Milwaukee Bucks,NBA,82,35.8,.439,.805,4.6,2.4,0.8,0.2,19.6,15.4,6.6,.109,-0.2,1.3,,13200000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2009-10,29,San Antonio Spurs,NBA,81,31.1,.467,.735,4.4,2.0,0.6,0.5,12.3,13.1,6.0,.113,0.3,1.5,,14200000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2010-11,30,San Antonio Spurs,NBA,81,30.4,.474,.759,3.8,1.3,0.5,0.4,11.0,12.4,5.9,.115,1.2,2.0,,8400000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2011-12,31,San Antonio Spurs,NBA,63,27.7,.416,.694,3.5,1.4,0.6,0.3,9.2,11.1,3.1,.085,0.1,0.9,,9282000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2011-12,31,San Antonio Spurs,NBA,41,28.5,.414,.700,3.5,1.3,0.6,0.3,9.2,10.9,2.4,.100,1.2,0.9,,9282000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2011-12,31,San Antonio Spurs,NBA,22,26.4,.420,.686,3.5,1.5,0.5,0.3,9.0,11.6,0.7,.056,-2.1,0.0,,9282000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2012-13,32,Golden State Warriors,NBA,56,10.1,.456,.717,1.5,0.6,0.3,0.1,3.1,10.3,1.0,.081,-2.9,-0.1,,10164000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2013-14,33,Utah Jazz,NBA,82,27.0,.450,.741,2.7,1.6,0.7,0.2,10.1,11.8,2.7,.058,-1.4,0.3,,11046000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2014-15,34,Dallas Mavericks,NBA,74,16.8,.444,.684,2.5,0.8,0.4,0.1,5.8,11.3,2.3,.088,-0.7,0.4,,1448490,"Moon Valley in Phoenix, Arizona"
+jefferi01,2015-16,35,Cleveland Cavaliers,NBA,74,17.9,.458,.667,1.7,0.8,0.4,0.2,5.5,9.7,2.7,.099,-0.8,0.4,,1499000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2016-17,36,Cleveland Cavaliers,NBA,79,20.4,.446,.741,2.6,1.0,0.3,0.1,5.7,8.3,2.1,.063,-2.4,-0.2,,2500000,"Moon Valley in Phoenix, Arizona"
+jefferi01,2017-18,37,Atlanta Hawks,NBA,20,8.2,.444,.571,0.9,0.8,0.1,0.1,1.5,6.4,0.1,.029,-5.9,-0.2,,2500000,"Moon Valley in Phoenix, Arizona"

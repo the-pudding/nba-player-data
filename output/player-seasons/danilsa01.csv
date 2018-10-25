@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-danilsa01,1995-96,25,Miami Heat,NBA,19,28.5,.451,.764,2.4,2.5,0.8,0.2,13.4,14.4,1.5,.129,0.4,0.3,,1455000
-danilsa01,1996-97,26,Miami Heat,NBA,56,31.9,.435,.801,2.4,1.8,1.0,0.2,12.5,10.9,2.8,.074,-1.1,0.4,,1892000
-danilsa01,1996-97,26,Miami Heat,NBA,43,31.4,.442,.777,2.4,1.8,0.9,0.2,11.3,9.7,2.0,.070,-0.9,0.4,,1892000
-danilsa01,1996-97,26,Miami Heat,NBA,13,33.7,.420,.842,2.6,1.9,1.2,0.1,16.6,14.5,0.8,.087,-1.8,0.0,,1892000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+danilsa01,1995-96,25,Miami Heat,NBA,19,28.5,.451,.764,2.4,2.5,0.8,0.2,13.4,14.4,1.5,.129,0.4,0.3,,1455000,"Cookeville in Cookeville, Tennessee"
+danilsa01,1996-97,26,Miami Heat,NBA,56,31.9,.435,.801,2.4,1.8,1.0,0.2,12.5,10.9,2.8,.074,-1.1,0.4,,1892000,"Cookeville in Cookeville, Tennessee"
+danilsa01,1996-97,26,Miami Heat,NBA,43,31.4,.442,.777,2.4,1.8,0.9,0.2,11.3,9.7,2.0,.070,-0.9,0.4,,1892000,"Cookeville in Cookeville, Tennessee"
+danilsa01,1996-97,26,Miami Heat,NBA,13,33.7,.420,.842,2.6,1.9,1.2,0.1,16.6,14.5,0.8,.087,-1.8,0.0,,1892000,"Cookeville in Cookeville, Tennessee"

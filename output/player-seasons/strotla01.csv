@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-strotla01,1991-92,23,Portland Trail Blazers,NBA,4,4.3,.333,.500,0.3,0.3,0.3,0.3,2.5,6.0,-0.1,-0.158,-11.3,0.0,,150000
-strotla01,1992-93,24,DAL,NBA,9,15.3,.328,.800,1.6,1.4,0.9,0.0,5.6,5.7,-0.4,-0.141,-7.7,-0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+strotla01,1991-92,23,Portland Trail Blazers,NBA,4,4.3,.333,.500,0.3,0.3,0.3,0.3,2.5,6.0,-0.1,-0.158,-11.3,0.0,,150000,"Forest Glen in Suffolk, Virginia"
+strotla01,1992-93,24,DAL,NBA,9,15.3,.328,.800,1.6,1.4,0.9,0.0,5.6,5.7,-0.4,-0.141,-7.7,-0.2,,,"Forest Glen in Suffolk, Virginia"

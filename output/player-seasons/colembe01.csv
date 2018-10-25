@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-colembe01,1986-87,25,NJN,NBA,68,15.1,.581,.727,4.2,0.5,0.5,0.5,6.6,13.6,2.0,.093,-1.2,0.2,,
-colembe01,1987-88,26,Philadelphia 76ers,NBA,70,21.4,.499,.762,5.0,0.9,0.6,0.6,8.5,12.0,1.8,.058,-2.6,-0.2,,275000
-colembe01,1987-88,26,Philadelphia 76ers,NBA,27,24.3,.483,.774,6.4,1.4,1.0,0.6,11.0,13.2,0.6,.041,-1.9,0.0,,275000
-colembe01,1987-88,26,Philadelphia 76ers,NBA,43,19.6,.516,.752,4.1,0.5,0.3,0.6,6.9,11.0,1.2,.071,-3.1,-0.2,,275000
-colembe01,1988-89,27,Philadelphia 76ers,NBA,58,12.1,.485,.792,3.1,0.3,0.2,0.3,5.1,11.2,0.8,.051,-5.8,-0.7,,300000
-colembe01,1989-90,28,MIL,NBA,22,13.9,.474,.829,4.0,0.5,0.3,0.3,5.7,12.2,0.5,.079,-4.5,-0.2,,
-colembe01,1990-91,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,
-colembe01,1991-92,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,
-colembe01,1992-93,31,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,
-colembe01,1993-94,32,DET,NBA,9,8.6,.480,.500,2.9,0.0,0.2,0.2,3.1,11.6,0.0,-0.004,-12.7,-0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+colembe01,1986-87,25,NJN,NBA,68,15.1,.581,.727,4.2,0.5,0.5,0.5,6.6,13.6,2.0,.093,-1.2,0.2,,"North Community in Minneapolis, Minnesota",
+colembe01,1987-88,26,Philadelphia 76ers,NBA,70,21.4,.499,.762,5.0,0.9,0.6,0.6,8.5,12.0,1.8,.058,-2.6,-0.2,,"North Community in Minneapolis, Minnesota",275000
+colembe01,1987-88,26,Philadelphia 76ers,NBA,27,24.3,.483,.774,6.4,1.4,1.0,0.6,11.0,13.2,0.6,.041,-1.9,0.0,,"North Community in Minneapolis, Minnesota",275000
+colembe01,1987-88,26,Philadelphia 76ers,NBA,43,19.6,.516,.752,4.1,0.5,0.3,0.6,6.9,11.0,1.2,.071,-3.1,-0.2,,"North Community in Minneapolis, Minnesota",275000
+colembe01,1988-89,27,Philadelphia 76ers,NBA,58,12.1,.485,.792,3.1,0.3,0.2,0.3,5.1,11.2,0.8,.051,-5.8,-0.7,,"North Community in Minneapolis, Minnesota",300000
+colembe01,1989-90,28,MIL,NBA,22,13.9,.474,.829,4.0,0.5,0.3,0.3,5.7,12.2,0.5,.079,-4.5,-0.2,,"North Community in Minneapolis, Minnesota",
+colembe01,1990-91,29,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"North Community in Minneapolis, Minnesota",
+colembe01,1991-92,30,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"North Community in Minneapolis, Minnesota",
+colembe01,1992-93,31,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,"North Community in Minneapolis, Minnesota",
+colembe01,1993-94,32,DET,NBA,9,8.6,.480,.500,2.9,0.0,0.2,0.2,3.1,11.6,0.0,-0.004,-12.7,-0.2,,"North Community in Minneapolis, Minnesota",

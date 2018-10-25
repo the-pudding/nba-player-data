@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-warriha01,2005-06,23,Memphis Grizzlies,NBA,68,10.6,.443,.661,2.1,0.4,0.2,0.3,4.1,11.0,0.8,.053,-5.5,-0.6,,1196520
-warriha01,2006-07,24,Memphis Grizzlies,NBA,82,26.2,.524,.771,5.1,0.9,0.5,0.4,12.7,15.9,3.7,.082,-2.8,-0.4,,1286280
-warriha01,2007-08,25,Memphis Grizzlies,NBA,75,23.4,.502,.704,4.7,0.7,0.5,0.4,11.4,16.2,3.3,.090,-3.1,-0.5,,1376040
-warriha01,2008-09,26,Memphis Grizzlies,NBA,82,24.7,.491,.711,5.0,0.8,0.6,0.5,11.6,16.9,4.7,.111,-2.4,-0.2,,2119102
-warriha01,2009-10,27,Chicago Bulls,NBA,76,20.5,.482,.737,4.1,0.7,0.3,0.2,9.6,15.6,4.0,.124,-2.8,-0.3,,3000000
-warriha01,2009-10,27,Chicago Bulls,NBA,48,21.3,.481,.727,4.4,0.7,0.4,0.2,10.2,15.6,2.5,.119,-2.6,-0.2,,3000000
-warriha01,2009-10,27,Chicago Bulls,NBA,28,19.0,.483,.755,3.6,0.6,0.3,0.3,8.7,15.7,1.5,.133,-3.1,-0.2,,3000000
-warriha01,2010-11,28,Phoenix Suns,NBA,80,17.7,.511,.721,3.7,0.9,0.4,0.1,8.4,16.5,3.4,.116,-1.9,0.0,,4250000
-warriha01,2011-12,29,Phoenix Suns,NBA,35,14.4,.411,.768,2.6,0.9,0.2,0.1,6.4,13.1,0.5,.050,-4.2,-0.3,,4000000
-warriha01,2012-13,30,Orlando Magic,NBA,28,17.5,.406,.682,3.2,0.9,0.5,0.2,6.9,11.5,0.0,-0.001,-6.9,-0.6,,4000000
-warriha01,2012-13,30,Orlando Magic,NBA,1,7.0,.500,1.000,0.0,0.0,1.0,0.0,4.0,28.8,0.1,.353,4.4,0.0,,4000000
-warriha01,2012-13,30,Orlando Magic,NBA,27,17.9,.405,.674,3.3,0.9,0.4,0.2,7.0,11.3,-0.1,-0.007,-7.1,-0.6,,4000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+warriha01,2005-06,23,Memphis Grizzlies,NBA,68,10.6,.443,.661,2.1,0.4,0.2,0.3,4.1,11.0,0.8,.053,-5.5,-0.6,,1196520,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2006-07,24,Memphis Grizzlies,NBA,82,26.2,.524,.771,5.1,0.9,0.5,0.4,12.7,15.9,3.7,.082,-2.8,-0.4,,1286280,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2007-08,25,Memphis Grizzlies,NBA,75,23.4,.502,.704,4.7,0.7,0.5,0.4,11.4,16.2,3.3,.090,-3.1,-0.5,,1376040,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2008-09,26,Memphis Grizzlies,NBA,82,24.7,.491,.711,5.0,0.8,0.6,0.5,11.6,16.9,4.7,.111,-2.4,-0.2,,2119102,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2009-10,27,Chicago Bulls,NBA,76,20.5,.482,.737,4.1,0.7,0.3,0.2,9.6,15.6,4.0,.124,-2.8,-0.3,,3000000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2009-10,27,Chicago Bulls,NBA,48,21.3,.481,.727,4.4,0.7,0.4,0.2,10.2,15.6,2.5,.119,-2.6,-0.2,,3000000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2009-10,27,Chicago Bulls,NBA,28,19.0,.483,.755,3.6,0.6,0.3,0.3,8.7,15.7,1.5,.133,-3.1,-0.2,,3000000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2010-11,28,Phoenix Suns,NBA,80,17.7,.511,.721,3.7,0.9,0.4,0.1,8.4,16.5,3.4,.116,-1.9,0.0,,4250000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2011-12,29,Phoenix Suns,NBA,35,14.4,.411,.768,2.6,0.9,0.2,0.1,6.4,13.1,0.5,.050,-4.2,-0.3,,4000000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2012-13,30,Orlando Magic,NBA,28,17.5,.406,.682,3.2,0.9,0.5,0.2,6.9,11.5,0.0,-0.001,-6.9,-0.6,,4000000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2012-13,30,Orlando Magic,NBA,1,7.0,.500,1.000,0.0,0.0,1.0,0.0,4.0,28.8,0.1,.353,4.4,0.0,,4000000,"Friends Central in Wynnewood, Pennsylvania"
+warriha01,2012-13,30,Orlando Magic,NBA,27,17.9,.405,.674,3.3,0.9,0.4,0.2,7.0,11.3,-0.1,-0.007,-7.1,-0.6,,4000000,"Friends Central in Wynnewood, Pennsylvania"

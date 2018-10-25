@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-ledori01,2013-14,21,DAL,NBA,11,3.0,.353,1.000,0.2,0.2,0.1,0.0,1.7,12.7,0.0,.024,-7.2,0.0,,
-ledori01,2014-15,22,Dallas Mavericks,NBA,17,14.4,.333,.727,2.1,1.1,0.4,0.1,5.3,6.3,-0.6,-0.112,-7.9,-0.4,,816482
-ledori01,2014-15,22,Dallas Mavericks,NBA,5,2.2,.000,.500,0.4,0.2,0.0,0.0,0.2,-22.5,-0.2,-0.720,-26.1,-0.1,,816482
-ledori01,2014-15,22,Dallas Mavericks,NBA,12,19.4,.356,.750,2.8,1.5,0.5,0.1,7.4,7.6,-0.4,-0.083,-7.1,-0.3,,816482
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+ledori01,2013-14,21,DAL,NBA,11,3.0,.353,1.000,0.2,0.2,0.1,0.0,1.7,12.7,0.0,.024,-7.2,0.0,,"South Kent in South Kent, Connecticut",
+ledori01,2014-15,22,Dallas Mavericks,NBA,17,14.4,.333,.727,2.1,1.1,0.4,0.1,5.3,6.3,-0.6,-0.112,-7.9,-0.4,,"South Kent in South Kent, Connecticut",816482
+ledori01,2014-15,22,Dallas Mavericks,NBA,5,2.2,.000,.500,0.4,0.2,0.0,0.0,0.2,-22.5,-0.2,-0.720,-26.1,-0.1,,"South Kent in South Kent, Connecticut",816482
+ledori01,2014-15,22,Dallas Mavericks,NBA,12,19.4,.356,.750,2.8,1.5,0.5,0.1,7.4,7.6,-0.4,-0.083,-7.1,-0.3,,"South Kent in South Kent, Connecticut",816482

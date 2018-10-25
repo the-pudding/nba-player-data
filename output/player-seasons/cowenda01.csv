@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-cowenda01,1976-77,28,BOS,NBA,50,37.8,.434,.818,13.9,5.0,0.9,1.0,16.4,16.8,4.4,.113,3.4,2.6,
-cowenda01,1977-78,29,BOS,NBA,77,41.8,.490,.842,14.0,4.6,1.3,0.9,18.6,18.6,10.8,.162,4.4,5.2,
-cowenda01,1978-79,30,BOS,NBA,68,37.0,.483,.807,9.6,3.6,1.1,0.8,16.6,15.2,4.8,.091,1.1,2.0,
-cowenda01,1979-80,31,BOS,NBA,66,32.7,.453,.779,8.1,3.1,1.0,0.9,14.2,14.8,5.4,.121,1.4,1.8,
-cowenda01,1980-81,32,Did Not Play (retired),,,,,,,,,,,,,,,,
-cowenda01,1981-82,33,Did Not Play (retired),,,,,,,,,,,,,,,,
-cowenda01,1982-83,34,MIL,NBA,40,25.4,.444,.825,6.9,2.1,0.8,0.4,8.1,12.6,2.6,.123,0.5,0.6,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+cowenda01,1976-77,28,BOS,NBA,50,37.8,.434,.818,13.9,5.0,0.9,1.0,16.4,16.8,4.4,.113,3.4,2.6,,"Central Catholic in Newport, Kentucky"
+cowenda01,1977-78,29,BOS,NBA,77,41.8,.490,.842,14.0,4.6,1.3,0.9,18.6,18.6,10.8,.162,4.4,5.2,,"Central Catholic in Newport, Kentucky"
+cowenda01,1978-79,30,BOS,NBA,68,37.0,.483,.807,9.6,3.6,1.1,0.8,16.6,15.2,4.8,.091,1.1,2.0,,"Central Catholic in Newport, Kentucky"
+cowenda01,1979-80,31,BOS,NBA,66,32.7,.453,.779,8.1,3.1,1.0,0.9,14.2,14.8,5.4,.121,1.4,1.8,,"Central Catholic in Newport, Kentucky"
+cowenda01,1980-81,32,Did Not Play (retired),,,,,,,,,,,,,,,,,"Central Catholic in Newport, Kentucky"
+cowenda01,1981-82,33,Did Not Play (retired),,,,,,,,,,,,,,,,,"Central Catholic in Newport, Kentucky"
+cowenda01,1982-83,34,MIL,NBA,40,25.4,.444,.825,6.9,2.1,0.8,0.4,8.1,12.6,2.6,.123,0.5,0.6,,"Central Catholic in Newport, Kentucky"

@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-starkjo01,1988-89,23,Golden State Warriors,NBA,36,8.8,.408,.654,1.1,0.8,0.6,0.1,4.1,10.3,0.0,-0.002,-4.5,-0.2,,100000
-starkjo01,1989-90,24,"Did Not Play (other pro league—CBA, WBL)",,,,,,,,,,,,,,,,,
-starkjo01,1990-91,25,New York Knicks,NBA,61,19.2,.439,.752,2.1,3.3,1.0,0.3,7.6,14.3,2.4,.097,0.1,0.6,,120000
-starkjo01,1991-92,26,New York Knicks,NBA,82,25.8,.449,.778,2.3,3.4,1.3,0.2,13.9,16.4,6.4,.146,2.3,2.3,,400000
-starkjo01,1992-93,27,New York Knicks,NBA,80,31.0,.428,.795,2.6,5.1,1.1,0.2,17.5,16.3,7.5,.145,2.6,2.9,,600000
-starkjo01,1993-94,28,New York Knicks,NBA,59,34.9,.420,.754,3.1,5.9,1.6,0.1,19.0,16.0,5.8,.135,2.7,2.4,,1112000
-starkjo01,1994-95,29,New York Knicks,NBA,80,34.1,.395,.737,2.7,5.1,1.2,0.1,15.3,13.8,6.2,.109,1.2,2.2,,1362500
-starkjo01,1995-96,30,New York Knicks,NBA,81,30.8,.443,.753,2.9,3.9,1.3,0.1,12.6,14.2,5.7,.110,1.2,2.0,,1613000
-starkjo01,1996-97,31,New York Knicks,NBA,77,26.5,.431,.769,2.7,2.8,1.2,0.1,13.8,15.9,5.8,.136,1.8,2.0,,1913000
-starkjo01,1997-98,32,New York Knicks,NBA,82,26.7,.393,.787,2.8,2.7,1.0,0.1,12.9,14.3,4.6,.101,0.7,1.5,,5112500
-starkjo01,1998-99,33,Golden State Warriors,NBA,50,33.7,.370,.740,3.3,4.7,1.4,0.1,13.8,13.9,3.0,.085,1.1,1.3,,4000000
-starkjo01,1999-00,34,Chicago Bulls,NBA,37,32.2,.375,.847,2.7,4.9,1.1,0.1,13.9,12.4,0.6,.026,-2.8,-0.3,,4000000
-starkjo01,1999-00,34,Chicago Bulls,NBA,33,33.6,.378,.833,2.8,5.2,1.1,0.1,14.7,12.4,0.5,.024,-2.9,-0.2,,4000000
-starkjo01,1999-00,34,Chicago Bulls,NBA,4,20.5,.324,1.000,2.5,2.8,1.3,0.3,7.5,12.5,0.1,.058,-2.6,0.0,,4000000
-starkjo01,2000-01,35,Utah Jazz,NBA,75,28.3,.398,.802,2.1,2.4,1.0,0.1,9.3,9.3,2.1,.048,-1.6,0.2,,2250000
-starkjo01,2001-02,36,Utah Jazz,NBA,66,14.1,.368,.805,1.0,1.1,0.5,0.0,4.4,6.0,-0.1,-0.004,-5.9,-0.9,,2475000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+starkjo01,1988-89,23,Golden State Warriors,NBA,36,8.8,.408,.654,1.1,0.8,0.6,0.1,4.1,10.3,0.0,-0.002,-4.5,-0.2,,100000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1989-90,24,"Did Not Play (other pro league—CBA, WBL)",,,,,,,,,,,,,,,,,,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1990-91,25,New York Knicks,NBA,61,19.2,.439,.752,2.1,3.3,1.0,0.3,7.6,14.3,2.4,.097,0.1,0.6,,120000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1991-92,26,New York Knicks,NBA,82,25.8,.449,.778,2.3,3.4,1.3,0.2,13.9,16.4,6.4,.146,2.3,2.3,,400000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1992-93,27,New York Knicks,NBA,80,31.0,.428,.795,2.6,5.1,1.1,0.2,17.5,16.3,7.5,.145,2.6,2.9,,600000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1993-94,28,New York Knicks,NBA,59,34.9,.420,.754,3.1,5.9,1.6,0.1,19.0,16.0,5.8,.135,2.7,2.4,,1112000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1994-95,29,New York Knicks,NBA,80,34.1,.395,.737,2.7,5.1,1.2,0.1,15.3,13.8,6.2,.109,1.2,2.2,,1362500,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1995-96,30,New York Knicks,NBA,81,30.8,.443,.753,2.9,3.9,1.3,0.1,12.6,14.2,5.7,.110,1.2,2.0,,1613000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1996-97,31,New York Knicks,NBA,77,26.5,.431,.769,2.7,2.8,1.2,0.1,13.8,15.9,5.8,.136,1.8,2.0,,1913000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1997-98,32,New York Knicks,NBA,82,26.7,.393,.787,2.8,2.7,1.0,0.1,12.9,14.3,4.6,.101,0.7,1.5,,5112500,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1998-99,33,Golden State Warriors,NBA,50,33.7,.370,.740,3.3,4.7,1.4,0.1,13.8,13.9,3.0,.085,1.1,1.3,,4000000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1999-00,34,Chicago Bulls,NBA,37,32.2,.375,.847,2.7,4.9,1.1,0.1,13.9,12.4,0.6,.026,-2.8,-0.3,,4000000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1999-00,34,Chicago Bulls,NBA,33,33.6,.378,.833,2.8,5.2,1.1,0.1,14.7,12.4,0.5,.024,-2.9,-0.2,,4000000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,1999-00,34,Chicago Bulls,NBA,4,20.5,.324,1.000,2.5,2.8,1.3,0.3,7.5,12.5,0.1,.058,-2.6,0.0,,4000000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,2000-01,35,Utah Jazz,NBA,75,28.3,.398,.802,2.1,2.4,1.0,0.1,9.3,9.3,2.1,.048,-1.6,0.2,,2250000,"Tulsa Central in Tulsa, Oklahoma"
+starkjo01,2001-02,36,Utah Jazz,NBA,66,14.1,.368,.805,1.0,1.1,0.5,0.0,4.4,6.0,-0.1,-0.004,-5.9,-0.9,,2475000,"Tulsa Central in Tulsa, Oklahoma"

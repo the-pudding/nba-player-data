@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-willier01,1995-96,23,Boston Celtics,NBA,64,23.0,.441,.671,3.4,1.1,0.9,0.2,10.7,13.3,1.6,.052,-3.6,-0.6,,876000
-willier01,1996-97,24,Boston Celtics,NBA,72,33.8,.456,.752,4.6,1.8,1.0,0.2,15.0,13.3,2.9,.056,-3.2,-0.7,,1008000
-willier01,1997-98,25,Denver Nuggets,NBA,4,36.3,.393,.689,5.3,3.0,1.0,0.0,19.8,17.0,0.1,.048,-4.6,-0.1,,1139520
-willier01,1998-99,26,Denver Nuggets,NBA,38,20.5,.365,.799,2.1,1.0,0.7,0.2,7.3,10.7,0.2,.015,-4.4,-0.5,,2780000
-willier01,1999-00,27,Boston Celtics,NBA,68,20.3,.427,.793,2.3,1.4,0.6,0.2,7.2,11.8,2.5,.088,-1.9,0.0,,3336000
-willier01,2000-01,28,Boston Celtics,NBA,81,21.5,.362,.714,2.6,1.4,0.8,0.2,6.6,10.0,2.2,.060,-2.9,-0.4,,3890000
-willier01,2001-02,29,Boston Celtics,NBA,74,23.6,.374,.731,3.0,1.5,1.0,0.1,6.4,8.8,2.2,.061,-2.4,-0.2,,4448000
-willier01,2002-03,30,Boston Celtics,NBA,82,28.7,.442,.750,4.7,1.7,1.0,0.2,9.1,13.1,6.0,.123,-0.3,1.0,,5004000
-willier01,2003-04,31,Cleveland Cavaliers,NBA,71,26.6,.386,.760,4.0,1.7,1.0,0.1,10.0,12.5,3.1,.079,-2.1,-0.1,,5540000
-willier01,2003-04,31,Cleveland Cavaliers,NBA,21,24.4,.435,.716,4.5,1.2,1.0,0.0,11.6,15.7,1.2,.116,-2.4,0.0,,5540000
-willier01,2003-04,31,Cleveland Cavaliers,NBA,50,27.5,.366,.787,3.8,1.9,1.0,0.2,9.4,11.2,1.9,.065,-2.0,0.0,,5540000
-willier01,2004-05,32,Toronto Raptors,NBA,55,24.0,.430,.696,3.1,1.7,0.7,0.1,7.7,10.7,2.1,.075,-1.9,0.0,,3580000
-willier01,2004-05,32,Toronto Raptors,NBA,21,35.2,.470,.685,4.5,2.0,0.8,0.1,12.6,11.9,1.7,.107,-1.1,0.2,,3580000
-willier01,2004-05,32,Toronto Raptors,NBA,34,17.1,.379,.717,2.3,1.5,0.6,0.1,4.7,9.1,0.4,.034,-2.8,-0.1,,3580000
-willier01,2005-06,33,Toronto Raptors,NBA,28,12.6,.387,.737,1.8,0.5,0.3,0.1,3.3,6.8,0.1,.011,-5.3,-0.3,,3938000
-willier01,2006-07,34,Charlotte Bobcats,NBA,21,5.8,.404,.571,0.8,0.3,0.1,0.0,2.6,11.4,0.1,.057,-4.4,-0.1,,4296000
-willier01,2006-07,34,Charlotte Bobcats,NBA,16,5.5,.441,.571,0.9,0.4,0.1,0.0,2.6,14.8,0.2,.120,-1.8,0.0,,4296000
-willier01,2006-07,34,Charlotte Bobcats,NBA,5,6.6,.308,.571,0.6,0.2,0.2,0.0,2.4,2.4,-0.1,-0.111,-11.2,-0.1,,4296000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+willier01,1995-96,23,Boston Celtics,NBA,64,23.0,.441,.671,3.4,1.1,0.9,0.2,10.7,13.3,1.6,.052,-3.6,-0.6,,876000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,1996-97,24,Boston Celtics,NBA,72,33.8,.456,.752,4.6,1.8,1.0,0.2,15.0,13.3,2.9,.056,-3.2,-0.7,,1008000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,1997-98,25,Denver Nuggets,NBA,4,36.3,.393,.689,5.3,3.0,1.0,0.0,19.8,17.0,0.1,.048,-4.6,-0.1,,1139520,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,1998-99,26,Denver Nuggets,NBA,38,20.5,.365,.799,2.1,1.0,0.7,0.2,7.3,10.7,0.2,.015,-4.4,-0.5,,2780000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,1999-00,27,Boston Celtics,NBA,68,20.3,.427,.793,2.3,1.4,0.6,0.2,7.2,11.8,2.5,.088,-1.9,0.0,,3336000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2000-01,28,Boston Celtics,NBA,81,21.5,.362,.714,2.6,1.4,0.8,0.2,6.6,10.0,2.2,.060,-2.9,-0.4,,3890000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2001-02,29,Boston Celtics,NBA,74,23.6,.374,.731,3.0,1.5,1.0,0.1,6.4,8.8,2.2,.061,-2.4,-0.2,,4448000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2002-03,30,Boston Celtics,NBA,82,28.7,.442,.750,4.7,1.7,1.0,0.2,9.1,13.1,6.0,.123,-0.3,1.0,,5004000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2003-04,31,Cleveland Cavaliers,NBA,71,26.6,.386,.760,4.0,1.7,1.0,0.1,10.0,12.5,3.1,.079,-2.1,-0.1,,5540000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2003-04,31,Cleveland Cavaliers,NBA,21,24.4,.435,.716,4.5,1.2,1.0,0.0,11.6,15.7,1.2,.116,-2.4,0.0,,5540000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2003-04,31,Cleveland Cavaliers,NBA,50,27.5,.366,.787,3.8,1.9,1.0,0.2,9.4,11.2,1.9,.065,-2.0,0.0,,5540000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2004-05,32,Toronto Raptors,NBA,55,24.0,.430,.696,3.1,1.7,0.7,0.1,7.7,10.7,2.1,.075,-1.9,0.0,,3580000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2004-05,32,Toronto Raptors,NBA,21,35.2,.470,.685,4.5,2.0,0.8,0.1,12.6,11.9,1.7,.107,-1.1,0.2,,3580000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2004-05,32,Toronto Raptors,NBA,34,17.1,.379,.717,2.3,1.5,0.6,0.1,4.7,9.1,0.4,.034,-2.8,-0.1,,3580000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2005-06,33,Toronto Raptors,NBA,28,12.6,.387,.737,1.8,0.5,0.3,0.1,3.3,6.8,0.1,.011,-5.3,-0.3,,3938000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2006-07,34,Charlotte Bobcats,NBA,21,5.8,.404,.571,0.8,0.3,0.1,0.0,2.6,11.4,0.1,.057,-4.4,-0.1,,4296000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2006-07,34,Charlotte Bobcats,NBA,16,5.5,.441,.571,0.9,0.4,0.1,0.0,2.6,14.8,0.2,.120,-1.8,0.0,,4296000,"Malcolm X Shabazz in Newark, New Jersey"
+willier01,2006-07,34,Charlotte Bobcats,NBA,5,6.6,.308,.571,0.6,0.2,0.2,0.0,2.4,2.4,-0.1,-0.111,-11.2,-0.1,,4296000,"Malcolm X Shabazz in Newark, New Jersey"

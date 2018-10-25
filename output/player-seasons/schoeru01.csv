@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-schoeru01,1982-83,22,"PHI,IND",NBA,77,15.9,.476,.735,3.3,0.8,0.3,0.3,6.2,10.9,1.7,.066,-3.0,-0.3,,
-schoeru01,1983-84,23,Did Not Play,,,,,,,,,,,,,,,,,
-schoeru01,1984-85,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-schoeru01,1985-86,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-schoeru01,1986-87,26,SEA,NBA,63,9.2,.374,.630,1.9,0.4,0.3,0.2,2.7,6.2,-0.2,-0.018,-5.4,-0.5,,
-schoeru01,1987-88,27,Seattle SuperSonics,NBA,81,12.0,.458,.810,2.4,0.7,0.5,0.2,6.0,13.5,1.8,.087,-2.3,-0.1,,250000
-schoeru01,1988-89,28,Seattle SuperSonics,NBA,69,11.2,.387,.807,2.4,0.5,0.5,0.3,5.2,12.1,1.3,.078,-2.3,-0.1,,275000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+schoeru01,1982-83,22,"PHI,IND",NBA,77,15.9,.476,.735,3.3,0.8,0.3,0.3,6.2,10.9,1.7,.066,-3.0,-0.3,,"Wesclin in Trenton, Illinois",
+schoeru01,1983-84,23,Did Not Play,,,,,,,,,,,,,,,,,"Wesclin in Trenton, Illinois",
+schoeru01,1984-85,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Wesclin in Trenton, Illinois",
+schoeru01,1985-86,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,"Wesclin in Trenton, Illinois",
+schoeru01,1986-87,26,SEA,NBA,63,9.2,.374,.630,1.9,0.4,0.3,0.2,2.7,6.2,-0.2,-0.018,-5.4,-0.5,,"Wesclin in Trenton, Illinois",
+schoeru01,1987-88,27,Seattle SuperSonics,NBA,81,12.0,.458,.810,2.4,0.7,0.5,0.2,6.0,13.5,1.8,.087,-2.3,-0.1,,"Wesclin in Trenton, Illinois",250000
+schoeru01,1988-89,28,Seattle SuperSonics,NBA,69,11.2,.387,.807,2.4,0.5,0.5,0.3,5.2,12.1,1.3,.078,-2.3,-0.1,,"Wesclin in Trenton, Illinois",275000

@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-papanko01,2014-15,24,Houston Rockets,NBA,43,18.5,.350,.722,2.7,2.0,0.7,0.3,4.2,7.8,0.5,.029,-2.3,-0.1,,4800000
-papanko01,2015-16,25,Denver Nuggets,NBA,26,11.3,.364,.643,1.5,0.6,0.5,0.2,2.6,6.0,-0.1,-0.022,-4.3,-0.2,,350000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+papanko01,2014-15,24,Houston Rockets,NBA,43,18.5,.350,.722,2.7,2.0,0.7,0.3,4.2,7.8,0.5,.029,-2.3,-0.1,,4800000,
+papanko01,2015-16,25,Denver Nuggets,NBA,26,11.3,.364,.643,1.5,0.6,0.5,0.2,2.6,6.0,-0.1,-0.022,-4.3,-0.2,,350000,

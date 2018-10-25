@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-fergute01,2017-18,19,Oklahoma City Thunder,NBA,61,12.5,.414,.900,0.8,0.3,0.4,0.2,3.1,7.4,1.2,.077,-2.5,-0.1,,1785000
-fergute01,2018-19,20,OKC,NBA,3,21.0,.133,.500,2.0,0.3,0.3,0.0,2.0,-4.0,-0.2,-0.142,-8.2,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+fergute01,2017-18,19,Oklahoma City Thunder,NBA,61,12.5,.414,.900,0.8,0.3,0.4,0.2,3.1,7.4,1.2,.077,-2.5,-0.1,,1785000,"Advanced Prep International in Dallas, Texas"
+fergute01,2018-19,20,OKC,NBA,3,21.0,.133,.500,2.0,0.3,0.3,0.0,2.0,-4.0,-0.2,-0.142,-8.2,-0.1,,,"Advanced Prep International in Dallas, Texas"

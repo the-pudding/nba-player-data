@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-aventan01,1992-93,23,Milwaukee Bucks,NBA,82,27.9,.433,.651,6.2,1.1,0.7,0.9,9.8,10.2,0.3,.005,-4.6,-1.5,,500000
-aventan01,1993-94,24,Orlando Magic,NBA,74,18.5,.377,.724,4.6,0.9,0.4,0.4,5.3,9.2,0.4,.014,-4.6,-0.9,,650000
-aventan01,1993-94,24,Orlando Magic,NBA,33,21.1,.404,.772,4.7,1.0,0.5,0.6,7.4,11.3,0.3,.022,-5.1,-0.5,,650000
-aventan01,1993-94,24,Orlando Magic,NBA,41,16.5,.341,.636,4.5,0.8,0.4,0.3,3.5,7.1,0.1,.006,-4.2,-0.4,,650000
-aventan01,1994-95,25,Orlando Magic,NBA,71,15.0,.430,.640,4.1,0.6,0.4,0.7,3.6,9.8,1.5,.069,-2.7,-0.2,,800000
-aventan01,1995-96,26,Vancouver Grizzlies,NBA,71,22.3,.384,.740,5.0,1.0,0.4,0.6,5.8,6.9,-1.2,-0.037,-6.4,-1.7,,950000
-aventan01,1996-97,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,
-aventan01,1997-98,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,
-aventan01,1998-99,29,UTA,NBA,5,8.8,.308,.500,2.4,0.2,0.4,0.0,1.8,1.3,-0.1,-0.153,-9.0,-0.1,,
-aventan01,1999-00,30,Los Angeles Clippers,NBA,49,7.7,.302,.719,1.5,0.2,0.3,0.3,1.7,5.5,-0.5,-0.065,-7.7,-0.5,,510000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+aventan01,1992-93,23,Milwaukee Bucks,NBA,82,27.9,.433,.651,6.2,1.1,0.7,0.9,9.8,10.2,0.3,.005,-4.6,-1.5,,500000,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1993-94,24,Orlando Magic,NBA,74,18.5,.377,.724,4.6,0.9,0.4,0.4,5.3,9.2,0.4,.014,-4.6,-0.9,,650000,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1993-94,24,Orlando Magic,NBA,33,21.1,.404,.772,4.7,1.0,0.5,0.6,7.4,11.3,0.3,.022,-5.1,-0.5,,650000,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1993-94,24,Orlando Magic,NBA,41,16.5,.341,.636,4.5,0.8,0.4,0.3,3.5,7.1,0.1,.006,-4.2,-0.4,,650000,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1994-95,25,Orlando Magic,NBA,71,15.0,.430,.640,4.1,0.6,0.4,0.7,3.6,9.8,1.5,.069,-2.7,-0.2,,800000,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1995-96,26,Vancouver Grizzlies,NBA,71,22.3,.384,.740,5.0,1.0,0.4,0.6,5.8,6.9,-1.2,-0.037,-6.4,-1.7,,950000,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1996-97,27,Did Not Play (other pro league—Greece),,,,,,,,,,,,,,,,,,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1997-98,28,Did Not Play (other pro league—CBA),,,,,,,,,,,,,,,,,,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1998-99,29,UTA,NBA,5,8.8,.308,.500,2.4,0.2,0.4,0.0,1.8,1.3,-0.1,-0.153,-9.0,-0.1,,,"Malcolm X Shabazz in Newark, New Jersey"
+aventan01,1999-00,30,Los Angeles Clippers,NBA,49,7.7,.302,.719,1.5,0.2,0.3,0.3,1.7,5.5,-0.5,-0.065,-7.7,-0.5,,510000,"Malcolm X Shabazz in Newark, New Jersey"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-leeku01,1990-91,23,New Jersey Nets,NBA,48,5.5,.268,.893,0.6,0.7,0.2,0.0,1.4,5.6,-0.1,-0.013,-6.7,-0.3,,120000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+leeku01,1990-91,23,New Jersey Nets,NBA,48,5.5,.268,.893,0.6,0.7,0.2,0.0,1.4,5.6,-0.1,-0.013,-6.7,-0.3,,120000,"Paul Laurence Dunbar in Baltimore, Maryland"

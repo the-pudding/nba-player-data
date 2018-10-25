@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-jacksph01,1976-77,31,NYK,NBA,76,13.6,.440,.718,3.0,1.1,0.4,0.2,3.4,9.4,0.9,.043,-1.8,0.1,
-jacksph01,1977-78,32,NYK,NBA,63,10.4,.478,.768,1.7,0.7,0.5,0.2,2.4,8.1,0.8,.058,-1.9,0.0,
-jacksph01,1978-79,33,NJN,NBA,59,18.1,.475,.819,3.0,1.4,0.8,0.4,6.3,10.7,1.9,.086,-1.4,0.2,
-jacksph01,1979-80,34,NJN,NBA,16,12.1,.630,.700,1.5,0.8,0.3,0.3,4.1,10.7,0.5,.121,-1.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+jacksph01,1976-77,31,NYK,NBA,76,13.6,.440,.718,3.0,1.1,0.4,0.2,3.4,9.4,0.9,.043,-1.8,0.1,,"Williston in Williston, North Dakota"
+jacksph01,1977-78,32,NYK,NBA,63,10.4,.478,.768,1.7,0.7,0.5,0.2,2.4,8.1,0.8,.058,-1.9,0.0,,"Williston in Williston, North Dakota"
+jacksph01,1978-79,33,NJN,NBA,59,18.1,.475,.819,3.0,1.4,0.8,0.4,6.3,10.7,1.9,.086,-1.4,0.2,,"Williston in Williston, North Dakota"
+jacksph01,1979-80,34,NJN,NBA,16,12.1,.630,.700,1.5,0.8,0.3,0.3,4.1,10.7,0.5,.121,-1.1,0.0,,"Williston in Williston, North Dakota"

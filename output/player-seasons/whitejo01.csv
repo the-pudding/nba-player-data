@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-whitejo01,1976-77,30,BOS,NBA,82,40.6,.429,.869,4.7,6.0,1.4,0.3,19.6,14.9,6.5,.094,0.9,2.4,All-NBA (2nd)
-whitejo01,1977-78,31,BOS,NBA,46,35.7,.419,.858,3.9,4.5,1.1,0.2,14.8,11.9,1.7,.049,-1.7,0.1,
-whitejo01,1978-79,32,"BOS,GSW",NBA,76,30.8,.444,.880,2.6,4.6,1.1,0.1,12.5,11.2,1.1,.023,-3.4,-0.8,
-whitejo01,1979-80,33,GSW,NBA,78,26.3,.476,.851,2.3,3.1,1.1,0.2,9.9,11.2,1.5,.035,-2.5,-0.3,
-whitejo01,1980-81,34,KCK,NBA,13,18.2,.439,.611,1.6,2.8,0.8,0.1,6.4,10.4,0.1,.021,-4.5,-0.1,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+whitejo01,1976-77,30,BOS,NBA,82,40.6,.429,.869,4.7,6.0,1.4,0.3,19.6,14.9,6.5,.094,0.9,2.4,All-NBA (2nd),"McKinley in St. Louis, Missouri"
+whitejo01,1977-78,31,BOS,NBA,46,35.7,.419,.858,3.9,4.5,1.1,0.2,14.8,11.9,1.7,.049,-1.7,0.1,,"McKinley in St. Louis, Missouri"
+whitejo01,1978-79,32,"BOS,GSW",NBA,76,30.8,.444,.880,2.6,4.6,1.1,0.1,12.5,11.2,1.1,.023,-3.4,-0.8,,"McKinley in St. Louis, Missouri"
+whitejo01,1979-80,33,GSW,NBA,78,26.3,.476,.851,2.3,3.1,1.1,0.2,9.9,11.2,1.5,.035,-2.5,-0.3,,"McKinley in St. Louis, Missouri"
+whitejo01,1980-81,34,KCK,NBA,13,18.2,.439,.611,1.6,2.8,0.8,0.1,6.4,10.4,0.1,.021,-4.5,-0.1,,"McKinley in St. Louis, Missouri"

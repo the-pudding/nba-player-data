@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-washipe01,1986-87,23,NJN,NBA,72,22.2,.478,.784,1.8,4.2,1.3,0.1,8.6,11.5,0.7,.022,-2.6,-0.2,,
-washipe01,1987-88,24,New Jersey Nets,NBA,68,20.3,.448,.698,1.7,3.0,1.3,0.1,9.3,13.1,0.7,.025,-2.1,0.0,,310000
-washipe01,1988-89,25,Miami Heat,NBA,54,19.7,.424,.788,2.3,4.2,1.4,0.1,7.6,13.0,0.5,.021,-2.4,-0.1,,335000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+washipe01,1986-87,23,NJN,NBA,72,22.2,.478,.784,1.8,4.2,1.3,0.1,8.6,11.5,0.7,.022,-2.6,-0.2,,"Boys and Girls in Brooklyn, New York",
+washipe01,1987-88,24,New Jersey Nets,NBA,68,20.3,.448,.698,1.7,3.0,1.3,0.1,9.3,13.1,0.7,.025,-2.1,0.0,,"Boys and Girls in Brooklyn, New York",310000
+washipe01,1988-89,25,Miami Heat,NBA,54,19.7,.424,.788,2.3,4.2,1.4,0.1,7.6,13.0,0.5,.021,-2.4,-0.1,,"Boys and Girls in Brooklyn, New York",335000

@@ -1,18 +1,18 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-johnsma02,1979-80,20,LAL,NBA,77,36.3,.530,.810,7.7,7.3,2.4,0.5,18.0,20.6,10.5,.180,5.5,5.3,,
-johnsma02,1980-81,21,LAL,NBA,37,37.1,.532,.760,8.6,8.6,3.4,0.7,21.6,25.7,6.4,.225,9.2,3.9,,
-johnsma02,1981-82,22,LAL,NBA,78,38.3,.537,.760,9.6,9.5,2.7,0.4,18.6,22.9,12.9,.207,8.3,7.8,All-NBA (2nd),
-johnsma02,1982-83,23,LAL,NBA,79,36.8,.548,.800,8.6,10.5,2.2,0.6,16.8,23.0,12.5,.207,7.4,6.9,All-NBA (1st),
-johnsma02,1983-84,24,LAL,NBA,67,38.3,.565,.810,7.3,13.1,2.2,0.7,17.6,22.6,10.2,.191,6.1,5.2,All-NBA (1st),
-johnsma02,1984-85,25,Los Angeles Lakers,NBA,77,36.1,.561,.843,6.2,12.6,1.5,0.3,18.3,23.2,12.7,.220,5.4,5.2,All-NBA (1st),2500000
-johnsma02,1985-86,26,Los Angeles Lakers,NBA,72,35.8,.526,.871,5.9,12.6,1.6,0.2,18.8,24.0,12.1,.226,5.9,5.2,All-NBA (1st),2500000
-johnsma02,1986-87,27,LAL,NBA,80,36.3,.522,.848,6.3,12.2,1.7,0.5,23.9,27.0,15.9,.263,8.1,7.4,All-NBA (1st),
-johnsma02,1987-88,28,Los Angeles Lakers,NBA,72,36.6,.492,.853,6.2,11.9,1.6,0.2,19.6,23.1,10.9,.199,5.3,4.9,All-NBA (1st),2500000
-johnsma02,1988-89,29,Los Angeles Lakers,NBA,77,37.5,.509,.911,7.9,12.8,1.8,0.3,22.5,26.9,16.1,.267,9.3,8.2,All-NBA (1st),3142860
-johnsma02,1989-90,30,Los Angeles Lakers,NBA,79,37.2,.480,.890,6.6,11.5,1.7,0.4,22.3,26.6,16.5,.270,9.5,8.5,All-NBA (1st),3100000
-johnsma02,1990-91,31,Los Angeles Lakers,NBA,79,37.1,.477,.906,7.0,12.5,1.3,0.2,19.4,25.1,15.4,.251,8.3,7.6,All-NBA (1st),2400000
-johnsma02,1991-92,32,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,2500000
-johnsma02,1992-93,33,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,2500000
-johnsma02,1993-94,34,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,2500000
-johnsma02,1994-95,35,Did Not Play (illness—HIV),,,,,,,,,,,,,,,,,
-johnsma02,1995-96,36,LAL,NBA,32,29.9,.466,.856,5.7,6.9,0.8,0.4,14.6,21.1,3.6,.181,3.2,1.3,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+johnsma02,1979-80,20,LAL,NBA,77,36.3,.530,.810,7.7,7.3,2.4,0.5,18.0,20.6,10.5,.180,5.5,5.3,,"Everett in Lansing, Michigan",
+johnsma02,1980-81,21,LAL,NBA,37,37.1,.532,.760,8.6,8.6,3.4,0.7,21.6,25.7,6.4,.225,9.2,3.9,,"Everett in Lansing, Michigan",
+johnsma02,1981-82,22,LAL,NBA,78,38.3,.537,.760,9.6,9.5,2.7,0.4,18.6,22.9,12.9,.207,8.3,7.8,All-NBA (2nd),"Everett in Lansing, Michigan",
+johnsma02,1982-83,23,LAL,NBA,79,36.8,.548,.800,8.6,10.5,2.2,0.6,16.8,23.0,12.5,.207,7.4,6.9,All-NBA (1st),"Everett in Lansing, Michigan",
+johnsma02,1983-84,24,LAL,NBA,67,38.3,.565,.810,7.3,13.1,2.2,0.7,17.6,22.6,10.2,.191,6.1,5.2,All-NBA (1st),"Everett in Lansing, Michigan",
+johnsma02,1984-85,25,Los Angeles Lakers,NBA,77,36.1,.561,.843,6.2,12.6,1.5,0.3,18.3,23.2,12.7,.220,5.4,5.2,All-NBA (1st),"Everett in Lansing, Michigan",2500000
+johnsma02,1985-86,26,Los Angeles Lakers,NBA,72,35.8,.526,.871,5.9,12.6,1.6,0.2,18.8,24.0,12.1,.226,5.9,5.2,All-NBA (1st),"Everett in Lansing, Michigan",2500000
+johnsma02,1986-87,27,LAL,NBA,80,36.3,.522,.848,6.3,12.2,1.7,0.5,23.9,27.0,15.9,.263,8.1,7.4,All-NBA (1st),"Everett in Lansing, Michigan",
+johnsma02,1987-88,28,Los Angeles Lakers,NBA,72,36.6,.492,.853,6.2,11.9,1.6,0.2,19.6,23.1,10.9,.199,5.3,4.9,All-NBA (1st),"Everett in Lansing, Michigan",2500000
+johnsma02,1988-89,29,Los Angeles Lakers,NBA,77,37.5,.509,.911,7.9,12.8,1.8,0.3,22.5,26.9,16.1,.267,9.3,8.2,All-NBA (1st),"Everett in Lansing, Michigan",3142860
+johnsma02,1989-90,30,Los Angeles Lakers,NBA,79,37.2,.480,.890,6.6,11.5,1.7,0.4,22.3,26.6,16.5,.270,9.5,8.5,All-NBA (1st),"Everett in Lansing, Michigan",3100000
+johnsma02,1990-91,31,Los Angeles Lakers,NBA,79,37.1,.477,.906,7.0,12.5,1.3,0.2,19.4,25.1,15.4,.251,8.3,7.6,All-NBA (1st),"Everett in Lansing, Michigan",2400000
+johnsma02,1991-92,32,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",2500000
+johnsma02,1992-93,33,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",2500000
+johnsma02,1993-94,34,Los Angeles Lakers,NBA,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",2500000
+johnsma02,1994-95,35,Did Not Play (illness—HIV),,,,,,,,,,,,,,,,,"Everett in Lansing, Michigan",
+johnsma02,1995-96,36,LAL,NBA,32,29.9,.466,.856,5.7,6.9,0.8,0.4,14.6,21.1,3.6,.181,3.2,1.3,,"Everett in Lansing, Michigan",

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-colsose01,2000-01,25,"ATL,HOU",NBA,13,3.4,.250,.500,0.5,0.8,0.1,0.0,1.2,6.8,-0.1,-0.106,-6.3,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+colsose01,2000-01,25,"ATL,HOU",NBA,13,3.4,.250,.500,0.5,0.8,0.1,0.0,1.2,6.8,-0.1,-0.106,-6.3,0.0,,"Maine Central Institute in Pittsfield, Maine"

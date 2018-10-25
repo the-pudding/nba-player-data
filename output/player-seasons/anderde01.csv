@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-anderde01,1997-98,23,Cleveland Cavaliers,NBA,66,27.9,.408,.873,2.8,3.4,1.3,0.2,11.7,15.3,5.3,.139,1.0,1.4,,1107240
-anderde01,1998-99,24,Cleveland Cavaliers,NBA,38,25.7,.398,.836,2.9,3.8,1.3,0.1,10.8,16.5,2.1,.105,0.8,0.7,,1273000
-anderde01,1999-00,25,Los Angeles Clippers,NBA,64,34.4,.438,.877,4.0,3.4,1.4,0.2,16.9,16.9,3.3,.073,-0.2,1.0,,1439400
-anderde01,2000-01,26,San Antonio Spurs,NBA,82,34.9,.416,.851,4.4,3.7,1.5,0.2,15.5,17.1,9.9,.166,3.6,4.0,,2250000
-anderde01,2001-02,27,Portland Trail Blazers,NBA,70,26.6,.404,.856,2.7,3.1,1.0,0.1,10.8,15.5,5.3,.137,0.9,1.3,,6495000
-anderde01,2002-03,28,Portland Trail Blazers,NBA,76,33.6,.427,.859,3.5,4.3,1.2,0.2,13.9,16.9,8.1,.153,2.5,2.9,,7144500
-anderde01,2003-04,29,Portland Trail Blazers,NBA,51,35.5,.376,.824,3.6,4.5,1.3,0.1,13.6,15.1,3.6,.097,0.3,1.1,,7794000
-anderde01,2004-05,30,Portland Trail Blazers,NBA,47,26.4,.389,.805,2.7,3.0,0.8,0.1,9.2,11.7,1.3,.052,-2.1,0.0,,8443500
-anderde01,2005-06,31,Portland Trail Blazers,NBA,43,24.3,.356,.838,3.3,2.3,0.5,0.1,8.1,10.8,1.6,.074,-1.5,0.1,,9093000
-anderde01,2005-06,31,Portland Trail Blazers,NBA,20,29.1,.393,.836,4.2,2.7,0.8,0.2,10.8,12.5,1.0,.084,-0.8,0.2,,9093000
-anderde01,2005-06,31,Portland Trail Blazers,NBA,23,20.2,.308,.842,2.6,2.1,0.3,0.1,5.8,8.7,0.6,.061,-2.5,-0.1,,9093000
-anderde01,2006-07,32,Portland Trail Blazers,NBA,50,23.8,.429,.877,2.3,2.7,1.0,0.1,8.0,13.7,2.9,.117,1.0,0.9,,9742500
-anderde01,2007-08,33,Charlotte Bobcats,NBA,28,14.1,.376,.737,1.9,1.6,0.4,0.0,5.0,10.0,0.3,.032,-3.7,-0.2,,1219590
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+anderde01,1997-98,23,Cleveland Cavaliers,NBA,66,27.9,.408,.873,2.8,3.4,1.3,0.2,11.7,15.3,5.3,.139,1.0,1.4,,1107240,"Doss in Louisville, Kentucky"
+anderde01,1998-99,24,Cleveland Cavaliers,NBA,38,25.7,.398,.836,2.9,3.8,1.3,0.1,10.8,16.5,2.1,.105,0.8,0.7,,1273000,"Doss in Louisville, Kentucky"
+anderde01,1999-00,25,Los Angeles Clippers,NBA,64,34.4,.438,.877,4.0,3.4,1.4,0.2,16.9,16.9,3.3,.073,-0.2,1.0,,1439400,"Doss in Louisville, Kentucky"
+anderde01,2000-01,26,San Antonio Spurs,NBA,82,34.9,.416,.851,4.4,3.7,1.5,0.2,15.5,17.1,9.9,.166,3.6,4.0,,2250000,"Doss in Louisville, Kentucky"
+anderde01,2001-02,27,Portland Trail Blazers,NBA,70,26.6,.404,.856,2.7,3.1,1.0,0.1,10.8,15.5,5.3,.137,0.9,1.3,,6495000,"Doss in Louisville, Kentucky"
+anderde01,2002-03,28,Portland Trail Blazers,NBA,76,33.6,.427,.859,3.5,4.3,1.2,0.2,13.9,16.9,8.1,.153,2.5,2.9,,7144500,"Doss in Louisville, Kentucky"
+anderde01,2003-04,29,Portland Trail Blazers,NBA,51,35.5,.376,.824,3.6,4.5,1.3,0.1,13.6,15.1,3.6,.097,0.3,1.1,,7794000,"Doss in Louisville, Kentucky"
+anderde01,2004-05,30,Portland Trail Blazers,NBA,47,26.4,.389,.805,2.7,3.0,0.8,0.1,9.2,11.7,1.3,.052,-2.1,0.0,,8443500,"Doss in Louisville, Kentucky"
+anderde01,2005-06,31,Portland Trail Blazers,NBA,43,24.3,.356,.838,3.3,2.3,0.5,0.1,8.1,10.8,1.6,.074,-1.5,0.1,,9093000,"Doss in Louisville, Kentucky"
+anderde01,2005-06,31,Portland Trail Blazers,NBA,20,29.1,.393,.836,4.2,2.7,0.8,0.2,10.8,12.5,1.0,.084,-0.8,0.2,,9093000,"Doss in Louisville, Kentucky"
+anderde01,2005-06,31,Portland Trail Blazers,NBA,23,20.2,.308,.842,2.6,2.1,0.3,0.1,5.8,8.7,0.6,.061,-2.5,-0.1,,9093000,"Doss in Louisville, Kentucky"
+anderde01,2006-07,32,Portland Trail Blazers,NBA,50,23.8,.429,.877,2.3,2.7,1.0,0.1,8.0,13.7,2.9,.117,1.0,0.9,,9742500,"Doss in Louisville, Kentucky"
+anderde01,2007-08,33,Charlotte Bobcats,NBA,28,14.1,.376,.737,1.9,1.6,0.4,0.0,5.0,10.0,0.3,.032,-3.7,-0.2,,1219590,"Doss in Louisville, Kentucky"

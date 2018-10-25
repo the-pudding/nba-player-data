@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-anderni01,1989-90,22,ORL,NBA,81,22.0,.494,.705,3.9,1.5,0.9,0.4,11.5,14.9,1.8,.049,-1.7,0.1,,
-anderni01,1990-91,23,Orlando Magic,NBA,70,28.2,.467,.668,5.5,1.5,1.1,0.6,14.1,15.1,3.1,.075,-1.0,0.5,,725000
-anderni01,1991-92,24,Orlando Magic,NBA,60,36.7,.463,.667,6.4,2.7,1.6,0.6,19.9,16.4,3.6,.078,0.7,1.5,,750000
-anderni01,1992-93,25,Orlando Magic,NBA,79,37.0,.449,.741,6.0,3.4,1.6,0.7,19.9,17.3,7.7,.126,2.7,3.5,,800000
-anderni01,1993-94,26,Orlando Magic,NBA,81,34.7,.478,.672,5.9,3.6,1.7,0.4,15.8,16.9,7.6,.129,3.0,3.6,,2670000
-anderni01,1994-95,27,Orlando Magic,NBA,76,34.1,.476,.704,4.4,4.1,1.6,0.3,15.8,17.5,8.3,.154,3.9,3.8,,3090000
-anderni01,1995-96,28,Orlando Magic,NBA,77,35.3,.442,.692,5.4,3.6,1.6,0.6,14.7,16.5,7.4,.131,3.1,3.5,,3200000
-anderni01,1996-97,29,Orlando Magic,NBA,63,34.3,.397,.404,4.8,2.9,1.9,0.5,12.0,13.8,4.2,.093,2.6,2.5,,3790000
-anderni01,1997-98,30,Orlando Magic,NBA,58,29.3,.455,.638,5.1,2.1,1.2,0.4,15.3,19.6,5.3,.149,3.4,2.3,,4000000
-anderni01,1998-99,31,Orlando Magic,NBA,47,33.6,.395,.611,5.9,1.9,1.4,0.3,14.9,15.3,3.9,.118,1.3,1.3,,3200000
-anderni01,1999-00,32,Sacramento Kings,NBA,72,29.1,.391,.487,4.7,1.7,1.3,0.2,10.8,11.8,2.8,.064,0.3,1.2,,5051906
-anderni01,2000-01,33,Sacramento Kings,NBA,21,8.0,.246,,1.2,0.6,0.5,0.2,1.8,6.4,0.0,-0.011,-3.1,0.0,,3750000
-anderni01,2001-02,34,Memphis Grizzlies,NBA,15,14.6,.276,.556,2.2,0.9,0.4,0.4,4.0,4.9,-0.4,-0.080,-6.9,-0.3,,5401906
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+anderni01,1989-90,22,ORL,NBA,81,22.0,.494,.705,3.9,1.5,0.9,0.4,11.5,14.9,1.8,.049,-1.7,0.1,,"Simeon Vocational School in Chicago, Illinois",
+anderni01,1990-91,23,Orlando Magic,NBA,70,28.2,.467,.668,5.5,1.5,1.1,0.6,14.1,15.1,3.1,.075,-1.0,0.5,,"Simeon Vocational School in Chicago, Illinois",725000
+anderni01,1991-92,24,Orlando Magic,NBA,60,36.7,.463,.667,6.4,2.7,1.6,0.6,19.9,16.4,3.6,.078,0.7,1.5,,"Simeon Vocational School in Chicago, Illinois",750000
+anderni01,1992-93,25,Orlando Magic,NBA,79,37.0,.449,.741,6.0,3.4,1.6,0.7,19.9,17.3,7.7,.126,2.7,3.5,,"Simeon Vocational School in Chicago, Illinois",800000
+anderni01,1993-94,26,Orlando Magic,NBA,81,34.7,.478,.672,5.9,3.6,1.7,0.4,15.8,16.9,7.6,.129,3.0,3.6,,"Simeon Vocational School in Chicago, Illinois",2670000
+anderni01,1994-95,27,Orlando Magic,NBA,76,34.1,.476,.704,4.4,4.1,1.6,0.3,15.8,17.5,8.3,.154,3.9,3.8,,"Simeon Vocational School in Chicago, Illinois",3090000
+anderni01,1995-96,28,Orlando Magic,NBA,77,35.3,.442,.692,5.4,3.6,1.6,0.6,14.7,16.5,7.4,.131,3.1,3.5,,"Simeon Vocational School in Chicago, Illinois",3200000
+anderni01,1996-97,29,Orlando Magic,NBA,63,34.3,.397,.404,4.8,2.9,1.9,0.5,12.0,13.8,4.2,.093,2.6,2.5,,"Simeon Vocational School in Chicago, Illinois",3790000
+anderni01,1997-98,30,Orlando Magic,NBA,58,29.3,.455,.638,5.1,2.1,1.2,0.4,15.3,19.6,5.3,.149,3.4,2.3,,"Simeon Vocational School in Chicago, Illinois",4000000
+anderni01,1998-99,31,Orlando Magic,NBA,47,33.6,.395,.611,5.9,1.9,1.4,0.3,14.9,15.3,3.9,.118,1.3,1.3,,"Simeon Vocational School in Chicago, Illinois",3200000
+anderni01,1999-00,32,Sacramento Kings,NBA,72,29.1,.391,.487,4.7,1.7,1.3,0.2,10.8,11.8,2.8,.064,0.3,1.2,,"Simeon Vocational School in Chicago, Illinois",5051906
+anderni01,2000-01,33,Sacramento Kings,NBA,21,8.0,.246,,1.2,0.6,0.5,0.2,1.8,6.4,0.0,-0.011,-3.1,0.0,,"Simeon Vocational School in Chicago, Illinois",3750000
+anderni01,2001-02,34,Memphis Grizzlies,NBA,15,14.6,.276,.556,2.2,0.9,0.4,0.4,4.0,4.9,-0.4,-0.080,-6.9,-0.3,,"Simeon Vocational School in Chicago, Illinois",5401906

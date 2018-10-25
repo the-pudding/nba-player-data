@@ -1,14 +1,14 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-vaughlo01,1990-91,22,Los Angeles Clippers,NBA,73,16.1,.487,.662,4.8,0.5,0.3,0.3,5.5,12.1,2.2,.091,-3.1,-0.3,,825000
-vaughlo01,1991-92,23,Los Angeles Clippers,NBA,79,21.4,.492,.797,6.5,0.9,0.5,0.4,7.6,13.7,4.1,.117,-1.5,0.2,,1000000
-vaughlo01,1992-93,24,Los Angeles Clippers,NBA,79,20.9,.508,.748,6.2,0.7,0.7,0.5,9.4,16.0,4.2,.123,-2.1,0.0,,1100000
-vaughlo01,1993-94,25,Los Angeles Clippers,NBA,75,28.2,.537,.720,8.7,1.0,1.0,0.3,11.7,16.0,5.5,.125,-0.8,0.7,,1225000
-vaughlo01,1994-95,26,Los Angeles Clippers,NBA,80,37.1,.514,.710,9.7,1.7,1.3,0.4,17.5,17.1,5.5,.089,-0.1,1.4,,2750000
-vaughlo01,1995-96,27,Los Angeles Clippers,NBA,80,37.1,.525,.727,10.1,1.4,1.1,0.5,16.2,16.7,6.3,.102,-1.0,0.7,,3000000
-vaughlo01,1996-97,28,Los Angeles Clippers,NBA,82,34.6,.500,.702,10.0,1.3,1.0,0.3,14.9,16.6,6.3,.106,-1.3,0.5,,3100000
-vaughlo01,1997-98,29,Los Angeles Clippers,NBA,10,26.5,.429,.375,6.5,0.7,0.4,0.2,7.5,7.8,-0.2,-0.029,-7.7,-0.4,,3350000
-vaughlo01,1998-99,30,Detroit Pistons,NBA,37,13.0,.381,.643,3.9,0.3,0.4,0.2,3.4,10.2,0.5,.050,-6.4,-0.5,,3830000
-vaughlo01,1999-00,31,Detroit Pistons,NBA,43,6.8,.360,.688,2.1,0.3,0.1,0.1,1.7,8.5,0.2,.026,-6.7,-0.3,,4180000
-vaughlo01,2000-01,32,Dallas Mavericks,NBA,51,10.8,.473,.800,3.4,0.5,0.4,0.1,3.3,13.3,1.0,.091,-2.5,-0.1,,4812025
-vaughlo01,2000-01,32,Dallas Mavericks,NBA,37,10.6,.455,.667,3.3,0.4,0.4,0.1,3.1,11.9,0.7,.084,-2.8,-0.1,,4812025
-vaughlo01,2000-01,32,Dallas Mavericks,NBA,14,11.2,.521,1.000,3.6,0.5,0.4,0.1,3.9,16.8,0.3,.106,-1.6,0.0,,4812025
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+vaughlo01,1990-91,22,Los Angeles Clippers,NBA,73,16.1,.487,.662,4.8,0.5,0.3,0.3,5.5,12.1,2.2,.091,-3.1,-0.3,,825000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1991-92,23,Los Angeles Clippers,NBA,79,21.4,.492,.797,6.5,0.9,0.5,0.4,7.6,13.7,4.1,.117,-1.5,0.2,,1000000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1992-93,24,Los Angeles Clippers,NBA,79,20.9,.508,.748,6.2,0.7,0.7,0.5,9.4,16.0,4.2,.123,-2.1,0.0,,1100000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1993-94,25,Los Angeles Clippers,NBA,75,28.2,.537,.720,8.7,1.0,1.0,0.3,11.7,16.0,5.5,.125,-0.8,0.7,,1225000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1994-95,26,Los Angeles Clippers,NBA,80,37.1,.514,.710,9.7,1.7,1.3,0.4,17.5,17.1,5.5,.089,-0.1,1.4,,2750000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1995-96,27,Los Angeles Clippers,NBA,80,37.1,.525,.727,10.1,1.4,1.1,0.5,16.2,16.7,6.3,.102,-1.0,0.7,,3000000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1996-97,28,Los Angeles Clippers,NBA,82,34.6,.500,.702,10.0,1.3,1.0,0.3,14.9,16.6,6.3,.106,-1.3,0.5,,3100000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1997-98,29,Los Angeles Clippers,NBA,10,26.5,.429,.375,6.5,0.7,0.4,0.2,7.5,7.8,-0.2,-0.029,-7.7,-0.4,,3350000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1998-99,30,Detroit Pistons,NBA,37,13.0,.381,.643,3.9,0.3,0.4,0.2,3.4,10.2,0.5,.050,-6.4,-0.5,,3830000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,1999-00,31,Detroit Pistons,NBA,43,6.8,.360,.688,2.1,0.3,0.1,0.1,1.7,8.5,0.2,.026,-6.7,-0.3,,4180000,"East Kentwood in Kentwood, Michigan"
+vaughlo01,2000-01,32,Dallas Mavericks,NBA,51,10.8,.473,.800,3.4,0.5,0.4,0.1,3.3,13.3,1.0,.091,-2.5,-0.1,,4812025,"East Kentwood in Kentwood, Michigan"
+vaughlo01,2000-01,32,Dallas Mavericks,NBA,37,10.6,.455,.667,3.3,0.4,0.4,0.1,3.1,11.9,0.7,.084,-2.8,-0.1,,4812025,"East Kentwood in Kentwood, Michigan"
+vaughlo01,2000-01,32,Dallas Mavericks,NBA,14,11.2,.521,1.000,3.6,0.5,0.4,0.1,3.9,16.8,0.3,.106,-1.6,0.0,,4812025,"East Kentwood in Kentwood, Michigan"

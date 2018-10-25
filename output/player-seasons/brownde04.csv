@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-brownde04,2009-10,22,Charlotte Bobcats,NBA,57,9.4,.463,.667,1.4,0.3,0.4,0.2,3.3,12.6,1.3,.114,-2.2,0.0,,457588
-brownde04,2010-11,23,Charlotte Bobcats,NBA,49,11.8,.565,.533,2.0,0.7,0.4,0.2,3.8,12.9,1.0,.083,-1.3,0.1,,762195
-brownde04,2010-11,23,Charlotte Bobcats,NBA,41,11.9,.549,.532,2.0,0.7,0.4,0.2,3.7,12.4,0.8,.074,-1.7,0.0,,762195
-brownde04,2010-11,23,Charlotte Bobcats,NBA,8,11.0,.667,.538,1.9,0.5,0.5,0.3,4.3,16.0,0.2,.130,0.8,0.1,,762195
-brownde04,2011-12,24,Charlotte Bobcats,NBA,65,22.2,.518,.667,3.6,1.0,0.7,0.2,8.1,14.7,2.3,.076,-1.5,0.2,,854389
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+brownde04,2009-10,22,Charlotte Bobcats,NBA,57,9.4,.463,.667,1.4,0.3,0.4,0.2,3.3,12.6,1.3,.114,-2.2,0.0,,457588,"Chaminade Julienne in Dayton, Ohio"
+brownde04,2010-11,23,Charlotte Bobcats,NBA,49,11.8,.565,.533,2.0,0.7,0.4,0.2,3.8,12.9,1.0,.083,-1.3,0.1,,762195,"Chaminade Julienne in Dayton, Ohio"
+brownde04,2010-11,23,Charlotte Bobcats,NBA,41,11.9,.549,.532,2.0,0.7,0.4,0.2,3.7,12.4,0.8,.074,-1.7,0.0,,762195,"Chaminade Julienne in Dayton, Ohio"
+brownde04,2010-11,23,Charlotte Bobcats,NBA,8,11.0,.667,.538,1.9,0.5,0.5,0.3,4.3,16.0,0.2,.130,0.8,0.1,,762195,"Chaminade Julienne in Dayton, Ohio"
+brownde04,2011-12,24,Charlotte Bobcats,NBA,65,22.2,.518,.667,3.6,1.0,0.7,0.2,8.1,14.7,2.3,.076,-1.5,0.2,,854389,"Chaminade Julienne in Dayton, Ohio"

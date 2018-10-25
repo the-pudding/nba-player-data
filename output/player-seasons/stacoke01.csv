@@ -1,7 +1,7 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-stacoke01,1976-77,25,BOS,NBA,79,13.3,.409,.793,1.2,1.5,0.2,0.0,5.1,10.1,0.6,.027,-5.9,-1.0,
-stacoke01,1977-78,26,BOS,NBA,55,18.3,.426,.761,1.9,2.0,0.5,0.1,8.5,12.0,0.8,.038,-4.3,-0.6,
-stacoke01,1978-79,27,"IND,BOS",NBA,68,12.2,.374,.733,1.3,1.6,0.4,0.0,4.4,8.0,-0.8,-0.048,-7.0,-1.0,
-stacoke01,1979-80,28,Did Not Play,,,,,,,,,,,,,,,,
-stacoke01,1980-81,29,Did Not Play,,,,,,,,,,,,,,,,
-stacoke01,1981-82,30,MIL,NBA,7,12.9,.412,.500,1.0,1.0,0.1,0.0,4.3,4.0,-0.1,-0.060,-9.6,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+stacoke01,1976-77,25,BOS,NBA,79,13.3,.409,.793,1.2,1.5,0.2,0.0,5.1,10.1,0.6,.027,-5.9,-1.0,,"Holy Cross in Flushing, New York"
+stacoke01,1977-78,26,BOS,NBA,55,18.3,.426,.761,1.9,2.0,0.5,0.1,8.5,12.0,0.8,.038,-4.3,-0.6,,"Holy Cross in Flushing, New York"
+stacoke01,1978-79,27,"IND,BOS",NBA,68,12.2,.374,.733,1.3,1.6,0.4,0.0,4.4,8.0,-0.8,-0.048,-7.0,-1.0,,"Holy Cross in Flushing, New York"
+stacoke01,1979-80,28,Did Not Play,,,,,,,,,,,,,,,,,"Holy Cross in Flushing, New York"
+stacoke01,1980-81,29,Did Not Play,,,,,,,,,,,,,,,,,"Holy Cross in Flushing, New York"
+stacoke01,1981-82,30,MIL,NBA,7,12.9,.412,.500,1.0,1.0,0.1,0.0,4.3,4.0,-0.1,-0.060,-9.6,-0.2,,"Holy Cross in Flushing, New York"

@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-cookda02,2007-08,20,Miami Heat,NBA,59,24.4,.381,.825,3.0,1.3,0.4,0.2,8.8,7.9,-0.4,-0.013,-5.1,-1.1,,1184400
-cookda02,2008-09,21,Miami Heat,NBA,75,24.4,.375,.875,2.5,0.9,0.5,0.1,9.1,10.3,2.2,.056,-3.0,-0.5,,1273200
-cookda02,2009-10,22,Miami Heat,NBA,45,15.4,.320,.840,1.8,1.0,0.3,0.2,5.0,7.5,0.1,.010,-4.5,-0.4,,1362120
-cookda02,2010-11,23,Oklahoma City Thunder,NBA,43,13.9,.436,.800,1.7,0.5,0.3,0.0,5.6,12.8,1.6,.126,-0.2,0.3,,2169857
-cookda02,2011-12,24,Oklahoma City Thunder,NBA,57,17.4,.368,.636,2.1,0.3,0.4,0.2,5.5,9.2,1.6,.078,-2.6,-0.1,,3341558
-cookda02,2012-13,25,Houston Rockets,NBA,49,9.0,.305,.750,1.2,0.4,0.2,0.1,2.8,5.8,-0.2,-0.019,-7.0,-0.6,,3090042
-cookda02,2012-13,25,Houston Rockets,NBA,16,10.3,.356,.667,1.1,0.6,0.4,0.1,3.4,8.8,0.1,.030,-3.4,-0.1,,3090042
-cookda02,2012-13,25,Houston Rockets,NBA,33,8.4,.278,.778,1.3,0.3,0.1,0.2,2.5,4.0,-0.3,-0.048,-9.2,-0.5,,3090042
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+cookda02,2007-08,20,Miami Heat,NBA,59,24.4,.381,.825,3.0,1.3,0.4,0.2,8.8,7.9,-0.4,-0.013,-5.1,-1.1,,1184400,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2008-09,21,Miami Heat,NBA,75,24.4,.375,.875,2.5,0.9,0.5,0.1,9.1,10.3,2.2,.056,-3.0,-0.5,,1273200,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2009-10,22,Miami Heat,NBA,45,15.4,.320,.840,1.8,1.0,0.3,0.2,5.0,7.5,0.1,.010,-4.5,-0.4,,1362120,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2010-11,23,Oklahoma City Thunder,NBA,43,13.9,.436,.800,1.7,0.5,0.3,0.0,5.6,12.8,1.6,.126,-0.2,0.3,,2169857,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2011-12,24,Oklahoma City Thunder,NBA,57,17.4,.368,.636,2.1,0.3,0.4,0.2,5.5,9.2,1.6,.078,-2.6,-0.1,,3341558,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2012-13,25,Houston Rockets,NBA,49,9.0,.305,.750,1.2,0.4,0.2,0.1,2.8,5.8,-0.2,-0.019,-7.0,-0.6,,3090042,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2012-13,25,Houston Rockets,NBA,16,10.3,.356,.667,1.1,0.6,0.4,0.1,3.4,8.8,0.1,.030,-3.4,-0.1,,3090042,"Paul Laurence Dunbar in Dayton, Ohio"
+cookda02,2012-13,25,Houston Rockets,NBA,33,8.4,.278,.778,1.3,0.3,0.1,0.2,2.5,4.0,-0.3,-0.048,-9.2,-0.5,,3090042,"Paul Laurence Dunbar in Dayton, Ohio"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-rautian01,2010-11,24,New York Knicks,NBA,5,4.8,.429,.500,0.2,0.6,0.2,0.0,1.6,-1.2,-0.2,-0.314,-16.0,-0.1,,600000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+rautian01,2010-11,24,New York Knicks,NBA,5,4.8,.429,.500,0.2,0.6,0.2,0.0,1.6,-1.2,-0.2,-0.314,-16.0,-0.1,,600000,"Jamesville-DeWitt in DeWitt, New York"

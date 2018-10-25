@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-greensi02,1983-84,23,CHI,NBA,49,13.6,.439,.714,3.6,0.5,0.4,0.3,5.2,9.2,0.3,.020,-5.2,-0.5,,
-greensi02,1984-85,24,Chicago Bulls,NBA,48,15.4,.432,.806,5.1,0.6,0.2,0.3,6.1,11.6,0.6,.039,-5.4,-0.6,,275000
-greensi02,1985-86,25,Chicago Bulls,NBA,80,28.8,.465,.782,8.2,1.7,0.9,0.5,13.5,14.2,2.5,.052,-1.6,0.2,,350000
-greensi02,1986-87,26,DET,NBA,80,22.4,.472,.672,8.2,0.8,0.5,0.6,7.9,13.0,3.4,.092,-1.9,0.1,,
-greensi02,1987-88,27,New York Knicks,NBA,82,25.0,.441,.663,7.8,1.1,0.8,0.4,7.8,10.3,2.7,.063,-1.7,0.1,,700000
-greensi02,1988-89,28,New York Knicks,NBA,82,15.6,.460,.759,4.8,0.9,0.6,0.2,6.3,12.6,2.0,.075,-2.4,-0.1,,775000
-greensi02,1989-90,29,ORL,NBA,73,25.5,.468,.651,8.1,1.4,0.7,0.4,10.4,12.7,1.7,.044,-2.8,-0.4,,
-greensi02,1990-91,30,San Antonio Spurs,NBA,66,16.7,.461,.848,4.7,0.8,0.5,0.2,6.7,11.6,1.9,.085,-3.0,-0.3,,837000
-greensi02,1991-92,31,San Antonio Spurs,NBA,80,14.1,.427,.820,4.3,0.5,0.4,0.1,4.6,10.5,1.9,.079,-4.8,-0.8,,1063000
-greensi02,1992-93,32,Charlotte Hornets,NBA,39,8.4,.382,.806,3.0,0.6,0.2,0.1,2.4,11.3,0.4,.065,-3.8,-0.1,,1288000
-greensi02,1992-93,32,Charlotte Hornets,NBA,15,13.5,.408,.867,4.7,1.3,0.3,0.2,3.5,12.5,0.4,.091,-1.2,0.0,,1288000
-greensi02,1992-93,32,Charlotte Hornets,NBA,24,5.3,.350,.750,2.0,0.2,0.0,0.1,1.7,9.3,0.1,.024,-7.8,-0.2,,1288000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+greensi02,1983-84,23,CHI,NBA,49,13.6,.439,.714,3.6,0.5,0.4,0.3,5.2,9.2,0.3,.020,-5.2,-0.5,,"Thomas Jefferson in Brooklyn, New York",
+greensi02,1984-85,24,Chicago Bulls,NBA,48,15.4,.432,.806,5.1,0.6,0.2,0.3,6.1,11.6,0.6,.039,-5.4,-0.6,,"Thomas Jefferson in Brooklyn, New York",275000
+greensi02,1985-86,25,Chicago Bulls,NBA,80,28.8,.465,.782,8.2,1.7,0.9,0.5,13.5,14.2,2.5,.052,-1.6,0.2,,"Thomas Jefferson in Brooklyn, New York",350000
+greensi02,1986-87,26,DET,NBA,80,22.4,.472,.672,8.2,0.8,0.5,0.6,7.9,13.0,3.4,.092,-1.9,0.1,,"Thomas Jefferson in Brooklyn, New York",
+greensi02,1987-88,27,New York Knicks,NBA,82,25.0,.441,.663,7.8,1.1,0.8,0.4,7.8,10.3,2.7,.063,-1.7,0.1,,"Thomas Jefferson in Brooklyn, New York",700000
+greensi02,1988-89,28,New York Knicks,NBA,82,15.6,.460,.759,4.8,0.9,0.6,0.2,6.3,12.6,2.0,.075,-2.4,-0.1,,"Thomas Jefferson in Brooklyn, New York",775000
+greensi02,1989-90,29,ORL,NBA,73,25.5,.468,.651,8.1,1.4,0.7,0.4,10.4,12.7,1.7,.044,-2.8,-0.4,,"Thomas Jefferson in Brooklyn, New York",
+greensi02,1990-91,30,San Antonio Spurs,NBA,66,16.7,.461,.848,4.7,0.8,0.5,0.2,6.7,11.6,1.9,.085,-3.0,-0.3,,"Thomas Jefferson in Brooklyn, New York",837000
+greensi02,1991-92,31,San Antonio Spurs,NBA,80,14.1,.427,.820,4.3,0.5,0.4,0.1,4.6,10.5,1.9,.079,-4.8,-0.8,,"Thomas Jefferson in Brooklyn, New York",1063000
+greensi02,1992-93,32,Charlotte Hornets,NBA,39,8.4,.382,.806,3.0,0.6,0.2,0.1,2.4,11.3,0.4,.065,-3.8,-0.1,,"Thomas Jefferson in Brooklyn, New York",1288000
+greensi02,1992-93,32,Charlotte Hornets,NBA,15,13.5,.408,.867,4.7,1.3,0.3,0.2,3.5,12.5,0.4,.091,-1.2,0.0,,"Thomas Jefferson in Brooklyn, New York",1288000
+greensi02,1992-93,32,Charlotte Hornets,NBA,24,5.3,.350,.750,2.0,0.2,0.0,0.1,1.7,9.3,0.1,.024,-7.8,-0.2,,"Thomas Jefferson in Brooklyn, New York",1288000

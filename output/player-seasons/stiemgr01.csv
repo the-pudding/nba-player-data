@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-stiemgr01,2011-12,26,Boston Celtics,NBA,55,13.9,.545,.707,3.2,0.5,0.7,1.5,2.9,13.6,2.7,.170,4.5,1.2,,762195
-stiemgr01,2012-13,27,Minnesota Timberwolves,NBA,76,15.9,.457,.768,3.4,0.4,0.6,1.2,4.0,10.5,1.7,.069,-1.4,0.2,,2575000
-stiemgr01,2013-14,28,New Orleans Pelicans,NBA,55,18.3,.574,.594,4.1,0.7,0.6,1.0,2.9,9.7,1.5,.072,0.6,0.7,,2676000
-stiemgr01,2014-15,29,Toronto Raptors,NBA,17,3.9,.750,.500,0.9,0.2,0.1,0.0,0.8,7.8,0.1,.050,-1.7,0.0,,981084
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+stiemgr01,2011-12,26,Boston Celtics,NBA,55,13.9,.545,.707,3.2,0.5,0.7,1.5,2.9,13.6,2.7,.170,4.5,1.2,,762195,"Randolph in Randolph, Wisconsin"
+stiemgr01,2012-13,27,Minnesota Timberwolves,NBA,76,15.9,.457,.768,3.4,0.4,0.6,1.2,4.0,10.5,1.7,.069,-1.4,0.2,,2575000,"Randolph in Randolph, Wisconsin"
+stiemgr01,2013-14,28,New Orleans Pelicans,NBA,55,18.3,.574,.594,4.1,0.7,0.6,1.0,2.9,9.7,1.5,.072,0.6,0.7,,2676000,"Randolph in Randolph, Wisconsin"
+stiemgr01,2014-15,29,Toronto Raptors,NBA,17,3.9,.750,.500,0.9,0.2,0.1,0.0,0.8,7.8,0.1,.050,-1.7,0.0,,981084,"Randolph in Randolph, Wisconsin"

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-haskisc01,1993-94,23,Indiana Pacers,NBA,27,6.9,.467,.684,2.0,0.2,0.1,0.6,2.0,11.3,0.3,.087,-2.9,0.0,,833000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+haskisc01,1993-94,23,Indiana Pacers,NBA,27,6.9,.467,.684,2.0,0.2,0.1,0.6,2.0,11.3,0.3,.087,-2.9,0.0,,833000,"Beaumont in Beaumont, California"

@@ -1,22 +1,22 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-cambyma01,1996-97,22,Toronto Raptors,NBA,63,30.1,.482,.693,6.3,1.5,1.0,2.1,14.8,17.8,3.7,.095,-0.3,0.8,,2434000
-cambyma01,1997-98,23,Toronto Raptors,NBA,63,31.8,.412,.611,7.4,1.8,1.1,3.7,12.1,15.9,0.9,.022,-0.7,0.7,,2799240
-cambyma01,1998-99,24,New York Knicks,NBA,46,20.5,.521,.553,5.5,0.3,0.6,1.6,7.2,17.6,3.5,.176,1.5,0.8,,3164000
-cambyma01,1999-00,25,New York Knicks,NBA,59,26.2,.480,.670,7.8,0.8,0.7,2.0,10.2,19.0,5.9,.182,3.0,2.0,,5250000
-cambyma01,2000-01,26,New York Knicks,NBA,63,33.8,.524,.667,11.5,0.8,1.0,2.2,12.0,20.9,10.3,.233,4.2,3.3,,5750000
-cambyma01,2001-02,27,New York Knicks,NBA,29,34.7,.448,.626,11.1,1.1,1.2,1.7,11.1,15.1,2.1,.102,0.1,0.5,,7300000
-cambyma01,2002-03,28,Denver Nuggets,NBA,29,21.2,.410,.660,7.2,1.6,0.7,1.4,7.6,17.5,1.5,.119,2.0,0.6,,6750000
-cambyma01,2003-04,29,Denver Nuggets,NBA,72,30.0,.477,.721,10.1,1.8,1.2,2.6,8.6,17.8,6.9,.154,4.1,3.3,,7250000
-cambyma01,2004-05,30,Denver Nuggets,NBA,66,30.5,.465,.723,10.0,2.3,0.9,3.0,10.3,18.0,5.8,.138,3.4,2.8,,8500000
-cambyma01,2005-06,31,Denver Nuggets,NBA,56,33.2,.465,.712,11.9,2.1,1.4,3.3,12.8,19.9,5.5,.141,3.8,2.7,,9150000
-cambyma01,2006-07,32,Denver Nuggets,NBA,70,33.8,.473,.729,11.7,3.2,1.2,3.3,11.2,19.1,7.6,.155,5.3,4.4,,8800000
-cambyma01,2007-08,33,Denver Nuggets,NBA,79,34.9,.450,.708,13.1,3.3,1.1,3.6,9.1,17.2,8.5,.148,4.8,4.7,,11250000
-cambyma01,2008-09,34,Los Angeles Clippers,NBA,62,31.0,.512,.725,11.1,2.0,0.8,2.1,10.3,18.7,5.2,.129,1.8,1.8,,10000000
-cambyma01,2009-10,35,Portland Trail Blazers,NBA,74,31.3,.475,.639,11.8,2.5,1.3,2.0,7.5,17.9,6.8,.142,4.5,3.8,,7650000
-cambyma01,2009-10,35,Portland Trail Blazers,NBA,51,31.3,.466,.659,12.1,3.0,1.4,1.9,7.7,18.3,4.6,.137,4.6,2.7,,7650000
-cambyma01,2009-10,35,Portland Trail Blazers,NBA,23,31.2,.497,.581,11.1,1.5,1.1,2.0,7.0,17.0,2.3,.152,4.5,1.2,,7650000
-cambyma01,2010-11,36,Portland Trail Blazers,NBA,59,26.1,.398,.614,10.3,2.1,0.7,1.6,4.7,14.8,3.7,.116,2.3,1.7,,11749832
-cambyma01,2011-12,37,Portland Trail Blazers,NBA,59,22.9,.446,.453,9.0,1.8,0.8,1.4,4.9,16.2,3.6,.127,3.0,1.7,,11227250
-cambyma01,2011-12,37,Portland Trail Blazers,NBA,40,22.4,.416,.474,8.9,1.9,0.8,1.4,3.8,14.5,1.9,.100,2.4,1.0,,11227250
-cambyma01,2011-12,37,Portland Trail Blazers,NBA,19,24.1,.484,.423,9.3,1.7,0.9,1.5,7.1,19.6,1.7,.179,4.1,0.7,,11227250
-cambyma01,2012-13,38,New York Knicks,NBA,24,10.4,.321,.421,3.3,0.6,0.3,0.6,1.8,8.6,0.0,.007,-3.2,-0.1,,4590338
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+cambyma01,1996-97,22,Toronto Raptors,NBA,63,30.1,.482,.693,6.3,1.5,1.0,2.1,14.8,17.8,3.7,.095,-0.3,0.8,,2434000,"Hartford Public in Hartford, Connecticut"
+cambyma01,1997-98,23,Toronto Raptors,NBA,63,31.8,.412,.611,7.4,1.8,1.1,3.7,12.1,15.9,0.9,.022,-0.7,0.7,,2799240,"Hartford Public in Hartford, Connecticut"
+cambyma01,1998-99,24,New York Knicks,NBA,46,20.5,.521,.553,5.5,0.3,0.6,1.6,7.2,17.6,3.5,.176,1.5,0.8,,3164000,"Hartford Public in Hartford, Connecticut"
+cambyma01,1999-00,25,New York Knicks,NBA,59,26.2,.480,.670,7.8,0.8,0.7,2.0,10.2,19.0,5.9,.182,3.0,2.0,,5250000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2000-01,26,New York Knicks,NBA,63,33.8,.524,.667,11.5,0.8,1.0,2.2,12.0,20.9,10.3,.233,4.2,3.3,,5750000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2001-02,27,New York Knicks,NBA,29,34.7,.448,.626,11.1,1.1,1.2,1.7,11.1,15.1,2.1,.102,0.1,0.5,,7300000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2002-03,28,Denver Nuggets,NBA,29,21.2,.410,.660,7.2,1.6,0.7,1.4,7.6,17.5,1.5,.119,2.0,0.6,,6750000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2003-04,29,Denver Nuggets,NBA,72,30.0,.477,.721,10.1,1.8,1.2,2.6,8.6,17.8,6.9,.154,4.1,3.3,,7250000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2004-05,30,Denver Nuggets,NBA,66,30.5,.465,.723,10.0,2.3,0.9,3.0,10.3,18.0,5.8,.138,3.4,2.8,,8500000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2005-06,31,Denver Nuggets,NBA,56,33.2,.465,.712,11.9,2.1,1.4,3.3,12.8,19.9,5.5,.141,3.8,2.7,,9150000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2006-07,32,Denver Nuggets,NBA,70,33.8,.473,.729,11.7,3.2,1.2,3.3,11.2,19.1,7.6,.155,5.3,4.4,,8800000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2007-08,33,Denver Nuggets,NBA,79,34.9,.450,.708,13.1,3.3,1.1,3.6,9.1,17.2,8.5,.148,4.8,4.7,,11250000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2008-09,34,Los Angeles Clippers,NBA,62,31.0,.512,.725,11.1,2.0,0.8,2.1,10.3,18.7,5.2,.129,1.8,1.8,,10000000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2009-10,35,Portland Trail Blazers,NBA,74,31.3,.475,.639,11.8,2.5,1.3,2.0,7.5,17.9,6.8,.142,4.5,3.8,,7650000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2009-10,35,Portland Trail Blazers,NBA,51,31.3,.466,.659,12.1,3.0,1.4,1.9,7.7,18.3,4.6,.137,4.6,2.7,,7650000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2009-10,35,Portland Trail Blazers,NBA,23,31.2,.497,.581,11.1,1.5,1.1,2.0,7.0,17.0,2.3,.152,4.5,1.2,,7650000,"Hartford Public in Hartford, Connecticut"
+cambyma01,2010-11,36,Portland Trail Blazers,NBA,59,26.1,.398,.614,10.3,2.1,0.7,1.6,4.7,14.8,3.7,.116,2.3,1.7,,11749832,"Hartford Public in Hartford, Connecticut"
+cambyma01,2011-12,37,Portland Trail Blazers,NBA,59,22.9,.446,.453,9.0,1.8,0.8,1.4,4.9,16.2,3.6,.127,3.0,1.7,,11227250,"Hartford Public in Hartford, Connecticut"
+cambyma01,2011-12,37,Portland Trail Blazers,NBA,40,22.4,.416,.474,8.9,1.9,0.8,1.4,3.8,14.5,1.9,.100,2.4,1.0,,11227250,"Hartford Public in Hartford, Connecticut"
+cambyma01,2011-12,37,Portland Trail Blazers,NBA,19,24.1,.484,.423,9.3,1.7,0.9,1.5,7.1,19.6,1.7,.179,4.1,0.7,,11227250,"Hartford Public in Hartford, Connecticut"
+cambyma01,2012-13,38,New York Knicks,NBA,24,10.4,.321,.421,3.3,0.6,0.3,0.6,1.8,8.6,0.0,.007,-3.2,-0.1,,4590338,"Hartford Public in Hartford, Connecticut"

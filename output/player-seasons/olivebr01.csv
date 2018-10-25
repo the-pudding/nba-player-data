@@ -1,9 +1,9 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-olivebr01,1990-91,22,Philadelphia 76ers,NBA,73,11.0,.408,.732,1.1,1.2,0.5,0.1,3.8,9.9,0.2,.010,-5.1,-0.6,,455000
-olivebr01,1991-92,23,Philadelphia 76ers,NBA,34,8.2,.330,.682,0.9,0.6,0.3,0.1,2.4,3.6,-0.7,-0.115,-9.6,-0.5,,456000
-olivebr01,1992-93,24,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,456000
-olivebr01,1993-94,25,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,456000
-olivebr01,1994-95,26,Washington Bullets,NBA,6,7.0,.444,.750,0.7,0.7,0.0,0.0,2.3,6.9,0.0,.022,-8.8,-0.1,,150000
-olivebr01,1995-96,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-olivebr01,1996-97,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-olivebr01,1997-98,29,ATL,NBA,5,12.2,.368,.250,1.8,0.4,0.2,0.0,3.0,6.3,0.0,-0.012,-7.9,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+olivebr01,1990-91,22,Philadelphia 76ers,NBA,73,11.0,.408,.732,1.1,1.2,0.5,0.1,3.8,9.9,0.2,.010,-5.1,-0.6,,455000,"Wills in Smyrna, Georgia"
+olivebr01,1991-92,23,Philadelphia 76ers,NBA,34,8.2,.330,.682,0.9,0.6,0.3,0.1,2.4,3.6,-0.7,-0.115,-9.6,-0.5,,456000,"Wills in Smyrna, Georgia"
+olivebr01,1992-93,24,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,456000,"Wills in Smyrna, Georgia"
+olivebr01,1993-94,25,Philadelphia 76ers,NBA,,,,,,,,,,,,,,,,456000,"Wills in Smyrna, Georgia"
+olivebr01,1994-95,26,Washington Bullets,NBA,6,7.0,.444,.750,0.7,0.7,0.0,0.0,2.3,6.9,0.0,.022,-8.8,-0.1,,150000,"Wills in Smyrna, Georgia"
+olivebr01,1995-96,27,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Wills in Smyrna, Georgia"
+olivebr01,1996-97,28,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Wills in Smyrna, Georgia"
+olivebr01,1997-98,29,ATL,NBA,5,12.2,.368,.250,1.8,0.4,0.2,0.0,3.0,6.3,0.0,-0.012,-7.9,-0.1,,,"Wills in Smyrna, Georgia"

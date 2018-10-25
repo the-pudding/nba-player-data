@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-richmmi01,1988-89,23,Golden State Warriors,NBA,79,34.4,.468,.810,5.9,4.2,1.0,0.2,22.0,17.2,5.6,.098,-0.2,1.3,,700000
-richmmi01,1989-90,24,GSW,NBA,78,35.9,.497,.866,4.6,2.9,1.3,0.3,22.1,17.0,5.2,.090,-0.4,1.2,,
-richmmi01,1990-91,25,Golden State Warriors,NBA,77,39.3,.494,.847,5.9,3.1,1.6,0.4,23.9,17.8,7.1,.113,1.0,2.3,,850000
-richmmi01,1991-92,26,Sacramento Kings,NBA,80,38.7,.468,.813,4.0,5.1,1.2,0.4,22.5,16.3,4.9,.076,-0.3,1.4,,950000
-richmmi01,1992-93,27,Sacramento Kings,NBA,45,38.4,.474,.845,3.4,4.9,1.2,0.2,21.9,15.6,3.1,.087,-0.3,0.7,,1036000
-richmmi01,1993-94,28,Sacramento Kings,NBA,78,37.1,.445,.834,3.7,4.0,1.3,0.2,23.4,17.7,6.4,.106,1.2,2.3,All-NBA (2nd),2500000
-richmmi01,1994-95,29,Sacramento Kings,NBA,82,38.7,.446,.843,4.4,3.8,1.1,0.4,22.8,17.2,8.0,.120,1.8,3.0,All-NBA (2nd),3000000
-richmmi01,1995-96,30,Sacramento Kings,NBA,81,36.4,.447,.866,3.3,3.1,1.5,0.2,23.1,19.2,9.3,.151,2.9,3.6,All-NBA (3rd),3500000
-richmmi01,1996-97,31,Sacramento Kings,NBA,81,38.6,.454,.861,3.9,4.2,1.5,0.3,25.9,21.6,10.8,.166,3.3,4.2,All-NBA (2nd),3575000
-richmmi01,1997-98,32,Sacramento Kings,NBA,70,36.7,.445,.864,3.3,4.0,1.3,0.2,23.2,20.4,7.9,.148,2.3,2.8,All-NBA (3rd),3000000
-richmmi01,1998-99,33,Washington Wizards,NBA,50,38.2,.412,.857,3.4,2.4,1.3,0.2,19.7,15.5,3.3,.082,-0.4,0.8,,2500000
-richmmi01,1999-00,34,Washington Wizards,NBA,74,32.4,.426,.876,2.9,2.5,1.5,0.2,17.4,16.5,5.2,.104,0.5,1.5,,10000000
-richmmi01,2000-01,35,Washington Wizards,NBA,37,32.9,.407,.894,2.9,3.0,1.2,0.2,16.2,14.9,1.6,.065,-1.4,0.2,,10000000
-richmmi01,2001-02,36,Washington Wizards,NBA,64,11.1,.405,.955,1.5,0.9,0.3,0.1,4.1,10.7,0.9,.062,-4.0,-0.4,,10000000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+richmmi01,1988-89,23,Golden State Warriors,NBA,79,34.4,.468,.810,5.9,4.2,1.0,0.2,22.0,17.2,5.6,.098,-0.2,1.3,,700000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1989-90,24,GSW,NBA,78,35.9,.497,.866,4.6,2.9,1.3,0.3,22.1,17.0,5.2,.090,-0.4,1.2,,,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1990-91,25,Golden State Warriors,NBA,77,39.3,.494,.847,5.9,3.1,1.6,0.4,23.9,17.8,7.1,.113,1.0,2.3,,850000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1991-92,26,Sacramento Kings,NBA,80,38.7,.468,.813,4.0,5.1,1.2,0.4,22.5,16.3,4.9,.076,-0.3,1.4,,950000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1992-93,27,Sacramento Kings,NBA,45,38.4,.474,.845,3.4,4.9,1.2,0.2,21.9,15.6,3.1,.087,-0.3,0.7,,1036000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1993-94,28,Sacramento Kings,NBA,78,37.1,.445,.834,3.7,4.0,1.3,0.2,23.4,17.7,6.4,.106,1.2,2.3,All-NBA (2nd),2500000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1994-95,29,Sacramento Kings,NBA,82,38.7,.446,.843,4.4,3.8,1.1,0.4,22.8,17.2,8.0,.120,1.8,3.0,All-NBA (2nd),3000000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1995-96,30,Sacramento Kings,NBA,81,36.4,.447,.866,3.3,3.1,1.5,0.2,23.1,19.2,9.3,.151,2.9,3.6,All-NBA (3rd),3500000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1996-97,31,Sacramento Kings,NBA,81,38.6,.454,.861,3.9,4.2,1.5,0.3,25.9,21.6,10.8,.166,3.3,4.2,All-NBA (2nd),3575000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1997-98,32,Sacramento Kings,NBA,70,36.7,.445,.864,3.3,4.0,1.3,0.2,23.2,20.4,7.9,.148,2.3,2.8,All-NBA (3rd),3000000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1998-99,33,Washington Wizards,NBA,50,38.2,.412,.857,3.4,2.4,1.3,0.2,19.7,15.5,3.3,.082,-0.4,0.8,,2500000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,1999-00,34,Washington Wizards,NBA,74,32.4,.426,.876,2.9,2.5,1.5,0.2,17.4,16.5,5.2,.104,0.5,1.5,,10000000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,2000-01,35,Washington Wizards,NBA,37,32.9,.407,.894,2.9,3.0,1.2,0.2,16.2,14.9,1.6,.065,-1.4,0.2,,10000000,"Boyd Anderson in Fort Lauderdale, Florida"
+richmmi01,2001-02,36,Washington Wizards,NBA,64,11.1,.405,.955,1.5,0.9,0.3,0.1,4.1,10.7,0.9,.062,-4.0,-0.4,,10000000,"Boyd Anderson in Fort Lauderdale, Florida"

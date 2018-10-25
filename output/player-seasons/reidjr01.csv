@@ -1,19 +1,19 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-reidjr01,1989-90,21,Charlotte Hornets,NBA,82,33.6,.440,.664,8.4,1.2,1.1,0.7,11.1,10.2,1.1,.020,-2.5,-0.3,,1200000
-reidjr01,1990-91,22,Charlotte Hornets,NBA,80,30.8,.466,.703,6.3,1.1,1.1,0.6,11.3,10.8,1.8,.034,-2.1,-0.1,,1250000
-reidjr01,1991-92,23,Charlotte Hornets,NBA,51,24.6,.490,.705,6.2,1.6,1.0,0.5,11.0,14.1,2.1,.082,-1.4,0.2,,1250000
-reidjr01,1992-93,24,San Antonio Spurs,NBA,83,22.7,.476,.764,5.5,1.0,0.6,0.4,9.4,12.5,3.4,.087,-2.5,-0.2,,1250000
-reidjr01,1992-93,24,San Antonio Spurs,NBA,17,17.4,.429,.741,4.1,1.4,0.6,0.3,7.5,12.3,0.4,.068,-2.5,0.0,,1250000
-reidjr01,1992-93,24,San Antonio Spurs,NBA,66,24.1,.485,.770,5.8,0.8,0.5,0.4,9.9,12.6,3.0,.091,-2.5,-0.2,,1250000
-reidjr01,1993-94,25,San Antonio Spurs,NBA,70,19.2,.491,.699,3.1,1.0,0.6,0.4,9.0,14.7,3.0,.107,-1.5,0.2,,1818000
-reidjr01,1994-95,26,San Antonio Spurs,NBA,81,19.3,.508,.687,4.9,0.7,0.7,0.4,7.0,12.7,3.5,.106,-1.0,0.4,,2215000
-reidjr01,1995-96,27,San Antonio Spurs,NBA,65,20.2,.494,.754,3.9,0.6,0.7,0.3,6.6,10.6,2.5,.091,-2.4,-0.1,,2658000
-reidjr01,1995-96,27,San Antonio Spurs,NBA,32,20.1,.439,.736,3.8,0.4,0.8,0.3,6.5,8.6,0.6,.048,-3.8,-0.3,,2658000
-reidjr01,1995-96,27,San Antonio Spurs,NBA,33,20.3,.550,.782,4.0,0.8,0.5,0.2,6.6,12.6,1.8,.133,-1.1,0.2,,2658000
-reidjr01,1996-97,28,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,
-reidjr01,1997-98,29,Charlotte Hornets,NBA,79,14.0,.459,.730,2.7,0.6,0.4,0.2,4.9,11.3,1.8,.076,-2.8,-0.2,,650000
-reidjr01,1998-99,30,Los Angeles Lakers,NBA,41,25.1,.477,.766,5.2,1.2,0.9,0.2,9.0,13.7,2.5,.115,-1.0,0.3,,780000
-reidjr01,1998-99,30,Los Angeles Lakers,NBA,16,34.8,.521,.798,7.1,1.6,1.4,0.6,15.2,17.6,1.9,.161,0.8,0.4,,780000
-reidjr01,1998-99,30,Los Angeles Lakers,NBA,25,18.9,.407,.717,4.0,0.9,0.6,0.0,5.0,9.0,0.6,.060,-3.0,-0.1,,780000
-reidjr01,1999-00,31,Milwaukee Bucks,NBA,34,17.7,.417,.768,3.4,0.5,0.6,0.1,4.4,9.0,0.7,.059,-3.5,-0.2,,2000000
-reidjr01,2000-01,32,Cleveland Cavaliers,NBA,6,6.5,.400,.750,1.3,0.2,0.3,0.2,1.7,15.7,0.1,.174,1.3,0.0,,2200000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+reidjr01,1989-90,21,Charlotte Hornets,NBA,82,33.6,.440,.664,8.4,1.2,1.1,0.7,11.1,10.2,1.1,.020,-2.5,-0.3,,1200000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1990-91,22,Charlotte Hornets,NBA,80,30.8,.466,.703,6.3,1.1,1.1,0.6,11.3,10.8,1.8,.034,-2.1,-0.1,,1250000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1991-92,23,Charlotte Hornets,NBA,51,24.6,.490,.705,6.2,1.6,1.0,0.5,11.0,14.1,2.1,.082,-1.4,0.2,,1250000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1992-93,24,San Antonio Spurs,NBA,83,22.7,.476,.764,5.5,1.0,0.6,0.4,9.4,12.5,3.4,.087,-2.5,-0.2,,1250000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1992-93,24,San Antonio Spurs,NBA,17,17.4,.429,.741,4.1,1.4,0.6,0.3,7.5,12.3,0.4,.068,-2.5,0.0,,1250000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1992-93,24,San Antonio Spurs,NBA,66,24.1,.485,.770,5.8,0.8,0.5,0.4,9.9,12.6,3.0,.091,-2.5,-0.2,,1250000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1993-94,25,San Antonio Spurs,NBA,70,19.2,.491,.699,3.1,1.0,0.6,0.4,9.0,14.7,3.0,.107,-1.5,0.2,,1818000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1994-95,26,San Antonio Spurs,NBA,81,19.3,.508,.687,4.9,0.7,0.7,0.4,7.0,12.7,3.5,.106,-1.0,0.4,,2215000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1995-96,27,San Antonio Spurs,NBA,65,20.2,.494,.754,3.9,0.6,0.7,0.3,6.6,10.6,2.5,.091,-2.4,-0.1,,2658000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1995-96,27,San Antonio Spurs,NBA,32,20.1,.439,.736,3.8,0.4,0.8,0.3,6.5,8.6,0.6,.048,-3.8,-0.3,,2658000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1995-96,27,San Antonio Spurs,NBA,33,20.3,.550,.782,4.0,0.8,0.5,0.2,6.6,12.6,1.8,.133,-1.1,0.2,,2658000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1996-97,28,Did Not Play (other pro league—France),,,,,,,,,,,,,,,,,,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1997-98,29,Charlotte Hornets,NBA,79,14.0,.459,.730,2.7,0.6,0.4,0.2,4.9,11.3,1.8,.076,-2.8,-0.2,,650000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1998-99,30,Los Angeles Lakers,NBA,41,25.1,.477,.766,5.2,1.2,0.9,0.2,9.0,13.7,2.5,.115,-1.0,0.3,,780000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1998-99,30,Los Angeles Lakers,NBA,16,34.8,.521,.798,7.1,1.6,1.4,0.6,15.2,17.6,1.9,.161,0.8,0.4,,780000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1998-99,30,Los Angeles Lakers,NBA,25,18.9,.407,.717,4.0,0.9,0.6,0.0,5.0,9.0,0.6,.060,-3.0,-0.1,,780000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,1999-00,31,Milwaukee Bucks,NBA,34,17.7,.417,.768,3.4,0.5,0.6,0.1,4.4,9.0,0.7,.059,-3.5,-0.2,,2000000,"Kempsville in Virginia Beach, Virginia"
+reidjr01,2000-01,32,Cleveland Cavaliers,NBA,6,6.5,.400,.750,1.3,0.2,0.3,0.2,1.7,15.7,0.1,.174,1.3,0.0,,2200000,"Kempsville in Virginia Beach, Virginia"

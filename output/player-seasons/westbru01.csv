@@ -1,12 +1,12 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-westbru01,2008-09,20,Oklahoma City Thunder,NBA,82,32.5,.398,.815,4.9,5.3,1.3,0.2,15.3,15.2,1.9,.035,-0.1,1.3,,3493680
-westbru01,2009-10,21,Oklahoma City Thunder,NBA,82,34.3,.418,.780,4.9,8.0,1.3,0.4,16.1,17.8,6.1,.105,2.1,2.9,,3755640
-westbru01,2010-11,22,Oklahoma City Thunder,NBA,82,34.7,.442,.842,4.6,8.2,1.9,0.4,21.9,23.6,9.4,.159,5.0,5.0,All-NBA (2nd),4017720
-westbru01,2011-12,23,Oklahoma City Thunder,NBA,66,35.3,.457,.823,4.6,5.5,1.7,0.3,23.6,22.9,7.9,.163,3.2,3.0,All-NBA (2nd),5082416
-westbru01,2012-13,24,Oklahoma City Thunder,NBA,82,34.9,.438,.800,5.2,7.4,1.8,0.3,23.2,23.9,11.6,.195,5.0,5.1,All-NBA (2nd),13668750
-westbru01,2013-14,25,Oklahoma City Thunder,NBA,46,30.7,.437,.826,5.7,6.9,1.9,0.2,21.8,24.7,5.2,.178,6.4,3.0,,14693906
-westbru01,2014-15,26,Oklahoma City Thunder,NBA,67,34.4,.426,.835,7.3,8.6,2.1,0.2,28.1,29.1,10.6,.222,11.0,7.6,All-NBA (2nd),15719062
-westbru01,2015-16,27,Oklahoma City Thunder,NBA,80,34.4,.454,.812,7.8,10.4,2.0,0.3,23.5,27.6,14.0,.245,10.0,8.3,All-NBA (1st),16744218
-westbru01,2016-17,28,Oklahoma City Thunder,NBA,81,34.6,.425,.845,10.7,10.4,1.6,0.4,31.6,30.6,13.1,.224,15.6,12.4,All-NBA (1st),26540100
-westbru01,2017-18,29,Oklahoma City Thunder,NBA,80,36.4,.449,.737,10.1,10.3,1.8,0.3,25.4,24.7,10.1,.166,8.2,7.5,All-NBA (2nd),28530608
-westbru01,2018-19,30,OKC,NBA,1,35.0,.565,.455,12.0,8.0,0.0,0.0,32.0,26.3,0.1,.103,11.2,0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+westbru01,2008-09,20,Oklahoma City Thunder,NBA,82,32.5,.398,.815,4.9,5.3,1.3,0.2,15.3,15.2,1.9,.035,-0.1,1.3,,3493680,"Leuzinger in Lawndale, California"
+westbru01,2009-10,21,Oklahoma City Thunder,NBA,82,34.3,.418,.780,4.9,8.0,1.3,0.4,16.1,17.8,6.1,.105,2.1,2.9,,3755640,"Leuzinger in Lawndale, California"
+westbru01,2010-11,22,Oklahoma City Thunder,NBA,82,34.7,.442,.842,4.6,8.2,1.9,0.4,21.9,23.6,9.4,.159,5.0,5.0,All-NBA (2nd),4017720,"Leuzinger in Lawndale, California"
+westbru01,2011-12,23,Oklahoma City Thunder,NBA,66,35.3,.457,.823,4.6,5.5,1.7,0.3,23.6,22.9,7.9,.163,3.2,3.0,All-NBA (2nd),5082416,"Leuzinger in Lawndale, California"
+westbru01,2012-13,24,Oklahoma City Thunder,NBA,82,34.9,.438,.800,5.2,7.4,1.8,0.3,23.2,23.9,11.6,.195,5.0,5.1,All-NBA (2nd),13668750,"Leuzinger in Lawndale, California"
+westbru01,2013-14,25,Oklahoma City Thunder,NBA,46,30.7,.437,.826,5.7,6.9,1.9,0.2,21.8,24.7,5.2,.178,6.4,3.0,,14693906,"Leuzinger in Lawndale, California"
+westbru01,2014-15,26,Oklahoma City Thunder,NBA,67,34.4,.426,.835,7.3,8.6,2.1,0.2,28.1,29.1,10.6,.222,11.0,7.6,All-NBA (2nd),15719062,"Leuzinger in Lawndale, California"
+westbru01,2015-16,27,Oklahoma City Thunder,NBA,80,34.4,.454,.812,7.8,10.4,2.0,0.3,23.5,27.6,14.0,.245,10.0,8.3,All-NBA (1st),16744218,"Leuzinger in Lawndale, California"
+westbru01,2016-17,28,Oklahoma City Thunder,NBA,81,34.6,.425,.845,10.7,10.4,1.6,0.4,31.6,30.6,13.1,.224,15.6,12.4,All-NBA (1st),26540100,"Leuzinger in Lawndale, California"
+westbru01,2017-18,29,Oklahoma City Thunder,NBA,80,36.4,.449,.737,10.1,10.3,1.8,0.3,25.4,24.7,10.1,.166,8.2,7.5,All-NBA (2nd),28530608,"Leuzinger in Lawndale, California"
+westbru01,2018-19,30,OKC,NBA,1,35.0,.565,.455,12.0,8.0,0.0,0.0,32.0,26.3,0.1,.103,11.2,0.1,,,"Leuzinger in Lawndale, California"

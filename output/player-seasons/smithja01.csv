@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-smithja01,2000-01,23,Sacramento Kings,NBA,9,7.3,.500,.667,0.9,0.7,0.4,0.0,2.9,14.7,0.2,.126,-2.1,0.0,,316969
-smithja01,2001-02,24,Sacramento Kings,NBA,23,7.9,.413,.656,1.2,0.5,0.3,0.3,3.2,13.1,0.5,.121,-2.8,0.0,,465850
-smithja01,2001-02,24,Sacramento Kings,NBA,12,5.9,.286,.500,1.2,0.5,0.2,0.3,1.5,7.0,0.0,.014,-5.1,-0.1,,465850
-smithja01,2001-02,24,Sacramento Kings,NBA,11,10.0,.476,.750,1.3,0.5,0.4,0.2,5.0,17.1,0.4,.189,-1.3,0.0,,465850
-smithja01,2002-03,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,
-smithja01,2003-04,26,Sacramento Kings,NBA,31,5.4,.371,.600,1.0,0.4,0.1,0.2,2.1,9.2,0.0,-0.005,-7.6,-0.2,,638679
-smithja01,2004-05,27,New Jersey Nets,NBA,45,14.4,.419,.745,2.5,0.8,0.6,0.3,3.7,8.4,0.7,.050,-3.6,-0.3,,720046
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+smithja01,2000-01,23,Sacramento Kings,NBA,9,7.3,.500,.667,0.9,0.7,0.4,0.0,2.9,14.7,0.2,.126,-2.1,0.0,,316969,"Booker T. Washington in Atlanta, Georgia"
+smithja01,2001-02,24,Sacramento Kings,NBA,23,7.9,.413,.656,1.2,0.5,0.3,0.3,3.2,13.1,0.5,.121,-2.8,0.0,,465850,"Booker T. Washington in Atlanta, Georgia"
+smithja01,2001-02,24,Sacramento Kings,NBA,12,5.9,.286,.500,1.2,0.5,0.2,0.3,1.5,7.0,0.0,.014,-5.1,-0.1,,465850,"Booker T. Washington in Atlanta, Georgia"
+smithja01,2001-02,24,Sacramento Kings,NBA,11,10.0,.476,.750,1.3,0.5,0.4,0.2,5.0,17.1,0.4,.189,-1.3,0.0,,465850,"Booker T. Washington in Atlanta, Georgia"
+smithja01,2002-03,25,Did Not Play (other pro league—Spain),,,,,,,,,,,,,,,,,,"Booker T. Washington in Atlanta, Georgia"
+smithja01,2003-04,26,Sacramento Kings,NBA,31,5.4,.371,.600,1.0,0.4,0.1,0.2,2.1,9.2,0.0,-0.005,-7.6,-0.2,,638679,"Booker T. Washington in Atlanta, Georgia"
+smithja01,2004-05,27,New Jersey Nets,NBA,45,14.4,.419,.745,2.5,0.8,0.6,0.3,3.7,8.4,0.7,.050,-3.6,-0.3,,720046,"Booker T. Washington in Atlanta, Georgia"

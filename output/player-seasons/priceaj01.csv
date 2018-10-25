@@ -1,10 +1,10 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-priceaj01,2009-10,23,Indiana Pacers,NBA,56,15.4,.410,.800,1.6,1.9,0.6,0.1,7.3,14.0,1.2,.065,-1.8,0.0,,457588
-priceaj01,2010-11,24,Indiana Pacers,NBA,50,15.9,.356,.667,1.4,2.2,0.6,0.0,6.5,10.7,0.3,.020,-3.4,-0.3,,762195
-priceaj01,2011-12,25,Indiana Pacers,NBA,44,12.9,.339,.800,1.4,2.0,0.5,0.0,3.9,11.5,0.7,.063,-1.9,0.0,,854389
-priceaj01,2012-13,26,Washington Wizards,NBA,57,22.4,.390,.790,2.0,3.6,0.6,0.1,7.7,12.4,2.2,.084,-1.8,0.1,,885120
-priceaj01,2013-14,27,MIN,NBA,28,3.5,.413,.000,0.4,0.5,0.0,0.0,1.6,9.7,0.0,-0.012,-6.0,-0.1,,
-priceaj01,2014-15,28,Phoenix Suns,NBA,26,12.5,.372,.667,1.2,1.8,0.3,0.0,5.1,12.0,0.3,.041,-3.7,-0.1,,62552
-priceaj01,2014-15,28,Phoenix Suns,NBA,10,19.3,.438,.667,1.4,2.7,0.4,0.0,10.5,17.1,0.5,.123,-0.8,0.1,,62552
-priceaj01,2014-15,28,Phoenix Suns,NBA,11,7.9,.265,.667,1.4,1.2,0.3,0.0,2.0,7.7,-0.1,-0.051,-6.1,-0.1,,62552
-priceaj01,2014-15,28,Phoenix Suns,NBA,5,8.8,.214,,0.6,1.2,0.0,0.0,1.2,-1.6,-0.1,-0.140,-11.8,-0.1,,62552
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+priceaj01,2009-10,23,Indiana Pacers,NBA,56,15.4,.410,.800,1.6,1.9,0.6,0.1,7.3,14.0,1.2,.065,-1.8,0.0,,457588,"Amityville Memorial in Amityville, New York"
+priceaj01,2010-11,24,Indiana Pacers,NBA,50,15.9,.356,.667,1.4,2.2,0.6,0.0,6.5,10.7,0.3,.020,-3.4,-0.3,,762195,"Amityville Memorial in Amityville, New York"
+priceaj01,2011-12,25,Indiana Pacers,NBA,44,12.9,.339,.800,1.4,2.0,0.5,0.0,3.9,11.5,0.7,.063,-1.9,0.0,,854389,"Amityville Memorial in Amityville, New York"
+priceaj01,2012-13,26,Washington Wizards,NBA,57,22.4,.390,.790,2.0,3.6,0.6,0.1,7.7,12.4,2.2,.084,-1.8,0.1,,885120,"Amityville Memorial in Amityville, New York"
+priceaj01,2013-14,27,MIN,NBA,28,3.5,.413,.000,0.4,0.5,0.0,0.0,1.6,9.7,0.0,-0.012,-6.0,-0.1,,,"Amityville Memorial in Amityville, New York"
+priceaj01,2014-15,28,Phoenix Suns,NBA,26,12.5,.372,.667,1.2,1.8,0.3,0.0,5.1,12.0,0.3,.041,-3.7,-0.1,,62552,"Amityville Memorial in Amityville, New York"
+priceaj01,2014-15,28,Phoenix Suns,NBA,10,19.3,.438,.667,1.4,2.7,0.4,0.0,10.5,17.1,0.5,.123,-0.8,0.1,,62552,"Amityville Memorial in Amityville, New York"
+priceaj01,2014-15,28,Phoenix Suns,NBA,11,7.9,.265,.667,1.4,1.2,0.3,0.0,2.0,7.7,-0.1,-0.051,-6.1,-0.1,,62552,"Amityville Memorial in Amityville, New York"
+priceaj01,2014-15,28,Phoenix Suns,NBA,5,8.8,.214,,0.6,1.2,0.0,0.0,1.2,-1.6,-0.1,-0.140,-11.8,-0.1,,62552,"Amityville Memorial in Amityville, New York"

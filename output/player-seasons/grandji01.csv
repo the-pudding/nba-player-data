@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-grandji01,1990-91,30,Dallas Mavericks,NBA,26,6.5,.517,.476,1.9,0.3,0.1,0.3,3.0,16.5,0.4,.123,-0.9,0.0,,115000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+grandji01,1990-91,30,Dallas Mavericks,NBA,26,6.5,.517,.476,1.9,0.3,0.1,0.3,3.0,16.5,0.4,.123,-0.9,0.0,,115000,"Central in Elkhart, Indiana"

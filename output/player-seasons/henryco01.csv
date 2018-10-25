@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-henryco01,1986-87,23,"HOU,BOS",NBA,54,6.0,.338,.630,0.6,0.6,0.2,0.0,2.3,6.1,-0.3,-0.049,-7.7,-0.5,,
-henryco01,1987-88,24,Sacramento Kings,NBA,39,11.1,.413,.830,1.3,1.7,0.3,0.1,4.7,12.4,0.4,.049,-3.4,-0.1,,120000
-henryco01,1987-88,24,Sacramento Kings,NBA,10,8.1,.393,.900,1.0,1.2,0.1,0.1,3.4,9.5,0.0,.016,-5.6,-0.1,,120000
-henryco01,1987-88,24,Sacramento Kings,NBA,14,10.4,.317,.571,1.4,2.1,0.3,0.1,2.3,6.2,-0.2,-0.058,-6.6,-0.2,,120000
-henryco01,1987-88,24,Sacramento Kings,NBA,15,13.8,.469,.867,1.3,1.7,0.5,0.2,7.8,17.8,0.6,.136,-0.2,0.1,,120000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+henryco01,1986-87,23,"HOU,BOS",NBA,54,6.0,.338,.630,0.6,0.6,0.2,0.0,2.3,6.1,-0.3,-0.049,-7.7,-0.5,,"Claremont in Claremont, California",
+henryco01,1987-88,24,Sacramento Kings,NBA,39,11.1,.413,.830,1.3,1.7,0.3,0.1,4.7,12.4,0.4,.049,-3.4,-0.1,,"Claremont in Claremont, California",120000
+henryco01,1987-88,24,Sacramento Kings,NBA,10,8.1,.393,.900,1.0,1.2,0.1,0.1,3.4,9.5,0.0,.016,-5.6,-0.1,,"Claremont in Claremont, California",120000
+henryco01,1987-88,24,Sacramento Kings,NBA,14,10.4,.317,.571,1.4,2.1,0.3,0.1,2.3,6.2,-0.2,-0.058,-6.6,-0.2,,"Claremont in Claremont, California",120000
+henryco01,1987-88,24,Sacramento Kings,NBA,15,13.8,.469,.867,1.3,1.7,0.5,0.2,7.8,17.8,0.6,.136,-0.2,0.1,,"Claremont in Claremont, California",120000

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-stokegr01,1985-86,22,Philadelphia 76ers,NBA,31,11.3,.471,.667,1.8,0.5,0.5,0.4,4.1,10.6,0.5,.068,-2.0,0.0,,70000
-stokegr01,1986-87,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-stokegr01,1987-88,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-stokegr01,1988-89,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-stokegr01,1989-90,26,SAC,NBA,11,3.1,.111,1.000,0.5,0.0,0.0,0.0,0.4,-8.2,-0.2,-0.238,-19.0,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+stokegr01,1985-86,22,Philadelphia 76ers,NBA,31,11.3,.471,.667,1.8,0.5,0.5,0.4,4.1,10.6,0.5,.068,-2.0,0.0,,70000,"Hamilton in Hamilton, Ohio"
+stokegr01,1986-87,23,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Hamilton in Hamilton, Ohio"
+stokegr01,1987-88,24,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Hamilton in Hamilton, Ohio"
+stokegr01,1988-89,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Hamilton in Hamilton, Ohio"
+stokegr01,1989-90,26,SAC,NBA,11,3.1,.111,1.000,0.5,0.0,0.0,0.0,0.4,-8.2,-0.2,-0.238,-19.0,-0.1,,,"Hamilton in Hamilton, Ohio"

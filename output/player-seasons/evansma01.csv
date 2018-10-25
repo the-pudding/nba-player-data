@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-evansma01,2001-02,23,Minnesota Timberwolves,NBA,10,4.5,.474,.750,0.4,0.4,0.0,0.0,2.1,11.5,0.1,.079,-5.1,0.0,,332817
-evansma01,2002-03,24,Did Not Play,,,,,,,,,,,,,,,,,
-evansma01,2003-04,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,
-evansma01,2004-05,26,Sacramento Kings,NBA,65,19.0,.442,.756,3.1,0.7,0.6,0.1,6.4,12.1,2.1,.081,-2.6,-0.2,,695046
-evansma01,2005-06,27,Detroit Pistons,NBA,80,14.2,.452,.800,2.0,0.8,0.5,0.2,5.0,14.0,3.2,.135,0.6,0.8,,1500000
-evansma01,2006-07,28,Los Angeles Lakers,NBA,76,22.8,.432,.787,2.9,1.0,0.5,0.2,8.4,12.1,2.6,.072,-2.9,-0.4,,1620000
-evansma01,2007-08,29,Orlando Magic,NBA,75,22.9,.481,.711,2.9,1.1,0.6,0.1,8.9,13.9,4.9,.135,1.3,1.4,,1740000
-evansma01,2007-08,29,Orlando Magic,NBA,7,13.7,.321,.800,1.3,1.7,0.7,0.1,4.4,13.3,0.3,.140,-1.0,0.0,,1740000
-evansma01,2007-08,29,Orlando Magic,NBA,68,23.9,.489,.691,3.1,1.0,0.6,0.1,9.3,14.0,4.6,.135,1.4,1.4,,1740000
-evansma01,2008-09,30,Atlanta Hawks,NBA,80,23.0,.432,.822,3.0,0.7,0.6,0.1,7.2,11.1,3.8,.099,-0.5,0.7,,2500000
-evansma01,2009-10,31,Atlanta Hawks,NBA,79,16.7,.445,.754,1.9,0.6,0.4,0.2,5.7,12.2,3.1,.114,-0.7,0.4,,2500000
-evansma01,2010-11,32,Washington Wizards,NBA,73,21.2,.417,.897,2.1,0.6,0.5,0.2,6.3,9.1,1.7,.054,-2.9,-0.4,,2500000
-evansma01,2010-11,32,Washington Wizards,NBA,47,17.8,.393,.857,1.8,0.6,0.3,0.1,4.5,7.5,0.9,.050,-3.4,-0.3,,2500000
-evansma01,2010-11,32,Washington Wizards,NBA,26,27.4,.439,.933,2.8,0.6,0.7,0.3,9.7,10.9,0.9,.058,-2.4,-0.1,,2500000
-evansma01,2011-12,33,Washington Wizards,NBA,24,14.3,.402,.769,1.0,0.4,0.6,0.0,4.9,9.0,0.3,.041,-3.8,-0.2,,1223166
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+evansma01,2001-02,23,Minnesota Timberwolves,NBA,10,4.5,.474,.750,0.4,0.4,0.0,0.0,2.1,11.5,0.1,.079,-5.1,0.0,,332817,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2002-03,24,Did Not Play,,,,,,,,,,,,,,,,,,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2003-04,25,Did Not Play (other pro league—Italy),,,,,,,,,,,,,,,,,,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2004-05,26,Sacramento Kings,NBA,65,19.0,.442,.756,3.1,0.7,0.6,0.1,6.4,12.1,2.1,.081,-2.6,-0.2,,695046,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2005-06,27,Detroit Pistons,NBA,80,14.2,.452,.800,2.0,0.8,0.5,0.2,5.0,14.0,3.2,.135,0.6,0.8,,1500000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2006-07,28,Los Angeles Lakers,NBA,76,22.8,.432,.787,2.9,1.0,0.5,0.2,8.4,12.1,2.6,.072,-2.9,-0.4,,1620000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2007-08,29,Orlando Magic,NBA,75,22.9,.481,.711,2.9,1.1,0.6,0.1,8.9,13.9,4.9,.135,1.3,1.4,,1740000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2007-08,29,Orlando Magic,NBA,7,13.7,.321,.800,1.3,1.7,0.7,0.1,4.4,13.3,0.3,.140,-1.0,0.0,,1740000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2007-08,29,Orlando Magic,NBA,68,23.9,.489,.691,3.1,1.0,0.6,0.1,9.3,14.0,4.6,.135,1.4,1.4,,1740000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2008-09,30,Atlanta Hawks,NBA,80,23.0,.432,.822,3.0,0.7,0.6,0.1,7.2,11.1,3.8,.099,-0.5,0.7,,2500000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2009-10,31,Atlanta Hawks,NBA,79,16.7,.445,.754,1.9,0.6,0.4,0.2,5.7,12.2,3.1,.114,-0.7,0.4,,2500000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2010-11,32,Washington Wizards,NBA,73,21.2,.417,.897,2.1,0.6,0.5,0.2,6.3,9.1,1.7,.054,-2.9,-0.4,,2500000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2010-11,32,Washington Wizards,NBA,47,17.8,.393,.857,1.8,0.6,0.3,0.1,4.5,7.5,0.9,.050,-3.4,-0.3,,2500000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2010-11,32,Washington Wizards,NBA,26,27.4,.439,.933,2.8,0.6,0.7,0.3,9.7,10.9,0.9,.058,-2.4,-0.1,,2500000,"Wichita Collegiate in Wichita, Kansas"
+evansma01,2011-12,33,Washington Wizards,NBA,24,14.3,.402,.769,1.0,0.4,0.6,0.0,4.9,9.0,0.3,.041,-3.8,-0.2,,1223166,"Wichita Collegiate in Wichita, Kansas"

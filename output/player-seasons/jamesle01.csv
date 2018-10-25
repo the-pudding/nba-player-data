@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-jamesle01,2003-04,19,Cleveland Cavaliers,NBA,79,39.5,.417,.754,5.5,5.9,1.6,0.7,20.9,18.3,5.1,.078,1.9,3.1,,4018920
-jamesle01,2004-05,20,Cleveland Cavaliers,NBA,80,42.4,.472,.750,7.4,7.2,2.2,0.7,27.2,25.7,14.3,.203,8.3,8.8,All-NBA (2nd),4320360
-jamesle01,2005-06,21,Cleveland Cavaliers,NBA,79,42.5,.480,.738,7.0,6.6,1.6,0.8,31.4,28.1,16.3,.232,9.3,9.5,All-NBA (1st),4621800
-jamesle01,2006-07,22,Cleveland Cavaliers,NBA,78,40.9,.476,.698,6.7,6.0,1.6,0.7,27.3,24.5,13.7,.206,7.4,7.6,All-NBA (2nd),5828090
-jamesle01,2007-08,23,Cleveland Cavaliers,NBA,75,40.4,.484,.712,7.9,7.2,1.8,1.1,30.0,29.1,15.2,.242,11.2,10.1,All-NBA (1st),13041250
-jamesle01,2008-09,24,Cleveland Cavaliers,NBA,81,37.7,.489,.780,7.6,7.2,1.7,1.1,28.4,31.7,20.3,.318,13.0,11.6,All-NBA (1st),14410581
-jamesle01,2009-10,25,Cleveland Cavaliers,NBA,76,39.0,.503,.767,7.3,8.6,1.6,1.0,29.7,31.1,18.5,.299,12.5,10.9,All-NBA (1st),15779912
-jamesle01,2010-11,26,Miami Heat,NBA,79,38.8,.510,.759,7.5,7.0,1.6,0.6,26.7,27.3,15.6,.244,8.6,8.2,All-NBA (1st),14500000
-jamesle01,2011-12,27,Miami Heat,NBA,62,37.5,.531,.771,7.9,6.2,1.9,0.8,27.1,30.7,14.5,.298,11.0,7.6,All-NBA (1st),16022500
-jamesle01,2012-13,28,Miami Heat,NBA,76,37.9,.565,.753,8.0,7.3,1.7,0.9,26.8,31.6,19.3,.322,11.6,9.8,All-NBA (1st),17545000
-jamesle01,2013-14,29,Miami Heat,NBA,77,37.7,.567,.750,6.9,6.3,1.6,0.3,27.1,29.3,15.9,.264,8.9,8.0,All-NBA (1st),19067500
-jamesle01,2014-15,30,Cleveland Cavaliers,NBA,69,36.1,.488,.710,6.0,7.4,1.6,0.7,25.3,25.9,10.4,.199,7.4,5.9,All-NBA (1st),20644400
-jamesle01,2015-16,31,Cleveland Cavaliers,NBA,76,35.6,.520,.731,7.4,6.8,1.4,0.6,25.3,27.5,13.6,.242,9.1,7.6,All-NBA (1st),22971000
-jamesle01,2016-17,32,Cleveland Cavaliers,NBA,74,37.8,.548,.674,8.6,8.7,1.2,0.6,26.4,27.0,12.9,.221,8.4,7.3,All-NBA (1st),30963450
-jamesle01,2017-18,33,Cleveland Cavaliers,NBA,82,36.9,.542,.731,8.6,9.1,1.4,0.9,27.5,28.6,14.0,.221,9.6,8.9,All-NBA (1st),33285709
-jamesle01,2018-19,34,LAL,NBA,4,36.8,.456,.806,8.0,8.8,1.8,0.5,25.3,23.3,0.4,.119,2.5,0.2,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+jamesle01,2003-04,19,Cleveland Cavaliers,NBA,79,39.5,.417,.754,5.5,5.9,1.6,0.7,20.9,18.3,5.1,.078,1.9,3.1,,4018920,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2004-05,20,Cleveland Cavaliers,NBA,80,42.4,.472,.750,7.4,7.2,2.2,0.7,27.2,25.7,14.3,.203,8.3,8.8,All-NBA (2nd),4320360,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2005-06,21,Cleveland Cavaliers,NBA,79,42.5,.480,.738,7.0,6.6,1.6,0.8,31.4,28.1,16.3,.232,9.3,9.5,All-NBA (1st),4621800,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2006-07,22,Cleveland Cavaliers,NBA,78,40.9,.476,.698,6.7,6.0,1.6,0.7,27.3,24.5,13.7,.206,7.4,7.6,All-NBA (2nd),5828090,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2007-08,23,Cleveland Cavaliers,NBA,75,40.4,.484,.712,7.9,7.2,1.8,1.1,30.0,29.1,15.2,.242,11.2,10.1,All-NBA (1st),13041250,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2008-09,24,Cleveland Cavaliers,NBA,81,37.7,.489,.780,7.6,7.2,1.7,1.1,28.4,31.7,20.3,.318,13.0,11.6,All-NBA (1st),14410581,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2009-10,25,Cleveland Cavaliers,NBA,76,39.0,.503,.767,7.3,8.6,1.6,1.0,29.7,31.1,18.5,.299,12.5,10.9,All-NBA (1st),15779912,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2010-11,26,Miami Heat,NBA,79,38.8,.510,.759,7.5,7.0,1.6,0.6,26.7,27.3,15.6,.244,8.6,8.2,All-NBA (1st),14500000,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2011-12,27,Miami Heat,NBA,62,37.5,.531,.771,7.9,6.2,1.9,0.8,27.1,30.7,14.5,.298,11.0,7.6,All-NBA (1st),16022500,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2012-13,28,Miami Heat,NBA,76,37.9,.565,.753,8.0,7.3,1.7,0.9,26.8,31.6,19.3,.322,11.6,9.8,All-NBA (1st),17545000,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2013-14,29,Miami Heat,NBA,77,37.7,.567,.750,6.9,6.3,1.6,0.3,27.1,29.3,15.9,.264,8.9,8.0,All-NBA (1st),19067500,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2014-15,30,Cleveland Cavaliers,NBA,69,36.1,.488,.710,6.0,7.4,1.6,0.7,25.3,25.9,10.4,.199,7.4,5.9,All-NBA (1st),20644400,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2015-16,31,Cleveland Cavaliers,NBA,76,35.6,.520,.731,7.4,6.8,1.4,0.6,25.3,27.5,13.6,.242,9.1,7.6,All-NBA (1st),22971000,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2016-17,32,Cleveland Cavaliers,NBA,74,37.8,.548,.674,8.6,8.7,1.2,0.6,26.4,27.0,12.9,.221,8.4,7.3,All-NBA (1st),30963450,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2017-18,33,Cleveland Cavaliers,NBA,82,36.9,.542,.731,8.6,9.1,1.4,0.9,27.5,28.6,14.0,.221,9.6,8.9,All-NBA (1st),33285709,"Saint Vincent-Saint Mary in Akron, Ohio"
+jamesle01,2018-19,34,LAL,NBA,4,36.8,.456,.806,8.0,8.8,1.8,0.5,25.3,23.3,0.4,.119,2.5,0.2,,,"Saint Vincent-Saint Mary in Akron, Ohio"

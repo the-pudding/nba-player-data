@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-buckngr01,1999-00,23,Dallas Mavericks,NBA,48,19.2,.476,.683,3.6,1.1,0.8,0.4,5.7,12.1,1.8,.094,-0.1,0.4,,47647
-buckngr01,2000-01,24,Dallas Mavericks,NBA,37,22.2,.438,.728,4.2,1.3,0.9,0.2,6.2,12.1,2.0,.118,0.8,0.6,,1100000
-buckngr01,2001-02,25,Dallas Mavericks,NBA,44,20.1,.525,.690,3.9,1.1,0.7,0.4,5.8,13.3,2.3,.126,1.6,0.8,,1200000
-buckngr01,2002-03,26,Philadelphia 76ers,NBA,75,20.2,.465,.802,2.9,1.3,1.0,0.2,6.0,11.6,3.1,.100,0.0,0.8,,2400000
-buckngr01,2003-04,27,Philadelphia 76ers,NBA,53,13.3,.377,.741,1.9,0.8,0.4,0.1,3.1,7.4,0.3,.024,-3.8,-0.3,,2640000
-buckngr01,2004-05,28,Philadelphia 76ers,NBA,70,21.7,.528,.778,3.0,1.9,1.1,0.1,6.2,13.7,4.8,.153,2.7,1.8,,1777778
-buckngr01,2005-06,29,Philadelphia 76ers,NBA,73,24.1,.434,.782,2.9,1.7,1.2,0.3,6.7,11.4,3.8,.103,1.7,1.6,,1925926
-buckngr01,2006-07,30,Dallas Mavericks,NBA,76,18.1,.411,.794,2.1,0.9,0.6,0.1,4.0,7.8,2.2,.076,-0.4,0.5,,3240741
-buckngr01,2007-08,31,Minnesota Timberwolves,NBA,31,16.8,.385,.864,2.1,1.3,0.7,0.1,4.0,7.2,0.1,.008,-3.2,-0.2,,3750000
-buckngr01,2008-09,32,Memphis Grizzlies,NBA,63,13.9,.384,.800,2.1,0.9,0.5,0.1,2.5,6.3,0.3,.019,-3.2,-0.3,,4010005
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+buckngr01,1999-00,23,Dallas Mavericks,NBA,48,19.2,.476,.683,3.6,1.1,0.8,0.4,5.7,12.1,1.8,.094,-0.1,0.4,,47647,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2000-01,24,Dallas Mavericks,NBA,37,22.2,.438,.728,4.2,1.3,0.9,0.2,6.2,12.1,2.0,.118,0.8,0.6,,1100000,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2001-02,25,Dallas Mavericks,NBA,44,20.1,.525,.690,3.9,1.1,0.7,0.4,5.8,13.3,2.3,.126,1.6,0.8,,1200000,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2002-03,26,Philadelphia 76ers,NBA,75,20.2,.465,.802,2.9,1.3,1.0,0.2,6.0,11.6,3.1,.100,0.0,0.8,,2400000,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2003-04,27,Philadelphia 76ers,NBA,53,13.3,.377,.741,1.9,0.8,0.4,0.1,3.1,7.4,0.3,.024,-3.8,-0.3,,2640000,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2004-05,28,Philadelphia 76ers,NBA,70,21.7,.528,.778,3.0,1.9,1.1,0.1,6.2,13.7,4.8,.153,2.7,1.8,,1777778,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2005-06,29,Philadelphia 76ers,NBA,73,24.1,.434,.782,2.9,1.7,1.2,0.3,6.7,11.4,3.8,.103,1.7,1.6,,1925926,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2006-07,30,Dallas Mavericks,NBA,76,18.1,.411,.794,2.1,0.9,0.6,0.1,4.0,7.8,2.2,.076,-0.4,0.5,,3240741,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2007-08,31,Minnesota Timberwolves,NBA,31,16.8,.385,.864,2.1,1.3,0.7,0.1,4.0,7.2,0.1,.008,-3.2,-0.2,,3750000,"University Heights Academy in Hopkinsville, Kentucky"
+buckngr01,2008-09,32,Memphis Grizzlies,NBA,63,13.9,.384,.800,2.1,0.9,0.5,0.1,2.5,6.3,0.3,.019,-3.2,-0.3,,4010005,"University Heights Academy in Hopkinsville, Kentucky"

@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-spencel01,1992-93,23,Los Angeles Clippers,NBA,44,6.4,.537,.500,1.4,0.2,0.2,0.4,2.4,9.7,0.2,.026,-5.2,-0.2,,438000
-spencel01,1993-94,24,Los Angeles Clippers,NBA,76,25.4,.533,.599,5.5,1.0,0.4,1.7,8.9,10.7,0.6,.016,-3.4,-0.7,,569000
-spencel01,1994-95,25,Los Angeles Clippers,NBA,19,19.4,.441,.560,3.4,1.3,0.7,1.2,6.9,7.7,-0.7,-0.085,-6.1,-0.4,,700000
-spencel01,1995-96,26,"DEN,POR",NBA,17,3.4,.385,.667,0.8,0.1,0.0,0.1,0.8,2.3,-0.1,-0.056,-11.1,-0.1,,
-spencel01,1996-97,27,SEA,NBA,1,5.0,.000,,0.0,0.0,1.0,0.0,0.0,-7.3,0.0,-0.366,-10.1,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+spencel01,1992-93,23,Los Angeles Clippers,NBA,44,6.4,.537,.500,1.4,0.2,0.2,0.4,2.4,9.7,0.2,.026,-5.2,-0.2,,438000,"Booker T. Washington in Atlanta, Georgia"
+spencel01,1993-94,24,Los Angeles Clippers,NBA,76,25.4,.533,.599,5.5,1.0,0.4,1.7,8.9,10.7,0.6,.016,-3.4,-0.7,,569000,"Booker T. Washington in Atlanta, Georgia"
+spencel01,1994-95,25,Los Angeles Clippers,NBA,19,19.4,.441,.560,3.4,1.3,0.7,1.2,6.9,7.7,-0.7,-0.085,-6.1,-0.4,,700000,"Booker T. Washington in Atlanta, Georgia"
+spencel01,1995-96,26,"DEN,POR",NBA,17,3.4,.385,.667,0.8,0.1,0.0,0.1,0.8,2.3,-0.1,-0.056,-11.1,-0.1,,,"Booker T. Washington in Atlanta, Georgia"
+spencel01,1996-97,27,SEA,NBA,1,5.0,.000,,0.0,0.0,1.0,0.0,0.0,-7.3,0.0,-0.366,-10.1,0.0,,,"Booker T. Washington in Atlanta, Georgia"

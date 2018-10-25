@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-brownan02,2015-16,23,Los Angeles Lakers,NBA,29,20.7,.310,.850,2.4,0.7,0.5,0.2,4.0,4.9,-0.3,-0.024,-5.0,-0.5,,700000
-brownan02,2016-17,24,Los Angeles Lakers,NBA,11,14.5,.360,,3.0,0.7,0.5,0.1,3.9,7.2,0.0,.001,-4.0,-0.1,,874636
-brownan02,2016-17,24,Los Angeles Lakers,NBA,9,15.9,.341,,2.9,0.7,0.6,0.1,3.8,5.9,0.0,-0.007,-4.3,-0.1,,874636
-brownan02,2016-17,24,Los Angeles Lakers,NBA,2,8.0,.444,,3.5,1.0,0.0,0.0,4.5,18.5,0.0,.076,-0.8,0.0,,874636
-brownan02,2017-18,25,Minnesota Timberwolves,NBA,1,4.0,1.000,,0.0,1.0,0.0,0.0,3.0,41.9,0.0,.571,2.1,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+brownan02,2015-16,23,Los Angeles Lakers,NBA,29,20.7,.310,.850,2.4,0.7,0.5,0.2,4.0,4.9,-0.3,-0.024,-5.0,-0.5,,700000,"Ocean View in Huntington Beach, California"
+brownan02,2016-17,24,Los Angeles Lakers,NBA,11,14.5,.360,,3.0,0.7,0.5,0.1,3.9,7.2,0.0,.001,-4.0,-0.1,,874636,"Ocean View in Huntington Beach, California"
+brownan02,2016-17,24,Los Angeles Lakers,NBA,9,15.9,.341,,2.9,0.7,0.6,0.1,3.8,5.9,0.0,-0.007,-4.3,-0.1,,874636,"Ocean View in Huntington Beach, California"
+brownan02,2016-17,24,Los Angeles Lakers,NBA,2,8.0,.444,,3.5,1.0,0.0,0.0,4.5,18.5,0.0,.076,-0.8,0.0,,874636,"Ocean View in Huntington Beach, California"
+brownan02,2017-18,25,Minnesota Timberwolves,NBA,1,4.0,1.000,,0.0,1.0,0.0,0.0,3.0,41.9,0.0,.571,2.1,0.0,,,"Ocean View in Huntington Beach, California"

@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-thomaet01,2001-02,23,Washington Wizards,NBA,47,13.1,.536,.554,3.9,0.1,0.4,0.7,4.3,15.7,1.6,.127,-2.9,-0.1,,1493040
-thomaet01,2002-03,24,Washington Wizards,NBA,38,13.5,.492,.638,4.3,0.1,0.2,0.6,4.8,15.8,1.3,.125,-5.6,-0.5,,1597200
-thomaet01,2003-04,25,Washington Wizards,NBA,79,24.1,.489,.647,6.7,0.9,0.5,1.6,8.9,16.4,4.5,.115,-0.9,0.5,,2200942
-thomaet01,2004-05,26,Washington Wizards,NBA,47,20.8,.502,.528,5.2,0.4,0.4,1.1,7.1,13.0,1.6,.079,-3.8,-0.4,,4903000
-thomaet01,2005-06,27,Washington Wizards,NBA,71,15.8,.533,.600,3.9,0.2,0.3,1.0,4.7,13.6,2.5,.107,-2.4,-0.1,,5393300
-thomaet01,2006-07,28,Washington Wizards,NBA,65,19.2,.574,.558,5.8,0.4,0.3,1.4,6.1,15.6,2.7,.105,-1.1,0.3,,5883600
-thomaet01,2007-08,29,Washington Wizards,NBA,,,,,,,,,,,,,,,,6373900
-thomaet01,2008-09,30,Washington Wizards,NBA,26,11.8,.485,.696,2.5,0.2,0.1,0.7,3.1,10.1,0.1,.018,-5.2,-0.3,,6864200
-thomaet01,2009-10,31,Oklahoma City Thunder,NBA,23,14.0,.456,.591,2.8,0.0,0.2,0.7,3.3,6.9,0.2,.028,-6.7,-0.4,,7350000
-thomaet01,2010-11,32,Atlanta Hawks,NBA,13,6.3,.476,.800,1.8,0.2,0.1,0.3,2.5,15.1,0.2,.130,-5.1,-0.1,,1223166
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+thomaet01,2001-02,23,Washington Wizards,NBA,47,13.1,.536,.554,3.9,0.1,0.4,0.7,4.3,15.7,1.6,.127,-2.9,-0.1,,1493040,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2002-03,24,Washington Wizards,NBA,38,13.5,.492,.638,4.3,0.1,0.2,0.6,4.8,15.8,1.3,.125,-5.6,-0.5,,1597200,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2003-04,25,Washington Wizards,NBA,79,24.1,.489,.647,6.7,0.9,0.5,1.6,8.9,16.4,4.5,.115,-0.9,0.5,,2200942,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2004-05,26,Washington Wizards,NBA,47,20.8,.502,.528,5.2,0.4,0.4,1.1,7.1,13.0,1.6,.079,-3.8,-0.4,,4903000,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2005-06,27,Washington Wizards,NBA,71,15.8,.533,.600,3.9,0.2,0.3,1.0,4.7,13.6,2.5,.107,-2.4,-0.1,,5393300,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2006-07,28,Washington Wizards,NBA,65,19.2,.574,.558,5.8,0.4,0.3,1.4,6.1,15.6,2.7,.105,-1.1,0.3,,5883600,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2007-08,29,Washington Wizards,NBA,,,,,,,,,,,,,,,,6373900,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2008-09,30,Washington Wizards,NBA,26,11.8,.485,.696,2.5,0.2,0.1,0.7,3.1,10.1,0.1,.018,-5.2,-0.3,,6864200,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2009-10,31,Oklahoma City Thunder,NBA,23,14.0,.456,.591,2.8,0.0,0.2,0.7,3.3,6.9,0.2,.028,-6.7,-0.4,,7350000,"Booker T. Washington in Tulsa, Oklahoma"
+thomaet01,2010-11,32,Atlanta Hawks,NBA,13,6.3,.476,.800,1.8,0.2,0.1,0.3,2.5,15.1,0.2,.130,-5.1,-0.1,,1223166,"Booker T. Washington in Tulsa, Oklahoma"

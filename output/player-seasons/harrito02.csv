@@ -1,15 +1,15 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-harrito02,2011-12,19,Milwaukee Bucks,NBA,42,11.4,.467,.815,2.4,0.5,0.3,0.2,5.0,14.2,0.9,.087,-3.5,-0.2,,1418160
-harrito02,2012-13,20,Orlando Magic,NBA,55,23.6,.455,.752,5.2,1.3,0.6,0.8,11.0,16.0,2.4,.089,-0.8,0.4,,1524480
-harrito02,2012-13,20,Orlando Magic,NBA,28,11.6,.461,.885,2.0,0.5,0.3,0.3,4.9,13.0,0.5,.080,-4.0,-0.2,,1524480
-harrito02,2012-13,20,Orlando Magic,NBA,27,36.1,.453,.721,8.5,2.1,0.9,1.4,17.3,17.0,1.9,.092,0.2,0.6,,1524480
-harrito02,2013-14,21,Orlando Magic,NBA,61,30.3,.464,.807,7.0,1.3,0.7,0.4,14.6,16.5,4.1,.107,-1.7,0.1,,1545840
-harrito02,2014-15,22,Orlando Magic,NBA,68,34.8,.466,.788,6.3,1.8,1.0,0.5,17.1,16.7,4.8,.098,-0.3,1.0,,2380594
-harrito02,2015-16,23,Detroit Pistons,NBA,76,33.1,.469,.831,6.7,2.2,0.9,0.5,14.7,16.2,6.6,.126,1.0,1.9,,16000000
-harrito02,2015-16,23,Detroit Pistons,NBA,49,32.9,.464,.784,7.0,2.0,1.0,0.6,13.7,15.0,3.3,.099,0.3,0.9,,16000000
-harrito02,2015-16,23,Detroit Pistons,NBA,27,33.4,.477,.911,6.2,2.6,0.7,0.4,16.6,18.2,3.3,.174,2.3,1.0,,16000000
-harrito02,2016-17,24,Detroit Pistons,NBA,82,31.3,.481,.841,5.1,1.7,0.7,0.5,16.1,16.9,6.8,.128,1.2,2.0,,17200000
-harrito02,2017-18,25,Los Angeles Clippers,NBA,80,33.4,.460,.829,5.5,2.4,0.9,0.4,18.6,17.1,6.7,.120,0.7,1.8,,16000000
-harrito02,2017-18,25,Los Angeles Clippers,NBA,48,32.6,.451,.846,5.1,2.0,0.7,0.3,18.1,16.7,4.1,.125,0.2,0.9,,16000000
-harrito02,2017-18,25,Los Angeles Clippers,NBA,32,34.5,.473,.800,6.0,3.1,1.2,0.6,19.3,17.7,2.6,.112,1.5,1.0,,16000000
-harrito02,2018-19,26,LAC,NBA,4,37.5,.493,.769,8.5,2.3,0.5,1.0,23.5,20.2,0.5,.166,5.5,0.3,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+harrito02,2011-12,19,Milwaukee Bucks,NBA,42,11.4,.467,.815,2.4,0.5,0.3,0.2,5.0,14.2,0.9,.087,-3.5,-0.2,,1418160,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2012-13,20,Orlando Magic,NBA,55,23.6,.455,.752,5.2,1.3,0.6,0.8,11.0,16.0,2.4,.089,-0.8,0.4,,1524480,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2012-13,20,Orlando Magic,NBA,28,11.6,.461,.885,2.0,0.5,0.3,0.3,4.9,13.0,0.5,.080,-4.0,-0.2,,1524480,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2012-13,20,Orlando Magic,NBA,27,36.1,.453,.721,8.5,2.1,0.9,1.4,17.3,17.0,1.9,.092,0.2,0.6,,1524480,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2013-14,21,Orlando Magic,NBA,61,30.3,.464,.807,7.0,1.3,0.7,0.4,14.6,16.5,4.1,.107,-1.7,0.1,,1545840,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2014-15,22,Orlando Magic,NBA,68,34.8,.466,.788,6.3,1.8,1.0,0.5,17.1,16.7,4.8,.098,-0.3,1.0,,2380594,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2015-16,23,Detroit Pistons,NBA,76,33.1,.469,.831,6.7,2.2,0.9,0.5,14.7,16.2,6.6,.126,1.0,1.9,,16000000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2015-16,23,Detroit Pistons,NBA,49,32.9,.464,.784,7.0,2.0,1.0,0.6,13.7,15.0,3.3,.099,0.3,0.9,,16000000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2015-16,23,Detroit Pistons,NBA,27,33.4,.477,.911,6.2,2.6,0.7,0.4,16.6,18.2,3.3,.174,2.3,1.0,,16000000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2016-17,24,Detroit Pistons,NBA,82,31.3,.481,.841,5.1,1.7,0.7,0.5,16.1,16.9,6.8,.128,1.2,2.0,,17200000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2017-18,25,Los Angeles Clippers,NBA,80,33.4,.460,.829,5.5,2.4,0.9,0.4,18.6,17.1,6.7,.120,0.7,1.8,,16000000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2017-18,25,Los Angeles Clippers,NBA,48,32.6,.451,.846,5.1,2.0,0.7,0.3,18.1,16.7,4.1,.125,0.2,0.9,,16000000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2017-18,25,Los Angeles Clippers,NBA,32,34.5,.473,.800,6.0,3.1,1.2,0.6,19.3,17.7,2.6,.112,1.5,1.0,,16000000,"Half Hollow Hills West in Dix Hills, New York"
+harrito02,2018-19,26,LAC,NBA,4,37.5,.493,.769,8.5,2.3,0.5,1.0,23.5,20.2,0.5,.166,5.5,0.3,,,"Half Hollow Hills West in Dix Hills, New York"

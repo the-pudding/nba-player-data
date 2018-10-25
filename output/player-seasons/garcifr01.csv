@@ -1,13 +1,13 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-garcifr01,2005-06,24,Sacramento Kings,NBA,67,19.4,.400,.772,2.8,1.4,0.6,0.7,5.6,10.3,1.6,.060,-1.3,0.2,,1016400
-garcifr01,2006-07,25,Sacramento Kings,NBA,79,17.8,.429,.833,2.6,1.1,0.6,0.5,6.0,11.7,2.4,.080,-0.6,0.5,,1092600
-garcifr01,2007-08,26,Sacramento Kings,NBA,79,26.5,.463,.779,3.3,1.6,1.2,0.6,12.3,15.1,4.2,.097,0.6,1.4,,1168800
-garcifr01,2008-09,27,Sacramento Kings,NBA,65,30.4,.444,.820,3.4,2.3,1.2,1.0,12.7,14.1,2.4,.058,-0.1,0.9,,1983454
-garcifr01,2009-10,28,Sacramento Kings,NBA,25,23.0,.466,.882,2.6,1.8,0.4,0.8,8.1,12.4,1.0,.081,-1.1,0.1,,5800000
-garcifr01,2010-11,29,Sacramento Kings,NBA,58,23.9,.436,.855,2.3,1.2,0.9,0.8,9.7,13.5,3.0,.104,0.7,0.9,,5500000
-garcifr01,2011-12,30,Sacramento Kings,NBA,49,16.3,.376,.800,2.0,0.6,0.7,0.8,4.8,10.7,0.8,.048,-1.2,0.2,,5800000
-garcifr01,2012-13,31,Houston Rockets,NBA,58,17.7,.393,.857,1.6,1.1,0.8,0.7,5.5,11.0,1.3,.059,-0.4,0.4,,6100000
-garcifr01,2012-13,31,Houston Rockets,NBA,40,17.8,.376,.857,1.7,1.1,0.8,0.8,5.2,10.5,0.6,.040,-0.9,0.2,,6100000
-garcifr01,2012-13,31,Houston Rockets,NBA,18,17.7,.432,.857,1.3,1.1,0.8,0.4,6.4,12.2,0.7,.101,0.6,0.2,,6100000
-garcifr01,2013-14,32,Houston Rockets,NBA,55,19.7,.401,.526,2.2,1.1,0.5,0.6,5.7,9.3,1.8,.078,-0.2,0.5,,1265977
-garcifr01,2014-15,33,Houston Rockets,NBA,14,14.3,.270,.250,1.2,1.1,0.6,0.4,3.2,3.6,-0.2,-0.044,-5.3,-0.2,,1316809
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+garcifr01,2005-06,24,Sacramento Kings,NBA,67,19.4,.400,.772,2.8,1.4,0.6,0.7,5.6,10.3,1.6,.060,-1.3,0.2,,1016400,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2006-07,25,Sacramento Kings,NBA,79,17.8,.429,.833,2.6,1.1,0.6,0.5,6.0,11.7,2.4,.080,-0.6,0.5,,1092600,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2007-08,26,Sacramento Kings,NBA,79,26.5,.463,.779,3.3,1.6,1.2,0.6,12.3,15.1,4.2,.097,0.6,1.4,,1168800,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2008-09,27,Sacramento Kings,NBA,65,30.4,.444,.820,3.4,2.3,1.2,1.0,12.7,14.1,2.4,.058,-0.1,0.9,,1983454,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2009-10,28,Sacramento Kings,NBA,25,23.0,.466,.882,2.6,1.8,0.4,0.8,8.1,12.4,1.0,.081,-1.1,0.1,,5800000,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2010-11,29,Sacramento Kings,NBA,58,23.9,.436,.855,2.3,1.2,0.9,0.8,9.7,13.5,3.0,.104,0.7,0.9,,5500000,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2011-12,30,Sacramento Kings,NBA,49,16.3,.376,.800,2.0,0.6,0.7,0.8,4.8,10.7,0.8,.048,-1.2,0.2,,5800000,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2012-13,31,Houston Rockets,NBA,58,17.7,.393,.857,1.6,1.1,0.8,0.7,5.5,11.0,1.3,.059,-0.4,0.4,,6100000,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2012-13,31,Houston Rockets,NBA,40,17.8,.376,.857,1.7,1.1,0.8,0.8,5.2,10.5,0.6,.040,-0.9,0.2,,6100000,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2012-13,31,Houston Rockets,NBA,18,17.7,.432,.857,1.3,1.1,0.8,0.4,6.4,12.2,0.7,.101,0.6,0.2,,6100000,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2013-14,32,Houston Rockets,NBA,55,19.7,.401,.526,2.2,1.1,0.5,0.6,5.7,9.3,1.8,.078,-0.2,0.5,,1265977,"Winchendon School in Winchendon, Massachusetts"
+garcifr01,2014-15,33,Houston Rockets,NBA,14,14.3,.270,.250,1.2,1.1,0.6,0.4,3.2,3.6,-0.2,-0.044,-5.3,-0.2,,1316809,"Winchendon School in Winchendon, Massachusetts"

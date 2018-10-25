@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-gervige01,1976-77,24,SAS,NBA,82,33.0,.544,.833,5.5,2.9,1.3,1.3,23.1,21.4,10.5,.187,3.8,4.0,All-NBA (2nd),
-gervige01,1977-78,25,SAS,NBA,82,34.8,.536,.830,5.1,3.7,1.7,1.3,27.2,24.7,12.0,.201,4.1,4.4,All-NBA (1st),
-gervige01,1978-79,26,SAS,NBA,80,36.1,.541,.826,5.0,2.7,1.7,1.1,29.6,23.2,11.4,.189,3.0,3.7,All-NBA (1st),
-gervige01,1979-80,27,SAS,NBA,78,37.6,.528,.852,5.2,2.6,1.4,1.0,33.1,24.0,10.6,.173,2.2,3.1,All-NBA (1st),
-gervige01,1980-81,28,SAS,NBA,82,33.7,.492,.826,5.1,3.2,1.1,0.7,27.1,22.9,10.5,.182,1.6,2.5,All-NBA (1st),
-gervige01,1981-82,29,SAS,NBA,79,35.7,.500,.864,5.0,2.4,1.0,0.6,32.3,24.2,10.7,.182,1.7,2.6,All-NBA (1st),
-gervige01,1982-83,30,SAS,NBA,78,36.3,.487,.853,4.6,3.4,1.1,0.9,26.2,20.5,9.4,.159,1.1,2.2,All-NBA (2nd),
-gervige01,1983-84,31,SAS,NBA,76,34.0,.490,.842,4.1,2.9,1.0,0.6,25.9,19.3,5.5,.102,-0.4,1.1,,
-gervige01,1984-85,32,San Antonio Spurs,NBA,72,29.0,.508,.844,3.3,2.5,0.9,0.7,21.2,18.5,4.6,.106,-1.3,0.4,,831000
-gervige01,1985-86,33,Chicago Bulls,NBA,82,25.2,.472,.879,2.6,1.8,0.6,0.3,16.2,16.0,3.0,.069,-3.3,-0.7,,806000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+gervige01,1976-77,24,SAS,NBA,82,33.0,.544,.833,5.5,2.9,1.3,1.3,23.1,21.4,10.5,.187,3.8,4.0,All-NBA (2nd),"Martin Luther King in Detroit, Michigan",
+gervige01,1977-78,25,SAS,NBA,82,34.8,.536,.830,5.1,3.7,1.7,1.3,27.2,24.7,12.0,.201,4.1,4.4,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
+gervige01,1978-79,26,SAS,NBA,80,36.1,.541,.826,5.0,2.7,1.7,1.1,29.6,23.2,11.4,.189,3.0,3.7,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
+gervige01,1979-80,27,SAS,NBA,78,37.6,.528,.852,5.2,2.6,1.4,1.0,33.1,24.0,10.6,.173,2.2,3.1,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
+gervige01,1980-81,28,SAS,NBA,82,33.7,.492,.826,5.1,3.2,1.1,0.7,27.1,22.9,10.5,.182,1.6,2.5,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
+gervige01,1981-82,29,SAS,NBA,79,35.7,.500,.864,5.0,2.4,1.0,0.6,32.3,24.2,10.7,.182,1.7,2.6,All-NBA (1st),"Martin Luther King in Detroit, Michigan",
+gervige01,1982-83,30,SAS,NBA,78,36.3,.487,.853,4.6,3.4,1.1,0.9,26.2,20.5,9.4,.159,1.1,2.2,All-NBA (2nd),"Martin Luther King in Detroit, Michigan",
+gervige01,1983-84,31,SAS,NBA,76,34.0,.490,.842,4.1,2.9,1.0,0.6,25.9,19.3,5.5,.102,-0.4,1.1,,"Martin Luther King in Detroit, Michigan",
+gervige01,1984-85,32,San Antonio Spurs,NBA,72,29.0,.508,.844,3.3,2.5,0.9,0.7,21.2,18.5,4.6,.106,-1.3,0.4,,"Martin Luther King in Detroit, Michigan",831000
+gervige01,1985-86,33,Chicago Bulls,NBA,82,25.2,.472,.879,2.6,1.8,0.6,0.3,16.2,16.0,3.0,.069,-3.3,-0.7,,"Martin Luther King in Detroit, Michigan",806000

@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-nordgje01,1997-98,24,Milwaukee Bucks,NBA,13,3.7,.278,.889,1.1,0.2,0.2,0.0,1.4,11.6,0.0,.043,-6.8,-0.1,,242000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+nordgje01,1997-98,24,Milwaukee Bucks,NBA,13,3.7,.278,.889,1.1,0.2,0.2,0.0,1.4,11.6,0.0,.043,-6.8,-0.1,,242000,"Dawson-Boyd in Dawson, Minnesota"

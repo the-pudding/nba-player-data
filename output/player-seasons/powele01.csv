@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-powele01,2006-07,23,Boston Celtics,NBA,63,11.4,.446,.736,3.4,0.2,0.2,0.3,4.2,14.6,1.7,.116,-4.4,-0.4,,432000
-powele01,2007-08,24,Boston Celtics,NBA,56,14.4,.572,.710,4.1,0.3,0.3,0.3,7.9,20.9,4.3,.256,-0.9,0.2,,687456
-powele01,2008-09,25,Boston Celtics,NBA,70,17.5,.524,.689,4.9,0.7,0.3,0.5,7.7,17.2,4.9,.192,0.5,0.8,,797581
-powele01,2009-10,26,Cleveland Cavaliers,NBA,20,11.8,.429,.587,3.1,0.0,0.3,0.1,4.0,10.2,0.5,.097,-9.9,-0.5,,855189
-powele01,2010-11,27,Cleveland Cavaliers,NBA,30,10.9,.496,.556,2.1,0.2,0.3,0.1,5.3,15.0,0.6,.090,-5.5,-0.3,,915852
-powele01,2010-11,27,Cleveland Cavaliers,NBA,14,13.4,.492,.462,2.7,0.1,0.5,0.2,5.0,12.9,0.2,.051,-5.9,-0.2,,915852
-powele01,2010-11,27,Cleveland Cavaliers,NBA,16,8.8,.500,.609,1.6,0.3,0.2,0.1,5.5,17.8,0.4,.142,-5.0,-0.1,,915852
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+powele01,2006-07,23,Boston Celtics,NBA,63,11.4,.446,.736,3.4,0.2,0.2,0.3,4.2,14.6,1.7,.116,-4.4,-0.4,,432000,"Oakland Technical in Oakland, California"
+powele01,2007-08,24,Boston Celtics,NBA,56,14.4,.572,.710,4.1,0.3,0.3,0.3,7.9,20.9,4.3,.256,-0.9,0.2,,687456,"Oakland Technical in Oakland, California"
+powele01,2008-09,25,Boston Celtics,NBA,70,17.5,.524,.689,4.9,0.7,0.3,0.5,7.7,17.2,4.9,.192,0.5,0.8,,797581,"Oakland Technical in Oakland, California"
+powele01,2009-10,26,Cleveland Cavaliers,NBA,20,11.8,.429,.587,3.1,0.0,0.3,0.1,4.0,10.2,0.5,.097,-9.9,-0.5,,855189,"Oakland Technical in Oakland, California"
+powele01,2010-11,27,Cleveland Cavaliers,NBA,30,10.9,.496,.556,2.1,0.2,0.3,0.1,5.3,15.0,0.6,.090,-5.5,-0.3,,915852,"Oakland Technical in Oakland, California"
+powele01,2010-11,27,Cleveland Cavaliers,NBA,14,13.4,.492,.462,2.7,0.1,0.5,0.2,5.0,12.9,0.2,.051,-5.9,-0.2,,915852,"Oakland Technical in Oakland, California"
+powele01,2010-11,27,Cleveland Cavaliers,NBA,16,8.8,.500,.609,1.6,0.3,0.2,0.1,5.5,17.8,0.4,.142,-5.0,-0.1,,915852,"Oakland Technical in Oakland, California"

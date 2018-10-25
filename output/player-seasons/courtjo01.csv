@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-courtjo01,1992-93,23,"CHI,GSW",NBA,12,8.7,.406,.778,1.6,0.3,0.4,0.4,2.8,8.8,0.1,.032,-5.5,-0.1,,
-courtjo01,1993-94,24,Phoenix Suns,NBA,52,6.6,.453,.681,1.1,0.3,0.2,0.2,3.2,13.4,0.4,.054,-5.3,-0.3,,150000
-courtjo01,1993-94,24,Phoenix Suns,NBA,33,5.1,.513,.719,0.8,0.3,0.1,0.2,3.1,17.9,0.5,.142,-3.2,-0.1,,150000
-courtjo01,1993-94,24,Phoenix Suns,NBA,19,9.3,.386,.600,1.5,0.3,0.4,0.3,3.4,9.0,-0.1,-0.031,-7.3,-0.2,,150000
-courtjo01,1994-95,25,Charlotte Hornets,NBA,,,,,,,,,,,,,,,,13158
-courtjo01,1995-96,26,Cleveland Cavaliers,NBA,23,8.7,.429,.444,2.1,0.4,0.2,0.3,1.7,7.0,0.0,.000,-4.5,-0.1,,225000
-courtjo01,1996-97,27,"PHI,SAS",NBA,9,11.1,.367,.600,1.8,0.0,0.0,0.0,2.8,3.8,-0.1,-0.059,-13.8,-0.3,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+courtjo01,1992-93,23,"CHI,GSW",NBA,12,8.7,.406,.778,1.6,0.3,0.4,0.4,2.8,8.8,0.1,.032,-5.5,-0.1,,"Callaway in Jackson, Mississippi",
+courtjo01,1993-94,24,Phoenix Suns,NBA,52,6.6,.453,.681,1.1,0.3,0.2,0.2,3.2,13.4,0.4,.054,-5.3,-0.3,,"Callaway in Jackson, Mississippi",150000
+courtjo01,1993-94,24,Phoenix Suns,NBA,33,5.1,.513,.719,0.8,0.3,0.1,0.2,3.1,17.9,0.5,.142,-3.2,-0.1,,"Callaway in Jackson, Mississippi",150000
+courtjo01,1993-94,24,Phoenix Suns,NBA,19,9.3,.386,.600,1.5,0.3,0.4,0.3,3.4,9.0,-0.1,-0.031,-7.3,-0.2,,"Callaway in Jackson, Mississippi",150000
+courtjo01,1994-95,25,Charlotte Hornets,NBA,,,,,,,,,,,,,,,,"Callaway in Jackson, Mississippi",13158
+courtjo01,1995-96,26,Cleveland Cavaliers,NBA,23,8.7,.429,.444,2.1,0.4,0.2,0.3,1.7,7.0,0.0,.000,-4.5,-0.1,,"Callaway in Jackson, Mississippi",225000
+courtjo01,1996-97,27,"PHI,SAS",NBA,9,11.1,.367,.600,1.8,0.0,0.0,0.0,2.8,3.8,-0.1,-0.059,-13.8,-0.3,,"Callaway in Jackson, Mississippi",

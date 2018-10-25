@@ -1,16 +1,16 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-lohaubr01,1987-88,23,Boston Celtics,NBA,70,10.3,.496,.806,2.0,0.7,0.3,0.6,4.2,12.2,0.9,.063,-2.0,0.0,,75000
-lohaubr01,1988-89,24,Boston Celtics,NBA,77,15.8,.432,.786,3.3,0.9,0.4,0.7,6.5,11.6,0.9,.034,-4.0,-0.6,,380000
-lohaubr01,1988-89,24,Boston Celtics,NBA,48,15.4,.433,.761,3.0,1.0,0.4,0.5,5.6,10.0,0.4,.023,-3.5,-0.3,,380000
-lohaubr01,1988-89,24,Boston Celtics,NBA,29,16.4,.431,.807,3.9,0.6,0.3,1.0,8.0,14.0,0.5,.051,-4.8,-0.3,,380000
-lohaubr01,1989-90,25,"MIN,MIL",NBA,80,24.3,.460,.728,5.0,2.1,0.7,1.1,9.2,13.6,3.3,.082,0.1,1.0,,
-lohaubr01,1990-91,26,Milwaukee Bucks,NBA,81,15.0,.431,.685,2.7,0.9,0.6,0.9,5.3,11.9,1.8,.071,-0.5,0.5,,1275000
-lohaubr01,1991-92,27,Milwaukee Bucks,NBA,70,15.4,.450,.659,3.6,1.1,0.6,1.0,5.8,15.0,2.7,.119,1.6,1.0,,1377000
-lohaubr01,1992-93,28,Milwaukee Bucks,NBA,80,22.1,.461,.723,3.5,1.6,0.6,0.9,9.1,13.3,2.7,.073,-0.8,0.5,,583000
-lohaubr01,1993-94,29,Milwaukee Bucks,NBA,67,14.4,.363,.690,2.2,0.9,0.4,0.8,4.0,8.3,0.1,.004,-3.4,-0.3,,958000
-lohaubr01,1994-95,30,Miami Heat,NBA,61,12.0,.420,.667,1.7,0.7,0.3,0.4,4.4,12.7,1.5,.099,0.2,0.4,,325000
-lohaubr01,1995-96,31,San Antonio Spurs,NBA,55,10.9,.406,.800,1.2,0.8,0.2,0.3,3.6,10.6,1.3,.101,-0.9,0.2,,485000
-lohaubr01,1995-96,31,San Antonio Spurs,NBA,32,8.5,.406,.667,1.0,0.5,0.1,0.2,3.3,11.0,0.5,.096,-1.4,0.0,,485000
-lohaubr01,1995-96,31,San Antonio Spurs,NBA,23,14.1,.405,1.000,1.3,1.2,0.3,0.4,3.9,10.2,0.7,.104,-0.5,0.1,,485000
-lohaubr01,1996-97,32,TOR,NBA,6,7.5,.267,,1.2,0.2,0.2,0.0,1.7,2.4,-0.1,-0.053,-10.6,-0.1,,
-lohaubr01,1997-98,33,SAS,NBA,9,11.3,.333,.333,1.3,0.6,0.1,0.2,2.1,5.2,0.1,.043,-3.2,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+lohaubr01,1987-88,23,Boston Celtics,NBA,70,10.3,.496,.806,2.0,0.7,0.3,0.6,4.2,12.2,0.9,.063,-2.0,0.0,,75000,"Greenway in Phoenix, Arizona"
+lohaubr01,1988-89,24,Boston Celtics,NBA,77,15.8,.432,.786,3.3,0.9,0.4,0.7,6.5,11.6,0.9,.034,-4.0,-0.6,,380000,"Greenway in Phoenix, Arizona"
+lohaubr01,1988-89,24,Boston Celtics,NBA,48,15.4,.433,.761,3.0,1.0,0.4,0.5,5.6,10.0,0.4,.023,-3.5,-0.3,,380000,"Greenway in Phoenix, Arizona"
+lohaubr01,1988-89,24,Boston Celtics,NBA,29,16.4,.431,.807,3.9,0.6,0.3,1.0,8.0,14.0,0.5,.051,-4.8,-0.3,,380000,"Greenway in Phoenix, Arizona"
+lohaubr01,1989-90,25,"MIN,MIL",NBA,80,24.3,.460,.728,5.0,2.1,0.7,1.1,9.2,13.6,3.3,.082,0.1,1.0,,,"Greenway in Phoenix, Arizona"
+lohaubr01,1990-91,26,Milwaukee Bucks,NBA,81,15.0,.431,.685,2.7,0.9,0.6,0.9,5.3,11.9,1.8,.071,-0.5,0.5,,1275000,"Greenway in Phoenix, Arizona"
+lohaubr01,1991-92,27,Milwaukee Bucks,NBA,70,15.4,.450,.659,3.6,1.1,0.6,1.0,5.8,15.0,2.7,.119,1.6,1.0,,1377000,"Greenway in Phoenix, Arizona"
+lohaubr01,1992-93,28,Milwaukee Bucks,NBA,80,22.1,.461,.723,3.5,1.6,0.6,0.9,9.1,13.3,2.7,.073,-0.8,0.5,,583000,"Greenway in Phoenix, Arizona"
+lohaubr01,1993-94,29,Milwaukee Bucks,NBA,67,14.4,.363,.690,2.2,0.9,0.4,0.8,4.0,8.3,0.1,.004,-3.4,-0.3,,958000,"Greenway in Phoenix, Arizona"
+lohaubr01,1994-95,30,Miami Heat,NBA,61,12.0,.420,.667,1.7,0.7,0.3,0.4,4.4,12.7,1.5,.099,0.2,0.4,,325000,"Greenway in Phoenix, Arizona"
+lohaubr01,1995-96,31,San Antonio Spurs,NBA,55,10.9,.406,.800,1.2,0.8,0.2,0.3,3.6,10.6,1.3,.101,-0.9,0.2,,485000,"Greenway in Phoenix, Arizona"
+lohaubr01,1995-96,31,San Antonio Spurs,NBA,32,8.5,.406,.667,1.0,0.5,0.1,0.2,3.3,11.0,0.5,.096,-1.4,0.0,,485000,"Greenway in Phoenix, Arizona"
+lohaubr01,1995-96,31,San Antonio Spurs,NBA,23,14.1,.405,1.000,1.3,1.2,0.3,0.4,3.9,10.2,0.7,.104,-0.5,0.1,,485000,"Greenway in Phoenix, Arizona"
+lohaubr01,1996-97,32,TOR,NBA,6,7.5,.267,,1.2,0.2,0.2,0.0,1.7,2.4,-0.1,-0.053,-10.6,-0.1,,,"Greenway in Phoenix, Arizona"
+lohaubr01,1997-98,33,SAS,NBA,9,11.3,.333,.333,1.3,0.6,0.1,0.2,2.1,5.2,0.1,.043,-3.2,0.0,,,"Greenway in Phoenix, Arizona"

@@ -1,17 +1,17 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-threase01,1983-84,22,PHI,NBA,45,10.3,.419,.821,0.9,0.9,0.3,0.0,3.3,6.6,0.1,.012,-5.6,-0.4,,
-threase01,1984-85,23,Philadelphia 76ers,NBA,82,15.9,.452,.733,1.2,2.1,1.0,0.2,5.4,10.2,1.3,.047,-2.5,-0.2,,78000
-threase01,1985-86,24,Philadelphia 76ers,NBA,70,25.1,.453,.833,1.7,2.8,1.3,0.1,9.9,11.1,2.1,.056,-2.5,-0.2,,113000
-threase01,1986-87,25,"PHI,CHI",NBA,68,21.3,.448,.798,1.6,3.8,1.1,0.2,8.5,13.6,2.5,.082,-2.8,-0.3,,
-threase01,1987-88,26,Seattle SuperSonics,NBA,71,14.9,.508,.803,1.2,2.3,0.8,0.1,6.9,16.0,2.7,.121,-0.9,0.3,,270000
-threase01,1987-88,26,Seattle SuperSonics,NBA,45,15.6,.502,.780,1.2,2.4,0.6,0.1,6.6,13.7,1.4,.094,-2.8,-0.1,,270000
-threase01,1987-88,26,Seattle SuperSonics,NBA,26,13.6,.519,.833,1.3,2.0,1.3,0.2,7.5,20.7,1.3,.176,2.9,0.4,,270000
-threase01,1988-89,27,Seattle SuperSonics,NBA,63,19.4,.494,.818,1.9,3.8,1.3,0.1,8.6,16.3,3.4,.135,0.6,0.8,,275000
-threase01,1989-90,28,SEA,NBA,65,22.8,.506,.828,1.8,3.3,1.0,0.1,11.4,17.4,4.6,.149,1.2,1.2,,
-threase01,1990-91,29,Seattle SuperSonics,NBA,80,25.8,.519,.792,1.2,3.4,1.4,0.1,12.7,15.5,4.6,.106,-0.9,0.6,,650000
-threase01,1991-92,30,Los Angeles Lakers,NBA,82,37.4,.489,.831,3.1,7.2,2.0,0.2,15.1,16.6,7.3,.114,1.1,2.4,,612000
-threase01,1992-93,31,Los Angeles Lakers,NBA,82,35.3,.508,.823,3.3,6.9,1.7,0.1,15.1,16.5,7.1,.117,0.9,2.1,,796000
-threase01,1993-94,32,Los Angeles Lakers,NBA,81,28.1,.482,.890,1.9,4.2,1.4,0.2,11.9,15.3,4.5,.096,-1.7,0.2,,2400000
-threase01,1994-95,33,Los Angeles Lakers,NBA,59,23.5,.497,.793,2.1,4.2,0.9,0.2,9.5,15.8,3.8,.131,-0.8,0.4,,2400000
-threase01,1995-96,34,Los Angeles Lakers,NBA,82,20.6,.458,.761,1.2,3.3,0.8,0.1,7.3,13.2,3.7,.105,-1.9,0.1,,2400000
-threase01,1996-97,35,HOU,NBA,21,15.9,.378,.750,1.1,1.9,0.7,0.1,3.3,8.5,0.4,.061,-3.1,-0.1,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+threase01,1983-84,22,PHI,NBA,45,10.3,.419,.821,0.9,0.9,0.3,0.0,3.3,6.6,0.1,.012,-5.6,-0.4,,"Therrell in Atlanta, Georgia",
+threase01,1984-85,23,Philadelphia 76ers,NBA,82,15.9,.452,.733,1.2,2.1,1.0,0.2,5.4,10.2,1.3,.047,-2.5,-0.2,,"Therrell in Atlanta, Georgia",78000
+threase01,1985-86,24,Philadelphia 76ers,NBA,70,25.1,.453,.833,1.7,2.8,1.3,0.1,9.9,11.1,2.1,.056,-2.5,-0.2,,"Therrell in Atlanta, Georgia",113000
+threase01,1986-87,25,"PHI,CHI",NBA,68,21.3,.448,.798,1.6,3.8,1.1,0.2,8.5,13.6,2.5,.082,-2.8,-0.3,,"Therrell in Atlanta, Georgia",
+threase01,1987-88,26,Seattle SuperSonics,NBA,71,14.9,.508,.803,1.2,2.3,0.8,0.1,6.9,16.0,2.7,.121,-0.9,0.3,,"Therrell in Atlanta, Georgia",270000
+threase01,1987-88,26,Seattle SuperSonics,NBA,45,15.6,.502,.780,1.2,2.4,0.6,0.1,6.6,13.7,1.4,.094,-2.8,-0.1,,"Therrell in Atlanta, Georgia",270000
+threase01,1987-88,26,Seattle SuperSonics,NBA,26,13.6,.519,.833,1.3,2.0,1.3,0.2,7.5,20.7,1.3,.176,2.9,0.4,,"Therrell in Atlanta, Georgia",270000
+threase01,1988-89,27,Seattle SuperSonics,NBA,63,19.4,.494,.818,1.9,3.8,1.3,0.1,8.6,16.3,3.4,.135,0.6,0.8,,"Therrell in Atlanta, Georgia",275000
+threase01,1989-90,28,SEA,NBA,65,22.8,.506,.828,1.8,3.3,1.0,0.1,11.4,17.4,4.6,.149,1.2,1.2,,"Therrell in Atlanta, Georgia",
+threase01,1990-91,29,Seattle SuperSonics,NBA,80,25.8,.519,.792,1.2,3.4,1.4,0.1,12.7,15.5,4.6,.106,-0.9,0.6,,"Therrell in Atlanta, Georgia",650000
+threase01,1991-92,30,Los Angeles Lakers,NBA,82,37.4,.489,.831,3.1,7.2,2.0,0.2,15.1,16.6,7.3,.114,1.1,2.4,,"Therrell in Atlanta, Georgia",612000
+threase01,1992-93,31,Los Angeles Lakers,NBA,82,35.3,.508,.823,3.3,6.9,1.7,0.1,15.1,16.5,7.1,.117,0.9,2.1,,"Therrell in Atlanta, Georgia",796000
+threase01,1993-94,32,Los Angeles Lakers,NBA,81,28.1,.482,.890,1.9,4.2,1.4,0.2,11.9,15.3,4.5,.096,-1.7,0.2,,"Therrell in Atlanta, Georgia",2400000
+threase01,1994-95,33,Los Angeles Lakers,NBA,59,23.5,.497,.793,2.1,4.2,0.9,0.2,9.5,15.8,3.8,.131,-0.8,0.4,,"Therrell in Atlanta, Georgia",2400000
+threase01,1995-96,34,Los Angeles Lakers,NBA,82,20.6,.458,.761,1.2,3.3,0.8,0.1,7.3,13.2,3.7,.105,-1.9,0.1,,"Therrell in Atlanta, Georgia",2400000
+threase01,1996-97,35,HOU,NBA,21,15.9,.378,.750,1.1,1.9,0.7,0.1,3.3,8.5,0.4,.061,-3.1,-0.1,,"Therrell in Atlanta, Georgia",

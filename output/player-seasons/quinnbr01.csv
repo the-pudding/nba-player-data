@@ -1,6 +1,6 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-quinnbr01,1989-90,23,NYK,NBA,31,6.2,.328,.667,0.9,0.4,0.1,0.1,1.3,3.9,-0.1,-0.015,-7.1,-0.2,,
-quinnbr01,1990-91,24,New York Knicks,NBA,68,14.9,.459,.722,2.1,0.8,0.3,0.2,4.7,9.0,0.8,.039,-3.0,-0.2,,360000
-quinnbr01,1991-92,25,New York Knicks,NBA,39,8.4,.347,.615,1.3,0.3,0.4,0.2,2.9,9.1,0.1,.016,-4.1,-0.2,,450000
-quinnbr01,1991-92,25,New York Knicks,NBA,24,7.9,.384,.571,1.0,0.3,0.3,0.3,3.1,10.1,0.3,.067,-2.8,0.0,,450000
-quinnbr01,1991-92,25,New York Knicks,NBA,15,9.1,.294,.667,1.8,0.3,0.6,0.1,2.7,7.7,-0.2,-0.054,-6.0,-0.1,,450000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+quinnbr01,1989-90,23,NYK,NBA,31,6.2,.328,.667,0.9,0.4,0.1,0.1,1.3,3.9,-0.1,-0.015,-7.1,-0.2,,"Cheney in Cheney, Washington",
+quinnbr01,1990-91,24,New York Knicks,NBA,68,14.9,.459,.722,2.1,0.8,0.3,0.2,4.7,9.0,0.8,.039,-3.0,-0.2,,"Cheney in Cheney, Washington",360000
+quinnbr01,1991-92,25,New York Knicks,NBA,39,8.4,.347,.615,1.3,0.3,0.4,0.2,2.9,9.1,0.1,.016,-4.1,-0.2,,"Cheney in Cheney, Washington",450000
+quinnbr01,1991-92,25,New York Knicks,NBA,24,7.9,.384,.571,1.0,0.3,0.3,0.3,3.1,10.1,0.3,.067,-2.8,0.0,,"Cheney in Cheney, Washington",450000
+quinnbr01,1991-92,25,New York Knicks,NBA,15,9.1,.294,.667,1.8,0.3,0.6,0.1,2.7,7.7,-0.2,-0.054,-6.0,-0.1,,"Cheney in Cheney, Washington",450000

@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-smithch02,1989-90,22,BOS,NBA,60,8.7,.444,.697,1.2,1.7,0.6,0.1,2.9,13.3,1.1,.102,-0.6,0.2,,
-smithch02,1990-91,23,BOS,NBA,5,6.0,.429,.600,0.4,1.2,0.2,0.0,1.8,6.3,0.0,.009,-7.9,0.0,,
-smithch02,1991-92,24,Did Not Play,,,,,,,,,,,,,,,,,
-smithch02,1992-93,25,Did Not Play,,,,,,,,,,,,,,,,,
-smithch02,1993-94,26,Did Not Play,,,,,,,,,,,,,,,,,
-smithch02,1994-95,27,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,,,,,,,,,
-smithch02,1995-96,28,Minnesota Timberwolves,NBA,8,4.9,.300,.000,0.6,0.8,0.1,0.0,0.8,-2.2,-0.2,-0.212,-12.7,-0.1,,225000
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS,Salary
+smithch02,1989-90,22,BOS,NBA,60,8.7,.444,.697,1.2,1.7,0.6,0.1,2.9,13.3,1.1,.102,-0.6,0.2,,"All Saints in Washington, District of Columbia",
+smithch02,1990-91,23,BOS,NBA,5,6.0,.429,.600,0.4,1.2,0.2,0.0,1.8,6.3,0.0,.009,-7.9,0.0,,"All Saints in Washington, District of Columbia",
+smithch02,1991-92,24,Did Not Play,,,,,,,,,,,,,,,,,"All Saints in Washington, District of Columbia",
+smithch02,1992-93,25,Did Not Play,,,,,,,,,,,,,,,,,"All Saints in Washington, District of Columbia",
+smithch02,1993-94,26,Did Not Play,,,,,,,,,,,,,,,,,"All Saints in Washington, District of Columbia",
+smithch02,1994-95,27,"Did Not Play (other pro league—CBA, USBL)",,,,,,,,,,,,,,,,,"All Saints in Washington, District of Columbia",
+smithch02,1995-96,28,Minnesota Timberwolves,NBA,8,4.9,.300,.000,0.6,0.8,0.1,0.0,0.8,-2.2,-0.2,-0.212,-12.7,-0.1,,"All Saints in Washington, District of Columbia",225000

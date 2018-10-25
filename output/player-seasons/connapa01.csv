@@ -1,5 +1,5 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-connapa01,2015-16,23,Portland Trail Blazers,NBA,34,4.2,.265,1.000,0.9,0.3,0.1,0.0,1.1,4.6,-0.2,-0.076,-8.2,-0.2,,525093
-connapa01,2016-17,24,Portland Trail Blazers,NBA,39,8.1,.514,.778,1.3,0.7,0.2,0.1,2.5,11.8,0.6,.090,-2.5,0.0,,874636
-connapa01,2017-18,25,Portland Trail Blazers,NBA,82,18.1,.423,.841,2.0,1.1,0.3,0.3,5.4,9.3,2.5,.080,-1.3,0.3,,1471382
-connapa01,2018-19,26,MIL,NBA,1,4.0,.000,,0.0,1.0,0.0,0.0,0.0,-11.1,0.0,-0.320,-23.9,0.0,,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+connapa01,2015-16,23,Portland Trail Blazers,NBA,34,4.2,.265,1.000,0.9,0.3,0.1,0.0,1.1,4.6,-0.2,-0.076,-8.2,-0.2,,525093,"St. John's Prep in Danvers, Massachusetts"
+connapa01,2016-17,24,Portland Trail Blazers,NBA,39,8.1,.514,.778,1.3,0.7,0.2,0.1,2.5,11.8,0.6,.090,-2.5,0.0,,874636,"St. John's Prep in Danvers, Massachusetts"
+connapa01,2017-18,25,Portland Trail Blazers,NBA,82,18.1,.423,.841,2.0,1.1,0.3,0.3,5.4,9.3,2.5,.080,-1.3,0.3,,1471382,"St. John's Prep in Danvers, Massachusetts"
+connapa01,2018-19,26,MIL,NBA,1,4.0,.000,,0.0,1.0,0.0,0.0,0.0,-11.1,0.0,-0.320,-23.9,0.0,,,"St. John's Prep in Danvers, Massachusetts"

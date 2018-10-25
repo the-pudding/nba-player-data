@@ -1,4 +1,4 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-owensan01,2005-06,25,Utah Jazz,NBA,23,9.1,.365,.667,0.9,0.3,0.2,0.0,3.0,5.2,-0.2,-0.047,-8.4,-0.3,,398762
-owensan01,2006-07,26,Golden State Warriors,NBA,,,,,,,,,,,,,,,,676800
-owensan01,2007-08,27,Indiana Pacers,NBA,31,12.6,.374,.735,1.5,1.5,0.4,0.1,4.0,10.0,0.4,.053,-3.4,-0.1,,687456
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+owensan01,2005-06,25,Utah Jazz,NBA,23,9.1,.365,.667,0.9,0.3,0.2,0.0,3.0,5.2,-0.2,-0.047,-8.4,-0.3,,398762,"Perry Meridian in Indianapolis, Indiana"
+owensan01,2006-07,26,Golden State Warriors,NBA,,,,,,,,,,,,,,,,676800,"Perry Meridian in Indianapolis, Indiana"
+owensan01,2007-08,27,Indiana Pacers,NBA,31,12.6,.374,.735,1.5,1.5,0.4,0.1,4.0,10.0,0.4,.053,-3.4,-0.1,,687456,"Perry Meridian in Indianapolis, Indiana"

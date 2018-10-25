@@ -1,8 +1,8 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-joneste01,2012-13,21,Houston Rockets,NBA,19,14.5,.457,.765,3.4,0.8,0.6,1.0,5.5,17.1,0.7,.128,2.1,0.3,,1485000
-joneste01,2013-14,22,Houston Rockets,NBA,76,27.3,.542,.605,6.9,1.1,0.7,1.3,12.1,19.1,7.3,.169,2.2,2.2,,1551840
-joneste01,2014-15,23,Houston Rockets,NBA,33,26.9,.528,.606,6.7,1.1,0.5,1.8,11.7,18.3,3.0,.160,1.3,0.7,,1618680
-joneste01,2015-16,24,Houston Rockets,NBA,50,20.9,.452,.664,4.2,0.8,0.5,0.8,8.7,13.5,1.5,.068,-3.4,-0.4,,2489530
-joneste01,2016-17,25,New Orleans Pelicans,NBA,54,23.5,.470,.606,5.7,1.1,0.7,1.0,10.8,16.1,2.3,.086,-1.3,0.2,,1050961
-joneste01,2016-17,25,New Orleans Pelicans,NBA,51,24.8,.472,.606,5.9,1.2,0.8,1.0,11.5,16.2,2.3,.088,-1.3,0.2,,1050961
-joneste01,2016-17,25,New Orleans Pelicans,NBA,3,2.0,.000,,1.0,0.0,0.3,0.3,0.0,1.5,0.0,-0.312,-20.1,0.0,,1050961
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+joneste01,2012-13,21,Houston Rockets,NBA,19,14.5,.457,.765,3.4,0.8,0.6,1.0,5.5,17.1,0.7,.128,2.1,0.3,,1485000,"Jefferson in Portland, Oregon"
+joneste01,2013-14,22,Houston Rockets,NBA,76,27.3,.542,.605,6.9,1.1,0.7,1.3,12.1,19.1,7.3,.169,2.2,2.2,,1551840,"Jefferson in Portland, Oregon"
+joneste01,2014-15,23,Houston Rockets,NBA,33,26.9,.528,.606,6.7,1.1,0.5,1.8,11.7,18.3,3.0,.160,1.3,0.7,,1618680,"Jefferson in Portland, Oregon"
+joneste01,2015-16,24,Houston Rockets,NBA,50,20.9,.452,.664,4.2,0.8,0.5,0.8,8.7,13.5,1.5,.068,-3.4,-0.4,,2489530,"Jefferson in Portland, Oregon"
+joneste01,2016-17,25,New Orleans Pelicans,NBA,54,23.5,.470,.606,5.7,1.1,0.7,1.0,10.8,16.1,2.3,.086,-1.3,0.2,,1050961,"Jefferson in Portland, Oregon"
+joneste01,2016-17,25,New Orleans Pelicans,NBA,51,24.8,.472,.606,5.9,1.2,0.8,1.0,11.5,16.2,2.3,.088,-1.3,0.2,,1050961,"Jefferson in Portland, Oregon"
+joneste01,2016-17,25,New Orleans Pelicans,NBA,3,2.0,.000,,1.0,0.0,0.3,0.3,0.0,1.5,0.0,-0.312,-20.1,0.0,,1050961,"Jefferson in Portland, Oregon"

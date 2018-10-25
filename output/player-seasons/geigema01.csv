@@ -1,11 +1,11 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
-geigema01,1992-93,23,Miami Heat,NBA,48,11.5,.524,.674,2.5,0.3,0.3,0.4,4.5,11.8,1.2,.101,-2.7,-0.1,,140000
-geigema01,1993-94,24,Miami Heat,NBA,72,16.7,.574,.779,4.2,0.4,0.5,0.4,7.2,16.7,4.5,.179,-0.1,0.6,,250000
-geigema01,1994-95,25,Miami Heat,NBA,74,23.1,.536,.650,5.6,0.7,0.6,0.7,8.3,12.9,2.7,.077,-1.8,0.1,,1402000
-geigema01,1995-96,26,Charlotte Hornets,NBA,77,30.5,.536,.727,8.4,0.8,0.6,0.8,11.2,14.2,4.3,.088,-1.9,0.1,,1532000
-geigema01,1996-97,27,Charlotte Hornets,NBA,49,21.3,.489,.701,5.3,0.8,0.4,0.6,8.9,14.3,1.9,.085,-2.9,-0.2,,1562000
-geigema01,1997-98,28,Charlotte Hornets,NBA,78,23.6,.505,.712,6.7,1.0,0.9,1.1,11.3,20.2,5.9,.154,1.2,1.5,,1402000
-geigema01,1998-99,29,Philadelphia 76ers,NBA,50,30.8,.479,.797,7.2,1.2,0.8,0.8,13.5,17.1,4.7,.147,0.3,0.9,,6800000
-geigema01,1999-00,30,Philadelphia 76ers,NBA,65,21.6,.441,.779,6.0,0.6,0.4,0.3,9.7,13.9,2.6,.088,-3.6,-0.6,,6889520
-geigema01,2000-01,31,Philadelphia 76ers,NBA,35,15.5,.393,.685,4.0,0.4,0.3,0.2,6.1,11.5,0.7,.065,-5.5,-0.5,,7515840
-geigema01,2001-02,32,Philadelphia 76ers,NBA,4,9.0,.125,.500,1.5,0.0,0.0,0.5,0.8,-1.6,-0.1,-0.145,-13.7,-0.1,,8142160
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary,HS
+geigema01,1992-93,23,Miami Heat,NBA,48,11.5,.524,.674,2.5,0.3,0.3,0.4,4.5,11.8,1.2,.101,-2.7,-0.1,,140000,"Countryside in Clearwater, Florida"
+geigema01,1993-94,24,Miami Heat,NBA,72,16.7,.574,.779,4.2,0.4,0.5,0.4,7.2,16.7,4.5,.179,-0.1,0.6,,250000,"Countryside in Clearwater, Florida"
+geigema01,1994-95,25,Miami Heat,NBA,74,23.1,.536,.650,5.6,0.7,0.6,0.7,8.3,12.9,2.7,.077,-1.8,0.1,,1402000,"Countryside in Clearwater, Florida"
+geigema01,1995-96,26,Charlotte Hornets,NBA,77,30.5,.536,.727,8.4,0.8,0.6,0.8,11.2,14.2,4.3,.088,-1.9,0.1,,1532000,"Countryside in Clearwater, Florida"
+geigema01,1996-97,27,Charlotte Hornets,NBA,49,21.3,.489,.701,5.3,0.8,0.4,0.6,8.9,14.3,1.9,.085,-2.9,-0.2,,1562000,"Countryside in Clearwater, Florida"
+geigema01,1997-98,28,Charlotte Hornets,NBA,78,23.6,.505,.712,6.7,1.0,0.9,1.1,11.3,20.2,5.9,.154,1.2,1.5,,1402000,"Countryside in Clearwater, Florida"
+geigema01,1998-99,29,Philadelphia 76ers,NBA,50,30.8,.479,.797,7.2,1.2,0.8,0.8,13.5,17.1,4.7,.147,0.3,0.9,,6800000,"Countryside in Clearwater, Florida"
+geigema01,1999-00,30,Philadelphia 76ers,NBA,65,21.6,.441,.779,6.0,0.6,0.4,0.3,9.7,13.9,2.6,.088,-3.6,-0.6,,6889520,"Countryside in Clearwater, Florida"
+geigema01,2000-01,31,Philadelphia 76ers,NBA,35,15.5,.393,.685,4.0,0.4,0.3,0.2,6.1,11.5,0.7,.065,-5.5,-0.5,,7515840,"Countryside in Clearwater, Florida"
+geigema01,2001-02,32,Philadelphia 76ers,NBA,4,9.0,.125,.500,1.5,0.0,0.0,0.5,0.8,-1.6,-0.1,-0.145,-13.7,-0.1,,8142160,"Countryside in Clearwater, Florida"

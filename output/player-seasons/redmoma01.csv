@@ -1,3 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-redmoma01,1978-79,23,"KCK,PHI",NBA,53,14.3,.421,.620,2.1,1.1,0.5,0.3,6.7,10.6,0.3,.017,-3.7,-0.3,
-redmoma01,1979-80,24,KCK,NBA,24,12.4,.428,.706,2.2,0.8,0.2,0.4,5.9,12.0,0.3,.051,-4.2,-0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,HS
+redmoma01,1978-79,23,"KCK,PHI",NBA,53,14.3,.421,.620,2.1,1.1,0.5,0.3,6.7,10.6,0.3,.017,-3.7,-0.3,,"Balboa in San Francisco, California"
+redmoma01,1979-80,24,KCK,NBA,24,12.4,.428,.706,2.2,0.8,0.2,0.4,5.9,12.0,0.3,.051,-4.2,-0.2,,"Balboa in San Francisco, California"
