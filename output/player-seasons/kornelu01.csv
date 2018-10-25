@@ -1,2 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-kornelu01,2017-18,22,NYK,NBA,20,16.3,.392,.727,3.2,1.3,0.3,0.8,6.7,13.6,0.5,.077,0.2,0.2,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+kornelu01,2017-18,22,New York Knicks,NBA,20,16.3,.392,.727,3.2,1.3,0.3,0.8,6.7,13.6,0.5,.077,0.2,0.2,,
+kornelu01,2018-19,23,NYK,NBA,1,6.0,.000,,0.0,1.0,0.0,0.0,0.0,-9.7,0.0,-0.330,-21.0,0.0,,

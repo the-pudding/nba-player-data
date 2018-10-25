@@ -24,8 +24,12 @@ const USE = {
 	advanced: ['Season', 'Tm', 'PER', 'WS', 'WS/48', 'BPM', 'VORP']
 };
 
+// const data = d3.csvParse(
+// 	fs.readFileSync('./output/all-players--joined.csv', 'utf-8')
+// );
+
 const data = d3.csvParse(
-	fs.readFileSync('./output/all-players--joined.csv', 'utf-8')
+	fs.readFileSync('./output/all-players--bbr.csv', 'utf-8')
 );
 
 function getValues($, tr, cols, bbrID) {
@@ -229,19 +233,19 @@ function joinStats(basic, advanced, award, salary) {
 }
 
 function getSeasons(player, i) {
-	console.log(d3.format('.1%')(i / data.length), i, player.bbrID);
-	const file = fs.readFileSync(
-		`./output/player-pages/${player.bbrID}.html`,
-		'utf-8'
-	);
+	const tempID = player.link.replace('/players/', '').replace('.html', '');
+	const bbrID = tempID.split('/')[1];
+
+	console.log(d3.format('.1%')(i / data.length), i, bbrID);
+	const file = fs.readFileSync(`./output/player-pages/${bbrID}.html`, 'utf-8');
 	const $ = cheerio.load(file);
 
 	const basic = $.html('#all_per_game');
-	const basicStats = getSeasonStats(player.bbrID, basic, 'basic');
+	const basicStats = getSeasonStats(bbrID, basic, 'basic');
 
 	// SUPER hacky to convert comments into html but it works
 	const advanced = getAdvancedHTML($);
-	const advancedStats = getSeasonStats(player.bbrID, advanced, 'advanced');
+	const advancedStats = getSeasonStats(bbrID, advanced, 'advanced');
 
 	// SUPER hacky to convert comments into html but it works
 	const awards = getAwardHTML($);
@@ -271,7 +275,7 @@ function getSeasons(player, i) {
 	);
 
 	const csv = d3.csvFormat(mergerStats);
-	fs.writeFileSync(`./output/player-seasons/${player.bbrID}.csv`, csv);
+	fs.writeFileSync(`./output/player-seasons/${bbrID}.csv`, csv);
 }
 
 data.forEach(getSeasons);

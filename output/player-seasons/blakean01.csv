@@ -1,2 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-blakean01,2017-18,21,CHI,NBA,19,16.5,.371,.769,1.7,1.1,0.4,0.1,7.9,10.1,0.0,-0.006,-6.8,-0.4,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+blakean01,2017-18,21,Chicago Bulls,NBA,19,16.5,.371,.769,1.7,1.1,0.4,0.1,7.9,10.1,0.0,-0.006,-6.8,-0.4,,
+blakean01,2018-19,22,CHI,NBA,4,16.3,.500,.500,2.3,0.8,0.3,0.0,8.0,13.3,0.0,.027,-6.3,-0.1,,

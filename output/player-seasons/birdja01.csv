@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-birdja01,2017-18,23,BOS,NBA,13,8.8,.577,.462,1.5,0.6,0.2,0.1,3.0,12.1,0.2,.098,-2.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+birdja01,2017-18,23,Boston Celtics,NBA,13,8.8,.577,.462,1.5,0.6,0.2,0.1,3.0,12.1,0.2,.098,-2.1,0.0,,

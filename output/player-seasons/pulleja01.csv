@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-pulleja01,2017-18,28,PHI,NBA,3,2.0,.500,,0.0,0.0,0.0,0.0,0.7,-2.3,0.0,-0.210,-15.2,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+pulleja01,2017-18,28,Philadelphia 76ers,NBA,3,2.0,.500,,0.0,0.0,0.0,0.0,0.7,-2.3,0.0,-0.210,-15.2,0.0,,

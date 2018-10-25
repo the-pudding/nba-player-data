@@ -1,2 +1,3 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mckinal01,2017-18,25,TOR,NBA,14,3.8,.533,.667,0.5,0.1,0.1,0.1,1.5,10.1,0.1,.084,-3.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+mckinal01,2017-18,25,Toronto Raptors,NBA,14,3.8,.533,.667,0.5,0.1,0.1,0.1,1.5,10.1,0.1,.084,-3.1,0.0,,815615
+mckinal01,2018-19,26,GSW,NBA,5,8.4,.417,.500,2.6,0.0,0.2,0.0,2.6,8.5,0.1,.074,-8.5,-0.1,,

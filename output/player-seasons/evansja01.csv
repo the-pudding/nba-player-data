@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-evansja01,2017-18,21,LAC,NBA,48,16.2,.352,.776,1.8,2.1,0.8,0.1,4.8,7.2,-0.2,-0.011,-4.7,-0.5,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+evansja01,2017-18,21,Los Angeles Clippers,NBA,48,16.2,.352,.776,1.8,2.1,0.8,0.1,4.8,7.2,-0.2,-0.011,-4.7,-0.5,,815615

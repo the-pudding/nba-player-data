@@ -1,5 +1,5 @@
 name,link,year_from,year_to,college,active
-Ivan Rabb,/players/r/rabbiv01.html,2018,2018,University of California,true
+Ivan Rabb,/players/r/rabbiv01.html,2018,2019,University of California,true
 Mark Radford,/players/r/radfoma01.html,1982,1983,Oregon State University,false
 Wayne Radford,/players/r/radfowa01.html,1979,1979,Indiana University,false
 Dino Radja,/players/r/radjadi01.html,1994,1997,,false
@@ -12,7 +12,7 @@ Kurt Rambis,/players/r/rambiku01.html,1982,1995,Santa Clara University,false
 Peter John Ramos,/players/r/ramospe01.html,2005,2005,,false
 Mark Randall,/players/r/randama01.html,1992,1995,University of Kansas,false
 Chasson Randle,/players/r/randlch01.html,2017,2017,Stanford University,true
-Julius Randle,/players/r/randlju01.html,2015,2018,University of Kentucky,true
+Julius Randle,/players/r/randlju01.html,2015,2019,University of Kentucky,true
 Anthony Randolph,/players/r/randoan01.html,2009,2014,Louisiana State University,false
 Shavlik Randolph,/players/r/randosh01.html,2006,2015,Duke University,false
 Zach Randolph,/players/r/randoza01.html,2002,2018,Michigan State University,true
@@ -30,7 +30,7 @@ James Ray,/players/r/rayja01.html,1981,1983,Jacksonville University,false
 Zeljko Rebraca,/players/r/rebraze01.html,2002,2006,,false
 Eldridge Recasner,/players/r/recasel01.html,1995,2002,University of Washington,false
 Michael Redd,/players/r/reddmi01.html,2001,2012,Ohio State University,false
-J.J. Redick,/players/r/redicjj01.html,2007,2018,Duke University,true
+J.J. Redick,/players/r/redicjj01.html,2007,2019,Duke University,true
 Marlon Redmond,/players/r/redmoma01.html,1979,1980,University of San Francisco,false
 Davon Reed,/players/r/reedda01.html,2018,2018,University of Miami,true
 Justin Reed,/players/r/reedju01.html,2005,2007,University of Mississippi,false
@@ -56,8 +56,8 @@ Chris Richard,/players/r/richach01.html,2008,2010,University of Florida,false
 Clint Richardson,/players/r/richacl01.html,1980,1987,Seattle University,false
 Jason Richardson,/players/r/richaja01.html,2002,2015,Michigan State University,false
 Jeremy Richardson,/players/r/richaje01.html,2007,2009,Delta State University,false
-Josh Richardson,/players/r/richajo01.html,2016,2018,University of Tennessee,true
-Malachi Richardson,/players/r/richama01.html,2017,2018,Syracuse University,true
+Josh Richardson,/players/r/richajo01.html,2016,2019,University of Tennessee,true
+Malachi Richardson,/players/r/richama01.html,2017,2019,Syracuse University,true
 Micheal Ray Richardson,/players/r/richami01.html,1979,1986,University of Montana,false
 Norm Richardson,/players/r/richano01.html,2002,2002,Hofstra University,false
 Pooh Richardson,/players/r/richapo01.html,1990,1999,"University of California, Los Angeles",false
@@ -69,7 +69,7 @@ Antoine Rigaudeau,/players/r/rigauan01.html,2003,2003,,false
 Eric Riley,/players/r/rileyer01.html,1994,1999,University of Michigan,false
 Mike Riordan,/players/r/riordmi01.html,1969,1977,Providence College,false
 Ramon Rivas,/players/r/rivasra01.html,1989,1989,Temple University,false
-Austin Rivers,/players/r/riverau01.html,2013,2018,Duke University,true
+Austin Rivers,/players/r/riverau01.html,2013,2019,Duke University,true
 David Rivers,/players/r/riverda01.html,1989,1992,University of Notre Dame,false
 Doc Rivers,/players/r/riverdo01.html,1984,1996,Marquette University,false
 Andre Roberson,/players/r/roberan03.html,2014,2018,University of Colorado,true
@@ -90,13 +90,16 @@ Chris Robinson,/players/r/robinch01.html,1997,1998,Western Kentucky University,f
 Cliff Robinson,/players/r/robincl01.html,1980,1992,University of Southern California,false
 Clifford Robinson,/players/r/robincl02.html,1990,2007,University of Connecticut,false
 David Robinson,/players/r/robinda01.html,1990,2003,United States Naval Academy,false
+Devin Robinson,/players/r/robinde01.html,2018,2018,University of Florida,true
+Duncan Robinson,/players/r/robindu01.html,2019,2019,University of Michigan,true
 Eddie Robinson,/players/r/robined01.html,2000,2004,University of Central Oklahoma,false
 Glenn Robinson,/players/r/robingl01.html,1995,2005,Purdue University,false
-Glenn Robinson,/players/r/robingl02.html,2015,2018,University of Michigan,true
+Glenn Robinson,/players/r/robingl02.html,2015,2019,University of Michigan,true
 Jackie Robinson,/players/r/robinja01.html,1979,1982,"University of Nevada, Las Vegas",false
 Jamal Robinson,/players/r/robinja03.html,2001,2001,University of Virginia,false
 James Robinson,/players/r/robinja02.html,1994,2001,University of Alabama,false
 Larry Robinson,/players/r/robinla01.html,1991,2002,Centenary College of Louisiana,false
+Mitchell Robinson,/players/r/robinmi01.html,2019,2019,,true
 Nate Robinson,/players/r/robinna01.html,2006,2016,University of Washington,false
 Oliver Robinson,/players/r/robinol01.html,1983,1983,University of Alabama at Birmingham,false
 Rumeal Robinson,/players/r/robinru01.html,1991,1997,University of Michigan,false
@@ -116,14 +119,14 @@ Rodney Rogers,/players/r/rogerro01.html,1994,2005,Wake Forest University,false
 Roy Rogers,/players/r/rogerro02.html,1997,2000,University of Alabama,false
 Tree Rollins,/players/r/rollitr01.html,1978,1995,Clemson University,false
 Lorenzo Romar,/players/r/romarlo01.html,1981,1985,University of Washington,false
-Rajon Rondo,/players/r/rondora01.html,2007,2018,University of Kentucky,true
+Rajon Rondo,/players/r/rondora01.html,2007,2019,University of Kentucky,true
 Sean Rooks,/players/r/rooksse01.html,1993,2004,University of Arizona,false
-Derrick Rose,/players/r/rosede01.html,2009,2018,University of Memphis,true
+Derrick Rose,/players/r/rosede01.html,2009,2019,University of Memphis,true
 Jalen Rose,/players/r/roseja01.html,1995,2007,University of Michigan,false
 Malik Rose,/players/r/rosema01.html,1997,2009,Drexel University,false
 Rob Rose,/players/r/rosero01.html,1989,1989,George Mason University,false
 Quinton Ross,/players/r/rossqu01.html,2005,2011,Southern Methodist University,false
-Terrence Ross,/players/r/rosste01.html,2013,2018,University of Washington,true
+Terrence Ross,/players/r/rosste01.html,2013,2019,University of Washington,true
 Doug Roth,/players/r/rothdo01.html,1990,1990,University of Tennessee,false
 Scott Roth,/players/r/rothsc01.html,1988,1990,University of Wisconsin,false
 Dan Roundfield,/players/r/roundda01.html,1976,1987,Central Michigan University,false
@@ -135,8 +138,8 @@ Brian Rowsom,/players/r/rowsobr01.html,1988,1990,University of North Carolina at
 Brandon Roy,/players/r/roybr01.html,2007,2013,University of Washington,false
 Donald Royal,/players/r/royaldo01.html,1990,1998,University of Notre Dame,false
 Clifford Rozier,/players/r/roziecl01.html,1995,1998,"University of North Carolina, University of Louisville",false
-Terry Rozier,/players/r/roziete01.html,2016,2018,University of Louisville,true
-Ricky Rubio,/players/r/rubiori01.html,2012,2018,,true
+Terry Rozier,/players/r/roziete01.html,2016,2019,University of Louisville,true
+Ricky Rubio,/players/r/rubiori01.html,2012,2019,,true
 Guy Rucker,/players/r/ruckegu01.html,2003,2003,University of Iowa,false
 Delaney Rudd,/players/r/ruddde01.html,1990,1993,Wake Forest University,false
 John Rudd,/players/r/ruddjo01.html,1979,1979,McNeese State University,false
@@ -150,6 +153,6 @@ Kareem Rush,/players/r/rushka01.html,2003,2010,University of Missouri,false
 Bryon Russell,/players/r/russebr01.html,1994,2006,"California State University, Long Beach",false
 Campy Russell,/players/r/russeca02.html,1975,1985,University of Michigan,false
 Cazzie Russell,/players/r/russeca01.html,1967,1978,University of Michigan,false
-D'Angelo Russell,/players/r/russeda01.html,2016,2018,Ohio State University,true
+D'Angelo Russell,/players/r/russeda01.html,2016,2019,Ohio State University,true
 Walker Russell,/players/r/russewa01.html,1983,1988,"University of Houston, Western Michigan University",false
 Walker Russell,/players/r/russewa02.html,2012,2012,Jacksonville State University,false

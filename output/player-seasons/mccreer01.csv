@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-mccreer01,2017-18,24,UTA,NBA,4,2.0,.000,,0.3,0.0,0.3,0.0,0.0,-8.9,-0.1,-0.334,-14.7,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+mccreer01,2017-18,24,Utah Jazz,NBA,4,2.0,.000,,0.3,0.0,0.3,0.0,0.0,-8.9,-0.1,-0.334,-14.7,0.0,,

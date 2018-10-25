@@ -9,6 +9,7 @@
     "all-players--joined": "babel-node scripts/all-players--joined.js",
     "download-player-page": "babel-node scripts/download-player-page.js",
     "player-seasons": "babel-node scripts/player-seasons.js",
+    "player-rsci": "babel-node scripts/player-rsci.js",
     "nba-seasons-adv": "babel-node scripts/nba-seasons-adv.js",
     "player-seasons--rank": "babel-node scripts/player-seasons--rank.js"
   },
@@ -30,7 +31,7 @@
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-prettier": "^2.1.2",
     "lodash.uniqby": "^4.7.0",
-    "nba.js": "^0.5.0",
+    "nba.js": "0.6.1",
     "request": "^2.81.0",
     "shelljs": "^0.7.8"
   },

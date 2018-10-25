@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-willima05,2017-18,24,MIA,NBA,3,3.7,.333,,0.3,0.0,0.0,0.0,1.7,-0.7,0.0,-0.197,-17.1,0.0,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+willima05,2017-18,24,Miami Heat,NBA,3,3.7,.333,,0.3,0.0,0.0,0.0,1.7,-0.7,0.0,-0.197,-17.1,0.0,,

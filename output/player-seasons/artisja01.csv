@@ -1,2 +1,2 @@
-bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award
-artisja01,2017-18,25,ORL,NBA,15,18.6,.392,.583,2.5,1.2,0.1,0.2,5.1,6.9,0.0,-0.006,-5.9,-0.3,
+bbrID,Season,Age,Tm,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,PER,WS,WS/48,BPM,VORP,Award,Salary
+artisja01,2017-18,25,Orlando Magic,NBA,15,18.6,.392,.583,2.5,1.2,0.1,0.2,5.1,6.9,0.0,-0.006,-5.9,-0.3,,
