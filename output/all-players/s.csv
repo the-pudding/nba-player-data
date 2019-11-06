@@ -1,259 +1,263 @@
 name,link,year_from,year_to,college,active
 Arvydas Sabonis,/players/s/sabonar01.html,1996,2003,,false
-Domantas Sabonis,/players/s/sabondo01.html,2017,2019,Gonzaga University,true
-Robert Sacre,/players/s/sacrero01.html,2013,2016,Gonzaga University,false
-John Salley,/players/s/sallejo01.html,1987,2000,Georgia Institute of Technology,false
-John Salmons,/players/s/salmojo01.html,2003,2015,University of Miami,false
-Kevin Salvadori,/players/s/salvake01.html,1997,1998,University of North Carolina,false
+Domantas Sabonis,/players/s/sabondo01.html,2017,2019,Gonzaga,true
+Robert Sacre,/players/s/sacrero01.html,2013,2016,Gonzaga,false
+John Salley,/players/s/sallejo01.html,1987,2000,Georgia Tech,false
+John Salmons,/players/s/salmojo01.html,2003,2015,Miami (FL),false
+Kevin Salvadori,/players/s/salvake01.html,1997,1998,UNC,false
 Soumaila Samake,/players/s/samakso01.html,2001,2003,,false
 Cheikh Samb,/players/s/sambch01.html,2008,2009,,false
-JaKarr Sampson,/players/s/sampsja02.html,2015,2018,St. John's University,true
-Jamal Sampson,/players/s/sampsja01.html,2003,2007,University of California,false
-Ralph Sampson,/players/s/sampsra01.html,1984,1992,University of Virginia,false
-Samardo Samuels,/players/s/samuesa01.html,2011,2013,University of Louisville,false
-Pepe Sanchez,/players/s/sanchpe01.html,2001,2003,Temple University,false
+Brandon Sampson,/players/s/sampsbr01.html,2019,2019,LSU,true
+JaKarr Sampson,/players/s/sampsja02.html,2015,2019,St. John's,true
+Jamal Sampson,/players/s/sampsja01.html,2003,2007,Cal,false
+Ralph Sampson,/players/s/sampsra01.html,1984,1992,Virginia,false
+Samardo Samuels,/players/s/samuesa01.html,2011,2013,Louisville,false
+Pepe Sánchez,/players/s/sanchpe01.html,2001,2003,Temple,false
 Frankie Sanders,/players/s/sandefr01.html,1979,1981,Southern University and A&M College,false
 Jeff Sanders,/players/s/sandeje01.html,1990,1993,Georgia Southern University,false
-Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth University,false
-Melvin Sanders,/players/s/sandeme01.html,2006,2006,"Seward County Community College, Oklahoma State University",false
-Mike Sanders,/players/s/sandemi01.html,1983,1993,"University of California, Los Angeles",false
-Daniel Santiago,/players/s/santida01.html,2001,2005,"University of New Mexico, Saint Vincent College",false
-Wayne Sappleton,/players/s/sapplwa01.html,1985,1985,Loyola University of Chicago,false
-Dario Saric,/players/s/saricda01.html,2017,2019,,true
-Jason Sasser,/players/s/sasseja01.html,1997,1999,Texas Tech University,false
-Jeryl Sasser,/players/s/sasseje01.html,2002,2003,Southern Methodist University,false
-Tomas Satoransky,/players/s/satorto01.html,2017,2019,,true
-Kenny Satterfield,/players/s/satteke01.html,2002,2003,University of Cincinnati,false
-Fred Saunders,/players/s/saundfr01.html,1975,1978,Syracuse University,false
-Predrag Savovic,/players/s/savovpr01.html,2003,2003,"University of Alabama at Birmingham, University of Hawaii",false
-Brian Scalabrine,/players/s/scalabr01.html,2002,2012,University of Southern California,false
-Alex Scales,/players/s/scaleal01.html,2006,2006,University of Oregon,false
-DeWayne Scales,/players/s/scalede01.html,1981,1984,Louisiana State University,false
-Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse University,false
-Steve Scheffler,/players/s/schefst01.html,1991,1997,Purdue University,false
-Tom Scheffler,/players/s/schefto01.html,1985,1985,Purdue University,false
-Luke Schenscher,/players/s/schenlu01.html,2006,2007,Georgia Institute of Technology,false
-Dwayne Schintzius,/players/s/schindw01.html,1991,1999,University of Florida,false
-Dale Schlueter,/players/s/schluda01.html,1969,1978,Colorado State University,false
-Russ Schoene,/players/s/schoeru01.html,1983,1989,University of Tennessee at Chattanooga,false
-Detlef Schrempf,/players/s/schrede01.html,1986,2001,University of Washington,false
-Dennis Schroder,/players/s/schrode01.html,2014,2019,,true
+Larry Sanders,/players/s/sandela01.html,2011,2017,Virginia Commonwealth,false
+Melvin Sanders,/players/s/sandeme01.html,2006,2006,"Seward County Community College, Oklahoma State",false
+Mike Sanders,/players/s/sandemi01.html,1983,1993,UCLA,false
+Daniel Santiago,/players/s/santida01.html,2001,2005,"New Mexico, Saint Vincent College",false
+Wayne Sappleton,/players/s/sapplwa01.html,1985,1985,Loyola Chicago,false
+Dario Šarić,/players/s/saricda01.html,2017,2019,,true
+Jason Sasser,/players/s/sasseja01.html,1997,1999,Texas Tech,false
+Jeryl Sasser,/players/s/sasseje01.html,2002,2003,SMU,false
+Tomáš Satoranský,/players/s/satorto01.html,2017,2019,,true
+Kenny Satterfield,/players/s/satteke01.html,2002,2003,Cincinnati,false
+Fred Saunders,/players/s/saundfr01.html,1975,1978,Syracuse,false
+Predrag Savović,/players/s/savovpr01.html,2003,2003,"University of Alabama at Birmingham, University of Hawaii",false
+Brian Scalabrine,/players/s/scalabr01.html,2002,2012,USC,false
+Alex Scales,/players/s/scaleal01.html,2006,2006,Oregon,false
+DeWayne Scales,/players/s/scalede01.html,1981,1984,LSU,false
+Danny Schayes,/players/s/schayda01.html,1982,1999,Syracuse,false
+Steve Scheffler,/players/s/schefst01.html,1991,1997,Purdue,false
+Tom Scheffler,/players/s/schefto01.html,1985,1985,Purdue,false
+Luke Schenscher,/players/s/schenlu01.html,2006,2007,Georgia Tech,false
+Dwayne Schintzius,/players/s/schindw01.html,1991,1999,Florida,false
+Dale Schlueter,/players/s/schluda01.html,1969,1978,Colorado State,false
+Russ Schoene,/players/s/schoeru01.html,1983,1989,Chattanooga,false
+Detlef Schrempf,/players/s/schrede01.html,1986,2001,Washington,false
+Dennis Schröder,/players/s/schrode01.html,2014,2019,,true
 John Schweitz,/players/s/schwejo01.html,1985,1987,University of Richmond,false
 Luis Scola,/players/s/scolalu01.html,2008,2017,,false
-Alvin Scott,/players/s/scottal01.html,1978,1985,Oral Roberts University,false
+Alvin Scott,/players/s/scottal01.html,1978,1985,Oral Roberts,false
 Brent Scott,/players/s/scottbr01.html,1997,1997,Rice University,false
-Byron Scott,/players/s/scottby01.html,1984,1997,Arizona State University,false
-Charlie Scott,/players/s/scottch01.html,1971,1980,University of North Carolina,false
-Dennis Scott,/players/s/scottde01.html,1991,2000,Georgia Institute of Technology,false
-James Scott,/players/s/scottja01.html,1997,1997,St. John's University,false
-Mike Scott,/players/s/scottmi01.html,2013,2019,University of Virginia,true
-Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's University,false
+Byron Scott,/players/s/scottby01.html,1984,1997,Arizona State,false
+Charlie Scott,/players/s/scottch01.html,1971,1980,UNC,false
+Dennis Scott,/players/s/scottde01.html,1991,2000,Georgia Tech,false
+James Scott,/players/s/scottja01.html,1997,1997,St. John's,false
+Mike Scott,/players/s/scottmi01.html,2013,2019,Virginia,true
+Shawnelle Scott,/players/s/scottsh01.html,1997,2002,St. John's,false
 Carey Scurry,/players/s/scurrca01.html,1986,1988,Long Island University,false
 Bruce Seals,/players/s/sealsbr01.html,1974,1978,Xavier University of Louisiana,false
-Shea Seals,/players/s/sealssh01.html,1998,1998,University of Tulsa,false
-Malik Sealy,/players/s/sealyma01.html,1993,2000,St. John's University,false
-Thabo Sefolosha,/players/s/sefolth01.html,2007,2018,,true
-Rony Seikaly,/players/s/seikaro01.html,1989,1999,Syracuse University,false
-Josh Selby,/players/s/selbyjo01.html,2012,2013,University of Kansas,false
-Wayne Selden,/players/s/seldewa01.html,2017,2019,University of Kansas,true
-Brad Sellers,/players/s/sellebr01.html,1987,1993,"University of Wisconsin, Ohio State University",false
+Shea Seals,/players/s/sealssh01.html,1998,1998,Tulsa,false
+Malik Sealy,/players/s/sealyma01.html,1993,2000,St. John's,false
+Thabo Sefolosha,/players/s/sefolth01.html,2007,2019,,true
+Rony Seikaly,/players/s/seikaro01.html,1989,1999,Syracuse,false
+Josh Selby,/players/s/selbyjo01.html,2012,2013,Kansas,false
+Wayne Selden,/players/s/seldewa01.html,2017,2019,Kansas,true
+Brad Sellers,/players/s/sellebr01.html,1987,1993,"Wisconsin, Ohio State",false
 Phil Sellers,/players/s/selleph01.html,1977,1977,Rutgers University,false
 Mouhamed Sene,/players/s/senesa01.html,2007,2009,,false
-Kevin Seraphin,/players/s/serapke01.html,2011,2017,,true
+Kevin Séraphin,/players/s/serapke01.html,2011,2017,,true
 Ansu Sesay,/players/s/sesayan01.html,2002,2005,University of Mississippi,false
-Ramon Sessions,/players/s/sessira01.html,2008,2018,"University of Nevada, Reno",true
+Ramon Sessions,/players/s/sessira01.html,2008,2018,Nevada,true
 Ha Seung-Jin,/players/s/seungha01.html,2005,2006,,false
 Tom Sewell,/players/s/sewelto01.html,1985,1985,Lamar University,false
-Collin Sexton,/players/s/sextoco01.html,2019,2019,University of Alabama,true
-Charles Shackleford,/players/s/shackch01.html,1989,1999,North Carolina State University,false
-Mustafa Shakur,/players/s/shakumu01.html,2011,2014,University of Arizona,false
-Landry Shamet,/players/s/shamela01.html,2019,2019,Wichita State University,true
-God Shammgod,/players/s/shammgo01.html,1998,1998,Providence College,false
-Walter Sharpe,/players/s/sharpwa01.html,2009,2009,"Mississippi State University, University of Alabama at Birmingham",false
-John Shasky,/players/s/shaskjo01.html,1989,1991,University of Minnesota,false
-Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's College of California, University of California, Santa Barbara",false
+Collin Sexton,/players/s/sextoco01.html,2019,2019,Alabama,true
+Charles Shackleford,/players/s/shackch01.html,1989,1999,NC State,false
+Mustafa Shakur,/players/s/shakumu01.html,2011,2014,Arizona,false
+Landry Shamet,/players/s/shamela01.html,2019,2019,Wichita State,true
+God Shammgod,/players/s/shammgo01.html,1998,1998,Providence,false
+Walter Sharpe,/players/s/sharpwa01.html,2009,2009,"Mississippi State, University of Alabama at Birmingham",false
+John Shasky,/players/s/shaskjo01.html,1989,1991,Minnesota,false
+Brian Shaw,/players/s/shawbr01.html,1989,2003,"Saint Mary's, University of California, Santa Barbara",false
 Casey Shaw,/players/s/shawca01.html,1999,1999,University of Toledo,false
-Craig Shelton,/players/s/sheltcr01.html,1981,1982,Georgetown University,false
-Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State University,false
+Craig Shelton,/players/s/sheltcr01.html,1981,1982,Georgetown,false
+Lonnie Shelton,/players/s/sheltlo01.html,1977,1986,Oregon State,false
 Tornike Shengelia,/players/s/shengto01.html,2013,2014,,false
-Jeffrey Sheppard,/players/s/sheppje01.html,1999,1999,University of Kentucky,false
-Steve Sheppard,/players/s/sheppst01.html,1978,1979,University of Maryland,false
-Ed Sherod,/players/s/sheroed01.html,1983,1983,Virginia Commonwealth University,false
-Paul Shirley,/players/s/shirlpa01.html,2003,2005,Iowa State University,false
+Jeff Sheppard,/players/s/sheppje01.html,1999,1999,Kentucky,false
+Steve Sheppard,/players/s/sheppst01.html,1978,1979,Maryland,false
+Ed Sherod,/players/s/sheroed01.html,1983,1983,Virginia Commonwealth,false
+Paul Shirley,/players/s/shirlpa01.html,2003,2005,Iowa State,false
 Purvis Short,/players/s/shortpu01.html,1979,1990,Jackson State University,false
 Dexter Shouse,/players/s/shousde01.html,1990,1990,University of South Alabama,false
-John Shumate,/players/s/shumajo01.html,1976,1981,University of Notre Dame,false
-Iman Shumpert,/players/s/shumpim01.html,2012,2019,Georgia Institute of Technology,true
+John Shumate,/players/s/shumajo01.html,1976,1981,Notre Dame,false
+Iman Shumpert,/players/s/shumpim01.html,2012,2019,Georgia Tech,true
 Alexey Shved,/players/s/shvedal01.html,2013,2015,,false
-Pascal Siakam,/players/s/siakapa01.html,2017,2019,New Mexico State University,true
-Jerry Sichting,/players/s/sichtje01.html,1981,1990,Purdue University,false
+Pascal Siakam,/players/s/siakapa01.html,2017,2019,New Mexico State,true
+Jordan Sibert,/players/s/siberjo01.html,2019,2019,"Ohio State, Dayton",true
+Jerry Sichting,/players/s/sichtje01.html,1981,1990,Purdue,false
 Jack Sikma,/players/s/sikmaja01.html,1978,1991,Illinois Wesleyan University,false
 James Silas,/players/s/silasja01.html,1973,1982,Stephen F. Austin State University,false
-Paul Silas,/players/s/silaspa01.html,1965,1980,Creighton University,false
-Xavier Silas,/players/s/silasxa01.html,2012,2018,"University of Colorado, Northern Illinois University",true
+Paul Silas,/players/s/silaspa01.html,1965,1980,Creighton,false
+Xavier Silas,/players/s/silasxa01.html,2012,2018,"Colorado, Northern Illinois",true
 Garret Siler,/players/s/silerga01.html,2011,2011,Augusta State University,false
-Wayne Simien,/players/s/simiewa01.html,2006,2007,University of Kansas,false
-Ben Simmons,/players/s/simmobe01.html,2018,2019,Louisiana State University,true
-Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul University,false
-Cedric Simmons,/players/s/simmoce01.html,2007,2009,North Carolina State University,false
-Jonathon Simmons,/players/s/simmojo02.html,2016,2019,University of Houston,true
-Kobi Simmons,/players/s/simmoko01.html,2018,2018,University of Arizona,true
-Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle University,false
-Miles Simon,/players/s/simonmi01.html,1999,1999,University of Arizona,false
-Dickey Simpkins,/players/s/simpkdi01.html,1995,2002,Providence College,false
-Ralph Simpson,/players/s/simpsra01.html,1971,1980,Michigan State University,false
-Alvin Sims,/players/s/simsal01.html,1999,1999,University of Louisville,false
-Courtney Sims,/players/s/simsco01.html,2008,2009,University of Michigan,false
-Henry Sims,/players/s/simshe01.html,2013,2016,Georgetown University,false
-Scott Sims,/players/s/simssc01.html,1978,1978,University of Missouri,false
-Kyle Singler,/players/s/singlky01.html,2013,2018,Duke University,true
-Sean Singletary,/players/s/singlse01.html,2009,2009,University of Virginia,false
-Chris Singleton,/players/s/singlch01.html,2012,2014,Florida State University,false
-James Singleton,/players/s/singlja01.html,2006,2012,Murray State University,false
+Wayne Simien,/players/s/simiewa01.html,2006,2007,Kansas,false
+Ben Simmons,/players/s/simmobe01.html,2018,2019,LSU,true
+Bobby Simmons,/players/s/simmobo01.html,2002,2012,DePaul,false
+Cedric Simmons,/players/s/simmoce01.html,2007,2009,NC State,false
+Jonathon Simmons,/players/s/simmojo02.html,2016,2019,Houston,true
+Kobi Simmons,/players/s/simmoko01.html,2018,2019,Arizona,true
+Lionel Simmons,/players/s/simmoli01.html,1991,1997,La Salle,false
+Miles Simon,/players/s/simonmi01.html,1999,1999,Arizona,false
+Anfernee Simons,/players/s/simonan01.html,2019,2019,,true
+Dickey Simpkins,/players/s/simpkdi01.html,1995,2002,Providence,false
+Ralph Simpson,/players/s/simpsra01.html,1971,1980,Michigan State,false
+Alvin Sims,/players/s/simsal01.html,1999,1999,Louisville,false
+Courtney Sims,/players/s/simsco01.html,2008,2009,Michigan,false
+Henry Sims,/players/s/simshe01.html,2013,2016,Georgetown,false
+Scott Sims,/players/s/simssc01.html,1978,1978,Missouri,false
+Kyle Singler,/players/s/singlky01.html,2013,2018,Duke,true
+Sean Singletary,/players/s/singlse01.html,2009,2009,Virginia,false
+Chris Singleton,/players/s/singlch01.html,2012,2014,Florida State,false
+James Singleton,/players/s/singlja01.html,2006,2012,Murray State,false
 McKinley Singleton,/players/s/singlmc01.html,1987,1987,University of Alabama at Birmingham,false
-Charlie Sitton,/players/s/sittoch01.html,1985,1985,Oregon State University,false
-Peyton Siva,/players/s/sivape01.html,2014,2014,University of Louisville,false
-Scott Skiles,/players/s/skilesc01.html,1987,1996,Michigan State University,false
-Al Skinner,/players/s/skinnal01.html,1975,1980,University of Massachusetts Amherst,false
-Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor University,false
-Reggie Slater,/players/s/slatere01.html,1995,2003,University of Wyoming,false
+Charlie Sitton,/players/s/sittoch01.html,1985,1985,Oregon State,false
+Peyton Siva,/players/s/sivape01.html,2014,2014,Louisville,false
+Scott Skiles,/players/s/skilesc01.html,1987,1996,Michigan State,false
+Al Skinner,/players/s/skinnal01.html,1975,1980,UMass,false
+Brian Skinner,/players/s/skinnbr01.html,1999,2012,Baylor,false
+Reggie Slater,/players/s/slatere01.html,1995,2003,Wyoming,false
 Jose Slaughter,/players/s/slaugjo01.html,1983,1983,University of Portland,false
-Tamar Slay,/players/s/slayta01.html,2003,2005,Marshall University,false
-Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M University,true
-Uros Slokar,/players/s/slokaur01.html,2007,2007,,false
-Tom Sluby,/players/s/slubyto01.html,1985,1985,University of Notre Dame,false
-Keith Smart,/players/s/smartke01.html,1989,1989,Indiana University,false
-Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State University,true
-Bingo Smith,/players/s/smithbi02.html,1970,1980,University of Tulsa,false
-Charles Smith,/players/s/smithch01.html,1989,1997,University of Pittsburgh,false
-Charles Smith,/players/s/smithch02.html,1990,1996,Georgetown University,false
-Charles Smith,/players/s/smithch04.html,1998,2006,University of New Mexico,false
-Chris Smith,/players/s/smithch03.html,1993,1995,University of Connecticut,false
-Chris Smith,/players/s/smithch05.html,2014,2014,"Manhattan College, University of Louisville",false
-Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State University, Cleveland State University",false
+Tamar Slay,/players/s/slayta01.html,2003,2005,Marshall,false
+Donald Sloan,/players/s/sloando01.html,2012,2016,Texas A&M,false
+Uroš Slokar,/players/s/slokaur01.html,2007,2007,,false
+Tom Sluby,/players/s/slubyto01.html,1985,1985,Notre Dame,false
+Keith Smart,/players/s/smartke01.html,1989,1989,Indiana,false
+Marcus Smart,/players/s/smartma01.html,2015,2019,Oklahoma State,true
+Bingo Smith,/players/s/smithbi02.html,1970,1980,Tulsa,false
+Charles Smith,/players/s/smithch01.html,1989,1997,Pitt,false
+Charles Smith,/players/s/smithch02.html,1990,1996,Georgetown,false
+Charles Smith,/players/s/smithch04.html,1998,2006,New Mexico,false
+Chris Smith,/players/s/smithch03.html,1993,1995,UConn,false
+Chris Smith,/players/s/smithch05.html,2014,2014,"Manhattan College, Louisville",false
+Clinton Smith,/players/s/smithcl01.html,1987,1991,"Ohio State, Cleveland State University",false
 Craig Smith,/players/s/smithcr01.html,2007,2012,Boston College,false
-Dennis Smith,/players/s/smithde03.html,2018,2019,North Carolina State University,true
-Derek Smith,/players/s/smithde02.html,1983,1991,University of Louisville,false
+Dennis Smith,/players/s/smithde03.html,2018,2019,NC State,true
+Derek Smith,/players/s/smithde02.html,1983,1991,Louisville,false
 Donta Smith,/players/s/smithdo04.html,2005,2006,Southeastern Illinois College,false
-Doug Smith,/players/s/smithdo03.html,1992,1996,University of Missouri,false
+Doug Smith,/players/s/smithdo03.html,1992,1996,Missouri,false
 Elmore Smith,/players/s/smithel01.html,1972,1979,Kentucky State University,false
-Greg Smith,/players/s/smithgr02.html,2012,2016,"California State University, Fresno",false
-Ish Smith,/players/s/smithis01.html,2011,2019,Wake Forest University,true
+Greg Smith,/players/s/smithgr02.html,2012,2016,Fresno State,false
+Ish Smith,/players/s/smithis01.html,2011,2019,Wake Forest,true
 J.R. Smith,/players/s/smithjr01.html,2005,2019,,true
-Jabari Smith,/players/s/smithja01.html,2001,2005,Louisiana State University,false
-Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State University,true
-Jerry Smith,/players/s/smithje01.html,2012,2012,University of Louisville,false
-Jim Smith,/players/s/smithji01.html,1982,1983,Ohio State University,false
-Joe Smith,/players/s/smithjo02.html,1996,2011,University of Maryland,false
+Jabari Smith,/players/s/smithja01.html,2001,2005,LSU,false
+Jason Smith,/players/s/smithja02.html,2008,2019,Colorado State,true
+Jerry Smith,/players/s/smithje01.html,2012,2012,Louisville,false
+Jim Smith,/players/s/smithji01.html,1982,1983,Ohio State,false
+Joe Smith,/players/s/smithjo02.html,1996,2011,Maryland,false
 Josh Smith,/players/s/smithjo03.html,2005,2018,,false
 Keith Smith,/players/s/smithke03.html,1987,1987,Loyola Marymount University,false
-Kenny Smith,/players/s/smithke01.html,1988,1997,University of North Carolina,false
-LaBradford Smith,/players/s/smithla02.html,1992,1994,University of Louisville,false
+Kenny Smith,/players/s/smithke01.html,1988,1997,UNC,false
+LaBradford Smith,/players/s/smithla02.html,1992,1994,Louisville,false
 Larry Smith,/players/s/smithla01.html,1981,1993,Alcorn State University,false
 Leon Smith,/players/s/smithle01.html,2002,2004,,false
-Michael Smith,/players/s/smithmi01.html,1990,1995,Brigham Young University,false
-Michael Smith,/players/s/smithmi02.html,1995,2001,Providence College,false
+Michael Smith,/players/s/smithmi01.html,1990,1995,BYU,false
+Michael Smith,/players/s/smithmi02.html,1995,2001,Providence,false
 Mike Smith,/players/s/smithmi03.html,2001,2001,University of Louisiana at Monroe,false
-Nolan Smith,/players/s/smithno01.html,2012,2013,Duke University,false
+Nolan Smith,/players/s/smithno01.html,2012,2013,Duke,false
 Otis Smith,/players/s/smithot01.html,1987,1992,Jacksonville University,false
-Phil Smith,/players/s/smithph01.html,1975,1983,University of San Francisco,false
-Randy Smith,/players/s/smithra01.html,1972,1983,State University of New York College at Buffalo,false
-Reggie Smith,/players/s/smithre01.html,1993,1994,Texas Christian University,false
-Robert Smith,/players/s/smithro01.html,1978,1985,"University of Nevada, Las Vegas",false
-Russ Smith,/players/s/smithru01.html,2015,2016,University of Louisville,false
-Sam Smith,/players/s/smithsa02.html,1979,1980,"University of Nevada, Las Vegas",false
-Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State University,false
-Steven Smith,/players/s/smithst03.html,2007,2007,La Salle University,false
-Stevin Smith,/players/s/smithst02.html,1997,1997,Arizona State University,false
+Phil Smith,/players/s/smithph01.html,1975,1983,San Francisco,false
+Randy Smith,/players/s/smithra01.html,1972,1983,Buffalo State,false
+Reggie Smith,/players/s/smithre01.html,1993,1994,TCU,false
+Robert Smith,/players/s/smithro01.html,1978,1985,UNLV,false
+Russ Smith,/players/s/smithru01.html,2015,2016,Louisville,false
+Sam Smith,/players/s/smithsa02.html,1979,1980,UNLV,false
+Steve Smith,/players/s/smithst01.html,1992,2005,Michigan State,false
+Steven Smith,/players/s/smithst03.html,2007,2007,La Salle,false
+Stevin Smith,/players/s/smithst02.html,1997,1997,Arizona State,false
 Theron Smith,/players/s/smithth01.html,2004,2005,Ball State University,false
-Tony Smith,/players/s/smithto02.html,1991,2001,Marquette University,false
-Willie Smith,/players/s/smithwi02.html,1977,1980,University of Missouri,false
+Tony Smith,/players/s/smithto02.html,1991,2001,Marquette,false
+Willie Smith,/players/s/smithwi02.html,1977,1980,Missouri,false
+Zhaire Smith,/players/s/smithzh01.html,2019,2019,Texas Tech,true
 Rik Smits,/players/s/smitsri01.html,1989,2000,Marist College,false
 Mike Smrek,/players/s/smrekmi01.html,1986,1992,Canisius College,false
-Tony Snell,/players/s/snellto01.html,2014,2019,University of New Mexico,true
-Eric Snow,/players/s/snower01.html,1996,2008,Michigan State University,false
-Dick Snyder,/players/s/snydedi01.html,1967,1979,Davidson College,false
-Kirk Snyder,/players/s/snydeki01.html,2005,2008,"University of Nevada, Reno",false
-Ricky Sobers,/players/s/soberri01.html,1976,1986,"University of Nevada, Las Vegas",false
-Mike Sojourner,/players/s/sojoumi01.html,1975,1977,University of Utah,false
-Will Solomon,/players/s/solomwi01.html,2002,2009,Clemson University,false
-Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest University,false
-James Southerland,/players/s/southja01.html,2014,2014,Syracuse University,false
+Tony Snell,/players/s/snellto01.html,2014,2019,New Mexico,true
+Eric Snow,/players/s/snower01.html,1996,2008,Michigan State,false
+Dick Snyder,/players/s/snydedi01.html,1967,1979,Davidson,false
+Kirk Snyder,/players/s/snydeki01.html,2005,2008,Nevada,false
+Ricky Sobers,/players/s/soberri01.html,1976,1986,UNLV,false
+Mike Sojourner,/players/s/sojoumi01.html,1975,1977,Utah,false
+Will Solomon,/players/s/solomwi01.html,2002,2009,Clemson,false
+Darius Songaila,/players/s/songada01.html,2004,2011,Wake Forest,false
+James Southerland,/players/s/southja01.html,2014,2014,Syracuse,false
 Pape Sow,/players/s/sowpa01.html,2005,2007,"California State University, Fullerton",false
-Ray Spalding,/players/s/spaldra01.html,2019,2019,University of Louisville,true
-Jim Spanarkel,/players/s/spanaji01.html,1980,1984,Duke University,false
+Ray Spalding,/players/s/spaldra01.html,2019,2019,Louisville,true
+Jim Spanarkel,/players/s/spanaji01.html,1980,1984,Duke,false
 Vassilis Spanoulis,/players/s/spanova01.html,2007,2007,,false
-Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova University,false
-Marreese Speights,/players/s/speigma01.html,2009,2018,University of Florida,true
-Omari Spellman,/players/s/spellom01.html,2019,2019,Villanova University,true
+Rory Sparrow,/players/s/sparrro01.html,1981,1992,Villanova,false
+Marreese Speights,/players/s/speigma01.html,2009,2018,Florida,true
+Omari Spellman,/players/s/spellom01.html,2019,2019,Villanova,true
 Andre Spencer,/players/s/spencan01.html,1993,1994,Northern Arizona University,false
-Elmore Spencer,/players/s/spencel01.html,1993,1997,"University of Georgia, University of Nevada, Las Vegas",false
-Felton Spencer,/players/s/spencfe01.html,1991,2002,University of Louisville,false
+Elmore Spencer,/players/s/spencel01.html,1993,1997,"Georgia, UNLV",false
+Felton Spencer,/players/s/spencfe01.html,1991,2002,Louisville,false
 Tiago Splitter,/players/s/splitti01.html,2011,2017,,false
-Latrell Sprewell,/players/s/sprewla01.html,1993,2005,University of Alabama,false
+Latrell Sprewell,/players/s/sprewla01.html,1993,2005,Alabama,false
 Larry Spriggs,/players/s/sprigla01.html,1982,1986,Howard University,false
-Ryan Stack,/players/s/stackry01.html,1999,2000,University of South Carolina,false
-Jerry Stackhouse,/players/s/stackje01.html,1996,2013,University of North Carolina,false
-Kevin Stacom,/players/s/stacoke01.html,1975,1982,"College of the Holy Cross, Providence College",false
-Bud Stallworth,/players/s/stallbu01.html,1973,1977,University of Kansas,false
-Terence Stansbury,/players/s/stanste01.html,1985,1987,Temple University,false
-John Starks,/players/s/starkjo01.html,1989,2002,Oklahoma State University,false
-Keith Starr,/players/s/starrke01.html,1977,1977,University of Pittsburgh,false
-Nik Stauskas,/players/s/stausni01.html,2015,2019,University of Michigan,true
-Larry Steele,/players/s/steella01.html,1972,1980,University of Kentucky,false
-Matt Steigenga,/players/s/steigma01.html,1997,1997,Michigan State University,false
+Ryan Stack,/players/s/stackry01.html,1999,2000,South Carolina,false
+Jerry Stackhouse,/players/s/stackje01.html,1996,2013,UNC,false
+Kevin Stacom,/players/s/stacoke01.html,1975,1982,"Holy Cross, Providence",false
+Bud Stallworth,/players/s/stallbu01.html,1973,1977,Kansas,false
+Terence Stansbury,/players/s/stanste01.html,1985,1987,Temple,false
+John Starks,/players/s/starkjo01.html,1989,2002,Oklahoma State,false
+Keith Starr,/players/s/starrke01.html,1977,1977,Pitt,false
+Nik Stauskas,/players/s/stausni01.html,2015,2019,Michigan,true
+Larry Steele,/players/s/steella01.html,1972,1980,Kentucky,false
+Matt Steigenga,/players/s/steigma01.html,1997,1997,Michigan State,false
 Vladimir Stepania,/players/s/stepavl01.html,1999,2004,,false
-D.J. Stephens,/players/s/stephdj01.html,2014,2014,University of Memphis,false
-Everette Stephens,/players/s/stephev01.html,1989,1991,Purdue University,false
-Joe Stephens,/players/s/stephjo01.html,1997,2000,"University of Colorado, University of Arkansas at Little Rock",false
-Lance Stephenson,/players/s/stephla01.html,2011,2019,University of Cincinnati,true
-Alex Stepheson,/players/s/stephal01.html,2016,2016,"University of North Carolina, University of Southern California",false
-Brook Steppe,/players/s/steppbr01.html,1983,1989,Georgia Institute of Technology,false
-Barry Stevens,/players/s/steveba01.html,1993,1993,Iowa State University,false
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,Memphis,true
+Everette Stephens,/players/s/stephev01.html,1989,1991,Purdue,false
+Joe Stephens,/players/s/stephjo01.html,1997,2000,"Colorado, Little Rock",false
+Lance Stephenson,/players/s/stephla01.html,2011,2019,Cincinnati,true
+Alex Stepheson,/players/s/stephal01.html,2016,2016,"UNC, USC",false
+Brook Steppe,/players/s/steppbr01.html,1983,1989,Georgia Tech,false
+Barry Stevens,/players/s/steveba01.html,1993,1993,Iowa State,false
 DeShawn Stevenson,/players/s/stevede01.html,2001,2013,,false
-Kebu Stewart,/players/s/stewake01.html,1998,1998,"University of Nevada, Las Vegas, California State University, Bakersfield",false
+Kebu Stewart,/players/s/stewake01.html,1998,1998,"UNLV, California State University, Bakersfield",false
 Larry Stewart,/players/s/stewala01.html,1992,1997,Coppin State University,false
-Michael Stewart,/players/s/stewami01.html,1998,2005,University of California,false
-Greg Stiemsma,/players/s/stiemgr01.html,2012,2015,University of Wisconsin,false
-Steve Stipanovich,/players/s/stipast01.html,1984,1988,University of Missouri,false
-Bryant Stith,/players/s/stithbr01.html,1993,2002,University of Virginia,false
-Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton University, University of Colorado",false
-David Stockton,/players/s/stockda01.html,2015,2018,Gonzaga University,true
-John Stockton,/players/s/stockjo01.html,1985,2003,Gonzaga University,false
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false
-Ed Stokes,/players/s/stokeed01.html,1998,1998,University of Arizona,false
-Greg Stokes,/players/s/stokegr01.html,1986,1990,University of Iowa,false
-Jarnell Stokes,/players/s/stokeja01.html,2015,2017,University of Tennessee,true
-Diamond Stone,/players/s/stonedi01.html,2017,2017,University of Maryland,true
-Julyan Stone,/players/s/stoneju01.html,2012,2018,University of Texas at El Paso,true
-Awvee Storey,/players/s/storeaw01.html,2005,2008,"University of Illinois at Urbana-Champaign, Arizona State University",false
-Damon Stoudamire,/players/s/stoudda01.html,1996,2008,University of Arizona,false
-Salim Stoudamire,/players/s/stoudsa01.html,2006,2008,University of Arizona,false
+Michael Stewart,/players/s/stewami01.html,1998,2005,Cal,false
+Greg Stiemsma,/players/s/stiemgr01.html,2012,2015,Wisconsin,false
+Steve Stipanovich,/players/s/stipast01.html,1984,1988,Missouri,false
+Bryant Stith,/players/s/stithbr01.html,1993,2002,Virginia,false
+Alex Stivrins,/players/s/stivral01.html,1986,1993,"Creighton, Colorado",false
+David Stockton,/players/s/stockda01.html,2015,2018,Gonzaga,true
+John Stockton,/players/s/stockjo01.html,1985,2003,Gonzaga,false
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false
+Ed Stokes,/players/s/stokeed01.html,1998,1998,Arizona,false
+Greg Stokes,/players/s/stokegr01.html,1986,1990,Iowa,false
+Jarnell Stokes,/players/s/stokeja01.html,2015,2017,Tennessee,true
+Diamond Stone,/players/s/stonedi01.html,2017,2017,Maryland,true
+Julyan Stone,/players/s/stoneju01.html,2012,2018,Texas-El Paso,true
+Awvee Storey,/players/s/storeaw01.html,2005,2008,"Illinois, Arizona State",false
+Damon Stoudamire,/players/s/stoudda01.html,1996,2008,Arizona,false
+Salim Stoudamire,/players/s/stoudsa01.html,2006,2008,Arizona,false
 Amar'e Stoudemire,/players/s/stoudam01.html,2003,2016,,false
-D.J. Strawberry,/players/s/strawdj01.html,2008,2008,University of Maryland,false
-Erick Strickland,/players/s/stricer01.html,1997,2005,University of Nebraska,false
-Mark Strickland,/players/s/stricma01.html,1995,2003,Temple University,false
-Rod Strickland,/players/s/stricro02.html,1989,2005,DePaul University,false
+D.J. Strawberry,/players/s/strawdj01.html,2008,2008,Maryland,false
+Erick Strickland,/players/s/stricer01.html,1997,2005,Nebraska,false
+Mark Strickland,/players/s/stricma01.html,1995,2003,Temple,false
+Rod Strickland,/players/s/stricro02.html,1989,2005,DePaul,false
 John Stroeder,/players/s/stroejo01.html,1988,1989,University of Montana,false
-Derek Strong,/players/s/stronde01.html,1992,2001,Xavier University,false
+Derek Strong,/players/s/stronde01.html,1992,2001,Xavier,false
 Lamont Strothers,/players/s/strotla01.html,1992,1993,Christopher Newport University,false
 John Stroud,/players/s/stroujo01.html,1981,1981,University of Mississippi,false
 Rodney Stuckey,/players/s/stuckro01.html,2008,2017,Eastern Washington University,false
-Jared Sullinger,/players/s/sullija01.html,2013,2017,Ohio State University,true
-DaJuan Summers,/players/s/summeda01.html,2010,2013,Georgetown University,false
-Edmond Sumner,/players/s/sumneed01.html,2018,2019,Xavier University,true
-Barry Sumpter,/players/s/sumptba01.html,1989,1989,"University of Louisville, Austin Peay State University",false
-Bruno Sundov,/players/s/sundobr01.html,1999,2005,,false
-Jon Sundvold,/players/s/sundvjo01.html,1984,1992,University of Missouri,false
-Bob Sura,/players/s/surabo01.html,1996,2005,Florida State University,false
-Dane Suttle,/players/s/suttlda01.html,1984,1985,Pepperdine University,false
-Greg Sutton,/players/s/suttogr01.html,1992,1996,Oral Roberts University,false
-Caleb Swanigan,/players/s/swanica01.html,2018,2019,Purdue University,true
-Mike Sweetney,/players/s/sweetmi01.html,2004,2007,Georgetown University,false
+Jared Sullinger,/players/s/sullija01.html,2013,2017,Ohio State,true
+DaJuan Summers,/players/s/summeda01.html,2010,2013,Georgetown,false
+Edmond Sumner,/players/s/sumneed01.html,2018,2019,Xavier,true
+Barry Sumpter,/players/s/sumptba01.html,1989,1989,"Louisville, Austin Peay State University",false
+Bruno Šundov,/players/s/sundobr01.html,1999,2005,,false
+Jon Sundvold,/players/s/sundvjo01.html,1984,1992,Missouri,false
+Bob Sura,/players/s/surabo01.html,1996,2005,Florida State,false
+Dane Suttle,/players/s/suttlda01.html,1984,1985,Pepperdine,false
+Greg Sutton,/players/s/suttogr01.html,1992,1996,Oral Roberts,false
+Caleb Swanigan,/players/s/swanica01.html,2018,2019,Purdue,true
+Mike Sweetney,/players/s/sweetmi01.html,2004,2007,Georgetown,false
 Robert Swift,/players/s/swiftro01.html,2005,2009,,false
-Stromile Swift,/players/s/swiftst01.html,2001,2009,Louisiana State University,false
-Aaron Swinson,/players/s/swinsaa01.html,1995,1995,Auburn University,false
+Stromile Swift,/players/s/swiftst01.html,2001,2009,LSU,false
+Aaron Swinson,/players/s/swinsaa01.html,1995,1995,Auburn,false
 Pape Sy,/players/s/sypa01.html,2011,2011,,false
-Larry Sykes,/players/s/sykesla01.html,1996,1996,Xavier University,false
+Larry Sykes,/players/s/sykesla01.html,1996,1996,Xavier,false
 Brett Szabo,/players/s/szabobr01.html,1997,1997,Augustana College (SD),false
 Wally Szczerbiak,/players/s/szczewa02.html,2000,2009,Miami University,false

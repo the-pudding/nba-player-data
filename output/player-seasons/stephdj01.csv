@@ -1,2 +1,7 @@
-name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team
-D.J. Stephens,/players/s/stephdj01.html,2014,2014,University of Memphis,false,"Harker Heights in Harker Heights, Texas",-0.22,0.02,stephdj01,2013-14,MIL,16.1,0.0,.067,-17.7,-0.1,,23,NBA,3,5.0,.429,1.000,1.7,0.0,0.0,0.0,2.3,MIL
+name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,University of Memphis,true,"Harker Heights in Harker Heights, Texas",-0.22,0.02,stephdj01,2013-14,MIL,16.1,0.0,.067,-17.7,-0.1,,23,NBA,3,5.0,.429,1.000,1.7,0.0,0.0,0.0,2.3,MIL,
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,University of Memphis,true,"Harker Heights in Harker Heights, Texas",,,stephdj01,2014-15,Did Not Play,,,,,,,24,,,,,,,,,,,Did Not Play,
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,University of Memphis,true,"Harker Heights in Harker Heights, Texas",,,stephdj01,2015-16,Did Not Play,,,,,,,25,,,,,,,,,,,Did Not Play,
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,University of Memphis,true,"Harker Heights in Harker Heights, Texas",,,stephdj01,2016-17,Did Not Play,,,,,,,26,NBA,,,,,,,,,,Did Not Play,35000
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,University of Memphis,true,"Harker Heights in Harker Heights, Texas",,,stephdj01,2017-18,Did Not Play,,,,,,,27,,,,,,,,,,,Did Not Play,
+D.J. Stephens,/players/s/stephdj01.html,2014,2019,University of Memphis,true,"Harker Heights in Harker Heights, Texas",,,stephdj01,2018-19,MEM,5.5,0.0,-0.119,-7.6,0.0,,28,NBA,1,7.0,.500,,0.0,0.0,1.0,0.0,2.0,MEM,

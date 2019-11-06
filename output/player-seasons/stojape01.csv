@@ -1,14 +1,14 @@
 name,link,year_from,year_to,college,active,HS,PIPM,Wins Added,bbrID,Season,Tm,PER,WS,WS/48,BPM,VORP,Award,Age,Lg,G,MP,FG%,FT%,TRB,AST,STL,BLK,PTS,Team,Salary
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,-1.47,0.57,stojape01,1998-99,SAC,13.5,1.7,.081,-1.0,0.2,,21,NBA,48,21.4,.378,.851,3.0,1.5,0.9,0.1,8.4,SAC,
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,-0.40,2.37,stojape01,1999-00,SAC,16.3,4.8,.133,0.4,1.1,,22,NBA,74,23.6,.448,.882,3.7,1.4,0.7,0.1,11.9,SAC,1310400
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+1.08,7.40,stojape01,2000-01,SAC,18.4,10.1,.168,2.5,3.2,,23,NBA,75,38.7,.470,.856,5.8,2.2,1.2,0.2,20.4,SAC,1480000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+0.82,6.29,stojape01,2001-02,SAC,19.3,9.9,.179,2.7,3.2,,24,NBA,71,37.3,.484,.876,5.3,2.5,1.1,0.2,21.2,SAC,5000000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+2.60,9.80,stojape01,2002-03,SAC,19.6,10.1,.199,3.1,3.1,,25,NBA,72,34.0,.481,.875,5.5,2.0,1.0,0.1,19.2,SAC,5625000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+2.29,11.76,stojape01,2003-04,SAC,21.8,13.5,.198,3.7,4.7,All-NBA (2nd),26,NBA,81,40.3,.480,.927,6.3,2.1,1.3,0.2,24.2,SAC,6250000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+0.02,4.26,stojape01,2004-05,SAC,17.3,7.3,.137,1.3,2.1,,27,NBA,66,38.4,.444,.920,4.3,2.1,1.2,0.2,20.1,SAC,6875000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+0.42,4.84,stojape01,2005-06,TOT,16.7,8.0,.147,1.2,2.1,,28,NBA,71,36.6,.437,.915,5.8,1.9,0.6,0.1,18.2,"SAC,IND",7500000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,-0.01,0.65,stojape01,2006-07,NOK,15.8,0.9,.100,-1.9,0.0,,29,NBA,13,32.7,.423,.816,4.2,0.8,0.6,0.3,17.8,NOK,10800000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+1.60,8.20,stojape01,2007-08,NOH,15.7,8.1,.144,1.8,2.6,,30,NBA,77,35.2,.440,.929,4.3,1.2,0.7,0.1,16.4,NOH,11664000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,-0.26,3.08,stojape01,2008-09,NOH,12.5,3.8,.087,-0.6,0.7,,31,NBA,61,34.2,.399,.894,4.3,1.2,0.9,0.0,13.3,NOH,12528000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+0.04,3.05,stojape01,2009-10,NOH,12.4,2.7,.067,-1.0,0.5,,32,NBA,62,31.4,.404,.897,3.7,1.5,0.8,0.1,12.6,NOH,13392000
-Peja Stojakovic,/players/s/stojape01.html,1999,2011,,false,,+0.48,1.79,stojape01,2010-11,TOT,15.2,1.6,.126,0.6,0.4,,33,NBA,33,18.7,.441,.920,2.3,0.9,0.4,0.1,8.5,"NOH,TOR,DAL",14896000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,1998-99,SAC,13.5,1.7,.081,-1.0,0.2,,21,NBA,48,21.4,.378,.851,3.0,1.5,0.9,0.1,8.4,SAC,
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,1999-00,SAC,16.3,4.8,.133,0.4,1.1,,22,NBA,74,23.6,.448,.882,3.7,1.4,0.7,0.1,11.9,SAC,1310400
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2000-01,SAC,18.4,10.1,.168,2.5,3.2,,23,NBA,75,38.7,.470,.856,5.8,2.2,1.2,0.2,20.4,SAC,1480000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2001-02,SAC,19.3,9.9,.179,2.7,3.2,,24,NBA,71,37.3,.484,.876,5.3,2.5,1.1,0.2,21.2,SAC,5000000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2002-03,SAC,19.6,10.1,.199,3.1,3.1,,25,NBA,72,34.0,.481,.875,5.5,2.0,1.0,0.1,19.2,SAC,5625000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2003-04,SAC,21.8,13.5,.198,3.7,4.7,All-NBA (2nd),26,NBA,81,40.3,.480,.927,6.3,2.1,1.3,0.2,24.2,SAC,6250000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2004-05,SAC,17.3,7.3,.137,1.3,2.1,,27,NBA,66,38.4,.444,.920,4.3,2.1,1.2,0.2,20.1,SAC,6875000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2005-06,TOT,16.7,8.0,.147,1.2,2.1,,28,NBA,71,36.6,.437,.915,5.8,1.9,0.6,0.1,18.2,"SAC,IND",7500000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2006-07,NOK,15.8,0.9,.100,-1.9,0.0,,29,NBA,13,32.7,.423,.816,4.2,0.8,0.6,0.3,17.8,NOK,10800000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2007-08,NOH,15.7,8.1,.144,1.8,2.6,,30,NBA,77,35.2,.440,.929,4.3,1.2,0.7,0.1,16.4,NOH,11664000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2008-09,NOH,12.5,3.8,.087,-0.6,0.7,,31,NBA,61,34.2,.399,.894,4.3,1.2,0.9,0.0,13.3,NOH,12528000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2009-10,NOH,12.4,2.7,.067,-1.0,0.5,,32,NBA,62,31.4,.404,.897,3.7,1.5,0.8,0.1,12.6,NOH,13392000
+Peja Stojaković,/players/s/stojape01.html,1999,2011,,false,,,,stojape01,2010-11,TOT,15.2,1.6,.126,0.6,0.4,,33,NBA,33,18.7,.441,.920,2.3,0.9,0.4,0.1,8.5,"NOH,TOR,DAL",14896000

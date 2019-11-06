@@ -146,7 +146,7 @@ function getSalaryStats(html) {
 
 function getContractStats(html) {
 	// TODO replace each time if needed
-	const Season = '2017-18';
+	const Season = '2018-19';
 	if (!html) return [];
 	const $ = cheerio.load(html);
 	const $table = $('table');
@@ -320,7 +320,17 @@ function getSeasons(player, i) {
 
 data.forEach(getSeasons);
 
-shell.exec(
-	'csvstack output/player-seasons/*.csv > output/player-seasons--all.csv',
-	{ silent: true }
-);
+// join
+const all = [];
+data.forEach(d => {
+	const tempID = d.link.replace('/players/', '').replace('.html', '');
+	const bbrID = tempID.split('/')[1];
+	const temp = d3.csvParse(
+		fs.readFileSync(`./output/player-seasons/${bbrID}.csv`, 'utf8')
+	);
+	all.push(...temp);
+});
+
+const output = d3.csvFormat(all);
+fs.writeFileSync('./output/player-seasons--all.csv', output);
+
